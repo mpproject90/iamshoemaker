@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-26T08:31:22.784728+00:00",
+  "last_updated": "2026-04-26T08:34:15.087151+00:00",
   "bulletins": [
     {
       "id": "wk17-2026",
@@ -7,8 +7,8 @@
       "year": 2026,
       "date_from": "2026-04-20",
       "date_to": "2026-04-26",
-      "published": "2026-04-26T08:31:22.784614+00:00",
-      "intro": "Week 17 lands with an unusual tension: macro growth projections for athletic footwear running headlong into softening U.S. consumer sentiment, while Hermès quietly posts another quarter that reminds everyone why vertical integration and craft-based capacity are not nostalgia — they are strategy. The tariff overhang continues to reshape sourcing calculus even where it goes unspoken. Read carefully between the lines this week.",
+      "published": "2026-04-26T08:34:15.086975+00:00",
+      "intro": "Week 17 brings a familiar tension: the macro numbers point up while consumer sentiment points sideways. Hermès is building factories and posting leather growth while athletic footwear loses ground in U.S. surveys — a bifurcation that sourcing teams need to read carefully before committing Q3 capacity. The week's signal is not in any single headline but in the gap between where the money is flowing and where the consumer is actually standing.",
       "articles": [
         {
           "title": "Athletic Footwear Industry Is Racing Toward $269 Bn - vocal.media",
@@ -17,7 +17,7 @@
           "category": "Retail",
           "relevance_score": 9,
           "original_publish_time": "2026-04-19T23:27:56+00:00",
-          "misaki_take": "A $269B headline number is a planning horizon, not a guarantee — brands that lock in sourcing capacity and material commitments now, at current FOB rates, will capture margin that latecomers will pay a premium to chase. The more useful question is which manufacturing corridors have the capacity infrastructure to scale into that volume without compressing quality or delivery windows."
+          "misaki_take": "Market-size projections at this scale are useful for investor decks but dangerous for capacity planning — the compound growth assumptions rarely survive a tariff cycle or a consumer confidence dip intact. The more operationally relevant question is where within athletic footwear the growth accrues, because FOB pricing strategy in Vietnam looks very different if you are chasing performance running versus value-tier court shoes."
         },
         {
           "title": "Vans’ Next Vibram-Soled Skate Shoe Is Part Frog",
@@ -35,7 +35,7 @@
           "category": "Supply Chain",
           "relevance_score": 6,
           "original_publish_time": "2026-04-24T09:53:42+00:00",
-          "misaki_take": "Consumer survey softness in athletic footwear typically leads order book reductions by six to nine months, which means Q3 and Q4 2026 FOB commitments are the ones to watch for cancellation risk or volume renegotiation. Factories in Vietnam and Indonesia that over-indexed on U.S. athletic accounts through 2025 should already be diversifying their customer mix."
+          "misaki_take": "Consumer softness in the U.S. athletic channel, even at the survey level, is the kind of leading indicator that should trigger a conversation with your 3PL about inventory positioning before it shows up in your 90-day sell-through data. Brands that over-committed FOB orders in Q1 on optimistic athletic demand projections are now looking at markdown pressure that will compress the very margins they were protecting."
         },
         {
           "title": "Brazilian footwear industry outlook points to stability in 2026 - World Footwear",
@@ -44,7 +44,7 @@
           "category": "Retail",
           "relevance_score": 6,
           "original_publish_time": "2026-04-23T23:03:28+00:00",
-          "misaki_take": "Stability in Brazil's context means the domestic-export balance is holding, not that the industry is accelerating — and for sourcing managers, Brazil remains structurally underutilized as a near-shore option for leather dress and comfort footwear targeting North American markets. The real opportunity is for brands paying attention while everyone else is fixated on Southeast Asia."
+          "misaki_take": "Stability in Brazil reads differently depending on which side of the supply chain you sit on — domestic manufacturers will take it as a floor, but international brands sourcing leather components from Brazilian tanneries should note that currency volatility remains the wild card that stability forecasts consistently underweight. If your USD-denominated leather contracts are renewing in H2, the exchange rate assumptions in your costing sheets deserve a second look right now."
         },
         {
           "title": "Hermès Opens 25th Leather Goods Workshop to Expand Production and Create 260 Jobs",
@@ -53,7 +53,7 @@
           "category": "Leather",
           "relevance_score": 5,
           "original_publish_time": "2026-04-25T08:15:58+00:00",
-          "misaki_take": "Twenty-five workshops in France is not a PR move — it is a decades-long compounding of artisan capacity that cannot be replicated by a competitor in a three-year strategic plan, and that is precisely the point. Every new site deepens the moat: trained hands, regional supply relationships, and a production story that justifies price points no other brand can credibly defend."
+          "misaki_take": "Opening a 25th French atelier is not an act of nostalgia — it is a deliberate capacity hedge against demand that Hermès has structurally chosen not to meet through speed, but through scarcity management and artisan development cycles that take years to mature. For the broader leather goods industry, this signals that the premium tier is betting on France-origin provenance as a long-term pricing moat, which will continue to pressure mid-tier brands trying to justify European leather sourcing on thinner margins."
         },
         {
           "title": "New Balance & Dover Street Market's Head-to-Toe Running Capsule Is Ready to Race",
@@ -62,7 +62,7 @@
           "category": "Sustainability",
           "relevance_score": 5,
           "original_publish_time": "2026-04-24T18:23:42+00:00",
-          "misaki_take": "A carbon plate PEBA construction released through a single premium retailer is a precision instrument for protecting margin and managing volume — New Balance continues to show the industry how to use limited distribution as a pricing lever without alienating the core consumer. The technical spec here is real, which separates this from pure hype positioning and gives it longer shelf life in the market."
+          "misaki_take": "Carbon fiber plate construction paired with PEBA foam at the exclusive retail tier is now table stakes for credible performance positioning, and the DSM distribution channel keeps volumes tight enough that NB avoids the margin erosion that comes with scaling technical materials. The operational lesson here is that limited-distribution performance collabs are one of the few places where you can absorb premium component costs without the FOB math turning punishing."
         },
         {
           "title": "Hermès Reports €4.1 Billion Q1 Revenue with €1.8 Billion Coming from Leather Goods",
@@ -71,7 +71,7 @@
           "category": "Leather",
           "relevance_score": 5,
           "original_publish_time": "2026-04-21T07:16:08+00:00",
-          "misaki_take": "A 9.4% growth rate in leather goods against a €290M currency headwind is the kind of number that should end internal debates about whether craft-positioned leather categories are worth protecting from cost-cutting pressure. The currency drag also underscores why Hermès structures production in euros and sells globally — their cost base and their brand story are both anchored in France, and that alignment is not accidental."
+          "misaki_take": "Leather Goods growing at 9.4% while a €290 million currency headwind suppresses the headline number tells you the underlying demand for controlled-scarcity hard luxury is holding — and that Hermès' vertical integration in tannery and atelier operations is functioning as a genuine currency buffer at the gross margin line. Any sourcing executive still treating leather goods as a low-complexity category should sit with that €1.84 billion segment figure for a moment."
         },
         {
           "title": "This is the Short Story of Nike's Original Rule-Breaking Jordan Sneaker",
@@ -80,7 +80,7 @@
           "category": "Retail",
           "relevance_score": 4,
           "original_publish_time": "2026-04-25T19:55:32+00:00",
-          "misaki_take": "The Air Jordan 1 Retro franchise continues to function as Nike's most reliable margin-positive SKU precisely because the origin narrative does the marketing work and the retro production tooling is amortized across decades of rereleases. For competitors watching from the sidelines, the lesson is that archive depth is a sourcing and financial asset, not just a cultural one."
+          "misaki_take": "The Air Jordan retro machine is one of the most efficient demand-generation mechanisms in footwear precisely because the tooling amortization on heritage silhouettes is negligible compared to new product development costs, and the cultural narrative does the marketing work. The risk Nike carries is archive fatigue — retro cycles that compress too tightly start to cannibalize each other's sell-through, which puts pressure back on the factory allocation side when demand reads become unreliable."
         },
         {
           "title": "Nike’s Slip-on Running Sneaker Is All Flex",
