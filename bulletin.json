@@ -1,4 +1,106 @@
 {
-  "last_updated": "",
-  "bulletins": []
+  "last_updated": "2026-04-26T08:31:22.784728+00:00",
+  "bulletins": [
+    {
+      "id": "wk17-2026",
+      "week_number": 17,
+      "year": 2026,
+      "date_from": "2026-04-20",
+      "date_to": "2026-04-26",
+      "published": "2026-04-26T08:31:22.784614+00:00",
+      "intro": "Week 17 lands with an unusual tension: macro growth projections for athletic footwear running headlong into softening U.S. consumer sentiment, while Hermès quietly posts another quarter that reminds everyone why vertical integration and craft-based capacity are not nostalgia — they are strategy. The tariff overhang continues to reshape sourcing calculus even where it goes unspoken. Read carefully between the lines this week.",
+      "articles": [
+        {
+          "title": "Athletic Footwear Industry Is Racing Toward $269 Bn - vocal.media",
+          "source_name": "Google News - Footwear Industry",
+          "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWlNmT0pkdmxibVl0bnlGa3pud1V6YkxsRlZjUjdGRnh0a0E3TC1fMjE4SThBQXExb3dzUklvWmhxY2RVb2RIV3htanZnZk1nMHNLcHJPN0R2UmthdHFPUEt1QVlqVDdQWWh5U2FHbWhxcDBmODhnelhDaHRBWHpOQ28xT2Y?oc=5",
+          "category": "Retail",
+          "relevance_score": 9,
+          "original_publish_time": "2026-04-19T23:27:56+00:00",
+          "misaki_take": "A $269B headline number is a planning horizon, not a guarantee — brands that lock in sourcing capacity and material commitments now, at current FOB rates, will capture margin that latecomers will pay a premium to chase. The more useful question is which manufacturing corridors have the capacity infrastructure to scale into that volume without compressing quality or delivery windows."
+        },
+        {
+          "title": "Vans’ Next Vibram-Soled Skate Shoe Is Part Frog",
+          "source_name": "Highsnobiety",
+          "source_url": "https://www.highsnobiety.com/p/vans-otw-authentic-siped-vibram-amphibian/",
+          "category": "Retail",
+          "relevance_score": 7,
+          "original_publish_time": "2026-04-25T19:59:20+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "Athletic footwear loses ground in U.S. survey - Sporting Goods Intelligence Europe",
+          "source_name": "Google News - Footwear Industry",
+          "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOV3VaRlItNnB5VE55eWpZczVINmg2MGItZFA0b1Rjb0JVeUlMMEpNOXlBcEtMV1phclh1YmpTajEyM1hLaWNIZkVESTU4NjQ4d1ZHTUVnRjRUZ2pHX2JLQlRJQW5OMFFmbndqdDlOZjM5WVk3VFhPVGV5MlAxN19vZDN3djN6X21JRlN5ZkRiM2hwN1hselVxSg?oc=5",
+          "category": "Supply Chain",
+          "relevance_score": 6,
+          "original_publish_time": "2026-04-24T09:53:42+00:00",
+          "misaki_take": "Consumer survey softness in athletic footwear typically leads order book reductions by six to nine months, which means Q3 and Q4 2026 FOB commitments are the ones to watch for cancellation risk or volume renegotiation. Factories in Vietnam and Indonesia that over-indexed on U.S. athletic accounts through 2025 should already be diversifying their customer mix."
+        },
+        {
+          "title": "Brazilian footwear industry outlook points to stability in 2026 - World Footwear",
+          "source_name": "Google News - Footwear Industry",
+          "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeF9YYXVUejdRNG1Xd2xpcnF3Z1lMRHVXMUhOS1Nfa2FLZk44Wmx4YmJVRDBxZ005amQ4OXNOeGlJWDk2YkFTbzlULVhXNWdSdlFqa1ZqWXlpS3RUWVloZUcyTnNFSGpjRXF6Mmo2MXVaNXV5LWNULXhrVmRUYzZlY3RlSkU0cmEyWGdrdEhOR0lzMlNGNGVrYnVwaDZlYnVVb0NOTlUxZHdSSGw2R0E?oc=5",
+          "category": "Retail",
+          "relevance_score": 6,
+          "original_publish_time": "2026-04-23T23:03:28+00:00",
+          "misaki_take": "Stability in Brazil's context means the domestic-export balance is holding, not that the industry is accelerating — and for sourcing managers, Brazil remains structurally underutilized as a near-shore option for leather dress and comfort footwear targeting North American markets. The real opportunity is for brands paying attention while everyone else is fixated on Southeast Asia."
+        },
+        {
+          "title": "Hermès Opens 25th Leather Goods Workshop to Expand Production and Create 260 Jobs",
+          "source_name": "Leather News",
+          "source_url": "https://leathernews.org/hermes-opens-25th-leather-goods-workshop-to-expand-production-and-create-260-jobs/",
+          "category": "Leather",
+          "relevance_score": 5,
+          "original_publish_time": "2026-04-25T08:15:58+00:00",
+          "misaki_take": "Twenty-five workshops in France is not a PR move — it is a decades-long compounding of artisan capacity that cannot be replicated by a competitor in a three-year strategic plan, and that is precisely the point. Every new site deepens the moat: trained hands, regional supply relationships, and a production story that justifies price points no other brand can credibly defend."
+        },
+        {
+          "title": "New Balance & Dover Street Market's Head-to-Toe Running Capsule Is Ready to Race",
+          "source_name": "Hypebeast",
+          "source_url": "https://hypebeast.com/2026/4/new-balance-dover-street-markets-head-to-toe-running-capsule-is-ready-to-race",
+          "category": "Sustainability",
+          "relevance_score": 5,
+          "original_publish_time": "2026-04-24T18:23:42+00:00",
+          "misaki_take": "A carbon plate PEBA construction released through a single premium retailer is a precision instrument for protecting margin and managing volume — New Balance continues to show the industry how to use limited distribution as a pricing lever without alienating the core consumer. The technical spec here is real, which separates this from pure hype positioning and gives it longer shelf life in the market."
+        },
+        {
+          "title": "Hermès Reports €4.1 Billion Q1 Revenue with €1.8 Billion Coming from Leather Goods",
+          "source_name": "Leather News",
+          "source_url": "https://leathernews.org/hermes-reports-e4-1-billion-q1-revenue-with-e1-8-billion-coming-from-leather-goods/",
+          "category": "Leather",
+          "relevance_score": 5,
+          "original_publish_time": "2026-04-21T07:16:08+00:00",
+          "misaki_take": "A 9.4% growth rate in leather goods against a €290M currency headwind is the kind of number that should end internal debates about whether craft-positioned leather categories are worth protecting from cost-cutting pressure. The currency drag also underscores why Hermès structures production in euros and sells globally — their cost base and their brand story are both anchored in France, and that alignment is not accidental."
+        },
+        {
+          "title": "This is the Short Story of Nike's Original Rule-Breaking Jordan Sneaker",
+          "source_name": "Highsnobiety",
+          "source_url": "https://www.highsnobiety.com/p/jordan-1-low-banned-sneakers-2026/",
+          "category": "Retail",
+          "relevance_score": 4,
+          "original_publish_time": "2026-04-25T19:55:32+00:00",
+          "misaki_take": "The Air Jordan 1 Retro franchise continues to function as Nike's most reliable margin-positive SKU precisely because the origin narrative does the marketing work and the retro production tooling is amortized across decades of rereleases. For competitors watching from the sidelines, the lesson is that archive depth is a sourcing and financial asset, not just a cultural one."
+        },
+        {
+          "title": "Nike’s Slip-on Running Sneaker Is All Flex",
+          "source_name": "Highsnobiety",
+          "source_url": "https://www.highsnobiety.com/p/nike-flex-runner-4-sneakers/",
+          "category": "Retail",
+          "relevance_score": 4,
+          "original_publish_time": "2026-04-25T18:35:14+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "Kobe Bryant’s Latest ‘Mambacita’ Tribute Sneakers Will Be Released Soon",
+          "source_name": "Footwear News",
+          "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-kobe-3-protro-low-mambacita-release-date-iq3916-100-1238928554/",
+          "category": "Retail",
+          "relevance_score": 4,
+          "original_publish_time": "2026-04-24T16:08:09+00:00",
+          "misaki_take": ""
+        }
+      ]
+    }
+  ]
 }
