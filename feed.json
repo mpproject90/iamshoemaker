@@ -1,8 +1,29 @@
 {
-  "last_updated": "2026-04-26T08:26:37.692800+00:00",
-  "total_articles": 36,
-  "sources_checked": 60,
+  "last_updated": "2026-04-26T11:50:36.623089+00:00",
+  "total_articles": 37,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "7f3d6bce06a8",
+      "title": "New Balance’s Most Advanced Dad Shoe Is For Dads of the Future",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/new-balance-1890-dark-silver-metallic/",
+      "original_publish_time": "2026-04-26T08:20:02+00:00",
+      "scraped_time": "2026-04-26T11:43:26.253367+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "New Balance"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "The New Balance 1890 Dark Silver Metallic perfectly frames the engineered upper as the dad shoe of the future.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "7524331aecbd",
       "title": "There’s a Snake in My Crocs: Disney x Pixar x Crocs Debut Structural ‘Toy Story 5’ Collab",
