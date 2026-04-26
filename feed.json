@@ -1,6 +1,550 @@
 {
-  "last_updated": "2026-01-01T00:00:00+00:00",
-  "total_articles": 0,
-  "sources_checked": 0,
-  "articles": []
+  "last_updated": "2026-04-26T06:11:22.896346+00:00",
+  "total_articles": 27,
+  "sources_checked": 11,
+  "articles": [
+    {
+      "id": "5773fcdb6e62",
+      "title": "The Nike Shox R4 Offers A Steely Front For Spring",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/04/25/nike-shox-r4-light-smoke-grey-white-black-hq1988-011/",
+      "original_publish_time": "2026-04-26T00:00:54+00:00",
+      "scraped_time": "2026-04-26T06:10:18.374622+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "Much as the “if it ain’t broke, don’t fix it” methodology often pays off in sneakers, sometimes opting for the Costanza method instead can be... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Nike Shox R4 Offers A Steely Front For Spring appeared first on Sneaker News . The post The Nike Shox R4 Offers A Steely Front For Spring appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "836c9bb76681",
+      "title": "The New Balance 2000 Gears Up For Grey Days In “Truffle Salt”",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/04/25/new-balance-abzorb-2000-truffle-salt-u20008lr/",
+      "original_publish_time": "2026-04-25T20:00:39+00:00",
+      "scraped_time": "2026-04-26T06:10:18.377100+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "New Balance"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "Barring any unexpected breaks from tradition, New Balance will soon celebrate Grey Days with a month of grey-tinged takes on the brand’s foremost lifestyle sneakers... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The New Balance 2000 Gears Up For Grey Days In \"Truffle Salt\" appeared first on Sneaker News . The post The New Balance 2000 Gears Up For Grey Days In “Truffle Salt” appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "399b381a8290",
+      "title": "E-commerce Footwear Market Booms with Online Retail Expansion and Forecast to 2033 - openPR.com",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOV0NfanJVVE5PSDdXc2hRS1FBZ3lqLWpyWVIwamgwdnZrQmlLTlVRU0JVMEVfUlAtNVF1NF9CRXcxNWRsbkN5cjd0QlVmLV96c0dLNDkyUnhqSWl1MzB1bmNOTFExZFZ5cXlVX0lOdTVRUHloejRrakJTcno5Smc5VnpVaEJ1RXprWUhBRTROV0NZemMzQVVKMTJfeWRUUQ?oc=5",
+      "original_publish_time": "2026-04-25T16:19:37+00:00",
+      "scraped_time": "2026-04-26T06:11:19.790973+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "E-commerce Footwear Market Booms with Online Retail Expansion and Forecast to 2033 openPR.com",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "250792e9d585",
+      "title": "This New StockX Feature Makes Sneakers Like Actual Stocks",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/04/25/store-at-stockx/",
+      "original_publish_time": "2026-04-25T14:47:32+00:00",
+      "scraped_time": "2026-04-26T06:10:18.380551+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "StockX just took a step forward in blurring the line between sneakers and financial assets with its latest feature: Store at StockX. At its core,... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post This New StockX Feature Makes Sneakers Like Actual Stocks appeared first on Sneaker News . The post This New StockX Feature Makes Sneakers Like Actual Stocks appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "e0aa4225c286",
+      "title": "Hermès Opens 25th Leather Goods Workshop to Expand Production and Create 260 Jobs",
+      "source_name": "Leather News",
+      "source_domain": "leathernews.org",
+      "source_url": "https://leathernews.org/hermes-opens-25th-leather-goods-workshop-to-expand-production-and-create-260-jobs/",
+      "original_publish_time": "2026-04-25T08:15:58+00:00",
+      "scraped_time": "2026-04-26T06:09:16.233525+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Hermès"
+      ],
+      "keywords_matched": [
+        "leather goods"
+      ],
+      "relevance_score": 5,
+      "summary": "Hermès has opened a new leather goods workshop in Loupes, Gironde in France, to expand its production capacity and strengthen its regional presence. The site will employ 260 artisans. This is the brand’s 25th leather goods site in France and its sixth in the Nouvelle-Aquitaine region. Hermès continues to invest in the leather goods and ... Read more",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "f845c24bd882",
+      "title": "Rockport Brings Dr. J’s Basketball Legacy to Life in New AI-Driven Campaign",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/rockport-dr-j-campaign-ai-basketball-1238929344/",
+      "original_publish_time": "2026-04-24T20:51:20+00:00",
+      "scraped_time": "2026-04-26T06:09:14.764957+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Rockport",
+        "Authentic Brands"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "This is the latest from Rockport since it was scooped up by Authentic Brands Group in 2023.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "02615e7cac64",
+      "title": "New Balance & Dover Street Market's Head-to-Toe Running Capsule Is Ready to Race",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/4/new-balance-dover-street-markets-head-to-toe-running-capsule-is-ready-to-race",
+      "original_publish_time": "2026-04-24T18:23:42+00:00",
+      "scraped_time": "2026-04-26T06:10:18.157739+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [
+        "New Balance"
+      ],
+      "keywords_matched": [
+        "footwear",
+        "midsole",
+        "sole"
+      ],
+      "relevance_score": 5,
+      "summary": "SummaryNew Balance and DSM debut a performance collection led by the purple SC Elite V5, featuring a carbon fiber plate and responsive PEBA midsole.The drop includes ultralight racing apparel and aerodynamic footwear, continuing a long-standing partnership focused on technical, exclusive runners available at Dover Street Market.New Balance x Dover Street Market has arrived with a running-focused collection that will have your next run covered head-to-toe.The collection is led by an exclusive New Balance SC Elite V5, a lightweight model that features a carbon fiber plate and an \"ultra-responsive \"PEBA midsole. Joining the deep purple-hued SC Elite V5 is a range of athletic apparel, including the Race Day Ultra Light T-shirt, a panelled windbreaker, and high-cut split shorts. ⁠New Balance ca",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "b1637f3e8429",
+      "title": "Kith Debuts Its First Pet Line, Featuring Shoes, Dog Bowls and More",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-trends/kith-pet-collection-wagwear-1238928476/",
+      "original_publish_time": "2026-04-24T16:45:27+00:00",
+      "scraped_time": "2026-04-26T06:09:14.767358+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "The New York brand teams up with Wagwear on its first pet collection, covering everything from rainbreakers to chew toys.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "d188d06ec403",
+      "title": "Kobe Bryant’s Latest ‘Mambacita’ Tribute Sneakers Will Be Released Soon",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-kobe-3-protro-low-mambacita-release-date-iq3916-100-1238928554/",
+      "original_publish_time": "2026-04-24T16:08:09+00:00",
+      "scraped_time": "2026-04-26T06:09:14.767837+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 4,
+      "summary": "The upgraded Nike Kobe 3 Protro Low gets a heartwarming new look.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "86aa01dc9d41",
+      "title": "FSF Debuts New Footwear-focused Scholarship in Memory of Late Neiman Marcus Shoe Buyer Steve Cross",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/steve-cross-footwear-scholarship-fsf-neiman-marcus-1238928573/",
+      "original_publish_time": "2026-04-24T15:52:46+00:00",
+      "scraped_time": "2026-04-26T06:09:14.768219+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "The goal is to raise $10,000 to support a future footwear designer.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "02822d94ee43",
+      "title": "New Arrivals From HBX: Maison Mihara Yasuhiro",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/4/new-arrivals-from-hbx-maison-mihara-yasuhiro",
+      "original_publish_time": "2026-04-24T14:30:08+00:00",
+      "scraped_time": "2026-04-26T06:10:18.159876+00:00",
+      "time_delta_mins": 0,
+      "category": "Quality",
+      "brands_mentioned": [
+        "Puma"
+      ],
+      "keywords_matched": [
+        "footwear",
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "Brand Information: Mihara Yasuhiro is a Japan-based designer who made his name in the fashion industry by creating unique footwear and partnering with global sneaker giants like PUMA. In 1994, Yasuhiro launched his first line of shoes while studying at Tama Art University. His designs were well-received and highly praised for their innovative and modern designs. Yasuhiro eventually launched his eponymous shoe label Maison Mihara Yasuhiro in 1998. As the label's genesis, Yasuhiro still plays an integral part in directing its vision and culture. Maison Mihara Yasuhiro has since diversified into menswear collections and continues to expand globally.Price Range: $235.00 USD - $1,540.00 USDWhere to Buy: Available now on HBX Click here to view full gallery at Hypebeast",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "49ef0ffa0688",
+      "title": "From Chanel to Dior, the New Creative Guard Is Leading With Shoes",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-trends/footwear-chanel-dior-loewe-define-codes-entry-sales-1238925701/",
+      "original_publish_time": "2026-04-24T12:00:00+00:00",
+      "scraped_time": "2026-04-26T06:09:14.768655+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "For the wave of recently appointed creative directors at major luxury brands, shoes are emerging as a decisive calling card — uniting creative identity with real retail impact.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "2ebc7de0f786",
+      "title": "Athletic footwear loses ground in U.S. survey - Sporting Goods Intelligence Europe",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOV3VaRlItNnB5VE55eWpZczVINmg2MGItZFA0b1Rjb0JVeUlMMEpNOXlBcEtMV1phclh1YmpTajEyM1hLaWNIZkVESTU4NjQ4d1ZHTUVnRjRUZ2pHX2JLQlRJQW5OMFFmbndqdDlOZjM5WVk3VFhPVGV5MlAxN19vZDN3djN6X21JRlN5ZkRiM2hwN1hselVxSg?oc=5",
+      "original_publish_time": "2026-04-24T09:53:42+00:00",
+      "scraped_time": "2026-04-26T06:11:19.791507+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "athletic footwear",
+        "footwear"
+      ],
+      "relevance_score": 6,
+      "summary": "Athletic footwear loses ground in U.S. survey Sporting Goods Intelligence Europe",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "3206b808486e",
+      "title": "Sun and Sea Come Together on This Summer-Ready Nike Dunk Low",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/4/dc-studios-tom-rhys-harries-clayface-trailer-stream-nike-dunk-low-sail-hydrogen-blue-ih2479-100-official-images",
+      "original_publish_time": "2026-04-24T03:37:07+00:00",
+      "scraped_time": "2026-04-26T06:10:18.147315+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "footwear",
+        "upper"
+      ],
+      "relevance_score": 4,
+      "summary": "Name: Nike Dunk Low “Sail/Hydrogen Blue”Colorway: Sail/Hydrogen Blue-Sail-Work BlueSKU: IH2479-100MSRP: $120 USDRelease Date: 2026Nike is bringing an expressive twist to a timeless basketball icon with the upcoming Nike Women's Dunk Low SE in \"Sail/Hydrogen Blue.\" Showcasing a balanced aesthetic, the latest addition to the brand's expansive footwear catalog blends heritage 1980s design with soft, modern color tones tailored for versatile everyday styling.Constructed for longevity and comfort, the sneaker features a premium upper crafted from a mix of real and synthetic leather. The exterior is specifically designed to soften over time, allowing the materials to naturally develop a unique vintage character with continued wear. A clean Sail base sets the foundation, which is seamlessly eleva",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "a0342b60c7eb",
+      "title": "Brazilian footwear industry outlook points to stability in 2026 - World Footwear",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeF9YYXVUejdRNG1Xd2xpcnF3Z1lMRHVXMUhOS1Nfa2FLZk44Wmx4YmJVRDBxZ005amQ4OXNOeGlJWDk2YkFTbzlULVhXNWdSdlFqa1ZqWXlpS3RUWVloZUcyTnNFSGpjRXF6Mmo2MXVaNXV5LWNULXhrVmRUYzZlY3RlSkU0cmEyWGdrdEhOR0lzMlNGNGVrYnVwaDZlYnVVb0NOTlUxZHdSSGw2R0E?oc=5",
+      "original_publish_time": "2026-04-23T23:03:28+00:00",
+      "scraped_time": "2026-04-26T06:11:19.790029+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "footwear industry"
+      ],
+      "relevance_score": 6,
+      "summary": "Brazilian footwear industry outlook points to stability in 2026 World Footwear",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "02d5e37a8f7f",
+      "title": "Vietnam and India Seminar Boosts Leather and Footwear Ties",
+      "source_name": "Leather News",
+      "source_domain": "leathernews.org",
+      "source_url": "https://leathernews.org/vietnam-and-india-seminar-boosts-leather-and-footwear-ties/",
+      "original_publish_time": "2026-04-23T19:14:45+00:00",
+      "scraped_time": "2026-04-26T06:09:16.234347+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "The Vietnam Trade Office in India held an online seminar on April 22, 2026 to boost cooperation in the leather, footwear and textile sectors between Vietnam and India. The event brought together industry bodies, businesses and research groups from both countries to explore partnerships and value chain integration. Vietnam’s Trade Counsellor to India Bui Trung ... Read more",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "0c7f843a32ad",
+      "title": "Fourth Worker Dies Days After Tannery Accident in Germany Raising Death Toll to Four",
+      "source_name": "Leather News",
+      "source_domain": "leathernews.org",
+      "source_url": "https://leathernews.org/fourth-worker-dies-days-after-tannery-accident-in-germany-raising-death-toll-to-four/",
+      "original_publish_time": "2026-04-23T18:23:39+00:00",
+      "scraped_time": "2026-04-26T06:09:16.235145+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "tannery"
+      ],
+      "relevance_score": 3,
+      "summary": "A 35 year old man, one of the two workers who were injured after a tannery accident on 16 April 2026 in Runkel, Hesse, Germany, where three people died, also died on Wednesday, 22 April 2026, raising the death toll to four, police confirmed, according to local media reports. The accident happened at a tannery ... Read more",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "5e56b8b83aee",
+      "title": "Nike Debuts the Air Max 95 Total 90 in a Striking \"Metallic Gold\" Colorway",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/4/nike-air-max-95-total-90-metallic-gold-iv2872-707-release-info",
+      "original_publish_time": "2026-04-23T09:48:44+00:00",
+      "scraped_time": "2026-04-26T06:10:18.149139+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 3,
+      "summary": "Name: Nike Air Max 95 Total 90 “Metallic Gold”Colorway: Metallic GoldSKU: IV2872-707MSRP: $200 USDRelease Date: Summer 2026Where to Buy: NikeNike's ongoing celebration of its early-2000s football archive is officially striking gold. Continuing its successful series that merges the iconic Air Max 95 with the legendary Total 90 boot lineage, the Swoosh has unveiled the boldest iteration yet: the Nike Air Max 95 Total 90 \"Metallic Gold.\" Treating the crossover concept as a full-fledged collection rather than a one-off experiment, this upcoming release perfectly bridges the gap between classic running DNA and nostalgic pitch-ready aesthetics.Making an immediate statement, the shoe's signature layered side panels are completely draped in a glossy metallic gold finish. The unapologetic shine of ",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "ca0b743fe988",
+      "title": "Tomica and Converse Team Up for a Unique \"Dream Tomica All Star Collection Vol.1\"",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/4/tomica-converse-dream-tomica-all-star-collection-vol-1-toy-figures",
+      "original_publish_time": "2026-04-23T09:21:19+00:00",
+      "scraped_time": "2026-04-26T06:10:18.151180+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Converse"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "SummaryTakara Tomy's imaginative \"Dream Tomica\" line is collaborating with Converse to release the \"Dream Tomica Converse All Star Collection Vol.1\" in June 2026The unique die-cast toy cars are modeled after the iconic Converse All Star sneaker, featuring a driver's seat hidden inside the shoeThe toy features a removable high-top (HI) section, allowing collectors to seamlessly switch the design and display it as a low-cut (OX) sneakerThe world of sneakers and die-cast toys is colliding in the most delightful way. Takara Tomy’s popular \"Dream Tomica\" series has officially announced a highly unique crossover with Converse, introducing the \"Dream Tomica Converse All Star Collection Vol.1.\" Reimagining the legendary Chuck Taylor All Star as a miniature, four-wheeled vehicle, this whimsical col",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "06531184e09a",
+      "title": "The BEAMS x Paraboot Corsica Loafer Boat Shoe Is Peak Prep",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/4/beams-paraboot-corsica-11320875099-release-info",
+      "original_publish_time": "2026-04-23T07:40:13+00:00",
+      "scraped_time": "2026-04-26T06:10:18.154408+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "boot",
+        "upper"
+      ],
+      "relevance_score": 4,
+      "summary": "Name: BEAMS x Paraboot CorsicaColorway: BlackSKU: 11320875099MSRP: ￥62,700 JPY (approx. $390 USD)Release Date: Available nowWhere to Buy: BEAMSBEAMS and Paraboot have joined forces to deliver an exclusive iteration of the classic Corsica. Serving as a hybrid silhouette, the collaborative model successfully merges the laid-back profile of a deck shoe with the refined structure of a traditional coin loafer.Crafted in Spain, the upper takes on a bold, asymmetric \"crazy pattern\" design that BEAMS is renowned for bringing to its collaborative projects. The shoe meticulously incorporates three distinct textures of premium cow leather across its paneling: a pebbled grain finish, a glossy smooth leather, and a soft, textural suede. This deliberate material clash adds an elevated, tactile edge to t",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "42cdc14318ab",
+      "title": "Despite Bankruptcy, QVC Footwear Is the Fastest-growing U.S. TikTok Shop - WWD",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVmp1dXN6Mk42Z3hwN3VUYWs2TTcwMnNuc3V5aFJ1MXd5dVc4aHpZTFYwLUlCTUJoSHNzMWFHR3RSbnpMNHQ0ZlhncGxveExSRTJRbmVLeE9JTEhYZHUydGIyTmZZenpMU2NhYkZPUEdDTnNVNkhFZ29LZUhrakNWWlp2SldySGVDbjl6MTVqWHVxcHJDejlteXBYelR3c19LUjFWUGhYRUVRNnRxZ2o3MEZtb1g?oc=5",
+      "original_publish_time": "2026-04-22T19:46:49+00:00",
+      "scraped_time": "2026-04-26T06:11:19.793598+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Despite Bankruptcy, QVC Footwear Is the Fastest-growing U.S. TikTok Shop WWD",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "21c6b9e1334b",
+      "title": "Canada Footwear Market Size & Outlook 2026-2034 - vocal.media",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSjliU01JdXpuTlhqUjZ2QlE5WGRIR00xVG9FbXRRbm8wQXg5WFpGTXdDSzVoTHNTOE5PZGdZTW1HbWtrc2lVMDRRYkNnZXlxTGpPNmM0WjFGLUsxQlR4VFZUSElnSlpoSHVtS2NaWHJISUNiZHNSUXB6QTlBMXczbEVR?oc=5",
+      "original_publish_time": "2026-04-22T10:30:09+00:00",
+      "scraped_time": "2026-04-26T06:11:19.792780+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Canada Footwear Market Size & Outlook 2026-2034 vocal.media",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "c59ebfcee797",
+      "title": "Kering Reports Stable Q1 2026 Revenue with Fashion and Leather Goods at €2.85 Billion",
+      "source_name": "Leather News",
+      "source_domain": "leathernews.org",
+      "source_url": "https://leathernews.org/kering-reports-stable-q1-2026-revenue-with-fashion-and-leather-goods-at-e2-85-billion/",
+      "original_publish_time": "2026-04-22T08:40:40+00:00",
+      "scraped_time": "2026-04-26T06:09:16.235976+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "leather goods"
+      ],
+      "relevance_score": 3,
+      "summary": "Kering reported revenue of €3.56 Billion in the first quarter of 2026, remaining stable on a comparable basis despite a tough global environment. The French luxury group saw mixed performance across regions and brands, with early signs of recovery led by jewelry and select fashion houses. Kering recorded a 6% decline in reported revenue year-on-year. ... Read more",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "85b10cdc511f",
+      "title": "Hermès Reports €4.1 Billion Q1 Revenue with €1.8 Billion Coming from Leather Goods",
+      "source_name": "Leather News",
+      "source_domain": "leathernews.org",
+      "source_url": "https://leathernews.org/hermes-reports-e4-1-billion-q1-revenue-with-e1-8-billion-coming-from-leather-goods/",
+      "original_publish_time": "2026-04-21T07:16:08+00:00",
+      "scraped_time": "2026-04-26T06:09:16.236958+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Hermès"
+      ],
+      "keywords_matched": [
+        "leather goods"
+      ],
+      "relevance_score": 5,
+      "summary": "Hermès reported €4.1 billion in revenue for the first quarter of 2026, up 6% at constant exchange rates but down 1% at current rates due to a €290 million currency impact. The performance reflects growth across key regions and segments. Leather Goods and Saddlery generated €1.84 billion in revenue, grew 9.4% in Q1. This segment ... Read more",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "255b621c96f1",
+      "title": "Paraguay Launches Socio-Environmental Traceability System RETSA PY to Boost Beef and Leather Exports",
+      "source_name": "Leather News",
+      "source_domain": "leathernews.org",
+      "source_url": "https://leathernews.org/paraguay-launches-socio-environmental-traceability-system-retsa-py-to-boost-beef-and-leather-exports/",
+      "original_publish_time": "2026-04-20T16:32:21+00:00",
+      "scraped_time": "2026-04-26T06:09:16.237725+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "leather exports"
+      ],
+      "relevance_score": 3,
+      "summary": "The government of Paraguay has launched RETSA PY, a new socio-environmental traceability system to strengthen its beef and leather export sectors. The initiative is led by the Ministry of Industry and Commerce and aims to improve access to global markets including the European Union. RETSA PY, short for Registry of Establishments with Socio-Environmental Traceability, focuses ... Read more",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "60bb94b3e478",
+      "title": "How French Leather Industry Spent €13.7 Billion in Imports with Asia Accounting for 50% in 2025",
+      "source_name": "Leather News",
+      "source_domain": "leathernews.org",
+      "source_url": "https://leathernews.org/how-french-leather-industry-spent-e13-7-billion-in-imports-with-asia-accounting-for-50-in-2025/",
+      "original_publish_time": "2026-04-20T04:32:00+00:00",
+      "scraped_time": "2026-04-26T06:09:16.238619+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "leather industry"
+      ],
+      "relevance_score": 3,
+      "summary": "Leather is one of the four key sectors of French imports and exports. In 2025, France’s leather industry recorded €13.7 billion in imports and €18.6 billion in exports, maintaining its position as one of the most active leather trading nations in the world with a trade surplus of €4.9 billion in 2025. Today, we will ... Read more",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "5c0d139f7b74",
+      "title": "Athletic Footwear Industry Is Racing Toward $269 Bn - vocal.media",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWlNmT0pkdmxibVl0bnlGa3pud1V6YkxsRlZjUjdGRnh0a0E3TC1fMjE4SThBQXExb3dzUklvWmhxY2RVb2RIV3htanZnZk1nMHNLcHJPN0R2UmthdHFPUEt1QVlqVDdQWWh5U2FHbWhxcDBmODhnelhDaHRBWHpOQ28xT2Y?oc=5",
+      "original_publish_time": "2026-04-19T23:27:56+00:00",
+      "scraped_time": "2026-04-26T06:11:19.792098+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "athletic footwear",
+        "footwear",
+        "footwear industry"
+      ],
+      "relevance_score": 9,
+      "summary": "Athletic Footwear Industry Is Racing Toward $269 Bn vocal.media",
+      "ren_take": "",
+      "image_url": ""
+    }
+  ]
 }
