@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>News Feed — Misaki Zuno 造</title>
+  <meta name="description" content="Global footwear and leather industry news aggregated from 50+ sources. Updated every 6 hours.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://iamshoemaker.com/news.html">
+  <meta property="og:title" content="News Feed — Misaki Zuno 造">
+  <meta property="og:description" content="Global footwear and leather industry news aggregated from 50+ sources. Updated every 6 hours.">
+  <meta property="og:image" content="https://iamshoemaker.com/assets/og-image.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="News Feed — Misaki Zuno 造">
+  <meta name="twitter:description" content="Global footwear and leather industry news aggregated from 50+ sources. Updated every 6 hours.">
+  <meta name="twitter:image" content="https://iamshoemaker.com/assets/og-image.png">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <nav class="nav">
+    <div class="nav-inner">
+      <a href="index.html" class="nav-logo">
+        <img src="assets/logo.svg" alt="Misaki Zuno 造" height="36">
+      </a>
+      <div class="nav-links">
+        <a href="index.html">Home</a>
+        <a href="news.html">News</a>
+        <a href="blog.html">Blog</a>
+        <a href="about.html">About</a>
+        <a href="newsletter.html">Newsletter</a>
+      </div>
+      <button class="nav-hamburger" id="nav-hamburger" aria-label="Menu">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </nav>
+
+  <div class="mobile-menu" id="mobile-menu">
+    <a href="index.html">Home</a>
+    <a href="news.html">News</a>
+    <a href="blog.html">Blog</a>
+    <a href="about.html">About</a>
+    <a href="newsletter.html">Newsletter</a>
+  </div>
+
+  <header class="news-page-header">
+    <div class="container">
+      <span class="eyebrow">Intelligence Feed</span>
+      <h1>Global Footwear &amp; Leather News</h1>
+      <p>Aggregated from 50+ industry sources. Updated every 6 hours. Curated by Misaki Zuno 造</p>
+      <div class="live-indicator">
+        <span class="live-dot"></span>
+        <span id="last-updated-text">Last updated: loading...</span>
+      </div>
+    </div>
+  </header>
+
+  <div class="controls-bar">
+    <div class="container">
+      <div class="controls-inner">
+        <div class="filter-tabs" id="news-filters">
+          <button class="filter-tab active" data-category="All">All</button>
+          <button class="filter-tab" data-category="Brand News">Brand News</button>
+          <button class="filter-tab" data-category="Manufacturing">Manufacturing</button>
+          <button class="filter-tab" data-category="Quality">Quality</button>
+          <button class="filter-tab" data-category="Trade Data">Trade Data</button>
+          <button class="filter-tab" data-category="Leather">Leather</button>
+          <button class="filter-tab" data-category="Supply Chain">Supply Chain</button>
+          <button class="filter-tab" data-category="Sustainability">Sustainability</button>
+          <button class="filter-tab" data-category="Retail">Retail</button>
+        </div>
+        <div class="search-wrapper">
+          <svg class="search-icon" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5">
+            <circle cx="6.5" cy="6.5" r="5"/>
+            <line x1="10.5" y1="10.5" x2="14" y2="14"/>
+          </svg>
+          <input type="text" id="news-search" class="search-input" placeholder="Search headlines, brands, sources..." autocomplete="off">
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <main class="news-main">
+    <div class="container">
+      <div class="results-bar">
+        <span id="results-count">Loading articles...</span>
+        <select id="sort-select">
+          <option value="newest">Newest First</option>
+          <option value="oldest">Oldest First</option>
+          <option value="relevance">Most Relevant</option>
+        </select>
+      </div>
+      <div class="news-grid news-grid-full" id="news-feed-grid"></div>
+      <div class="pagination" id="pagination"></div>
+    </div>
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div class="footer-brand">
+          <img src="assets/logo.svg" alt="Misaki Zuno 造" class="footer-logo">
+          <p>Global footwear industry intelligence from inside the process. News, analysis, and weekly briefings for manufacturing professionals.</p>
+          <p class="footer-sig">— Misaki Zuno 造</p>
+        </div>
+        <div class="footer-col">
+          <h4>Navigate</h4>
+          <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="news.html">News Feed</a></li>
+            <li><a href="about.html">About Misaki</a></li>
+            <li><a href="newsletter.html">Lasted Weekly</a></li>
+          </ul>
+        </div>
+        <div class="footer-col">
+          <h4>Connect</h4>
+          <ul>
+            <li><a href="coming-soon.html">LinkedIn</a></li>
+            <li><a href="coming-soon.html">Twitter / X</a></li>
+            <li><a href="coming-soon.html">Contact</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <p>&copy; 2026 Misaki Zuno 造 · iamshoemaker.com · All rights reserved.</p>
+        <p>Not financial or investment advice.</p>
+      </div>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,61 @@
+backend:
+  name: github
+  repo: mpproject90/iamshoemaker
+  branch: main
+  base_url: https://capable-halva-7a6098.netlify.app
+
+media_folder: assets/posts
+public_folder: /assets/posts
+
+collections:
+  - name: posts
+    label: Blog Posts
+    label_singular: Blog Post
+    folder: content/posts
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{fields.title}}"
+    identifier_field: title
+    summary: "{{title}} — {{date}}"
+    fields:
+      - label: Title
+        name: title
+        widget: string
+        hint: "The headline of your post"
+
+      - label: Date
+        name: date
+        widget: datetime
+        format: "YYYY-MM-DD"
+        date_format: "DD MMM YYYY"
+        time_format: false
+        default: ""
+
+      - label: Category
+        name: category
+        widget: select
+        options:
+          - Manufacturing
+          - Trade Data
+          - Brand News
+          - Quality
+          - Leather
+          - Supply Chain
+          - Sustainability
+          - Analysis
+
+      - label: Summary
+        name: summary
+        widget: text
+        hint: "One or two sentences shown on the blog listing page"
+
+      - label: Featured Image
+        name: image
+        widget: image
+        required: false
+        allow_multiple: false
+        hint: "Optional. Upload a photo for this post."
+
+      - label: Content
+        name: body
+        widget: markdown
+        hint: "Write your article here. Separate paragraphs with a blank line."

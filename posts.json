@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": "001",
+      "title": "Vietnam's Capacity Expansion: What the Numbers Actually Mean",
+      "date": "2026-04-13",
+      "category": "Manufacturing",
+      "image": "assets/posts/vietnam-factory.jpg",
+      "summary": "Vietnam added 340,000 sqm of new production capacity in Q1 — but order volume is not keeping pace. Here is what that actually signals for H2 pricing.",
+      "content": [
+        "Vietnam added 340,000 sqm of new production capacity in Q1 2026. On the surface this looks like confidence. Factories are expanding. Investment is coming in. The China-plus-one story is still alive.",
+        "But order volume is not keeping pace with that expansion. When you look at the booking rates coming out of Ho Chi Minh City and Binh Duong province, the new capacity is sitting at 60–70% utilisation — well below the break-even point for most mid-tier factories.",
+        "What happens next is predictable if you have been through this before. When brands come to renegotiate FOB in H2, the factories that over-leveraged on expansion will feel it first. They need the volume. They will take the price cut to fill lines.",
+        "For sourcing teams, this is the window. Factories that expanded on credit are motivated. The brands that move early — with committed volume in exchange for locked pricing — will come out of H2 in a structurally better position than those who wait.",
+        "The signal is not the expansion itself. The signal is the gap between capacity and orders. That gap is where the leverage sits."
+      ]
+    }
+  ]
+}

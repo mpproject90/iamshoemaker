@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <!-- Background -->
+  <rect width="1200" height="630" fill="#0A1628"/>
+
+  <!-- Grid lines -->
+  <g stroke="#112240" stroke-width="1" opacity="0.5">
+    <line x1="0" y1="0" x2="1200" y2="630" stroke-dasharray="none"/>
+    <!-- Vertical lines -->
+    <line x1="200" y1="0" x2="200" y2="630"/>
+    <line x1="400" y1="0" x2="400" y2="630"/>
+    <line x1="600" y1="0" x2="600" y2="630"/>
+    <line x1="800" y1="0" x2="800" y2="630"/>
+    <line x1="1000" y1="0" x2="1000" y2="630"/>
+    <!-- Horizontal lines -->
+    <line x1="0" y1="126" x2="1200" y2="126"/>
+    <line x1="0" y1="252" x2="1200" y2="252"/>
+    <line x1="0" y1="378" x2="1200" y2="378"/>
+    <line x1="0" y1="504" x2="1200" y2="504"/>
+  </g>
+
+  <!-- Gold accent bar left -->
+  <rect x="80" y="200" width="4" height="230" fill="#C9A84C"/>
+
+  <!-- Kanji -->
+  <text x="104" y="310" font-family="serif" font-size="120" fill="#C9A84C" opacity="0.15">匠</text>
+
+  <!-- Main title -->
+  <text x="104" y="260" font-family="Georgia, serif" font-size="64" font-weight="700" fill="#FFFFFF" letter-spacing="-1">Ren Shoku 匠</text>
+
+  <!-- Subtitle -->
+  <text x="107" y="310" font-family="Arial, sans-serif" font-size="26" fill="#C9A84C" letter-spacing="3">WHERE CRAFTSMANSHIP MEETS INTELLIGENCE</text>
+
+  <!-- Description -->
+  <text x="107" y="365" font-family="Arial, sans-serif" font-size="22" fill="#A8B2C1">Global footwear industry intelligence.</text>
+  <text x="107" y="395" font-family="Arial, sans-serif" font-size="22" fill="#A8B2C1">20+ years inside manufacturing.</text>
+
+  <!-- Divider -->
+  <line x1="107" y1="425" x2="500" y2="425" stroke="#C9A84C" stroke-width="1" opacity="0.4"/>
+
+  <!-- URL -->
+  <text x="107" y="455" font-family="Arial, sans-serif" font-size="18" fill="#4A6580" letter-spacing="2">IAMSHOEMAKER.COM</text>
+</svg>
