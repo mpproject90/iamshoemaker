@@ -24,8 +24,8 @@ ARTICLES_PER_RUN_MAX   = 80
 ARTICLE_MAX_AGE_DAYS   = 7
 MIN_RELEVANCE_SCORE    = 3
 SUMMARY_MAX_CHARS      = 800
-REQUEST_TIMEOUT        = 10
-RETRY_WAIT_SECONDS     = 60
+REQUEST_TIMEOUT        = 8
+RETRY_WAIT_SECONDS     = 10
 
 # ─── BULLETIN SETTINGS ────────────────────────────────────────────────────
 BULLETIN_CLAUDE_MODEL  = "claude-sonnet-4-6"
