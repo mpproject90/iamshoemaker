@@ -1,8 +1,70 @@
 {
-  "last_updated": "2026-04-26T11:50:36.623089+00:00",
-  "total_articles": 37,
+  "last_updated": "2026-04-26T17:46:49.346485+00:00",
+  "total_articles": 40,
   "sources_checked": 61,
   "articles": [
+    {
+      "id": "b590f894a155",
+      "title": "Jordan 6 “Cap and Gown,” More Nike Mind, And This Week’s Best Releases",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/04/26/sneaker-releases-april-26-may-2-2026/",
+      "original_publish_time": "2026-04-26T16:00:01+00:00",
+      "scraped_time": "2026-04-26T17:36:09.788273+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "Buckle up. The firs tof the month is crowded no matter what part of the calendar we’re turned to, but this is a mega-sized week... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Jordan 6 \"Cap and Gown,\" More Nike Mind, And This Week's Best Releases appeared first on Sneaker News . The post Jordan 6 “Cap and Gown,” More Nike Mind, And This Week’s Best Releases appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "0cb2079f2c45",
+      "title": "Nike And Foot Locker Are Giving Away 22,000 Pairs Of Air Force 1s To Their Employees",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/04/26/nike-foot-locker-air-force-1-low-triple-white-giveaway/",
+      "original_publish_time": "2026-04-26T13:00:17+00:00",
+      "scraped_time": "2026-04-26T17:36:09.792119+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "The Nike Air Force 1 “Triple White” is about as ubiquitous as you can get in footwear, an icon across the world for decades. It’s... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike And Foot Locker Are Giving Away 22,000 Pairs Of Air Force 1s To Their Employees appeared first on Sneaker News . The post Nike And Foot Locker Are Giving Away 22,000 Pairs Of Air Force 1s To Their Employees appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "bdc587860fbe",
+      "title": "ASICS' Freaky Dad Shoe-Sandal Has Mad Elderly Aura",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/asics-gel-filimy-glacier-sandal/",
+      "original_publish_time": "2026-04-26T12:01:00+00:00",
+      "scraped_time": "2026-04-26T17:39:34.942885+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "ASICS"
+      ],
+      "keywords_matched": [
+        "sandal"
+      ],
+      "relevance_score": 5,
+      "summary": "ASICS' icy GEL-Filimy Glacier slip-on is all the best parts of a mesh dad shoe & a summer-ready sandal.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "7f3d6bce06a8",
       "title": "New Balance’s Most Advanced Dad Shoe Is For Dads of the Future",
