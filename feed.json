@@ -1,8 +1,29 @@
 {
-  "last_updated": "2026-04-26T06:54:49.288199+00:00",
-  "total_articles": 27,
-  "sources_checked": 12,
+  "last_updated": "2026-04-26T08:26:37.692800+00:00",
+  "total_articles": 36,
+  "sources_checked": 60,
   "articles": [
+    {
+      "id": "7524331aecbd",
+      "title": "There’s a Snake in My Crocs: Disney x Pixar x Crocs Debut Structural ‘Toy Story 5’ Collab",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/4/disney-pixar-crocs-toy-story-5-jessie-boot-classic-clog-toy-story-alien-213009-90h-213010-90h-release-info",
+      "original_publish_time": "2026-04-26T07:31:54+00:00",
+      "scraped_time": "2026-04-26T08:15:39.922935+00:00",
+      "time_delta_mins": 0,
+      "category": "Quality",
+      "brands_mentioned": [
+        "Crocs"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 3,
+      "summary": "Name: Disney x Crocs Jessie Boot, Disney x Crocs Classic Clog Toy Story AlienColorway: Multi, MultiSKU: 213009-90H, 213010-90HMSRP: $130 USD, $70 USDRelease Date: June 16Where to Buy: CrocsDisney and Pixar are teaming up with Crocs to celebrate the premiere of Toy Story 5. Executing a two-piece drop centered around the beloved franchise, this release bypasses standard colorway updates to focus on structural modifications, delivering character-specific molded elements directly onto the brand's foundational foam silhouettes.Taking a departure from the traditional slip-on design, the \"Jessie Boot\" utilizes a taller, structural shaft crafted from the brand's core water-resistant foam. The boot's physical architecture is visually anchored by a molded cow-print pattern on the lower half, contras",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "5773fcdb6e62",
       "title": "The Nike Shox R4 Offers A Steely Front For Spring",
@@ -42,6 +63,68 @@
       ],
       "relevance_score": 3,
       "summary": "Barring any unexpected breaks from tradition, New Balance will soon celebrate Grey Days with a month of grey-tinged takes on the brand’s foremost lifestyle sneakers... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The New Balance 2000 Gears Up For Grey Days In \"Truffle Salt\" appeared first on Sneaker News . The post The New Balance 2000 Gears Up For Grey Days In “Truffle Salt” appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "0c4a33ceb388",
+      "title": "Vans’ Next Vibram-Soled Skate Shoe Is Part Frog",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/vans-otw-authentic-siped-vibram-amphibian/",
+      "original_publish_time": "2026-04-25T19:59:20+00:00",
+      "scraped_time": "2026-04-26T08:19:23.246388+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Vans",
+        "Vibram"
+      ],
+      "keywords_matched": [
+        "sole"
+      ],
+      "relevance_score": 7,
+      "summary": "Vans debuts a new OTW Authentic 44 Siped Vibram \"Amphibian\" skate sneaker, which pairs a durable build with a froggy look.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "4ab7e34669bc",
+      "title": "This is the Short Story of Nike's Original Rule-Breaking Jordan Sneaker",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/jordan-1-low-banned-sneakers-2026/",
+      "original_publish_time": "2026-04-25T19:55:32+00:00",
+      "scraped_time": "2026-04-26T08:19:23.247457+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "The Air Jordan 1 Retro Low OG \"Banned\" sneaker retells the story of the rule-breaking sneaker that started it all. But it keeps it short & sweet.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "55d838e59890",
+      "title": "Nike’s Slip-on Running Sneaker Is All Flex",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-flex-runner-4-sneakers/",
+      "original_publish_time": "2026-04-25T18:35:14+00:00",
+      "scraped_time": "2026-04-26T08:19:23.247016+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "On Running"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "Nike's Flex Runner 4 is an updated laceless sneaker, featuring a sleek sock-like design with straps.",
       "ren_take": "",
       "image_url": ""
     },
@@ -167,6 +250,27 @@
       "image_url": ""
     },
     {
+      "id": "6b00de242284",
+      "title": "New Balance launches London Run House for TCS London Marathon",
+      "source_name": "Retail Gazette",
+      "source_domain": "retailgazette.co.uk",
+      "source_url": "https://www.retailgazette.co.uk/blog/2026/04/new-balance-run-house/",
+      "original_publish_time": "2026-04-24T16:08:39+00:00",
+      "scraped_time": "2026-04-26T08:18:50.684511+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "New Balance"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "TCS London Marathon official apparel and footwear partner New Balance is set to open a community-led space over the marathon weekend.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
       "id": "d188d06ec403",
       "title": "Kobe Bryant’s Latest ‘Mambacita’ Tribute Sneakers Will Be Released Soon",
       "source_name": "Footwear News",
@@ -268,6 +372,25 @@
       "image_url": ""
     },
     {
+      "id": "754abcc41665",
+      "title": "Clothing and footwear sales rebound in March",
+      "source_name": "Drapers",
+      "source_domain": "drapersonline.com",
+      "source_url": "https://www.drapersonline.com/news/clothing-and-footwear-sales-rebound-in-march",
+      "original_publish_time": "2026-04-24T07:04:39+00:00",
+      "scraped_time": "2026-04-26T08:18:48.788136+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Drapers Clothing and footwear sales rebound in March Sales of clothing and footwear rose in March, helping to drive a modest recovery in UK retail, as improved weather encouraged shoppers back into stores, the latest Retail Sales Index from the Office for National Statistics (ONS) shows. The post Clothing and footwear sales rebound in March appeared first on Drapers .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
       "id": "3206b808486e",
       "title": "Sun and Sea Come Together on This Summer-Ready Nike Dunk Low",
       "source_name": "Hypebeast",
@@ -329,6 +452,25 @@
       "image_url": ""
     },
     {
+      "id": "e3d80c1076d1",
+      "title": "A comparative analysis of Bangladesh’s apparel exports relative to key suppliers in the US and EU markets",
+      "source_name": "Textile Today",
+      "source_domain": "textiletoday.com.bd",
+      "source_url": "https://textiletoday.com.bd/a-comparative-analysis-of-bangladeshs-apparel-exports-relative-to-key-suppliers-in-the-us-and-eu-markets",
+      "original_publish_time": "2026-04-23T18:53:45+00:00",
+      "scraped_time": "2026-04-26T08:19:35.943215+00:00",
+      "time_delta_mins": 0,
+      "category": "Manufacturing",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "apparel exports"
+      ],
+      "relevance_score": 3,
+      "summary": "The Ready-Made Garments (RMG) industry remains the backbone of Bangladesh’s export economy, contributing over 80 percent of total export earnings and employing more than four million workers—around 8...",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
       "id": "0c7f843a32ad",
       "title": "Fourth Worker Dies Days After Tannery Accident in Germany Raising Death Toll to Four",
       "source_name": "Leather News",
@@ -344,6 +486,25 @@
       ],
       "relevance_score": 3,
       "summary": "A 35 year old man, one of the two workers who were injured after a tannery accident on 16 April 2026 in Runkel, Hesse, Germany, where three people died, also died on Wednesday, 22 April 2026, raising the death toll to four, police confirmed, according to local media reports. The accident happened at a tannery ... Read more",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "132d35c8479a",
+      "title": "British Footwear Association appoints new CEO",
+      "source_name": "Drapers",
+      "source_domain": "drapersonline.com",
+      "source_url": "https://www.drapersonline.com/news/british-footwear-association-appoints-new-ceo",
+      "original_publish_time": "2026-04-23T16:16:57+00:00",
+      "scraped_time": "2026-04-26T08:18:48.790425+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Drapers British Footwear Association appoints new CEO The British Footwear Association (BFA) has announced the appointment of Ian Cartwright as its new chief executive officer, effective 6 May. The post British Footwear Association appoints new CEO appeared first on Drapers .",
       "ren_take": "",
       "image_url": ""
     },
@@ -425,6 +586,25 @@
       ],
       "relevance_score": 3,
       "summary": "Despite Bankruptcy, QVC Footwear Is the Fastest-growing U.S. TikTok Shop WWD",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "678831738504",
+      "title": "Chupps Footwear Onboards Ajinkya Rahane as Investor, Advisor in Pre-Series B Round",
+      "source_name": "Apparel Resources",
+      "source_domain": "apparelresources.com",
+      "source_url": "https://apparelresources.com/business-news/retail/chupps-footwear-onboards-ajinkya-rahane-investor-advisor-pre-series-b-round/",
+      "original_publish_time": "2026-04-22T12:48:00+00:00",
+      "scraped_time": "2026-04-26T08:19:35.010076+00:00",
+      "time_delta_mins": 0,
+      "category": "Quality",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "D2C footwear brand Chupps Footwear has brought on board cricketer Ajinkya Rahane as an equity investor and strategic advisor as part of its pre-Series B funding round. The company has not disclosed the size of the investment, although it confirmed that existing investors also participated, signalling continued backing for its expansion plans. The latest fundraise […] The post Chupps Footwear Onboards Ajinkya Rahane as Investor, Advisor in Pre-Series B Round appeared first on Apparel Resources .",
       "ren_take": "",
       "image_url": ""
     },
