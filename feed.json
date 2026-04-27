@@ -1,8 +1,51 @@
 {
-  "last_updated": "2026-04-26T23:54:28.377227+00:00",
-  "total_articles": 46,
+  "last_updated": "2026-04-27T07:39:21.330689+00:00",
+  "total_articles": 47,
   "sources_checked": 61,
   "articles": [
+    {
+      "id": "472e827530c4",
+      "title": "An Early Look at G-Dragon’s PEACEMINUSONE x Nike Korea World Cup Collab",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/4/nike-g-dragon-peaceminusone-world-cup-korea-football-association-collaboration-first-look",
+      "original_publish_time": "2026-04-27T06:46:03+00:00",
+      "scraped_time": "2026-04-27T07:28:37.488586+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "boot",
+        "footwear"
+      ],
+      "relevance_score": 5,
+      "summary": "SummaryNike is reportedly launching a massive seven-part collaboration to celebrate the 2026 FIFA World CupG-Dragon's PEACEMINUSONE will helm the South Korea capsule, featuring custom matchday apparelThe collection will also introduce a special colorway of the new Nike Cryo Shot silhouette, inspired by retro football bootsG-Dragon's PEACEMINUSONE and Nike are reportedly prepping a \"World Cup Korea\" capsule as part of a massive seven-brand collaboration collection celebrating the 2026 FIFA World Cup. According to first look images, the K-pop icon's label will team up with the Korea Football Association to release custom matchday apparel and new footwear.While official images have yet to surface, reports suggest the collection will heavily feature functional, sport-ready garments tailored fo",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "fb4b6642b308",
+      "title": "Nike Transforms The Rejuven8 Into Summer Jelly Sandals",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/04/26/nike-air-rejuven8-jelly-sandals/",
+      "original_publish_time": "2026-04-27T00:00:15+00:00",
+      "scraped_time": "2026-04-27T07:28:37.640498+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sandal"
+      ],
+      "relevance_score": 5,
+      "summary": "It certainly feels like Nike’s overtures to women are more bountiful and diverse than they’ve ever been. Put a model like the Moon Shoe next... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike Transforms The Rejuven8 Into Summer Jelly Sandals appeared first on Sneaker News . The post Nike Transforms The Rejuven8 Into Summer Jelly Sandals appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "918dee48ba25",
       "title": "SECOND CALL: Join the 14th edition of the World Footwear Business Conditions Survey - World Footwear",
@@ -911,25 +954,6 @@
       ],
       "relevance_score": 3,
       "summary": "The government of Paraguay has launched RETSA PY, a new socio-environmental traceability system to strengthen its beef and leather export sectors. The initiative is led by the Ministry of Industry and Commerce and aims to improve access to global markets including the European Union. RETSA PY, short for Registry of Establishments with Socio-Environmental Traceability, focuses ... Read more",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "60bb94b3e478",
-      "title": "How French Leather Industry Spent €13.7 Billion in Imports with Asia Accounting for 50% in 2025",
-      "source_name": "Leather News",
-      "source_domain": "leathernews.org",
-      "source_url": "https://leathernews.org/how-french-leather-industry-spent-e13-7-billion-in-imports-with-asia-accounting-for-50-in-2025/",
-      "original_publish_time": "2026-04-20T04:32:00+00:00",
-      "scraped_time": "2026-04-26T06:09:16.238619+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "leather industry"
-      ],
-      "relevance_score": 3,
-      "summary": "Leather is one of the four key sectors of French imports and exports. In 2025, France’s leather industry recorded €13.7 billion in imports and €18.6 billion in exports, maintaining its position as one of the most active leather trading nations in the world with a trade surplus of €4.9 billion in 2025. Today, we will ... Read more",
       "ren_take": "",
       "image_url": ""
     }
