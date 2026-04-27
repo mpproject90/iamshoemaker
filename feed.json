@@ -1,8 +1,136 @@
 {
-  "last_updated": "2026-04-27T07:39:21.330689+00:00",
-  "total_articles": 47,
-  "sources_checked": 61,
+  "last_updated": "2026-04-27T12:31:51.052007+00:00",
+  "total_articles": 53,
+  "sources_checked": 60,
   "articles": [
+    {
+      "id": "f2600cc2a958",
+      "title": "The Best Nike Sneakers Releasing in May",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-sneaker-release-date-calendar-may-2026-1238925999/",
+      "original_publish_time": "2026-04-27T12:02:00+00:00",
+      "scraped_time": "2026-04-27T12:20:47.709149+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "Including the first low-top version of Deion Sanders' most beloved sneaker and a new colorway of the sold-out Mind 001.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "eb7ca4a0ae08",
+      "title": "New Balance's Chunky Dad Shoe Is Better as a Chunky Dad Clog",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/new-balance-9060-summer-sandal/",
+      "original_publish_time": "2026-04-27T11:33:00+00:00",
+      "scraped_time": "2026-04-27T12:24:36.918019+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "New Balance"
+      ],
+      "keywords_matched": [
+        "sandal"
+      ],
+      "relevance_score": 3,
+      "summary": "New Balance's 9060 sandal is all the best parts of a New Balance dad shoe, turned into a stylish clog.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "6618f0f3c3c8",
+      "title": "Boots Opticians property director on its ‘luxury’ Wigmore Street revamp",
+      "source_name": "Retail Gazette",
+      "source_domain": "retailgazette.co.uk",
+      "source_url": "https://www.retailgazette.co.uk/blog/2026/04/boots-opticians-gordon-dingwall/",
+      "original_publish_time": "2026-04-27T10:29:30+00:00",
+      "scraped_time": "2026-04-27T12:24:05.344362+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 3,
+      "summary": "Boots Opticians recently unveiled its new Wigmore Street store in London, which it described as a “luxury destination” for premium designer frames and specialist eyecare.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "d54ab83494d9",
+      "title": "Steven Smith’s Crocs Ripple in “Graphite/Dusty Olive” Channels Brutalist Ergonomics",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/4/crocs-ripple-graphite-dusty-olive-214154-1g0-official-images",
+      "original_publish_time": "2026-04-27T09:46:59+00:00",
+      "scraped_time": "2026-04-27T12:20:59.351807+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Crocs"
+      ],
+      "keywords_matched": [
+        "footwear",
+        "shoes",
+        "upper"
+      ],
+      "relevance_score": 5,
+      "summary": "Name: Crocs Ripple “Graphite/Dusty Olive”Colorway: TBCSKU: 214154-1G0MSRP: TBCRelease Date: TBCCrocs and Head of Creative Innovation Steven Smith are pushing the boundaries of foam-based footwear with the latest iteration of the Crocs Ripple Clog. Arriving in a utilitarian \"Graphite/Dusty Olive\" colorway, the model serves as a testament to Smith’s \"godfather of dad shoes\" pedigree, blending functional outdoor traction with the brand's iconic molded aesthetic.The Ripple Clog is defined by its architectural approach to comfort. Unlike the perforated designs of the Classic Clog, the Ripple utilizes a more enclosed, sleek upper that emphasizes fluid lines and structural integrity. The \"Graphite\" grey base is accented by subtle \"Dusty Olive\" hits, creating a military-inspired look that resonate",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "8b1f53f9cdc4",
+      "title": "This $200 USD Converse Chuck Taylor Is Crafted With Intricate, Hand-Woven Woven Leather Uppers",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/4/converse-first-string-chuck-taylor-woven-leather-a19399c-release-info",
+      "original_publish_time": "2026-04-27T09:34:04+00:00",
+      "scraped_time": "2026-04-27T12:20:59.348453+00:00",
+      "time_delta_mins": 0,
+      "category": "Quality",
+      "brands_mentioned": [
+        "Converse"
+      ],
+      "keywords_matched": [
+        "footwear",
+        "upper"
+      ],
+      "relevance_score": 6,
+      "summary": "Name: Converse First String Chuck Taylor “Woven Leather”Colorway: TBCSKU: A19399CMSRP: $200 USDRelease Date: May 5Where to Buy: ConverseThe Converse First String Chuck Taylor “Woven Leather” is the latest pinnacle expression of the brand's most premium imprint. By merging traditional Italian leatherwork with modern ergonomic upgrades, Converse has transformed the utilitarian Chuck Taylor into a high-luxury footwear staple that prioritizes both material depth and long-term durability.The core of the \"Leather Woven\" execution is its complex upper, which utilizes premium calf leather strips woven into a pattern reminiscent of heritage Italian luxury goods. This hand-finished construction is supported by a full leather lining, creating a structured yet flexible fit that ages uniquely to the we",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "14a91c4599f8",
+      "title": "Ja Morant Officially Unveils the Nike Ja 4 in Five Bold Colorways",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/4/ja-morant-officially-unveils-the-nike-ja-4-in-five-bold-colorways",
+      "original_publish_time": "2026-04-27T09:17:39+00:00",
+      "scraped_time": "2026-04-27T12:20:59.356006+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "boot",
+        "upper"
+      ],
+      "relevance_score": 4,
+      "summary": "SummaryMemphis Grizzlies point guard Ja Morant bypassed traditional press releases to personally unveil his fourth signature shoe, the Nike Ja 4, via his social media accountsThe new silhouette features a streamlined, soccer boot-inspired design with a textured upper, an inverted Swoosh, and a cleverly integrated \"JA\" logoMorant previewed five distinct initial colorways, showcasing a variety of bold, high-contrast palettesTired of early internet leaks ruining the surprise, Ja Morant has decided to take control of his own sneaker narrative. The Memphis Grizzlies superstar recently took to Instagram and X (formerly Twitter) to officially unveil his fourth signature basketball shoe, the Nike Ja 4. Bypassing a traditional glossy press release from the Swoosh, the point guard shared a series of",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "472e827530c4",
       "title": "An Early Look at G-Dragon’s PEACEMINUSONE x Nike Korea World Cup Collab",
