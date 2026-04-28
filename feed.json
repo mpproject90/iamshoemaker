@@ -1,8 +1,111 @@
 {
-  "last_updated": "2026-04-27T18:14:52.921616+00:00",
-  "total_articles": 60,
-  "sources_checked": 60,
+  "last_updated": "2026-04-28T00:07:59.656600+00:00",
+  "total_articles": 65,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "dcf9fed0d5da",
+      "title": "The Air Jordan 1 Low Grabs “Spruce Fog” Suede Patches",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/04/27/air-jordan-1-low-spruce-fog-jade-stone-cargo-khaki-ir7327-304/",
+      "original_publish_time": "2026-04-27T21:30:29+00:00",
+      "scraped_time": "2026-04-27T23:57:11.866703+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Jordan"
+      ],
+      "keywords_matched": [
+        "footwear",
+        "welt"
+      ],
+      "relevance_score": 4,
+      "summary": "Zig when everyone else is zagging. The approach of summer means that mesh footwear will soon be at a yearly peak, ensuring comfortability throughout sweltering... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Air Jordan 1 Low Grabs \"Spruce Fog\" Suede Patches appeared first on Sneaker News . The post The Air Jordan 1 Low Grabs “Spruce Fog” Suede Patches appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "fda3dcaad82e",
+      "title": "Nike’s Olive-Toned Slipper Sneaker Looks Crazy Good",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-air-superfly-moc-medium-olive/",
+      "original_publish_time": "2026-04-27T21:28:35+00:00",
+      "scraped_time": "2026-04-28T00:00:43.059718+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "Nike debuts luxe suede Air Superfly Moc sneakers in \"Medium Olive,\" taking the laceless model to \"quiet luxury\" levels.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "3a6d314f0adf",
+      "title": "Anthony Edwards’ adidas Believe That 1 “Lucid Blue” Drops This Summer",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/04/27/adidas-anthony-edwards-believe-that-lucid-blue-court-green-lucid-blue-iq9475/",
+      "original_publish_time": "2026-04-27T20:30:02+00:00",
+      "scraped_time": "2026-04-27T23:57:11.869034+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "The best of times, the worst of times. The Minnesota Timberwolves secured a commanding 3-1 lead in their series against the Nuggets, with particular thanks... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Anthony Edwards’ adidas Believe That 1 “Lucid Blue” Drops This Summer appeared first on Sneaker News . The post Anthony Edwards’ adidas Believe That 1 “Lucid Blue” Drops This Summer appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "e30e67d8b5b8",
+      "title": "UBS Predicts 40,000 More Stores Could Close in the Next Five Years. Why Footwear Retailers Could Buck the Trend",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/dicks-academy-sporting-goods-dtc-on-running-deckers-1238930579/",
+      "original_publish_time": "2026-04-27T19:55:31+00:00",
+      "scraped_time": "2026-04-27T23:56:58.894154+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "On Running"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 4,
+      "summary": "Core Dick's Sporting and Academy Outdoor + Sports are Tops in Sporting Goods, while DTC focus and pricing power give On Running and Deckers the edge.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "228fe3fd466f",
+      "title": "Soles4Souls and Caleres Team Up to Outfit 200 Harlem Students With New Sneakers",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/soles4souls-caleres-sneaker-event-harlem-school-1238930888/",
+      "original_publish_time": "2026-04-27T19:10:49+00:00",
+      "scraped_time": "2026-04-27T23:56:58.896947+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sneakers",
+        "sole"
+      ],
+      "relevance_score": 6,
+      "summary": "The nonprofit will host more than three dozen \"4EveryKid\" events in the U.S. and Canada this year.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "796dd4d2c18b",
       "title": "30 Years Later, Nike’s Air Max Is Still the Freshest in the French Blue Sea",
