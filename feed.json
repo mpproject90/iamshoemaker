@@ -1,8 +1,110 @@
 {
-  "last_updated": "2026-04-28T12:35:06.492859+00:00",
-  "total_articles": 74,
+  "last_updated": "2026-04-28T18:26:18.049378+00:00",
+  "total_articles": 79,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "30db3f2656c4",
+      "title": "By Giving Its New Dad Shoe Some Bite, ASICS Sets an Elderly Pace",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/asics-gel-kayano-12-pace-collab/",
+      "original_publish_time": "2026-04-28T17:00:01+00:00",
+      "scraped_time": "2026-04-28T18:19:04.088186+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "ASICS"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "The PACE x ASICS Gel-Kayano 12.1 is the dad shoe with texture, attitude, and quiet flex, setting the pace for sneakers with real style.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "689e74a46bd2",
+      "title": "New Balance Gave All of Its Most Popular Sneakers New Looks for Its Biggest Grey Days Collection Yet",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/new-balance-grey-days-2026-release-date-1238931772/",
+      "original_publish_time": "2026-04-28T15:51:23+00:00",
+      "scraped_time": "2026-04-28T18:15:16.643547+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "New Balance"
+      ],
+      "keywords_matched": [
+        "shoes",
+        "sneakers"
+      ],
+      "relevance_score": 6,
+      "summary": "20 different shoes are included in the latest collection.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "0fac801b835e",
+      "title": "The Boldest Shoe Moments in Met Gala History, From Teyana Taylor’s Kiki Boots to Lady Gaga’s Pleaser Heels and More",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-trends/feature/met-gala-crazy-shoe-moments-1238929276/",
+      "original_publish_time": "2026-04-28T14:38:10+00:00",
+      "scraped_time": "2026-04-28T18:15:16.646215+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "boot",
+        "shoes"
+      ],
+      "relevance_score": 4,
+      "summary": "See the highest, most daring shoes at the event.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "b601f3189766",
+      "title": "Brands Briefing: How higher oil prices are shaking up the footwear industry - Modern Retail",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVUFJOXVvS1JibzMyTXVjMW9VV1hQd2JxdWpTaU5mdXJEUkd2dkRyUDB6WE1KVm1aSVZoUGh1SVVRSmlnZ1Nuc21KU0NWM3I1Y1A2WGM0R1RFVEV4eWdzOUxkd2VRRHpCM2VyTUlPTVYwd3BZNGpKVU5kNUxRZy01SWhqZnd5dVN5d29hbFk3X3FWdlR1YXZWN2VreUVuc1ktR01iVnJ6RnBjTHU2WU51Z3ZpRDI?oc=5",
+      "original_publish_time": "2026-04-28T14:01:56+00:00",
+      "scraped_time": "2026-04-28T18:15:39.638302+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "footwear industry"
+      ],
+      "relevance_score": 6,
+      "summary": "Brands Briefing: How higher oil prices are shaking up the footwear industry Modern Retail",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "d2eda5dbf18f",
+      "title": "Alpargatas S.A. stock (BRALPAACNPR0): Why does its foothold in global footwear markets matter more n - AD HOC NEWS",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNR09GaGtfQW43c2tvZkdJdWRxUlN0SEZCTkw2ZVJYTFlHcWFXalJ0QnVuRVFaOXkxNnl2azFWV3hsWkJtQW5vOFU4eEhSRHZXNUpLWmJjSF9ldFlMNG5UNUxuXzMweEFtNnFoV2tMQmRxb3FkdmVfdlc3dFBTeWpJYy1ZSXRYbG5EV3R2ZldBTnlZQndmdE83akh6U0JQS0xvOGdlWVAtcTRzTEhPcWU5X2llTGlNUDdBN1E1bFp6RFN3dw?oc=5",
+      "original_publish_time": "2026-04-28T13:15:50+00:00",
+      "scraped_time": "2026-04-28T18:15:39.640436+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Alpargatas S.A. stock (BRALPAACNPR0): Why does its foothold in global footwear markets matter more n AD HOC NEWS",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "f3ac8860199f",
       "title": "Travis Scott x Nike Phantom 6 Low Elite IV2037-900",
