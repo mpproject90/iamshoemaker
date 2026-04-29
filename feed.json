@@ -1,8 +1,91 @@
 {
-  "last_updated": "2026-04-29T00:08:38.406188+00:00",
-  "total_articles": 83,
+  "last_updated": "2026-04-29T07:25:18.611716+00:00",
+  "total_articles": 87,
   "sources_checked": 61,
   "articles": [
+    {
+      "id": "43b6d75a02fd",
+      "title": "adidas’ Mossy Green Sneaker Is No Samba, and That’s the Point",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/adidas-gralfy/",
+      "original_publish_time": "2026-04-29T07:00:00+00:00",
+      "scraped_time": "2026-04-29T07:18:10.224524+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "sole"
+      ],
+      "relevance_score": 3,
+      "summary": "adidas drops a mossy green sneaker that skips the Samba hype, think rich leather, gum soles, and a flex that stands out without trying (too hard)",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "deb376ae5676",
+      "title": "Halfords profits set to hit upper end of expectations amid strong trading",
+      "source_name": "Retail Gazette",
+      "source_domain": "retailgazette.co.uk",
+      "source_url": "https://www.retailgazette.co.uk/blog/2026/04/halfords-profits-set-to-hit-upper-end-of-expectations-amid-strong-trading/",
+      "original_publish_time": "2026-04-29T06:19:43+00:00",
+      "scraped_time": "2026-04-29T07:17:38.838221+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "Halfords has said full-year profits are expected to come in around the upper end of market expectations after stronger trading across both its retail and autocentre divisions. It announced today that group like-for-like sales rose 4.8 per cent in FY26, with retail sales up 4.1 per cent and autocentres, excluding Avayler, climbing 5.8 per cent....",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "386a863b1488",
+      "title": "The Umbro x Crocs Collection Puts a Quilted Spin on Pitch Heritage",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/4/umbro-crocs-classic-crafted-clog-drill-top-speciali-collaboration-collection-213397-213398-release-info",
+      "original_publish_time": "2026-04-29T05:58:07+00:00",
+      "scraped_time": "2026-04-29T07:14:45.069880+00:00",
+      "time_delta_mins": 0,
+      "category": "Quality",
+      "brands_mentioned": [
+        "Crocs",
+        "Umbro"
+      ],
+      "keywords_matched": [
+        "boot",
+        "footwear",
+        "upper"
+      ],
+      "relevance_score": 7,
+      "summary": "Name: Umbro x Crocs Classic Clog, Umbro x Crocs Crafted ClogColorway: Atmosphere, Bone/Slate GreySKU: 213397, 213398MSRP: £80 GBP (approx. $110 USD), £70 GBP (approx. $95 USD)Release Date: May 8Where to Buy: Crocs UKCrocs and Umbro have officially teamed up to introduce a collaborative capsule featuring the Umbro Crafted Clog and the Umbro Classic Clog. Bridging the gap between casual streetstyle and classic football sportswear, the partnership reimagines the instantly recognizable Crocs silhouette with design markers pulled from Umbro's iconic Drill Top and Speciali football boot.Leading the footwear lineup is the Umbro Crafted Clog, which completely updates the standard slip-on with a quilted washed textile upper. The model integrates Umbro's signature Double Diamond motif alongside a fa",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "f38431fbf2b4",
+      "title": "Technical textiles critical to footwear sector - BusinessLine",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRE8wbkszN0t1My0yYnZFU2FXTmVTdVByS1dQSkdLMExEVi1ibTRuMUpMMjdHMjVlV2pOZ2Z4OG5sTlhKQnhidVljVjgwV2NRTHZWVEZTZ05iOVdLeGp3c1U3b1lvMzM3WmhJeW54UXhscy1WNFFDSWp5UmtDWHdNaEhmRmVxZDlQdGE5UlcyNVQ3eEZ6WGszN1NwVEwwN2NGOGZCQndmOXZKYW1peXliWNIBtwFBVV95cUxNckJVb2dRNEJQVnVybWZoMC1yR2VLSUhsRk5MN2lvbVVHZjRIaWo2N0dQZTVxeFlscXNuMThwbjZTSGpIb3FrbVhnZWFUZENGZnJWYWRNV2JJaVZWRWlzdFhTby1VTHZNQ1BjMkpvOHkyRVN1SmtETUdyR2VQRkMwVElIY2sySEwxTngwaV9YVUN6OWxpUXp2MTBrYjliWjR0c1NDTXNfcnNUaWlsT015RDlsV0M2bEk?oc=5",
+      "original_publish_time": "2026-04-29T00:30:00+00:00",
+      "scraped_time": "2026-04-29T07:14:56.072718+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Technical textiles critical to footwear sector BusinessLine",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "3156d4fb43f4",
       "title": "adidas’ Pink Mary Jane Is Its Most Ballet-y Ballerina Sneaker Yet",
