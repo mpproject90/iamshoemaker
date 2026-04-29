@@ -1,8 +1,93 @@
 {
-  "last_updated": "2026-04-28T18:26:18.049378+00:00",
-  "total_articles": 79,
-  "sources_checked": 60,
+  "last_updated": "2026-04-29T00:08:38.406188+00:00",
+  "total_articles": 83,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "3156d4fb43f4",
+      "title": "adidas’ Pink Mary Jane Is Its Most Ballet-y Ballerina Sneaker Yet",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/adidas-samba-jane-sandy-pink/",
+      "original_publish_time": "2026-04-28T22:10:30+00:00",
+      "scraped_time": "2026-04-29T00:01:23.695209+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "adidas releases a Samba Jane featuring pink satin uppers. It's the most ballet-y ballerina sneaker yet.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "21585a9a3f48",
+      "title": "New Balance’s Ridiculously Cozy Dad Clog Has UGG Flavor",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/new-balance-rover-clog/",
+      "original_publish_time": "2026-04-28T22:04:08+00:00",
+      "scraped_time": "2026-04-29T00:01:23.696045+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "New Balance",
+        "UGG"
+      ],
+      "keywords_matched": [
+        "sole",
+        "upper"
+      ],
+      "relevance_score": 6,
+      "summary": "New Balance's Rover is a new UGG-coded clog model featuring extra-chunky soles & buckled uppers.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "607b18c48121",
+      "title": "These Three Shoe Brands Raked in Almost $100 Million on TikTok Shop During the Last 12 Months",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/crocs-hey-dude-qvc-tiktok-shoe-shop-sales-leaders-1238931788/",
+      "original_publish_time": "2026-04-28T20:08:31+00:00",
+      "scraped_time": "2026-04-28T23:57:45.143686+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Crocs"
+      ],
+      "keywords_matched": [
+        "shoe brand"
+      ],
+      "relevance_score": 4,
+      "summary": "Crocs, Hey Dude and QVC had a combined $99 million in revenue from April 2025 to March 2026.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "a4e71aa03f73",
+      "title": "Nike Air Max 90 “Liquid Silver” Returns In 2026",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/04/28/nike-air-max-90-silver-cq6639-001/",
+      "original_publish_time": "2026-04-28T19:30:50+00:00",
+      "scraped_time": "2026-04-28T23:57:56.927944+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "Throughout 2025, as the Nike Air Max 95 relished in all its 30-year anniversary and the Air Jordan 5 similarly gallivanted as it checked off... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike Air Max 90 “Liquid Silver” Returns In 2026 appeared first on Sneaker News . The post Nike Air Max 90 “Liquid Silver” Returns In 2026 appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "30db3f2656c4",
       "title": "By Giving Its New Dad Shoe Some Bite, ASICS Sets an Elderly Pace",
