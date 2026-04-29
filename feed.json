@@ -1,8 +1,114 @@
 {
-  "last_updated": "2026-04-29T07:25:18.611716+00:00",
-  "total_articles": 87,
+  "last_updated": "2026-04-29T12:29:06.693552+00:00",
+  "total_articles": 90,
   "sources_checked": 61,
   "articles": [
+    {
+      "id": "539e9b09b6ed",
+      "title": "PM shares an article highlighting the integration of technical textiles in the footwear industry - PM India",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTzZKZUliWVV1TFRMMWpacV9ya25qOUF3YUlVNUZTYmNvR0ExU1IteUs4ZnF0TE9YTWlVOHpMbkxnRkF2a1pXOXNabEZXQ3Y5YjNGdVpWZ0tFdjh1X2JwZktnR1NqQTVfcDNuRUF3Q3U3M2o4LThCOU9NRXdOQmE0alZRZGNpZE56a2hySVQxUGJoeTkyUFhLS1lFcFJvRFNCNko5WlRnQUlmRFIwOFNLb1M0Yk9RYzZFQ0dLYVVUZ215QmoxT2RQVXBlbG94RG1VWkw5a2hZWnFaVFhNVU1UTWZkSW94TEx3cjVibA?oc=5",
+      "original_publish_time": "2026-04-29T11:10:10+00:00",
+      "scraped_time": "2026-04-29T12:18:26.180435+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "footwear industry"
+      ],
+      "relevance_score": 6,
+      "summary": "PM shares an article highlighting the integration of technical textiles in the footwear industry PM India",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "29281dbc1620",
+      "title": "From New Balance to ASICS, the Seven Best Sneakers to Cop Right Now",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/sneaker-releases-2026-april-week-5/",
+      "original_publish_time": "2026-04-29T10:44:51+00:00",
+      "scraped_time": "2026-04-29T12:21:49.971712+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "New Balance",
+        "ASICS"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 8,
+      "summary": "The world of sneaker releases is tricky to navigate, but we’ve got you covered with the best drops of the week, from New Balance to Asics, Saucony to Nike, and more.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "1115fe36de84",
+      "title": "Adidas shares rise after London Marathon runners break records in new Adizero shoes",
+      "source_name": "Retail Gazette",
+      "source_domain": "retailgazette.co.uk",
+      "source_url": "https://www.retailgazette.co.uk/blog/2026/04/adidas-shares-rise-after-london-marathon-runners-break-records-in-new-adizero-shoes/",
+      "original_publish_time": "2026-04-29T09:32:26+00:00",
+      "scraped_time": "2026-04-29T12:21:17.913412+00:00",
+      "time_delta_mins": 0,
+      "category": "Trade Data",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 5,
+      "summary": "Adidas shares climbed on Monday after three athletes wearing the sportswear giant’s latest running shoe delivered record-breaking performances at the London Marathon. Shares in Adidas rose by almost two per cent in early afternoon trading in Frankfurt, before paring gains to trade 1.4 per cent higher at €138 (£119) a share. The uplift came after...",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "ae4d1d7371ef",
+      "title": "Nike Adds a \"Black\" Iteration To Its Leather Astrograbber Line",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/4/nike-astrograbber-leather-black-io9910-001-official-images-japan-release-date",
+      "original_publish_time": "2026-04-29T08:56:16+00:00",
+      "scraped_time": "2026-04-29T12:18:15.182556+00:00",
+      "time_delta_mins": 0,
+      "category": "Quality",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "Name: Nike Astrogabber Leather \"Black\"Colorway: BlackSKU: IO9910-001MSRP: ¥18,480 JPY (approx. $115 USD)Release Date: May 8 (Japan)Where to Buy: SNKRS JapanNike is elevating its Astrograbber \"Black\" with leather construction. Originating from the American football field, the archival silhouette sheds its traditional athletic skin for a stealthy, premium upgrade that leans heavily into understated luxury.Stripping back the design to its core elements, this new iteration is defined by its meticulous upper construction. The shoe utilizes a rich, full-grain leather across the entirety of the upper, swapping out standard sportswear components for a more refined, durable texture. This specific material choice elevates the model's classic gridiron DNA, providing a sleek, monochromatic base that b",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "342856cb745e",
+      "title": "Engineered Garments and Converse’s Weapon Models Highlight Asymmetrical Construction",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/4/engineered-garments-converse-weapon-collaboration-collection-vintage-white-yellow-black-a19689c-a19690c-release-info",
+      "original_publish_time": "2026-04-29T08:46:47+00:00",
+      "scraped_time": "2026-04-29T12:18:15.186847+00:00",
+      "time_delta_mins": 0,
+      "category": "Quality",
+      "brands_mentioned": [
+        "Converse"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "Name: Engineered Garments x Converse WeaponColorway: Vintage White/Yellow, Black/Vintage White/BlackSKU: A19689C, A19690CMSRP: $145 USDRelease Date: May 1Where to Buy: ConverseEngineered Garments and Converse have officially introduced their collaborative take on the Weapon Low. Designed with a strict focus on material execution, the unisex silhouette reworks the classic court shoe through the utilitarian lens of Daiki Suzuki’s label, offering two distinct low-top colorways characterized by a complex, mixed-media construction.Highlighting the release is Engineered Garments’ signature approach to asymmetrical paneling. While the left and right shoes of each pair appear uniform from a distance, a closer inspection reveals alternating placements of premium smooth leather and textured suede. T",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "43b6d75a02fd",
       "title": "adidas’ Mossy Green Sneaker Is No Samba, and That’s the Point",
@@ -1757,44 +1863,6 @@
       ],
       "relevance_score": 3,
       "summary": "D2C footwear brand Chupps Footwear has brought on board cricketer Ajinkya Rahane as an equity investor and strategic advisor as part of its pre-Series B funding round. The company has not disclosed the size of the investment, although it confirmed that existing investors also participated, signalling continued backing for its expansion plans. The latest fundraise […] The post Chupps Footwear Onboards Ajinkya Rahane as Investor, Advisor in Pre-Series B Round appeared first on Apparel Resources .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "21c6b9e1334b",
-      "title": "Canada Footwear Market Size & Outlook 2026-2034 - vocal.media",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSjliU01JdXpuTlhqUjZ2QlE5WGRIR00xVG9FbXRRbm8wQXg5WFpGTXdDSzVoTHNTOE5PZGdZTW1HbWtrc2lVMDRRYkNnZXlxTGpPNmM0WjFGLUsxQlR4VFZUSElnSlpoSHVtS2NaWHJISUNiZHNSUXB6QTlBMXczbEVR?oc=5",
-      "original_publish_time": "2026-04-22T10:30:09+00:00",
-      "scraped_time": "2026-04-26T06:11:19.792780+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Canada Footwear Market Size & Outlook 2026-2034 vocal.media",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "c59ebfcee797",
-      "title": "Kering Reports Stable Q1 2026 Revenue with Fashion and Leather Goods at €2.85 Billion",
-      "source_name": "Leather News",
-      "source_domain": "leathernews.org",
-      "source_url": "https://leathernews.org/kering-reports-stable-q1-2026-revenue-with-fashion-and-leather-goods-at-e2-85-billion/",
-      "original_publish_time": "2026-04-22T08:40:40+00:00",
-      "scraped_time": "2026-04-26T06:09:16.235976+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "leather goods"
-      ],
-      "relevance_score": 3,
-      "summary": "Kering reported revenue of €3.56 Billion in the first quarter of 2026, remaining stable on a comparable basis despite a tough global environment. The French luxury group saw mixed performance across regions and brands, with early signs of recovery led by jewelry and select fashion houses. Kering recorded a 6% decline in reported revenue year-on-year. ... Read more",
       "ren_take": "",
       "image_url": ""
     }
