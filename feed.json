@@ -1,8 +1,130 @@
 {
-  "last_updated": "2026-04-29T12:29:06.693552+00:00",
-  "total_articles": 90,
-  "sources_checked": 61,
+  "last_updated": "2026-04-29T18:21:17.030754+00:00",
+  "total_articles": 96,
+  "sources_checked": 60,
   "articles": [
+    {
+      "id": "c1b7aa6404cc",
+      "title": "Nike Gives Its Sold-out, Mind-altering Sneaker a New Flyknit Upper",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-mind-002-flyknit-release-date-ir2176-100-1238933614/",
+      "original_publish_time": "2026-04-29T16:27:17+00:00",
+      "scraped_time": "2026-04-29T18:10:15.233082+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 5,
+      "summary": "Featuring the same construction as Fragment's Mind 002 collaboration.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "1cea5a03f925",
+      "title": "Meryl Streep’s Stylist Micaela Erlanger on Dressing Her for ‘The Devil Wears Prada 2’ Press Tour",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-trends/meryl-streep-stylist-micaela-erlanger-devil-wears-prada-2-1238933299/",
+      "original_publish_time": "2026-04-29T16:25:13+00:00",
+      "scraped_time": "2026-04-29T18:10:15.235737+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Prada"
+      ],
+      "keywords_matched": [
+        "footwear",
+        "sole"
+      ],
+      "relevance_score": 4,
+      "summary": "Erlanger and Streep have relied on the footwear Sole Bliss throughout the press tour.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "cb2553f7ab2e",
+      "title": "International shoe brand Grant Stone operates from Baroda, will open showroom in St. Joseph - Moody on the Market",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYTBNd2tMVEs3LVRMM0Jpckd1ekJkWDlnWVhfcW9YQUJZRmljakdGc2lGQWFYWFJDSXhfNTZkbl84TzlzUmxoQkdLeEdsMi0xSnlEZ25FMjFEVHdqaW5zR3hRVHZsZW9fUGU4bnRSc3pvblZXd25qOW50ZWlZLXBYMjdFdTNKbTJuUEV4OHVLUEd1WEdxNk9Ud0RLY1VpeC12aWFSa1BqQUl6QzVpMkF4UzZzMDZUWjZfU2cwX05tWkk?oc=5",
+      "original_publish_time": "2026-04-29T16:24:53+00:00",
+      "scraped_time": "2026-04-29T18:10:37.679687+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoe brand"
+      ],
+      "relevance_score": 3,
+      "summary": "International shoe brand Grant Stone operates from Baroda, will open showroom in St. Joseph Moody on the Market",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "e12deb7f74e1",
+      "title": "Matthieu Blazy’s Chanel Pumps Are the Hottest Shoes of the Year So Far, Lyst Says",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/chanel-pumps-hottest-shoes-lyst-index-q1-2026-1238933576/",
+      "original_publish_time": "2026-04-29T15:37:44+00:00",
+      "scraped_time": "2026-04-29T18:10:15.236284+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "shoes",
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "Celine's ballet lace up shoes and Village PM's 1PM sneakers rounded out the top footwear of the first quarter.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "c4d30c6fbe94",
+      "title": "PM Modi highlights role of technical textiles in footwear sector, calls for scaling innovation - DD News",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQ2lFa21kaUtCeWpWSjhVOS1CVnRhdnhDaGFBaEV0V2FKNjc3dnlrQ2prbnFmblYyVlNMcFk1SDZ6XzEteDVta083aXZEck1DRHh1ZDUxellvc2FUeElrSmQxTk44U2xjWDNseFNYNjdhY1N2bm9xTnVPUm1STm50dGMwUGV2XzAyU1NmRGI2dFVSOWdUMTIyQmZUbDhDSlF4cHBRMnNQQTJlMWh1VWhpOGNlY2ZaVVVlQWhZ?oc=5",
+      "original_publish_time": "2026-04-29T13:22:44+00:00",
+      "scraped_time": "2026-04-29T18:10:37.681259+00:00",
+      "time_delta_mins": 0,
+      "category": "Trade Data",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "PM Modi highlights role of technical textiles in footwear sector, calls for scaling innovation DD News",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "a24409cc9ba7",
+      "title": "PM Modi highlights role of technical textiles in footwear industry - Social News XYZ",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWF9jaUMxdmgtQWNkZ3N3dXhlQUVHdFEzWmcwYTNSOGE1ZjJnMkhQZ1ZKMmNuZGxCZWtRU3d4X0kwQUU4c1FMY1RQV00waTJPdUxHQlBaUjFtbGs0SmFEZndLbTBxQW1iQnQtZTVjM09MS01QeUdUdUhlb0diUl9lRGg3WE9lcm5BWWdSWDRrRmdRSjRwVG5BaDlvTGNLVFJZeFpQQ1MtNm7SAagBQVVfeXFMTlhfY2lDMXZoLUFjZGdzd3V4ZUFFR3RRM1pnMGEzUjhhNWYyZzJIUGdWSjJjbmRsQmVrUVN3eF9JMEFFOHNRTGNUUFdNMGkyT3VMR0JQWlIxbWxrNEphRGZ3S20wcUFtYkJ0LWU1YzNPTEtNUHlHVHVIZW9HYlJfZURoN1hPZXJuQVlnUlg0a0ZnUUo0cFRuQWg5b0xjS1RSWXhaUENTLTZu?oc=5",
+      "original_publish_time": "2026-04-29T11:46:00+00:00",
+      "scraped_time": "2026-04-29T18:10:37.680401+00:00",
+      "time_delta_mins": 0,
+      "category": "Trade Data",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "footwear industry"
+      ],
+      "relevance_score": 6,
+      "summary": "PM Modi highlights role of technical textiles in footwear industry Social News XYZ",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "539e9b09b6ed",
       "title": "PM shares an article highlighting the integration of technical textiles in the footwear industry - PM India",
@@ -43,6 +165,27 @@
       ],
       "relevance_score": 8,
       "summary": "The world of sneaker releases is tricky to navigate, but we’ve got you covered with the best drops of the week, from New Balance to Asics, Saucony to Nike, and more.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "e94261bce8af",
+      "title": "Spanish footwear brand Hoff names new CEO",
+      "source_name": "Drapers",
+      "source_domain": "drapersonline.com",
+      "source_url": "https://www.drapersonline.com/news/spanish-footwear-brand-hoff-names-new-ceo",
+      "original_publish_time": "2026-04-29T10:17:00+00:00",
+      "scraped_time": "2026-04-29T18:13:27.994354+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 4,
+      "summary": "Drapers Spanish footwear brand Hoff names new CEO Spanish trainer brand Hoff has appointed ex-Nike and Inditex executive Nicolas de Ros Wallace as CEO. The post Spanish footwear brand Hoff names new CEO appeared first on Drapers .",
       "ren_take": "",
       "image_url": ""
     },
@@ -1844,25 +1987,6 @@
       ],
       "relevance_score": 3,
       "summary": "Despite Bankruptcy, QVC Footwear Is the Fastest-growing U.S. TikTok Shop WWD",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "678831738504",
-      "title": "Chupps Footwear Onboards Ajinkya Rahane as Investor, Advisor in Pre-Series B Round",
-      "source_name": "Apparel Resources",
-      "source_domain": "apparelresources.com",
-      "source_url": "https://apparelresources.com/business-news/retail/chupps-footwear-onboards-ajinkya-rahane-investor-advisor-pre-series-b-round/",
-      "original_publish_time": "2026-04-22T12:48:00+00:00",
-      "scraped_time": "2026-04-26T08:19:35.010076+00:00",
-      "time_delta_mins": 0,
-      "category": "Quality",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "D2C footwear brand Chupps Footwear has brought on board cricketer Ajinkya Rahane as an equity investor and strategic advisor as part of its pre-Series B funding round. The company has not disclosed the size of the investment, although it confirmed that existing investors also participated, signalling continued backing for its expansion plans. The latest fundraise […] The post Chupps Footwear Onboards Ajinkya Rahane as Investor, Advisor in Pre-Series B Round appeared first on Apparel Resources .",
       "ren_take": "",
       "image_url": ""
     }
