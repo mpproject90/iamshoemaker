@@ -1,8 +1,70 @@
 {
-  "last_updated": "2026-04-30T12:27:10.418645+00:00",
-  "total_articles": 107,
-  "sources_checked": 61,
+  "last_updated": "2026-04-30T18:18:50.661217+00:00",
+  "total_articles": 109,
+  "sources_checked": 62,
   "articles": [
+    {
+      "id": "4a6c6ff122b3",
+      "title": "The Nike Kobe 3 Low Protro Frosts Over For This “CHBL” Colorway",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/04/30/nike-kobe-3-low-protro-chbl/",
+      "original_publish_time": "2026-04-30T18:00:21+00:00",
+      "scraped_time": "2026-04-30T18:08:06.474497+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Time for the Kobe 6 to move over? No, it’ll take far more to unseat the king of Bryant’s footwear line, but the Nike Kobe... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Nike Kobe 3 Low Protro Frosts Over For This \"CHBL\" Colorway appeared first on Sneaker News . The post The Nike Kobe 3 Low Protro Frosts Over For This “CHBL” Colorway appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "bdde46417ee8",
+      "title": "Nike’s Futuristic 3D-printed Air Max Sneaker Gets Updated for Faster Production",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-air-max-1000-2-release-date-jf3484-001-1238935661/",
+      "original_publish_time": "2026-04-30T16:13:22+00:00",
+      "scraped_time": "2026-04-30T18:07:54.847332+00:00",
+      "time_delta_mins": 0,
+      "category": "Manufacturing",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "outsole",
+        "sole"
+      ],
+      "relevance_score": 4,
+      "summary": "The Air Max 1000.2 features subtle changes in its outsole to speed up printing.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "9bc379e855b7",
+      "title": "Soles4Souls: ‘Unused products can serve a greater purpose’",
+      "source_name": "Drapers",
+      "source_domain": "drapersonline.com",
+      "source_url": "https://www.drapersonline.com/insight/comment/soles4souls-unused-products-can-serve-a-greater-purpose",
+      "original_publish_time": "2026-04-30T15:00:38+00:00",
+      "scraped_time": "2026-04-30T18:11:05.420013+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sole"
+      ],
+      "relevance_score": 3,
+      "summary": "Drapers Soles4Souls: ‘Unused products can serve a greater purpose’ Buddy Teaser, president and CEO at Drapers Conscious Fashion Awards finalist and non-profit Soles4Souls, tells Drapers why collaboration is key for fashion ahead of incoming EPR for textiles legislation. The post Soles4Souls: ‘Unused products can serve a greater purpose’ appeared first on Drapers .",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "141681301638",
       "title": "Inside the Booming Custom Shoes Market - vocal.media",
@@ -2189,25 +2251,6 @@
       ],
       "relevance_score": 3,
       "summary": "A 35 year old man, one of the two workers who were injured after a tannery accident on 16 April 2026 in Runkel, Hesse, Germany, where three people died, also died on Wednesday, 22 April 2026, raising the death toll to four, police confirmed, according to local media reports. The accident happened at a tannery ... Read more",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "132d35c8479a",
-      "title": "British Footwear Association appoints new CEO",
-      "source_name": "Drapers",
-      "source_domain": "drapersonline.com",
-      "source_url": "https://www.drapersonline.com/news/british-footwear-association-appoints-new-ceo",
-      "original_publish_time": "2026-04-23T16:16:57+00:00",
-      "scraped_time": "2026-04-26T08:18:48.790425+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Drapers British Footwear Association appoints new CEO The British Footwear Association (BFA) has announced the appointment of Ian Cartwright as its new chief executive officer, effective 6 May. The post British Footwear Association appoints new CEO appeared first on Drapers .",
       "ren_take": "",
       "image_url": ""
     }
