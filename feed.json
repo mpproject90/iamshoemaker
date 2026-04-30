@@ -1,8 +1,70 @@
 {
-  "last_updated": "2026-04-30T00:09:19.947930+00:00",
-  "total_articles": 99,
+  "last_updated": "2026-04-30T07:33:14.895003+00:00",
+  "total_articles": 103,
   "sources_checked": 62,
   "articles": [
+    {
+      "id": "98293de06ffa",
+      "title": "OPEN YY and KEEN Reworks the Utilitarian ZERRAPORT II With Rocky Canyon-Inspired Textures",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/4/open-yy-keen-zerraport-ii-red-khaki-collaboration-release-info",
+      "original_publish_time": "2026-04-30T05:49:36+00:00",
+      "scraped_time": "2026-04-30T07:22:30.511231+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Keen"
+      ],
+      "keywords_matched": [
+        "footwear",
+        "sandal"
+      ],
+      "relevance_score": 4,
+      "summary": "Name: OPEN YY x KEEN ZERRAPORT IIColorway: Red, KhakiSKU: TBCMSRP: ₩189,000 KRW (approx. $130 USD)Release Date: Available now (OPEN YY), May 15 (KEEN)Where to Buy: OPEN YY, KEENKEEN and OPEN YY have officially unveiled their first collaborative collection, introducing a functional rework of the OPEN YY x KEEN ZERRAPORT II. The debut partnership merges two distinct design languages, pairing KEEN’s technical, function-first approach with OPEN YY’s instinct for shape, styling, and reinterpretation.At the core of the release is the ZERRAPORT II, a hybrid sandal known for its stripped-back, open-air construction. Designed to merge physical performance with visual clarity, the footwear reduces the traditional sandal silhouette down to only its essential components. The shoe's original fit is hig",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "e110340b6416",
+      "title": "Ecco turns leather waste into high-value footwear innovation - Textile Today",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRDNyMXowWEthekNKR3E4OG04ejEtN2I0bnRTQlB6anRZZzBtZEdmamJlbUQ4ZTlBaHJuNWl3YVZHbzVKeE04NGFVQm52QmtteEZzUy11RllQNlFlcFhhVDdmUWJvcmlLMWFvVEtuaUJTWWJaVjRKN1FNc2lwRVpBd3Eyc0phTmFFYWpSX2FWeW9tSk1kM01r?oc=5",
+      "original_publish_time": "2026-04-30T04:17:48+00:00",
+      "scraped_time": "2026-04-30T07:22:41.611042+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Ecco"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 5,
+      "summary": "Ecco turns leather waste into high-value footwear innovation Textile Today",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "f001f7f3c685",
+      "title": "I’m an NYC Fashion Editor, and I’m Replacing My Dated White Sneakers With The Cool Kicks I See on Every Block - instyle.com",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9lSkV6bnBBbmxnZFBiOVBPcGFaSUM1VWFjbkJBc2tTZEc4VC0wZWxQTHpYU3NlaUlzX1JBLVJyb2lVVnJTRnlRQnZMLXBRZkpxdVRCT2NjbGpBaGJUUHNVcmphcXhRZzI4WWZEVmN6elBXWl92TEh2Q0R3?oc=5",
+      "original_publish_time": "2026-04-30T03:30:00+00:00",
+      "scraped_time": "2026-04-30T07:22:42.312335+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "I’m an NYC Fashion Editor, and I’m Replacing My Dated White Sneakers With The Cool Kicks I See on Every Block instyle.com",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "2770f7c929a7",
       "title": "High-Tech Birkenstocks Are a Wake-up Call to Touch Grass",
@@ -1401,6 +1463,25 @@
       "keywords_matched": [],
       "relevance_score": 4,
       "summary": "Buckle up. The firs tof the month is crowded no matter what part of the calendar we’re turned to, but this is a mega-sized week... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Jordan 6 \"Cap and Gown,\" More Nike Mind, And This Week's Best Releases appeared first on Sneaker News . The post Jordan 6 “Cap and Gown,” More Nike Mind, And This Week’s Best Releases appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "51ba4ede2f5d",
+      "title": "Agra’s leather industry gets a global push as India-New Zealand FTA nears historic signing - India Blooms",
+      "source_name": "Google News - India Leather",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdEhZemJValN1RzFpWlBVUS1sQWMwaGtWSzV6bDBBc2ljNjgzV0tmUTFyTzlpb014Xy1DM2xRNGYtRFFBVDhOX1M3WmxUd0E4R0dZU0xDTjhzQ0RBT29TM1lOeVB2RHd3TkVKYU5DM1IwbGVydFA5ajJyWVZpQTlmZHd4VzA1OWcxUnJNUkpjX085bXF5YlZEdnpDSkU2ZVBQSDJmTExLeE4wQm5uSENidWpDOTJMUk0teGpyRkxFVmdtNWlDQ2p1cThiV2M4UQ?oc=5",
+      "original_publish_time": "2026-04-26T14:55:06+00:00",
+      "scraped_time": "2026-04-30T07:33:14.873161+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "leather industry"
+      ],
+      "relevance_score": 3,
+      "summary": "Agra’s leather industry gets a global push as India-New Zealand FTA nears historic signing India Blooms",
       "ren_take": "",
       "image_url": ""
     },
