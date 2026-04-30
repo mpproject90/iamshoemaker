@@ -1,8 +1,90 @@
 {
-  "last_updated": "2026-04-29T18:21:17.030754+00:00",
-  "total_articles": 96,
-  "sources_checked": 60,
+  "last_updated": "2026-04-30T00:09:19.947930+00:00",
+  "total_articles": 99,
+  "sources_checked": 62,
   "articles": [
+    {
+      "id": "2770f7c929a7",
+      "title": "High-Tech Birkenstocks Are a Wake-up Call to Touch Grass",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/birkenstock-mogami-terra-tec-loop-sandal/",
+      "original_publish_time": "2026-04-29T21:33:00+00:00",
+      "scraped_time": "2026-04-30T00:02:01.127175+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Birkenstock"
+      ],
+      "keywords_matched": [
+        "sandal"
+      ],
+      "relevance_score": 3,
+      "summary": "Birkenstock's sandals may be comfortable but that's no reason to take it's surprisingly excellent high-tech Mogami series sandals for granted.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "01b6d08eba6c",
+      "title": "Spanish Sneaker Brand Hoff Taps Nike Alum Nicolas De Ros Wallace as CEO",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/hoff-sneakers-nicolas-de-ros-wallace-ceo-1238934452/",
+      "original_publish_time": "2026-04-29T20:52:29+00:00",
+      "scraped_time": "2026-04-29T23:57:58.247614+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "He spent nearly 11 years at Nike, holding several leadership roles including vice president and general manager of Jordan Brand for EMEA.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "b500e64b831b",
+      "title": "The Footwear Collective, industry partners to process 30,525 pounds of collected shoes - Recycling Today",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQV2hPWGdWbjZ1Sk1ZSThhc2g0VV95RUVlZUEyMzNiSmJqMGxXYjctMVRyWHotMS1JVlRlak5ZdFRxSE1oV19iQ29fSEx2U0U4aHNlWldYUmZaRDlManVuRVU5SjJaak9QVkp1c21IWTFkcG5hNU5jdW10eEpHMFFNaU0yY1dmRjBONHNQdnBXQ2NQaWgzcy1IeQ?oc=5",
+      "original_publish_time": "2026-04-29T20:46:00+00:00",
+      "scraped_time": "2026-04-29T23:58:21.233182+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "shoes"
+      ],
+      "relevance_score": 6,
+      "summary": "The Footwear Collective, industry partners to process 30,525 pounds of collected shoes Recycling Today",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "4de0169f566b",
+      "title": "Give Chanel an Inch, It'll Take a Foot",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/chanel-feet-sandal-heel/",
+      "original_publish_time": "2026-04-29T19:22:00+00:00",
+      "scraped_time": "2026-04-30T00:02:01.127854+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "sandal",
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "Chanel's new sandals are shoes in the loosest sense of the word. Matthieu Blazy's wildest footwear to date is basically just a heel that leaves feet bare.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "c1b7aa6404cc",
       "title": "Nike Gives Its Sold-out, Mind-altering Sneaker a New Flyknit Upper",
@@ -1968,25 +2050,6 @@
       ],
       "relevance_score": 4,
       "summary": "Name: BEAMS x Paraboot CorsicaColorway: BlackSKU: 11320875099MSRP: ￥62,700 JPY (approx. $390 USD)Release Date: Available nowWhere to Buy: BEAMSBEAMS and Paraboot have joined forces to deliver an exclusive iteration of the classic Corsica. Serving as a hybrid silhouette, the collaborative model successfully merges the laid-back profile of a deck shoe with the refined structure of a traditional coin loafer.Crafted in Spain, the upper takes on a bold, asymmetric \"crazy pattern\" design that BEAMS is renowned for bringing to its collaborative projects. The shoe meticulously incorporates three distinct textures of premium cow leather across its paneling: a pebbled grain finish, a glossy smooth leather, and a soft, textural suede. This deliberate material clash adds an elevated, tactile edge to t",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "42cdc14318ab",
-      "title": "Despite Bankruptcy, QVC Footwear Is the Fastest-growing U.S. TikTok Shop - WWD",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVmp1dXN6Mk42Z3hwN3VUYWs2TTcwMnNuc3V5aFJ1MXd5dVc4aHpZTFYwLUlCTUJoSHNzMWFHR3RSbnpMNHQ0ZlhncGxveExSRTJRbmVLeE9JTEhYZHUydGIyTmZZenpMU2NhYkZPUEdDTnNVNkhFZ29LZUhrakNWWlp2SldySGVDbjl6MTVqWHVxcHJDejlteXBYelR3c19LUjFWUGhYRUVRNnRxZ2o3MEZtb1g?oc=5",
-      "original_publish_time": "2026-04-22T19:46:49+00:00",
-      "scraped_time": "2026-04-26T06:11:19.793598+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Despite Bankruptcy, QVC Footwear Is the Fastest-growing U.S. TikTok Shop WWD",
       "ren_take": "",
       "image_url": ""
     }
