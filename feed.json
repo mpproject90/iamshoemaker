@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-01T00:06:11.264412+00:00",
-  "total_articles": 111,
+  "last_updated": "2026-05-01T07:32:17.075254+00:00",
+  "total_articles": 109,
   "sources_checked": 62,
   "articles": [
     {
@@ -2253,47 +2253,6 @@
       ],
       "relevance_score": 6,
       "summary": "Athletic footwear loses ground in U.S. survey Sporting Goods Intelligence Europe",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "754abcc41665",
-      "title": "Clothing and footwear sales rebound in March",
-      "source_name": "Drapers",
-      "source_domain": "drapersonline.com",
-      "source_url": "https://www.drapersonline.com/news/clothing-and-footwear-sales-rebound-in-march",
-      "original_publish_time": "2026-04-24T07:04:39+00:00",
-      "scraped_time": "2026-04-26T08:18:48.788136+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Drapers Clothing and footwear sales rebound in March Sales of clothing and footwear rose in March, helping to drive a modest recovery in UK retail, as improved weather encouraged shoppers back into stores, the latest Retail Sales Index from the Office for National Statistics (ONS) shows. The post Clothing and footwear sales rebound in March appeared first on Drapers .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "3206b808486e",
-      "title": "Sun and Sea Come Together on This Summer-Ready Nike Dunk Low",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/4/dc-studios-tom-rhys-harries-clayface-trailer-stream-nike-dunk-low-sail-hydrogen-blue-ih2479-100-official-images",
-      "original_publish_time": "2026-04-24T03:37:07+00:00",
-      "scraped_time": "2026-04-26T06:10:18.147315+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "footwear",
-        "upper"
-      ],
-      "relevance_score": 4,
-      "summary": "Name: Nike Dunk Low “Sail/Hydrogen Blue”Colorway: Sail/Hydrogen Blue-Sail-Work BlueSKU: IH2479-100MSRP: $120 USDRelease Date: 2026Nike is bringing an expressive twist to a timeless basketball icon with the upcoming Nike Women's Dunk Low SE in \"Sail/Hydrogen Blue.\" Showcasing a balanced aesthetic, the latest addition to the brand's expansive footwear catalog blends heritage 1980s design with soft, modern color tones tailored for versatile everyday styling.Constructed for longevity and comfort, the sneaker features a premium upper crafted from a mix of real and synthetic leather. The exterior is specifically designed to soften over time, allowing the materials to naturally develop a unique vintage character with continued wear. A clean Sail base sets the foundation, which is seamlessly eleva",
       "ren_take": "",
       "image_url": ""
     }
