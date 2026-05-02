@@ -1,8 +1,27 @@
 {
-  "last_updated": "2026-05-02T00:06:25.968080+00:00",
-  "total_articles": 112,
-  "sources_checked": 62,
+  "last_updated": "2026-05-02T07:05:22.495188+00:00",
+  "total_articles": 115,
+  "sources_checked": 64,
   "articles": [
+    {
+      "id": "15510f2ccb8c",
+      "title": "‘Uzbekistan can serve as gateway for leather industry’ - Business Recorder",
+      "source_name": "Google News - Leather Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ub1FjYUlTZDBvUkJRd1JtRHIzX3JMUWpnblY2RzBCb0xabEw3QW9rbk1XaldkeDRvaHRmYkJrZDh5T3RhZWtZZmdRZWJ1Y2tCSUREeHl30gFWQVVfeXFMTm5vUWNhSVNkMG9SQlF3Um1EcjNfckxRamduVjZHMEJvTFpsTDdBb2tuTVdqV2R4NG9odGZiQmtkOHlPdGFla1lmZ1FlYnVja0JJRER4eXc?oc=5",
+      "original_publish_time": "2026-05-02T01:16:51+00:00",
+      "scraped_time": "2026-05-02T06:54:43.506342+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "leather industry"
+      ],
+      "relevance_score": 3,
+      "summary": "‘Uzbekistan can serve as gateway for leather industry’ Business Recorder",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "2ff0922b21b0",
       "title": "New Balance's Newest Split-Soled Shoe Has Twice the Sole, Twice the Love",
@@ -229,6 +248,27 @@
       "image_url": ""
     },
     {
+      "id": "6f6dfac25ab3",
+      "title": "Nike SB Gives the Dunk Low \"Muni Fast Pass\" Split Color-Blocking",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/5/nike-sb-dunk-low-muni-fast-pass-ir1888-700-release-info",
+      "original_publish_time": "2026-05-01T10:54:27+00:00",
+      "scraped_time": "2026-05-02T06:54:30.752486+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "Name: Nike SB Dunk Low “Muni Fast Pass”Colorway: Lightning/Denim Turquoise-Iron Grey-Wolf GreySKU: IR1888-700MSRP: $130 USDRelease Date: Available nowWhere to Buy: NikeThe Nike SB Dunk Low \"Muni Fast Pass\" is officially here in a striking \"Lightning\" and \"Denim Turquoise\" colorway, offering a strict exercise in high-contrast color-blocking.The physical mechanics of this release are defined by its hyper-specific material distribution. The design executes a dramatic lengthwise split down the center of the silhouette. This structural choice sharply divides the bright teal and yellow sections, creating an asymmetrical visual across the shoe's upper.Anchoring the declarative two-tone base, the profile is highlighted by a reflective silver Nike Swoosh. The metallic detailing provides a sharp fun",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
       "id": "74de4e5d0a36",
       "title": "GOAT’s New Discount Sneakers.com Marketplace Proves Hype Bubble Has Burst - Man of Many",
       "source_name": "Google News - Sneaker Brand",
@@ -244,6 +284,25 @@
       ],
       "relevance_score": 3,
       "summary": "GOAT’s New Discount Sneakers.com Marketplace Proves Hype Bubble Has Burst Man of Many",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "226338cefc21",
+      "title": "Nicole Kidman, 58, and Kendall Jenner, 30, Sold Me, 27 on the Sleek Spring Sneakers Every It Girl Is Wearing - instyle.com",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeVJYcEV6c092eDRENThpM0NvOEdlODZnbjJlMmJRRWpPZUdIWDlGcUFNdVBwanREQlY5VHVrbzVoZ2N5T3c0TC1TLVBlVGd4VEZuNGY2ZElwbWhDTHR0bkxUd0VrQWpoYXQ3MnFZZUZ3ak51TDU5TXFOVmNwRktuTFVfcw?oc=5",
+      "original_publish_time": "2026-05-01T05:30:00+00:00",
+      "scraped_time": "2026-05-02T06:54:42.281026+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "Nicole Kidman, 58, and Kendall Jenner, 30, Sold Me, 27 on the Sleek Spring Sneakers Every It Girl Is Wearing instyle.com",
       "ren_take": "",
       "image_url": ""
     },
