@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-02T07:05:22.495188+00:00",
-  "total_articles": 115,
+  "last_updated": "2026-05-02T11:57:39.832610+00:00",
+  "total_articles": 114,
   "sources_checked": 64,
   "articles": [
     {
@@ -19,6 +19,25 @@
       ],
       "relevance_score": 3,
       "summary": "‘Uzbekistan can serve as gateway for leather industry’ Business Recorder",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "52f49e6b05b4",
+      "title": "Scarlett Johansson, 41, Wore the Podiatrist-Approved Sneakers Shoppers Can Walk 20,000+ Pain-Free Steps In - instyle.com",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOU1qeTF2QlptR3FoUWt2elpabDZDWlJNclMxWXoyR1BzbmU0ajI2c1NnYTZ3WDhqX09CYWtjdEZaQ25wT05UR2xsUGdGM0dqQm0yaXlqQlZ4VFk0ZE5sNWl2ZkZEVGF0ZE5pY1BRM2hfNUNKRkM1OHBMZGpia2haNm9tUXNFdw?oc=5",
+      "original_publish_time": "2026-05-02T00:30:00+00:00",
+      "scraped_time": "2026-05-02T11:46:56.190592+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "Scarlett Johansson, 41, Wore the Podiatrist-Approved Sneakers Shoppers Can Walk 20,000+ Pain-Free Steps In instyle.com",
       "ren_take": "",
       "image_url": ""
     },
@@ -2332,46 +2351,6 @@
       ],
       "relevance_score": 3,
       "summary": "StockX just took a step forward in blurring the line between sneakers and financial assets with its latest feature: Store at StockX. At its core,... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post This New StockX Feature Makes Sneakers Like Actual Stocks appeared first on Sneaker News . The post This New StockX Feature Makes Sneakers Like Actual Stocks appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "38dcd0b0e23e",
-      "title": "If On Shoes Are for Everyone, Are They Still Ons? - The New York Times",
-      "source_name": "Google News - Sneaker Brand",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOY1VFU3ZhNDIxNGhkSlVkX3U0Y2tndjJkREZMSHFwNlpsM3dnQnAzbmlNbFRqLWFLOE5pSU5ORkZTVkpBZVQ2Zno1ZV9TcWZadjdaclZsaGVHX3ZBcW5XYlMyMW56ZHNwamVoXzJzdjQtemtCS2o5ZHFDUFVOeXlIdA?oc=5",
-      "original_publish_time": "2026-04-25T09:00:10+00:00",
-      "scraped_time": "2026-04-27T18:03:40.938516+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "If On Shoes Are for Everyone, Are They Still Ons? The New York Times",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "e0aa4225c286",
-      "title": "Hermès Opens 25th Leather Goods Workshop to Expand Production and Create 260 Jobs",
-      "source_name": "Leather News",
-      "source_domain": "leathernews.org",
-      "source_url": "https://leathernews.org/hermes-opens-25th-leather-goods-workshop-to-expand-production-and-create-260-jobs/",
-      "original_publish_time": "2026-04-25T08:15:58+00:00",
-      "scraped_time": "2026-04-26T06:09:16.233525+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Hermès"
-      ],
-      "keywords_matched": [
-        "leather goods"
-      ],
-      "relevance_score": 5,
-      "summary": "Hermès has opened a new leather goods workshop in Loupes, Gironde in France, to expand its production capacity and strengthen its regional presence. The site will employ 260 artisans. This is the brand’s 25th leather goods site in France and its sixth in the Nouvelle-Aquitaine region. Hermès continues to invest in the leather goods and ... Read more",
       "ren_take": "",
       "image_url": ""
     }
