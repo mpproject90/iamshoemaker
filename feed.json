@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-03T00:01:50.080108+00:00",
-  "total_articles": 112,
-  "sources_checked": 61,
+  "last_updated": "2026-05-03T07:21:32.442267+00:00",
+  "total_articles": 113,
+  "sources_checked": 62,
   "articles": [
     {
       "id": "be6f8c7e70a0",
@@ -104,6 +104,28 @@
       ],
       "relevance_score": 6,
       "summary": "Bahadurgarh’s footwear industry suffers Rs 10,000 crore loss due to Gulf War The Financial World",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "4cf1227d0ff7",
+      "title": "Reebok and ICECREAM Bring Back the Original Board Flip",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/5/pharrell-nigo-bbc-icecream-reebok-board-flip-release-info",
+      "original_publish_time": "2026-05-02T10:51:29+00:00",
+      "scraped_time": "2026-05-03T07:12:30.596106+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Reebok"
+      ],
+      "keywords_matched": [
+        "footwear",
+        "sneakers"
+      ],
+      "relevance_score": 4,
+      "summary": "SummaryReebok and ICECREAM have officially teamed up to re-release the Board Flip, a groundbreaking skate shoe initially launched in 2005 by Pharrell Williams and Billionaire Boys Club ICECREAMThe drop includes the return of the classic \"Watermelon\" colorway alongside the brand-new \"Pink Lemonade\" editionFollowing a BBC ICECREAM exclusive drop on May 1, the sneakers will see a wider global release on May 6, 2026 via ReebokHuge news for sneakerheads, skaters, and cultural archivists alike: the original luxury skate shoe is officially back. Reebok and ICECREAM have reunited to resurrect the Board Flip, a silhouette that marked a true turning point in the mainstream intersection of high fashion and skateboarding. Originally launched in 2005 as one of the earliest footwear expressions from cre",
       "ren_take": "",
       "image_url": ""
     },
