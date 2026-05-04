@@ -1,8 +1,126 @@
 {
-  "last_updated": "2026-05-04T12:33:17.317814+00:00",
-  "total_articles": 107,
+  "last_updated": "2026-05-04T18:23:59.842493+00:00",
+  "total_articles": 108,
   "sources_checked": 62,
   "articles": [
+    {
+      "id": "2f5d453a1587",
+      "title": "The Force Is With Jalen Brunson and His Darth Vader-inspired Nike Kobe Sneakers",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/jalen-brunson-star-wars-nike-kobe-sneakers-1238939208/",
+      "original_publish_time": "2026-05-04T17:51:00+00:00",
+      "scraped_time": "2026-05-04T18:12:30.902061+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "The Knicks star has said \"Revenge of the Sith\" is his favorite Star Wars film.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "dde9e87b6681",
+      "title": "10 WNBA Sneaker Stars to Watch Out For This Season - Sole Retriever",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVGZ6VE1la2pmU0JueXdWZzl6UmZRN1dDZkg0WlhWQVNuRnJRQW15TnFwbFRiTzRVYVAxSnJXSWcwaUZ5TnVPM0dyUDhUMGh4d3lfRHJBVUNENXpMQ05MR2lXYjlENGI2dnp4Q1V6OUgwNzNWN01LQ2VhMEtOME1LaXY2UHIwcTVxOHk0Sk5wN2R3bEd3dnlBV2NB?oc=5",
+      "original_publish_time": "2026-05-04T16:00:28+00:00",
+      "scraped_time": "2026-05-04T18:12:54.440374+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sole"
+      ],
+      "relevance_score": 3,
+      "summary": "10 WNBA Sneaker Stars to Watch Out For This Season Sole Retriever",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "f5d394a920d5",
+      "title": "Rising Prices Aren’t Keeping Consumers Away as Footwear Sales Grow in Q1",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/footwear-sales-data-q1-2026-circana-shoe-prices-1238938975/",
+      "original_publish_time": "2026-05-04T15:06:14+00:00",
+      "scraped_time": "2026-05-04T18:12:30.904490+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "shoes"
+      ],
+      "relevance_score": 4,
+      "summary": "Running shoes were the standout in the first quarter, delivering double-digit dollar and unit growth.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "c7bb255e113f",
+      "title": "Rack Room Taps Former Famous Footwear Exec Mike Edwards as CEO",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/rack-room-mike-edwards-ceo-1238938827/",
+      "original_publish_time": "2026-05-04T14:38:00+00:00",
+      "scraped_time": "2026-05-04T18:12:30.905038+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "The executive was most recently president of Famous Footwear, and succeeds long-time Rack Room president and CEO Mark Lardie, who is retiring.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "fb2526998c8c",
+      "title": "US Footwear Industry Delivers Modest First-Quarter Growth Driven by Price Increases and Strength in Performance Segment, Circana Reports - Yahoo Finance Singapore",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUFVIRnhMU1p1cU5RRl9mSFBtRE1nUDhXNUxHZGsxWjQ4ZGpLUGpIQTljWmZJZDI2dU8xNzBCaklXS0JnRkdKLVpnb3FZdTlxeTBiWFV1ZEYtbWVmWTVSS1haVHBTQmVuMGExbGtUZlJiMm14WUhWdkRWdHo0cm16ZGdxWlVHTEVfd3BBZXRn?oc=5",
+      "original_publish_time": "2026-05-04T14:09:00+00:00",
+      "scraped_time": "2026-05-04T18:12:53.717230+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "footwear industry"
+      ],
+      "relevance_score": 6,
+      "summary": "US Footwear Industry Delivers Modest First-Quarter Growth Driven by Price Increases and Strength in Performance Segment, Circana Reports Yahoo Finance Singapore",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "cb4300b45f85",
+      "title": "Today's Best Sneakers Don’t Need Limited Drops to Prove It",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/the-best-sneakers-right-now-dont-need-a-drop-to-prove-it/",
+      "original_publish_time": "2026-05-04T13:05:02+00:00",
+      "scraped_time": "2026-05-04T18:16:18.467705+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "Good sneakers are those that don't need fake scarcity to flaunt their worth, but do so on their own. KicksCrew eliminates the barriers that've sealed the best",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "e38cc4be0e34",
       "title": "PUMA Drops the Spiked and Stealthy Mostro Freedom Sneaker",
@@ -2099,114 +2217,6 @@
       ],
       "relevance_score": 6,
       "summary": "The nonprofit will host more than three dozen \"4EveryKid\" events in the U.S. and Canada this year.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "796dd4d2c18b",
-      "title": "30 Years Later, Nike’s Air Max Is Still the Freshest in the French Blue Sea",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-air-max-95-slate-2026/",
-      "original_publish_time": "2026-04-27T17:38:32+00:00",
-      "scraped_time": "2026-04-27T18:07:39.397225+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "sole"
-      ],
-      "relevance_score": 3,
-      "summary": "Nike's OG Air Max 95 \"Slate\" sneaker returns with Big Bubble soles for 2026. Here's everything on the revival.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "4ee92d13813f",
-      "title": "JJJJound's New Balance 1890 Is a Tuxedo In a Sneaker",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/4/jjjjound-new-balance-1890-ss26-release-date-info-1",
-      "original_publish_time": "2026-04-27T16:38:39+00:00",
-      "scraped_time": "2026-04-27T18:03:28.849977+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [
-        "New Balance"
-      ],
-      "keywords_matched": [
-        "footwear",
-        "midsole",
-        "sole",
-        "upper"
-      ],
-      "relevance_score": 6,
-      "summary": "SummaryJJJJound applies its signature minimalism to the New Balance 1890, featuring a \"tuxedo\" aesthetic with black mesh, contrast white tongues, and sleek satin-like taping.Built with ABZORB midsoles for impact absorption, the lifestyle-runner hybrid is expected to drop during the SS26 season, continuing the brand's series of elevated, monochromatic collaborations.Yet another JJJJound New Balance collaboration is coming this season, centering on the 1890, which has become one of the footwear brand's central models of the moment. Following recent variants from Action Bronson and JoeFreshGoods, JJJJound puts its signature minimalism to work in an elevated black-and-white makeup.In a way, the JJJJound colorway looks a lot like a tuxedo: picture the uppers as the jacket and tongue as the shir",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "207534f2b0bf",
-      "title": "Adidas’ Record-Breaking Marathon Sneakers Hit More Than $5K on Resale Market",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/adidas-london-marathon-sneaker-resale-thousands-pro-evo-3-1238930358/",
-      "original_publish_time": "2026-04-27T15:11:32+00:00",
-      "scraped_time": "2026-04-27T18:03:16.936544+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 5,
-      "summary": "Resellers are asking upwards of $5,500 on StockX in larger sizes.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "e9f267b3b764",
-      "title": "All About the Shoes in ‘The Devil Wears Prada 2,’ From Miranda’s Balenciaga Heels to Andy’s Glittering Aquazzura Pumps",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-trends/devil-wears-prada-2-shoes-molly-rogers-interview-1238927063/",
-      "original_publish_time": "2026-04-27T14:46:12+00:00",
-      "scraped_time": "2026-04-27T18:03:16.938862+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Louboutin",
-        "Balenciaga",
-        "Prada"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 8,
-      "summary": "Aquazzura, Celine, Christian Louboutin and more brands are featured.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "3903702225a6",
-      "title": "Footwear Market Analysis By Application, Type, Technology, - openPR.com",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPd1g1V0hjTVFqMVhKRGt1RUVrRVhkeWtMS1pnTmZpWGRkUVR3cUU4MEJtMXRhdG5wT0w4M2pMUnI2SDFMN0x0cXB1alR6OC1zYXFCVnhJUnVxWXM4Rjk1TkZ5dlJmMXU5R1VQUXdjWGc3TDR1aW1XSGRCc0tnNDdvYTk3MzUyeTRGZ2xsVjRGaFVnZDlDR2c?oc=5",
-      "original_publish_time": "2026-04-27T13:53:11+00:00",
-      "scraped_time": "2026-04-27T18:03:40.143910+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Footwear Market Analysis By Application, Type, Technology, openPR.com",
       "ren_take": "",
       "image_url": ""
     }
