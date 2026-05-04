@@ -1,8 +1,69 @@
 {
-  "last_updated": "2026-05-04T00:04:11.823220+00:00",
-  "total_articles": 110,
+  "last_updated": "2026-05-04T07:52:26.256813+00:00",
+  "total_articles": 112,
   "sources_checked": 62,
   "articles": [
+    {
+      "id": "0b7384c0ddfd",
+      "title": "West Asia crisis: Leather & footwear industry seeks duty exemptions on critical inputs - The Economic Times",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOLU9NSEJBanhLZWpoWFV0eGt3dklwbTB1Mm5hbWFUSkozQlNVb0dReWtWUWJBb1E3aUktQzl4TGhFaC1IeW1YbGQxNWZCSDhFb2dTQm91bnJlWWJ0VTk1ZUtYX2NydUZpdzhQVWhqTC1rRGhsRnRCODRXTTRUaTAtdTJ3d3NuQjFNZmQ1WHhheUE2YmN4bDVKdm9NdzNCR0RMOWdwRFlZV0toU1ZVTUNnS3VOMWNWd2tuMXJzUnB5WlRRdURKQ01zX0Z1VjNtQmpfN0VDWmJHR2tRNWRIYVZHUkE5RVZmTGV5bGNfakRQc2RpWjJsb2U2VVpTQVlIdFHSAYQCQVVfeXFMT1pQRUU0UVgtM21zOWFvdlU1cDZLbnU3dDdfNVVidS1UaURyMFJyRERGczhGMjBfOGhmelJRb244bVVzNTFTVFNXN3RIN29lV0FTYURvU3JHWGdDTE1CMnlHbDNEQ3A3c3pqWjJRR2xORTdIU3kybEVjN3hMdXYxdUhSSGtpYXJLMUNOU3dPNXctZG1URG8ycVdVZ3BJckpmdlJOa1doVVlUYmJYb2VlTUZBbjRWMFUyeDRscXFKcHA5X2VTRzdCYkpvSThKOUU5VEhkN09Kc2xJb2llcC1BUHR2YUFVWHY0Q3hiQm9scEl3dXpVWXotMVJ6VldJR1R5UU9udjU?oc=5",
+      "original_publish_time": "2026-05-04T05:26:14+00:00",
+      "scraped_time": "2026-05-04T07:41:57.711093+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "footwear industry"
+      ],
+      "relevance_score": 6,
+      "summary": "West Asia crisis: Leather & footwear industry seeks duty exemptions on critical inputs The Economic Times",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "be93f44ffdb7",
+      "title": "Official Look at the Song for the Mute x adidas SFTM-009 Samba Friezeit",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/5/song-for-the-mute-adidas-originals-007-collection-sftm-009-samba-friezeit-ki4761-black-ki4762-brown-official-images-release-info",
+      "original_publish_time": "2026-05-04T05:04:26+00:00",
+      "scraped_time": "2026-05-04T07:41:46.668977+00:00",
+      "time_delta_mins": 0,
+      "category": "Quality",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "footwear",
+        "sole"
+      ],
+      "relevance_score": 4,
+      "summary": "Name: Song for the Mute x adidas Originals Samba FriezeitColorway: Black, BrownSKU: KI4761, KI4762MSRP: TBCRelease Date: May 8Where to Buy: Song for the Mute, adidasAustralian label Song for the Mute and adidas are set to return with their latest “007” collaborative collection – a comprehensive range featuring both apparel and footwear. Spotlighted within the lineup is the SFTM‑009 Samba Freizeit, a chunky‑soled reinterpretation of a smart leather shoe. This silhouette reimagines the heritage Samba through a “Freizeit” (leisure) lens, debuting in two sophisticated colorways: a monochromatic Black and a deep Brown.Both pairs are crafted from tumbled leather in black or brown, accented by off‑white Three Stripes for contrast. The finish emphasizes durability while maintaining a refined, prem",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "bbed19e9e735",
+      "title": "The adidas Anthony Edwards Believe That Checks Off Essential “Core Black”",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/05/03/adidas-anthony-edwards-believe-that-core-black-carbon-silver-metallic-kj3147/",
+      "original_publish_time": "2026-05-04T00:00:52+00:00",
+      "scraped_time": "2026-05-04T07:41:46.830065+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "The shorthanded Minnesota Timberwolves managed to squeeze past the Denver Nuggets in the first round, keeping alive the possibility that we haven’t seen the last... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The adidas Anthony Edwards Believe That Checks Off Essential \"Core Black\" appeared first on Sneaker News . The post The adidas Anthony Edwards Believe That Checks Off Essential “Core Black” appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "ddd0dc83715d",
       "title": "HOKA’s Cushiest Trail Runner Gets a Laceless Summer Spin-off",
@@ -2250,28 +2311,6 @@
       ],
       "relevance_score": 4,
       "summary": "SummaryMemphis Grizzlies point guard Ja Morant bypassed traditional press releases to personally unveil his fourth signature shoe, the Nike Ja 4, via his social media accountsThe new silhouette features a streamlined, soccer boot-inspired design with a textured upper, an inverted Swoosh, and a cleverly integrated \"JA\" logoMorant previewed five distinct initial colorways, showcasing a variety of bold, high-contrast palettesTired of early internet leaks ruining the surprise, Ja Morant has decided to take control of his own sneaker narrative. The Memphis Grizzlies superstar recently took to Instagram and X (formerly Twitter) to officially unveil his fourth signature basketball shoe, the Nike Ja 4. Bypassing a traditional glossy press release from the Swoosh, the point guard shared a series of",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "472e827530c4",
-      "title": "An Early Look at G-Dragon’s PEACEMINUSONE x Nike Korea World Cup Collab",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/4/nike-g-dragon-peaceminusone-world-cup-korea-football-association-collaboration-first-look",
-      "original_publish_time": "2026-04-27T06:46:03+00:00",
-      "scraped_time": "2026-04-27T07:28:37.488586+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "boot",
-        "footwear"
-      ],
-      "relevance_score": 5,
-      "summary": "SummaryNike is reportedly launching a massive seven-part collaboration to celebrate the 2026 FIFA World CupG-Dragon's PEACEMINUSONE will helm the South Korea capsule, featuring custom matchday apparelThe collection will also introduce a special colorway of the new Nike Cryo Shot silhouette, inspired by retro football bootsG-Dragon's PEACEMINUSONE and Nike are reportedly prepping a \"World Cup Korea\" capsule as part of a massive seven-brand collaboration collection celebrating the 2026 FIFA World Cup. According to first look images, the K-pop icon's label will team up with the Korea Football Association to release custom matchday apparel and new footwear.While official images have yet to surface, reports suggest the collection will heavily feature functional, sport-ready garments tailored fo",
       "ren_take": "",
       "image_url": ""
     }
