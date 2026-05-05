@@ -1,8 +1,111 @@
 {
-  "last_updated": "2026-05-04T18:23:59.842493+00:00",
-  "total_articles": 108,
-  "sources_checked": 62,
+  "last_updated": "2026-05-05T00:08:59.167994+00:00",
+  "total_articles": 109,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "2621aa22d67d",
+      "title": "Nike’s Sweetest Air Max Has Cotton Candy in Its Soles",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-air-max-95-white-hyper-turquoise/",
+      "original_publish_time": "2026-05-04T22:15:14+00:00",
+      "scraped_time": "2026-05-05T00:01:27.848551+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sole"
+      ],
+      "relevance_score": 5,
+      "summary": "Nike's Air Max 95 Big Bubble \"Hyper Turquoise\" sneaker brings cotton candy-level sweetness to the collection. \"South Beach\" vibes, too.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "450c58d566ff",
+      "title": "Nike's Very Colorful Jordan Sneaker Is Proudly Team Brazil",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/jordan-3-brazil/",
+      "original_publish_time": "2026-05-04T22:12:58+00:00",
+      "scraped_time": "2026-05-05T00:01:27.847169+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "The Air Jordan 3 \"Brazil\" sneaker gets a colorful design inspired by the Brazilian national team's jerseys, which were also designed by Jordan.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "48f4a5a8e4ba",
+      "title": "Nike’s Breezy Recovery Sneaker Tastes Better With Jelly",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-rejuven8-run-jelly-sneakers/",
+      "original_publish_time": "2026-05-04T22:07:34+00:00",
+      "scraped_time": "2026-05-05T00:01:27.847821+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "Nike reveals a jelly version of its revived Rejuven8 sneaker, just in time for the summer. Here's everything on the newest recovery shoes.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "005b28bf1d25",
+      "title": "The Nike Air Max 95 Big Bubble ‘South Beach’ Takes a Page From One of LeBron’s Most Iconic Sneakers",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-air-max-95-south-beach-release-date-ir1473-060-1238939650/",
+      "original_publish_time": "2026-05-04T21:33:20+00:00",
+      "scraped_time": "2026-05-04T23:57:39.678667+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "Subtly incorporating turquoise and pink.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "7434afde3110",
+      "title": "Jordan Poole Polishes A Golden Nike GT Cut 4",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/05/04/nike-zoom-gt-cut-4-jordan-poole-ir7206-700/",
+      "original_publish_time": "2026-05-04T21:00:45+00:00",
+      "scraped_time": "2026-05-04T23:57:51.632371+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "At the end of the day, everyone in the NBA wants to be a signature athlete (well, save for Jalen Brunson), but for those players... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Jordan Poole Polishes A Golden Nike GT Cut 4 appeared first on Sneaker News . The post Jordan Poole Polishes A Golden Nike GT Cut 4 appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "2f5d453a1587",
       "title": "The Force Is With Jalen Brunson and His Darth Vader-inspired Nike Kobe Sneakers",
@@ -99,6 +202,25 @@
       ],
       "relevance_score": 6,
       "summary": "US Footwear Industry Delivers Modest First-Quarter Growth Driven by Price Increases and Strength in Performance Segment, Circana Reports Yahoo Finance Singapore",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "c46ca33f7be5",
+      "title": "Rack Room Shoes Appoints New CEO to Drive Continued Growth - StreetInsider",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcnFZdFJEVnVPd2puUDJaTlVibWdQdjJoV2gyQjhhdWhCaGE3dkw3WUtfUmNHbWZRYnpmWWlib2szSkZ6OUhxVzh1bzJwUWRiQzBYMlR4d055bUU5bi1IUUZXcjI5YTJfbzRTek85NDl4SnVNZ2Q5RnYxMTlvQ3lPSElXb1JLZy1XcENEQjhxQTg1UzFpSF9QelEtV1pCLWxsdTAtVGRJR2xrZC1iLUJmdQ?oc=5",
+      "original_publish_time": "2026-05-04T14:06:26+00:00",
+      "scraped_time": "2026-05-04T23:58:02.419891+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "Rack Room Shoes Appoints New CEO to Drive Continued Growth StreetInsider",
       "ren_take": "",
       "image_url": ""
     },
@@ -2114,109 +2236,6 @@
       ],
       "relevance_score": 3,
       "summary": "Name: BEAMS x Clarks Originals WallaBeams Loafer GTXColorway: TBCSKU: TBCMSRP: ¥34,100 JPY (approx. $215 USD)Release Date: May 2Where to Buy: BEAMSTo commemorate a half-century of shaping Japanese fashion, BEAMS and Clarks Originals have partnered to introduce the \"WallaBeams Loafer GTX,\" a weather-ready reimagining of an enduring classic.Ditching the familiar suede, the \"WallaBeams Loafer GTX\" applies a minimalist approach with a smooth black leather upper transformed into a streamlined loafer specification. Beneath the refined exterior lies serious technical utility, as the construction is reinforced with a GORE-TEX lining. This crucial addition provides both waterproofing and breathability, ensuring the slip-on is equipped for unpredictable weather and active daily wear. By balancing th",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "dcf9fed0d5da",
-      "title": "The Air Jordan 1 Low Grabs “Spruce Fog” Suede Patches",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/04/27/air-jordan-1-low-spruce-fog-jade-stone-cargo-khaki-ir7327-304/",
-      "original_publish_time": "2026-04-27T21:30:29+00:00",
-      "scraped_time": "2026-04-27T23:57:11.866703+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Jordan"
-      ],
-      "keywords_matched": [
-        "footwear",
-        "welt"
-      ],
-      "relevance_score": 4,
-      "summary": "Zig when everyone else is zagging. The approach of summer means that mesh footwear will soon be at a yearly peak, ensuring comfortability throughout sweltering... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Air Jordan 1 Low Grabs \"Spruce Fog\" Suede Patches appeared first on Sneaker News . The post The Air Jordan 1 Low Grabs “Spruce Fog” Suede Patches appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "fda3dcaad82e",
-      "title": "Nike’s Olive-Toned Slipper Sneaker Looks Crazy Good",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-air-superfly-moc-medium-olive/",
-      "original_publish_time": "2026-04-27T21:28:35+00:00",
-      "scraped_time": "2026-04-28T00:00:43.059718+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "Nike debuts luxe suede Air Superfly Moc sneakers in \"Medium Olive,\" taking the laceless model to \"quiet luxury\" levels.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "3a6d314f0adf",
-      "title": "Anthony Edwards’ adidas Believe That 1 “Lucid Blue” Drops This Summer",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/04/27/adidas-anthony-edwards-believe-that-lucid-blue-court-green-lucid-blue-iq9475/",
-      "original_publish_time": "2026-04-27T20:30:02+00:00",
-      "scraped_time": "2026-04-27T23:57:11.869034+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "The best of times, the worst of times. The Minnesota Timberwolves secured a commanding 3-1 lead in their series against the Nuggets, with particular thanks... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Anthony Edwards’ adidas Believe That 1 “Lucid Blue” Drops This Summer appeared first on Sneaker News . The post Anthony Edwards’ adidas Believe That 1 “Lucid Blue” Drops This Summer appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "e30e67d8b5b8",
-      "title": "UBS Predicts 40,000 More Stores Could Close in the Next Five Years. Why Footwear Retailers Could Buck the Trend",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/dicks-academy-sporting-goods-dtc-on-running-deckers-1238930579/",
-      "original_publish_time": "2026-04-27T19:55:31+00:00",
-      "scraped_time": "2026-04-27T23:56:58.894154+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "On Running"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 4,
-      "summary": "Core Dick's Sporting and Academy Outdoor + Sports are Tops in Sporting Goods, while DTC focus and pricing power give On Running and Deckers the edge.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "228fe3fd466f",
-      "title": "Soles4Souls and Caleres Team Up to Outfit 200 Harlem Students With New Sneakers",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/soles4souls-caleres-sneaker-event-harlem-school-1238930888/",
-      "original_publish_time": "2026-04-27T19:10:49+00:00",
-      "scraped_time": "2026-04-27T23:56:58.896947+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "sneakers",
-        "sole"
-      ],
-      "relevance_score": 6,
-      "summary": "The nonprofit will host more than three dozen \"4EveryKid\" events in the U.S. and Canada this year.",
       "ren_take": "",
       "image_url": ""
     }
