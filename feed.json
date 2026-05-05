@@ -1,8 +1,67 @@
 {
-  "last_updated": "2026-05-05T12:14:17.850323+00:00",
-  "total_articles": 104,
+  "last_updated": "2026-05-05T18:19:31.113520+00:00",
+  "total_articles": 103,
   "sources_checked": 62,
   "articles": [
+    {
+      "id": "4d10de84d283",
+      "title": "Public School Designers Maxwell Osbourne and Dao-Yi Chow Don Bespoke Timberland Boots at 2026 Met Gala",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-trends/timberland-boots-met-gala-2026-public-school-designers-1238943381/",
+      "original_publish_time": "2026-05-05T17:23:26+00:00",
+      "scraped_time": "2026-05-05T18:08:11.309022+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Timberland"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 5,
+      "summary": "Timberland also appeared on last year’s Met Gala red carpet with Luar and “Industry” star Myha'la.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "629217a25ed5",
+      "title": "NBA Star Jimmy Butler Wears Head-to-toe Alo to Met Gala, Including Patent Leather Sneakers",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/jimmy-butler-met-gala-2026-custom-alo-outfit-1238942558/",
+      "original_publish_time": "2026-05-05T14:55:06+00:00",
+      "scraped_time": "2026-05-05T18:08:11.313417+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "His Met Gala debut came in Alo's Sunset Sneaker.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "440a7164b9f2",
+      "title": "Mom-Approved Spring Sneakers Start at $39 on Amazon - instyle.com",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE10LTJaUWt3WklQUVJ3dTRaUVBXV3Jhal9hMFFrYzZIakZVMGl6NEZyZzRpRVdiVEhUclRfMkxZNG42U2FManZTQi13TnJpckNNSDJvZHA4Ykc2Y09LMjJiNFFfZWZWYjY4WWkxRGxobm1kZw?oc=5",
+      "original_publish_time": "2026-05-05T10:45:00+00:00",
+      "scraped_time": "2026-05-05T18:08:35.100079+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "Mom-Approved Spring Sneakers Start at $39 on Amazon instyle.com",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "4d2d2f6f7a8f",
       "title": "Ferxxo’s Neon Green Salomon XT‑4 OG Is a Raffle‑Only Release",
@@ -187,6 +246,25 @@
       "keywords_matched": [],
       "relevance_score": 4,
       "summary": "At the end of the day, everyone in the NBA wants to be a signature athlete (well, save for Jalen Brunson), but for those players... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Jordan Poole Polishes A Golden Nike GT Cut 4 appeared first on Sneaker News . The post Jordan Poole Polishes A Golden Nike GT Cut 4 appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "426602d0c291",
+      "title": "Report: U.S. Footwear Sales Inched Up in Q1 on Rising ASPs, Performance Strength - SGB Media",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSW9QaFBoOWlpOXJOSmRpeHdQU1libklJbUVfSFNuOERaWDE1T2tmZjdXd3RSUEsxWmItcFUtNUhHVFI0ZDVDQnN1c0FXdGtZbXpMNDI1b1p0NVl0N3BKVjZLNnhLVDVPXzg5UHJUZWs3ZUZzaWtUd1RZS3ozLWd0NVFEZ1J4VThyRk1hNEd2R3dlRFAtOHNNVHdONXhnUG50dDl3RXlqRTdjdHRLUG1CTg?oc=5",
+      "original_publish_time": "2026-05-04T18:58:55+00:00",
+      "scraped_time": "2026-05-05T18:08:34.342029+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Report: U.S. Footwear Sales Inched Up in Q1 on Rising ASPs, Performance Strength SGB Media",
       "ren_take": "",
       "image_url": ""
     },
@@ -2026,108 +2104,6 @@
       "keywords_matched": [],
       "relevance_score": 3,
       "summary": "Throughout 2025, as the Nike Air Max 95 relished in all its 30-year anniversary and the Air Jordan 5 similarly gallivanted as it checked off... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike Air Max 90 “Liquid Silver” Returns In 2026 appeared first on Sneaker News . The post Nike Air Max 90 “Liquid Silver” Returns In 2026 appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "30db3f2656c4",
-      "title": "By Giving Its New Dad Shoe Some Bite, ASICS Sets an Elderly Pace",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/asics-gel-kayano-12-pace-collab/",
-      "original_publish_time": "2026-04-28T17:00:01+00:00",
-      "scraped_time": "2026-04-28T18:19:04.088186+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "ASICS"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "The PACE x ASICS Gel-Kayano 12.1 is the dad shoe with texture, attitude, and quiet flex, setting the pace for sneakers with real style.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "689e74a46bd2",
-      "title": "New Balance Gave All of Its Most Popular Sneakers New Looks for Its Biggest Grey Days Collection Yet",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/new-balance-grey-days-2026-release-date-1238931772/",
-      "original_publish_time": "2026-04-28T15:51:23+00:00",
-      "scraped_time": "2026-04-28T18:15:16.643547+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "New Balance"
-      ],
-      "keywords_matched": [
-        "shoes",
-        "sneakers"
-      ],
-      "relevance_score": 6,
-      "summary": "20 different shoes are included in the latest collection.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "0fac801b835e",
-      "title": "The Boldest Shoe Moments in Met Gala History, From Teyana Taylor’s Kiki Boots to Lady Gaga’s Pleaser Heels and More",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-trends/feature/met-gala-crazy-shoe-moments-1238929276/",
-      "original_publish_time": "2026-04-28T14:38:10+00:00",
-      "scraped_time": "2026-04-28T18:15:16.646215+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "boot",
-        "shoes"
-      ],
-      "relevance_score": 4,
-      "summary": "See the highest, most daring shoes at the event.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "b601f3189766",
-      "title": "Brands Briefing: How higher oil prices are shaking up the footwear industry - Modern Retail",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVUFJOXVvS1JibzMyTXVjMW9VV1hQd2JxdWpTaU5mdXJEUkd2dkRyUDB6WE1KVm1aSVZoUGh1SVVRSmlnZ1Nuc21KU0NWM3I1Y1A2WGM0R1RFVEV4eWdzOUxkd2VRRHpCM2VyTUlPTVYwd3BZNGpKVU5kNUxRZy01SWhqZnd5dVN5d29hbFk3X3FWdlR1YXZWN2VreUVuc1ktR01iVnJ6RnBjTHU2WU51Z3ZpRDI?oc=5",
-      "original_publish_time": "2026-04-28T14:01:56+00:00",
-      "scraped_time": "2026-04-28T18:15:39.638302+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "footwear industry"
-      ],
-      "relevance_score": 6,
-      "summary": "Brands Briefing: How higher oil prices are shaking up the footwear industry Modern Retail",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "d2eda5dbf18f",
-      "title": "Alpargatas S.A. stock (BRALPAACNPR0): Why does its foothold in global footwear markets matter more n - AD HOC NEWS",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNR09GaGtfQW43c2tvZkdJdWRxUlN0SEZCTkw2ZVJYTFlHcWFXalJ0QnVuRVFaOXkxNnl2azFWV3hsWkJtQW5vOFU4eEhSRHZXNUpLWmJjSF9ldFlMNG5UNUxuXzMweEFtNnFoV2tMQmRxb3FkdmVfdlc3dFBTeWpJYy1ZSXRYbG5EV3R2ZldBTnlZQndmdE83akh6U0JQS0xvOGdlWVAtcTRzTEhPcWU5X2llTGlNUDdBN1E1bFp6RFN3dw?oc=5",
-      "original_publish_time": "2026-04-28T13:15:50+00:00",
-      "scraped_time": "2026-04-28T18:15:39.640436+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Alpargatas S.A. stock (BRALPAACNPR0): Why does its foothold in global footwear markets matter more n AD HOC NEWS",
       "ren_take": "",
       "image_url": ""
     }
