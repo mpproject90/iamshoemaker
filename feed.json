@@ -1,8 +1,27 @@
 {
-  "last_updated": "2026-05-05T00:08:59.167994+00:00",
-  "total_articles": 109,
-  "sources_checked": 61,
+  "last_updated": "2026-05-05T07:20:49.500708+00:00",
+  "total_articles": 108,
+  "sources_checked": 62,
   "articles": [
+    {
+      "id": "689b175c61a1",
+      "title": "The Best Shoes at the 2026 Met Gala: Sabrina Carpenter, Tyla and More",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-trends/met-gala-2026-best-shoes-1238942008/",
+      "original_publish_time": "2026-05-05T03:50:23+00:00",
+      "scraped_time": "2026-05-05T07:09:44.209928+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "Statement heels dominated the 2026 Met Gala red carpet as stars like Sabrina Carpenter embraced the style.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "2621aa22d67d",
       "title": "Nike’s Sweetest Air Max Has Cotton Candy in Its Soles",
@@ -221,6 +240,25 @@
       ],
       "relevance_score": 3,
       "summary": "Rack Room Shoes Appoints New CEO to Drive Continued Growth StreetInsider",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "05d285e3f8a1",
+      "title": "The Highly Exclusive \"BIN 23\" Collection Returns With the Air Jordan 3",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/5/air-jordan-3-og-bin-23-io7744-600-release-info",
+      "original_publish_time": "2026-05-04T13:37:50+00:00",
+      "scraped_time": "2026-05-05T07:09:55.439650+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "Name: Air Jordan 3 OG \"BIN 23\"Colorway: Team Red/Burgundy Crush-Coconut Milk-Metallic GoldSKU: IO7744-600MSRP: $355 USDRelease Date: June 13, 2026Where to Buy: NikeJordan Brand is officially bringing one of its most revered and exclusive lines back into focus. The highly coveted BIN 23 collection—famous for its uncompromising approach to luxury materials and craftsmanship—is making its return, and for the first time ever, the Air Jordan 3 is joining the ranks. Highlighted by official images revealing premium details and elevated accessories, the Air Jordan 3 \"BIN 23\" is already shaping up to be one of the most limited and sought-after retros of 2026.The Air Jordan 3 \"BIN 23\" arrives in an opulent color scheme of Team Red, Burgundy Crush, and Metallic Gold. Swapping out traditional leather,",
       "ren_take": "",
       "image_url": ""
     },
@@ -2173,69 +2211,6 @@
       ],
       "relevance_score": 3,
       "summary": "Name: ‘Star Wars’ x Crocs Classic Clog “Mandalorian,” ‘Star Wars’ x Crocs Classic Clog “Grogu”Colorway: MultiSKU: 212997-90H, 213003-90HMSRP: $80 USD (“Mandalorian”), $70 USD (“Grogu”)Release Date: May 4Where to Buy: CrocsThe latest Star Wars x Crocs collection is arriving as both a structural homage to Mandalorian armor and a timely nod to galactic pop culture. Releasing ahead of The Mandalorian & Grogu film, the collaborative footwear lineup delivers three distinct takes on the ubiquitous slip-on.For decades, the Star Wars universe has shaped the visual language of sci-fi, and this latest partnership distills that sprawling lore into wearable, everyday components. Leading the drop is the \"Mandalorian\" iteration, which radically alters the Classic Clog's standard construction by entirely ",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "564b8bc11b11",
-      "title": "U.S. Consumer & Executive Footwear Survey - Mondaq",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYlJoZnRaRUJ0MklIZlpocU4wMzBGMmZCa3lkQTcwVmhqam5yTUVWUm1QazA1bmlNbDN4Q3JoWkRDa0k4NG4yanZhdnpzNlA1MlJCVllDeHNmZGlJZzlISVVvNlRzaGRIZmpwSlJ2blZ5ZG02WjQ2TDRsSTZ4dGpYYzZ3NUFmSUhJUFA2djVLQ1JQSldDSGQ3eDh3?oc=5",
-      "original_publish_time": "2026-04-28T07:00:00+00:00",
-      "scraped_time": "2026-04-30T12:16:31.087630+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "U.S. Consumer & Executive Footwear Survey Mondaq",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "16b2f191e1ee",
-      "title": "City trails and sleek silhouettes: Merrell’s EMEA boss on getting consumers to step outside",
-      "source_name": "Drapers",
-      "source_domain": "drapersonline.com",
-      "source_url": "https://www.drapersonline.com/insight/analysis/city-trails-and-sleek-silhouettes-merrells-emea-boss-on-getting-consumers-to-step-outside",
-      "original_publish_time": "2026-04-28T06:53:15+00:00",
-      "scraped_time": "2026-04-28T12:27:12.912541+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Merrell",
-        "Wolverine",
-        "Wolverine Worldwide"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 5,
-      "summary": "Drapers City trails and sleek silhouettes: Merrell’s EMEA boss on getting consumers to step outside As Wolverine Worldwide-owned footwear brand Merrell is bagging new stockists and demographics in a bid to get more consumers outside, EMEA vice-president and general manager Tim Selby explains its strategies. The post City trails and sleek silhouettes: Merrell’s EMEA boss on getting consumers to step outside appeared first on Drapers .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "5fdc8fa6aa5c",
-      "title": "BEAMS Sheds the Laces to Turn the Clarks Wallabee Into a Weather-Ready Loafer",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/4/beams-50th-anniversary-clarks-originals-wallabeams-loafer-gtx-release-info",
-      "original_publish_time": "2026-04-28T06:45:59+00:00",
-      "scraped_time": "2026-04-28T07:25:40.158584+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Clarks"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "Name: BEAMS x Clarks Originals WallaBeams Loafer GTXColorway: TBCSKU: TBCMSRP: ¥34,100 JPY (approx. $215 USD)Release Date: May 2Where to Buy: BEAMSTo commemorate a half-century of shaping Japanese fashion, BEAMS and Clarks Originals have partnered to introduce the \"WallaBeams Loafer GTX,\" a weather-ready reimagining of an enduring classic.Ditching the familiar suede, the \"WallaBeams Loafer GTX\" applies a minimalist approach with a smooth black leather upper transformed into a streamlined loafer specification. Beneath the refined exterior lies serious technical utility, as the construction is reinforced with a GORE-TEX lining. This crucial addition provides both waterproofing and breathability, ensuring the slip-on is equipped for unpredictable weather and active daily wear. By balancing th",
       "ren_take": "",
       "image_url": ""
     }
