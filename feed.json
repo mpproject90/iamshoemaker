@@ -1,8 +1,179 @@
 {
-  "last_updated": "2026-05-06T07:41:36.441779+00:00",
-  "total_articles": 110,
-  "sources_checked": 62,
+  "last_updated": "2026-05-06T12:43:34.430730+00:00",
+  "total_articles": 111,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "0b386be8b9b9",
+      "title": "Steve Madden’s First Quarter Best Wall Street Estimates, But Wholesale Footwear Sales Slow",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/steven-madden-shoo-q1-earnings-raises-2026-revenue-guidance-1238944181/",
+      "original_publish_time": "2026-05-06T12:24:15+00:00",
+      "scraped_time": "2026-05-06T12:27:54.587473+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Steve Madden"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 5,
+      "summary": "Solid first quarter results resulted in raised revenue guidance for fiscal 2026.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "b0e8af0ecef5",
+      "title": "Exclusive: Salomon Opens Its Third NYC Store in the Upper West Side",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/salomon-nyc-upper-west-side-store-opening-1238943832/",
+      "original_publish_time": "2026-05-06T10:00:00+00:00",
+      "scraped_time": "2026-05-06T12:27:54.591010+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Salomon"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 5,
+      "summary": "Offering more performance product than its Sportstyle locations in SoHo and Williamsburg.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "07f649d9708b",
+      "title": "The adidas Fear Of God Athletics Basketball III Arrives in a Muted \"Cinder\" Colorway",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/5/adidas-fear-of-god-athletics-basketball-iii-cinder-release-info",
+      "original_publish_time": "2026-05-06T09:21:47+00:00",
+      "scraped_time": "2026-05-06T12:28:06.067320+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "Name: adidas Fear Of God Athletics Basketball III \"Cinder\"Colorway: CinderSKU: TBDMSRP: $180 USDRelease Date: May 2026Where to Buy: adidasJerry Lorenzo is continuing to seamlessly blend high-fashion minimalism with athletic performance. Expanding his highly coveted partnership with the Three Stripes, the designer is gearing up to launch the adidas Fear of God Athletics Basketball III in a brand new \"Cinder\" colorway. Set to drop in May 2026, the silhouette perfectly captures Lorenzo's signature stripped-back design language, offering a calm, premium aesthetic that works effortlessly on the streets and beyond.The \"Cinder\" iteration leans heavily into a muted, earthy grey palette. The upper is constructed from a soft, breathable grey knit that gives the shoe a distinctly textured, lifestyle-",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "e70972c9068d",
+      "title": "Aleali May’s New Clarks Wallabee Is a Corduroy Dream",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/5/aleali-may-clarks-originals-wallabee-collaboration-collection-grey-beige-combi-26185905-26185907-release-info",
+      "original_publish_time": "2026-05-06T09:12:07+00:00",
+      "scraped_time": "2026-05-06T12:28:06.070083+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Clarks"
+      ],
+      "keywords_matched": [
+        "footwear",
+        "upper"
+      ],
+      "relevance_score": 4,
+      "summary": "Name: Aleali May x Clarks Originals WallabeeColorway: Grey Combi, Beige CombiSKU: 26185905, 26185907MSRP: €170 EURRelease Date: May 21Where to Buy: AFEWAleali May and Clarks Originals are teaming up for two collaborative Wallabee models, expanding the LA-based creative's collaborative footwear portfolio beyond the traditional sneaker realm. Shifting her focus to a certified staple of global streetwear, May brings her signature design language and elevated curation to the iconic silhouette, delivering a highly tactile update for the upcoming season.A granular breakdown of the new release reveals a rigorous focus on the shoe's physical construction. The upper is completely overhauled with a thick, ribbed corduroy fabric, introducing a rigid and dimensional feel to the classic moccasin shape.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "868095ce0126",
+      "title": "ECCO and Spinnova launch footwear using protein-based fibre",
+      "source_name": "Just Style",
+      "source_domain": "just-style.com",
+      "source_url": "https://www.just-style.com/news/eeco-spinnova-footwear-protein-fibre/",
+      "original_publish_time": "2026-05-06T09:03:13+00:00",
+      "scraped_time": "2026-05-06T12:27:54.753669+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Ecco"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 5,
+      "summary": "Danish footwear manufacturer ECCO has released the ECCO BIOM 720, a limited-edition shoe made of a protein-based fibre derived from leather by-products.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "c6edc491510d",
+      "title": "Henrik Vibskov Spins the KEEN UNEEK Into a Colorful SS26 Masterpiece",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/5/henrik-vibskov-keen-uneek-360-leather-spring-summer-ss-2026-collaboration-collection-1032222-1032223-1032541-1032540-release-info",
+      "original_publish_time": "2026-05-06T09:01:34+00:00",
+      "scraped_time": "2026-05-06T12:28:06.071628+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Keen"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Name: Henrik Vibskov x KEEN UNEEK 360, Henrik Vibskov x KEEN UNEEK LeatherColorway: Brindle/Scarlet Ibis, Green Spring, Tangerine CreamSKU: 1032222, 1032223, 1032541, 1032540MSRP: $200 USD, $160 USDRelease Date: Available nowWhere to Buy: KEENKEEN has joined forces with Henrik Vibskov for a SS26 UNEEK collection, delivering a highly structural update to the brand's signature woven footwear line. Returning to the intricate corded silhouette, the collaborative capsule focuses strictly on functional design and bold color blocking across multiple specialized models.At the core of the SS26 delivery is the UNEEK 360, a silhouette defined by its comprehensive, foot-wrapping construction. This specific model is offered in dedicated men's and women's sizing, arriving in a two-tone \"Brindle/Scarlet ",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "6bc627af7e6f",
+      "title": "Kids of Immigrants Revamp the Nike Total 90 Into a Lifestyle Mule",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/5/kids-of-immigrants-nike-t90-mule-khaki-ih4422-200-velvet-brown-ih4422-201-release-info",
+      "original_publish_time": "2026-05-06T08:41:27+00:00",
+      "scraped_time": "2026-05-06T12:28:06.076087+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 3,
+      "summary": "Name: Kids of Immigrants x Nike T90 MuleColorway: Khaki/Fusion Red-Orange Horizon-University Gold, Velvet Brown/Orange Horizon-Fusion Red-University GoldSKU: IH4422-200, IH4422-201MSRP: $120 USDRelease Date: May 28, 2026Where to Buy: NikeWith the 2026 FIFA World Cup right around the corner, football-inspired fashion is continuing its absolute takeover of the sneaker space. Jumping firmly into the mix is Los Angeles-based label Kids of Immigrants, who have teamed up with Nike to resurrect a pitch icon in an entirely new format. Teased by co-founder Daniel Buezo and recently spotted in exclusive seeding packs, the Kids of Immigrants x Nike T90 Mule completely transforms the legendary Total 90 boot into a premium, laceless slip-on designed entirely for the streets.After a quiet 2025, Kids of ",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "57a4d31ea5f8",
+      "title": "First Look at Action Bronson’s New Balance 1890 “Planet Frog”",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/5/action-bronson-new-balance-1890-planet-frog-first-look",
+      "original_publish_time": "2026-05-06T08:32:20+00:00",
+      "scraped_time": "2026-05-06T12:28:06.073658+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "New Balance"
+      ],
+      "keywords_matched": [
+        "midsole",
+        "sole",
+        "upper"
+      ],
+      "relevance_score": 6,
+      "summary": "Name: Action Bronson x New Balance 1890 “Planet Frog”SKU: TBCRelease Date: 2026Action Bronson has provided a first look at his latest collaboration with New Balance, revealing the 1890 in a “Planet Frog” colorway via a series of vibrant campaign images on his Instagram.True to its moniker, the silhouette continues Bronson’s playful approach to sneaker design, with an amphibious-inspired color palette dominated by varying shades of earth tones. The upper features a mix of green mesh and suede overlays, accented by earthy browns and pops of neon yellow that evoke amphibian-like hues. The quarters and tongue carry Bronson’s signature “BAKLAVA” branding, while the laces add contrast with a lighter shade that ties the palette together. A chunky midsole in cream and green grounds the design, pai",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "d9fef91193e1",
       "title": "Leather exports reach $98.81m with 5.15% growth in July to April",
@@ -2095,153 +2266,6 @@
       ],
       "relevance_score": 3,
       "summary": "PM Modi highlights role of technical textiles in footwear sector, calls for scaling innovation DD News",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "a24409cc9ba7",
-      "title": "PM Modi highlights role of technical textiles in footwear industry - Social News XYZ",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWF9jaUMxdmgtQWNkZ3N3dXhlQUVHdFEzWmcwYTNSOGE1ZjJnMkhQZ1ZKMmNuZGxCZWtRU3d4X0kwQUU4c1FMY1RQV00waTJPdUxHQlBaUjFtbGs0SmFEZndLbTBxQW1iQnQtZTVjM09MS01QeUdUdUhlb0diUl9lRGg3WE9lcm5BWWdSWDRrRmdRSjRwVG5BaDlvTGNLVFJZeFpQQ1MtNm7SAagBQVVfeXFMTlhfY2lDMXZoLUFjZGdzd3V4ZUFFR3RRM1pnMGEzUjhhNWYyZzJIUGdWSjJjbmRsQmVrUVN3eF9JMEFFOHNRTGNUUFdNMGkyT3VMR0JQWlIxbWxrNEphRGZ3S20wcUFtYkJ0LWU1YzNPTEtNUHlHVHVIZW9HYlJfZURoN1hPZXJuQVlnUlg0a0ZnUUo0cFRuQWg5b0xjS1RSWXhaUENTLTZu?oc=5",
-      "original_publish_time": "2026-04-29T11:46:00+00:00",
-      "scraped_time": "2026-04-29T18:10:37.680401+00:00",
-      "time_delta_mins": 0,
-      "category": "Trade Data",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "footwear industry"
-      ],
-      "relevance_score": 6,
-      "summary": "PM Modi highlights role of technical textiles in footwear industry Social News XYZ",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "539e9b09b6ed",
-      "title": "PM shares an article highlighting the integration of technical textiles in the footwear industry - PM India",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTzZKZUliWVV1TFRMMWpacV9ya25qOUF3YUlVNUZTYmNvR0ExU1IteUs4ZnF0TE9YTWlVOHpMbkxnRkF2a1pXOXNabEZXQ3Y5YjNGdVpWZ0tFdjh1X2JwZktnR1NqQTVfcDNuRUF3Q3U3M2o4LThCOU9NRXdOQmE0alZRZGNpZE56a2hySVQxUGJoeTkyUFhLS1lFcFJvRFNCNko5WlRnQUlmRFIwOFNLb1M0Yk9RYzZFQ0dLYVVUZ215QmoxT2RQVXBlbG94RG1VWkw5a2hZWnFaVFhNVU1UTWZkSW94TEx3cjVibA?oc=5",
-      "original_publish_time": "2026-04-29T11:10:10+00:00",
-      "scraped_time": "2026-04-29T12:18:26.180435+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "footwear industry"
-      ],
-      "relevance_score": 6,
-      "summary": "PM shares an article highlighting the integration of technical textiles in the footwear industry PM India",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "29281dbc1620",
-      "title": "From New Balance to ASICS, the Seven Best Sneakers to Cop Right Now",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/sneaker-releases-2026-april-week-5/",
-      "original_publish_time": "2026-04-29T10:44:51+00:00",
-      "scraped_time": "2026-04-29T12:21:49.971712+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike",
-        "New Balance",
-        "ASICS"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 8,
-      "summary": "The world of sneaker releases is tricky to navigate, but we’ve got you covered with the best drops of the week, from New Balance to Asics, Saucony to Nike, and more.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "e94261bce8af",
-      "title": "Spanish footwear brand Hoff names new CEO",
-      "source_name": "Drapers",
-      "source_domain": "drapersonline.com",
-      "source_url": "https://www.drapersonline.com/news/spanish-footwear-brand-hoff-names-new-ceo",
-      "original_publish_time": "2026-04-29T10:17:00+00:00",
-      "scraped_time": "2026-04-29T18:13:27.994354+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 4,
-      "summary": "Drapers Spanish footwear brand Hoff names new CEO Spanish trainer brand Hoff has appointed ex-Nike and Inditex executive Nicolas de Ros Wallace as CEO. The post Spanish footwear brand Hoff names new CEO appeared first on Drapers .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "1115fe36de84",
-      "title": "Adidas shares rise after London Marathon runners break records in new Adizero shoes",
-      "source_name": "Retail Gazette",
-      "source_domain": "retailgazette.co.uk",
-      "source_url": "https://www.retailgazette.co.uk/blog/2026/04/adidas-shares-rise-after-london-marathon-runners-break-records-in-new-adizero-shoes/",
-      "original_publish_time": "2026-04-29T09:32:26+00:00",
-      "scraped_time": "2026-04-29T12:21:17.913412+00:00",
-      "time_delta_mins": 0,
-      "category": "Trade Data",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 5,
-      "summary": "Adidas shares climbed on Monday after three athletes wearing the sportswear giant’s latest running shoe delivered record-breaking performances at the London Marathon. Shares in Adidas rose by almost two per cent in early afternoon trading in Frankfurt, before paring gains to trade 1.4 per cent higher at €138 (£119) a share. The uplift came after...",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "ae4d1d7371ef",
-      "title": "Nike Adds a \"Black\" Iteration To Its Leather Astrograbber Line",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/4/nike-astrograbber-leather-black-io9910-001-official-images-japan-release-date",
-      "original_publish_time": "2026-04-29T08:56:16+00:00",
-      "scraped_time": "2026-04-29T12:18:15.182556+00:00",
-      "time_delta_mins": 0,
-      "category": "Quality",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "Name: Nike Astrogabber Leather \"Black\"Colorway: BlackSKU: IO9910-001MSRP: ¥18,480 JPY (approx. $115 USD)Release Date: May 8 (Japan)Where to Buy: SNKRS JapanNike is elevating its Astrograbber \"Black\" with leather construction. Originating from the American football field, the archival silhouette sheds its traditional athletic skin for a stealthy, premium upgrade that leans heavily into understated luxury.Stripping back the design to its core elements, this new iteration is defined by its meticulous upper construction. The shoe utilizes a rich, full-grain leather across the entirety of the upper, swapping out standard sportswear components for a more refined, durable texture. This specific material choice elevates the model's classic gridiron DNA, providing a sleek, monochromatic base that b",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "342856cb745e",
-      "title": "Engineered Garments and Converse’s Weapon Models Highlight Asymmetrical Construction",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/4/engineered-garments-converse-weapon-collaboration-collection-vintage-white-yellow-black-a19689c-a19690c-release-info",
-      "original_publish_time": "2026-04-29T08:46:47+00:00",
-      "scraped_time": "2026-04-29T12:18:15.186847+00:00",
-      "time_delta_mins": 0,
-      "category": "Quality",
-      "brands_mentioned": [
-        "Converse"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "Name: Engineered Garments x Converse WeaponColorway: Vintage White/Yellow, Black/Vintage White/BlackSKU: A19689C, A19690CMSRP: $145 USDRelease Date: May 1Where to Buy: ConverseEngineered Garments and Converse have officially introduced their collaborative take on the Weapon Low. Designed with a strict focus on material execution, the unisex silhouette reworks the classic court shoe through the utilitarian lens of Daiki Suzuki’s label, offering two distinct low-top colorways characterized by a complex, mixed-media construction.Highlighting the release is Engineered Garments’ signature approach to asymmetrical paneling. While the left and right shoes of each pair appear uniform from a distance, a closer inspection reveals alternating placements of premium smooth leather and textured suede. T",
       "ren_take": "",
       "image_url": ""
     }
