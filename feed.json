@@ -1,8 +1,31 @@
 {
-  "last_updated": "2026-05-06T12:43:34.430730+00:00",
-  "total_articles": 111,
+  "last_updated": "2026-05-06T18:24:29.250057+00:00",
+  "total_articles": 107,
   "sources_checked": 61,
   "articles": [
+    {
+      "id": "2c6f74381837",
+      "title": "Vans Covers One of Its Classic Sneakers Entirely in Denim — Midsole and All",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/vans-authentic-denim-pack-release-date-1238944422/",
+      "original_publish_time": "2026-05-06T15:23:10+00:00",
+      "scraped_time": "2026-05-06T18:13:23.410449+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Vans"
+      ],
+      "keywords_matched": [
+        "midsole",
+        "sneakers",
+        "sole"
+      ],
+      "relevance_score": 11,
+      "summary": "Available in either black or faded indigo.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "0b386be8b9b9",
       "title": "Steve Madden’s First Quarter Best Wall Street Estimates, But Wholesale Footwear Sales Slow",
@@ -2164,108 +2187,6 @@
       ],
       "relevance_score": 3,
       "summary": "Chanel's new sandals are shoes in the loosest sense of the word. Matthieu Blazy's wildest footwear to date is basically just a heel that leaves feet bare.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "c1b7aa6404cc",
-      "title": "Nike Gives Its Sold-out, Mind-altering Sneaker a New Flyknit Upper",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-mind-002-flyknit-release-date-ir2176-100-1238933614/",
-      "original_publish_time": "2026-04-29T16:27:17+00:00",
-      "scraped_time": "2026-04-29T18:10:15.233082+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 5,
-      "summary": "Featuring the same construction as Fragment's Mind 002 collaboration.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "1cea5a03f925",
-      "title": "Meryl Streep’s Stylist Micaela Erlanger on Dressing Her for ‘The Devil Wears Prada 2’ Press Tour",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-trends/meryl-streep-stylist-micaela-erlanger-devil-wears-prada-2-1238933299/",
-      "original_publish_time": "2026-04-29T16:25:13+00:00",
-      "scraped_time": "2026-04-29T18:10:15.235737+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Prada"
-      ],
-      "keywords_matched": [
-        "footwear",
-        "sole"
-      ],
-      "relevance_score": 4,
-      "summary": "Erlanger and Streep have relied on the footwear Sole Bliss throughout the press tour.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "cb2553f7ab2e",
-      "title": "International shoe brand Grant Stone operates from Baroda, will open showroom in St. Joseph - Moody on the Market",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYTBNd2tMVEs3LVRMM0Jpckd1ekJkWDlnWVhfcW9YQUJZRmljakdGc2lGQWFYWFJDSXhfNTZkbl84TzlzUmxoQkdLeEdsMi0xSnlEZ25FMjFEVHdqaW5zR3hRVHZsZW9fUGU4bnRSc3pvblZXd25qOW50ZWlZLXBYMjdFdTNKbTJuUEV4OHVLUEd1WEdxNk9Ud0RLY1VpeC12aWFSa1BqQUl6QzVpMkF4UzZzMDZUWjZfU2cwX05tWkk?oc=5",
-      "original_publish_time": "2026-04-29T16:24:53+00:00",
-      "scraped_time": "2026-04-29T18:10:37.679687+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoe brand"
-      ],
-      "relevance_score": 3,
-      "summary": "International shoe brand Grant Stone operates from Baroda, will open showroom in St. Joseph Moody on the Market",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "e12deb7f74e1",
-      "title": "Matthieu Blazy’s Chanel Pumps Are the Hottest Shoes of the Year So Far, Lyst Says",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/chanel-pumps-hottest-shoes-lyst-index-q1-2026-1238933576/",
-      "original_publish_time": "2026-04-29T15:37:44+00:00",
-      "scraped_time": "2026-04-29T18:10:15.236284+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "shoes",
-        "sneakers"
-      ],
-      "relevance_score": 5,
-      "summary": "Celine's ballet lace up shoes and Village PM's 1PM sneakers rounded out the top footwear of the first quarter.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "c4d30c6fbe94",
-      "title": "PM Modi highlights role of technical textiles in footwear sector, calls for scaling innovation - DD News",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQ2lFa21kaUtCeWpWSjhVOS1CVnRhdnhDaGFBaEV0V2FKNjc3dnlrQ2prbnFmblYyVlNMcFk1SDZ6XzEteDVta083aXZEck1DRHh1ZDUxellvc2FUeElrSmQxTk44U2xjWDNseFNYNjdhY1N2bm9xTnVPUm1STm50dGMwUGV2XzAyU1NmRGI2dFVSOWdUMTIyQmZUbDhDSlF4cHBRMnNQQTJlMWh1VWhpOGNlY2ZaVVVlQWhZ?oc=5",
-      "original_publish_time": "2026-04-29T13:22:44+00:00",
-      "scraped_time": "2026-04-29T18:10:37.681259+00:00",
-      "time_delta_mins": 0,
-      "category": "Trade Data",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "PM Modi highlights role of technical textiles in footwear sector, calls for scaling innovation DD News",
       "ren_take": "",
       "image_url": ""
     }
