@@ -1,8 +1,65 @@
 {
-  "last_updated": "2026-05-06T00:03:58.171265+00:00",
-  "total_articles": 108,
-  "sources_checked": 61,
+  "last_updated": "2026-05-06T07:41:36.441779+00:00",
+  "total_articles": 110,
+  "sources_checked": 62,
   "articles": [
+    {
+      "id": "d9fef91193e1",
+      "title": "Leather exports reach $98.81m with 5.15% growth in July to April",
+      "source_name": "Textile Today",
+      "source_domain": "textiletoday.com.bd",
+      "source_url": "https://textiletoday.com.bd/leather-exports-reach-9881m-with-515-growth-in-july-to-april",
+      "original_publish_time": "2026-05-06T04:03:00+00:00",
+      "scraped_time": "2026-05-06T07:34:16.786200+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "leather exports"
+      ],
+      "relevance_score": 3,
+      "summary": "Key insights: Leather exports grew 5.15% to $98.81 million in FY 2025–26, showing resilience amid structural transition (EPB 2026). LDC graduation will expose 10–12% EU and 17% UK tariffs, reshaping...",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "69d229474a26",
+      "title": "Banks to provide loans ahead Eid-ul Adha for purchasing raw hides: BB",
+      "source_name": "Textile Today",
+      "source_domain": "textiletoday.com.bd",
+      "source_url": "https://textiletoday.com.bd/banks-to-provide-loans-ahead-eid-ul-adha-for-purchasing-raw-hides-bb",
+      "original_publish_time": "2026-05-06T03:28:00+00:00",
+      "scraped_time": "2026-05-06T07:34:16.786971+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "hide"
+      ],
+      "relevance_score": 3,
+      "summary": "On the occasion of the upcoming holy Eid-ul-Adha, Bangladesh Bank has issued directives to provide special loans to traders for the purchase and preservation of raw hides from sacrificial animals. Sim...",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "9ab2ea8e92d4",
+      "title": "I Repeat-Wear These Jennifer Aniston-Worn, Podiatrist-Approved Sneakers for All-Day Comfort - instyle.com",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE02Tmt2dTQwQnN2U0lPSUN6RVY1SXFVa21weTRYa1RPbko4R2I0REpBZWNRd1d6R1NUcWRGd2R3cVZDdmp5OHVyVHJfTEJKeG9GclkwLXlGeVQ4cnF1R3ZsOUhTdm5jUWtLcjhGYldpaTA1UHR5a29wTDZhWQ?oc=5",
+      "original_publish_time": "2026-05-05T22:30:00+00:00",
+      "scraped_time": "2026-05-06T07:30:36.373985+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "I Repeat-Wear These Jennifer Aniston-Worn, Podiatrist-Approved Sneakers for All-Day Comfort instyle.com",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "93e779438ad6",
       "title": "The Jordan Luka .77 Gets In Uniform For The Dayo 23 Manila Streetball Invitational",
@@ -189,6 +246,50 @@
       "image_url": ""
     },
     {
+      "id": "a0ff4bce8b19",
+      "title": "Shai Gilgeous-Alexander's Converse SHAI 001 Premium Arrives in a Sleek \"Steel\" Colorway",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/5/converse-shai-001-premium-steel-a23977c-release-info",
+      "original_publish_time": "2026-05-05T15:48:12+00:00",
+      "scraped_time": "2026-05-06T07:30:24.475315+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Converse"
+      ],
+      "keywords_matched": [
+        "footwear",
+        "upper"
+      ],
+      "relevance_score": 4,
+      "summary": "Name: Converse SHAI 001 Premium \"Steel\"Colorway: SteelSKU: A23977CMSRP: $150 USDRelease Date: June 11, 2026Where to Buy: ConverseAs Shai Gilgeous-Alexander and the Oklahoma City Thunder push through a fierce Western Conference Semifinals matchup against LeBron James and the Los Angeles Lakers, the superstar point guard's footwear is getting a sharp, playoff-ready upgrade. Converse has officially revealed the SHAI 001 Premium in a striking new \"Steel\" colorway. Blending high-fashion aesthetics with elite on-court performance, the metallic edition perfectly encapsulates SGA's smooth, calculated, yet highly physical style of play.The \"Steel\" colorway brings a noticeable sense of luxury to Gilgeous-Alexander’s debut signature model. The upper is constructed from molded metallic leather that gi",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "e8f35fe3da6f",
+      "title": "G-DRAGON Unveils the PEACEMINUSONE x Nike Cryoshot for the 2026 World Cup",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/5/g-dragon-unveils-peaceminusone-nike-cryoshot-2026-world-cup-first-look",
+      "original_publish_time": "2026-05-05T15:22:11+00:00",
+      "scraped_time": "2026-05-06T07:30:24.479881+00:00",
+      "time_delta_mins": 0,
+      "category": "Quality",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "boot",
+        "sneakers"
+      ],
+      "relevance_score": 4,
+      "summary": "Name: PEACEMINUSONE x Nike CryoshotColorway: Natural/University RedSKU: HQ1460-100MSRP: $210 USDRelease Date: June 2026Where to Buy: NikeWith the 2026 FIFA World Cup fast approaching, the lines between performance pitch wear and everyday lifestyle sneakers are being completely erased. Leading the charge is Nike with their innovative CryoShot silhouette—a model that takes legendary football boots and encases their spikes in a clear rubber block, creating a standard sneaker fit. To celebrate the global tournament, Nike has tapped a heavy-hitting roster of international collaborators to represent their home countries. Handling design duties for South Korea is none other than G-DRAGON and his PEACEMINUSONE brand, who are breathing fresh life into one of the Swoosh's most beloved archival boots",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
       "id": "629217a25ed5",
       "title": "NBA Star Jimmy Butler Wears Head-to-toe Alo to Met Gala, Including Patent Leather Sneakers",
       "source_name": "Footwear News",
@@ -204,6 +305,27 @@
       ],
       "relevance_score": 3,
       "summary": "His Met Gala debut came in Alo's Sunset Sneaker.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "f0d3d7781cd9",
+      "title": "Former Bata leader Uttam Kumar appointed Chief Product Officer at Metro Brands",
+      "source_name": "Apparel Resources",
+      "source_domain": "apparelresources.com",
+      "source_url": "https://apparelresources.com/business-news/retail/former-bata-leader-uttam-kumar-appointed-chief-product-officer-metro-brands/",
+      "original_publish_time": "2026-05-05T13:08:30+00:00",
+      "scraped_time": "2026-05-06T07:34:15.784394+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Bata"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Footwear retailer Metro Brands Ltd. has appointed Uttam Kumar as its Chief Product Officer & Senior Management Personnel effective from 4th May 2026. In his new role, Kumar will lead product strategy and merchandising, focusing on strengthening portfolio relevance, accelerating speed-to-market, and collaborating with cross-functional teams to build scalable product capabilities that support profitable growth. […] The post Former Bata leader Uttam Kumar appointed Chief Product Officer at Metro Brands appeared first on Apparel Resources .",
       "ren_take": "",
       "image_url": ""
     },
@@ -2120,89 +2242,6 @@
       ],
       "relevance_score": 3,
       "summary": "Name: Engineered Garments x Converse WeaponColorway: Vintage White/Yellow, Black/Vintage White/BlackSKU: A19689C, A19690CMSRP: $145 USDRelease Date: May 1Where to Buy: ConverseEngineered Garments and Converse have officially introduced their collaborative take on the Weapon Low. Designed with a strict focus on material execution, the unisex silhouette reworks the classic court shoe through the utilitarian lens of Daiki Suzuki’s label, offering two distinct low-top colorways characterized by a complex, mixed-media construction.Highlighting the release is Engineered Garments’ signature approach to asymmetrical paneling. While the left and right shoes of each pair appear uniform from a distance, a closer inspection reveals alternating placements of premium smooth leather and textured suede. T",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "43b6d75a02fd",
-      "title": "adidas’ Mossy Green Sneaker Is No Samba, and That’s the Point",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/adidas-gralfy/",
-      "original_publish_time": "2026-04-29T07:00:00+00:00",
-      "scraped_time": "2026-04-29T07:18:10.224524+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "sole"
-      ],
-      "relevance_score": 3,
-      "summary": "adidas drops a mossy green sneaker that skips the Samba hype, think rich leather, gum soles, and a flex that stands out without trying (too hard)",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "deb376ae5676",
-      "title": "Halfords profits set to hit upper end of expectations amid strong trading",
-      "source_name": "Retail Gazette",
-      "source_domain": "retailgazette.co.uk",
-      "source_url": "https://www.retailgazette.co.uk/blog/2026/04/halfords-profits-set-to-hit-upper-end-of-expectations-amid-strong-trading/",
-      "original_publish_time": "2026-04-29T06:19:43+00:00",
-      "scraped_time": "2026-04-29T07:17:38.838221+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "Halfords has said full-year profits are expected to come in around the upper end of market expectations after stronger trading across both its retail and autocentre divisions. It announced today that group like-for-like sales rose 4.8 per cent in FY26, with retail sales up 4.1 per cent and autocentres, excluding Avayler, climbing 5.8 per cent....",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "386a863b1488",
-      "title": "The Umbro x Crocs Collection Puts a Quilted Spin on Pitch Heritage",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/4/umbro-crocs-classic-crafted-clog-drill-top-speciali-collaboration-collection-213397-213398-release-info",
-      "original_publish_time": "2026-04-29T05:58:07+00:00",
-      "scraped_time": "2026-04-29T07:14:45.069880+00:00",
-      "time_delta_mins": 0,
-      "category": "Quality",
-      "brands_mentioned": [
-        "Crocs",
-        "Umbro"
-      ],
-      "keywords_matched": [
-        "boot",
-        "footwear",
-        "upper"
-      ],
-      "relevance_score": 7,
-      "summary": "Name: Umbro x Crocs Classic Clog, Umbro x Crocs Crafted ClogColorway: Atmosphere, Bone/Slate GreySKU: 213397, 213398MSRP: £80 GBP (approx. $110 USD), £70 GBP (approx. $95 USD)Release Date: May 8Where to Buy: Crocs UKCrocs and Umbro have officially teamed up to introduce a collaborative capsule featuring the Umbro Crafted Clog and the Umbro Classic Clog. Bridging the gap between casual streetstyle and classic football sportswear, the partnership reimagines the instantly recognizable Crocs silhouette with design markers pulled from Umbro's iconic Drill Top and Speciali football boot.Leading the footwear lineup is the Umbro Crafted Clog, which completely updates the standard slip-on with a quilted washed textile upper. The model integrates Umbro's signature Double Diamond motif alongside a fa",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "f38431fbf2b4",
-      "title": "Technical textiles critical to footwear sector - BusinessLine",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRE8wbkszN0t1My0yYnZFU2FXTmVTdVByS1dQSkdLMExEVi1ibTRuMUpMMjdHMjVlV2pOZ2Z4OG5sTlhKQnhidVljVjgwV2NRTHZWVEZTZ05iOVdLeGp3c1U3b1lvMzM3WmhJeW54UXhscy1WNFFDSWp5UmtDWHdNaEhmRmVxZDlQdGE5UlcyNVQ3eEZ6WGszN1NwVEwwN2NGOGZCQndmOXZKYW1peXliWNIBtwFBVV95cUxNckJVb2dRNEJQVnVybWZoMC1yR2VLSUhsRk5MN2lvbVVHZjRIaWo2N0dQZTVxeFlscXNuMThwbjZTSGpIb3FrbVhnZWFUZENGZnJWYWRNV2JJaVZWRWlzdFhTby1VTHZNQ1BjMkpvOHkyRVN1SmtETUdyR2VQRkMwVElIY2sySEwxTngwaV9YVUN6OWxpUXp2MTBrYjliWjR0c1NDTXNfcnNUaWlsT015RDlsV0M2bEk?oc=5",
-      "original_publish_time": "2026-04-29T00:30:00+00:00",
-      "scraped_time": "2026-04-29T07:14:56.072718+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Technical textiles critical to footwear sector BusinessLine",
       "ren_take": "",
       "image_url": ""
     }
