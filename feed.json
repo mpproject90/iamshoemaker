@@ -1,8 +1,72 @@
 {
-  "last_updated": "2026-05-06T18:24:29.250057+00:00",
-  "total_articles": 107,
-  "sources_checked": 61,
+  "last_updated": "2026-05-07T00:09:43.684883+00:00",
+  "total_articles": 106,
+  "sources_checked": 62,
   "articles": [
+    {
+      "id": "f4153d86e118",
+      "title": "Kobe Bryant’s 2000s All-Star Sneakers Are Coming Back With a Protro Upgrade for the First Time",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-kobe-4-protro-all-star-2027-release-date-iu7481-600-1238945305/",
+      "original_publish_time": "2026-05-06T20:16:53+00:00",
+      "scraped_time": "2026-05-06T23:54:02.442347+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 4,
+      "summary": "Early details on the Nike Kobe 4 Protro All-Star are expected to be released in 2027.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "32ce81cec206",
+      "title": "Aleali May Brings Patchworks To Her Clarks Collaboration",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/05/06/aleali-may-clarks-originals-wallabee-patchwork/",
+      "original_publish_time": "2026-05-06T20:00:55+00:00",
+      "scraped_time": "2026-05-06T23:54:14.160740+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [
+        "Clarks",
+        "Jordan"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 4,
+      "summary": "Aleali May may have become a mainstay on the back of her work with Jordan Brand, but she’s proving in 2026 that her footwear ambitions... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Aleali May Brings Patchworks To Her Clarks Collaboration appeared first on Sneaker News . The post Aleali May Brings Patchworks To Her Clarks Collaboration appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "aa021f0fefa1",
+      "title": "The Best Birkenstock Sandals Are Becoming Real Studs",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/birkenstock-studded-sandals/",
+      "original_publish_time": "2026-05-06T18:25:00+00:00",
+      "scraped_time": "2026-05-06T23:57:41.051361+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [
+        "Birkenstock"
+      ],
+      "keywords_matched": [
+        "sandal"
+      ],
+      "relevance_score": 5,
+      "summary": "A new sub-genre of Birkenstock sandals is slowly gaining momentum: studded sandals. They're a little punk, a little flashy, and extremely cool.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "2c6f74381837",
       "title": "Vans Covers One of Its Classic Sneakers Entirely in Denim — Midsole and All",
@@ -2105,88 +2169,6 @@
       ],
       "relevance_score": 3,
       "summary": "I’m an NYC Fashion Editor, and I’m Replacing My Dated White Sneakers With The Cool Kicks I See on Every Block instyle.com",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "2770f7c929a7",
-      "title": "High-Tech Birkenstocks Are a Wake-up Call to Touch Grass",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/birkenstock-mogami-terra-tec-loop-sandal/",
-      "original_publish_time": "2026-04-29T21:33:00+00:00",
-      "scraped_time": "2026-04-30T00:02:01.127175+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Birkenstock"
-      ],
-      "keywords_matched": [
-        "sandal"
-      ],
-      "relevance_score": 3,
-      "summary": "Birkenstock's sandals may be comfortable but that's no reason to take it's surprisingly excellent high-tech Mogami series sandals for granted.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "01b6d08eba6c",
-      "title": "Spanish Sneaker Brand Hoff Taps Nike Alum Nicolas De Ros Wallace as CEO",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/hoff-sneakers-nicolas-de-ros-wallace-ceo-1238934452/",
-      "original_publish_time": "2026-04-29T20:52:29+00:00",
-      "scraped_time": "2026-04-29T23:57:58.247614+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Nike",
-        "Jordan"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "He spent nearly 11 years at Nike, holding several leadership roles including vice president and general manager of Jordan Brand for EMEA.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "b500e64b831b",
-      "title": "The Footwear Collective, industry partners to process 30,525 pounds of collected shoes - Recycling Today",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQV2hPWGdWbjZ1Sk1ZSThhc2g0VV95RUVlZUEyMzNiSmJqMGxXYjctMVRyWHotMS1JVlRlak5ZdFRxSE1oV19iQ29fSEx2U0U4aHNlWldYUmZaRDlManVuRVU5SjJaak9QVkp1c21IWTFkcG5hNU5jdW10eEpHMFFNaU0yY1dmRjBONHNQdnBXQ2NQaWgzcy1IeQ?oc=5",
-      "original_publish_time": "2026-04-29T20:46:00+00:00",
-      "scraped_time": "2026-04-29T23:58:21.233182+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "shoes"
-      ],
-      "relevance_score": 6,
-      "summary": "The Footwear Collective, industry partners to process 30,525 pounds of collected shoes Recycling Today",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "4de0169f566b",
-      "title": "Give Chanel an Inch, It'll Take a Foot",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/chanel-feet-sandal-heel/",
-      "original_publish_time": "2026-04-29T19:22:00+00:00",
-      "scraped_time": "2026-04-30T00:02:01.127854+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "sandal",
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "Chanel's new sandals are shoes in the loosest sense of the word. Matthieu Blazy's wildest footwear to date is basically just a heel that leaves feet bare.",
       "ren_take": "",
       "image_url": ""
     }
