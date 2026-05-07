@@ -1,8 +1,112 @@
 {
-  "last_updated": "2026-05-07T13:09:07.468888+00:00",
-  "total_articles": 103,
-  "sources_checked": 61,
+  "last_updated": "2026-05-07T18:33:45.079046+00:00",
+  "total_articles": 105,
+  "sources_checked": 62,
   "articles": [
+    {
+      "id": "c1d75e64b2b5",
+      "title": "Public School NY's Bespoke Boots Are Timbs at Their Toughest",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/5/public-school-ny-timberland-custom-nickel-copper-toe-met-gala-info",
+      "original_publish_time": "2026-05-07T17:55:51+00:00",
+      "scraped_time": "2026-05-07T18:21:42.601159+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Timberland"
+      ],
+      "keywords_matched": [
+        "boot",
+        "midsole",
+        "sole"
+      ],
+      "relevance_score": 6,
+      "summary": "SummaryTimberland’s \"The Shed\" crafted bespoke, all-black leather boots for Public School NY founders at the 2026 Met Gala.The custom design features exaggerated proportions, stacked midsoles, and distinct nickel-plated copper toe guards.“The Shed\", Timberland's special workshop, crafted custom boots for the Public School New York founders, Dao-Yi Chow and Maxwell Osborne, as they attended the 2026 Met Gala. In addition to dressing the menswear content creator Wisdom Kaye in full Public School, Dao-Yi and Maxwell joined him on the Met steps, sporting the bespoke boots.In all black, aside from the metallic details, the leather boot fits neatly in the Public School NY street-meets-sleek aesthetic. The custom Public School NY pairs are composed of Wickett & Craig vegetable-tanned leather. In ",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "3c7f36b09650",
+      "title": "West Asia war, soaring input costs push Agra footwear industry into crisis - CNBC TV18",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPLVMwdFVQTldWUXF1aElyS1hINGpqcjFGOE53Zkh2emRmZ3hrWmpwaFBrX2tnOTVxcVY2a09KRVBRMDZQc05xRVhzY0lWUzIzRkt1S2dXS3JHVGhGeDNyUzdscWp3clFqN2JpYVlFalhDcUMxOWlJREQ4VHJMdE92ZWRwX3djclQ2NE9BVWhiWmY1cEJuTmN4ZGRpRFNZbHVQd3R5dnN3eVdUakFTblRxM3hnWVV5TERDNUdvWVB0eGFBWTFSX0FtT2N6RdIB0AFBVV95cUxQcWJzNE56NTNMRmtiOHU4Z3pvbE8teFU1Z3NYSG5ySF9VY05hME5ucFEwQ2JDQzR4RGVybGZfMERXOS0xa3E4bklsZmpxMW9IVFY5VUpLNkJGMVlhc1g4eDZoYWMzV2lSM294U2R5YjRGU2t1WnNJWFNnNGhoSDJYanlrNVU2VmpPSkZUalA5bWpDQ3BzcVoySHdXZnZOYTdPZ2xrUVlXZUotTWJXQ1FfUjRxS3dLbktJaVg3Wm5zaU1uc2QxYTlaNTZEcHhHOVZp?oc=5",
+      "original_publish_time": "2026-05-07T16:59:06+00:00",
+      "scraped_time": "2026-05-07T18:21:53.662560+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "footwear industry"
+      ],
+      "relevance_score": 6,
+      "summary": "West Asia war, soaring input costs push Agra footwear industry into crisis CNBC TV18",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "0763f287528b",
+      "title": "Boot Barn Taps Aptos to Streamline Checkouts",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/boot-barn-aptos-streamline-point-of-sales-1238946198/",
+      "original_publish_time": "2026-05-07T16:35:43+00:00",
+      "scraped_time": "2026-05-07T18:21:30.994203+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 3,
+      "summary": "Aptos' point of sales system will be used in over 500 stores nationwide, including large-scale pop-up events.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "5e844c5616cd",
+      "title": "As Gen Z embraces Coach, Tapestry raises expectations",
+      "source_name": "Retail Dive",
+      "source_domain": "retaildive.com",
+      "source_url": "https://www.retaildive.com/news/gen-z-embraces-coach-tapestry-raises-expectations-kate-spade-slump/819564/",
+      "original_publish_time": "2026-05-07T15:49:00+00:00",
+      "scraped_time": "2026-05-07T18:24:35.859254+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Tapestry"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "CEO Joanne Crevoiserat described opportunity in footwear for what she ultimately sees as a $10 billion brand. Meanwhile, Kate Spade stumbled in Q3.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "6c0d9fb72c9a",
+      "title": "Zalando Cooks Up a Piping Hot Launch for New Balance ABZORB",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/5/zalando-new-balance-abzorb-2000-2010-launch-campaign-2025-info",
+      "original_publish_time": "2026-05-07T13:28:42+00:00",
+      "scraped_time": "2026-05-07T18:21:42.605002+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "New Balance"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Zalando is expanding its footwear library with the arrival of the New Balance ABZORB collection. To mark its launch, the retailer serves up a new campaign spotlighting the ABZORB 2000 and 2010 models. Known for its assortment of activations that turn playful concepts into inspiring style, Zalando centers the launch around the humble food truck. Drawing a parallel between the appetites of sneakerheads and foodies, the supporting campaign finds the silhouettes on an alternative menu as individuals queue up to get their hands on a pair. Not forgetting to incorporate a series of fresh fits, the visuals also feature a curation of New Balance garments. Complementing the deep “Violet Crush” heel of the ABZORB 2010 is a soft purple sweatshirt and gingham shorts, while the citrus tones of the New B",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "4fbb5ac3a8ee",
       "title": "ETRO x Globe-Trotter’s \"Arnica\" Luggage Collection Upgrades the Art of Transit",
@@ -2046,68 +2150,6 @@
       ],
       "relevance_score": 3,
       "summary": "The brand's menswear creative director, Pharrell Williams, collaborated on the design.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "4a6c6ff122b3",
-      "title": "The Nike Kobe 3 Low Protro Frosts Over For This “CHBL” Colorway",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/04/30/nike-kobe-3-low-protro-chbl/",
-      "original_publish_time": "2026-04-30T18:00:21+00:00",
-      "scraped_time": "2026-04-30T18:08:06.474497+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Time for the Kobe 6 to move over? No, it’ll take far more to unseat the king of Bryant’s footwear line, but the Nike Kobe... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Nike Kobe 3 Low Protro Frosts Over For This \"CHBL\" Colorway appeared first on Sneaker News . The post The Nike Kobe 3 Low Protro Frosts Over For This “CHBL” Colorway appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "bdde46417ee8",
-      "title": "Nike’s Futuristic 3D-printed Air Max Sneaker Gets Updated for Faster Production",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-air-max-1000-2-release-date-jf3484-001-1238935661/",
-      "original_publish_time": "2026-04-30T16:13:22+00:00",
-      "scraped_time": "2026-04-30T18:07:54.847332+00:00",
-      "time_delta_mins": 0,
-      "category": "Manufacturing",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "outsole",
-        "sole"
-      ],
-      "relevance_score": 4,
-      "summary": "The Air Max 1000.2 features subtle changes in its outsole to speed up printing.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "9bc379e855b7",
-      "title": "Soles4Souls: ‘Unused products can serve a greater purpose’",
-      "source_name": "Drapers",
-      "source_domain": "drapersonline.com",
-      "source_url": "https://www.drapersonline.com/insight/comment/soles4souls-unused-products-can-serve-a-greater-purpose",
-      "original_publish_time": "2026-04-30T15:00:38+00:00",
-      "scraped_time": "2026-04-30T18:11:05.420013+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "sole"
-      ],
-      "relevance_score": 3,
-      "summary": "Drapers Soles4Souls: ‘Unused products can serve a greater purpose’ Buddy Teaser, president and CEO at Drapers Conscious Fashion Awards finalist and non-profit Soles4Souls, tells Drapers why collaboration is key for fashion ahead of incoming EPR for textiles legislation. The post Soles4Souls: ‘Unused products can serve a greater purpose’ appeared first on Drapers .",
       "ren_take": "",
       "image_url": ""
     }
