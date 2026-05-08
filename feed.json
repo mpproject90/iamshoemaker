@@ -1,8 +1,27 @@
 {
-  "last_updated": "2026-05-07T18:33:45.079046+00:00",
-  "total_articles": 105,
-  "sources_checked": 62,
+  "last_updated": "2026-05-08T00:09:40.084905+00:00",
+  "total_articles": 100,
+  "sources_checked": 64,
   "articles": [
+    {
+      "id": "a14c92593b7a",
+      "title": "Village PM Has One of the Hottest Sneakers in the World and It Just Got an Upgrade",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/village-pm-1pm-leather-release-date-1238946868/",
+      "original_publish_time": "2026-05-07T20:09:51+00:00",
+      "scraped_time": "2026-05-07T23:56:34.884794+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "The Parisian skate brand's 1PM sneaker gets a full-grain leather makeover.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "c1d75e64b2b5",
       "title": "Public School NY's Bespoke Boots Are Timbs at Their Toughest",
@@ -2030,126 +2049,6 @@
       ],
       "relevance_score": 3,
       "summary": "Nicole Kidman, 58, and Kendall Jenner, 30, Sold Me, 27 on the Sleek Spring Sneakers Every It Girl Is Wearing instyle.com",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "fc852736bb64",
-      "title": "Mira Groot from Rebel: understanding circularity in the Dutch footwear sector - World Footwear",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQY1E5SHNXYU11QVJTRFhRSkxzRGQ0U3pDd29hOGF6Z1RWOGUtem42YmxrbkYtUEE3TVpHSXhSMWFpUnhmU2tJZ1FNN2N2ckxEX0NLcU5DaE84S05jWGItYXROR0ZhSTIwVHkyOWdfcXBrNmxpU2dNT2FfcWgtNXFnWmtpWTR5NTlnazVrQmxKV3NqQXlQMm1QdUcxVTA4TEZhZHI5SVF5OWJSblJqZUlwTEpKUFlaUHQ3ZjlvZklHWQ?oc=5",
-      "original_publish_time": "2026-04-30T23:01:11+00:00",
-      "scraped_time": "2026-04-30T23:55:46.423113+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Mira Groot from Rebel: understanding circularity in the Dutch footwear sector World Footwear",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "88e949a2b144",
-      "title": "Official Images Of The Air Jordan 3 “Brazil”",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/04/30/air-jordan-3-brazil-iv4871-400-release-date/",
-      "original_publish_time": "2026-04-30T21:56:13+00:00",
-      "scraped_time": "2026-04-30T23:55:35.544991+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Jordan"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Jordan Brand’s push into global football is beginning to take shape, and the upcoming Air Jordan 3 “Brazil” is capturing that energy through the footwear... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Official Images Of The Air Jordan 3 \"Brazil\" appeared first on Sneaker News . The post Official Images Of The Air Jordan 3 “Brazil” appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "71d0f17f0e57",
-      "title": "Good Luck Tracking Down This Air Jordan 11 “Tinker Hatfield” Sample",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/04/30/air-jordan-11-tinker-hatfield-sample/",
-      "original_publish_time": "2026-04-30T21:30:03+00:00",
-      "scraped_time": "2026-04-30T23:55:35.546575+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Jordan"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "Being the designer of some of the most iconic sneakers ever means you’ve got a direct line to special pairs, whether commissioned by you or... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Good Luck Tracking Down This Air Jordan 11 \"Tinker Hatfield\" Sample appeared first on Sneaker News . The post Good Luck Tracking Down This Air Jordan 11 “Tinker Hatfield” Sample appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "9519f6d52437",
-      "title": "Mercosur-EU deal could boost competitiveness of Brazilian footwear in Europe, Abicalçados says - DatamarNews",
-      "source_name": "Google News - Footwear Exports",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdW1qMUlzYTJTZFNOblFqNEVvS0VZQlRUaEJzLTNkcXppMHBJLXFyNm4wSFZPZUd5MkIxZXdtdkFGeThBNGhmR21hUXB6QndybS1LQy1GQlVPSGZadGxpRDVTRXlRU295STBCUDdyaEhDQzJUaTJHTGlyNVA1MUoySDlZQ3JkUUhfSlM5Vzh1dmhnaXQ2MmhuNFdzeHhzNVdjUnd1M3dEYkdmbDFiM1RoWW1HTVBodlNQUjhnRWxKUVlpNHd3MWc?oc=5",
-      "original_publish_time": "2026-04-30T21:15:14+00:00",
-      "scraped_time": "2026-04-30T23:55:48.895115+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Mercosur-EU deal could boost competitiveness of Brazilian footwear in Europe, Abicalçados says DatamarNews",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "b148cde4e962",
-      "title": "Puma CEO Says Company Is Off to a ‘Very Solid Start’ in 2026 as Stock Ticks Up on Turnaround Progress",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/puma-q1-2026-solid-start-turnaround-progress-1238936555/",
-      "original_publish_time": "2026-04-30T20:34:00+00:00",
-      "scraped_time": "2026-04-30T23:55:23.544194+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Puma"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "In footwear, Nitro running and Hyrox-related products are doing well, while low-profile silhouettes are dominating the lifestyle shoe category.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "69f55dffecf9",
-      "title": "Louis Vuitton and BTS’ J-Hope Release 2000s-Inspired Pink Sneakers",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/louis-vuitton-bts-j-hope-release-buttersoft-sneaker-1238935772/",
-      "original_publish_time": "2026-04-30T19:55:59+00:00",
-      "scraped_time": "2026-04-30T23:55:23.547178+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "The brand's menswear creative director, Pharrell Williams, collaborated on the design.",
       "ren_take": "",
       "image_url": ""
     }
