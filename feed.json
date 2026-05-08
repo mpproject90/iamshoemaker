@@ -1,8 +1,127 @@
 {
-  "last_updated": "2026-05-08T12:19:57.089513+00:00",
-  "total_articles": 102,
-  "sources_checked": 61,
+  "last_updated": "2026-05-08T18:18:47.077012+00:00",
+  "total_articles": 104,
+  "sources_checked": 62,
   "articles": [
+    {
+      "id": "5e513a9b3476",
+      "title": "North America Footwear Industry Analysis: Consumer Trends, Innovation, and Competitive Benchmarking - openPR.com",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaHl6QjBCTDlxLWs2eEJsaWxwZUJLMGZ2UXFFZVJDR2dHZ0JMNTJOWG1mVlB4UVJOWGhoOWxlVk5pRFNHZlpNaFBrbHd5QUxkSFZncXhMVGs5MHVuVTl4ZDhCcDdWbHZEbDNrTGVQNENFSDVnbjloRzdselhLUU5JZW1CbzhiRDdLN2hlcU9sOUE5bFJyQnpF?oc=5",
+      "original_publish_time": "2026-05-08T18:03:10+00:00",
+      "scraped_time": "2026-05-08T18:07:54.152675+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "footwear industry"
+      ],
+      "relevance_score": 6,
+      "summary": "North America Footwear Industry Analysis: Consumer Trends, Innovation, and Competitive Benchmarking openPR.com",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "3a7fcd140615",
+      "title": "Durango Boots Celebrates America’s 250th Anniversary With Patriotic Limited-edition Collection",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/durango-boots-250-anniversary-limited-edition-collection-1238947483/",
+      "original_publish_time": "2026-05-08T16:11:04+00:00",
+      "scraped_time": "2026-05-08T18:07:30.403408+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 3,
+      "summary": "They will be available in men's and women's sizes.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "79f35fff1626",
+      "title": "Is anyone still making shoes in New Zealand? - The Spinoff",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRlN5SnUxOUQ0ajlGXzBySlVtZ01yTzlLaHBMcDJCdU9SRjh6NVZKVFRzSEc3anhwcExZaThadkdCdUw0X0llNU1ULWxDX0VTZ01qT1pTWjgzR0dycmxUWUdUZjlWM2swOUU1dXFUYVJja0liSm5nRDQwMnBRS21KdUdvRy1wOEtPbFE?oc=5",
+      "original_publish_time": "2026-05-08T16:00:40+00:00",
+      "scraped_time": "2026-05-08T18:07:54.157030+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "Is anyone still making shoes in New Zealand? The Spinoff",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "a6732b6407fd",
+      "title": "Agra’s footwear industry, one of India’s biggest export hubs, is facing a double blow. The city exports shoes worth ₹3,000-4,000 crore annually, largely to the US and Europe. But in recent months, exporters have been hit by rising US tariffs and now the conflict - LinkedIn",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQemNXTEF3N21NRTdJSnZSYnBLV1BmWUhWX1BRZ1NJNFRjZ2FsdjRGUFMzd2w5WDl4c0YwVV9BNmF0UTR6LUpKd2s2ZVJFMHFwaGlYamhrWFRvaEdUNWxid01nWlBEZVMyN1VyZnlnOF9YRkdELUhKc1BrN0xuZFpFVHBrb21GcndUYkc4SEpvUUNmMko1M2VCMVdPNTNtQ1kwYzVYNWx0bE5idVFUVXYyYUVB?oc=5",
+      "original_publish_time": "2026-05-08T15:51:56+00:00",
+      "scraped_time": "2026-05-08T18:07:54.153464+00:00",
+      "time_delta_mins": 0,
+      "category": "Trade Data",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "footwear industry",
+        "shoes"
+      ],
+      "relevance_score": 9,
+      "summary": "Agra’s footwear industry, one of India’s biggest export hubs, is facing a double blow. The city exports shoes worth ₹3,000-4,000 crore annually, largely to the US and Europe. But in recent months, exporters have been hit by rising US tariffs and now the conflict LinkedIn",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "84d25e8b710f",
+      "title": "Kids of Immigrants Is Turning a Classic Nike Soccer Boot Into a Sneaker Mule",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/kids-immigrants-nike-t90-mule-release-date-1238947503/",
+      "original_publish_time": "2026-05-08T15:24:05+00:00",
+      "scraped_time": "2026-05-08T18:07:30.406948+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 5,
+      "summary": "Coming in two colorways just ahead of the World Cup.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "7bb66ecffa57",
+      "title": "Footwear’s Inflation Solution Is a Big Problem - The Business of Fashion",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeFlVMGJOemVBWU15YmR2aFIwTkpPdmZOTFFZem56ZjltSnlhM2d2Vkh6SnRzWFphRWJXek9aaHEtQ0xWQVBaN0M1N1RRcjRyWWxMeDRiTkdWcDNJUVBKeHlEYmlwbm9LT21Gd2tIbkpQU3FvVWkxMUJFdWJna0x0V3YtcmswenlXMmFjYlA5UTl3c0FtVTliV1gzSDhHZw?oc=5",
+      "original_publish_time": "2026-05-08T15:00:27+00:00",
+      "scraped_time": "2026-05-08T18:07:54.154885+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Footwear’s Inflation Solution Is a Big Problem The Business of Fashion",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "2664eb4abcae",
       "title": "Kith Marks Its LA Expansion With a Four-Piece New Balance 99X Pack",
@@ -2007,86 +2126,6 @@
       ],
       "relevance_score": 4,
       "summary": "The KEEN Jasper KM Lite has arrived with an American build that's both responsibly made and lightweight by design. First introduced in 2008 as the brand’s climbing-inspired outdoor sneaker, the Jasper now has a refreshed look that delivers sleek style without compromising on comfort or quality. Most noticeably, the uppers have been smoothed with discreet stitching while the heel counter is satisfyingly streamlined into the midsole. It’s a subtle shift, but one that quietly ushers the Jasper from trail staple to a pair that’s just as at home in the city as it is off-grid.For men, the Jasper KM comes in three versatile colorways: Canteen/Black; Khaki/Birch; Black/Steel Grey, while for women, colorways include Granite Green/Black; Cameo Rose/Black; Plaza Taupe/Bitch; Brindle/Birch. Furthermor",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "b1a1db8eb63f",
-      "title": "Anthony Edwards’ adidas Believe That 1 Forges Ahead In “Carbon Grey”",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/05/01/adidas-anthony-edwards-believe-that-carbon-grey-three-lucid-ray-blue-kj3146/",
-      "original_publish_time": "2026-05-01T18:00:21+00:00",
-      "scraped_time": "2026-05-01T23:55:38.935856+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "Especially when it comes to Ant-Man, we’d never say we’re nonbelievers. Especially after felling the Denver Nuggets, a triumphant chapter in a rivalry that’s spanned... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Anthony Edwards' adidas Believe That 1 Forges Ahead In \"Carbon Grey\" appeared first on Sneaker News . The post Anthony Edwards’ adidas Believe That 1 Forges Ahead In “Carbon Grey” appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "fefacf2c4adb",
-      "title": "The Milwaukee Brewers Tee Up A Nike Air Max 1 City Connect",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/05/01/nike-air-max-1-mlb-city-connect-milwaukee-brewers/",
-      "original_publish_time": "2026-05-01T17:00:07+00:00",
-      "scraped_time": "2026-05-01T17:57:29.887626+00:00",
-      "time_delta_mins": 0,
-      "category": "Manufacturing",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "For the first time since becoming MLB’s official jersey supplier in 2020, Nike’s baseball efforts are extending into lifestyle footwear. This season’s run of Nike... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Milwaukee Brewers Tee Up A Nike Air Max 1 City Connect appeared first on Sneaker News . The post The Milwaukee Brewers Tee Up A Nike Air Max 1 City Connect appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "75506ad6ddd0",
-      "title": "EXCLUSIVE: Athleisure Label Matte Collection Launches Shoes for First Time",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/matte-collection-trainer-release-info-1238937056/",
-      "original_publish_time": "2026-05-01T15:00:00+00:00",
-      "scraped_time": "2026-05-01T17:57:18.095184+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "The debut release arrives in a statement metallic silver colorway in women’s sizes 6.5 to 11.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "67c91d0f9c5f",
-      "title": "Brooks Races to Best First Quarter in Brand History",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/brooks-performance-running-footwear-first-quarter-financial-1238937007/",
-      "original_publish_time": "2026-05-01T13:18:25+00:00",
-      "scraped_time": "2026-05-01T17:57:18.097524+00:00",
-      "time_delta_mins": 0,
-      "category": "Trade Data",
-      "brands_mentioned": [
-        "Brooks"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Brooks Running said market data indicates it has No. 1 market share in performance running footwear at U.S. specialty retail.",
       "ren_take": "",
       "image_url": ""
     }
