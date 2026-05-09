@@ -1,8 +1,71 @@
 {
-  "last_updated": "2026-05-08T18:18:47.077012+00:00",
-  "total_articles": 104,
+  "last_updated": "2026-05-09T00:09:25.791818+00:00",
+  "total_articles": 100,
   "sources_checked": 62,
   "articles": [
+    {
+      "id": "93506ef9797a",
+      "title": "Nike's Thickest Slide Is Basically a High-Heel Sandal",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-calm-elevation-slide-white/",
+      "original_publish_time": "2026-05-08T22:29:01+00:00",
+      "scraped_time": "2026-05-09T00:02:08.936838+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sandal"
+      ],
+      "relevance_score": 5,
+      "summary": "Nike's marble Calm Elevation slide isn't for relaxing. It's for straight-up summer time stunting.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "dd204b85e986",
+      "title": "adidas' Cutest Mary Jane Sneaker Has a Studded Punk Alter Ego",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/adidas-samba-jane-patent-stars-studs/",
+      "original_publish_time": "2026-05-08T20:48:05+00:00",
+      "scraped_time": "2026-05-09T00:02:08.937682+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "adidas introduces a punk-ish version of its Samba Jane, featuring black glossy leather uppers & studs.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "daf8bd496c3a",
+      "title": "$1,000 Sneakers, $3,000 Tracksuits: adidas Is a Luxury Label Now",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/adidas-a-type-2026/",
+      "original_publish_time": "2026-05-08T19:22:00+00:00",
+      "scraped_time": "2026-05-09T00:02:08.938532+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "Want to dress head-to-toe in adidas A-TYPE? That'll cost you $4,000. If you can find it, most of adidas' Italian-made goods are for friends and family only.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "5e513a9b3476",
       "title": "North America Footwear Industry Analysis: Consumer Trends, Innovation, and Competitive Benchmarking - openPR.com",
@@ -1981,151 +2044,6 @@
       ],
       "relevance_score": 3,
       "summary": "Scarlett Johansson, 41, Wore the Podiatrist-Approved Sneakers Shoppers Can Walk 20,000+ Pain-Free Steps In instyle.com",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "2ff0922b21b0",
-      "title": "New Balance's Newest Split-Soled Shoe Has Twice the Sole, Twice the Love",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/new-balance-tf100-sneaker/",
-      "original_publish_time": "2026-05-01T23:32:02+00:00",
-      "scraped_time": "2026-05-01T23:59:11.971483+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "New Balance"
-      ],
-      "keywords_matched": [
-        "midsole",
-        "sole"
-      ],
-      "relevance_score": 6,
-      "summary": "New Balance's martian-minded TF100 dad shoe is an other worldly sneaker with a split midsole that's straight from the future.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "90092f9ae95d",
-      "title": "New Balance’s Nuttiest Dad Shoe Is Too Delicious for Its Own Good",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/new-balance-991-made-in-uk-chipmunk/",
-      "original_publish_time": "2026-05-01T21:32:17+00:00",
-      "scraped_time": "2026-05-01T23:59:11.972261+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "New Balance"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "New Balance debuts the 991v1 Made in U.K.\"Chipmunk,\" a nutty brown dad sneaker featuring creamy nubuck uppers.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "bbed88c45ce7",
-      "title": "CrossFit Sneaker Brand R.A.D. Taps into the Lifestyle Market with Sporting Goods Collection - Sole Retriever",
-      "source_name": "Google News - Sneaker Brand",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNFV4ZTJvamZ3UXEwOEFVREkwdFNUSzBDUVQ0LU1kSE5EQXNHei1Ta21EOHFjYURiNEtIS2xveGcyQlJDdlBfUjJUakphM3lTYlVNeXV2aVhzaXdvRlNLdnc5MHlILUJ3RTlSSklGYWg4X3ZLVmNuWUQ0ZlJmTXJRbFpuSk9CbWJJTTY4cWJYUkVoN1dfeFB5MGtScw?oc=5",
-      "original_publish_time": "2026-05-01T21:30:41+00:00",
-      "scraped_time": "2026-05-01T23:55:50.875745+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "sole"
-      ],
-      "relevance_score": 3,
-      "summary": "CrossFit Sneaker Brand R.A.D. Taps into the Lifestyle Market with Sporting Goods Collection Sole Retriever",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "30bd57ab0f87",
-      "title": "Anthony Edwards’ adidas Believe That 1 Cleans Up In “Footwear White”",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/05/01/adidas-anthony-edwards-believe-that-footwear-white-core-black-kj3320/",
-      "original_publish_time": "2026-05-01T20:30:13+00:00",
-      "scraped_time": "2026-05-01T23:55:38.930759+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 5,
-      "summary": "No one can ever accuse the Wolves of being all bark and no bite. Scoff at statements like “they “they got KD, but we got... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Anthony Edwards' adidas Believe That 1 Cleans Up In \"Footwear White\" appeared first on Sneaker News . The post Anthony Edwards’ adidas Believe That 1 Cleans Up In “Footwear White” appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "db51f236b07e",
-      "title": "What Goes Into Making Custom Shoes for the Met Gala?",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-trends/custom-shoes-met-gala-process-amina-muaddi-1238933747/",
-      "original_publish_time": "2026-05-01T19:18:05+00:00",
-      "scraped_time": "2026-05-01T23:55:27.072674+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "Whether it's hand-applied bedazzlement or an all new shoe design, the Met Gala sees a range of bespoke shoes.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "7f866b510526",
-      "title": "Where To Buy The Air Jordan 1 Low OG “Banned”",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/05/01/air-jordan-1-low-og-banned-release-date/",
-      "original_publish_time": "2026-05-01T19:00:33+00:00",
-      "scraped_time": "2026-05-01T23:55:38.934189+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike",
-        "Jordan"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "A low-top take on a controversial 2011 release, the Air Jordan 1 Low OG “Banned” drops May 2nd via Nike SNKRS and select retailers. Full... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Where To Buy The Air Jordan 1 Low OG “Banned” appeared first on Sneaker News . The post Where To Buy The Air Jordan 1 Low OG “Banned” appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "8ec791fa5970",
-      "title": "Fashion’s Favorite Climbing-Inspired Sneaker Has an American-Built Update",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/5/keen-made-jasper-km-lite-release-date-info",
-      "original_publish_time": "2026-05-01T18:36:00+00:00",
-      "scraped_time": "2026-05-01T23:55:38.803649+00:00",
-      "time_delta_mins": 0,
-      "category": "Quality",
-      "brands_mentioned": [
-        "Keen"
-      ],
-      "keywords_matched": [
-        "midsole",
-        "sole",
-        "upper"
-      ],
-      "relevance_score": 4,
-      "summary": "The KEEN Jasper KM Lite has arrived with an American build that's both responsibly made and lightweight by design. First introduced in 2008 as the brand’s climbing-inspired outdoor sneaker, the Jasper now has a refreshed look that delivers sleek style without compromising on comfort or quality. Most noticeably, the uppers have been smoothed with discreet stitching while the heel counter is satisfyingly streamlined into the midsole. It’s a subtle shift, but one that quietly ushers the Jasper from trail staple to a pair that’s just as at home in the city as it is off-grid.For men, the Jasper KM comes in three versatile colorways: Canteen/Black; Khaki/Birch; Black/Steel Grey, while for women, colorways include Granite Green/Black; Cameo Rose/Black; Plaza Taupe/Bitch; Brindle/Birch. Furthermor",
       "ren_take": "",
       "image_url": ""
     }
