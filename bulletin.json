@@ -1,6 +1,107 @@
 {
-  "last_updated": "2026-05-03T09:24:14.988969+00:00",
+  "last_updated": "2026-05-10T09:41:03.865806+00:00",
   "bulletins": [
+    {
+      "id": "wk19-2026",
+      "week_number": 19,
+      "year": 2026,
+      "date_from": "2026-05-04",
+      "date_to": "2026-05-10",
+      "published": "2026-05-10T09:41:03.865566+00:00",
+      "intro": "Week 19 arrives with a familiar tension: headline revenue growth masking structural fragility. US Q1 footwear numbers look passable until you read that the lift is coming from price increases, not unit volume — and Agra's exporters are being squeezed from two directions simultaneously. The industry is not in crisis, but the margin architecture is quietly deteriorating.",
+      "articles": [
+        {
+          "title": "Vans Covers One of Its Classic Sneakers Entirely in Denim — Midsole and All",
+          "source_name": "Footwear News",
+          "source_url": "https://wwd.com/footwear-news/sneaker-news/vans-authentic-denim-pack-release-date-1238944422/",
+          "category": "Retail",
+          "relevance_score": 11,
+          "original_publish_time": "2026-05-06T15:23:10+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "Agra’s footwear industry, one of India’s biggest export hubs, is facing a double blow. The city exports shoes worth ₹3,000-4,000 crore annually, largely to the US and Europe. But in recent months, exporters have been hit by rising US tariffs and now the conflict - LinkedIn",
+          "source_name": "Google News - Footwear Industry",
+          "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQemNXTEF3N21NRTdJSnZSYnBLV1BmWUhWX1BRZ1NJNFRjZ2FsdjRGUFMzd2w5WDl4c0YwVV9BNmF0UTR6LUpKd2s2ZVJFMHFwaGlYamhrWFRvaEdUNWxid01nWlBEZVMyN1VyZnlnOF9YRkdELUhKc1BrN0xuZFpFVHBrb21GcndUYkc4SEpvUUNmMko1M2VCMVdPNTNtQ1kwYzVYNWx0bE5idVFUVXYyYUVB?oc=5",
+          "category": "Trade Data",
+          "relevance_score": 9,
+          "original_publish_time": "2026-05-08T15:51:56+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "North America Footwear Industry Analysis: Consumer Trends, Innovation, and Competitive Benchmarking - openPR.com",
+          "source_name": "Google News - Footwear Industry",
+          "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaHl6QjBCTDlxLWs2eEJsaWxwZUJLMGZ2UXFFZVJDR2dHZ0JMNTJOWG1mVlB4UVJOWGhoOWxlVk5pRFNHZlpNaFBrbHd5QUxkSFZncXhMVGs5MHVuVTl4ZDhCcDdWbHZEbDNrTGVQNENFSDVnbjloRzdselhLUU5JZW1CbzhiRDdLN2hlcU9sOUE5bFJyQnpF?oc=5",
+          "category": "Retail",
+          "relevance_score": 6,
+          "original_publish_time": "2026-05-08T18:03:10+00:00",
+          "misaki_take": "Market research reports released via press wire services rarely contain actionable intelligence that isn't already visible in sell-through data and retail traffic numbers from the prior quarter. The timing of this release — amid a pricing-driven growth narrative — suggests vendors are positioning for budget cycles, not breaking news."
+        },
+        {
+          "title": "Public School NY's Bespoke Boots Are Timbs at Their Toughest",
+          "source_name": "Hypebeast",
+          "source_url": "https://hypebeast.com/2026/5/public-school-ny-timberland-custom-nickel-copper-toe-met-gala-info",
+          "category": "Leather",
+          "relevance_score": 6,
+          "original_publish_time": "2026-05-07T17:55:51+00:00",
+          "misaki_take": "Timberland's 'The Shed' placement at the Met Gala is a deliberate repositioning signal — nickel-plated copper toe guards and stacked midsoles on a bespoke commission are the brand speaking directly to the luxury trade and fashion press without touching their core SKU economics. The risk is the same one heritage workwear brands always face when they play in fashion spaces: the core wholesale customer watches and recalibrates their perception of where the brand sits on the value ladder."
+        },
+        {
+          "title": "West Asia war, soaring input costs push Agra footwear industry into crisis - CNBC TV18",
+          "source_name": "Google News - Footwear Industry",
+          "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPLVMwdFVQTldWUXF1aElyS1hINGpqcjFGOE53Zkh2emRmZ3hrWmpwaFBrX2tnOTVxcVY2a09KRVBRMDZQc05xRVhzY0lWUzIzRkt1S2dXS3JHVGhGeDNyUzdscWp3clFqN2JpYVlFalhDcUMxOWlJREQ4VHJMdE92ZWRwX3djclQ2NE9BVWhiWmY1cEJuTmN4ZGRpRFNZbHVQd3R5dnN3eVdUakFTblRxM3hnWVV5TERDNUdvWVB0eGFBWTFSX0FtT2N6RdIB0AFBVV95cUxQcWJzNE56NTNMRmtiOHU4Z3pvbE8teFU1Z3NYSG5ySF9VY05hME5ucFEwQ2JDQzR4RGVybGZfMERXOS0xa3E4bklsZmpxMW9IVFY5VUpLNkJGMVlhc1g4eDZoYWMzV2lSM294U2R5YjRGU2t1WnNJWFNnNGhoSDJYanlrNVU2VmpPSkZUalA5bWpDQ3BzcVoySHdXZnZOYTdPZ2xrUVlXZUotTWJXQ1FfUjRxS3dLbktJaVg3Wm5zaU1uc2QxYTlaNTZEcHhHOVZp?oc=5",
+          "category": "Retail",
+          "relevance_score": 6,
+          "original_publish_time": "2026-05-07T16:59:06+00:00",
+          "misaki_take": "The West Asia conflict is disrupting leather chemical and auxiliary supply chains that run through Gulf transit hubs, compounding the raw hide price pressure that Agra tanners were already managing before the tariff situation materialized. Brands sourcing finished leather goods from Agra vendors should be requesting written confirmation of inventory buffers and alternative chemistry sourcing before signing off on any Q3 or Q4 purchase orders."
+        },
+        {
+          "title": "First Look at Action Bronson’s New Balance 1890 “Planet Frog”",
+          "source_name": "Hypebeast",
+          "source_url": "https://hypebeast.com/2026/5/action-bronson-new-balance-1890-planet-frog-first-look",
+          "category": "Leather",
+          "relevance_score": 6,
+          "original_publish_time": "2026-05-06T08:32:20+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "Mirziyoyev Reviews Leather and Footwear Industry Growth Plan - UzDaily.uz",
+          "source_name": "Google News - Footwear Industry",
+          "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRUdPV3otWGI1VkJEN3p3cXdtQUhuUmt2N3NweDNFVEZoTFRKODZBLVJ2SVVSeGt2SHpkd01kV3RTbkI2Qi1IUXN2cVhWY0ViQkd2dmt0eWp5SjdqNWFhVDNWcDl4WUpDTGo5WVg1eXhyWmJvQjNBbjJvTnp2RjhidTg2N0k3RmFxa2xBTld1aG4?oc=5",
+          "category": "Leather",
+          "relevance_score": 6,
+          "original_publish_time": "2026-05-05T12:44:00+00:00",
+          "misaki_take": "Uzbekistan has been signaling its leather and footwear manufacturing ambitions for several years, and presidential-level review of an industry growth plan indicates the government is prepared to move incentives and infrastructure investment forward seriously. Sourcing directors who have not yet sent a technical team to Tashkent should put it on the H2 2026 agenda — the combination of raw hide availability, competitive labor rates, and improving GSP positioning makes this a cluster worth evaluating before Western European buyers lock in early-mover advantages."
+        },
+        {
+          "title": "From Nike to Salomon, Browse This Week’s Best Sneaker Releases",
+          "source_name": "Highsnobiety",
+          "source_url": "https://www.highsnobiety.com/p/sneaker-releases-2026-may-week-1/",
+          "category": "Retail",
+          "relevance_score": 6,
+          "original_publish_time": "2026-05-05T09:10:00+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "US Footwear Industry Q1 2026: Growth Driven by Price & Performance - Circana",
+          "source_name": "Google News - Footwear Industry",
+          "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQczlsaWpFSUU1YU1PaDdFM0IxU2xITkd2X3UtVVU0SklXMmxkcjNlYW9VQTRmbUw2VXc1ZDE3X2NjZDJqSHdRcUR3SUFZaFBYc0Y2RGh6VTJCUU90TldIbFd1OUVXX0tmdF9mTVhlaUUwUFMycm1XY2c5dlBMak9FeHNubkpsc3p1elV0RWU3NjNtVTZXYXNSWGMzZGxqZmt0WWVIY1U5S2I2MmhlaDJXbkxfWmJpbzFoTlBjQldkWWlQaEtVVjVv?oc=5",
+          "category": "Retail",
+          "relevance_score": 6,
+          "original_publish_time": "2026-05-04T16:25:01+00:00",
+          "misaki_take": "Revenue growth built on ASP increases rather than unit volume expansion is a fragile foundation — it signals that consumer demand is softening even as the topline holds, and it compresses the runway brands have before retailers begin pushing back on cost increases. Performance category strength is real, but it is concentrated in a narrow set of vendors with the technical credibility and inventory discipline to execute at that tier, which means mid-market brands in athletic or athleisure are likely seeing unit declines they are not publicly discussing."
+        },
+        {
+          "title": "US Footwear Industry Delivers Modest First-Quarter Growth Driven by Price Increases and Strength in Performance Segment, Circana Reports - Yahoo Finance Singapore",
+          "source_name": "Google News - Footwear Industry",
+          "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUFVIRnhMU1p1cU5RRl9mSFBtRE1nUDhXNUxHZGsxWjQ4ZGpLUGpIQTljWmZJZDI2dU8xNzBCaklXS0JnRkdKLVpnb3FZdTlxeTBiWFV1ZEYtbWVmWTVSS1haVHBTQmVuMGExbGtUZlJiMm14WUhWdkRWdHo0cm16ZGdxWlVHTEVfd3BBZXRn?oc=5",
+          "category": "Supply Chain",
+          "relevance_score": 6,
+          "original_publish_time": "2026-05-04T14:09:00+00:00",
+          "misaki_take": "The geographic placement of this Circana story in Singapore-facing financial media is notable — it is being read by Asian manufacturers and investors who are calibrating their own production forecasts and factory utilization assumptions against US consumer resilience. If the Q2 Circana read shows price-driven growth stalling without a unit recovery, expect to see factory minimum order quantity negotiations become more favorable for brands in the back half of 2026."
+        }
+      ]
+    },
     {
       "id": "wk18-2026",
       "week_number": 18,
