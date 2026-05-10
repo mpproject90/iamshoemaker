@@ -1,8 +1,29 @@
 {
-  "last_updated": "2026-05-09T17:57:43.701265+00:00",
-  "total_articles": 93,
+  "last_updated": "2026-05-10T00:04:58.421055+00:00",
+  "total_articles": 91,
   "sources_checked": 62,
   "articles": [
+    {
+      "id": "62be421c6435",
+      "title": "Nike's Beautifully Metallic New Sneaker Is Gold Medal Worthy",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-pacific-sneaker-metallic/",
+      "original_publish_time": "2026-05-09T18:44:00+00:00",
+      "scraped_time": "2026-05-09T23:57:25.564950+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "Nike's chrome-tastic Pacific sneaker is a metallic marvel that pulls from some of the best retro sneakers in Nike's arsenal.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "93506ef9797a",
       "title": "Nike's Thickest Slide Is Basically a High-Heel Sandal",
@@ -1840,68 +1861,6 @@
       ],
       "relevance_score": 3,
       "summary": "Uzbekistan, Pakistan Expand Leather Industry Ties UzDaily.uz",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "be6f8c7e70a0",
-      "title": "The Quiet Return of Nike’s Handsome Handwoven Harris Tweed Dunks",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/harris-tweed-nike-dunk-sneakers-2026/",
-      "original_publish_time": "2026-05-02T21:13:27+00:00",
-      "scraped_time": "2026-05-02T23:54:35.207502+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "Nike quietly brought back its Harris Tweed Dunk Low sneakers through a 2026 restock. Here's how to cop them.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "a9b443d7e053",
-      "title": "adidas’ Simplest Mary Jane Is Far from Basic",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/adidas-samba-jane-black-off-white/",
-      "original_publish_time": "2026-05-02T20:21:59+00:00",
-      "scraped_time": "2026-05-02T23:54:35.206674+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Adidas",
-        "Off-White"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "adidas releases a new Samba Jane \"Black/Off-White\" sneaker. It sounds simple but quiet elegant details reveal much more.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "66d4f7c84cc9",
-      "title": "Nike’s Futuristic New Basketball Sneaker Is Getting a Limited-Edition Oregon Ducks Release",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/doaf-nike-gt-future-release-date-1238938022/",
-      "original_publish_time": "2026-05-02T18:13:02+00:00",
-      "scraped_time": "2026-05-02T23:50:55.925641+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "The special sneakers will only be released at one store.",
       "ren_take": "",
       "image_url": ""
     }
