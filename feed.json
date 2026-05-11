@@ -1,8 +1,131 @@
 {
-  "last_updated": "2026-05-11T13:59:44.605515+00:00",
-  "total_articles": 89,
-  "sources_checked": 62,
+  "last_updated": "2026-05-11T19:08:59.086786+00:00",
+  "total_articles": 86,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "c80148510650",
+      "title": "The Row's Menswear Breaks Out Its Shirttails & Flat Footwear for Summer 2026",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/5/the-row-menswear-summer-2026-collection-release-info",
+      "original_publish_time": "2026-05-11T18:04:12+00:00",
+      "scraped_time": "2026-05-11T18:55:40.122929+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "shoes",
+        "sneakers",
+        "sole"
+      ],
+      "relevance_score": 6,
+      "summary": "SummaryThe Row’s Summer 2026 menswear collection embraces effortless luxury with relaxed tailoring, lightweight fabrics, and unbuttoned shirting designed to be worn untucked.Complementing the casual-sartorial balance is a range of minimal footwear, including lambskin sneakers and nappa leather slippers, now available at the brand’s official webstore.For Summer 2026, The Row is leaning into an easier interpretation of its sleek, simply tailored menswear line. Opting for flat-soled shoes and free-hanging shirttails to soften its more tailored silhouettes, the collection is a laid-back expression of the Olsen twins’ elusive luxury label.In the easy, yet intimate lookbook, casual black-and-white photos of the full looks are countered by personal closeups in full color. The concept illustrates ",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "fe6eaf05d498",
+      "title": "adidas Transforms The Samba Into A Backless Mule",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/05/11/adidas-samba-mule-release-date/",
+      "original_publish_time": "2026-05-11T18:00:18+00:00",
+      "scraped_time": "2026-05-11T18:55:40.333681+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Adidas",
+        "Keen"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "The adidas Samba has been one of the defining silhouettes of the 2020s, still riding high in a fashion landscape that’s remained keen on sleek,... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post adidas Transforms The Samba Into A Backless Mule appeared first on Sneaker News . The post adidas Transforms The Samba Into A Backless Mule appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "bdc3dbffe7f5",
+      "title": "Podiatric Surgeon Marion Parke Winds Down Namesake Shoe Brand - WWD",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPak5tSUZBNUF6d0gtbXEzdGNzbjVXQkJmREVmZ1g1bUUxcEtqUWNRLVlid3VsakdVSy12bHdDcGZrUHo4SnQtZGJJVE0xaTR3bllYVGVTMzhPVFlzQTZEZzdiMlhWZ3pjcFFVa2E4VjM4N2w0RW93RjhSMWNaU3cwQWdSWUxEamlYa3kxcHRWM0hhWndlOWc?oc=5",
+      "original_publish_time": "2026-05-11T16:30:03+00:00",
+      "scraped_time": "2026-05-11T18:55:51.384598+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoe brand"
+      ],
+      "relevance_score": 3,
+      "summary": "Podiatric Surgeon Marion Parke Winds Down Namesake Shoe Brand WWD",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "c65d7faae31b",
+      "title": "How Harrison Ford Ended Up in Air Jordan 3s and More Sneaker Moments From ‘Shrinking’ and ‘Running Point’",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-jordan-shrinking-running-point-sneakers-allyson-fanger-1238934978/",
+      "original_publish_time": "2026-05-11T15:48:48+00:00",
+      "scraped_time": "2026-05-11T18:55:28.806317+00:00",
+      "time_delta_mins": 0,
+      "category": "Quality",
+      "brands_mentioned": [
+        "Jordan"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "Costume designer Allyson Fanger spoke to FN about the presence of sneakers in the two comedy series.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "63b2eedc4efa",
+      "title": "Patrick Cox Finds Peace and a New Footwear Groove With New Brand Doors of Perception",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/patrick-cox-doors-of-perception-london-pop-up-1238947373/",
+      "original_publish_time": "2026-05-11T14:13:23+00:00",
+      "scraped_time": "2026-05-11T18:55:28.810089+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "The veteran shoe designer is back in business on his own terms, with an Ibiza-born, slow-fashion label, a Notting Hill pop-up and a joy-first growth plan.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "72368afb60c4",
+      "title": "Coca-Cola and adidas Originals’ Superstar II Lets the Script Do the Talking",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/5/coca-cola-adidas-originals-superstar-ii-japan-kh6892-release-info",
+      "original_publish_time": "2026-05-11T13:50:19+00:00",
+      "scraped_time": "2026-05-11T18:55:40.125811+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "footwear",
+        "upper"
+      ],
+      "relevance_score": 4,
+      "summary": "Name: Coca-Cola x adidas Originals Superstar IIColorway: White/Cream/RedSKU: KH6892MSRP: TBCRelease Date: June 6Where to Buy: adidas JapanCoca-Cola and adidas Originals are releasing a collaborative Superstar II on June 6 as part of a wider six-shoe summer collection. The shoe is built on a weathered white base with cream and red accents and Coca-Cola Classic script branding on the side panel.The design brief here is tight and it executes cleanly. A Footwear White leather upper carries the Superstar's shell-toe silhouette in its most recognizable form, while cream accents soften what could have read as a stark all-white canvas, pushing the shoe toward something warmer and more worn-in. Red lands as the third element, pulling the palette directly into Coca-Cola Classic territory without req",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "b1b5a9ee8615",
       "title": "Salomon x Ray BEAMS Serve Up the “Blueberry Cheesecake” XT-Whisper",
@@ -1652,184 +1775,6 @@
       "keywords_matched": [],
       "relevance_score": 4,
       "summary": "At the end of the day, everyone in the NBA wants to be a signature athlete (well, save for Jalen Brunson), but for those players... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Jordan Poole Polishes A Golden Nike GT Cut 4 appeared first on Sneaker News . The post Jordan Poole Polishes A Golden Nike GT Cut 4 appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "426602d0c291",
-      "title": "Report: U.S. Footwear Sales Inched Up in Q1 on Rising ASPs, Performance Strength - SGB Media",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSW9QaFBoOWlpOXJOSmRpeHdQU1libklJbUVfSFNuOERaWDE1T2tmZjdXd3RSUEsxWmItcFUtNUhHVFI0ZDVDQnN1c0FXdGtZbXpMNDI1b1p0NVl0N3BKVjZLNnhLVDVPXzg5UHJUZWs3ZUZzaWtUd1RZS3ozLWd0NVFEZ1J4VThyRk1hNEd2R3dlRFAtOHNNVHdONXhnUG50dDl3RXlqRTdjdHRLUG1CTg?oc=5",
-      "original_publish_time": "2026-05-04T18:58:55+00:00",
-      "scraped_time": "2026-05-05T18:08:34.342029+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Report: U.S. Footwear Sales Inched Up in Q1 on Rising ASPs, Performance Strength SGB Media",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "2f5d453a1587",
-      "title": "The Force Is With Jalen Brunson and His Darth Vader-inspired Nike Kobe Sneakers",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/jalen-brunson-star-wars-nike-kobe-sneakers-1238939208/",
-      "original_publish_time": "2026-05-04T17:51:00+00:00",
-      "scraped_time": "2026-05-04T18:12:30.902061+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 5,
-      "summary": "The Knicks star has said \"Revenge of the Sith\" is his favorite Star Wars film.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "489653c371a7",
-      "title": "US Footwear Industry Q1 2026: Growth Driven by Price & Performance - Circana",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQczlsaWpFSUU1YU1PaDdFM0IxU2xITkd2X3UtVVU0SklXMmxkcjNlYW9VQTRmbUw2VXc1ZDE3X2NjZDJqSHdRcUR3SUFZaFBYc0Y2RGh6VTJCUU90TldIbFd1OUVXX0tmdF9mTVhlaUUwUFMycm1XY2c5dlBMak9FeHNubkpsc3p1elV0RWU3NjNtVTZXYXNSWGMzZGxqZmt0WWVIY1U5S2I2MmhlaDJXbkxfWmJpbzFoTlBjQldkWWlQaEtVVjVv?oc=5",
-      "original_publish_time": "2026-05-04T16:25:01+00:00",
-      "scraped_time": "2026-05-07T07:36:43.667319+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "footwear industry"
-      ],
-      "relevance_score": 6,
-      "summary": "US Footwear Industry Q1 2026: Growth Driven by Price & Performance Circana",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "dde9e87b6681",
-      "title": "10 WNBA Sneaker Stars to Watch Out For This Season - Sole Retriever",
-      "source_name": "Google News - Sneaker Brand",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVGZ6VE1la2pmU0JueXdWZzl6UmZRN1dDZkg0WlhWQVNuRnJRQW15TnFwbFRiTzRVYVAxSnJXSWcwaUZ5TnVPM0dyUDhUMGh4d3lfRHJBVUNENXpMQ05MR2lXYjlENGI2dnp4Q1V6OUgwNzNWN01LQ2VhMEtOME1LaXY2UHIwcTVxOHk0Sk5wN2R3bEd3dnlBV2NB?oc=5",
-      "original_publish_time": "2026-05-04T16:00:28+00:00",
-      "scraped_time": "2026-05-04T18:12:54.440374+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "sole"
-      ],
-      "relevance_score": 3,
-      "summary": "10 WNBA Sneaker Stars to Watch Out For This Season Sole Retriever",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "f5d394a920d5",
-      "title": "Rising Prices Aren’t Keeping Consumers Away as Footwear Sales Grow in Q1",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/footwear-sales-data-q1-2026-circana-shoe-prices-1238938975/",
-      "original_publish_time": "2026-05-04T15:06:14+00:00",
-      "scraped_time": "2026-05-04T18:12:30.904490+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "shoes"
-      ],
-      "relevance_score": 4,
-      "summary": "Running shoes were the standout in the first quarter, delivering double-digit dollar and unit growth.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "c7bb255e113f",
-      "title": "Rack Room Taps Former Famous Footwear Exec Mike Edwards as CEO",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/rack-room-mike-edwards-ceo-1238938827/",
-      "original_publish_time": "2026-05-04T14:38:00+00:00",
-      "scraped_time": "2026-05-04T18:12:30.905038+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "The executive was most recently president of Famous Footwear, and succeeds long-time Rack Room president and CEO Mark Lardie, who is retiring.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "fa1a492eec36",
-      "title": "First Look at the NIGO x Nike Air Force 1 Low 01 \"Triple White 2GO\"",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/5/nigo-nike-air-force-1-low-01-triple-white-2go-london-design-museum-first-look",
-      "original_publish_time": "2026-05-04T14:11:17+00:00",
-      "scraped_time": "2026-05-05T12:03:12.343887+00:00",
-      "time_delta_mins": 0,
-      "category": "Manufacturing",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "sole"
-      ],
-      "relevance_score": 3,
-      "summary": "SummaryStrictly limited to a 50-pair production run, this ultra-rare promo sample honors NIGO's deep connection to the foundations of streetwear and sneaker cultureThe heel features custom \"2GO\" embroidery utilizing the exact same typeface found on the legendary Eminem ENCORE Air Force 1s and boasts the iconic 2001 toe box shape, a classic \"Triple White\" base, and a milky translucent soleSneakerheads and fans can view one of the 50 pairs right now at the Design Museum gift shop in London alongside the ongoing NIGO exhibitionThe sneaker community just got a massive surprise. In a world's first look, images have surfaced of an incredibly elusive promotional sample: the NIGO x Nike Air Force 1 Low \"Triple White 2GO.\" Created in a painstakingly small batch of just 50 pairs worldwide, this snea",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "fb2526998c8c",
-      "title": "US Footwear Industry Delivers Modest First-Quarter Growth Driven by Price Increases and Strength in Performance Segment, Circana Reports - Yahoo Finance Singapore",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUFVIRnhMU1p1cU5RRl9mSFBtRE1nUDhXNUxHZGsxWjQ4ZGpLUGpIQTljWmZJZDI2dU8xNzBCaklXS0JnRkdKLVpnb3FZdTlxeTBiWFV1ZEYtbWVmWTVSS1haVHBTQmVuMGExbGtUZlJiMm14WUhWdkRWdHo0cm16ZGdxWlVHTEVfd3BBZXRn?oc=5",
-      "original_publish_time": "2026-05-04T14:09:00+00:00",
-      "scraped_time": "2026-05-04T18:12:53.717230+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "footwear industry"
-      ],
-      "relevance_score": 6,
-      "summary": "US Footwear Industry Delivers Modest First-Quarter Growth Driven by Price Increases and Strength in Performance Segment, Circana Reports Yahoo Finance Singapore",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "c46ca33f7be5",
-      "title": "Rack Room Shoes Appoints New CEO to Drive Continued Growth - StreetInsider",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcnFZdFJEVnVPd2puUDJaTlVibWdQdjJoV2gyQjhhdWhCaGE3dkw3WUtfUmNHbWZRYnpmWWlib2szSkZ6OUhxVzh1bzJwUWRiQzBYMlR4d055bUU5bi1IUUZXcjI5YTJfbzRTek85NDl4SnVNZ2Q5RnYxMTlvQ3lPSElXb1JLZy1XcENEQjhxQTg1UzFpSF9QelEtV1pCLWxsdTAtVGRJR2xrZC1iLUJmdQ?oc=5",
-      "original_publish_time": "2026-05-04T14:06:26+00:00",
-      "scraped_time": "2026-05-04T23:58:02.419891+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "Rack Room Shoes Appoints New CEO to Drive Continued Growth StreetInsider",
       "ren_take": "",
       "image_url": ""
     }
