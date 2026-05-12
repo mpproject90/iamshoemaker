@@ -1,8 +1,51 @@
 {
-  "last_updated": "2026-05-11T19:08:59.086786+00:00",
-  "total_articles": 86,
+  "last_updated": "2026-05-12T00:12:35.914224+00:00",
+  "total_articles": 84,
   "sources_checked": 61,
   "articles": [
+    {
+      "id": "a69c56ab3d39",
+      "title": "adidas' Suede Mary Jane Sneakers Aren't Just Cute — They're Suave AF",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/adidas-samba-jane-suede/",
+      "original_publish_time": "2026-05-11T21:26:35+00:00",
+      "scraped_time": "2026-05-12T00:05:24.219585+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "sneakers",
+        "upper"
+      ],
+      "relevance_score": 6,
+      "summary": "adidas releases a \"Sand Strata\" Samba Jane ballet sneaker featuring smooth suede uppers. Here's everything on the latest version.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "c107db0036ce",
+      "title": "adidas' Sharply Dressed Samba Sings a Different Tune",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/song-for-the-mute-adidas-samba-freizeit/",
+      "original_publish_time": "2026-05-11T21:22:13+00:00",
+      "scraped_time": "2026-05-12T00:05:24.220225+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 4,
+      "summary": "Song for the Mute & adidas release their rugged yet classy SS26 Samba Freizeit sneaker inspired school shoes.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "c80148510650",
       "title": "The Row's Menswear Breaks Out Its Shirttails & Flat Footwear for Summer 2026",
@@ -460,6 +503,25 @@
       ],
       "relevance_score": 4,
       "summary": "Name: Salomon ACS Pro JAPAN “Nami Pack”Colorway: TBCSKU: L45440500MSRP: ¥33,000 JPY (approx. $210 USD)Release Date: May 15Where to Buy: Salomon JPSalomon has unveiled a Japan-exclusive ACS Pro silhouette dubbed the “Nami Pack,” a design that reimagines the brand’s technical 2000s heritage through the lens of traditional Japanese artistry.Drawing inspiration from Japanese wave motifs, the sneaker combines the organic curves of Hokusai’s \"The Great Wave off Kanagawa\" with the rhythm of digital sound waves. Rendered in a palette of washed indigo, white and touches of black, the colorway evokes the deep tones of traditional indigo-dyed fabrics. Special details include wave-pattern tongue labels and insoles, reinforcing the theme across the shoe’s branding. Durable Kurim overlays paired with br",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "2359195c2922",
+      "title": "Celebs Can't Stop Wearing the Ballet Sneakers Trend — I'm Officially Hooked After Trying Them Myself - People.com",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfRTFhcXZ3MHJxdFZ5MmtGV3k1ZG5DT0kzRHFQdFlkT1dMM0RlNE91ZkozN0FVejZod0hYd0xGdmhFczRWWllqZmFYQWNEQ3BsTUFpdUlXNUtuOVZ6R3VQN3Y4dV9lTHBNSHFFM3hwemFwckJlTVVLVExMSmlZNHc?oc=5",
+      "original_publish_time": "2026-05-09T19:15:00+00:00",
+      "scraped_time": "2026-05-12T00:01:47.563707+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "Celebs Can't Stop Wearing the Ballet Sneakers Trend — I'm Officially Hooked After Trying Them Myself People.com",
       "ren_take": "",
       "image_url": ""
     },
@@ -1672,109 +1734,6 @@
       ],
       "relevance_score": 3,
       "summary": "Statement heels dominated the 2026 Met Gala red carpet as stars like Sabrina Carpenter embraced the style.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "2621aa22d67d",
-      "title": "Nike’s Sweetest Air Max Has Cotton Candy in Its Soles",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-air-max-95-white-hyper-turquoise/",
-      "original_publish_time": "2026-05-04T22:15:14+00:00",
-      "scraped_time": "2026-05-05T00:01:27.848551+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "sole"
-      ],
-      "relevance_score": 5,
-      "summary": "Nike's Air Max 95 Big Bubble \"Hyper Turquoise\" sneaker brings cotton candy-level sweetness to the collection. \"South Beach\" vibes, too.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "450c58d566ff",
-      "title": "Nike's Very Colorful Jordan Sneaker Is Proudly Team Brazil",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/jordan-3-brazil/",
-      "original_publish_time": "2026-05-04T22:12:58+00:00",
-      "scraped_time": "2026-05-05T00:01:27.847169+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike",
-        "Jordan"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 4,
-      "summary": "The Air Jordan 3 \"Brazil\" sneaker gets a colorful design inspired by the Brazilian national team's jerseys, which were also designed by Jordan.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "48f4a5a8e4ba",
-      "title": "Nike’s Breezy Recovery Sneaker Tastes Better With Jelly",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-rejuven8-run-jelly-sneakers/",
-      "original_publish_time": "2026-05-04T22:07:34+00:00",
-      "scraped_time": "2026-05-05T00:01:27.847821+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "Nike reveals a jelly version of its revived Rejuven8 sneaker, just in time for the summer. Here's everything on the newest recovery shoes.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "005b28bf1d25",
-      "title": "The Nike Air Max 95 Big Bubble ‘South Beach’ Takes a Page From One of LeBron’s Most Iconic Sneakers",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-air-max-95-south-beach-release-date-ir1473-060-1238939650/",
-      "original_publish_time": "2026-05-04T21:33:20+00:00",
-      "scraped_time": "2026-05-04T23:57:39.678667+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 5,
-      "summary": "Subtly incorporating turquoise and pink.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "7434afde3110",
-      "title": "Jordan Poole Polishes A Golden Nike GT Cut 4",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/05/04/nike-zoom-gt-cut-4-jordan-poole-ir7206-700/",
-      "original_publish_time": "2026-05-04T21:00:45+00:00",
-      "scraped_time": "2026-05-04T23:57:51.632371+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike",
-        "Jordan"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 4,
-      "summary": "At the end of the day, everyone in the NBA wants to be a signature athlete (well, save for Jalen Brunson), but for those players... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Jordan Poole Polishes A Golden Nike GT Cut 4 appeared first on Sneaker News . The post Jordan Poole Polishes A Golden Nike GT Cut 4 appeared first on Sneaker News .",
       "ren_take": "",
       "image_url": ""
     }
