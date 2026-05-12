@@ -1,8 +1,27 @@
 {
-  "last_updated": "2026-05-12T00:12:35.914224+00:00",
-  "total_articles": 84,
+  "last_updated": "2026-05-12T07:47:51.556385+00:00",
+  "total_articles": 85,
   "sources_checked": 61,
   "articles": [
+    {
+      "id": "ff71677f0162",
+      "title": "Freaky Shoes Have Somehow Gotten Even Freakier",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-trends/chanel-resort-2027-sandals-1238949060/",
+      "original_publish_time": "2026-05-12T03:30:00+00:00",
+      "scraped_time": "2026-05-12T07:35:47.665835+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 4,
+      "summary": "From Tabis to Vibrams, to Chanel’s literal heels, what is happening?",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "a69c56ab3d39",
       "title": "adidas' Suede Mary Jane Sneakers Aren't Just Cute — They're Suave AF",
@@ -125,6 +144,27 @@
       ],
       "relevance_score": 3,
       "summary": "Costume designer Allyson Fanger spoke to FN about the presence of sneakers in the two comedy series.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "eea4163540bd",
+      "title": "Kobe Bryant's Ultra-Rare Nike Air Force 1 Protro \"Denim\" Is Finally Releasing",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/5/kobe-bryant-nike-air-force-1-low-protro-denim-im1980-400-release-date-official-look",
+      "original_publish_time": "2026-05-11T15:38:16+00:00",
+      "scraped_time": "2026-05-12T07:35:59.261881+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Name: Kobe Bryant x Nike Air Force 1 Low Protro \"Denim\"Colorway: Obsidian/Safety Orange-WhiteSKU: IM1980-400Retail Price: $150 USDRelease Date: May 22, 2026Where to Buy: NikeFor two decades, it remained one of the most elusive grails in the Black Mamba's extensive sneaker catalog. Now, Nike is finally giving fans what they want. First gifted to Kobe Bryant as a Player Exclusive back in 2006, the legendary Nike Air Force 1 \"Denim\" is officially making its way out of the vault. Arriving just in time to celebrate its 20th anniversary, this highly anticipated drop gives sneakerheads and basketball historians a long-awaited chance to own a rare piece of Bryant's incredible footwear legacy.When Kobe Bryant officially signed with Nike in 2003, the brand began treating him to a steady stream of Pl",
       "ren_take": "",
       "image_url": ""
     },
@@ -1715,25 +1755,6 @@
       ],
       "relevance_score": 4,
       "summary": "Name: NN.07 x Grenson MuleColorway: BlackSKU: TBCMSRP: $320Release Date: May 13Where to Buy: Grenson, NN.07Grenson has partnered with NN.07 on a footwear collaboration that fuses Copenhagen’s contemporary design ethos with Britain’s storied shoemaking heritage. The project reinterprets the classic moccasin silhouette, drawing inspiration from Grenson’s long tradition of crafting genuine moccasins since the 1960s. The result is a design that celebrates “tradition reimagined,” blending artisanal craftsmanship with NN.07’s forward‑looking design language.Available in limited quantities, the mule is crafted with a soft nappa leather upper and a hand‑stitched gathered apron, delivering a tactile, glove‑like fit. Its lightweight construction and flexible leather sole make it ideal for spring wea",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "689b175c61a1",
-      "title": "The Best Shoes at the 2026 Met Gala: Sabrina Carpenter, Tyla and More",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-trends/met-gala-2026-best-shoes-1238942008/",
-      "original_publish_time": "2026-05-05T03:50:23+00:00",
-      "scraped_time": "2026-05-05T07:09:44.209928+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "Statement heels dominated the 2026 Met Gala red carpet as stars like Sabrina Carpenter embraced the style.",
       "ren_take": "",
       "image_url": ""
     }
