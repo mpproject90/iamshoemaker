@@ -1,8 +1,107 @@
 {
-  "last_updated": "2026-05-14T19:03:49.788418+00:00",
-  "total_articles": 104,
-  "sources_checked": 62,
+  "last_updated": "2026-05-15T00:11:25.833761+00:00",
+  "total_articles": 108,
+  "sources_checked": 64,
   "articles": [
+    {
+      "id": "69e55d3afa1c",
+      "title": "FAIST Voices: meet DCSI PRO - World Footwear",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Qb2NISW52QkVjUTRSbkVRd3RMR2FZR191ZEtxcUdYcl9kSkRQc0xhN2wtbUh0MTVEd1E2akw2akVTOE9kckdMMVN1UHhycnZQYmtWUmc4ZlE5MFEzbGFzUE5qSGRUdjdhU0t5bFpILWpfcVBIWUpQNFJkZm8?oc=5",
+      "original_publish_time": "2026-05-14T23:04:15+00:00",
+      "scraped_time": "2026-05-15T00:00:45.388254+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "FAIST Voices: meet DCSI PRO World Footwear",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "c0ba1d9c2250",
+      "title": "Boot Barn Marks ‘Record Year’ After Beating Q4 Expectations",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/boot-barn-boot-q4-2026-earnings-record-year-1238955610/",
+      "original_publish_time": "2026-05-14T20:46:03+00:00",
+      "scraped_time": "2026-05-15T00:00:22.095341+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 3,
+      "summary": "Net sales in the quarter increased 18.7 percent to $538.8 million from $453.7 million in the prior-year period.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "cb1283dd7c24",
+      "title": "Analyst: ‘More Cohesive’ Footwear Presentation Seen at Foot Locker, Champs",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/telsey-advisory-group-champs-foot-locker-dicks-adidas-nike-1238955013/",
+      "original_publish_time": "2026-05-14T20:44:28+00:00",
+      "scraped_time": "2026-05-15T00:00:22.098606+00:00",
+      "time_delta_mins": 0,
+      "category": "Quality",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Telsey Advisory Group analyst Cristina Fernández said Champs \"differentiated itself from Foot Locker with an assortment of performance running brands.\"",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "fe263ff24489",
+      "title": "Adidas Has a New ‘Toy Story’ Collaboration With Buzz Lightyear Sneakers That Actually Light Up",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/toy-story-adidas-adistar-control-5-buzz-lightyear-release-date-la3965-1238955079/",
+      "original_publish_time": "2026-05-14T19:36:57+00:00",
+      "scraped_time": "2026-05-15T00:00:22.099170+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "A three-sneaker collection is scheduled to be released ahead of \"Toy Story 5.\"",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "280858985ac8",
+      "title": "50 Cent’s G-Unit x Reebok Sneakers Are Making a Comeback This Summer",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/50-cent-g-unit-reebok-sneaker-comeback-1238955500/",
+      "original_publish_time": "2026-05-14T19:31:49+00:00",
+      "scraped_time": "2026-05-15T00:00:22.099707+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Reebok"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "As confirmed by Tony Yayo.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "1044fd9badec",
       "title": "Dior 2027 Cruise Shoes: Doubling Down on Florals and Embellishment",
@@ -2126,25 +2225,6 @@
       ],
       "relevance_score": 3,
       "summary": "Cost of Setting Up a Footwear Manufacturing Plant in 2026: Detailed Business Analysis openPR.com",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "a14c92593b7a",
-      "title": "Village PM Has One of the Hottest Sneakers in the World and It Just Got an Upgrade",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/village-pm-1pm-leather-release-date-1238946868/",
-      "original_publish_time": "2026-05-07T20:09:51+00:00",
-      "scraped_time": "2026-05-07T23:56:34.884794+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "The Parisian skate brand's 1PM sneaker gets a full-grain leather makeover.",
       "ren_take": "",
       "image_url": ""
     }
