@@ -1,8 +1,27 @@
 {
-  "last_updated": "2026-05-16T12:03:10.531376+00:00",
-  "total_articles": 115,
+  "last_updated": "2026-05-16T18:09:45.158966+00:00",
+  "total_articles": 117,
   "sources_checked": 64,
   "articles": [
+    {
+      "id": "8ead68983b93",
+      "title": "Feng Tay Enterprises stock (TW0009910000): footwear supplier in focus after recent update for invest - AD HOC NEWS",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVExHTHkzSjYyMi1taEkyR19DYWUzS0EzYjUxZjdqNkhST0ZVSGhDczZxeTJwSjcySHpXYlZ4NlFqb29PWkkycEtmYVNOS1ViZWlyU21mTHVFU1pVZ0ZsLUZYeGRaMTdKdU96UlVqQlJ6aS1TMHRhaUJCcWR5TXpfRjEzOUF6U05NMjFocm9vdFVldW56a0hjaHpyVUxWN2RVLU1lMm1tVHVKaWhYcVVEaGwwSGlfdEF5Y1B6S2V1bFg4MkE?oc=5",
+      "original_publish_time": "2026-05-16T12:57:31+00:00",
+      "scraped_time": "2026-05-16T17:54:52.332050+00:00",
+      "time_delta_mins": 0,
+      "category": "Manufacturing",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Feng Tay Enterprises stock (TW0009910000): footwear supplier in focus after recent update for invest AD HOC NEWS",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "fca0a9156c2d",
       "title": "New Balance’s Silver Dad Sandal Is a Natural-Born Summer Stunner",
@@ -414,6 +433,25 @@
       ],
       "relevance_score": 3,
       "summary": "Telsey Advisory Group analyst Cristina Fernández said Champs \"differentiated itself from Foot Locker with an assortment of performance running brands.\"",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "b419cc6ed67f",
+      "title": "Leather Footwear (HS: 6403) Product Trade, Exporters and Importers | The Observatory of Economic Complexity - The Observatory of Economic Complexity",
+      "source_name": "Google News - India Leather",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE00U3ltRjdYMW1jUlZlOVhhTWlUeUJ6Q0RNSDNhSUx1eDNkbnJZUTZxNDJZVDV1MVBSNkYzU1dvNzFRN1M4OW94ZjNlWW56TjJlNDlvMy1iUmg0LVdL?oc=5",
+      "original_publish_time": "2026-05-14T20:15:34+00:00",
+      "scraped_time": "2026-05-16T18:09:43.277205+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Leather Footwear (HS: 6403) Product Trade, Exporters and Importers | The Observatory of Economic Complexity The Observatory of Economic Complexity",
       "ren_take": "",
       "image_url": ""
     },
