@@ -1,8 +1,151 @@
 {
-  "last_updated": "2026-05-15T18:36:03.017235+00:00",
-  "total_articles": 108,
-  "sources_checked": 64,
+  "last_updated": "2026-05-16T00:12:43.045500+00:00",
+  "total_articles": 113,
+  "sources_checked": 62,
   "articles": [
+    {
+      "id": "fca0a9156c2d",
+      "title": "New Balance’s Silver Dad Sandal Is a Natural-Born Summer Stunner",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/new-balance-9060-summer-mule-silver-metallic/",
+      "original_publish_time": "2026-05-15T21:41:46+00:00",
+      "scraped_time": "2026-05-16T00:00:48.128167+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "New Balance"
+      ],
+      "keywords_matched": [
+        "sandal"
+      ],
+      "relevance_score": 5,
+      "summary": "New Balance's 9060 Summer sneaker-sandal just got shinier, thanks to a new \"Metallic Silver\" makeover.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "5756aa275dac",
+      "title": "adidas’ Slimmed-Out Sneaker Has Never Looked More Cutesy",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/adidas-anfu-satin/",
+      "original_publish_time": "2026-05-15T21:38:16+00:00",
+      "scraped_time": "2026-05-16T00:00:48.128820+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "The adidas Anfu sneaker gets its cutest makeover yet, complete with satin uppers & bow patterns. Here's everything on the pretty model.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "c440191515d1",
+      "title": "Nike's Vibram-Soled Air Force 1 Looks Good Even When It's Feeling Grey",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-air-force-1-vibram-bomber-grey/",
+      "original_publish_time": "2026-05-15T21:34:36+00:00",
+      "scraped_time": "2026-05-16T00:00:48.129524+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Vibram"
+      ],
+      "keywords_matched": [
+        "sole"
+      ],
+      "relevance_score": 7,
+      "summary": "Nike's Air Force 1 Low Vibram sneaker lands in a new \"Bomber Grey\" colorway, which joins other options like \"Pencil Point\" & \"Summit White.\"",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "5cf04f586896",
+      "title": "Where To Buy The Air Jordan 3 “Brazil”",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/05/15/air-jordan-3-brazil/",
+      "original_publish_time": "2026-05-15T20:00:34+00:00",
+      "scraped_time": "2026-05-15T23:57:12.469535+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "The centerpiece of a landmark kit collection for the 2026 FIFA World Cup, the Air Jordan 3 “Brazil” releases May 16th via Nike SNKRS and... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Where To Buy The Air Jordan 3 \"Brazil\" appeared first on Sneaker News . The post Where To Buy The Air Jordan 3 “Brazil” appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "e5e070480fa0",
+      "title": "Boot Barn Has Strong New Store Pipeline",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/boot-barn-1200-locations-us-stores-same-store-sales-1238956821/",
+      "original_publish_time": "2026-05-15T19:51:06+00:00",
+      "scraped_time": "2026-05-15T23:57:00.771878+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 3,
+      "summary": "Boot Barn has a long-term target of 1,200 locations across the U.S.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "d3108a89d54b",
+      "title": "Shakira Does Denim on Denim With Dramatic Jeffrey Campbell  Boots to Announce Her FIFA World Cup Final Halftime Show",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-trends/shakira-jeffrey-campbell-boots-fifa-world-cup-halftime-show-1238956995/",
+      "original_publish_time": "2026-05-15T19:32:24+00:00",
+      "scraped_time": "2026-05-15T23:57:00.775589+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 3,
+      "summary": "The boots featured a six-inch spool heel.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "e948bc2170c2",
+      "title": "The New Balance 2010 Casts Off In “Harbor Grey”",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/05/15/new-balance-abzorb-2010-harbor-grey-u20103ej/",
+      "original_publish_time": "2026-05-15T19:00:06+00:00",
+      "scraped_time": "2026-05-15T23:57:12.471131+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "New Balance"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "Only New Balance can drop a ton of grey sneakers and still make them all look distinct from one another. The Boston brand’s most recent... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The New Balance 2010 Casts Off In \"Harbor Grey\" appeared first on Sneaker News . The post The New Balance 2010 Casts Off In “Harbor Grey” appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "de8ac7271b02",
       "title": "This Collab Proves Skaters Are Finally Embracing Football",
@@ -620,6 +763,26 @@
       ],
       "relevance_score": 3,
       "summary": "Outgoing Currys chief executive Alex Baldock is reportedly set to become the next boss of Boots, as the pharmacy and health and beauty retailer prepares for a possible return to the London stock market. Retail industry sources told Sky News that Baldock’s appointment is expected to be announced later this spring. It comes after Currys...",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "8dc11f63ac86",
+      "title": "Leather and footwear industry seek duty exemptions on critical inputs due to Middle East crisis - MSN",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOMjBDN3pUSTYzamxOZEIwWDZGbUN2Mno4TU1xOEdMRFFaVWZZcmJUN19MZjhKUU5RbGE3WWp4QkZfX0pvUXFCMWRkaDNsM3NrelNKdnVXa3o4NWhYT0Y0OVp4WkJfUE5aeC1nNWV3ekRMME1oNmFoTmtOUG9HRHZmX0JoVEZkMHI1bG5ST1U0STJ6V24yMXNEc0xIdGg1SDgxWEJVYmgtRXQxS0Q5Mmx3aTJwNWVDX1dZbmlzVHkxenotOWZyRk0zOVBBVjkwWnAyTENpZFh5MVZuVndaVlBOb19WU1h2VU5Qa25iSnJ0RGtuTVJo?oc=5",
+      "original_publish_time": "2026-05-14T05:58:50+00:00",
+      "scraped_time": "2026-05-15T23:57:23.374518+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "footwear industry"
+      ],
+      "relevance_score": 6,
+      "summary": "Leather and footwear industry seek duty exemptions on critical inputs due to Middle East crisis MSN",
       "ren_take": "",
       "image_url": ""
     },
@@ -2175,69 +2338,6 @@
       ],
       "relevance_score": 3,
       "summary": "Nike's chrome-tastic Pacific sneaker is a metallic marvel that pulls from some of the best retro sneakers in Nike's arsenal.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "93506ef9797a",
-      "title": "Nike's Thickest Slide Is Basically a High-Heel Sandal",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-calm-elevation-slide-white/",
-      "original_publish_time": "2026-05-08T22:29:01+00:00",
-      "scraped_time": "2026-05-09T00:02:08.936838+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "sandal"
-      ],
-      "relevance_score": 5,
-      "summary": "Nike's marble Calm Elevation slide isn't for relaxing. It's for straight-up summer time stunting.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "dd204b85e986",
-      "title": "adidas' Cutest Mary Jane Sneaker Has a Studded Punk Alter Ego",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/adidas-samba-jane-patent-stars-studs/",
-      "original_publish_time": "2026-05-08T20:48:05+00:00",
-      "scraped_time": "2026-05-09T00:02:08.937682+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "adidas introduces a punk-ish version of its Samba Jane, featuring black glossy leather uppers & studs.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "daf8bd496c3a",
-      "title": "$1,000 Sneakers, $3,000 Tracksuits: adidas Is a Luxury Label Now",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/adidas-a-type-2026/",
-      "original_publish_time": "2026-05-08T19:22:00+00:00",
-      "scraped_time": "2026-05-09T00:02:08.938532+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 5,
-      "summary": "Want to dress head-to-toe in adidas A-TYPE? That'll cost you $4,000. If you can find it, most of adidas' Italian-made goods are for friends and family only.",
       "ren_take": "",
       "image_url": ""
     }
