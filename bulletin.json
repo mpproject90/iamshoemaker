@@ -1,6 +1,107 @@
 {
-  "last_updated": "2026-05-10T09:41:03.865806+00:00",
+  "last_updated": "2026-05-17T09:49:52.567471+00:00",
   "bulletins": [
+    {
+      "id": "wk20-2026",
+      "week_number": 20,
+      "year": 2026,
+      "date_from": "2026-05-11",
+      "date_to": "2026-05-17",
+      "published": "2026-05-17T09:49:52.567178+00:00",
+      "intro": "Week 20 brought the usual product noise but buried underneath it were two signals worth watching closely: the leather and footwear industry's formal push for duty exemptions amid Middle East supply disruption, and Vietnam's FXPO event quietly repositioning itself as something more than a trade show. The consumer-facing story remains mules, retro runners, and Vibram collaborations — all of which have real sourcing implications if you read them correctly. This is a week where the gap between what brands are saying publicly and what they are doing operationally is worth examining.",
+      "articles": [
+        {
+          "title": "The ASICS GEL-1130 Mule Is a Retro Runner Built for People Who Are Done Untying Their Shoes",
+          "source_name": "Hypebeast",
+          "source_url": "https://hypebeast.com/2026/5/asics-gel-1130-mule-black-silver-silver-silver-brown-1203b048-001-1203b048-101-1203b048-020-official-images",
+          "category": "Trade Data",
+          "relevance_score": 8,
+          "original_publish_time": "2026-05-14T08:52:27+00:00",
+          "misaki_take": "The backless construction on a performance-derived last is not a simple pattern reduction — it requires significant lasting and counter engineering rework to maintain shape integrity at retail, which adds tooling cost that rarely gets absorbed quietly at the FOB level. The mule silhouette trend has now moved from fashion brands into performance heritage labels, which signals category longevity and will push sourcing teams to evaluate whether their Vietnamese or Indonesian development partners have the lasting equipment to handle open-heel construction at volume."
+        },
+        {
+          "title": "From adidas to Nike, the Seven Best Sneakers to Cop Right Now",
+          "source_name": "Highsnobiety",
+          "source_url": "https://www.highsnobiety.com/p/sneaker-releases-2026-may-week-3/",
+          "category": "Retail",
+          "relevance_score": 8,
+          "original_publish_time": "2026-05-12T14:41:12+00:00",
+          "misaki_take": "Curated 'best of open market' lists like this are a lagging indicator of which brands have successfully managed sell-through without relying on raffle scarcity — and right now the podium is still Nike, adidas, and New Balance, which tells you demand forecasting at those three has stabilized after two years of inventory correction. For sourcing directors, stable consumer demand at the top tier means those brands will defend FOB pricing discipline rather than chase volume discounts, so expect fewer concessions in H2 2026 negotiations."
+        },
+        {
+          "title": "Nike's Vibram-Soled Air Force 1 Looks Good Even When It's Feeling Grey",
+          "source_name": "Highsnobiety",
+          "source_url": "https://www.highsnobiety.com/p/nike-air-force-1-vibram-bomber-grey/",
+          "category": "Retail",
+          "relevance_score": 7,
+          "original_publish_time": "2026-05-15T21:34:36+00:00",
+          "misaki_take": "Vibram outsole integration on the AF1 is not a cosmetic upgrade — it requires a last modification, a different cement bonding protocol, and Vibram's own quality gate on compound hardness, all of which compress margin unless the factory has prior Vibram-approved production experience. The 'Bomber Grey' colorway extension tells you this series has cleared its production certification hurdles and Nike is now scaling with confidence, which is the real news here."
+        },
+        {
+          "title": "When Did a 100-Year-Old Bootmaker Get This Good at Sneakers?",
+          "source_name": "Highsnobiety",
+          "source_url": "https://www.highsnobiety.com/p/best-danner-sneakers-2026/",
+          "category": "Leather",
+          "relevance_score": 7,
+          "original_publish_time": "2026-05-14T13:45:00+00:00",
+          "misaki_take": "Danner's sneaker competency is not an accident — it is the direct output of decades of Goodyear welt and Vibram outsole discipline translating into superior lasting control and material selection instincts that most sneaker-native brands have to hire consultants to replicate. For brands considering heritage leather goods makers as development partners or acquisition targets, this is the case study that proves manufacturing DNA transfers across categories when the leadership holds the line on construction standards."
+        },
+        {
+          "title": "Nike’s Rugged Air Force 1 Vibram Series Adds “Bomber Grey”",
+          "source_name": "Sneaker News",
+          "source_url": "https://sneakernews.com/2026/05/13/nike-air-force-1-vibram-barely-grey-city-grey-bomber-grey-speed-yellow-ih1943-002/",
+          "category": "Trade Data",
+          "relevance_score": 7,
+          "original_publish_time": "2026-05-13T19:00:30+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "Sneakers from New Balance, Adidas, and More Are on Sale at Amazon - People.com",
+          "source_name": "Google News - Sneaker Brand",
+          "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaG03X3hlM09WNFl0RzgxQWJLcFpZOGcxRmlhWHdDRlh5QXpyRndiSFBJSjZPTFR1SDdzT1VLcmdRRXlwVUd4aHdhczF4ak1FdjJ2emg0bVZaUTVZZGlLc3pONzhadnUyd0d1c0NTV1oweDZQc05kTElMU20wLU5pa2NIa2M?oc=5",
+          "category": "Retail",
+          "relevance_score": 7,
+          "original_publish_time": "2026-05-13T10:00:00+00:00",
+          "misaki_take": "Amazon promotional visibility for New Balance and adidas in the same editorial window is a quiet signal that both brands are using marketplace discounting to clear specific SKUs ahead of summer inventory resets, which puts downward pressure on ASP in mid-tier retail channels. If your brand competes in the $80–$130 FOB landed segment, this kind of promotional flush from two of the three largest players will compress your retail partner's open-to-buy tolerance for the next 60 days."
+        },
+        {
+          "title": "Jordan Brand's Tiempo Maestro Elite \"Sail/Infrared 23\" Trades the Loud First Chapter for Something More Considered",
+          "source_name": "Hypebeast",
+          "source_url": "https://hypebeast.com/2026/5/jordan-tiempo-maestro-elite-se-sail-infrared-23-if4126-100-official-images",
+          "category": "Trade Data",
+          "relevance_score": 6,
+          "original_publish_time": "2026-05-15T08:47:19+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "Leather and footwear industry seek duty exemptions on critical inputs due to Middle East crisis - MSN",
+          "source_name": "Google News - Footwear Industry",
+          "source_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOMjBDN3pUSTYzamxOZEIwWDZGbUN2Mno4TU1xOEdMRFFaVWZZcmJUN19MZjhKUU5RbGE3WWp4QkZfX0pvUXFCMWRkaDNsM3NrelNKdnVXa3o4NWhYT0Y0OVp4WkJfUE5aeC1nNWV3ekRMME1oNmFoTmtOUG9HRHZmX0JoVEZkMHI1bG5ST1U0STJ6V24yMXNEc0xIdGg1SDgxWEJVYmgtRXQxS0Q5Mmx3aTJwNWVDX1dZbmlzVHkxenotOWZyRk0zOVBBVjkwWnAyTENpZFh5MVZuVndaVlBOb19WU1h2VU5Qa25iSnJ0RGtuTVJo?oc=5",
+          "category": "Leather",
+          "relevance_score": 6,
+          "original_publish_time": "2026-05-14T05:58:50+00:00",
+          "misaki_take": "When an industry formally petitions for duty exemptions on inputs, it means the cost pressure has already been absorbed for one or two quarters and the margin cushion is gone — this is not an early warning, it is a distress signal from factories that have been quietly eating the difference. Sourcing managers should audit their leather and chemical supply chain exposure to Middle East transit routes immediately, because if exemptions are not granted, FOB adjustments from South Asian suppliers — particularly in India, Bangladesh, and Pakistan — will hit within two seasonal cycles."
+        },
+        {
+          "title": "The Converse ONE STAR J Returns in a “Purple” Colorway",
+          "source_name": "Hypebeast",
+          "source_url": "https://hypebeast.com/2026/5/converse-timeline-one-star-j-vtg-purple-33702970-release-info",
+          "category": "Leather",
+          "relevance_score": 6,
+          "original_publish_time": "2026-05-13T12:28:14+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "Why FXPO Felt Different From A Typical Footwear Industry Event - Vietcetera",
+          "source_name": "Google News - Footwear Industry",
+          "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOThwN25BLXI1RC1fN2dGS04zMGU2RnQyMEdiMkp5R3c3R1VWQ2gyLWRyS2k3UUc4SG9lam9oNVVSRUdPWVJOdmxJSlRFU2o4cUVDanZMQURVS2dGUEVHVXk4b1BnYUZJV2J1eTBGc2c3cmQ3WHo3bHdsV1ZzZUxVcVdlSlhycVAteWh5MUw3bEhUUQ?oc=5",
+          "category": "Retail",
+          "relevance_score": 6,
+          "original_publish_time": "2026-05-13T07:16:00+00:00",
+          "misaki_take": "When a sourcing-adjacent industry event starts generating editorial attention for its format rather than just its exhibitor list, it means the organizers have figured out that buyers and brands are fatigued with the traditional trade show model and are willing to engage differently — Vietnam is smart to cultivate this because soft influence on sourcing relationships matters enormously when FOB differentials between Vietnam and its competitors are narrowing. For any sourcing director who skipped FXPO this year, the question worth asking is whether you just missed the room where the next generation of Vietnamese factory leadership was building the relationships that will shape your 2028 capacity options."
+        }
+      ]
+    },
     {
       "id": "wk19-2026",
       "week_number": 19,
