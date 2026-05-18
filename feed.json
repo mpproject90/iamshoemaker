@@ -1,8 +1,126 @@
 {
-  "last_updated": "2026-05-17T12:21:20.622562+00:00",
+  "last_updated": "2026-05-18T00:10:49.368675+00:00",
   "total_articles": 115,
-  "sources_checked": 64,
+  "sources_checked": 62,
   "articles": [
+    {
+      "id": "a782444c54f1",
+      "title": "Crocs Put Its Most Stylish Trail Sneaker in Drive",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/crocs-quick-trail-racer/",
+      "original_publish_time": "2026-05-17T19:37:57+00:00",
+      "scraped_time": "2026-05-18T00:03:18.070948+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Crocs"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "Crocs debuts the Quick Trail Racer, an even sportier outdoor model featuring extra rugged touches & stylish colorways.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "370e3aef6bf2",
+      "title": "adidas Designed Luxed-Up Superstar “Birks”",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/adidas-adimule-superstar/",
+      "original_publish_time": "2026-05-17T19:37:04+00:00",
+      "scraped_time": "2026-05-18T00:03:18.071582+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Adidas",
+        "Birkenstock"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "The adidas Adimule Superstar is the latest Birkenstock-coded clog featuring shell toes & studded details.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "6e75fb2ce1d4",
+      "title": "The Reebok DMX Series 3000 Checks Off An Essential Greysale Colorway",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/05/17/reebok-dmx-series-3000-grey-grey-dream-purple-100244455/",
+      "original_publish_time": "2026-05-17T18:00:02+00:00",
+      "scraped_time": "2026-05-17T23:59:52.235103+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Reebok"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Tapping into its late ’90s excellence, Reebok has debuted the DMX Series 3000 to a warm reception from the greater footwear community, first through a... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Reebok DMX Series 3000 Checks Off An Essential Greysale Colorway appeared first on Sneaker News . The post The Reebok DMX Series 3000 Checks Off An Essential Greysale Colorway appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "5e5da96431d1",
+      "title": "Ghaziabad Gets Modern Shoe Testing Centre to Aid Footwear Industry - The Indian Awaaz",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONG9URkYwdm45cEVleENJY0t4QThsN1hiZWtuX0VFQkg1NlM5R0JaREhUdjVQU0tuZEZobWE4SGtVSlFETzU1ZTg5MlRzNGt4ZUtmWDVPN1VEUFZ6X1BaMUN5TGdpdFphakhvU1htSXpUdHhHbWxEcXJ6QWd5XzY1dnNPNE9ReXFFSjZJN25zR3pZcnhreEltZ2x3?oc=5",
+      "original_publish_time": "2026-05-17T17:24:00+00:00",
+      "scraped_time": "2026-05-18T00:00:03.128611+00:00",
+      "time_delta_mins": 0,
+      "category": "Quality",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "footwear industry"
+      ],
+      "relevance_score": 6,
+      "summary": "Ghaziabad Gets Modern Shoe Testing Centre to Aid Footwear Industry The Indian Awaaz",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "c96b86875f91",
+      "title": "The sneakers everyone is chasing: Veja launches a new collaboration - The Jerusalem Post",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5WZEFYcFFuN0FDR2pTcWVCeENVZndoOVdES3JkNmZCT0trS2NETVo4SlFXck1zd2J1Ujd5Ym9qN2R1VkJkMFk0OG90dkFxNTdGM2pGRlpBQzN0dnRm?oc=5",
+      "original_publish_time": "2026-05-17T15:20:00+00:00",
+      "scraped_time": "2026-05-18T00:00:03.805936+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "The sneakers everyone is chasing: Veja launches a new collaboration The Jerusalem Post",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "5790d987921f",
+      "title": "This Polarizing ‘90s Sandal Is Back With an Elevated Twist",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-trends/wedge-sandal-trend-1238956721/",
+      "original_publish_time": "2026-05-17T13:00:00+00:00",
+      "scraped_time": "2026-05-17T23:59:41.122359+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sandal"
+      ],
+      "relevance_score": 3,
+      "summary": "From mall rat to sleek must-have, the wedge sandal grows up.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "922478e4d389",
       "title": "Stepping Into Quality: India's New Footwear Testing Lab Boosts Industry Standards - Devdiscourse",
@@ -2254,127 +2372,6 @@
       ],
       "relevance_score": 3,
       "summary": "Nike is facing a proposed class action lawsuit from consumers who claim the sportswear giant failed to commit to refunding tariff-related costs passed on through higher prices. The lawsuit, filed in federal court in Portland, Oregon, alleges that Nike raised prices on some footwear by $5 to $10 and some apparel by $2 to $10...",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "e0e09c720a63",
-      "title": "Pink Accents Land On This Summer-Worthy New Balance 1906R",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/05/10/new-balance-1906r-castlerock-pink-u19064i5/",
-      "original_publish_time": "2026-05-10T22:00:17+00:00",
-      "scraped_time": "2026-05-10T23:56:13.643770+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "New Balance"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "The several fresh 2000s-inspired models New Balance has introduced in recent seasons suggest the brand is searching for its next big mainstream hit. For now,... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Pink Accents Land On This Summer-Worthy New Balance 1906R appeared first on Sneaker News . The post Pink Accents Land On This Summer-Worthy New Balance 1906R appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "02c1cda5f54f",
-      "title": "Nike’s Techiest Air Max Rides a Different Wave",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-air-max-95-big-bubble-tech-sneakers/",
-      "original_publish_time": "2026-05-10T20:46:52+00:00",
-      "scraped_time": "2026-05-10T23:59:39.550742+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "Nike releases its new Air Max 95 Big Bubble Tech sneaker, which features an updated upper design.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "23040d22e0ed",
-      "title": "These Wildly Patched-Up Vans Sneakers Really Get Better With Age (EXCLUSIVE)",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/better-with-age-vans-collab/",
-      "original_publish_time": "2026-05-10T20:44:28+00:00",
-      "scraped_time": "2026-05-10T23:59:39.551366+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Vans"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 5,
-      "summary": "*Better With Age debuts its Vans collaboration, which features a luxe, vintage-style Authentic & Half Cab with patches & beads.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "2e4ef382e753",
-      "title": "This Reebok DMX Series 3000 Is Inspired By Traditional Japanese Cloths",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/05/10/mita-sneakers-reebok-dmx-series-3000-100271981/",
-      "original_publish_time": "2026-05-10T20:00:54+00:00",
-      "scraped_time": "2026-05-10T23:56:13.647119+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Reebok"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "Japanese retailers mita sneakers and Marquee Player have joined forces with Reebok on a three-way collaboration, adding another strong entry to the growing DMX Series... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post This Reebok DMX Series 3000 Is Inspired By Traditional Japanese Cloths appeared first on Sneaker News . The post This Reebok DMX Series 3000 Is Inspired By Traditional Japanese Cloths appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "3d3fdf789177",
-      "title": "Jordan 3 “World’s Best Dad,” Bluetile Nike SB Dunk Low, And This Week’s Best Releases",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/05/10/sneaker-releases-may-10-may-16-2026/",
-      "original_publish_time": "2026-05-10T16:00:18+00:00",
-      "scraped_time": "2026-05-10T17:49:07.564506+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike",
-        "Jordan"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 4,
-      "summary": "A week with the ‘rents. With the Air Jordan 11 “Mother’s Day” just receding out of view and the Air Jordan 3 “World’s Best Dad”... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Jordan 3 \"World's Best Dad,\" Bluetile Nike SB Dunk Low, And This Week's Best Releases appeared first on Sneaker News . The post Jordan 3 “World’s Best Dad,” Bluetile Nike SB Dunk Low, And This Week’s Best Releases appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "17fdc0692fa2",
-      "title": "Nicole Kidman Wore Ballerina Sneakers, Get the Look - People.com",
-      "source_name": "Google News - Sneaker Brand",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1mdEV4ellPUXNVQ0JtLVkxWk1WLXVHUlFtajJoQ2V5Z3hoUHlURGdxMk1ucEtRSTdFUFRMWm5oT0djY1VZYzUtZlAyNldHc013N2gtZDJJWkNlSDkxTHFPZ01ya1A0dlR1MllBZ2pqMElpcTBsNmJWTw?oc=5",
-      "original_publish_time": "2026-05-10T13:15:00+00:00",
-      "scraped_time": "2026-05-12T13:04:19.868422+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "Nicole Kidman Wore Ballerina Sneakers, Get the Look People.com",
       "ren_take": "",
       "image_url": ""
     }
