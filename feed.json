@@ -1,8 +1,140 @@
 {
-  "last_updated": "2026-05-18T08:55:06.327397+00:00",
-  "total_articles": 120,
+  "last_updated": "2026-05-18T14:41:48.121313+00:00",
+  "total_articles": 123,
   "sources_checked": 61,
   "articles": [
+    {
+      "id": "e3072db30854",
+      "title": "Wales Bonner & Y-3's \"Lizzard\" Sneaker Distils the Genius of adidas' Sharpest Minds",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/wales-bonners-y-3-adidas-field-lizzard-sneaker/",
+      "original_publish_time": "2026-05-18T14:17:34+00:00",
+      "scraped_time": "2026-05-18T14:34:26.601340+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "Sambas? Nah, Wales Bonner has moved onto \"Field Lizzard\" sneakers and enlisted the help of Y-3. That's adidas' two best collaborators working on the same shoe.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "cde5cda7e84d",
+      "title": "Nike Debuts the Moon Shoe OG in a Regal “Malachite” Colorway",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/5/nike-moon-shoe-og-malachite-iw0955-300-official-images",
+      "original_publish_time": "2026-05-18T13:56:01+00:00",
+      "scraped_time": "2026-05-18T14:30:54.434893+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "outsole",
+        "sole",
+        "upper"
+      ],
+      "relevance_score": 5,
+      "summary": "Name: Nike Moon Shoe OG “Malachite”Colorway: Malachite/Soft Pearl/Gum Light BrownSKU: IW0955-300MSRP: $105 USDRelease Date: TBCNike is bringing back the Moon Shoe OG in a \"Malachite/Soft Pearl/Gum Light Brown\" colorway, reportedly priced at $105 USD. The drop marks another chapter in Nike's ongoing effort to keep its oldest and most foundational silhouette in active rotation.The colorway does the shoe justice. Malachite — a deep, mineral green with genuine visual weight — leads the upper, set against Soft Pearl accents that keep the palette from tipping into anything too aggressive. A Gum Light Brown outsole closes things out, grounding the build in the kind of natural warmth that makes the Moon Shoe read as timeless rather than retro. It is a combination that feels considered without bein",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "83c9ad2f9ae1",
+      "title": "Crocs Go Punk in New Footwear Collab With Andersson Bell",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/5/andersson-bell-crocs-rebel-rebel-collection-classic-clog-bae-clog-release-info",
+      "original_publish_time": "2026-05-18T09:54:41+00:00",
+      "scraped_time": "2026-05-18T14:30:54.441177+00:00",
+      "time_delta_mins": 0,
+      "category": "Trade Data",
+      "brands_mentioned": [
+        "Crocs"
+      ],
+      "keywords_matched": [
+        "footwear",
+        "sole"
+      ],
+      "relevance_score": 6,
+      "summary": "Name: Andersson Bell x Crocs Classic Clog, Bae ClogColorway: BlackSKU: 212488-001, 212978-001MSRP: ¥18,700 - ¥22,000 JPY (approx. $118 - $139 USD )Release Date: May 19 Where to Buy: Andersson Bell, CrocsAndersson Bell has teamed up with Crocs for a footwear collaboration infused with a reimagined punk aesthetic. Centering on a \"REBEL REBEL” theme, the collection first debuted as part of Andersson Bell's Spring/Summer 2026 runway. The collaboration features two triple‑black styles - the Classic Clog and the Bae Clog - both elevated with bold hardware and rebellious accents.As for the Bae Clog, the collaborative variant is built on a chunky platform sole, with its design emphasizing volume and attitude that exudes a hard-edged rocker vibe with a twist . Silver accessories, oversized buckles ",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "38daff2dfc2b",
+      "title": "Official Images of the Vibram x Nike Air Force 1 Low “Bomber Grey”",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/5/vibram-nike-air-force-1-low-barely-grey-city-grey-bomber-grey-speed-yellow-ih1943-002-official-imges",
+      "original_publish_time": "2026-05-18T09:43:12+00:00",
+      "scraped_time": "2026-05-18T14:30:54.443244+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Nike",
+        "Vibram"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "Name: Vibram x Nike Air Force 1 Low “Bomber Grey”Colorway: Barely Grey/City Grey/Bomber Grey/Speed YellowSKU: IH1943-002MSRP: $140 USDRelease Date: Summer 2026Following the previous reveal of the tactical Vibram x Nike Air Force 1 Low partnership - which initially introduced the \"Pencil Point,\" \"Summit White\" and \"Silt Red\" iterations - official images have emerged for a new colorway to the lineup: “Bomber Grey.”This latest iteration embraces an industrial, monochromatic palette, dressing the AF1 in layered tones of \"Barely Grey\" and \"City Grey,\" combining smooth leather panels with perforated detailing across the toe box and quarters. Branding remains subtle, with tonal Swooshes on the sides and Nike Air logos on the tongue and heel tab, maintaining the AF1’s heritage identity while empha",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "7dd6a89a40d8",
+      "title": "shoezone launches on TikTok Shop as retailer targets social-first growth",
+      "source_name": "Retail Gazette",
+      "source_domain": "retailgazette.co.uk",
+      "source_url": "https://www.retailgazette.co.uk/blog/2026/05/shoezone-tiktok-shop-retailer-social-first-growth/",
+      "original_publish_time": "2026-05-18T09:37:16+00:00",
+      "scraped_time": "2026-05-18T14:33:55.015532+00:00",
+      "time_delta_mins": 0,
+      "category": "Trade Data",
+      "brands_mentioned": [
+        "Puma"
+      ],
+      "keywords_matched": [
+        "footwear",
+        "sole"
+      ],
+      "relevance_score": 3,
+      "summary": "shoezone has launched on TikTok Shop as the footwear retailer steps up its social commerce strategy. The retailer said the move will allow creators to link directly to products through TikTok Shop, connecting trend-led social content with product conversion. shoezone joins footwear brands including Puma, Soletrader and EGO on the platform, as it looks to...",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "e86824f7a752",
+      "title": "The Aimé Leon Dore x New Balance Gator “Cream” Disguises a Queens Crest in Hairy Suede",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/5/aime-leon-dore-ald-new-balance-gator-cream-official-images",
+      "original_publish_time": "2026-05-18T08:59:12+00:00",
+      "scraped_time": "2026-05-18T14:30:54.445666+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "New Balance"
+      ],
+      "keywords_matched": [
+        "midsole",
+        "outsole",
+        "sole",
+        "upper"
+      ],
+      "relevance_score": 7,
+      "summary": "Name: Aimé Leon Dore x New Balance Gator “Cream”Colorway: TBCSKU: TBCMSRP: $130 USDRelease Date: TBCWhere to Buy: ALDAimé Leon Dore and New Balance have unveiled their collaborative Gator, the latest entry in their ongoing partnership and a new addition to the ALD SS26 Delivery 5 lineup. The silhouette arrives in a single \"Cream\" cream colorway at $130 USD, available exclusively through ALD.On the material level, the Gator earns its name. Hairy suede overlays define the upper's texture, set against cleaner nylon underlays — a pairing that keeps the construction grounded while giving the silhouette its tactile identity. Underfoot, a die-cut EVA midsole handles cushioning, while a rugged rubber outsole provides the kind of grip that reads more workwear than running track.Where the design get",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "bd0b394d18bc",
       "title": "OUR LEGACY WORK SHOP Gives the Converse Chuck 70 a Distressed Treatment",
@@ -150,6 +282,25 @@
       ],
       "relevance_score": 3,
       "summary": "On’s Margins Look More Like Luxury Than Sneakers. Can It Last? The Business of Fashion",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "38dcd0b0e23e",
+      "title": "If On Shoes Are for Everyone, Are They Still Ons? - The New York Times",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOY1VFU3ZhNDIxNGhkSlVkX3U0Y2tndjJkREZMSHFwNlpsM3dnQnAzbmlNbFRqLWFLOE5pSU5ORkZTVkpBZVQ2Zno1ZV9TcWZadjdaclZsaGVHX3ZBcW5XYlMyMW56ZHNwamVoXzJzdjQtemtCS2o5ZHFDUFVOeXlIdA?oc=5",
+      "original_publish_time": "2026-05-18T02:35:00+00:00",
+      "scraped_time": "2026-05-18T14:31:06.206384+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "If On Shoes Are for Everyone, Are They Still Ons? The New York Times",
       "ren_take": "",
       "image_url": ""
     },
@@ -594,6 +745,26 @@
       ],
       "relevance_score": 3,
       "summary": "Nike’s AF1 tribute pairs a crisp white upper with Lakers purple, honoring Kobe’s legacy with subtle details and timeless style.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "53bed4546354",
+      "title": "Brooks or New Balance? I Tested Both to Find Out Which Is Best - TODAY.com",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5TcDB4UGc2TTA0OG10cXJPNnhLektXSzhXeVdxYmJ2RlBNOExYeDRTbUstTEQyVEd3bmxBMUpWUVVtZExTbnNmYmVCRm1xSUhkWG05SUNqMWEzTUh4Vzg5Q1VrU0dfR01MTGFR?oc=5",
+      "original_publish_time": "2026-05-15T16:41:48+00:00",
+      "scraped_time": "2026-05-18T14:31:06.207265+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "New Balance",
+        "Brooks"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "Brooks or New Balance? I Tested Both to Find Out Which Is Best TODAY.com",
       "ren_take": "",
       "image_url": ""
     },
@@ -2369,117 +2540,6 @@
       ],
       "relevance_score": 3,
       "summary": "Name: Kobe Bryant x Nike Air Force 1 Low Protro \"Denim\"Colorway: Obsidian/Safety Orange-WhiteSKU: IM1980-400Retail Price: $150 USDRelease Date: May 22, 2026Where to Buy: NikeFor two decades, it remained one of the most elusive grails in the Black Mamba's extensive sneaker catalog. Now, Nike is finally giving fans what they want. First gifted to Kobe Bryant as a Player Exclusive back in 2006, the legendary Nike Air Force 1 \"Denim\" is officially making its way out of the vault. Arriving just in time to celebrate its 20th anniversary, this highly anticipated drop gives sneakerheads and basketball historians a long-awaited chance to own a rare piece of Bryant's incredible footwear legacy.When Kobe Bryant officially signed with Nike in 2003, the brand began treating him to a steady stream of Pl",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "63b2eedc4efa",
-      "title": "Patrick Cox Finds Peace and a New Footwear Groove With New Brand Doors of Perception",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/patrick-cox-doors-of-perception-london-pop-up-1238947373/",
-      "original_publish_time": "2026-05-11T14:13:23+00:00",
-      "scraped_time": "2026-05-11T18:55:28.810089+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "The veteran shoe designer is back in business on his own terms, with an Ibiza-born, slow-fashion label, a Notting Hill pop-up and a joy-first growth plan.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "72368afb60c4",
-      "title": "Coca-Cola and adidas Originals’ Superstar II Lets the Script Do the Talking",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/5/coca-cola-adidas-originals-superstar-ii-japan-kh6892-release-info",
-      "original_publish_time": "2026-05-11T13:50:19+00:00",
-      "scraped_time": "2026-05-11T18:55:40.125811+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "footwear",
-        "upper"
-      ],
-      "relevance_score": 4,
-      "summary": "Name: Coca-Cola x adidas Originals Superstar IIColorway: White/Cream/RedSKU: KH6892MSRP: TBCRelease Date: June 6Where to Buy: adidas JapanCoca-Cola and adidas Originals are releasing a collaborative Superstar II on June 6 as part of a wider six-shoe summer collection. The shoe is built on a weathered white base with cream and red accents and Coca-Cola Classic script branding on the side panel.The design brief here is tight and it executes cleanly. A Footwear White leather upper carries the Superstar's shell-toe silhouette in its most recognizable form, while cream accents soften what could have read as a stark all-white canvas, pushing the shoe toward something warmer and more worn-in. Red lands as the third element, pulling the palette directly into Coca-Cola Classic territory without req",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "b1b5a9ee8615",
-      "title": "Salomon x Ray BEAMS Serve Up the “Blueberry Cheesecake” XT-Whisper",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/5/salomon-ray-beams-xt-whisper-blueberry-cheesecake-release-info",
-      "original_publish_time": "2026-05-11T10:51:14+00:00",
-      "scraped_time": "2026-05-11T13:48:53.299161+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Salomon",
-        "Off-White"
-      ],
-      "keywords_matched": [
-        "outsole",
-        "sole",
-        "upper"
-      ],
-      "relevance_score": 6,
-      "summary": "Name: Salomon x Ray BEAMS XT-Whisper “Blueberry Cheesecake”Colorway: “Blueberry Cheesecake”SKU: TBCMSRP: ¥23,100 JPYRelease Date: May 14 Where to Buy: BEAMSSalomon and the Japanese women’s label Ray BEAMS have reunited for a whimsical take on the XT-Whisper, debuting a colorway dubbed “Blueberry Cheesecake.” The upper is constructed from a creamy, off-white mesh base, while blueberry-inspired accents in deep purple and bright blue adorn the synthetic overlays and structural cage. This interplay of colors creates a high-contrast, multi-dimensional look, accented by glossy finishes on the TPU film that enhance the shoe's modern, high-fidelity aesthetic.The XT-Whisper maintains Salomon’s performance-driven engineering, featuring a robust Contagrip® rubber outsole for elite traction and a cush",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "3302113a0265",
-      "title": "Take an Official Look at the Nike Mind 002 in “Pink Smoke” and “Summit White”",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/5/nike-mind-002-pink-smoke-summit-white-hq4310-600-hq4310-101-official-images",
-      "original_publish_time": "2026-05-11T09:05:09+00:00",
-      "scraped_time": "2026-05-11T13:48:53.308456+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "midsole",
-        "outsole",
-        "sole",
-        "upper"
-      ],
-      "relevance_score": 6,
-      "summary": "Name: Nike Mind 002 “Pink Smoke,” Nike Mind 002 “Summit White”Colorway: Pink Smoke, Summit White SKU: HQ4310-600, HQ4310-101MSRP: $145 USDRelease Date: Summer 2026, Fall 2026Nike is expanding its women's-exclusive Mind 002 lineup with two new colorways arriving across the back half of 2026. The \"Pink Smoke\" edition is slated for Summer 2026, followed by \"Summit White\" in Fall, with both pairs carrying a $145 USD retail price and expected to land through Nike and select Nike Sportswear retailers.The Mind 002's construction is worth mapping before the colorways enter the picture. The silhouette runs a perforated one-piece upper over a column-stacked midsole — the columnar geometry being one of the more distinctive visual signatures in Nike's current lifestyle rotation — with a set of outsole",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "69c87c912b27",
-      "title": "Dr. Martens Refreshes the Iconic 1461 Made in England With Two New Colorways",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/5/dr-martens-new-1461-made-in-england-shoe-green-buckingham-burgundy-42467300-43075600-release-info",
-      "original_publish_time": "2026-05-11T08:55:19+00:00",
-      "scraped_time": "2026-05-11T13:48:53.310119+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Dr. Martens"
-      ],
-      "keywords_matched": [
-        "leather goods",
-        "tannery"
-      ],
-      "relevance_score": 4,
-      "summary": "Name: Dr. Martens 1461 Made in England Colorway: Green Buckingham, BurgundySKU: 42467300, 43075600MSRP: $280 USDRelease Date: Available nowWhere to Buy: Dr. MartensDr. Martens has added two new colorways to its 1461 Made in England Shoe, delivering the iconic 3-eye oxford silhouette in Green Buckingham leather and a deep Burgundy finish. Handcrafted in England and built from Classic Calf leather sourced from the C.F. Stead tannery in Leeds, both editions make the case that the 1461's enduring appeal lies less in reinvention and more in the precision of its construction.The material selection here carries real weight. C.F. Stead, a Leeds-based tannery with deep roots in British leather goods, supplies the Classic Calf used across both styles, and the choice signals a deliberate commitment t",
       "ren_take": "",
       "image_url": ""
     }
