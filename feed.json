@@ -1,8 +1,131 @@
 {
-  "last_updated": "2026-05-18T14:41:48.121313+00:00",
-  "total_articles": 123,
+  "last_updated": "2026-05-18T18:40:49.446479+00:00",
+  "total_articles": 124,
   "sources_checked": 61,
   "articles": [
+    {
+      "id": "44793cb76d4b",
+      "title": "Fila’s Lifestyle Footwear and Major K-pop Concerts Fuel Q1 Growth for Parent Misto Holdings",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/misto-holdings-q1-2026-earnings-fila-k-pop-1238971199/",
+      "original_publish_time": "2026-05-18T16:53:34+00:00",
+      "scraped_time": "2026-05-18T18:29:17.541388+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Fila"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 5,
+      "summary": "Consolidated revenue in the first quarter of 2026 increased 4.2 percent to 1.3 trillion won.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "edb0981c51a4",
+      "title": "Patent Leather And Cork Insoles Define This Lifestyle-Focused Nike SB Dunk Low",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/05/18/nike-sb-dunk-low-green-patent-cork-iq0431-300/",
+      "original_publish_time": "2026-05-18T16:30:30+00:00",
+      "scraped_time": "2026-05-18T18:29:29.421877+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "insole",
+        "sole"
+      ],
+      "relevance_score": 8,
+      "summary": "If there were ever a Nike SB Dunk Low made for collectors rather than actual skaters, it might be this one. Sneaker leaker @kcscowboys1977 has... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Patent Leather And Cork Insoles Define This Lifestyle-Focused Nike SB Dunk Low appeared first on Sneaker News . The post Patent Leather And Cork Insoles Define This Lifestyle-Focused Nike SB Dunk Low appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "33648a4880a3",
+      "title": "First Look At The Nike Zoom Huarache 2k4 “Knicks”",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/05/18/nike-zoom-huarache-2k4-knicks-iv0345-001/",
+      "original_publish_time": "2026-05-18T16:00:57+00:00",
+      "scraped_time": "2026-05-18T18:29:29.423529+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "If you’ve even the faintest interest in fashion or footwear, you’ve read the phrase “Y2K” enough for a lifetime. The ever-churning cycle of trends means... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post First Look At The Nike Zoom Huarache 2k4 “Knicks” appeared first on Sneaker News . The post First Look At The Nike Zoom Huarache 2k4 “Knicks” appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "5150f55cf3f4",
+      "title": "Satisfy and Adidas Christen Partnership With Three Mismatched Super Shoes Coming Soon",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/satisfy-adidas-adios-pro-4-release-date-1238957021/",
+      "original_publish_time": "2026-05-18T15:00:00+00:00",
+      "scraped_time": "2026-05-18T18:29:17.544714+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 5,
+      "summary": "The Adios Pro 4 brings Satisfy's first take on a road running shoe.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "23541287c9fc",
+      "title": "How Lainey Wilson and Husband Devlin ‘Duck’ Hodges’ Custom Wedding Day Cowboy Boots Came to Be",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-trends/lainey-wilson-devlin-duck-hodges-custom-wedding-boots-1238970357/",
+      "original_publish_time": "2026-05-18T14:54:01+00:00",
+      "scraped_time": "2026-05-18T18:29:17.545302+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 3,
+      "summary": "Michael Petry, creative director of Wilson's brand Golden West, designed the boots.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "16c4cfb732de",
+      "title": "Where Nike’s marketing comeback is stumbling — and where it can still win",
+      "source_name": "Retail Dive",
+      "source_domain": "retaildive.com",
+      "source_url": "https://www.retaildive.com/news/where-nikes-marketing-comeback-is-stumbling-and-where-it-can-still-win/820115/",
+      "original_publish_time": "2026-05-18T14:45:00+00:00",
+      "scraped_time": "2026-05-18T18:32:31.680400+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "A recent whiff around the Boston Marathon is indicative of the brand’s struggles to pull off aspirational messaging it once executed with rare finesse.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "e3072db30854",
       "title": "Wales Bonner & Y-3's \"Lizzard\" Sneaker Distils the Genius of adidas' Sharpest Minds",
@@ -2437,109 +2560,6 @@
       ],
       "relevance_score": 4,
       "summary": "Song for the Mute & adidas release their rugged yet classy SS26 Samba Freizeit sneaker inspired school shoes.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "c80148510650",
-      "title": "The Row's Menswear Breaks Out Its Shirttails & Flat Footwear for Summer 2026",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/5/the-row-menswear-summer-2026-collection-release-info",
-      "original_publish_time": "2026-05-11T18:04:12+00:00",
-      "scraped_time": "2026-05-11T18:55:40.122929+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "shoes",
-        "sneakers",
-        "sole"
-      ],
-      "relevance_score": 6,
-      "summary": "SummaryThe Row’s Summer 2026 menswear collection embraces effortless luxury with relaxed tailoring, lightweight fabrics, and unbuttoned shirting designed to be worn untucked.Complementing the casual-sartorial balance is a range of minimal footwear, including lambskin sneakers and nappa leather slippers, now available at the brand’s official webstore.For Summer 2026, The Row is leaning into an easier interpretation of its sleek, simply tailored menswear line. Opting for flat-soled shoes and free-hanging shirttails to soften its more tailored silhouettes, the collection is a laid-back expression of the Olsen twins’ elusive luxury label.In the easy, yet intimate lookbook, casual black-and-white photos of the full looks are countered by personal closeups in full color. The concept illustrates ",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "fe6eaf05d498",
-      "title": "adidas Transforms The Samba Into A Backless Mule",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/05/11/adidas-samba-mule-release-date/",
-      "original_publish_time": "2026-05-11T18:00:18+00:00",
-      "scraped_time": "2026-05-11T18:55:40.333681+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Adidas",
-        "Keen"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "The adidas Samba has been one of the defining silhouettes of the 2020s, still riding high in a fashion landscape that’s remained keen on sleek,... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post adidas Transforms The Samba Into A Backless Mule appeared first on Sneaker News . The post adidas Transforms The Samba Into A Backless Mule appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "bdc3dbffe7f5",
-      "title": "Podiatric Surgeon Marion Parke Winds Down Namesake Shoe Brand - WWD",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPak5tSUZBNUF6d0gtbXEzdGNzbjVXQkJmREVmZ1g1bUUxcEtqUWNRLVlid3VsakdVSy12bHdDcGZrUHo4SnQtZGJJVE0xaTR3bllYVGVTMzhPVFlzQTZEZzdiMlhWZ3pjcFFVa2E4VjM4N2w0RW93RjhSMWNaU3cwQWdSWUxEamlYa3kxcHRWM0hhWndlOWc?oc=5",
-      "original_publish_time": "2026-05-11T16:30:03+00:00",
-      "scraped_time": "2026-05-11T18:55:51.384598+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoe brand"
-      ],
-      "relevance_score": 3,
-      "summary": "Podiatric Surgeon Marion Parke Winds Down Namesake Shoe Brand WWD",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "c65d7faae31b",
-      "title": "How Harrison Ford Ended Up in Air Jordan 3s and More Sneaker Moments From ‘Shrinking’ and ‘Running Point’",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-jordan-shrinking-running-point-sneakers-allyson-fanger-1238934978/",
-      "original_publish_time": "2026-05-11T15:48:48+00:00",
-      "scraped_time": "2026-05-11T18:55:28.806317+00:00",
-      "time_delta_mins": 0,
-      "category": "Quality",
-      "brands_mentioned": [
-        "Jordan"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "Costume designer Allyson Fanger spoke to FN about the presence of sneakers in the two comedy series.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "eea4163540bd",
-      "title": "Kobe Bryant's Ultra-Rare Nike Air Force 1 Protro \"Denim\" Is Finally Releasing",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/5/kobe-bryant-nike-air-force-1-low-protro-denim-im1980-400-release-date-official-look",
-      "original_publish_time": "2026-05-11T15:38:16+00:00",
-      "scraped_time": "2026-05-12T07:35:59.261881+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Name: Kobe Bryant x Nike Air Force 1 Low Protro \"Denim\"Colorway: Obsidian/Safety Orange-WhiteSKU: IM1980-400Retail Price: $150 USDRelease Date: May 22, 2026Where to Buy: NikeFor two decades, it remained one of the most elusive grails in the Black Mamba's extensive sneaker catalog. Now, Nike is finally giving fans what they want. First gifted to Kobe Bryant as a Player Exclusive back in 2006, the legendary Nike Air Force 1 \"Denim\" is officially making its way out of the vault. Arriving just in time to celebrate its 20th anniversary, this highly anticipated drop gives sneakerheads and basketball historians a long-awaited chance to own a rare piece of Bryant's incredible footwear legacy.When Kobe Bryant officially signed with Nike in 2003, the brand began treating him to a steady stream of Pl",
       "ren_take": "",
       "image_url": ""
     }
