@@ -1,8 +1,171 @@
 {
-  "last_updated": "2026-05-19T14:10:48.154375+00:00",
-  "total_articles": 136,
+  "last_updated": "2026-05-19T19:08:55.111241+00:00",
+  "total_articles": 138,
   "sources_checked": 61,
   "articles": [
+    {
+      "id": "c5f9576e6a81",
+      "title": "Lola Tung Is Back With Foot Locker and Adidas in New Spring Campaign",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-trends/lola-tung-foot-locker-adidas-spring-campaign-1238973297/",
+      "original_publish_time": "2026-05-19T18:45:15+00:00",
+      "scraped_time": "2026-05-19T18:57:49.475228+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "The campaign shot in New York features several Adidas Originals footwear styles and more pieces.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "0dd01bdd116f",
+      "title": "ASICS’ Strappy Dad Sandal Nails Summer With Ease",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/asics-gel-filimy-sandals/",
+      "original_publish_time": "2026-05-19T18:34:57+00:00",
+      "scraped_time": "2026-05-19T19:01:35.231283+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "ASICS"
+      ],
+      "keywords_matched": [
+        "sandal"
+      ],
+      "relevance_score": 5,
+      "summary": "ASICS' GEL-Filimy trail sandal is back in action for the summer, landing in classic colorways like all-black.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "1a176967ac64",
+      "title": "The Crocs-ification of Crocs' Coolest Trail Sneaker",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/crocs-quick-trail-clog/",
+      "original_publish_time": "2026-05-19T17:46:40+00:00",
+      "scraped_time": "2026-05-19T19:01:35.232044+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Crocs"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "Crocs' Quick Trail Clog brings the rugged charm of the original trail sneaker to the brand's classic slip-on style.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "8daa74005dd0",
+      "title": "Caitlin Clark Debuts New Nike Kobe Exclusive Inspired by Iconic Video Game",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-kobe-5-protro-caitlin-clark-pe-sonic-the-hedgehog-1238973358/",
+      "original_publish_time": "2026-05-19T17:36:49+00:00",
+      "scraped_time": "2026-05-19T18:57:49.478804+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "Details on the star's Sonic the Hedgehog-inspired sneakers.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "b2aec90ceca0",
+      "title": "Pou Chen Corp stock (TW0009904003): Footwear maker’s recent revenue trends in focus - AD HOC NEWS",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQblpVcTNOaVZVRWpJaklId1lOMXlnaUxJamRITXY4UEhoUXlJZzJDY094WTYxelNmWjBvVUlZNUdITTJqbzFkLWE2MUgzUDRiUndJNlc4TklRRmRnb0M4dF93NnowRURCNExobTRhR0ZrUGthb01fWUtBaTdMNnlTUWlXazFoLWl1NGN0d3Q1cWdVUG5TRjB1dWFYZG1rb1c4TTRPVnlhQ01XbXNYNmR3VmxhVlE5dURGYTZZTjNMSWU?oc=5",
+      "original_publish_time": "2026-05-19T16:59:19+00:00",
+      "scraped_time": "2026-05-19T18:58:11.639914+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Pou Chen Corp stock (TW0009904003): Footwear maker’s recent revenue trends in focus AD HOC NEWS",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "d28018cba16d",
+      "title": "From Nike to Auralee, Browse This Week’s Best Sneaker Releases",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/sneaker-releases-2026-may-week-4/",
+      "original_publish_time": "2026-05-19T15:34:31+00:00",
+      "scraped_time": "2026-05-19T19:01:35.233087+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "New Balance"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "From Nike to New Balance x Auralee, this week’s selection is about all about building a season appropriate sneaker rotation.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "7bbfd01662e3",
+      "title": "Root For Team USA With This Starry Nike Air Force 1 Low",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/05/19/nike-air-force-1-low-usa-multi-color-obsidian-university-red-white-io9557-900/",
+      "original_publish_time": "2026-05-19T14:30:20+00:00",
+      "scraped_time": "2026-05-19T18:58:00.834948+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "As anticipation surrounding the 2026 FIFA World Cup continues to build, Nike is quietly introducing another footwear option that taps directly into patriotic energy ahead... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Root For Team USA With This Starry Nike Air Force 1 Low appeared first on Sneaker News . The post Root For Team USA With This Starry Nike Air Force 1 Low appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "a642ef6e4697",
+      "title": "Nike’s Newly Nude Node Mule Is Wellness Footwear At Its Brainiest",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-mind-001-mule/",
+      "original_publish_time": "2026-05-19T14:22:41+00:00",
+      "scraped_time": "2026-05-19T19:01:35.233829+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 5,
+      "summary": "Nike’s futuristic Mind 001 mule blends recovery footwear, wellness culture, and experimental design with sensory foam pods, ergonomics, & bold sci-fi aesthetics",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "104433d41b52",
       "title": "Indian Apparel Exports Fall 11.66% Despite 3.59% Growth in Textile Shipments",
@@ -2686,131 +2849,6 @@
       ],
       "relevance_score": 5,
       "summary": "SummaryNYC rapper Liim fronts the Procell x Nike Total 90 Heirloom collaboration, a vintage-inspired tribute to the 2002 football boot featuring plaid uppers and brown patent leather.Dropping May 16, 2026, the release marks the duo's second partnership, leaning into Procell’s signature aged aesthetic and Lower East Side roots.NYC-based rapper Liim is the face of the new Procell x Nike Total 90 Heirloom launch, the partners' second collaboration since their first footwear drop in 2019. The campaign couldn’t get more NYC (specifically Lower East Side) with the Bowery-based vintage boutique behind the design and New York-native Liim fronting the debut.Shortly after sharing a preview depicting a plastic-wrapped plaid couch, the Liim photos landed, featuring the matching plaid uppers and brown ",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "f1754bae4281",
-      "title": "From DJ Booths to Fairways, SOSUPERSAM Finds Her Flow as a Hidden Hypegolfer",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/5/oakley-hidden-hypegolfer-sosupersam-profile",
-      "original_publish_time": "2026-05-12T17:41:54+00:00",
-      "scraped_time": "2026-05-12T18:54:02.193764+00:00",
-      "time_delta_mins": 0,
-      "category": "Trade Data",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 3,
-      "summary": "Hidden Hypegolfers is a series built around the ones you wouldn’t immediately clock as golfers. However, upon closer look, it all clicks. They may be creatives, athletes, and cultural figures known for something else entirely. They can be an artist, a DJ or a stylist, but whatever lane they dominate, golf quietly lives in their routine. They’re not switching identities but just expanding them, all while bringing the same mindset, style, and discipline from their craft onto the course. Golf becomes another layer of their lifestyle and it's where performance, personal expression, and culture intersect. With Oakley also in focus, the brand highlights this crossover of sport and style as the connective thread across every facet of these creatives’ multi-hyphenate world.Samantha Duenas knows a ",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "0c1776b3f4a1",
-      "title": "Monomaterial running shoes could be fully recycled – into new shoes - New Atlas",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZ2lKUW9pdGxzN1Q0Q3dTRlZ4S0NqVEdkVVJ5bmZlS1FzWnF6UUVuZEhxenVTaGp1Z2Y1ZWxONThZVHYtS1dKd2tNaTdqMUVnMDVTTWwwQWlKUnBZWjZ4Qkg4ZlFYYWJCdHhnWjhwQUJmSWY2QnNLRUpwcUNmMy1Caw?oc=5",
-      "original_publish_time": "2026-05-12T17:34:36+00:00",
-      "scraped_time": "2026-05-16T11:52:15.344034+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "Monomaterial running shoes could be fully recycled – into new shoes New Atlas",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "a3d31a7c9eb7",
-      "title": "Jelly Shoes Are Back for Another Summer, but 2026 Is Giving Them a Stranger Shape",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-features/jelly-shoes-summer-2026-trend-1238951554/",
-      "original_publish_time": "2026-05-12T17:30:05+00:00",
-      "scraped_time": "2026-05-12T18:53:50.328440+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 4,
-      "summary": "After last summer’s Skims and TikTok spike, Chloé, Loewe, Nike and more are pushing jelly shoes into mules, boat shoes and sportier PVC cages.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "c55ae6b2729f",
-      "title": "JW ANDERSON Just Turned Diadora's 1975 Runner Into Your Next Obsession",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/5/jw-anderson-diadora-collaboration-sneakers",
-      "original_publish_time": "2026-05-12T16:20:13+00:00",
-      "scraped_time": "2026-05-12T18:54:02.195324+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Diadora"
-      ],
-      "keywords_matched": [
-        "footwear",
-        "sneakers"
-      ],
-      "relevance_score": 4,
-      "summary": "Italian sportswear has quietly become one of fashion’s most enduring reference points. Long before luxury labels started mining the aesthetics of terraces, tracksuits and archival runners, brands like Diadora were already shaping the visual language of sport through performance design and technical craftsmanship. Now, that history is being pulled back into focus through a new collaboration with JW ANDERSON, marking the label’s first-ever project with the heritage footwear company.At the center of the release is the Equipe trainer, a silhouette originally introduced by Diadora in 1975 for elite runners. While plenty of archival sneakers get revived today, the Equipe carries a different kind of weight because it comes from a pre-sneaker-boom era when performance footwear was still deeply tie",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "5c87ece64d4d",
-      "title": "Nike’s Air Force 1 “Halloween” Is Inspired By The Scream Movies",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/05/12/nike-air-force-1-low-halloween-scream-2026/",
-      "original_publish_time": "2026-05-12T15:30:27+00:00",
-      "scraped_time": "2026-05-12T18:54:02.335000+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "Spooky season sneakers already? Yup, the sneaker leak cycle waits for no one, especially when we’re talking special releases tied to key sneaker holidays. Here... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike's Air Force 1 \"Halloween\" Is Inspired By The Scream Movies appeared first on Sneaker News . The post Nike’s Air Force 1 “Halloween” Is Inspired By The Scream Movies appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "4aaf49d81b94",
-      "title": "From adidas to Nike, the Seven Best Sneakers to Cop Right Now",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/sneaker-releases-2026-may-week-3/",
-      "original_publish_time": "2026-05-12T14:41:12+00:00",
-      "scraped_time": "2026-05-12T18:57:50.950012+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike",
-        "Adidas",
-        "New Balance"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 8,
-      "summary": "The world of sneaker releases is tricky to navigate, but we're here with the best of the open market, from adidas to New Balance and Nike.",
       "ren_take": "",
       "image_url": ""
     }
