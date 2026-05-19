@@ -1,8 +1,112 @@
 {
-  "last_updated": "2026-05-19T08:30:25.716059+00:00",
-  "total_articles": 135,
-  "sources_checked": 60,
+  "last_updated": "2026-05-19T14:10:48.154375+00:00",
+  "total_articles": 136,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "104433d41b52",
+      "title": "Indian Apparel Exports Fall 11.66% Despite 3.59% Growth in Textile Shipments",
+      "source_name": "Apparel Resources",
+      "source_domain": "apparelresources.com",
+      "source_url": "https://apparelresources.com/business-news/trade/indian-apparel-exports-fall-11-66-despite-3-59-growth-textile-shipments/",
+      "original_publish_time": "2026-05-19T13:21:41+00:00",
+      "scraped_time": "2026-05-19T13:59:14.720056+00:00",
+      "time_delta_mins": 0,
+      "category": "Trade Data",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "apparel exports"
+      ],
+      "relevance_score": 3,
+      "summary": "India’s apparel exports declined 11.66 % year-on-year to US $1.21 billion in April 2026 from US $ 1.37 billion in the corresponding period last year, according to an analysis by the Confederation of Indian Textile Industry (CITI). In contrast, textile exports registered a 3.59 % increase during the month, rising to US $1.67 billion from […] The post Indian Apparel Exports Fall 11.66% Despite 3.59% Growth in Textile Shipments appeared first on Apparel Resources .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "41d71dc66dce",
+      "title": "Birkenstock profits dip despite sales jump",
+      "source_name": "Drapers",
+      "source_domain": "drapersonline.com",
+      "source_url": "https://www.drapersonline.com/news/birkenstock-profits-dip-despite-sales-jump",
+      "original_publish_time": "2026-05-19T11:48:08+00:00",
+      "scraped_time": "2026-05-19T13:58:31.096669+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Birkenstock"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Drapers Birkenstock profits dip despite sales jump German footwear specialist Birkenstock has reported operating profit of €155.5m (£134.8m) for the second quarter to 31 March 2026, down 11.3% year on year. The post Birkenstock profits dip despite sales jump appeared first on Drapers .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "20404d74ee64",
+      "title": "Official Look at AURALEE x New Balance 204L Collaboration",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/5/auralee-new-balance-204-white-lime-u204l7yu-dark-brown-u204l5i7-collaboration-release-info",
+      "original_publish_time": "2026-05-19T10:26:33+00:00",
+      "scraped_time": "2026-05-19T13:55:35.089577+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "New Balance"
+      ],
+      "keywords_matched": [
+        "shoes",
+        "sneakers",
+        "sole"
+      ],
+      "relevance_score": 5,
+      "summary": "Name: AURALEE x New Balance 204LColorway: “White Lime,” “ Dark Brown”SKU: U204L7YU, U204L5I7MSRP: ¥26,400 JPY ( approx. $166 USD) Release Date: May 29 Where to Buy: New Balance, Official images of the highly anticipated AURALEE x New Balance 204L sneakers have surfaced, following their initial runway debut at Paris Fashion Week last summer. This collaboration introduces New Balance’s all-new, low-profile silhouette, which masterfully blends the streamlined, narrow proportions of 1970s running shoes with the complex, tech-inspired paneling characteristic of the early 2000s.Catering to the modern trend of ultra-slim, \"barely-there\" flat sole units, the collection is split into two distinct material makeups. The \"White Lime\" iteration features a breathable cream and grey mesh base framed by c",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "8660febb336a",
+      "title": "Nike Debuts the Astrograbber in a Simple But Powerful “Sail/Old Royal” Colorway",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/5/nike-astrograbber-sail-old-royal-ii1248-101-official-images",
+      "original_publish_time": "2026-05-19T09:25:10+00:00",
+      "scraped_time": "2026-05-19T13:55:35.094224+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Off-White"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 4,
+      "summary": "Name: Nike Astrograbber “Sail/Old Royal”Colorway: Sail/Old Royal/MuslinSKU: II1248-101MSRP: $115 USDRelease Date: TBCNike is bringing back the Astrograbber in a \"Sail/Old Royal/Muslin\" colorway, with a 2026 release expected at $115 USD. The silhouette, first introduced in 1974 as a football shoe and one of the earliest models in Nike's catalog, returns here in a lifestyle configuration more than five decades after its original debut.The \"Sail/Old Royal/Muslin\" colorway is well-suited to a shoe with this kind of history. Sail leads the upper with a warm off-white that reads vintage rather than clinical, Old Royal brings a deep blue accent with the kind of saturation that references the original football context without leaning into it too literally, and Muslin rounds out the palette with a ",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "b5b59999f144",
+      "title": "Gucci Could Be Alpine F1 Team's Next Major Sponsor",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/5/gucci-x-alpine-f1-title-sponsorship-talks-heat-up",
+      "original_publish_time": "2026-05-19T08:28:08+00:00",
+      "scraped_time": "2026-05-19T13:55:35.099405+00:00",
+      "time_delta_mins": 0,
+      "category": "Trade Data",
+      "brands_mentioned": [
+        "Gucci"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "SummaryGucci is in advanced discussions with the Alpine Formula One team regarding a major sponsorship agreement that could see the luxury house become a primary partnerThe potential deal is reportedly being facilitated by Kering CEO Luca de Meo, who previously served as the head of Renault and was instrumental in elevating Alpine’s global profile through motorsportIf finalized, the partnership would likely begin after the 2026 season, potentially replacing current title sponsor BWT and shifting the team’s visual identity toward a luxury-focused aestheticGucci is reportedly exploring a massive entry into Formula 1 through an impending sponsorship deal with the Alpine racing team. Speculation suggests the Kering-owned brand could take over title rights or secure prominent placement on the c",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "6ce8230a6b13",
       "title": "HBO's ‘LANTERNS’ Sets August 2026 Premiere, and the New Trailer Suggests It's Going Much Further Than a Murder Mystery",
@@ -2707,84 +2811,6 @@
       ],
       "relevance_score": 8,
       "summary": "The world of sneaker releases is tricky to navigate, but we're here with the best of the open market, from adidas to New Balance and Nike.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "52fc6055809d",
-      "title": "Sneaker Brand On Lifts Outlook as Buyers Snap Up Cloudtilt Shoes - Bloomberg.com",
-      "source_name": "Google News - Sneaker Brand",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZ3FwT1NZNUFWWF9jeG03VVVWQVhMdzN6dVY1Ykh5NVQyZkpBTWVvYllUTVhrbTlSeC0xU2IyWmtkZ0lxR085djBxczdMNzdCbG9oQzgyM29OSDdMREszeGxDV0g2V2VrSnZoYkJwbm5iM3JReXZyNmlxQmZBaDJWcmxIeG96WXRhVWVRTDEyNnZvMjRYTXphX2MwM3k2QUFkdE1hcWQ5Mk1xcnNDaEN5T2ExNF9KQQ?oc=5",
-      "original_publish_time": "2026-05-12T12:19:24+00:00",
-      "scraped_time": "2026-05-12T13:04:19.862527+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "Sneaker Brand On Lifts Outlook as Buyers Snap Up Cloudtilt Shoes Bloomberg.com",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "824408fd67b5",
-      "title": "New resource: Sustainable water management in the leather industry",
-      "source_name": "Leather Naturally",
-      "source_domain": "leathernaturally.org",
-      "source_url": "https://www.leathernaturally.org/news-events/news/new-resource-sustainable-water-management-in-the-leather-industry/",
-      "original_publish_time": "2026-05-12T11:00:50+00:00",
-      "scraped_time": "2026-05-12T13:06:10.100816+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "leather industry"
-      ],
-      "relevance_score": 3,
-      "summary": "The post New resource: Sustainable water management in the leather industry appeared first on Leather Naturally .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "f97db6088840",
-      "title": "Feng Tay Enterprises stock (TW0009910000): Leading footwear maker for global brands - AD HOC NEWS",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSkhhcjZETkFTTFk5NzdUY2tueVgtRzI2UHpaMjd4ODJMUFFEYkF4Zk4wOHduYWx3Mm1OZVc0Z0hzY2plbkhYRmxVSmJjeTFrdldyanhMaGFEbnVvZWZHN2dJTG1ZNDVzMXhQdExWdjlUNDFyZV95TVQxVnVMNnB1MHdIalRPYUF6eWhiNmV6em1PVjhoWDItTEV1V2dvOE5iTFhLVUJFOEZuWXV3VDdBUDFNaTYyU2wxdEVQSjhhWlV3YUU?oc=5",
-      "original_publish_time": "2026-05-12T10:32:45+00:00",
-      "scraped_time": "2026-05-12T18:54:13.160453+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Feng Tay Enterprises stock (TW0009910000): Leading footwear maker for global brands AD HOC NEWS",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "537dc964c409",
-      "title": "We Found a Hidden Deal on New Balance Sneakers That Offer Major Pain Relief for Walking — Grab Them from $50 - People.com",
-      "source_name": "Google News - Sneaker Brand",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9sbGxySk1ia2lHTHRfZGJPcU5yY1hmU2dYYTYyVVVJVXlyQ2dvV2RBQ09FMXoxYncxXzcxUzJhR3BBZkFtVVZJdDNSOXo4LV81d1hrYXNyNDBVZXB5MDUwR3VINWFlTmwzT0R3ZGsyeUcxdE1VekMtRg?oc=5",
-      "original_publish_time": "2026-05-12T09:00:00+00:00",
-      "scraped_time": "2026-05-12T13:04:19.863450+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "New Balance"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 5,
-      "summary": "We Found a Hidden Deal on New Balance Sneakers That Offer Major Pain Relief for Walking — Grab Them from $50 People.com",
       "ren_take": "",
       "image_url": ""
     }
