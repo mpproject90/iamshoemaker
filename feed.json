@@ -1,8 +1,50 @@
 {
-  "last_updated": "2026-05-20T13:57:39.379850+00:00",
-  "total_articles": 132,
+  "last_updated": "2026-05-20T19:33:03.321297+00:00",
+  "total_articles": 124,
   "sources_checked": 61,
   "articles": [
+    {
+      "id": "975078d98429",
+      "title": "Adidas’ Hottest Running Shoe Is Getting a New Zippered Upper",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/adidas-evo-sl-zip-release-date-1238974783/",
+      "original_publish_time": "2026-05-20T16:35:46+00:00",
+      "scraped_time": "2026-05-20T19:22:06.709694+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 5,
+      "summary": "The shoe's most overt play at lifestyle today.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "538fa4d290fb",
+      "title": "Stone Island Joins The New Balance 1890 Movement With Two Colorways",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/05/20/stone-island-new-balance-1890/",
+      "original_publish_time": "2026-05-20T16:00:01+00:00",
+      "scraped_time": "2026-05-20T19:22:18.474402+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "New Balance"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "Anyone who’s been thinking about sneakers for more than a few months knows a certain play that brands run: as a new model hits the... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Stone Island Joins The New Balance 1890 Movement With Two Colorways appeared first on Sneaker News . The post Stone Island Joins The New Balance 1890 Movement With Two Colorways appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "f8631ef4595a",
       "title": "Nike Air Jordan 4 ‘Musik’: Check Release Date, New 23 Branding, Hip-Hop Bling, Colour Details & Where to Buy the Limited Sneaker | Here’s All You Need to Know - The Sunday Guardian",
@@ -2516,210 +2558,6 @@
       ],
       "relevance_score": 5,
       "summary": "The Gel-1130 is going backless.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "946540c6f1dd",
-      "title": "Nike’s Rugged Air Force 1 Vibram Series Adds “Bomber Grey”",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/05/13/nike-air-force-1-vibram-barely-grey-city-grey-bomber-grey-speed-yellow-ih1943-002/",
-      "original_publish_time": "2026-05-13T19:00:30+00:00",
-      "scraped_time": "2026-05-14T00:04:25.525865+00:00",
-      "time_delta_mins": 0,
-      "category": "Trade Data",
-      "brands_mentioned": [
-        "Nike",
-        "Vibram"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 7,
-      "summary": "For many, the Nike Air Force 1 has long played double duty as a boot for rough conditions. The quintessential “Flax” colorway, various “Winterized” releases,... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike's Rugged Air Force 1 Vibram Series Adds \"Bomber Grey\" appeared first on Sneaker News . The post Nike’s Rugged Air Force 1 Vibram Series Adds “Bomber Grey” appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "e80d643aef9d",
-      "title": "Brazilian footwear to join Saudi fashion week - Agência de Notícias Brasil-Árabe - ANBA",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1XaUY5VjJYd1dRWlhMT2g1MjRTR3QzM21nSzkzX3pjalluNlpvdXVCdnpHTXp3YnozZWVVNGdZZ0NhbVF6TlRMRmI5Sy1scWJrbkR6UkFjdFRrQ2dVN2s2TWJib0VZVG1fT0psQjdHdXhtVmZPSU5OVw?oc=5",
-      "original_publish_time": "2026-05-13T17:32:06+00:00",
-      "scraped_time": "2026-05-13T18:55:00.163818+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Brazilian footwear to join Saudi fashion week Agência de Notícias Brasil-Árabe - ANBA",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "55f6125904bd",
-      "title": "Performance Running and Sportstyle Sneakers Fuel Q1 Growth for Asics North America",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/asics-q1-2026-earnings-running-sportstyle-sneakers-1238952873/",
-      "original_publish_time": "2026-05-13T16:48:18+00:00",
-      "scraped_time": "2026-05-13T18:54:37.647155+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "ASICS"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 5,
-      "summary": "Net sales in North America in the first quarter of 2026 grew 23 percent to 48.2 billion yen, or about $305.2 million.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "4ebebf9d8912",
-      "title": "Shoe Manufacturer Yue Yuen Says Footwear Shipments Fell Over 8 Percent in Q1",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/yue-yuen-sehk-551-q1-2026-earnings-shoe-shipment-dropped-1238952643/",
-      "original_publish_time": "2026-05-13T16:38:11+00:00",
-      "scraped_time": "2026-05-13T18:54:37.651034+00:00",
-      "time_delta_mins": 0,
-      "category": "Trade Data",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "The Taiwanese athletic/outdoor and casual shoe manufacturer also said revenue in the quarter was down 2.2 percent.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "c50e7dd593f0",
-      "title": "Coca-Cola And adidas Originals Crack Open A Six Pack Of Sneakers",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/05/13/coca-cola-adidas-originals-2026-release-date/",
-      "original_publish_time": "2026-05-13T16:00:17+00:00",
-      "scraped_time": "2026-05-13T18:54:49.251931+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 5,
-      "summary": "adidas is once again leaning into the power of globally recognizable branding with an upcoming collaboration alongside The Coca-Cola Company. Once again extending beyond traditional... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Coca-Cola And adidas Originals Crack Open A Six Pack Of Sneakers appeared first on Sneaker News . The post Coca-Cola And adidas Originals Crack Open A Six Pack Of Sneakers appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "9e5096842af0",
-      "title": "Nike Brews A Premium Air Force 1 Low “Black Tea”",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/05/13/nike-air-force-1-low-black-tea-io9555-202/",
-      "original_publish_time": "2026-05-13T15:30:11+00:00",
-      "scraped_time": "2026-05-13T18:54:49.253606+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "For the more refined Air Force 1 wearers, Nike continues to roll out premium styles defined by nubuck uppers and stripped-down branding. This “Black Tea”... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike Brews A Premium Air Force 1 Low \"Black Tea\" appeared first on Sneaker News . The post Nike Brews A Premium Air Force 1 Low “Black Tea” appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "8918aa624769",
-      "title": "Legendary Shoe Designer Manolo Blahnik to Receive Honor at 2026 Cordwainers Footwear Awards",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/manolo-blahnik-cordwainers-footwear-awards-2026-honor-1238952760/",
-      "original_publish_time": "2026-05-13T15:18:31+00:00",
-      "scraped_time": "2026-05-13T18:54:37.651969+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Blahnik will receive the prestigious Sue Saunders Award for Excellence.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "f4c3cd93eadc",
-      "title": "The JD x ASICS House Turned Movement and Music Into a Stylish Affair",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/5/jd-the-asics-house-london-pop-up-recap",
-      "original_publish_time": "2026-05-13T14:48:25+00:00",
-      "scraped_time": "2026-05-13T18:54:49.016641+00:00",
-      "time_delta_mins": 0,
-      "category": "Trade Data",
-      "brands_mentioned": [
-        "ASICS"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Hot off its Kinetic Playscape installation at Milan Design Week, ASICS recently joined JD to launch a new pop-up space in Soho, London. As the first of its kind, the JD x ASICS House combined the theme of wellness with music and style, bringing locals to enjoy their favorite weekend rituals all under one roof.Over the three-days, guests dropped by a listening lounge built with blue lights and chrome interiors for a laid-back feel, while Dead Good Coffee served up drinks in an all-day matcha bar. Bringing the latest trends into the space, the brand’s new season sneaker drops were exhibited for guests to try on and capture in their own polaroids.Among the footwear models featured at the space was the GEL-NYC 2.0 – one of the latest offerings from ASICS which blends its heritage styles with m",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "b81a9fe00e60",
-      "title": "ASICS Turns The Popular GEL-1130 Tech Runner Into A Sneaker Mule",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/05/13/asics-gel-1130-mule/",
-      "original_publish_time": "2026-05-13T14:45:18+00:00",
-      "scraped_time": "2026-05-13T18:54:49.255137+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "New Balance",
-        "ASICS"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 4,
-      "summary": "The popular tech-runner-to-mule pipeline is very real. We’ve seen New Balance lean in, and for Summer 2026, two of the world’s biggest footwear brands are... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post ASICS Turns The Popular GEL-1130 Tech Runner Into A Sneaker Mule appeared first on Sneaker News . The post ASICS Turns The Popular GEL-1130 Tech Runner Into A Sneaker Mule appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "d5aded504989",
-      "title": "‘Non-leather footwear component mfg park will be game-changer’ - MSN",
-      "source_name": "Google News - India Leather",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNcHBmN1RHcVVmLU1OVHpHZU5WUHRyT3NWNWFkU3hsNk5wbkNyaGZSZnJSV2tkM0VCZmNROUJaQXJVZExOVkdKT2FZRnFobDI0cnM3UzlQamFlSURVcDB1cmV2Q1Ixa1ZmVGVOV1QwZjV1T0tXYzRmbDI2ZUVwaVgwRXJhQnk5Zmc0eEptR0JRSVRKaTF0R1hDQV9mMTBCNi1oTFUybURNTGV1YzlVbmxvbUJ2QXJOWXVmbGFiR0MxdmdvdFdjbTZZbGZGaFB2Z0JZNGJ1dDk2TERCZUx4U2lFUVlEd2RGRjY4al9SaTZNdUhjYS1uaFhiaTI0Z19jcnMyZXc3R1ZqY3Bjc0EzUmR6NE15WTZKclNiRUcxV081ZUdERHRJSWR3ZWJkYUEwYXVpQi03X05hNlZTS0dvejJURWt2dHd2NW12V1FlYnBQb29wQXd3R1J4YVo3X1lhRWI0R01CRlhzN2d3UzdHVDJpOE1HbFNVUQ?oc=5",
-      "original_publish_time": "2026-05-13T14:01:40+00:00",
-      "scraped_time": "2026-05-14T00:19:54.134321+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "‘Non-leather footwear component mfg park will be game-changer’ MSN",
       "ren_take": "",
       "image_url": ""
     }
