@@ -1,8 +1,132 @@
 {
-  "last_updated": "2026-05-21T08:40:35.147612+00:00",
-  "total_articles": 125,
-  "sources_checked": 60,
+  "last_updated": "2026-05-21T14:31:02.044775+00:00",
+  "total_articles": 128,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "84a10a84653f",
+      "title": "Jordan's Razor-Sharp New Sneaker Mastered Every Angle (EXCLUSIVE)",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/jordans-newest-razor-sharp-basketball-sneaker-knows-its-angles/",
+      "original_publish_time": "2026-05-21T14:00:01+00:00",
+      "scraped_time": "2026-05-21T14:19:19.402183+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "The Jordan Brand reveals the Triangle, its all-new, all-position basketball sneaker built with Nike's finest cushioning.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "5f458cf50c13",
+      "title": "Reebok Celebrates 40 Years of ‘Dragon Quest’ With Collaborative Drop",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/5/reebok-dragon-quest-insta-pump-fury-94-vintage-tee-collaboration-release-info",
+      "original_publish_time": "2026-05-21T13:04:04+00:00",
+      "scraped_time": "2026-05-21T14:15:38.015737+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Reebok"
+      ],
+      "keywords_matched": [
+        "sneakers",
+        "upper"
+      ],
+      "relevance_score": 4,
+      "summary": "SummaryReebok celebrates Dragon Quest's 40th anniversary with a collaboration featuring the Insta Pump Fury 94 and a lineup of vintage-style T-shirtsSneakers feature design cues from all 11 previous Dragon Quest titlesThe collaboration will release in Japan on May 27, 2026Reebok has revealed a collaboration with Dragon Quest, unveiling a playful and nostalgic take on its Insta Pump Fury 94 sneaker and a collection of vintage-style graphic tees.The cornerstone of this release is the Insta Pump Fury 94, an iconic, high-tech runner featuring specialized colorways and design details directly inspired by all 11 previous mainline models of the game series — ranging from the original entry up to Dragon Quest XI: Echoes of an Elusive Age. The upper retains its signature futuristic, laceless look, ",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "6cbbbd2b26d6",
+      "title": "Official Images of the Salomon XT-4 OG Japan “Nami Pack”",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/5/salomon-xt-4-og-japan-nami-pack-l45440400-release-info",
+      "original_publish_time": "2026-05-21T12:50:02+00:00",
+      "scraped_time": "2026-05-21T14:15:38.018357+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Salomon"
+      ],
+      "keywords_matched": [
+        "outsole",
+        "sole",
+        "upper"
+      ],
+      "relevance_score": 5,
+      "summary": "Name: Salomon XT-4 OG JAPAN “Nami Pack”Colorway: “Nami”SKU: L45440400MSRP: ¥30,800 JPY (approx. $194 USD) Release Date: May 29 Where to Buy: SalomonThe Salomon XT‑4 OG Japan “Nami Pack” is part of a Japan‑exclusive series inspired by Hokusai’s \"Great Wave off Kanagawa\" and the rhythm of sound waves. The XT‑4 OG features mesh and synthetic overlays with flowing indigo wave graphics, contrasted by crisp white detailing across the upper.Built on Salomon’s trail‑ready platform, the shoe integrates the ACS chassis system, EnergyCell+ cushioning, and a Contagrip outsole, balancing technical performance with lifestyle appeal. Branding is kept minimal, allowing the wave motif and sculptural sole to stand out as the defining elements of the design. Complementing the XT‑4 OG, Salomon also introduced",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "d65b7b0b215e",
+      "title": "This Fire Breathing Nike Air Max Is Bubble Trouble",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-air-liquid-max-fire-red/",
+      "original_publish_time": "2026-05-21T11:40:00+00:00",
+      "scraped_time": "2026-05-21T14:19:19.402742+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sole"
+      ],
+      "relevance_score": 3,
+      "summary": "Nike’s Air Liquid Max turns up the heat with bold crimson and fire red, a wild air unit sole, and comfort tech that feels as fierce as it looks.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "53e351f148bc",
+      "title": "Pou Chen Corp stock (TW0009904003): Footwear manufacturer in focus after recent business update - AD HOC NEWS",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWGJGM2std1lEbVV5N3VDc3UwcUlZZzVjMHpPbzdscWgzZ0duYUNubkd5RERXSXlHN2VBcUg1ZGpEVmdUd05aOG9paTgxNHhPVlloUDVnVjNaamRnV21Ub1NWajQyMFZzUS1PZTRqbV9vWGhvUGlHeDFqNzZHZy1PNFhBdFNlbVBjS2VLTUZmYzh4X3VPUEpodWtfbUhjYWE3WDMwMDZ1RVNITGpqcW4wTjZJMkhwVm95MW9NeEVCZjc3UmpTb05F?oc=5",
+      "original_publish_time": "2026-05-21T08:57:38+00:00",
+      "scraped_time": "2026-05-21T14:15:48.807211+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Pou Chen Corp stock (TW0009904003): Footwear manufacturer in focus after recent business update AD HOC NEWS",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "8873ce090f07",
+      "title": "Premium Shoes Market Analysis By Application, Type, - openPR.com",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTmJRTkZLbTVudWNPMm5Ick9kUkJTZGdUaVByaGNTS213MEowSXQyT2NVdjVXYUFXZzFqZV9TUHl4NmVqY2ZuRGpRN2R3VEZ3ck5XbzZsYWlOUVFXSEdLNzJnV05saElXbTFVLTJoXzh2bEI3SUp4SkIzZTU5SzBHMi13dl9jUGRpZVAwdWJR?oc=5",
+      "original_publish_time": "2026-05-21T08:48:41+00:00",
+      "scraped_time": "2026-05-21T14:15:48.805882+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "Premium Shoes Market Analysis By Application, Type, openPR.com",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "018e18f0784c",
       "title": "The Stone Island x New Balance SUMMER_'026 Capsule Puts the ABZORB 1890 and Nylon Prismatico on the Same Team",
@@ -343,6 +467,28 @@
       ],
       "relevance_score": 4,
       "summary": "Name: Nike A'Two \"Still Loading\"Colorway: Blue Crystal/Psychic Blue-Metallic SilverSKU: IH1135-400MSRP: $145 USDRelease Date: May 21, 2026Where to Buy: NikeA'ja Wilson is back on the hardwood, and her footwear is just as cold as her game. As the Las Vegas Aces superstar tips off another highly anticipated WNBA season, Nike is keeping the momentum of her growing signature line rolling with a brand-new drop. Enter the Nike A'Two \"Still Loading\"—a frosty, heavily detailed new colorway that perfectly balances elite on-court performance with an undeniably clean, lifestyle-ready aesthetic.Designed to emphasize movement and shine, the \"Still Loading\" iteration serves up a cool, tonal blue finish from top to bottom. The sneaker's upper is anchored by vibrant \"Light Blue Crystal\" tones that blanket",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "0945b88be2ba",
+      "title": "Coach Prime and Nike Reveals Air Diamond Turf 2 \"Colorado\" PE Cleats",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/5/coach-prime-deion-sanders-nike-air-diamond-turf-2-colorado-pe-cleats-revealed",
+      "original_publish_time": "2026-05-20T10:38:16+00:00",
+      "scraped_time": "2026-05-21T14:15:38.022750+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "footwear",
+        "upper"
+      ],
+      "relevance_score": 4,
+      "summary": "SummaryNike has officially unveiled a new \"Colorado\" Player Exclusive (PE) cleated version of Deion Sanders' iconic Air Diamond Turf 2The sleek, aggressive design features a stealthy black patent leather upper paired with striking Colorado University Gold accentsCustom \"CU\" branding on the heel confirms the footwear is tailored exclusively for the Colorado Buffaloes football programDeion Sanders is continuing to make sure his Colorado Buffaloes are the best-dressed team in college football. Leaning fully into Coach Prime's legendary footwear archive, Nike has officially revealed a brand-new series of Air Diamond Turf 2 cleats, headlined by a striking \"Colorado\" Player Exclusive (PE). Tailor-made to hit the turf in Boulder, the stealthy and luxurious cleats serve as a perfect reminder of Sa",
       "ren_take": "",
       "image_url": ""
     },
@@ -2511,89 +2657,6 @@
       ],
       "relevance_score": 5,
       "summary": "Name: Madhappy x Converse Chuck 70 “Graystone,” Madhappy x Converse Chuck 70 “Lipstick Red,” Madhappy x Converse Chuck 70 “Natural Ivory,” Madhappy x Converse Chuck 70 “Black,” Madhappy x Converse Chuck 70 “Thunderdaze Pinstripe”Colorway: Black/Natural Ivory, Natural Ivory, Red/Natural Ivory, Thunder Daze/Natural IvorySKU: A20357C, A20356C, A20353C, A20368CMSRP: $130 USD, $120 USDRelease Date: May 15Where to Buy: Madhappy, ConverseConverse and Madhappy are back for their second collaboration, and the Chuck 70 is doing most of the talking. Dropping May 15, the five-piece pack covers both the Hi ($130 USD) and Ox ($120 USD) in an Americana-grounded palette of “Graystone,” “Lipstick Red,” “Natural Ivory,” “Black,” and “Thunderdaze Pinstripe,” each treated to a suite of hand-done finishes and ",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "133f5501444a",
-      "title": "When Did a 100-Year-Old Bootmaker Get This Good at Sneakers?",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/best-danner-sneakers-2026/",
-      "original_publish_time": "2026-05-14T13:45:00+00:00",
-      "scraped_time": "2026-05-14T18:56:16.791042+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "boot",
-        "sneakers"
-      ],
-      "relevance_score": 7,
-      "summary": "Danner is an expert in rugged leather boots. It has been for almost 100 years. So why do excellent Danner sneakers keep popping up?",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "0837787f74d0",
-      "title": "Manolo Blahnik to be honoured at Cordwainers Footwear Awards - FashionNetwork - The World's Fashion Business News",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbWFJYjRMX2dWVTRydVpMNEN2YmhiRlB3Z1BwZ0VZc0RLUWJxdURmMkhGb0J5YTVERDVMM0JNZjE2RVdKQW5SV0pWdWxoTTNzcjRpQmR2UTFOcTItazRqazlDcjZiYm1aNzNXc0dGbzNycEc4SXQ3bGwtQUhSODZoVk5KOGNqQlNNSDNMeUh4YzZKWlJwT2g2U0x2MjVMLVJFNW9UVGRKdVJQMlRY?oc=5",
-      "original_publish_time": "2026-05-14T13:21:31+00:00",
-      "scraped_time": "2026-05-14T18:52:52.937611+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Manolo Blahnik to be honoured at Cordwainers Footwear Awards FashionNetwork - The World's Fashion Business News",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "d4a2b3dbe3cb",
-      "title": "Wolverine Worldwide Stock Jumps in Pre-market Trading After ‘Solid Start’ to 2026",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/wolverine-worldwide-www-q1-2026-earnings-merrell-saucony-1238953966/",
-      "original_publish_time": "2026-05-14T12:25:20+00:00",
-      "scraped_time": "2026-05-14T18:52:29.960527+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Wolverine",
-        "Wolverine Worldwide"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 4,
-      "summary": "Total revenue in the first quarter of 2026 was $457.6 million, up 11.0 percent from $412.3 million the same time last year.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "6e0de3637020",
-      "title": "The ASICS GEL-1130 Mule Is a Retro Runner Built for People Who Are Done Untying Their Shoes",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/5/asics-gel-1130-mule-black-silver-silver-silver-brown-1203b048-001-1203b048-101-1203b048-020-official-images",
-      "original_publish_time": "2026-05-14T08:52:27+00:00",
-      "scraped_time": "2026-05-14T12:26:06.746186+00:00",
-      "time_delta_mins": 0,
-      "category": "Trade Data",
-      "brands_mentioned": [
-        "ASICS"
-      ],
-      "keywords_matched": [
-        "footwear",
-        "sandal",
-        "shoes",
-        "upper"
-      ],
-      "relevance_score": 8,
-      "summary": "Name: ASICS GEL-1130 Mule “Black/Silver,” ASICS GEL-1130 Mule “Silver,” ASICS GEL-1130 Mule “Silver/Brown”Colorway: Black/Silver, Silver/Cream, Silver/BrownSKU: 1203B048-001, 1203B048-101, 1203B048-020MSRP: TBCRelease Date: July 2026ASICS is reportedly bringing the GEL-1130 Mule to market this July, a backless rework of one of the brand's most consistently in-demand retro runners. The silhouette keeps what made the original worth buying — GEL cushioning, a mesh and synthetic upper, and the tech-inspired proportions that defined early-2000s running footwear — and trades the heel collar for an open construction that puts it closer to a sandal than a sneaker in terms of daily practicality.The GEL-1130 has had a steady run as one of ASICS' more accessible retro options, sitting below the hype ",
       "ren_take": "",
       "image_url": ""
     }
