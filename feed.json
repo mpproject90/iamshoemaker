@@ -1,8 +1,48 @@
 {
-  "last_updated": "2026-05-20T19:33:03.321297+00:00",
+  "last_updated": "2026-05-21T00:25:51.371587+00:00",
   "total_articles": 124,
   "sources_checked": 61,
   "articles": [
+    {
+      "id": "b65a42181e16",
+      "title": "The North Face Does Sneakers Better Than You Think. And What's Next Is Wild",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/the-north-face-sneakers-2026/",
+      "original_publish_time": "2026-05-20T21:34:00+00:00",
+      "scraped_time": "2026-05-21T00:13:50.371965+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoes",
+        "sneakers"
+      ],
+      "relevance_score": 4,
+      "summary": "Has The North Face always been this good at sneakers? Or are we just looking at shoes differently? Honestly, it’s a bit of both.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "efa1f6ce7df3",
+      "title": "‘Green Shoots’ at Vans, Timberland Appear Solid",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/vf-corp-speed-to-market-vans-dtc-timberland-footwear-1238975594/",
+      "original_publish_time": "2026-05-20T20:46:56+00:00",
+      "scraped_time": "2026-05-21T00:10:09.728660+00:00",
+      "time_delta_mins": 0,
+      "category": "Quality",
+      "brands_mentioned": [
+        "Vans",
+        "Timberland"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "VF Corp.'s speed to market testing has benefited Vans' growth in the Americas DTC business.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "975078d98429",
       "title": "Adidas’ Hottest Running Shoe Is Getting a New Zippered Upper",
@@ -2516,48 +2556,6 @@
       ],
       "relevance_score": 3,
       "summary": "The collection includes five silhouettes.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "ae21b92771cb",
-      "title": "Tony Yayo Confirms The Return Of Reebok G-Unit Sneakers",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/05/13/reebok-g-unit-50-cent-shoes/",
-      "original_publish_time": "2026-05-13T21:55:37+00:00",
-      "scraped_time": "2026-05-14T00:04:25.522056+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Reebok"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 5,
-      "summary": "After years of rumors, speculation, and nostalgia-driven demand, the legendary G-Unit sneakers are officially making a comeback. Originally launched during the height of 2000s hip-hop... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Tony Yayo Confirms The Return Of Reebok G-Unit Sneakers appeared first on Sneaker News . The post Tony Yayo Confirms The Return Of Reebok G-Unit Sneakers appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "4122caef6911",
-      "title": "Asics Is Turning One of Its Most Popular Sneakers Into a Mule",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/asics-gel-1130-mule-release-date-1238953290/",
-      "original_publish_time": "2026-05-13T20:19:33+00:00",
-      "scraped_time": "2026-05-14T00:04:13.574910+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "ASICS"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 5,
-      "summary": "The Gel-1130 is going backless.",
       "ren_take": "",
       "image_url": ""
     }
