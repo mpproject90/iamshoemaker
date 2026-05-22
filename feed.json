@@ -1,8 +1,208 @@
 {
-  "last_updated": "2026-05-22T08:32:16.167609+00:00",
-  "total_articles": 123,
+  "last_updated": "2026-05-22T13:48:09.907258+00:00",
+  "total_articles": 127,
   "sources_checked": 61,
   "articles": [
+    {
+      "id": "94831870f49f",
+      "title": "We Would Love This Unreleased Carpet Company x Salomon XT-Whisper Colorway To Drop in the Future",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/5/we-would-love-this-unreleased-carpet-company-x-salomon-whisper-void-colorway-to-drop-in-the-future",
+      "original_publish_time": "2026-05-22T13:03:59+00:00",
+      "scraped_time": "2026-05-22T13:32:32.508550+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [
+        "Salomon"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "When Baltimore-based skate imprint Carpet Company announced its highly anticipated collaboration with Salomon, the sneaker world immediately took notice. The resulting XT‑Whisper Void “Habibi Express” perfectly encapsulated founders Ayman and Osama Abdeldayem’s DIY ethos, merging Salomon’s rugged, trail-ready heritage with Carpet Company’s playful, skate-driven appeal.Leading up to the reveal, the brand dropped a series of conceptual Instagram reels that captured their distinctly irreverent vibe. Tinged with retro-nostalgia and offbeat humor, the narrative centered around a custom, red-horned minivan - the physical embodiment of the \"Habibi Express\" - decked out with Salomon's logo alongside Carpet Company’s recognizable star-shaped motif. This gradually culminated in the grand unveiling o",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "24a8764eeec3",
+      "title": "India’s Leather Exports Fall 16% in FY ’26 Amid US Tariffs and West Asia Crisis",
+      "source_name": "Apparel Resources",
+      "source_domain": "apparelresources.com",
+      "source_url": "https://apparelresources.com/business-news/trade-business-news/indias-leather-exports-fall-16-fy-26-amid-us-tariffs-west-asia-crisis/",
+      "original_publish_time": "2026-05-22T12:59:40+00:00",
+      "scraped_time": "2026-05-22T13:36:22.715536+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "leather exports"
+      ],
+      "relevance_score": 3,
+      "summary": "India’s leather and leather products exports declined 16% in FY ’26 as higher US tariffs, rising input costs and disruptions linked to the West Asia crisis weighed heavily on the sector’s global competitiveness. The downturn reflects mounting pressure on one of India’s key labour-intensive export industries, which has been grappling with slowing international demand, elevated […] The post India’s Leather Exports Fall 16% in FY ’26 Amid US Tariffs and West Asia Crisis appeared first on Apparel Resources .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "c8e94262f47e",
+      "title": "India Retail Sales Grow 7% in April 2026; Apparel, Footwear Demand Remains Steady",
+      "source_name": "Apparel Resources",
+      "source_domain": "apparelresources.com",
+      "source_url": "https://apparelresources.com/business-news/trade-business-news/india-retail-sales-grow-7-april-2026-apparel-footwear-demand-remains-steady/",
+      "original_publish_time": "2026-05-22T12:56:18+00:00",
+      "scraped_time": "2026-05-22T13:36:22.717830+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Retail sales in India recorded a 7% year-on-year increase in April 2026, reflecting continued stability in consumer demand despite persistent global cost pressures and cautious discretionary spending, according to the latest monthly Business Survey released by the Retailers Association of India (RAI). The findings indicated that growth trends remained relatively balanced across regions and retail […] The post India Retail Sales Grow 7% in April 2026; Apparel, Footwear Demand Remains Steady appeared first on Apparel Resources .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "75f8b4ef3d3a",
+      "title": "With the World Cup Around the Corner, adidas Is Betting on the Basics",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/adidas-world-cup-usa-94-collection/",
+      "original_publish_time": "2026-05-22T12:44:39+00:00",
+      "scraped_time": "2026-05-22T13:36:11.083033+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "With the FIFA World Cup on the horizon, adidas are highlighting the colors that have always resonated. Here's the best pieces from its USA 94 collection.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "a48aba958846",
+      "title": "FITASY’s Single-Shoe Option Shows What Inclusive Footwear Looks Like - 3D Printing Industry",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa0hWc1MwMk5BUnUwM1dGSWZFemZkMi1ZZTRncFVTUWYzdTc1RVpOajE5OS1EcU9CRzY0Y29BV1RhN01MeE9uX3UyLTF6cU1pMkxfYUFtMkthek1LbTBLb1FxRVZtanFoZ2gxSDExY0pEaC1NM2pzdE9DN252NFA4STJWcUNpV2JIVE44eTlkWmRFUkV1XzZQUHNOaVQ0dVFCY19YRXd3cUFrZ1ozV0lULQ?oc=5",
+      "original_publish_time": "2026-05-22T11:04:43+00:00",
+      "scraped_time": "2026-05-22T13:32:43.873097+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "FITASY’s Single-Shoe Option Shows What Inclusive Footwear Looks Like 3D Printing Industry",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "7a8ea851c0fd",
+      "title": "Boots to launch first beauty-only store outside London",
+      "source_name": "Retail Gazette",
+      "source_domain": "retailgazette.co.uk",
+      "source_url": "https://www.retailgazette.co.uk/blog/2026/05/boots-concept-store-beauty/",
+      "original_publish_time": "2026-05-22T10:05:42+00:00",
+      "scraped_time": "2026-05-22T13:35:39.358469+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 3,
+      "summary": "Boots is opening its first beauty-only store outside of London in Bristol later this month.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "d5b5922cca69",
+      "title": "The Nike SB Air Max Ishod Serves Up a \"Tennis Ball\" Colorway",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/5/nike-sb-air-max-ishod-tennis-ball-volt-volt-black-black-ib6212-701-release-info",
+      "original_publish_time": "2026-05-22T09:58:03+00:00",
+      "scraped_time": "2026-05-22T13:32:32.514017+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "midsole",
+        "outsole",
+        "sole",
+        "upper"
+      ],
+      "relevance_score": 6,
+      "summary": "Name: Nike SB Air Max Ishod “Tennis Ball”Colorway: Volt/Volt/Black/BlackSKU: IB6212-701MSRP: $125 USDRelease Date: May 29 Where to Buy: NikeThe official images of the Nike SB Air Max Ishod “Tennis Ball” highlight a bold reinterpretation of Ishod Wair’s skate‑ready silhouette with a vibrant neon palette. The upper is crafted from mesh and suede panels drenched in a fluorescent yellow‑green tone reminiscent of a tennis ball, contrasted by black detailing along the tongue, laces, and inner lining. A tonal Swoosh blends seamlessly into the sidewalls, while reflective accents add depth to the design. The sculpted midsole incorporates visible Air cushioning, paired with a durable gum outsole that reinforces the shoe’s skateboarding functionality.This electric neon finish is balanced by stark bla",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "12445bbb01e0",
+      "title": "Hoka, Ugg push Deckers Brands to record $5.47bn FY26 net sales",
+      "source_name": "Just Style",
+      "source_domain": "just-style.com",
+      "source_url": "https://www.just-style.com/news/deckers-brands-fy26-result/",
+      "original_publish_time": "2026-05-22T09:49:18+00:00",
+      "scraped_time": "2026-05-22T13:32:21.324502+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [
+        "Hoka",
+        "UGG"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "Deckers Brands recorded net sales of $5.47bn FY26 with Hoka and Ugg brands contributing significantly to this growth.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "cd7667347d43",
+      "title": "JJJJound Teases a First Look at its New Balance 1890 Sneaker in “Grey”",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/5/jjjjound-new-balance-1890-grey-first-look",
+      "original_publish_time": "2026-05-22T09:21:52+00:00",
+      "scraped_time": "2026-05-22T13:32:32.515546+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "New Balance"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "Name: JJJJound x New Balance 1890 “Grey”SKU: TBCRelease Date: 2026Following up on the initial teaser of the \"Tuxedo-style\" black and white pair, a second colorway has emerged to expand the Montreal design studio's footprint on New Balance's newest collaborative silhouette. Officially revealed through a lookbook image shared by JJJJound on their official Instagram account, this first look at the JJJJound x New Balance 1890 “Grey” arrived as part of a preview for the brand's upcoming JJJJ SS26 Summer Weekend Capsule.The upper is dressed in layered shades of grey mesh and suede, accented by muted synthetic overlays that emphasize depth without overpowering the design. Branding remains understated, with a tonal “N” logo on the quarters and subtle JJJJound text at the heel tab, reinforcing the ",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "c9c14302a594",
+      "title": "Nike's Mind 001 Flyknit \"Bronze Eclipse\" Turns the Gradient Up and the Nodes Orange",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/5/nike-mind-001-bronze-eclipse-ir2175-200-official-images",
+      "original_publish_time": "2026-05-22T08:27:19+00:00",
+      "scraped_time": "2026-05-22T13:32:32.518884+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "Name: Nike Mind 001 “Bronze Eclipse”Colorway: Bronze Eclipse/Black/Total OrangeSKU: IR2175-200MSRP: $95 USDRelease Date: TBCNike is preparing another Mind 001 Flyknit colorway for 2026, and the \"Bronze Eclipse\" might be the most visually cohesive of the Flyknit iterations released so far. A black-to-Bronze Eclipse gradient runs from the top of the Flyknit upper downward, landing on Total Orange foam sphere nodes that glow underneath.Where the “Hyper Royal” Flyknit shifts from black to blue and the “Cucumber Calm” reads soft and pastel, the Bronze Eclipse colorway operates in warmer, richer territory — a metallic earth tone that picks up the Total Orange nodes underneath rather than contrasting against them. The result is a shoe that holds together visually from top to bottom in a way that ",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "7fdfee7d58bd",
       "title": "Canada Footwear Market Size, Share, Trends & Forecast 2026–2034 - vocal.media",
@@ -2430,133 +2630,6 @@
       "keywords_matched": [],
       "relevance_score": 4,
       "summary": "Brooks or New Balance? I Tested Both to Find Out Which Is Best TODAY.com",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "95f0198751af",
-      "title": "Loewe's £700 “Spray-On” Trainers Are the Most Futuristic Shoes of 2026 - Yahoo Life UK",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1zYjlQVHJQTFJKUlBWWWFWZUFjel9JZmV4aEhrSTZVOFEyb1NKV3JYU1AzU2Vka0FWZS1WZG95X3Y0M1NHUm1kN1IyYXlGMUdsRTJFYk54VERPVm1XNktaUjRtTFp6Z1ZzTE9ZbFBibHpxYVlhamVkV1cxOUU?oc=5",
-      "original_publish_time": "2026-05-15T10:11:00+00:00",
-      "scraped_time": "2026-05-15T12:54:23.838422+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "Loewe's £700 “Spray-On” Trainers Are the Most Futuristic Shoes of 2026 Yahoo Life UK",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "24c25694ae4a",
-      "title": "Is a Football-Centric Stone Island x New Balance Collab Dropping This Summer?",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/5/stone-island-new-balance-summer-2026-capsule-collab-teaser",
-      "original_publish_time": "2026-05-15T09:46:58+00:00",
-      "scraped_time": "2026-05-15T12:54:12.609743+00:00",
-      "time_delta_mins": 0,
-      "category": "Trade Data",
-      "brands_mentioned": [
-        "New Balance"
-      ],
-      "keywords_matched": [
-        "boot",
-        "sole"
-      ],
-      "relevance_score": 5,
-      "summary": "Summary Stone Island and New Balance tease a football-centric Summer 2026 capsuleTeasers show a compass-branded cleat sole and terrace-culture visualsSpeculation points to high-performance soccer boots and technical apparelStone Island and New Balance have ignited significant anticipation across both the streetwear and sports worlds with a series of social media teasers pointing toward a soccer-centric Summer 2026 capsule collection. Leaning heavily into terrace culture and global football heritage ahead of the upcoming World Cup cycles, the initial teaser image highlights the striking, industrial underside of a performance soccer cleat.A subsequent video teaser captures an atmospheric scene filmed from the interior backseat of a parked vehicle, framing a football player juggling a ball in",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "0f0c9618caba",
-      "title": "SOON.EASY Brings Dark Humor to Vans’ LX Authentic 44",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/5/soon-easy-vans-lx-authentic-44-taupe-mist-faded-black-vn000eakg2m-release-info",
-      "original_publish_time": "2026-05-15T09:45:35+00:00",
-      "scraped_time": "2026-05-15T12:54:12.605946+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Vans"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "Name: SOON. EASY x Vans LX Authentic 44Colorway: Taupe Mist/Faded BlackSKU: VN000EAKG2MMSRP: ¥12,650 JPY ( approx. $80 USD)Release Date: May 6 Where to Buy: VansVans continues its creative exploration through its celebrated Artist Collection, collaborating with Seoul-based multimedia artist SOON.EASY to debut the LX Authentic 44 in an “Taupe Mist/Faded Black” colorway.The silhouette acts as a physical canvas for the artist’s signature style of dark humor and cartoonish social commentary. The canvas upper and quarters are draped in an understated, washed palette of taupe mist and faded black tones, creating a muted background that allows the vibrant graphics to command attention. A fiery, bright red flame-style \"VANS\" script is emblazoned across the upper, generating a stark visual contrast",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "0ccfc33ae0fd",
-      "title": "Wolverine Worldwide starts FY26 strong as Q1 revenue, net earnings rise",
-      "source_name": "Just Style",
-      "source_domain": "just-style.com",
-      "source_url": "https://www.just-style.com/news/wolverine-worldwide-q1-results/",
-      "original_publish_time": "2026-05-15T09:32:01+00:00",
-      "scraped_time": "2026-05-18T08:39:30.509509+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Wolverine",
-        "Wolverine Worldwide"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 4,
-      "summary": "Wolverine Worldwide has reported better-than-expected Q1 FY26 results, with revenue, and gross margin surpassing company forecasts.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "634590b84193",
-      "title": "Jordan Brand's Tiempo Maestro Elite \"Sail/Infrared 23\" Trades the Loud First Chapter for Something More Considered",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/5/jordan-tiempo-maestro-elite-se-sail-infrared-23-if4126-100-official-images",
-      "original_publish_time": "2026-05-15T08:47:19+00:00",
-      "scraped_time": "2026-05-15T12:54:12.614457+00:00",
-      "time_delta_mins": 0,
-      "category": "Trade Data",
-      "brands_mentioned": [
-        "Nike",
-        "Off-White",
-        "Jordan"
-      ],
-      "keywords_matched": [
-        "boot",
-        "footwear"
-      ],
-      "relevance_score": 6,
-      "summary": "Name: Jordan Tiempo Maestro Elite SE “Sail/Infrared 23”Colorway: Sail/Infrared 23SKU: IF4126-100MSRP: $275 USDRelease Date: TBCJordan Brand's second take on the Nike Tiempo Maestro Elite FG makes a different argument than the first. Where Chapter 1 came in an all-over Infrared that left nothing unsaid, the \"Sail/Infrared 23\" colorway pulls back to a clean off-white base, letting the boot's construction and a single Infrared Jumpman at the midfoot carry the full visual weight. It is a more demanding design to pull off, and on the Tiempo Maestro's frame, it works.Jordan Brand's entry into football performance footwear is not a recent development, but the Tiempo Maestro collaboration represents its most sustained and visible push into the category yet. The decision to use the Tiempo specifica",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "6ec0374c25a5",
-      "title": "Kids of Immigrants Turn the 2004 Nike Football Boot Into a T90 Summer Mule",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/5/kids-of-immigrants-nike-t90-mule-pack-ih4422-200-ih4422-201-official-images-release-info",
-      "original_publish_time": "2026-05-15T08:44:19+00:00",
-      "scraped_time": "2026-05-15T12:54:12.616130+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 5,
-      "summary": "Name: Kids of Immigrants x Nike T90 Mule “Khaki,” Kids of Immigrants x Nike T90 Mule “Velvet Brown”Colorway: Khaki/Fusion Red-Orange Horizon-University Gold, Velvet Brown/Orange Horizon-Fusion Red-University GoldSKU: IH4422-200, IH4422-201MSRP: $120 USDRelease Date: May 28Where to Buy: SNKRSKids of Immigrants and Nike are releasing the T90 Mule Pack on May 28 via SNKRS, a two-colorway rework of the 2004 Nike Total 90 III that removes the heel entirely and rebuilds what remains as a warm-weather lifestyle shoe. At $120 USD, the pack arrives with “Khaki” and “Velvet Brown” colorways, and represents the Los Angeles brand's second Nike collaboration in less than a year.The Total 90 III occupies an interesting position in Nike's archive. Released in 2004 as a football performance boot, it sat a",
       "ren_take": "",
       "image_url": ""
     }
