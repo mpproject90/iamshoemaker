@@ -1,8 +1,71 @@
 {
-  "last_updated": "2026-05-21T19:16:49.569895+00:00",
-  "total_articles": 125,
+  "last_updated": "2026-05-22T00:18:39.589374+00:00",
+  "total_articles": 123,
   "sources_checked": 61,
   "articles": [
+    {
+      "id": "11f92133b1c0",
+      "title": "The Nike Structure Plus Gets A Lifestyle-Friendly “Monochrome” Pack",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/05/21/nike-structure-plus-mini-swoosh-monochrome-pack/",
+      "original_publish_time": "2026-05-21T21:00:13+00:00",
+      "scraped_time": "2026-05-22T00:06:41.262439+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "midsole",
+        "sole"
+      ],
+      "relevance_score": 4,
+      "summary": "Nike Structure Plus “Monochrome” Pack — Quick Facts Two lifestyle-friendly colorways: Spruce Fog and Summit White, each featuring subtle gradient midsoles. Built with ZoomX and... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Nike Structure Plus Gets A Lifestyle-Friendly \"Monochrome\" Pack appeared first on Sneaker News . The post The Nike Structure Plus Gets A Lifestyle-Friendly “Monochrome” Pack appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "1e638e8f6aea",
+      "title": "Hoka and Ugg Drive Deckers in Strong Q4",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/deckers-brands-deck-q4-2026-earnings-hoka-ugg-1238978239/",
+      "original_publish_time": "2026-05-21T20:47:58+00:00",
+      "scraped_time": "2026-05-22T00:06:29.136007+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Hoka",
+        "UGG"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "Net sales in the fourth quarter of fiscal 2026 increased 9.6 percent to $1.12 billion.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "29fb4f4208e4",
+      "title": "Stone Island Brings a Military Look to One of New Balance’s Newest Lifestyle Sneakers",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/stone-island-new-balance-1890-release-date-1238978068/",
+      "original_publish_time": "2026-05-21T19:45:52+00:00",
+      "scraped_time": "2026-05-22T00:06:29.138808+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "New Balance"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "The 1890 gets two colorways in the brands' latest collaboration.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "7b63178f5008",
       "title": "Louis Vuitton’s Cruise 2027 Shoes Sit Somewhere Between Basketball & Karate Kicks",
@@ -382,6 +445,26 @@
       "keywords_matched": [],
       "relevance_score": 4,
       "summary": "VF Corp.'s speed to market testing has benefited Vans' growth in the Americas DTC business.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "8dc11f63ac86",
+      "title": "Leather and footwear industry seek duty exemptions on critical inputs due to Middle East crisis - MSN",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOMjBDN3pUSTYzamxOZEIwWDZGbUN2Mno4TU1xOEdMRFFaVWZZcmJUN19MZjhKUU5RbGE3WWp4QkZfX0pvUXFCMWRkaDNsM3NrelNKdnVXa3o4NWhYT0Y0OVp4WkJfUE5aeC1nNWV3ekRMME1oNmFoTmtOUG9HRHZmX0JoVEZkMHI1bG5ST1U0STJ6V24yMXNEc0xIdGg1SDgxWEJVYmgtRXQxS0Q5Mmx3aTJwNWVDX1dZbmlzVHkxenotOWZyRk0zOVBBVjkwWnAyTENpZFh5MVZuVndaVlBOb19WU1h2VU5Qa25iSnJ0RGtuTVJo?oc=5",
+      "original_publish_time": "2026-05-20T17:45:47+00:00",
+      "scraped_time": "2026-05-22T00:06:52.126027+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "footwear industry"
+      ],
+      "relevance_score": 6,
+      "summary": "Leather and footwear industry seek duty exemptions on critical inputs due to Middle East crisis MSN",
       "ren_take": "",
       "image_url": ""
     },
@@ -2479,124 +2562,6 @@
       ],
       "relevance_score": 5,
       "summary": "Name: Oracle Red Bull Racing x Crocs Crocband Clog, Oracle Red Bull Racing x Crocs Classic RunnerColorway: MultiSKU: 212707, 213087MSRP: $95 USD, $85 USDRelease Date: May 21Where to Buy: CrocsOracle Red Bull Racing and Crocs are releasing a limited-edition collection on May 21, and the Crocband Clog at its center is one of the more committed pieces of motorsport-to-footwear translation in recent memory. Rather than applying team colors and calling it a day, the design lifts specific engineering details directly from Oracle Red Bull Racing's Formula One car and rebuilds them in foam rubber: rear wing heel, halo detail, miniature driver on the upper surface, wheel-inspired sole elements, aerodynamic body lines, and a mounted front wing above the toe.To understand why this particular collab l",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "69e55d3afa1c",
-      "title": "FAIST Voices: meet DCSI PRO - World Footwear",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Qb2NISW52QkVjUTRSbkVRd3RMR2FZR191ZEtxcUdYcl9kSkRQc0xhN2wtbUh0MTVEd1E2akw2akVTOE9kckdMMVN1UHhycnZQYmtWUmc4ZlE5MFEzbGFzUE5qSGRUdjdhU0t5bFpILWpfcVBIWUpQNFJkZm8?oc=5",
-      "original_publish_time": "2026-05-14T23:04:15+00:00",
-      "scraped_time": "2026-05-15T00:00:45.388254+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "FAIST Voices: meet DCSI PRO World Footwear",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "c0ba1d9c2250",
-      "title": "Boot Barn Marks ‘Record Year’ After Beating Q4 Expectations",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/boot-barn-boot-q4-2026-earnings-record-year-1238955610/",
-      "original_publish_time": "2026-05-14T20:46:03+00:00",
-      "scraped_time": "2026-05-15T00:00:22.095341+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 3,
-      "summary": "Net sales in the quarter increased 18.7 percent to $538.8 million from $453.7 million in the prior-year period.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "cb1283dd7c24",
-      "title": "Analyst: ‘More Cohesive’ Footwear Presentation Seen at Foot Locker, Champs",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/telsey-advisory-group-champs-foot-locker-dicks-adidas-nike-1238955013/",
-      "original_publish_time": "2026-05-14T20:44:28+00:00",
-      "scraped_time": "2026-05-15T00:00:22.098606+00:00",
-      "time_delta_mins": 0,
-      "category": "Quality",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Telsey Advisory Group analyst Cristina Fernández said Champs \"differentiated itself from Foot Locker with an assortment of performance running brands.\"",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "b419cc6ed67f",
-      "title": "Leather Footwear (HS: 6403) Product Trade, Exporters and Importers | The Observatory of Economic Complexity - The Observatory of Economic Complexity",
-      "source_name": "Google News - India Leather",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE00U3ltRjdYMW1jUlZlOVhhTWlUeUJ6Q0RNSDNhSUx1eDNkbnJZUTZxNDJZVDV1MVBSNkYzU1dvNzFRN1M4OW94ZjNlWW56TjJlNDlvMy1iUmg0LVdL?oc=5",
-      "original_publish_time": "2026-05-14T20:15:34+00:00",
-      "scraped_time": "2026-05-16T18:09:43.277205+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Leather Footwear (HS: 6403) Product Trade, Exporters and Importers | The Observatory of Economic Complexity The Observatory of Economic Complexity",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "fe263ff24489",
-      "title": "Adidas Has a New ‘Toy Story’ Collaboration With Buzz Lightyear Sneakers That Actually Light Up",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/toy-story-adidas-adistar-control-5-buzz-lightyear-release-date-la3965-1238955079/",
-      "original_publish_time": "2026-05-14T19:36:57+00:00",
-      "scraped_time": "2026-05-15T00:00:22.099170+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 5,
-      "summary": "A three-sneaker collection is scheduled to be released ahead of \"Toy Story 5.\"",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "280858985ac8",
-      "title": "50 Cent’s G-Unit x Reebok Sneakers Are Making a Comeback This Summer",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/50-cent-g-unit-reebok-sneaker-comeback-1238955500/",
-      "original_publish_time": "2026-05-14T19:31:49+00:00",
-      "scraped_time": "2026-05-15T00:00:22.099707+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Reebok"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 5,
-      "summary": "As confirmed by Tony Yayo.",
       "ren_take": "",
       "image_url": ""
     }
