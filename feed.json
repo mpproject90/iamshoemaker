@@ -1,8 +1,30 @@
 {
-  "last_updated": "2026-05-23T00:26:09.922228+00:00",
-  "total_articles": 130,
+  "last_updated": "2026-05-23T07:35:39.531921+00:00",
+  "total_articles": 133,
   "sources_checked": 62,
   "articles": [
+    {
+      "id": "e2e86bd962ce",
+      "title": "Natalie Portman's All-Black Hoka Sneakers Are the Only Walking Shoes You Need for Summer - instyle.com",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUVF3T1VZeG9TZ2JTY0J0UTlSZ1FGYmI3RlprUFh4UGhuVmFVc1RkbGk0TzRVN2pELXNjT29mQWdOWlNEVGlPSzlFVkhmaE1FU0xIa2lBRDRmcVVhaUYzR1ZDY0pkcVVZQU9RazJaV1lwT0NWbV9iWEU1NVZqbWdKdw?oc=5",
+      "original_publish_time": "2026-05-23T04:30:00+00:00",
+      "scraped_time": "2026-05-23T07:24:51.888623+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Hoka"
+      ],
+      "keywords_matched": [
+        "shoes",
+        "sneakers"
+      ],
+      "relevance_score": 8,
+      "summary": "Natalie Portman's All-Black Hoka Sneakers Are the Only Walking Shoes You Need for Summer instyle.com",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "42aa4d0b3414",
       "title": "New Balance's Brand New Baby Blue Loafer Is Summer Fridays as a Shoe",
@@ -997,6 +1019,25 @@
       "image_url": ""
     },
     {
+      "id": "af089f396a2a",
+      "title": "Leather exports dip 1.6% in FY26 amid US tariffs, West Asia crisis - BusinessLine",
+      "source_name": "Google News - India Leather",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYTl5NFZpbFRUaHgycENrMGs2ZnFRU09VNy1rUEtGQU9lVUlYREpUNkVtVTdMNU1QWDhRUzNVMUJwS1pDZFpUTzN1dmx2cW1KSXluNFRiQy1HY2xnXzFjb1dDcFZZcTltS01PbDMzVEZqVnRBSG9xdFlXa3h4SldrUnB5SFBVb25aY2R6OVRFZExVczJpd3N5dUFfeUM1UEtrdG9XdzVQTGVRV3FxRzgwbDZuT2ZTZUJZYVBGcE1kamtxc05KalFN0gHOAUFVX3lxTE5pTkNmTDNhaGZNM2NKdUw0SjVSNEg0UVFVcVkwOEVDUnhTME5yZC1USnlQNDRRXy1najZYWWVRNExPLWJZengyTWFkRExtelM2NGVrcno5bW5CZkxrQjNKM2JaNVBGeURBSE42YnJfZ2p1WHJtVGxWcVp4RjdrRW5rMkFKRE1IR2w5OU5JNHZnZnFIbnhjd09LWGJjeXVHcnl6bkxuYVQ4UWNERjdGVHc5M01vT1FPSHZ2RlVPbENkVHVwczJuNzR6Yi1KelJB?oc=5",
+      "original_publish_time": "2026-05-20T13:14:54+00:00",
+      "scraped_time": "2026-05-23T07:35:39.503253+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "leather exports"
+      ],
+      "relevance_score": 3,
+      "summary": "Leather exports dip 1.6% in FY26 amid US tariffs, West Asia crisis BusinessLine",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
       "id": "f8631ef4595a",
       "title": "Nike Air Jordan 4 ‘Musik’: Check Release Date, New 23 Branding, Hip-Hop Bling, Colour Details & Where to Buy the Limited Sneaker | Here’s All You Need to Know - The Sunday Guardian",
       "source_name": "Google News - Sneaker Brand",
@@ -1291,6 +1332,25 @@
       ],
       "relevance_score": 3,
       "summary": "SummaryMelbourne-based MAAP and British footwear brand QUOC have reunited to release the limited-edition M3 Pro 'Leopard' road cycling shoeThe design wraps QUOC's race-winning M3 Pro architecture in a striking leopard print, symbolizing raw, instinctive speed and biological efficiencyWeighing in at a featherweight 242 grams, the shoe features a race-grade, unidirectional carbon fiber outsole engineered for uncompromising stiffness and power transferWhen raw instinct collides with race-day performance, every movement matters. Melbourne-based premium cycling apparel brand MAAP has once again joined forces with British footwear innovator QUOC to deliver their most striking collaboration to date: the M3 Pro \"Leopard.\" Built for uncompromising riders operating at maximum intensity, this limited",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "d9e18e0842de",
+      "title": "FAIST Voices: meet Tecmacal - World Footwear",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1kNHd2Y0t2TUlqUmlIOTNtOWlDOGJLWElaRlFzckR3NnlOU0NlaExHMGpER19zMzFPbi04NVJTcTJsZ09icDBkR2JYbFQ4NmNQRlNnMk9ST1RleXpEQ2t5WmVjVUhYdU5PbmswQTVLUzhzNENydTN3N25RUm4?oc=5",
+      "original_publish_time": "2026-05-19T23:01:42+00:00",
+      "scraped_time": "2026-05-23T07:24:51.266379+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "FAIST Voices: meet Tecmacal World Footwear",
       "ren_take": "",
       "image_url": ""
     },
