@@ -1,8 +1,111 @@
 {
-  "last_updated": "2026-05-22T19:06:42.422287+00:00",
-  "total_articles": 128,
-  "sources_checked": 61,
+  "last_updated": "2026-05-23T00:26:09.922228+00:00",
+  "total_articles": 130,
+  "sources_checked": 62,
   "articles": [
+    {
+      "id": "42aa4d0b3414",
+      "title": "New Balance's Brand New Baby Blue Loafer Is Summer Fridays as a Shoe",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/new-balance-1906-2xn-loafer-blue/",
+      "original_publish_time": "2026-05-22T22:44:01+00:00",
+      "scraped_time": "2026-05-23T00:14:19.434280+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "New Balance"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "New Balance's 1906 2XN Loafer is a beautiful baby blue take on one of NB's most classic work shoes.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "324260636e1c",
+      "title": "Jude Bellingham Reveals The adidas Climacool Laced In Solar Red",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/05/22/adidas-climacool-laced-solar-red/",
+      "original_publish_time": "2026-05-22T21:35:17+00:00",
+      "scraped_time": "2026-05-23T00:10:52.755119+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "adidas continues expanding its futuristic footwear vision with a brand new colorway of the adidas Climacool Laced, and the latest reveal arrives courtesy of one... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Jude Bellingham Reveals The adidas Climacool Laced In Solar Red appeared first on Sneaker News . The post Jude Bellingham Reveals The adidas Climacool Laced In Solar Red appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "f7eb6648583c",
+      "title": "Over Being Flat, adidas’ Tokyo Sneaker Becomes a Thicc Runner",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/adidas-tokyo-contempo/",
+      "original_publish_time": "2026-05-22T21:05:29+00:00",
+      "scraped_time": "2026-05-23T00:14:19.435243+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "sole"
+      ],
+      "relevance_score": 3,
+      "summary": "Meet the adidas Tokyo Contempo, a thick-soled, runner version of the flat retro-sporty sneaker.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "787bba144b51",
+      "title": "Outdoor Sports Participation Growth Bodes Well for Footwear Industry",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/outdoor-sports-pickleball-climbing-soccer-sneakers-cleats-1238979527/",
+      "original_publish_time": "2026-05-22T19:52:16+00:00",
+      "scraped_time": "2026-05-23T00:10:41.286793+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "shoes",
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "Pickleball, climbing and soccer are among the top growth sports, paving the way for demand in sneakers, performance shoes and lcleats.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "fc53cc988b6b",
+      "title": "How Baron Davis Plans to Disrupt the Sneaker Industry - Sole Retriever",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMktod3htX0xnc1VuZW1YUG5wZW5YRjN4S1lHdmEtRll0MDJOV1poQlExQm95QWprSGlWQ0xxNFY4ZkFkWGtab0swekFlUXEtODlUMHBRZ2cyUXVVSmQ5SHdnZHRHYXRUX0FDNTQ3Rk5yaXR4ZmdCWllMejZnNE4wbFVRbThnZEtiQlYtWFExcXJCNjFLQkpvbGhkbl9ZRjh6bGptOGt3cHlNMVU?oc=5",
+      "original_publish_time": "2026-05-22T19:00:43+00:00",
+      "scraped_time": "2026-05-23T00:11:03.744334+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sole"
+      ],
+      "relevance_score": 3,
+      "summary": "How Baron Davis Plans to Disrupt the Sneaker Industry Sole Retriever",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "6033fa75bafd",
       "title": "Birkenstock Shares Rise on $250 Million Share Buyback",
@@ -105,6 +208,26 @@
       ],
       "relevance_score": 3,
       "summary": "All-Star Weekend always makes for a can’t-miss event when it comes to footwear, but this year’s celebration in Inglewood far surpassed anything we could’ve predicted.... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Air Jordan 3 \"Red Flip\" Releasing in 2027 For Super Bowl Weekend appeared first on Sneaker News . The post Air Jordan 3 “Red Flip” Releasing in 2027 For Super Bowl Weekend appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "7efee13e62b1",
+      "title": "Gucci & Louis Vuitton Take Over NYC & Warby Parker's Specs Go Smart With Google in This Week's Top Fashion News",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/5/gucci-louis-vuitton-cruise-nyc-shows-chanel-palace-china-bad-bunny-zara-info",
+      "original_publish_time": "2026-05-22T16:04:21+00:00",
+      "scraped_time": "2026-05-23T00:10:52.614714+00:00",
+      "time_delta_mins": 0,
+      "category": "Quality",
+      "brands_mentioned": [
+        "Gucci",
+        "Hermès"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "SummaryPowered by Matthieu Blazy, Chanel posted record 2025 revenue gains, while Gucci took over Times Square to debut its \"GucciCore\" collection.Grace Wales Bonner added John‑Gabriel Harrison of A.P.C. to Hermès’ menswear team, and Bad Bunny dropped a massive 150-piece collection with Zara.Palace Skateboards designed a garden-inspired flagship in Shanghai, while Warby Parker collaborated with tech giants Google and Samsung on intelligent eyewear.Demna Takes Over Times Square With the Debut of \"GucciCore\" for Cruise 2027Gucci staged an ambitious takeover of New York City's Times Square to debut its Cruise 2027 collection, dubbed \"GucciCore.\" Marking over 70 years since the house established its first international storefront in Manhattan, creative director Demna used the iconic plaza’s dig",
       "ren_take": "",
       "image_url": ""
     },
@@ -1438,6 +1561,25 @@
       "image_url": ""
     },
     {
+      "id": "00f718fc98e2",
+      "title": "Your Dingy White Sneakers Can Look Brand New Again. Here's Your 7-Step Routine - CNET",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObU5GUUxJejNuLUd4RnVhdEJzQ0FWb0dkTTdOZUx5ZzExR0p3M040QWVxTGFNRXlaTFIyVnBJcXBKU2Z5S2dVejBnb3ZxSGtoMENjamd2bHdGeWtvejV0QUU1WGFGS0hyZndwT0Fld2g2aUU2THRXMDNzTjVSbmk4UkhUbXIxd1MxRUIyOHRiVWx5Q0ZzN0Q2RnlRNF9vQW44aGxkRlM5N0ItaXhWSy12dWJKMDRkdE9HdHNV?oc=5",
+      "original_publish_time": "2026-05-19T14:01:00+00:00",
+      "scraped_time": "2026-05-23T00:11:04.422483+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "Your Dingy White Sneakers Can Look Brand New Again. Here's Your 7-Step Routine CNET",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
       "id": "104433d41b52",
       "title": "Indian Apparel Exports Fall 11.66% Despite 3.59% Growth in Textile Shipments",
       "source_name": "Apparel Resources",
@@ -2432,6 +2574,25 @@
       "image_url": ""
     },
     {
+      "id": "f5a1af744349",
+      "title": "Embassy Hosts India–Romania Hybrid B2B Event on Leather & Footwear - The Indian Panorama",
+      "source_name": "Google News - India Leather",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU3FuZEN0WUVicGhEZ1NrQXE2ek54N0RteTNlQW9LWVY5a1dxUWMyamh2N2ktVVd5cnI2bEd6a0lzclhkMUUwaE1pNzlCMk81bUVtdWFqb2NQT2hyYzMzcDFmWFYwdFdKYUlzNm9QR1lJa2gxeV9KQVdQc2lUWjJtVzZHSms2d3BtZ0Fnb0s4VmxkYjFHaktZSTFMdEpsLThQNEE?oc=5",
+      "original_publish_time": "2026-05-17T12:32:28+00:00",
+      "scraped_time": "2026-05-23T00:26:09.903381+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Embassy Hosts India–Romania Hybrid B2B Event on Leather & Footwear The Indian Panorama",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
       "id": "922478e4d389",
       "title": "Stepping Into Quality: India's New Footwear Testing Lab Boosts Industry Standards - Devdiscourse",
       "source_name": "Google News - Footwear Industry",
@@ -2528,128 +2689,6 @@
       ],
       "relevance_score": 3,
       "summary": "Feng Tay Enterprises stock (TW0009910000): footwear supplier in focus after recent update for invest AD HOC NEWS",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "fca0a9156c2d",
-      "title": "New Balance’s Silver Dad Sandal Is a Natural-Born Summer Stunner",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/new-balance-9060-summer-mule-silver-metallic/",
-      "original_publish_time": "2026-05-15T21:41:46+00:00",
-      "scraped_time": "2026-05-16T00:00:48.128167+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "New Balance"
-      ],
-      "keywords_matched": [
-        "sandal"
-      ],
-      "relevance_score": 5,
-      "summary": "New Balance's 9060 Summer sneaker-sandal just got shinier, thanks to a new \"Metallic Silver\" makeover.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "5756aa275dac",
-      "title": "adidas’ Slimmed-Out Sneaker Has Never Looked More Cutesy",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/adidas-anfu-satin/",
-      "original_publish_time": "2026-05-15T21:38:16+00:00",
-      "scraped_time": "2026-05-16T00:00:48.128820+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "The adidas Anfu sneaker gets its cutest makeover yet, complete with satin uppers & bow patterns. Here's everything on the pretty model.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "c440191515d1",
-      "title": "Nike's Vibram-Soled Air Force 1 Looks Good Even When It's Feeling Grey",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-air-force-1-vibram-bomber-grey/",
-      "original_publish_time": "2026-05-15T21:34:36+00:00",
-      "scraped_time": "2026-05-16T00:00:48.129524+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike",
-        "Vibram"
-      ],
-      "keywords_matched": [
-        "sole"
-      ],
-      "relevance_score": 7,
-      "summary": "Nike's Air Force 1 Low Vibram sneaker lands in a new \"Bomber Grey\" colorway, which joins other options like \"Pencil Point\" & \"Summit White.\"",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "5cf04f586896",
-      "title": "Where To Buy The Air Jordan 3 “Brazil”",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/05/15/air-jordan-3-brazil/",
-      "original_publish_time": "2026-05-15T20:00:34+00:00",
-      "scraped_time": "2026-05-15T23:57:12.469535+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike",
-        "Jordan"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "The centerpiece of a landmark kit collection for the 2026 FIFA World Cup, the Air Jordan 3 “Brazil” releases May 16th via Nike SNKRS and... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Where To Buy The Air Jordan 3 \"Brazil\" appeared first on Sneaker News . The post Where To Buy The Air Jordan 3 “Brazil” appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "e5e070480fa0",
-      "title": "Boot Barn Has Strong New Store Pipeline",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/boot-barn-1200-locations-us-stores-same-store-sales-1238956821/",
-      "original_publish_time": "2026-05-15T19:51:06+00:00",
-      "scraped_time": "2026-05-15T23:57:00.771878+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 3,
-      "summary": "Boot Barn has a long-term target of 1,200 locations across the U.S.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "d3108a89d54b",
-      "title": "Shakira Does Denim on Denim With Dramatic Jeffrey Campbell  Boots to Announce Her FIFA World Cup Final Halftime Show",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-trends/shakira-jeffrey-campbell-boots-fifa-world-cup-halftime-show-1238956995/",
-      "original_publish_time": "2026-05-15T19:32:24+00:00",
-      "scraped_time": "2026-05-15T23:57:00.775589+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 3,
-      "summary": "The boots featured a six-inch spool heel.",
       "ren_take": "",
       "image_url": ""
     }
