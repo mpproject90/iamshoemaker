@@ -1,6 +1,107 @@
 {
-  "last_updated": "2026-05-17T09:49:52.567471+00:00",
+  "last_updated": "2026-05-24T09:58:20.106245+00:00",
   "bulletins": [
+    {
+      "id": "wk21-2026",
+      "week_number": 21,
+      "year": 2026,
+      "date_from": "2026-05-18",
+      "date_to": "2026-05-24",
+      "published": "2026-05-24T09:58:20.105912+00:00",
+      "intro": "Week 21 was light on macroeconomic shocks but heavy on material and design signals worth tracking. The persistent pull toward leather-forward lifestyle product — from Timberland loafers to ALD hairy suede — tells a story about where premium casual is heading heading into H2 planning cycles. Meanwhile, a quiet but consequential story out of the leather and footwear industry on duty exemptions deserves more attention than it is getting.",
+      "articles": [
+        {
+          "title": "Natalie Portman's All-Black Hoka Sneakers Are the Only Walking Shoes You Need for Summer - instyle.com",
+          "source_name": "Google News - Sneaker Brand",
+          "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUVF3T1VZeG9TZ2JTY0J0UTlSZ1FGYmI3RlprUFh4UGhuVmFVc1RkbGk0TzRVN2pELXNjT29mQWdOWlNEVGlPSzlFVkhmaE1FU0xIa2lBRDRmcVVhaUYzR1ZDY0pkcVVZQU9RazJaV1lwT0NWbV9iWEU1NVZqbWdKdw?oc=5",
+          "category": "Supply Chain",
+          "relevance_score": 8,
+          "original_publish_time": "2026-05-23T04:30:00+00:00",
+          "misaki_take": "Celebrity placement in a performance-adjacent silhouette is one of the most cost-efficient brand signals Hoka can run — it converts wellness credibility into fashion credibility without touching the product spec or the FOB. The downstream effect for sourcing teams is that demand volatility on core Hoka SKUs tends to spike 6–10 weeks after this kind of editorial cycle, so allocation conversations with your factories should already be happening."
+        },
+        {
+          "title": "Timberland’s Authentic Loafer Is Worth Considering",
+          "source_name": "Hypebeast",
+          "source_url": "https://hypebeast.com/2026/5/timberland-authentic-loafer-burgundy-black-a2mscw02-a2msceiw-release-info",
+          "category": "Quality",
+          "relevance_score": 8,
+          "original_publish_time": "2026-05-21T07:53:37+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "Patent Leather And Cork Insoles Define This Lifestyle-Focused Nike SB Dunk Low",
+          "source_name": "Sneaker News",
+          "source_url": "https://sneakernews.com/2026/05/18/nike-sb-dunk-low-green-patent-cork-iq0431-300/",
+          "category": "Leather",
+          "relevance_score": 8,
+          "original_publish_time": "2026-05-18T16:30:30+00:00",
+          "misaki_take": "Patent leather on a skate silhouette is a material choice that exists entirely outside functional performance logic — it is a collector signal, and Nike SB knows exactly what it is doing by pairing it with cork, a component that reads artisanal without adding meaningful cost at scale. The real note here for product developers is that combining one heritage material with one premium-feeling but low-cost component is a proven formula for collector premiumization that does not break BOM."
+        },
+        {
+          "title": "The Aimé Leon Dore x New Balance Gator “Cream” Disguises a Queens Crest in Hairy Suede",
+          "source_name": "Hypebeast",
+          "source_url": "https://hypebeast.com/2026/5/aime-leon-dore-ald-new-balance-gator-cream-official-images",
+          "category": "Leather",
+          "relevance_score": 7,
+          "original_publish_time": "2026-05-18T08:59:12+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "The Nike SB Air Max Ishod Serves Up a \"Tennis Ball\" Colorway",
+          "source_name": "Hypebeast",
+          "source_url": "https://hypebeast.com/2026/5/nike-sb-air-max-ishod-tennis-ball-volt-volt-black-black-ib6212-701-release-info",
+          "category": "Leather",
+          "relevance_score": 6,
+          "original_publish_time": "2026-05-22T09:58:03+00:00",
+          "misaki_take": "Mesh and suede panel construction in a high-visibility colorway is a low tooling cost, high visual impact move — Nike is not spending on new materials here, it is spending on color and athlete equity. For competitors benchmarking against Nike SB's pricing architecture, the $125 MSRP on a mixed-material skate silhouette with Air cushioning sets a floor that is very difficult to undercut without compromising either the cushioning platform or the upper material grade."
+        },
+        {
+          "title": "Louis Vuitton’s Cruise 2027 Shoes Sit Somewhere Between Basketball & Karate Kicks",
+          "source_name": "Hypebeast",
+          "source_url": "https://hypebeast.com/2026/5/louis-vuitton-cruise-2027-shoes-release-date-info",
+          "category": "Retail",
+          "relevance_score": 6,
+          "original_publish_time": "2026-05-21T18:16:42+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "Fast Food Meets Footwear: Devin Booker and Nike Serve up the McDonald’s Book 2 \"Sedona\" With a F&F Edition",
+          "source_name": "Hypebeast",
+          "source_url": "https://hypebeast.com/2026/5/mcdonalds-nike-book-2-sedona-friends-family-turquoise-edition-devin-booker-collab-release-info",
+          "category": "Brand News",
+          "relevance_score": 6,
+          "original_publish_time": "2026-05-21T07:31:01+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "Leather and footwear industry seek duty exemptions on critical inputs due to Middle East crisis - MSN",
+          "source_name": "Google News - Footwear Industry",
+          "source_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOMjBDN3pUSTYzamxOZEIwWDZGbUN2Mno4TU1xOEdMRFFaVWZZcmJUN19MZjhKUU5RbGE3WWp4QkZfX0pvUXFCMWRkaDNsM3NrelNKdnVXa3o4NWhYT0Y0OVp4WkJfUE5aeC1nNWV3ekRMME1oNmFoTmtOUG9HRHZmX0JoVEZkMHI1bG5ST1U0STJ6V24yMXNEc0xIdGg1SDgxWEJVYmgtRXQxS0Q5Mmx3aTJwNWVDX1dZbmlzVHkxenotOWZyRk0zOVBBVjkwWnAyTENpZFh5MVZuVndaVlBOb19WU1h2VU5Qa25iSnJ0RGtuTVJo?oc=5",
+          "category": "Leather",
+          "relevance_score": 6,
+          "original_publish_time": "2026-05-20T17:45:47+00:00",
+          "misaki_take": "Duty exemption requests on critical inputs are almost always a lagging indicator — by the time an industry coalition is formally petitioning, the margin compression has already been absorbed for one or two quarters and factories are either cutting corners or canceling orders. Sourcing managers should be treating this as a direct signal to audit their leather and chemical input exposure in affected corridors and build contingency sourcing scenarios now, not after the exemptions are granted or denied."
+        },
+        {
+          "title": "Anna SUI Gives Converse’s All Star Hi-Top a Gothic Romantic Twist",
+          "source_name": "Hypebeast",
+          "source_url": "https://hypebeast.com/2026/5/anna-sui-converse-all-star-aged-hi-black-purple-31318040-release-info",
+          "category": "Brand News",
+          "relevance_score": 6,
+          "original_publish_time": "2026-05-20T09:29:11+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "Crocs Go Punk in New Footwear Collab With Andersson Bell",
+          "source_name": "Hypebeast",
+          "source_url": "https://hypebeast.com/2026/5/andersson-bell-crocs-rebel-rebel-collection-classic-clog-bae-clog-release-info",
+          "category": "Trade Data",
+          "relevance_score": 6,
+          "original_publish_time": "2026-05-18T09:54:41+00:00",
+          "misaki_take": "Crocs collaborating with a Korean streetwear label at ¥18,700–¥22,000 JPY is a market-specific premiumization strategy — they are using the Asian specialty retail channel to establish a price ceiling that their core Western mass-market positioning cannot reach alone. The EVA tooling cost on a Classic Clog does not change meaningfully between a standard release and a collab edition, which means the margin on these SKUs at that price point is exceptional and validates why Crocs continues to invest in this collaboration cadence."
+        }
+      ]
+    },
     {
       "id": "wk20-2026",
       "week_number": 20,
