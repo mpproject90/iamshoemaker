@@ -1,8 +1,27 @@
 {
-  "last_updated": "2026-05-25T09:01:53.637822+00:00",
-  "total_articles": 123,
+  "last_updated": "2026-05-25T14:19:34.350583+00:00",
+  "total_articles": 119,
   "sources_checked": 61,
   "articles": [
+    {
+      "id": "61c5b973b2e0",
+      "title": "Yoho Secures Fresh Funding to Expand Offline Retail, Performance Footwear Business",
+      "source_name": "Apparel Resources",
+      "source_domain": "apparelresources.com",
+      "source_url": "https://apparelresources.com/business-news/retail/yoho-secures-fresh-funding-expand-offline-retail-performance-footwear-business/",
+      "original_publish_time": "2026-05-25T12:29:51+00:00",
+      "scraped_time": "2026-05-25T14:12:19.209108+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Delhi-based footwear start-up Yoho has raised fresh funding from a combination of new and existing investors as the company seeks to strengthen its offline retail presence and expand its footprint in India’s growing performance footwear market. The company had earlier raised Rs. 27 crore (US $2.83 million) in a Pre-Series A funding round in 2022, […] The post Yoho Secures Fresh Funding to Expand Offline Retail, Performance Footwear Business appeared first on Apparel Resources .",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "12da29ea94fb",
       "title": "Loafers as comfortable as sneakers: Hybrid shoes become fashion's latest obsession - The Korea Times",
@@ -205,6 +224,27 @@
       ],
       "relevance_score": 4,
       "summary": "Name: Air Jordan 15 \"Black Muslin\"Colorway: Muslin/BlackSKU: IV7637-100MSRP: $255 USDRelease Date: June 6, 2026Where to Buy: NikeGet ready for the return of one of the most debated silhouettes in sneaker history. As Jordan Brand continues to aggressively dig into its deep retro catalog, the Jumpman is bringing the unconventional Air Jordan 15 back into the spotlight. Set to arrive in a versatile, slightly aged \"Black Muslin\" colorway, this 2026 release aims to reintroduce the polarizing, hyper-futuristic model to a brand-new generation of collectors while offering a slightly modernized, more wearable update for longtime fans of the brand.When the Air Jordan 15 first debuted, it completely shattered traditional basketball footwear design language. Masterminded by legendary designer Tinker H",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "084681cc2aea",
+      "title": "Nike and Zellerfeld Unveil the 3D-Printed AIRMAX 1000.2 in \"Black/Hyper Crimson\"",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/5/zellerfeld-nike-airmax-1000-2-black-hyper-crimson-raffle-release-info",
+      "original_publish_time": "2026-05-23T15:26:40+00:00",
+      "scraped_time": "2026-05-25T14:08:39.178016+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "SummaryNike and 3D-printing pioneer Zellerfeld are continuing their revolutionary footwear project with the release of the AIRMAX 1000.2 in \"Black/Hyper Crimson\"Marking the third printed launch in just three months, this model pushes the boundaries of software, material innovation, and computational geometryThe silhouette reimagines the classic 1987 Air Max 1 as a fully 3D-printed, laceless slip-on, featuring a sleek black base with vibrant crimson accentsNike and Zellerfeld are keeping their foot firmly on the gas. Building off the incredible momentum of their fully 3D-printed footwear franchise, the innovative duo has officially announced the AIRMAX 1000.2 in a striking \"Black/Hyper Crimson\" colorway. Arriving as the third printed launch in a span of just three months, this highly antici",
       "ren_take": "",
       "image_url": ""
     },
@@ -2417,135 +2457,6 @@
       "keywords_matched": [],
       "relevance_score": 3,
       "summary": "A recent whiff around the Boston Marathon is indicative of the brand’s struggles to pull off aspirational messaging it once executed with rare finesse.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "e3072db30854",
-      "title": "Wales Bonner & Y-3's \"Lizzard\" Sneaker Distils the Genius of adidas' Sharpest Minds",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/wales-bonners-y-3-adidas-field-lizzard-sneaker/",
-      "original_publish_time": "2026-05-18T14:17:34+00:00",
-      "scraped_time": "2026-05-18T14:34:26.601340+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "Sambas? Nah, Wales Bonner has moved onto \"Field Lizzard\" sneakers and enlisted the help of Y-3. That's adidas' two best collaborators working on the same shoe.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "cde5cda7e84d",
-      "title": "Nike Debuts the Moon Shoe OG in a Regal “Malachite” Colorway",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/5/nike-moon-shoe-og-malachite-iw0955-300-official-images",
-      "original_publish_time": "2026-05-18T13:56:01+00:00",
-      "scraped_time": "2026-05-18T14:30:54.434893+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "outsole",
-        "sole",
-        "upper"
-      ],
-      "relevance_score": 5,
-      "summary": "Name: Nike Moon Shoe OG “Malachite”Colorway: Malachite/Soft Pearl/Gum Light BrownSKU: IW0955-300MSRP: $105 USDRelease Date: TBCNike is bringing back the Moon Shoe OG in a \"Malachite/Soft Pearl/Gum Light Brown\" colorway, reportedly priced at $105 USD. The drop marks another chapter in Nike's ongoing effort to keep its oldest and most foundational silhouette in active rotation.The colorway does the shoe justice. Malachite — a deep, mineral green with genuine visual weight — leads the upper, set against Soft Pearl accents that keep the palette from tipping into anything too aggressive. A Gum Light Brown outsole closes things out, grounding the build in the kind of natural warmth that makes the Moon Shoe read as timeless rather than retro. It is a combination that feels considered without bein",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "6d5c18bba22e",
-      "title": "Air Jordan Ultra Gets Stealthy in \"Iron Grey\"",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/5/air-jordan-ultra-iron-grey-black-ii3794-003-release-info",
-      "original_publish_time": "2026-05-18T12:56:37+00:00",
-      "scraped_time": "2026-05-19T08:19:31.018446+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Jordan"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 4,
-      "summary": "Name: Air Jordan Ultra \"Iron Grey/Black\"Colorway: Iron Grey/Black/Obsidian/Picante RedSKU: II3794-003Retail Price: $140 USDRelease Date: July 2026Where to Buy: NikeJordan Brand is continuing to redefine its off-court identity with a sleek new addition to its lifestyle catalog. Following the success of modern, everyday silhouettes like the Air Jordan 4 RM and the MVP 92, the Jumpman is gearing up to release the Air Jordan Ultra in a highly versatile \"Iron Grey\" colorway. Designed to blend the unmistakable DNA of past classics with a smart, modernized structure, the upcoming release provides a dark-toned, urban-ready option for the Fall 2026 season.The Air Jordan Ultra answers the question of what happens when you reimagine the brand's most iconic footwear elements for effortless, everyday w",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "83c9ad2f9ae1",
-      "title": "Crocs Go Punk in New Footwear Collab With Andersson Bell",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/5/andersson-bell-crocs-rebel-rebel-collection-classic-clog-bae-clog-release-info",
-      "original_publish_time": "2026-05-18T09:54:41+00:00",
-      "scraped_time": "2026-05-18T14:30:54.441177+00:00",
-      "time_delta_mins": 0,
-      "category": "Trade Data",
-      "brands_mentioned": [
-        "Crocs"
-      ],
-      "keywords_matched": [
-        "footwear",
-        "sole"
-      ],
-      "relevance_score": 6,
-      "summary": "Name: Andersson Bell x Crocs Classic Clog, Bae ClogColorway: BlackSKU: 212488-001, 212978-001MSRP: ¥18,700 - ¥22,000 JPY (approx. $118 - $139 USD )Release Date: May 19 Where to Buy: Andersson Bell, CrocsAndersson Bell has teamed up with Crocs for a footwear collaboration infused with a reimagined punk aesthetic. Centering on a \"REBEL REBEL” theme, the collection first debuted as part of Andersson Bell's Spring/Summer 2026 runway. The collaboration features two triple‑black styles - the Classic Clog and the Bae Clog - both elevated with bold hardware and rebellious accents.As for the Bae Clog, the collaborative variant is built on a chunky platform sole, with its design emphasizing volume and attitude that exudes a hard-edged rocker vibe with a twist . Silver accessories, oversized buckles ",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "38daff2dfc2b",
-      "title": "Official Images of the Vibram x Nike Air Force 1 Low “Bomber Grey”",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/5/vibram-nike-air-force-1-low-barely-grey-city-grey-bomber-grey-speed-yellow-ih1943-002-official-imges",
-      "original_publish_time": "2026-05-18T09:43:12+00:00",
-      "scraped_time": "2026-05-18T14:30:54.443244+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Nike",
-        "Vibram"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 4,
-      "summary": "Name: Vibram x Nike Air Force 1 Low “Bomber Grey”Colorway: Barely Grey/City Grey/Bomber Grey/Speed YellowSKU: IH1943-002MSRP: $140 USDRelease Date: Summer 2026Following the previous reveal of the tactical Vibram x Nike Air Force 1 Low partnership - which initially introduced the \"Pencil Point,\" \"Summit White\" and \"Silt Red\" iterations - official images have emerged for a new colorway to the lineup: “Bomber Grey.”This latest iteration embraces an industrial, monochromatic palette, dressing the AF1 in layered tones of \"Barely Grey\" and \"City Grey,\" combining smooth leather panels with perforated detailing across the toe box and quarters. Branding remains subtle, with tonal Swooshes on the sides and Nike Air logos on the tongue and heel tab, maintaining the AF1’s heritage identity while empha",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "7dd6a89a40d8",
-      "title": "shoezone launches on TikTok Shop as retailer targets social-first growth",
-      "source_name": "Retail Gazette",
-      "source_domain": "retailgazette.co.uk",
-      "source_url": "https://www.retailgazette.co.uk/blog/2026/05/shoezone-tiktok-shop-retailer-social-first-growth/",
-      "original_publish_time": "2026-05-18T09:37:16+00:00",
-      "scraped_time": "2026-05-18T14:33:55.015532+00:00",
-      "time_delta_mins": 0,
-      "category": "Trade Data",
-      "brands_mentioned": [
-        "Puma"
-      ],
-      "keywords_matched": [
-        "footwear",
-        "sole"
-      ],
-      "relevance_score": 3,
-      "summary": "shoezone has launched on TikTok Shop as the footwear retailer steps up its social commerce strategy. The retailer said the move will allow creators to link directly to products through TikTok Shop, connecting trend-led social content with product conversion. shoezone joins footwear brands including Puma, Soletrader and EGO on the platform, as it looks to...",
       "ren_take": "",
       "image_url": ""
     }
