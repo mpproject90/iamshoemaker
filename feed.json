@@ -1,8 +1,29 @@
 {
-  "last_updated": "2026-05-24T18:08:24.287407+00:00",
-  "total_articles": 131,
-  "sources_checked": 62,
+  "last_updated": "2026-05-25T00:19:12.631086+00:00",
+  "total_articles": 130,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "f95f58722220",
+      "title": "Nike’s ACG Air Max Boot Is Good. The Rugged Sneaker Spin-Off Is Even Better",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-air-max-goadome-low-black-shoes/",
+      "original_publish_time": "2026-05-24T18:09:41+00:00",
+      "scraped_time": "2026-05-25T00:07:30.172882+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 7,
+      "summary": "Nike's Air Max Goadome Low is back with some extra rugged updates. Here's everything on the new & improved low-top model.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "ce54eecb4a94",
       "title": "DBL Group hosts VF Corporation executive at manufacturing facilities",
@@ -2672,45 +2693,6 @@
       ],
       "relevance_score": 3,
       "summary": "Grimoldi S.A. stock (ARGRIM010246): Argentine footwear group adjusts capital structure amid challeng AD HOC NEWS",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "a782444c54f1",
-      "title": "Crocs Put Its Most Stylish Trail Sneaker in Drive",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/crocs-quick-trail-racer/",
-      "original_publish_time": "2026-05-17T19:37:57+00:00",
-      "scraped_time": "2026-05-18T00:03:18.070948+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Crocs"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "Crocs debuts the Quick Trail Racer, an even sportier outdoor model featuring extra rugged touches & stylish colorways.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "370e3aef6bf2",
-      "title": "adidas Designed Luxed-Up Superstar “Birks”",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/adidas-adimule-superstar/",
-      "original_publish_time": "2026-05-17T19:37:04+00:00",
-      "scraped_time": "2026-05-18T00:03:18.071582+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Adidas",
-        "Birkenstock"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "The adidas Adimule Superstar is the latest Birkenstock-coded clog featuring shell toes & studded details.",
       "ren_take": "",
       "image_url": ""
     }
