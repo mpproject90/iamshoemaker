@@ -1,8 +1,149 @@
 {
-  "last_updated": "2026-05-26T14:05:42.804045+00:00",
-  "total_articles": 110,
+  "last_updated": "2026-05-26T19:31:16.511431+00:00",
+  "total_articles": 107,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "2f4805a41339",
+      "title": "The Raging Return of Nike’s Fieriest Jordan Sneaker",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/jordan-4-toro-bravo-sneakers-2026/",
+      "original_publish_time": "2026-05-26T18:06:11+00:00",
+      "scraped_time": "2026-05-26T19:19:35.083069+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "The Air Jordan 4 \"Toro Bravo\" sneaker returns in its iconic \"Fire Red\" color scheme 13 years after its debut.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "623851de4920",
+      "title": "Michael Jordan’s Last Chicago Bulls Sneakers Are Getting a New Makeover for Valentine’s Day",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/air-jordan-14-retro-low-valentines-day-release-date-ix5170-600-1238981770/",
+      "original_publish_time": "2026-05-26T17:49:53+00:00",
+      "scraped_time": "2026-05-26T19:15:49.067489+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Jordan"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "Early details on the Air Jordan 14 Retro Low expected in early 2027.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "ceb2fbec04ce",
+      "title": "Next Up In A Ma Maniére’s Generational Run Of Collabs: The Nike Pegasus Premium",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/05/26/a-ma-maniere-nike-pegasus-premium/",
+      "original_publish_time": "2026-05-26T17:44:35+00:00",
+      "scraped_time": "2026-05-26T19:16:00.951325+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Nike",
+        "Adidas",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "A Ma Maniére simply refuses to slow down. Between an aggressive slate of collaborations spanning Nike, Jordan Brand, and adidas throughout 2026, the Atlanta-based boutique... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Next Up In A Ma Maniére's Generational Run Of Collabs: The Nike Pegasus Premium appeared first on Sneaker News . The post Next Up In A Ma Maniére’s Generational Run Of Collabs: The Nike Pegasus Premium appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "779efe754388",
+      "title": "Spanish Shoe Brand Alohas Continues U.S. Store Expansion With Two New Locations",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/alohas-store-expansion-plans-ceo-interview-1238981754/",
+      "original_publish_time": "2026-05-26T17:40:53+00:00",
+      "scraped_time": "2026-05-26T19:15:49.070241+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoe brand"
+      ],
+      "relevance_score": 3,
+      "summary": "The company has opened its second store in New York City and its first pop-up in Los Angeles.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "b8abdcaa7526",
+      "title": "Official Images Of The Air Jordan 1 Low OG “Sail”",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/05/26/air-jordan-1-low-og-sail-hq6998-100-release-date/",
+      "original_publish_time": "2026-05-26T17:00:57+00:00",
+      "scraped_time": "2026-05-26T19:16:00.953869+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Off-White",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "The right pair of all-whites is a must for any sneakerhead come summertime, but various moves across the industry have made hits of off-white a... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Official Images Of The Air Jordan 1 Low OG \"Sail\" appeared first on Sneaker News . The post Official Images Of The Air Jordan 1 Low OG “Sail” appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "2582413357c7",
+      "title": "The Nike KD 19 “Bubble Gum Bounce” Is Ready To Pop",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/05/26/nike-kd-19-bubble-gum-bounce-ih1118-600/",
+      "original_publish_time": "2026-05-26T16:30:32+00:00",
+      "scraped_time": "2026-05-26T19:16:00.955394+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "Kevin Durant’s longstanding “Aunt Pearl” series has made the future Hall of Famer synonymous with pink basketball sneakers, but this upcoming Nike KD 19 has... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Nike KD 19 \"Bubble Gum Bounce\" Is Ready To Pop appeared first on Sneaker News . The post The Nike KD 19 “Bubble Gum Bounce” Is Ready To Pop appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "a23d7277ea5a",
+      "title": "The Best Celebrity Shoes on the 2026 American Music Awards Red Carpet",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-trends/shoes-american-music-awards-2026-red-carpet-1238981064/",
+      "original_publish_time": "2026-05-26T15:56:23+00:00",
+      "scraped_time": "2026-05-26T19:15:49.070900+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "Teyana Taylor, Nikki Glaser and more of the best shoe moments.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "3bb4834ece82",
       "title": "Nike’s Mercurial Superfly 11 Elite Ditches the High-Top Look",
@@ -2079,209 +2220,6 @@
       ],
       "relevance_score": 5,
       "summary": "Everyone’s Buying the Same New Balance Sneakers. Try These Instead GQ",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "7980dc711865",
-      "title": "Ronnie Fieg Teases Kith x Lionel Messi x adidas Football Jerseys",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/5/ronnie-fieg-teases-kith-lionel-messi-adidas-football-argentina-jerseys",
-      "original_publish_time": "2026-05-19T18:46:46+00:00",
-      "scraped_time": "2026-05-20T08:19:08.051296+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "SummaryKith founder Ronnie Fieg has officially teased an upcoming collaboration featuring Lionel Messi and adidas FootballThe teaser points toward a premium capsule collection that will seamlessly blend Kith's elevated lifestyle aesthetic with the global appeal of the football legendWhile the exact product lineup remains tightly under wraps, fans are already anticipating custom footwear, premium tracksuits, and potentially a special-edition bespoke kitWhen Ronnie Fieg drops a teaser, the streetwear world stops and pays attention. But when that teaser involves the greatest football player of all time, the hype reaches an entirely different stratosphere. The Kith founder recently took to social media to give fans a cryptic but thrilling sneak peek at a massive three-way collaboration: Kith x",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "c5f9576e6a81",
-      "title": "Lola Tung Is Back With Foot Locker and Adidas in New Spring Campaign",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-trends/lola-tung-foot-locker-adidas-spring-campaign-1238973297/",
-      "original_publish_time": "2026-05-19T18:45:15+00:00",
-      "scraped_time": "2026-05-19T18:57:49.475228+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "The campaign shot in New York features several Adidas Originals footwear styles and more pieces.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "7e61c045851a",
-      "title": "Product Profile- Leather Industry - indiabusinesstrade.in",
-      "source_name": "Google News - Leather Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Nc1RpcFB2ajNfN29RQk1VVjFvZzlGQURfY2RHTTQ0RVozb0hCZ0M1NlUxUTRaejRrLUt3azZMTzNDTmU5OGxIZzdvZlRHZ05iRTN3V2pxc1BHYzlsdUxiOXJWQWMwR3RFYXBIN0V5dFNvNVd0b3c?oc=5",
-      "original_publish_time": "2026-05-19T18:41:29+00:00",
-      "scraped_time": "2026-05-20T13:40:03.317094+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "leather industry"
-      ],
-      "relevance_score": 3,
-      "summary": "Product Profile- Leather Industry indiabusinesstrade.in",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "0dd01bdd116f",
-      "title": "ASICS’ Strappy Dad Sandal Nails Summer With Ease",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/asics-gel-filimy-sandals/",
-      "original_publish_time": "2026-05-19T18:34:57+00:00",
-      "scraped_time": "2026-05-19T19:01:35.231283+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "ASICS"
-      ],
-      "keywords_matched": [
-        "sandal"
-      ],
-      "relevance_score": 5,
-      "summary": "ASICS' GEL-Filimy trail sandal is back in action for the summer, landing in classic colorways like all-black.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "1a176967ac64",
-      "title": "The Crocs-ification of Crocs' Coolest Trail Sneaker",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/crocs-quick-trail-clog/",
-      "original_publish_time": "2026-05-19T17:46:40+00:00",
-      "scraped_time": "2026-05-19T19:01:35.232044+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Crocs"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "Crocs' Quick Trail Clog brings the rugged charm of the original trail sneaker to the brand's classic slip-on style.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "8daa74005dd0",
-      "title": "Caitlin Clark Debuts New Nike Kobe Exclusive Inspired by Iconic Video Game",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-kobe-5-protro-caitlin-clark-pe-sonic-the-hedgehog-1238973358/",
-      "original_publish_time": "2026-05-19T17:36:49+00:00",
-      "scraped_time": "2026-05-19T18:57:49.478804+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "Details on the star's Sonic the Hedgehog-inspired sneakers.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "b2aec90ceca0",
-      "title": "Pou Chen Corp stock (TW0009904003): Footwear maker’s recent revenue trends in focus - AD HOC NEWS",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQblpVcTNOaVZVRWpJaklId1lOMXlnaUxJamRITXY4UEhoUXlJZzJDY094WTYxelNmWjBvVUlZNUdITTJqbzFkLWE2MUgzUDRiUndJNlc4TklRRmRnb0M4dF93NnowRURCNExobTRhR0ZrUGthb01fWUtBaTdMNnlTUWlXazFoLWl1NGN0d3Q1cWdVUG5TRjB1dWFYZG1rb1c4TTRPVnlhQ01XbXNYNmR3VmxhVlE5dURGYTZZTjNMSWU?oc=5",
-      "original_publish_time": "2026-05-19T16:59:19+00:00",
-      "scraped_time": "2026-05-19T18:58:11.639914+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Pou Chen Corp stock (TW0009904003): Footwear maker’s recent revenue trends in focus AD HOC NEWS",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "d28018cba16d",
-      "title": "From Nike to Auralee, Browse This Week’s Best Sneaker Releases",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/sneaker-releases-2026-may-week-4/",
-      "original_publish_time": "2026-05-19T15:34:31+00:00",
-      "scraped_time": "2026-05-19T19:01:35.233087+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike",
-        "New Balance"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "From Nike to New Balance x Auralee, this week’s selection is about all about building a season appropriate sneaker rotation.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "7bbfd01662e3",
-      "title": "Root For Team USA With This Starry Nike Air Force 1 Low",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/05/19/nike-air-force-1-low-usa-multi-color-obsidian-university-red-white-io9557-900/",
-      "original_publish_time": "2026-05-19T14:30:20+00:00",
-      "scraped_time": "2026-05-19T18:58:00.834948+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "As anticipation surrounding the 2026 FIFA World Cup continues to build, Nike is quietly introducing another footwear option that taps directly into patriotic energy ahead... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Root For Team USA With This Starry Nike Air Force 1 Low appeared first on Sneaker News . The post Root For Team USA With This Starry Nike Air Force 1 Low appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "a642ef6e4697",
-      "title": "Nike’s Newly Nude Node Mule Is Wellness Footwear At Its Brainiest",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-mind-001-mule/",
-      "original_publish_time": "2026-05-19T14:22:41+00:00",
-      "scraped_time": "2026-05-19T19:01:35.233829+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 5,
-      "summary": "Nike’s futuristic Mind 001 mule blends recovery footwear, wellness culture, and experimental design with sensory foam pods, ergonomics, & bold sci-fi aesthetics",
       "ren_take": "",
       "image_url": ""
     }
