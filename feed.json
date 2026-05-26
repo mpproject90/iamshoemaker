@@ -1,8 +1,88 @@
 {
-  "last_updated": "2026-05-25T18:34:35.567898+00:00",
-  "total_articles": 116,
+  "last_updated": "2026-05-26T00:25:13.606845+00:00",
+  "total_articles": 114,
   "sources_checked": 61,
   "articles": [
+    {
+      "id": "b40ce0f1b280",
+      "title": "USA - Iran Tensions seen as Rising Risk for Global Footwear Industry - World Footwear",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNngzQWRhaTM0YmNSdGdmRklidGtZeUpjNmFNUTBDaUVRWVUwMEpaQUFZU0FybUVKYnFxNUswUG5EQzZrRDhsalZFMkxFUmwyQ1BsNGNQT3hDbjFBc2NVeERfeGJYSHBWaXpsaHhxcTFZUzQ4Tk5vajV4ZFhzdlZXdFh5QlRfY0pjTUpYbVIyMFQ2THJaV3MyWklRM0tqTkRad0lnSk1pSFdSQ0k3bUxPNERn?oc=5",
+      "original_publish_time": "2026-05-25T23:00:42+00:00",
+      "scraped_time": "2026-05-26T00:09:39.517007+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "footwear industry"
+      ],
+      "relevance_score": 6,
+      "summary": "USA - Iran Tensions seen as Rising Risk for Global Footwear Industry World Footwear",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "0b69f0ca5570",
+      "title": "Portuguese footwear industry heads to Brussels to promote debate on reindustrialisation - World Footwear",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWmVsQVR0cl90M3R1OEl6MEYxRWV3NE1wTXpNSVp6allONzNvOEg4b1lpNkZfZmMyenlyMjlkMkJTUG91X19oUXFOLWZweVZOOG12QmNiUGt5LWVRa2kxQXl1OXhhejc0VzBzQmRBcWZ1XzZVcm1VQTF5ZGZ3c0ZSaW1mcDB5dFRjMEtYdkxTQUQwRXRVcjY5bWZibHhKUmNyZi0tcEhsdDZwUjBvQzZzODJkV0tfNldFd0kxa3JPSU5GQl9jYTlka3JzNk12dw?oc=5",
+      "original_publish_time": "2026-05-25T23:00:42+00:00",
+      "scraped_time": "2026-05-26T00:09:39.518216+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "footwear industry"
+      ],
+      "relevance_score": 6,
+      "summary": "Portuguese footwear industry heads to Brussels to promote debate on reindustrialisation World Footwear",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "7004a52f44da",
+      "title": "The Nike First Sight Noir Continues Its First Impression With “Bright Crimson”",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/05/25/nike-first-sight-noir-crimson-hq2409-004/",
+      "original_publish_time": "2026-05-25T22:00:29+00:00",
+      "scraped_time": "2026-05-26T00:09:28.637691+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Much as well-timed retros and modified models may excite us in the realm of women’s footwear, Nike has demonstrated that they’re not content with using... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Nike First Sight Noir Continues Its First Impression With \"Bright Crimson\" appeared first on Sneaker News . The post The Nike First Sight Noir Continues Its First Impression With “Bright Crimson” appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "c72527c42906",
+      "title": "Temperley London Teams With Giuseppe Zanotti for Anniversary Footwear Capsule",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/temperley-london-giuseppe-zanotti-footwear-capsule-1238974664/",
+      "original_publish_time": "2026-05-25T19:14:51+00:00",
+      "scraped_time": "2026-05-26T00:09:17.158536+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "The partnership under the new majority owner, Times Square Group, underscores Temperley’s push into a broader lifestyle and accessories strategy.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "a63ab852342e",
       "title": "Nike Reinvents Mercurial For The World Cup Stage",
@@ -2271,130 +2351,6 @@
       "keywords_matched": [],
       "relevance_score": 3,
       "summary": "Name: Nike Air Zoom Huarache 2K4 \"Knicks\"Colorway: Black/Varsity Royal-Safety OrangeSKU: IV0345-001Retail Price: $210 USDRelease Date: Fall 2026Where to Buy: NikeNike Basketball is diving deep into its early-2000s archives, treating fans to the return of one of the era's most iconic silhouettes. The Nike Air Zoom Huarache 2K4 is officially making a comeback, arriving in a bold \"Knicks\" colorway that instantly transports hoop fans back to 2004. While early rumors suggested the release would be a highly coveted one-to-one retro of Penny Hardaway's New York Player Exclusive (PE), new first looks reveal that the Swoosh is taking a slightly different route for the retail drop.When reports of the release first surfaced, long-time collectors were thrilled at the prospect of finally getting their ",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "a64af2c6b69c",
-      "title": "New Generation: meet Rafael Henriques, Lidarco - World Footwear",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYnBkWUg5Y3JYYUZEN1NyMWVXaXFLWEpWVGlDS2k0ZUlpcTc0bHNuQVdBTzJnYV9tU1JtOUlocTdBTVFNVWp0Y09hcENmb1RNdlRUeE9qeEJpZ29CVFRQc0JtaE9PNWVRaVNRQkZLU1pUWllNLXVVOHR6QmN1M2pCRzN6MC1renYxeTVScm5NcjBWNHJs?oc=5",
-      "original_publish_time": "2026-05-18T23:01:20+00:00",
-      "scraped_time": "2026-05-19T00:12:35.020808+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "New Generation: meet Rafael Henriques, Lidarco World Footwear",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "84228c9b7bbd",
-      "title": "The Nike Baltoro Makes A Summer Cameo In “Chalk/Safety Orange”",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/05/18/nike-baltoro-chalk-sail-safety-orange-black-io4556-100/",
-      "original_publish_time": "2026-05-18T22:00:47+00:00",
-      "scraped_time": "2026-05-19T00:12:24.197364+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 3,
-      "summary": "Following a strong Stüssy collab and a small run of GR colorways late last year, the Nike Baltoro boot is resuming its comeback with a... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Nike Baltoro Makes A Summer Cameo In \"Chalk/Safety Orange\" appeared first on Sneaker News . The post The Nike Baltoro Makes A Summer Cameo In “Chalk/Safety Orange” appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "a46695607464",
-      "title": "A$AP Rocky’s Backless Puma Mostro Mule Is Debuting Soon",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/05/18/asap-rocky-puma-mostro-mule-summer-2026/",
-      "original_publish_time": "2026-05-18T21:00:55+00:00",
-      "scraped_time": "2026-05-19T00:12:24.199919+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Puma"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "A$AP Rocky and PUMA are continuing to expand their growing footwear partnership with the introduction of a new slip-on silhouette perfect for the warmer months... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post A$AP Rocky's Backless Puma Mostro Mule Is Debuting Soon appeared first on Sneaker News . The post A$AP Rocky’s Backless Puma Mostro Mule Is Debuting Soon appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "fe71a1d0c368",
-      "title": "Nike's Chocolate-Coated Air Max Is Seriously Sweet",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-air-max-95-sneaker-brown/",
-      "original_publish_time": "2026-05-18T20:45:00+00:00",
-      "scraped_time": "2026-05-19T00:15:58.509771+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "Nike's hot chocolate Air Max 95 sneaker is a sweet & decadent take on one of the Swoosh's best shoes — ever.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "8f76c624fa81",
-      "title": "The Nike Air Rift 2 “Kenya” Is Returning In 2026",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/05/18/nike-rift-2-black-fire-red-team-dark-green-iq8006-002/",
-      "original_publish_time": "2026-05-18T20:30:02+00:00",
-      "scraped_time": "2026-05-19T00:12:24.201541+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "sole"
-      ],
-      "relevance_score": 3,
-      "summary": "When the Nike Air Rift retro was first announced, conceptually it made perfect sense to meet slim-soled womenswear trendsw ith an archival design. Though truthfully,... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Nike Air Rift 2 \"Kenya\" Is Returning In 2026 appeared first on Sneaker News . The post The Nike Air Rift 2 “Kenya” Is Returning In 2026 appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "385d9f486dfd",
-      "title": "Puma Is Launching a New Max-cushioned Super Trainer Under Its Deviate Running Line",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/puma-deviate-pure-nitro-release-date-1238970899/",
-      "original_publish_time": "2026-05-18T20:04:40+00:00",
-      "scraped_time": "2026-05-19T00:12:12.703236+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Adidas",
-        "Puma",
-        "ASICS"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 4,
-      "summary": "The plateless Deviate Pure Nitro arrives as a competitor for the Adidas Evo SL and Asics Superblast 3.",
       "ren_take": "",
       "image_url": ""
     }
