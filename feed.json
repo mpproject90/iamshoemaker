@@ -1,8 +1,48 @@
 {
-  "last_updated": "2026-05-26T19:31:16.511431+00:00",
-  "total_articles": 107,
-  "sources_checked": 60,
+  "last_updated": "2026-05-27T00:30:09.481172+00:00",
+  "total_articles": 105,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "c9c067ece12f",
+      "title": "Ghana Leather and Footwear Manufacturers Association want government’s protection as Chinese imports flood market - Modern Ghana",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMTRFcFJIck4tX1RWV096VEJHX3U4aHp5U2c5RmZ0M0JGU0R3ZDVsaFF0VVAtdTlzRXFpWTB2ZE4yMjB4MUNZa2tRcUZWS2FnQ05SaDc3QXpiUlhfYlFMbzNmdEt1TGpTOXFjWV9ROEwwbTFXTzlXNER3RXNjSDhDa0FaODhiUTVGdTBXVDVkTFI4V0Y5c2ZjOGdMYXHSAZsBQVVfeXFMTTJKSFFuXzZqM3Z4bm1IS0JCWGhpRC1QLWJJRFk3bTkwOWJ1bVYybVhtT0VfamtSUjlUcmpCMVRGX3NMUF81TXNxSkFuV2owSzNXVmFFNnVJVWpqUUJaSUUxRUpZdy1XOU5QY2ZtNXZ2eVpxZV9FYUdjU3duZEo1MUhWZzhicFVnSGt2OFhOVEtBSkpiZG5zLWNCRFU?oc=5",
+      "original_publish_time": "2026-05-26T22:19:16+00:00",
+      "scraped_time": "2026-05-27T00:10:49.863732+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Ghana Leather and Footwear Manufacturers Association want government’s protection as Chinese imports flood market Modern Ghana",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "be002d19b4a9",
+      "title": "Willy Chavarria's Latest adidas Stomper Is as Tough as It Looks",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/adidas-willy-chavarria-megaride/",
+      "original_publish_time": "2026-05-26T21:03:00+00:00",
+      "scraped_time": "2026-05-27T00:18:22.908372+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "sole"
+      ],
+      "relevance_score": 3,
+      "summary": "Willy Chavarria’s adidas Megaride drops in bold black and white with a chunked-up sole, sporty attitude, and oversized tongue",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "2f4805a41339",
       "title": "The Raging Return of Nike’s Fieriest Jordan Sneaker",
@@ -2138,88 +2178,6 @@
       ],
       "relevance_score": 3,
       "summary": "SummaryMelbourne-based MAAP and British footwear brand QUOC have reunited to release the limited-edition M3 Pro 'Leopard' road cycling shoeThe design wraps QUOC's race-winning M3 Pro architecture in a striking leopard print, symbolizing raw, instinctive speed and biological efficiencyWeighing in at a featherweight 242 grams, the shoe features a race-grade, unidirectional carbon fiber outsole engineered for uncompromising stiffness and power transferWhen raw instinct collides with race-day performance, every movement matters. Melbourne-based premium cycling apparel brand MAAP has once again joined forces with British footwear innovator QUOC to deliver their most striking collaboration to date: the M3 Pro \"Leopard.\" Built for uncompromising riders operating at maximum intensity, this limited",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "d9e18e0842de",
-      "title": "FAIST Voices: meet Tecmacal - World Footwear",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1kNHd2Y0t2TUlqUmlIOTNtOWlDOGJLWElaRlFzckR3NnlOU0NlaExHMGpER19zMzFPbi04NVJTcTJsZ09icDBkR2JYbFQ4NmNQRlNnMk9ST1RleXpEQ2t5WmVjVUhYdU5PbmswQTVLUzhzNENydTN3N25RUm4?oc=5",
-      "original_publish_time": "2026-05-19T23:01:42+00:00",
-      "scraped_time": "2026-05-23T07:24:51.266379+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "FAIST Voices: meet Tecmacal World Footwear",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "2f2818bffab0",
-      "title": "Nike Diamond Turf 2 “Colorado” Cleat Stars In Latest Deion Sanders Shoes Preview",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/05/19/nike-air-diamond-turf-2-cleats-colorado-buffaloes-pe/",
-      "original_publish_time": "2026-05-19T22:00:55+00:00",
-      "scraped_time": "2026-05-20T00:10:17.285281+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 5,
-      "summary": "Anyone interested in hoops shoes in our readership will know that Ja Morant has earned a seat at the table when it comes to “most... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike Diamond Turf 2 \"Colorado\" Cleat Stars In Latest Deion Sanders Shoes Preview appeared first on Sneaker News . The post Nike Diamond Turf 2 “Colorado” Cleat Stars In Latest Deion Sanders Shoes Preview appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "c1c58a55245b",
-      "title": "Deion Sanders Confirms The Release Of The Nike Air DT Proto ’92 “Prime Red”",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/05/19/nike-air-diamond-turf-proto-92-prime-jf7592-600/",
-      "original_publish_time": "2026-05-19T21:42:59+00:00",
-      "scraped_time": "2026-05-20T00:10:17.289225+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Deion Sanders has never been known for subtlety, and one of his upcoming footwear releases fully embraces that same larger-than-life energy. The Hall-of-Fame two-sport icon... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Deion Sanders Confirms The Release Of The Nike Air DT Proto '92 \"Prime Red\" appeared first on Sneaker News . The post Deion Sanders Confirms The Release Of The Nike Air DT Proto ’92 “Prime Red” appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "625f3775b447",
-      "title": "Everyone’s Buying the Same New Balance Sneakers. Try These Instead - GQ",
-      "source_name": "Google News - Sneaker Brand",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBxQl9lUjhYa24wSzJzRG9zSFZzV2UySEFwbnotWFpLZE4zYmlQSWZ5VS1Gd1RvbWZRQmVCQ2dWR2RDUTRCTDdNN0lnUTBaaFBPdXh4SlFCY0J1OXo5VF9SQlNOX2RzdTA?oc=5",
-      "original_publish_time": "2026-05-19T20:38:33+00:00",
-      "scraped_time": "2026-05-20T08:19:19.803139+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "New Balance"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 5,
-      "summary": "Everyone’s Buying the Same New Balance Sneakers. Try These Instead GQ",
       "ren_take": "",
       "image_url": ""
     }
