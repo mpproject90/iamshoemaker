@@ -1,8 +1,193 @@
 {
-  "last_updated": "2026-05-27T14:38:35.321729+00:00",
-  "total_articles": 96,
+  "last_updated": "2026-05-27T19:33:13.961201+00:00",
+  "total_articles": 102,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "5c81f1e884b0",
+      "title": "Capri CEO Says Michael Kors Footwear Is the Company’s ‘Biggest Issue’",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/michael-kors-footwear-jimmy-choo-growth-plans-john-idol-ceo-1238983797/",
+      "original_publish_time": "2026-05-27T18:50:05+00:00",
+      "scraped_time": "2026-05-27T19:22:10.924404+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Capri"
+      ],
+      "keywords_matched": [
+        "footwear",
+        "shoes"
+      ],
+      "relevance_score": 6,
+      "summary": "More casual shoes are the key to growth at Michael Kors, CEO John Idol told analysts on Wednesday.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "548876f6f136",
+      "title": "Hockey Fans Can Now Enter to Win Ultra-limited NHL x Nobull Stanley Cup Sneakers Designed by The Shoe Surgeon",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/shoe-surgeon-nhl-nobull-stanley-cup-sneakers-hockey-1238983117/",
+      "original_publish_time": "2026-05-27T17:36:10+00:00",
+      "scraped_time": "2026-05-27T19:22:10.927137+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "The \"Cup Chasers\" are inspired by the NHL's Stanley Cup trophy.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "75c70076b565",
+      "title": "“Georgia Red Clay” Returns On The adidas Anthony Edwards 2",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/05/27/adidas-anthony-edwards-2-georgia-red-clay-kj1886/",
+      "original_publish_time": "2026-05-27T17:00:45+00:00",
+      "scraped_time": "2026-05-27T19:22:22.842052+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Anthony Edwards’ budding adidas line has done a fine job incorporating references from Ant’s home state onto footwear: his alma mater, his youth football team,... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post \"Georgia Red Clay\" Returns On The adidas Anthony Edwards 2 appeared first on Sneaker News . The post “Georgia Red Clay” Returns On The adidas Anthony Edwards 2 appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "f790fa12e7e5",
+      "title": "Nike Appears to Be Rebuilding One of Its Premium Running Shoes for Everyday Wear",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-pegasus-premium-sp-release-date-ir2166-102-ir2166-001-1238983245/",
+      "original_publish_time": "2026-05-27T16:47:54+00:00",
+      "scraped_time": "2026-05-27T19:22:10.927804+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "shoes",
+        "upper"
+      ],
+      "relevance_score": 6,
+      "summary": "The Pegasus Premium gets a more technical upper.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "d64cbe181e47",
+      "title": "Detailed Look At The Nike SB Air Force 1 “Light Chocolate”",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/05/27/nike-sb-air-force-1-light-chocolate-black-sample/",
+      "original_publish_time": "2026-05-27T16:30:57+00:00",
+      "scraped_time": "2026-05-27T19:22:22.843809+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "The Nike SB Air Force 1 continues to be an objection of fascination for the skate-obsessed and the sneaker-obsessed alike. Short of the Air Jordan... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Detailed Look At The Nike SB Air Force 1 \"Light Chocolate\" appeared first on Sneaker News . The post Detailed Look At The Nike SB Air Force 1 “Light Chocolate” appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "4712487fd8a1",
+      "title": "Givenchy appoints head of leather goods",
+      "source_name": "Drapers",
+      "source_domain": "drapersonline.com",
+      "source_url": "https://www.drapersonline.com/news/givenchy-appoints-head-of-leather-goods",
+      "original_publish_time": "2026-05-27T16:02:06+00:00",
+      "scraped_time": "2026-05-27T19:25:25.600114+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "leather goods"
+      ],
+      "relevance_score": 3,
+      "summary": "Drapers Givenchy appoints head of leather goods Givenchy has appointed former Etro creative director Marco De Vincenzo as its head of leather goods design, under the artistic direction of Sarah Burton. The post Givenchy appoints head of leather goods appeared first on Drapers .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "a35a8f6c1124",
+      "title": "From Nike to Salomon, the Seven Best Sneakers to Cop Right Now",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/sneaker-releases-2026-may-week-5/",
+      "original_publish_time": "2026-05-27T15:50:49+00:00",
+      "scraped_time": "2026-05-27T19:25:58.863413+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Salomon"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 7,
+      "summary": "From Nike to Salomon, this week’s selection is about all about clever collabs.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "e383e025dc2c",
+      "title": "Sneex Breaks Into the Sandal Market With a New Hybrid Shoe Design",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-trends/sneex-sara-blakely-high-heel-sneaker-sandal-hybrid-1238982854/",
+      "original_publish_time": "2026-05-27T15:22:55+00:00",
+      "scraped_time": "2026-05-27T19:22:10.928402+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sandal"
+      ],
+      "relevance_score": 3,
+      "summary": "The Charlie Hy-Heel Sandal offers the boost of a stiletto in addition to the responsiveness of a sneaker.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "64ef7455fda0",
+      "title": "Golden Goose reports ‘strong start to 2026’ as sales rise",
+      "source_name": "Drapers",
+      "source_domain": "drapersonline.com",
+      "source_url": "https://www.drapersonline.com/news/golden-goose-reports-strong-start-to-2026-as-sales-rise",
+      "original_publish_time": "2026-05-27T15:01:48+00:00",
+      "scraped_time": "2026-05-27T19:25:25.601717+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Golden Goose"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Drapers Golden Goose reports ‘strong start to 2026’ as sales rise Italian footwear brand Golden Goose reported a 10% year-on-year rise in revenue to €173.2m (£150m) for the 12 weeks to 31 March 2026, driven by continued momentum in its direct-to-consumer (DTC) business. The post Golden Goose reports ‘strong start to 2026’ as sales rise appeared first on Drapers .",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "15523da73efa",
       "title": "Liberty Shoes Reports 5.5% Decline in Q4 Profit Despite Higher Revenue",
@@ -1920,68 +2105,6 @@
       "keywords_matched": [],
       "relevance_score": 4,
       "summary": "VF Corp.'s speed to market testing has benefited Vans' growth in the Americas DTC business.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "8dc11f63ac86",
-      "title": "Leather and footwear industry seek duty exemptions on critical inputs due to Middle East crisis - MSN",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOMjBDN3pUSTYzamxOZEIwWDZGbUN2Mno4TU1xOEdMRFFaVWZZcmJUN19MZjhKUU5RbGE3WWp4QkZfX0pvUXFCMWRkaDNsM3NrelNKdnVXa3o4NWhYT0Y0OVp4WkJfUE5aeC1nNWV3ekRMME1oNmFoTmtOUG9HRHZmX0JoVEZkMHI1bG5ST1U0STJ6V24yMXNEc0xIdGg1SDgxWEJVYmgtRXQxS0Q5Mmx3aTJwNWVDX1dZbmlzVHkxenotOWZyRk0zOVBBVjkwWnAyTENpZFh5MVZuVndaVlBOb19WU1h2VU5Qa25iSnJ0RGtuTVJo?oc=5",
-      "original_publish_time": "2026-05-20T17:45:47+00:00",
-      "scraped_time": "2026-05-22T00:06:52.126027+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "footwear industry"
-      ],
-      "relevance_score": 6,
-      "summary": "Leather and footwear industry seek duty exemptions on critical inputs due to Middle East crisis MSN",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "975078d98429",
-      "title": "Adidas’ Hottest Running Shoe Is Getting a New Zippered Upper",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/adidas-evo-sl-zip-release-date-1238974783/",
-      "original_publish_time": "2026-05-20T16:35:46+00:00",
-      "scraped_time": "2026-05-20T19:22:06.709694+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 5,
-      "summary": "The shoe's most overt play at lifestyle today.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "538fa4d290fb",
-      "title": "Stone Island Joins The New Balance 1890 Movement With Two Colorways",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/05/20/stone-island-new-balance-1890/",
-      "original_publish_time": "2026-05-20T16:00:01+00:00",
-      "scraped_time": "2026-05-20T19:22:18.474402+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "New Balance"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "Anyone who’s been thinking about sneakers for more than a few months knows a certain play that brands run: as a new model hits the... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Stone Island Joins The New Balance 1890 Movement With Two Colorways appeared first on Sneaker News . The post Stone Island Joins The New Balance 1890 Movement With Two Colorways appeared first on Sneaker News .",
       "ren_take": "",
       "image_url": ""
     }
