@@ -1,8 +1,29 @@
 {
-  "last_updated": "2026-05-28T14:53:47.583485+00:00",
-  "total_articles": 98,
-  "sources_checked": 62,
+  "last_updated": "2026-05-28T19:45:35.309343+00:00",
+  "total_articles": 97,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "4c3a0aec9c61",
+      "title": "Nike’s Updated Air Max Boot Is Getting Several New Changes for the Summer",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-air-max-goadome-low-sp-black-pale-lemon-release-date-ir2173-001-1238984820/",
+      "original_publish_time": "2026-05-28T16:48:22+00:00",
+      "scraped_time": "2026-05-28T19:34:31.727758+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 5,
+      "summary": "Revamped hardware, speed lacing and wear-away graphics are featured on the Air Max Goadome Low.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "5d6cc6b57f75",
       "title": "Geox Unveils Ventilated Cushioning Technology in ‘Climasandal’ Line",
@@ -1973,48 +1994,6 @@
       ],
       "relevance_score": 5,
       "summary": "The 1890 gets two colorways in the brands' latest collaboration.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "7b63178f5008",
-      "title": "Louis Vuitton’s Cruise 2027 Shoes Sit Somewhere Between Basketball & Karate Kicks",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/5/louis-vuitton-cruise-2027-shoes-release-date-info",
-      "original_publish_time": "2026-05-21T18:16:42+00:00",
-      "scraped_time": "2026-05-21T19:01:41.163155+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "shoes",
-        "sole",
-        "upper"
-      ],
-      "relevance_score": 6,
-      "summary": "SummaryNicolas Ghesquière introduced a new laceless sneaker hybrid during the Louis Vuitton Cruise 2027 showThe silhouette merges the structural build of a basketball upper with the low-profile sole of a martial arts shoeSelect pieces across the collection honor Keith Haring’s artistic legacy, inspired by an archival 1930s LV suitcase customized by the artistLouis Vuitton’s Cruise 2027 collection was a colorful art-inspired spectacle that took over New York City's The Frick Collection. While surreal accessories and technicolor garments served as a strong foundation for the collection, the footwear is what caught our attention. In an array of colors and patterns, Louis Vuitton presented a sneaker-like high-top with a new laceless, flat-soled design.The unconventional shoe is somewhat of a t",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "6381c143109c",
-      "title": "“Wolverine” Colors Land On The Nike Air Max 95 Big Bubble",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/05/21/nike-air-max-95-wolverine-iu7544-100/",
-      "original_publish_time": "2026-05-21T17:30:04+00:00",
-      "scraped_time": "2026-05-21T19:01:41.316291+00:00",
-      "time_delta_mins": 0,
-      "category": "Quality",
-      "brands_mentioned": [
-        "Nike",
-        "Wolverine"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 4,
-      "summary": "Nike Air Max 95 “Wolverine” aka “Royal Blue” — Quick Facts A clean Air Max 95 colorway drawing an unofficial “Wolverine” comparison via Royal Blue... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post \"Wolverine\" Colors Land On The Nike Air Max 95 Big Bubble appeared first on Sneaker News . The post “Wolverine” Colors Land On The Nike Air Max 95 Big Bubble appeared first on Sneaker News .",
       "ren_take": "",
       "image_url": ""
     }
