@@ -1,8 +1,47 @@
 {
-  "last_updated": "2026-05-27T19:33:13.961201+00:00",
+  "last_updated": "2026-05-28T00:13:48.890775+00:00",
   "total_articles": 102,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "2a90870f071e",
+      "title": "Danish Shoe Influencer Lars Byrresen Petersen Steps Into the Footwear Industry With Artful Heel Covers",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-trends/so-lars-lala-shoe-accessory-lars-byrresen-petersen-1238982065/",
+      "original_publish_time": "2026-05-27T21:14:16+00:00",
+      "scraped_time": "2026-05-28T00:02:44.533707+00:00",
+      "time_delta_mins": 0,
+      "category": "Quality",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "footwear industry"
+      ],
+      "relevance_score": 6,
+      "summary": "Petersen's heel sculpture debuted at Maison du Danemark in Paris on Tuesday.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "a7d7eca406d8",
+      "title": "Lincoln Shoe Cobbler Brings Skill, Spirit To Waning Craft - Benton County Enterprise",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSF9wLUxNLXB6aER3V3p6bUNneUMyVW4zcEE5eVdHMTBSdHRQSUJZbUVmTHFneXVFb3VkTUYxSEVOVVFMSGlxNkVLZm9rY0JReEhUVGE0WjVoalBva3ZGa2xYZ3dFZDNZUnN4eWU3UnRTTTBidnJIMlk1clZMLWxrSGVmNWF4Tk5hVmZ6d0hYZ1AzWWNkRldYdVJKeEU0N1RRU09yS0RrMjA5WGpWRWc?oc=5",
+      "original_publish_time": "2026-05-27T20:15:00+00:00",
+      "scraped_time": "2026-05-28T00:03:07.300266+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "cobbler"
+      ],
+      "relevance_score": 3,
+      "summary": "Lincoln Shoe Cobbler Brings Skill, Spirit To Waning Craft Benton County Enterprise",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "5c81f1e884b0",
       "title": "Capri CEO Says Michael Kors Footwear Is the Company’s ‘Biggest Issue’",
@@ -2065,46 +2104,6 @@
       ],
       "relevance_score": 4,
       "summary": "Name: SATISFY x adidas Adizero Adios Pro 4MSRP: $300 USDRelease Date: May 22Where to Buy: SATISFY, adidasSATISFY has launched a new multi-season partnership with adidas, kicking off their ongoing program with a limited-edition reconstruction of the Adizero Adios Pro 4 distance running platform.The design introduces an organic color palette pulled directly from the ground, offering three distinct colorways: \"Army Green,\" \"Earth Brown\" and \"Black.\" These earthy tones are applied side to side like a mismatched pair of skate shoes, creating a dynamic visual effect where each colorway subtly shifts with movement and light. The upper is built with a technical LIGHTLOCK textile engineered to provide a secure, locked-in fit at high race speeds.For a striking functional accent, reflective metallic ",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "b65a42181e16",
-      "title": "The North Face Does Sneakers Better Than You Think. And What's Next Is Wild",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/the-north-face-sneakers-2026/",
-      "original_publish_time": "2026-05-20T21:34:00+00:00",
-      "scraped_time": "2026-05-21T00:13:50.371965+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoes",
-        "sneakers"
-      ],
-      "relevance_score": 4,
-      "summary": "Has The North Face always been this good at sneakers? Or are we just looking at shoes differently? Honestly, it’s a bit of both.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "efa1f6ce7df3",
-      "title": "‘Green Shoots’ at Vans, Timberland Appear Solid",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/vf-corp-speed-to-market-vans-dtc-timberland-footwear-1238975594/",
-      "original_publish_time": "2026-05-20T20:46:56+00:00",
-      "scraped_time": "2026-05-21T00:10:09.728660+00:00",
-      "time_delta_mins": 0,
-      "category": "Quality",
-      "brands_mentioned": [
-        "Vans",
-        "Timberland"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 4,
-      "summary": "VF Corp.'s speed to market testing has benefited Vans' growth in the Americas DTC business.",
       "ren_take": "",
       "image_url": ""
     }
