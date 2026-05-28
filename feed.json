@@ -1,8 +1,179 @@
 {
-  "last_updated": "2026-05-28T08:48:05.698674+00:00",
-  "total_articles": 96,
-  "sources_checked": 61,
+  "last_updated": "2026-05-28T14:53:47.583485+00:00",
+  "total_articles": 98,
+  "sources_checked": 62,
   "articles": [
+    {
+      "id": "5d6cc6b57f75",
+      "title": "Geox Unveils Ventilated Cushioning Technology in ‘Climasandal’ Line",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/geox-climasandal-ventilated-cushioning-technology-1238984408/",
+      "original_publish_time": "2026-05-28T14:36:45+00:00",
+      "scraped_time": "2026-05-28T14:38:02.393685+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Geox"
+      ],
+      "keywords_matched": [
+        "sandal"
+      ],
+      "relevance_score": 5,
+      "summary": "President Mario Moretti Polegato presented the project during a conference in Milan.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "329ac9aec8bf",
+      "title": "Global Footwear Market Gains Momentum Through E-Commerce and Product Innovation - Spherical Insights",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcW0tbjJablB6SzVIRS03ZUhFUzJMODNtWU41VWI0Y1VWN1QxcDVkMkhhYm90Ql9SWjlYd1NzOWwzdHdJTDdoWEx2aFdVa3BSSVpRekg0UGhzSWJuQnM0WjEyXzJoMWI5cTRMR0NNQjFNVm9DWW8zcTFlZmRhdmVDdjlNRWhFSWcxbHN0R0lmYWhiZUh6bEtpN0kyVUVobXAzSUYteEdwUUl2c1FYRG0wcExDQ2xYMWlIX3Yw?oc=5",
+      "original_publish_time": "2026-05-28T13:27:08+00:00",
+      "scraped_time": "2026-05-28T14:38:24.755025+00:00",
+      "time_delta_mins": 0,
+      "category": "Trade Data",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Global Footwear Market Gains Momentum Through E-Commerce and Product Innovation Spherical Insights",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "38fc23e9c714",
+      "title": "adidas' Spezial Loafer Is What Happens When You Grow Up (Sort Of)",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/adidas-spezial-loafer/",
+      "original_publish_time": "2026-05-28T13:05:00+00:00",
+      "scraped_time": "2026-05-28T14:41:52.952548+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "sole"
+      ],
+      "relevance_score": 3,
+      "summary": "adidas Spezial Loafer blends soft black leather, gum sole, and signature stripes for a summer ready smart-casual shoe.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "e57b12e95831",
+      "title": "Salomon x Pas Normal Studios SS26 Is Built for Athletes Who Don't Choose a Discipline",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/5/salomon-pas-normal-studios-spring-summer-ss-2026-collaboration-collection-release-info",
+      "original_publish_time": "2026-05-28T11:31:32+00:00",
+      "scraped_time": "2026-05-28T14:38:13.761622+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Salomon"
+      ],
+      "keywords_matched": [
+        "midsole",
+        "outsole",
+        "sole"
+      ],
+      "relevance_score": 5,
+      "summary": "SummaryPas Normal Studios and Salomon have unveiled their SS26 T.K.O. collaborationAt the center of the drop is the GRVL Concept shoe, a hybrid performance trainer featuring a PEBA-based supercritical foam midsole, dual full-length carbon blades, and a bike tyre-derived outsole with 1.5mm lugs, weighing in at 262 gramsThe collection is completed by the RACE SKIN 2 running vest, designed for mixed-terrain endurance with dual front flasks and a rear hydration bladder compartmentPas Normal Studios and Salomon have launched their SS26 T.K.O. collaboration, a limited-edition collection built around the GRVL Concept: a performance shoe engineered for hybrid terrain. Available now the collection also includes the RACE SKIN 2 running vest, forming a unified system that bridges cycling and running ",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "76a89087e69f",
+      "title": "First Look at the Above the Clouds x ASICS GEL-1130",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/5/above-the-clouds-asics-gel-1130-first-look-teaser-info",
+      "original_publish_time": "2026-05-28T10:57:41+00:00",
+      "scraped_time": "2026-05-28T14:38:13.763786+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "ASICS"
+      ],
+      "keywords_matched": [
+        "shoes",
+        "sole",
+        "upper"
+      ],
+      "relevance_score": 5,
+      "summary": "Name: Above the Clouds x ASICS Gel-1130SKU: TBCRelease Date: 2026Above the Clouds has teased its upcoming collaboration with ASICS, offering a first look at the Above the Clouds x ASICS GEL‑1130 via its official Instagram.The preview image reveals only part of the sneaker, but enough to highlight its distinctive Intrecciato‑style woven leather upper, paired with overlays in a dark sage and khaki green palette. This layered construction gives the shoe a textured, premium feel while maintaining the GEL‑1130’s archival running silhouette. Additional details include dark grey shoes, a black mesh tongue and a black sole unit, all of which reinforce the understated yet refined aesthetic. Click here to view full gallery at Hypebeast",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "dd1daff146b2",
+      "title": "JISOO Named Global Ambassador of Salomon",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/5/blackpink-jisoo-salomon-global-ambassador-announcement",
+      "original_publish_time": "2026-05-28T08:54:53+00:00",
+      "scraped_time": "2026-05-28T14:38:13.766962+00:00",
+      "time_delta_mins": 0,
+      "category": "Quality",
+      "brands_mentioned": [
+        "Salomon"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "SummaryFrench outdoor and sports apparel brand Salomon has officially announced JISOO as its newest global ambassadorThe partnership highlights Salomon's continued expansion beyond pure performance gear, embracing lifestyle, fashion, and everyday styleJISOO cited her South Korean upbringing close to the mountains and her appreciation for balancing functionality with style as key reasons for joining the brandThe intersection of outdoor performance and high fashion just gained a massive new co-sign. Annecy-based brand Salomon has officially unveiled global superstar BLACKPINK's JISOO as its newest brand ambassador. Moving beyond a traditional sportswear partnership, the collaboration aims to reflect Salomon’s rapidly evolving identity—one that seamlessly bridges its rugged mountain heritage ",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "4d1738d80f8d",
+      "title": "Lil Uzi Vert Previews Upcoming 2027 Vans Collection",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/5/lil-uzi-vert-vans-collaboration-preview-2027-collection",
+      "original_publish_time": "2026-05-28T08:47:47+00:00",
+      "scraped_time": "2026-05-28T14:38:13.768484+00:00",
+      "time_delta_mins": 0,
+      "category": "Quality",
+      "brands_mentioned": [
+        "Vans"
+      ],
+      "keywords_matched": [
+        "footwear",
+        "sole"
+      ],
+      "relevance_score": 4,
+      "summary": "SummaryLil Uzi Vert has officially given fans a first look at his highly anticipated debut collection with Vans, which is slated to release in 2027Leaning heavily into early aughts emo and pop-punk culture, the collection features a brand-new, unnamed bulky skate silhouette with a puffy cupsole designThe chunky sneaker has been previewed in pink-on-black and pink-on-white colorways, featuring checkerboard laces, a bulbous Vans logo on the heel, and a signature \"LUV\" tag on the lace panelLil Uzi Vert has never been one to follow the rules, and his upcoming footwear debut is no exception. Giving fans a sneak peek at his first-ever collaboration with Vans, the rapper is bypassing the standard artist capsule playbook to dive headfirst into vintage, early-2000s skate culture. Slated for a 2027 ",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "adac4808b7cb",
+      "title": "blacktoes Unveils the ASICS SUPERBLAST 3 BT “Keep Running Quiet”",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/5/blacktoes-asics-superblast-3-bt-keep-running-quiet-release-info",
+      "original_publish_time": "2026-05-28T08:41:33+00:00",
+      "scraped_time": "2026-05-28T14:38:13.770098+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "ASICS"
+      ],
+      "keywords_matched": [
+        "midsole",
+        "sole",
+        "upper"
+      ],
+      "relevance_score": 5,
+      "summary": "Name: blacktoes x ASICS SUPERBLAST 3 BT “Keep Running Quiet” Colorway: TBCSKU: TBCMSRP: TBCRelease Date: May 30 Where to Buy: blacktoes GALLERYShanghai-based independent creative studio blacktoes has unveiled visuals of its upcoming collaboration with ASICS. The blacktoes x ASICS SUPERBLAST 3 BT “Keep Running Quiet” embraces a sleek and stealthy palette. The upper is enveloped in a rich dark brown tone, sharply juxtaposed against black paneling wrapping the toe box and heel counters.A standout detail is the thermo‑reactive ASICS logo, which shifts appearance with temperature changes, adding depth and visual intrigue. The midsole incorporates FF LEAP foam, delivering lightweight cushioning and high rebound, while refinements include a 10-gram weight reduction and a slightly thicker sole com",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "1c63c79b2b73",
       "title": "Nike Book 2 Gets a \"Sunburst\" Release for Summer",
@@ -1844,130 +2015,6 @@
       "keywords_matched": [],
       "relevance_score": 4,
       "summary": "Nike Air Max 95 “Wolverine” aka “Royal Blue” — Quick Facts A clean Air Max 95 colorway drawing an unofficial “Wolverine” comparison via Royal Blue... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post \"Wolverine\" Colors Land On The Nike Air Max 95 Big Bubble appeared first on Sneaker News . The post “Wolverine” Colors Land On The Nike Air Max 95 Big Bubble appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "84a10a84653f",
-      "title": "Jordan's Razor-Sharp New Sneaker Mastered Every Angle (EXCLUSIVE)",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/jordans-newest-razor-sharp-basketball-sneaker-knows-its-angles/",
-      "original_publish_time": "2026-05-21T14:00:01+00:00",
-      "scraped_time": "2026-05-21T14:19:19.402183+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Nike",
-        "Jordan"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "The Jordan Brand reveals the Triangle, its all-new, all-position basketball sneaker built with Nike's finest cushioning.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "5f458cf50c13",
-      "title": "Reebok Celebrates 40 Years of ‘Dragon Quest’ With Collaborative Drop",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/5/reebok-dragon-quest-insta-pump-fury-94-vintage-tee-collaboration-release-info",
-      "original_publish_time": "2026-05-21T13:04:04+00:00",
-      "scraped_time": "2026-05-21T14:15:38.015737+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Reebok"
-      ],
-      "keywords_matched": [
-        "sneakers",
-        "upper"
-      ],
-      "relevance_score": 4,
-      "summary": "SummaryReebok celebrates Dragon Quest's 40th anniversary with a collaboration featuring the Insta Pump Fury 94 and a lineup of vintage-style T-shirtsSneakers feature design cues from all 11 previous Dragon Quest titlesThe collaboration will release in Japan on May 27, 2026Reebok has revealed a collaboration with Dragon Quest, unveiling a playful and nostalgic take on its Insta Pump Fury 94 sneaker and a collection of vintage-style graphic tees.The cornerstone of this release is the Insta Pump Fury 94, an iconic, high-tech runner featuring specialized colorways and design details directly inspired by all 11 previous mainline models of the game series — ranging from the original entry up to Dragon Quest XI: Echoes of an Elusive Age. The upper retains its signature futuristic, laceless look, ",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "6cbbbd2b26d6",
-      "title": "Official Images of the Salomon XT-4 OG Japan “Nami Pack”",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/5/salomon-xt-4-og-japan-nami-pack-l45440400-release-info",
-      "original_publish_time": "2026-05-21T12:50:02+00:00",
-      "scraped_time": "2026-05-21T14:15:38.018357+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Salomon"
-      ],
-      "keywords_matched": [
-        "outsole",
-        "sole",
-        "upper"
-      ],
-      "relevance_score": 5,
-      "summary": "Name: Salomon XT-4 OG JAPAN “Nami Pack”Colorway: “Nami”SKU: L45440400MSRP: ¥30,800 JPY (approx. $194 USD) Release Date: May 29 Where to Buy: SalomonThe Salomon XT‑4 OG Japan “Nami Pack” is part of a Japan‑exclusive series inspired by Hokusai’s \"Great Wave off Kanagawa\" and the rhythm of sound waves. The XT‑4 OG features mesh and synthetic overlays with flowing indigo wave graphics, contrasted by crisp white detailing across the upper.Built on Salomon’s trail‑ready platform, the shoe integrates the ACS chassis system, EnergyCell+ cushioning, and a Contagrip outsole, balancing technical performance with lifestyle appeal. Branding is kept minimal, allowing the wave motif and sculptural sole to stand out as the defining elements of the design. Complementing the XT‑4 OG, Salomon also introduced",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "d65b7b0b215e",
-      "title": "This Fire Breathing Nike Air Max Is Bubble Trouble",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-air-liquid-max-fire-red/",
-      "original_publish_time": "2026-05-21T11:40:00+00:00",
-      "scraped_time": "2026-05-21T14:19:19.402742+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "sole"
-      ],
-      "relevance_score": 3,
-      "summary": "Nike’s Air Liquid Max turns up the heat with bold crimson and fire red, a wild air unit sole, and comfort tech that feels as fierce as it looks.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "53e351f148bc",
-      "title": "Pou Chen Corp stock (TW0009904003): Footwear manufacturer in focus after recent business update - AD HOC NEWS",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWGJGM2std1lEbVV5N3VDc3UwcUlZZzVjMHpPbzdscWgzZ0duYUNubkd5RERXSXlHN2VBcUg1ZGpEVmdUd05aOG9paTgxNHhPVlloUDVnVjNaamRnV21Ub1NWajQyMFZzUS1PZTRqbV9vWGhvUGlHeDFqNzZHZy1PNFhBdFNlbVBjS2VLTUZmYzh4X3VPUEpodWtfbUhjYWE3WDMwMDZ1RVNITGpqcW4wTjZJMkhwVm95MW9NeEVCZjc3UmpTb05F?oc=5",
-      "original_publish_time": "2026-05-21T08:57:38+00:00",
-      "scraped_time": "2026-05-21T14:15:48.807211+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Pou Chen Corp stock (TW0009904003): Footwear manufacturer in focus after recent business update AD HOC NEWS",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "8873ce090f07",
-      "title": "Premium Shoes Market Analysis By Application, Type, - openPR.com",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTmJRTkZLbTVudWNPMm5Ick9kUkJTZGdUaVByaGNTS213MEowSXQyT2NVdjVXYUFXZzFqZV9TUHl4NmVqY2ZuRGpRN2R3VEZ3ck5XbzZsYWlOUVFXSEdLNzJnV05saElXbTFVLTJoXzh2bEI3SUp4SkIzZTU5SzBHMi13dl9jUGRpZVAwdWJR?oc=5",
-      "original_publish_time": "2026-05-21T08:48:41+00:00",
-      "scraped_time": "2026-05-21T14:15:48.805882+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "Premium Shoes Market Analysis By Application, Type, openPR.com",
       "ren_take": "",
       "image_url": ""
     }
