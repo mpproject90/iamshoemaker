@@ -1,8 +1,109 @@
 {
-  "last_updated": "2026-05-29T08:46:44.409918+00:00",
-  "total_articles": 101,
-  "sources_checked": 60,
+  "last_updated": "2026-05-29T14:12:58.135397+00:00",
+  "total_articles": 97,
+  "sources_checked": 62,
   "articles": [
+    {
+      "id": "5b4856d25017",
+      "title": "The Best Nike Sneakers Releasing in June",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-sneaker-release-date-calendar-june-2026-1238985516/",
+      "original_publish_time": "2026-05-29T12:00:00+00:00",
+      "scraped_time": "2026-05-29T14:01:35.919541+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "Including the Air Foamposite One \"Tianjin 2.0\" and a new Flyknit version of the Mind 001.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "fe0f35e1be44",
+      "title": "FAIST Voices: meet Rodiro - World Footwear",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBNd0tnX01yMGVUT0kzdERwVjVFNGZvM2NZOVRXb3EtLUxkbmxCUXpGUGNyOXZBS0tFS3luUFVka2pGMldIQWRqbTFEUTM1S1IzNEJjODdPSTM1bmF2RnhUNW9OUG9QNHhsUUFQMjRFWEZROTFoTGpFQTd3?oc=5",
+      "original_publish_time": "2026-05-29T11:37:23+00:00",
+      "scraped_time": "2026-05-29T14:01:58.605769+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "FAIST Voices: meet Rodiro World Footwear",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "7ea3a5490a23",
+      "title": "Vans’ Splattered Sneaker Proves a Little Mess Goes a Long Way",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/vans-old-skool-36-paint-splatter/",
+      "original_publish_time": "2026-05-29T11:12:02+00:00",
+      "scraped_time": "2026-05-29T14:05:19.634203+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Vans"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "Vans Old Skool 36 gets an artistic upgrade with bold paint splatter details covering the upper.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "ed4c74af5996",
+      "title": "KIPNEXT 3D: Kiprun Enters the 3D Printed Footwear Market - 3D Printing Industry",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcVZqOFRSSTJFQXNGdU1UR1J0Q0VZRGNuNnR5aDAtQ09ZQkEwUEhFWjR6R2R6WkxGdzV5UklpT25WME0yWEpheHg1NXRrV2JKWG9lOTlHX1JmUmZlV0o0X1JiOWZnbnRZeXNPRVhZeFpZTzNZUjVTUnRmQ1otREVCcGtwQldKamkxcEJiQ194MExVNkh5d3ZlTXoyT3A0NDEy?oc=5",
+      "original_publish_time": "2026-05-29T11:08:56+00:00",
+      "scraped_time": "2026-05-29T14:01:58.605059+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "KIPNEXT 3D: Kiprun Enters the 3D Printed Footwear Market 3D Printing Industry",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "c83196c9fc8b",
+      "title": "New Balance Unveils the 990v4 in \"Moonbeam/Tangerine Heat/Dried Orange\"",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/5/new-balance-990v4-moonbeam-tangerine-heat-dried-orange-u990mo4-release-info",
+      "original_publish_time": "2026-05-29T08:39:22+00:00",
+      "scraped_time": "2026-05-29T14:01:47.457191+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "New Balance"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Name: New Balance 990v4 MADE in USA \"Moonbeam/Tangerine-Heat Dried Orange\"Colorway: Moonbeam/Tangerine-Heat Dried OrangeSKU: U990MO4MSRP: $185 USDRelease Date: Summer 2026Where to Buy: New BalanceNew Balance’s legendary \"Made in USA\" collection is bringing some serious heat to your footwear rotation. Continuing to build upon the enduring legacy of the 990 series, the Boston-based sportswear giant has delivered a striking new colorway for the U990v4. Officially billed as the \"Moonbeam / Tangerine Heat / Dried Orange\" edition, this release seamlessly blends the brand's heritage craftsmanship with a bold, refreshing pop of color that is absolutely perfect for the warmer months ahead.Originally introduced as a direct, performance-driven update to the 990v3, the v4 is widely celebrated by runne",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "0f82faf81b3b",
       "title": "adidas’ Summer Soccer Sneaker Is a Certified Goal",
@@ -1901,185 +2002,6 @@
       "keywords_matched": [],
       "relevance_score": 3,
       "summary": "Has the reign of A Ma Maniere x Jordan Brand collaborations finally slowed down? With no reported pairs in the works from AMM proper, perhaps... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post A Ma Maniere Is Releasing Six Nike Air Force 1 Low's This Summer appeared first on Sneaker News . The post A Ma Maniere Is Releasing Six Nike Air Force 1 Low’s This Summer appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "94831870f49f",
-      "title": "We Would Love This Unreleased Carpet Company x Salomon XT-Whisper Colorway To Drop in the Future",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/5/we-would-love-this-unreleased-carpet-company-x-salomon-whisper-void-colorway-to-drop-in-the-future",
-      "original_publish_time": "2026-05-22T13:03:59+00:00",
-      "scraped_time": "2026-05-22T13:32:32.508550+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [
-        "Salomon"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "When Baltimore-based skate imprint Carpet Company announced its highly anticipated collaboration with Salomon, the sneaker world immediately took notice. The resulting XT‑Whisper Void “Habibi Express” perfectly encapsulated founders Ayman and Osama Abdeldayem’s DIY ethos, merging Salomon’s rugged, trail-ready heritage with Carpet Company’s playful, skate-driven appeal.Leading up to the reveal, the brand dropped a series of conceptual Instagram reels that captured their distinctly irreverent vibe. Tinged with retro-nostalgia and offbeat humor, the narrative centered around a custom, red-horned minivan - the physical embodiment of the \"Habibi Express\" - decked out with Salomon's logo alongside Carpet Company’s recognizable star-shaped motif. This gradually culminated in the grand unveiling o",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "24a8764eeec3",
-      "title": "India’s Leather Exports Fall 16% in FY ’26 Amid US Tariffs and West Asia Crisis",
-      "source_name": "Apparel Resources",
-      "source_domain": "apparelresources.com",
-      "source_url": "https://apparelresources.com/business-news/trade-business-news/indias-leather-exports-fall-16-fy-26-amid-us-tariffs-west-asia-crisis/",
-      "original_publish_time": "2026-05-22T12:59:40+00:00",
-      "scraped_time": "2026-05-22T13:36:22.715536+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "leather exports"
-      ],
-      "relevance_score": 3,
-      "summary": "India’s leather and leather products exports declined 16% in FY ’26 as higher US tariffs, rising input costs and disruptions linked to the West Asia crisis weighed heavily on the sector’s global competitiveness. The downturn reflects mounting pressure on one of India’s key labour-intensive export industries, which has been grappling with slowing international demand, elevated […] The post India’s Leather Exports Fall 16% in FY ’26 Amid US Tariffs and West Asia Crisis appeared first on Apparel Resources .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "c8e94262f47e",
-      "title": "India Retail Sales Grow 7% in April 2026; Apparel, Footwear Demand Remains Steady",
-      "source_name": "Apparel Resources",
-      "source_domain": "apparelresources.com",
-      "source_url": "https://apparelresources.com/business-news/trade-business-news/india-retail-sales-grow-7-april-2026-apparel-footwear-demand-remains-steady/",
-      "original_publish_time": "2026-05-22T12:56:18+00:00",
-      "scraped_time": "2026-05-22T13:36:22.717830+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Retail sales in India recorded a 7% year-on-year increase in April 2026, reflecting continued stability in consumer demand despite persistent global cost pressures and cautious discretionary spending, according to the latest monthly Business Survey released by the Retailers Association of India (RAI). The findings indicated that growth trends remained relatively balanced across regions and retail […] The post India Retail Sales Grow 7% in April 2026; Apparel, Footwear Demand Remains Steady appeared first on Apparel Resources .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "75f8b4ef3d3a",
-      "title": "With the World Cup Around the Corner, adidas Is Betting on the Basics",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/adidas-world-cup-usa-94-collection/",
-      "original_publish_time": "2026-05-22T12:44:39+00:00",
-      "scraped_time": "2026-05-22T13:36:11.083033+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 4,
-      "summary": "With the FIFA World Cup on the horizon, adidas are highlighting the colors that have always resonated. Here's the best pieces from its USA 94 collection.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "a48aba958846",
-      "title": "FITASY’s Single-Shoe Option Shows What Inclusive Footwear Looks Like - 3D Printing Industry",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa0hWc1MwMk5BUnUwM1dGSWZFemZkMi1ZZTRncFVTUWYzdTc1RVpOajE5OS1EcU9CRzY0Y29BV1RhN01MeE9uX3UyLTF6cU1pMkxfYUFtMkthek1LbTBLb1FxRVZtanFoZ2gxSDExY0pEaC1NM2pzdE9DN252NFA4STJWcUNpV2JIVE44eTlkWmRFUkV1XzZQUHNOaVQ0dVFCY19YRXd3cUFrZ1ozV0lULQ?oc=5",
-      "original_publish_time": "2026-05-22T11:04:43+00:00",
-      "scraped_time": "2026-05-22T13:32:43.873097+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "FITASY’s Single-Shoe Option Shows What Inclusive Footwear Looks Like 3D Printing Industry",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "7a8ea851c0fd",
-      "title": "Boots to launch first beauty-only store outside London",
-      "source_name": "Retail Gazette",
-      "source_domain": "retailgazette.co.uk",
-      "source_url": "https://www.retailgazette.co.uk/blog/2026/05/boots-concept-store-beauty/",
-      "original_publish_time": "2026-05-22T10:05:42+00:00",
-      "scraped_time": "2026-05-22T13:35:39.358469+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 3,
-      "summary": "Boots is opening its first beauty-only store outside of London in Bristol later this month.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "d5b5922cca69",
-      "title": "The Nike SB Air Max Ishod Serves Up a \"Tennis Ball\" Colorway",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/5/nike-sb-air-max-ishod-tennis-ball-volt-volt-black-black-ib6212-701-release-info",
-      "original_publish_time": "2026-05-22T09:58:03+00:00",
-      "scraped_time": "2026-05-22T13:32:32.514017+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "midsole",
-        "outsole",
-        "sole",
-        "upper"
-      ],
-      "relevance_score": 6,
-      "summary": "Name: Nike SB Air Max Ishod “Tennis Ball”Colorway: Volt/Volt/Black/BlackSKU: IB6212-701MSRP: $125 USDRelease Date: May 29 Where to Buy: NikeThe official images of the Nike SB Air Max Ishod “Tennis Ball” highlight a bold reinterpretation of Ishod Wair’s skate‑ready silhouette with a vibrant neon palette. The upper is crafted from mesh and suede panels drenched in a fluorescent yellow‑green tone reminiscent of a tennis ball, contrasted by black detailing along the tongue, laces, and inner lining. A tonal Swoosh blends seamlessly into the sidewalls, while reflective accents add depth to the design. The sculpted midsole incorporates visible Air cushioning, paired with a durable gum outsole that reinforces the shoe’s skateboarding functionality.This electric neon finish is balanced by stark bla",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "12445bbb01e0",
-      "title": "Hoka, Ugg push Deckers Brands to record $5.47bn FY26 net sales",
-      "source_name": "Just Style",
-      "source_domain": "just-style.com",
-      "source_url": "https://www.just-style.com/news/deckers-brands-fy26-result/",
-      "original_publish_time": "2026-05-22T09:49:18+00:00",
-      "scraped_time": "2026-05-22T13:32:21.324502+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [
-        "Hoka",
-        "UGG"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 4,
-      "summary": "Deckers Brands recorded net sales of $5.47bn FY26 with Hoka and Ugg brands contributing significantly to this growth.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "cd7667347d43",
-      "title": "JJJJound Teases a First Look at its New Balance 1890 Sneaker in “Grey”",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/5/jjjjound-new-balance-1890-grey-first-look",
-      "original_publish_time": "2026-05-22T09:21:52+00:00",
-      "scraped_time": "2026-05-22T13:32:32.515546+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "New Balance"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "Name: JJJJound x New Balance 1890 “Grey”SKU: TBCRelease Date: 2026Following up on the initial teaser of the \"Tuxedo-style\" black and white pair, a second colorway has emerged to expand the Montreal design studio's footprint on New Balance's newest collaborative silhouette. Officially revealed through a lookbook image shared by JJJJound on their official Instagram account, this first look at the JJJJound x New Balance 1890 “Grey” arrived as part of a preview for the brand's upcoming JJJJ SS26 Summer Weekend Capsule.The upper is dressed in layered shades of grey mesh and suede, accented by muted synthetic overlays that emphasize depth without overpowering the design. Branding remains understated, with a tonal “N” logo on the quarters and subtle JJJJound text at the heel tab, reinforcing the ",
       "ren_take": "",
       "image_url": ""
     }
