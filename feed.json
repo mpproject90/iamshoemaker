@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-30T00:22:37.665186+00:00",
+  "last_updated": "2026-05-30T07:44:32.792626+00:00",
   "total_articles": 95,
   "sources_checked": 62,
   "articles": [
@@ -242,6 +242,27 @@
       ],
       "relevance_score": 3,
       "summary": "Mariska Hargitay, 62, Wore Cool-Girl Sneakers From the Ageless Brand Kendall Jenner, 30, Is a Fan of—From $49 instyle.com",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "4f2f24091e4d",
+      "title": "Nike Elevates a Classic With the Air Force 1 Low \"White Stars\"",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/5/nike-elevates-a-classic-with-the-air-force-1-low-white-stars",
+      "original_publish_time": "2026-05-29T09:58:11+00:00",
+      "scraped_time": "2026-05-30T07:33:43.396883+00:00",
+      "time_delta_mins": 0,
+      "category": "Quality",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "Name: Nike Air Force 1 Low \"White Stars\"Colorway: White/Metallic SilverSKU: IM5750-100Retail Price: $125 USDRelease Date: Summer 2026Where to Buy: NikeYou can never have too many crisp white Air Force 1s in your summer rotation, but this season, Nike is offering a fresh take on the undisputed classic. Introducing the Nike Air Force 1 Low \"White Stars,\" a sneaker that initially appears to be the standard issue white-on-white staple. However, a closer inspection reveals meticulous textured detailing that transforms this familiar, blank-slate silhouette into a unique, elevated statement piece.Constructed with a premium white leather upper, the shoe maintains the exact color-blocking—or lack thereof—that made the original model an absolute icon. The Swooshes, laces, interior lining, tongue tag",
       "ren_take": "",
       "image_url": ""
     },
@@ -1933,28 +1954,6 @@
       ],
       "relevance_score": 3,
       "summary": "Walmart’s $16 Sneakers Are Giving Name-Brand ‘Vibes at a Fraction of the Cost’ Athlon Sports",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "e2e86bd962ce",
-      "title": "Natalie Portman's All-Black Hoka Sneakers Are the Only Walking Shoes You Need for Summer - instyle.com",
-      "source_name": "Google News - Sneaker Brand",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUVF3T1VZeG9TZ2JTY0J0UTlSZ1FGYmI3RlprUFh4UGhuVmFVc1RkbGk0TzRVN2pELXNjT29mQWdOWlNEVGlPSzlFVkhmaE1FU0xIa2lBRDRmcVVhaUYzR1ZDY0pkcVVZQU9RazJaV1lwT0NWbV9iWEU1NVZqbWdKdw?oc=5",
-      "original_publish_time": "2026-05-23T04:30:00+00:00",
-      "scraped_time": "2026-05-23T07:24:51.888623+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Hoka"
-      ],
-      "keywords_matched": [
-        "shoes",
-        "sneakers"
-      ],
-      "relevance_score": 8,
-      "summary": "Natalie Portman's All-Black Hoka Sneakers Are the Only Walking Shoes You Need for Summer instyle.com",
       "ren_take": "",
       "image_url": ""
     }
