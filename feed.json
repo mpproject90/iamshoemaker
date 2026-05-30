@@ -1,8 +1,70 @@
 {
-  "last_updated": "2026-05-29T19:42:50.462174+00:00",
+  "last_updated": "2026-05-30T00:22:37.665186+00:00",
   "total_articles": 95,
-  "sources_checked": 61,
+  "sources_checked": 62,
   "articles": [
+    {
+      "id": "b2d48f82f785",
+      "title": "What's Wilder Than adidas Dress Shoes? Mickey Mouse adidas Dress Shoes",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/adidas-disney-brain-dead-predator/",
+      "original_publish_time": "2026-05-29T21:22:00+00:00",
+      "scraped_time": "2026-05-30T00:15:29.123201+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "boot",
+        "shoes"
+      ],
+      "relevance_score": 6,
+      "summary": "Turning the OG adidas Predator football boot into a dress shoe wasn’t crazy enough for Brain Dead. So it also got Disney involved for a three-part collab.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "3b59c31f4ec6",
+      "title": "Why Did This Artisanal Label Dip Its adidas Sneakers In Coffee? (EXCLUSIVE)",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/adidas-glass-cypress-interview/",
+      "original_publish_time": "2026-05-29T20:52:52+00:00",
+      "scraped_time": "2026-05-30T00:15:29.123929+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "Glass Cypress' delicious coffee-dyed & hand-scuffed adidas Stan Smiths are elegantly unique. \"That irregularity is the point,\" the brand's founder tells us.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "817008aaa559",
+      "title": "Salt Life to Launch Women’s Footwear for Spring ’27",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/salt-life-shoe-spring-27-license-sg-cos-iconix-1238986694/",
+      "original_publish_time": "2026-05-29T19:48:39+00:00",
+      "scraped_time": "2026-05-30T00:11:41.151627+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Salt Life's new shoe collection for Spring '27 is in partnership under license with The SG Cos.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "4c64cb80a5a3",
       "title": "Nike Introduces Gradient Uppers On The Pegasus Premium",
@@ -21,6 +83,25 @@
       ],
       "relevance_score": 5,
       "summary": "The sudden dominance of the run club and individual running eras across the world has meant a boon time for Nike. Reformatting and simplifying their... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike Introduces Gradient Uppers On The Pegasus Premium appeared first on Sneaker News . The post Nike Introduces Gradient Uppers On The Pegasus Premium appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "3e8aa5effa86",
+      "title": "PUMA Says Farewell FENTY & SKIMS Reveals First China Store in This Week's Top Fashion News",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/5/rihanna-fenty-puma-skims-hong-kong-chanel-seoul-nocta-world-cup-gucci-f1-inf0",
+      "original_publish_time": "2026-05-29T16:18:54+00:00",
+      "scraped_time": "2026-05-30T00:11:53.046816+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Puma"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "SummaryGucci and Drake’s NOCTA secured major sports deals via an F1 title sponsorship and Canadian World Cup kits.SKIMS and Aimé Leon Dore expanded brick-and-mortar retail with spaces in Hong Kong and Dubai.Chanel restaged its Métiers d'Art collection in Seoul, and Rihanna reportedly concluded her FENTY x PUMA partnership.Rihanna and PUMA Reportedly Conclude FENTY Partnership Rihanna’s FENTY x PUMA partnership has reportedly concluded after a three-year contract, expanding on the initial partnership that began more than 10 years ago. The artist originally joined the brand in 2014, driving mid-2010s streetwear trends, and revived the relationship in March 2023 after her Super Bowl halftime performance. Her second stint introduced lifestyle models like the Avanti and the Creeper Phatty but d",
       "ren_take": "",
       "image_url": ""
     },
@@ -1874,90 +1955,6 @@
       ],
       "relevance_score": 8,
       "summary": "Natalie Portman's All-Black Hoka Sneakers Are the Only Walking Shoes You Need for Summer instyle.com",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "42aa4d0b3414",
-      "title": "New Balance's Brand New Baby Blue Loafer Is Summer Fridays as a Shoe",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/new-balance-1906-2xn-loafer-blue/",
-      "original_publish_time": "2026-05-22T22:44:01+00:00",
-      "scraped_time": "2026-05-23T00:14:19.434280+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "New Balance"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "New Balance's 1906 2XN Loafer is a beautiful baby blue take on one of NB's most classic work shoes.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "324260636e1c",
-      "title": "Jude Bellingham Reveals The adidas Climacool Laced In Solar Red",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/05/22/adidas-climacool-laced-solar-red/",
-      "original_publish_time": "2026-05-22T21:35:17+00:00",
-      "scraped_time": "2026-05-23T00:10:52.755119+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "adidas continues expanding its futuristic footwear vision with a brand new colorway of the adidas Climacool Laced, and the latest reveal arrives courtesy of one... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Jude Bellingham Reveals The adidas Climacool Laced In Solar Red appeared first on Sneaker News . The post Jude Bellingham Reveals The adidas Climacool Laced In Solar Red appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "f7eb6648583c",
-      "title": "Over Being Flat, adidas’ Tokyo Sneaker Becomes a Thicc Runner",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/adidas-tokyo-contempo/",
-      "original_publish_time": "2026-05-22T21:05:29+00:00",
-      "scraped_time": "2026-05-23T00:14:19.435243+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "sole"
-      ],
-      "relevance_score": 3,
-      "summary": "Meet the adidas Tokyo Contempo, a thick-soled, runner version of the flat retro-sporty sneaker.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "787bba144b51",
-      "title": "Outdoor Sports Participation Growth Bodes Well for Footwear Industry",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/outdoor-sports-pickleball-climbing-soccer-sneakers-cleats-1238979527/",
-      "original_publish_time": "2026-05-22T19:52:16+00:00",
-      "scraped_time": "2026-05-23T00:10:41.286793+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "shoes",
-        "sneakers"
-      ],
-      "relevance_score": 5,
-      "summary": "Pickleball, climbing and soccer are among the top growth sports, paving the way for demand in sneakers, performance shoes and lcleats.",
       "ren_take": "",
       "image_url": ""
     }
