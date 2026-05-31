@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-31T12:22:55.324873+00:00",
+  "last_updated": "2026-05-31T18:09:34.586768+00:00",
   "total_articles": 89,
   "sources_checked": 61,
   "articles": [
@@ -684,6 +684,27 @@
       ],
       "relevance_score": 5,
       "summary": "Name: Above the Clouds x ASICS Gel-1130SKU: TBCRelease Date: 2026Above the Clouds has teased its upcoming collaboration with ASICS, offering a first look at the Above the Clouds x ASICS GEL‑1130 via its official Instagram.The preview image reveals only part of the sneaker, but enough to highlight its distinctive Intrecciato‑style woven leather upper, paired with overlays in a dark sage and khaki green palette. This layered construction gives the shoe a textured, premium feel while maintaining the GEL‑1130’s archival running silhouette. Additional details include dark grey shoes, a black mesh tongue and a black sole unit, all of which reinforce the understated yet refined aesthetic. Click here to view full gallery at Hypebeast",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "30d73313e414",
+      "title": "The new adidas sneakers set to outshine the Samba craze - Vogue Adria",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2YTBSTFBhT3Rmc0w5UDM0OGdDRzY2SjlhdjNKS2tBak5GWXc3dC1XNC1hMFQ5bEdGSUp4LTJmNVAtMUZvVjlQMlRueUo5YzE1ZlR6S2Zn?oc=5",
+      "original_publish_time": "2026-05-28T09:00:33+00:00",
+      "scraped_time": "2026-05-31T17:58:55.418124+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "The new adidas sneakers set to outshine the Samba craze Vogue Adria",
       "ren_take": "",
       "image_url": ""
     },
@@ -1818,26 +1839,6 @@
       ],
       "relevance_score": 7,
       "summary": "Nike's Air Max Goadome Low is back with some extra rugged updates. Here's everything on the new & improved low-top model.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "ce54eecb4a94",
-      "title": "DBL Group hosts VF Corporation executive at manufacturing facilities",
-      "source_name": "Textile Today",
-      "source_domain": "textiletoday.com.bd",
-      "source_url": "https://textiletoday.com.bd/dbl-group-hosts-vf-corporation-executive-at-manufacturing-facilities",
-      "original_publish_time": "2026-05-24T14:53:00+00:00",
-      "scraped_time": "2026-05-24T18:01:02.118131+00:00",
-      "time_delta_mins": 0,
-      "category": "Manufacturing",
-      "brands_mentioned": [
-        "Brooks",
-        "VF Corporation"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "Leading Bangladeshi textile and apparel manufacturer DBL Group welcomed Gareth Brooks, Managing Director, Global Product Supply of VF Corporation, during a visit to the company’s facilities on 21 May...",
       "ren_take": "",
       "image_url": ""
     }
