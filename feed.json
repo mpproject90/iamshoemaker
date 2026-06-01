@@ -1,8 +1,69 @@
 {
-  "last_updated": "2026-05-31T18:09:34.586768+00:00",
-  "total_articles": 89,
+  "last_updated": "2026-06-01T00:21:06.857084+00:00",
+  "total_articles": 90,
   "sources_checked": 61,
   "articles": [
+    {
+      "id": "1d4da4743d07",
+      "title": "Nike Puts A New Spin On A Classic Dunk Low",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/05/31/nike-dunk-low-old-royal-photon-dust-io4244-400/",
+      "original_publish_time": "2026-06-01T00:00:39+00:00",
+      "scraped_time": "2026-06-01T00:10:08.120887+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "Nike has no issue putting a fresh coat of paint on a shoe that’s already done well. The “Tianjin 2.0” Foamposites? The “Seoul 2.0” Jordan... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike Puts A New Spin On A Classic Dunk Low appeared first on Sneaker News . The post Nike Puts A New Spin On A Classic Dunk Low appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "343f7bc4e3ca",
+      "title": "The Super-Stacked Nike Vomero Premium Cleans Up In “Off White”",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/05/31/nike-vomero-premium-off-white-dark-obsidian-grey-fog-hq2050-104/",
+      "original_publish_time": "2026-05-31T22:00:24+00:00",
+      "scraped_time": "2026-06-01T00:10:08.124623+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "If you’re one to abide by the old (probably antiquated) rule of wearing no white sneakers before Memorial Day, Nike has a new release well... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Super-Stacked Nike Vomero Premium Cleans Up In \"Off White\" appeared first on Sneaker News . The post The Super-Stacked Nike Vomero Premium Cleans Up In “Off White” appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "0efebb1284f2",
+      "title": "The New Balance 9060 Gets A High-Contrast “Timberwolf” Colorway",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/05/31/new-balance-9060-timberwolf-black-cement-u90606h1/",
+      "original_publish_time": "2026-05-31T18:00:51+00:00",
+      "scraped_time": "2026-06-01T00:10:08.127139+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Adidas",
+        "New Balance"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "You’d be hard pressed to name a more prevalent sneaker of the past few years than the New Balance 9060. The adidas Samba and the... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The New Balance 9060 Gets A High-Contrast \"Timberwolf\" Colorway appeared first on Sneaker News . The post The New Balance 9060 Gets A High-Contrast “Timberwolf” Colorway appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "0a312cac428b",
       "title": "The Nike Tiempo Streetgato Adds A Highlighter Pink Swoosh",
@@ -1799,46 +1860,6 @@
       ],
       "relevance_score": 6,
       "summary": "Loafers as comfortable as sneakers: Hybrid shoes become fashion's latest obsession The Korea Times",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "c6fa8a2d03db",
-      "title": "Balkh Shoe Factories Say Afghanistan Self-Sufficient in Footwear Production - tolonews.com",
-      "source_name": "Google News - Shoe Manufacturing",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBYdkNmQ1dWZDgtWGxxRXZwTExWTEpSWGxWVlMwMFR3R1lXT1MwZ0l6NmRlRDYzcy1MXzlvTFdxWDljNU5jT29KS25QT3g?oc=5",
-      "original_publish_time": "2026-05-25T00:03:38+00:00",
-      "scraped_time": "2026-05-25T18:23:54.180300+00:00",
-      "time_delta_mins": 0,
-      "category": "Manufacturing",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Balkh Shoe Factories Say Afghanistan Self-Sufficient in Footwear Production tolonews.com",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "f95f58722220",
-      "title": "Nike’s ACG Air Max Boot Is Good. The Rugged Sneaker Spin-Off Is Even Better",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-air-max-goadome-low-black-shoes/",
-      "original_publish_time": "2026-05-24T18:09:41+00:00",
-      "scraped_time": "2026-05-25T00:07:30.172882+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 7,
-      "summary": "Nike's Air Max Goadome Low is back with some extra rugged updates. Here's everything on the new & improved low-top model.",
       "ren_take": "",
       "image_url": ""
     }
