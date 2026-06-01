@@ -1,8 +1,106 @@
 {
-  "last_updated": "2026-06-01T16:50:19.954045+00:00",
-  "total_articles": 111,
+  "last_updated": "2026-06-01T21:04:44.412118+00:00",
+  "total_articles": 114,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "778ee4b5bcd7",
+      "title": "Dockers, Wrangler Footwear Continue to Drive Genesco’s Licensed Division",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/dockers-wrangler-footwear-genesco-brands-group-growth-1238988885/",
+      "original_publish_time": "2026-06-01T20:36:02+00:00",
+      "scraped_time": "2026-06-01T20:53:44.923810+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Genesco is kicking off footwear market week in New York by looking forward.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "8a7527ad7b56",
+      "title": "Amy Poehler, Yara Shahidi and More Stars Slip Into Strappy Sandals and Pumps for the 2026 Peabody Awards",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-trends/amy-poehler-yara-shahidi-shoes-2026-peabody-awards-1238988644/",
+      "original_publish_time": "2026-06-01T20:33:09+00:00",
+      "scraped_time": "2026-06-01T20:53:44.926174+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sandal"
+      ],
+      "relevance_score": 3,
+      "summary": "Poehler wore Giuseppe Zanotti sandals.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "8269ef0f27fd",
+      "title": "Footwear Firms at Forefront of Demand for Circularity Policy Overhaul",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/policy-change-circularity-models-resale-repair-1238988140/",
+      "original_publish_time": "2026-06-01T19:46:00+00:00",
+      "scraped_time": "2026-06-01T20:53:44.926694+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Among the signatories pushing for policy change are Amer Sports, Arc'teryx, Ecoalf, Stella McCartney and Vivobarefoot.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "141a12d2a0cd",
+      "title": "Palace, Patta and Five Other Collaborators Are Turning Classic Nike Soccer Cleats Into Street-ready Sneakers",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-cryoshot-sneakers-collaborations-release-dates-1238988013/",
+      "original_publish_time": "2026-06-01T19:29:40+00:00",
+      "scraped_time": "2026-06-01T20:53:44.927247+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "The Cryoshot sneakers will release for the World Cup as part of larger X2 collections.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "bbab0172fb9e",
+      "title": "Battle of the Brands: How Nike, Adidas and More Will Duke It Out Across World Cup Product, Marketing and Activations",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-features/sports-brand-2026-world-cup-product-marketing-activations-1238988658/",
+      "original_publish_time": "2026-06-01T19:12:31+00:00",
+      "scraped_time": "2026-06-01T20:53:44.927909+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Nike",
+        "Adidas"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "An inside look at plans from Nike, Adidas and more.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "1200de225560",
       "title": "New Arrivals From HBX: adidas Originals",
@@ -121,6 +219,25 @@
       ],
       "relevance_score": 4,
       "summary": "The executive retired last month after a roughly 45-year career in footwear.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "082753b675f1",
+      "title": "SportsShoes.com signs Yeti retail partnership",
+      "source_name": "Drapers",
+      "source_domain": "drapersonline.com",
+      "source_url": "https://www.drapersonline.com/news/sportsshoes-com-signs-yeti-retail-partnership",
+      "original_publish_time": "2026-06-01T13:07:33+00:00",
+      "scraped_time": "2026-06-01T20:56:50.383089+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "Drapers SportsShoes.com signs Yeti retail partnership SportsShoes.com has launched a UK retail partnership with outdoor lifestyle brand Yeti, adding the label’s products to its online offering. The post SportsShoes.com signs Yeti retail partnership appeared first on Drapers .",
       "ren_take": "",
       "image_url": ""
     },
@@ -2238,67 +2355,6 @@
       ],
       "relevance_score": 3,
       "summary": "Much as well-timed retros and modified models may excite us in the realm of women’s footwear, Nike has demonstrated that they’re not content with using... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Nike First Sight Noir Continues Its First Impression With \"Bright Crimson\" appeared first on Sneaker News . The post The Nike First Sight Noir Continues Its First Impression With “Bright Crimson” appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "c72527c42906",
-      "title": "Temperley London Teams With Giuseppe Zanotti for Anniversary Footwear Capsule",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/temperley-london-giuseppe-zanotti-footwear-capsule-1238974664/",
-      "original_publish_time": "2026-05-25T19:14:51+00:00",
-      "scraped_time": "2026-05-26T00:09:17.158536+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "The partnership under the new majority owner, Times Square Group, underscores Temperley’s push into a broader lifestyle and accessories strategy.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "a63ab852342e",
-      "title": "Nike Reinvents Mercurial For The World Cup Stage",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/05/25/nike-mercurial-vapor-superfly-2026/",
-      "original_publish_time": "2026-05-25T17:14:43+00:00",
-      "scraped_time": "2026-05-25T18:23:41.874981+00:00",
-      "time_delta_mins": 0,
-      "category": "Trade Data",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 3,
-      "summary": "With the 2026 FIFA World Cup rapidly approaching, Nike is officially unveiling the next generation of its most important football boot franchise: the Nike Mercurial... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike Reinvents Mercurial For The World Cup Stage appeared first on Sneaker News . The post Nike Reinvents Mercurial For The World Cup Stage appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "fd71a856a051",
-      "title": "Kith and adidas Football Pay the Ultimate Tribute With Lionel Messi Collaborative Collection",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/5/kith-adidas-football-lionel-messi-collaborative-collection-release-info",
-      "original_publish_time": "2026-05-25T17:05:17+00:00",
-      "scraped_time": "2026-05-25T18:23:41.707199+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "SummaryKith and adidas Football have officially detailed their massive collaborative collection with Lionel Messi, celebrating the 20th anniversary of his world stage debut and Kith’s 15th anniversaryThe expansive collection features both on-pitch performance gear and off-pitch lifestyle apparel, all co-designed by Ronnie Fieg and Messi over the course of a yearSix footwear styles are included, featuring lifestyle models like the Handball Spezial and Superstar, alongside performance-inspired silhouettes like the COPA Mundial 17 UltraBOOST and F50 Walkable CleatRonnie Fieg has officially pulled back the curtain on one of the most highly anticipated sportswear crossovers of the year. Following recent teasers, Kith and adidas Football have fully revealed their massive collaboration with globa",
       "ren_take": "",
       "image_url": ""
     }
