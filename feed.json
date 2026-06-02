@@ -1,8 +1,94 @@
 {
-  "last_updated": "2026-06-02T09:10:31.083276+00:00",
+  "last_updated": "2026-06-02T15:04:33.255912+00:00",
   "total_articles": 112,
-  "sources_checked": 61,
+  "sources_checked": 62,
   "articles": [
+    {
+      "id": "7c00937d403d",
+      "title": "The Air Jordan 1 Low OG Is Looking \"Pine\" As Hell",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/air-jordan-1-retro-low-og-phantom-pine-green/",
+      "original_publish_time": "2026-06-02T10:02:50+00:00",
+      "scraped_time": "2026-06-02T14:57:19.741864+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [
+        "Nike",
+        "Off-White",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "Nike's Air Jordan 1 Retro Low OG Phantom Pine Green is an off-white beauty clad with black and venomously green paneling.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "94effe9bbc21",
+      "title": "The ‘Spider-Man’ x Crocs Classic Clog Translates Earth-616's Suit Into Clog Form",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/6/spider-man-crocs-classic-clog-collaboration-213630-90h-release-info",
+      "original_publish_time": "2026-06-02T09:48:11+00:00",
+      "scraped_time": "2026-06-02T14:53:47.546976+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [
+        "Crocs"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "Name: ‘Spider-Man’ x Crocs Classic ClogColorway: MultiSKU: 213630-90HMSRP: $70 USDRelease Date: June 17Where to Buy: CrocsCrocs and Marvel have confirmed the Spider-Man Classic Clog for June 17. The adult colorway retails at $70 USD and draws its design language directly from Earth-616's red and blue suit, building a character-driven clog that keeps its Marvel references embedded in the construction rather than plastered across the surface.The design hierarchy is deliberate. The molded upper is done almost entirely in red, with black web lines spreading across the toe box, sides, and heel strap — a surface treatment that references the suit's most recognizable graphic element without requiring a single piece of Marvel text to carry the message. The strongest character detail sits on the fo",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "28842257b10c",
+      "title": "Official Look at the McDonald's x Nike Book 2 \"Sedona\"",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/6/mcdonalds-nike-book-2-sedona-ir6445-100-release-info",
+      "original_publish_time": "2026-06-02T09:16:01+00:00",
+      "scraped_time": "2026-06-02T14:53:47.551886+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "footwear",
+        "upper"
+      ],
+      "relevance_score": 4,
+      "summary": "Name: McDonald's x Nike Book 2 \"Sedona\"Colorway: Sand Drift/Light British Tan/Revstar Dust/Dusty CactusSKU: IR6445-100Retail Price: $120 USDRelease Date: June 2, 2026Where to Buy: NikeDevin Booker is ready to serve up defenders with a side of fries. In one of the most unexpected and creative footwear crossovers of the year, Nike Basketball has officially unveiled the McDonald's x Nike Book 2. Rather than relying on the classic red and yellow branding of the fast-food giant, this collaboration digs deep into Arizona lore. The design pays homage to the famous Sedona McDonald's—the only location in the entire world to feature turquoise arches—making it a perfect, localized tribute that aligns seamlessly with Booker's deep connection to the Grand Canyon State.The upper leans heavily into deser",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "7aeeecabff8a",
+      "title": "BIOTOP Upgrades the Birkenstock Kyoto With a Full Leather Rework for Its First-Ever Exclusive",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/6/biotop-birkenstock-kyoto-collaboration-bfa36060-release-info",
+      "original_publish_time": "2026-06-02T08:58:17+00:00",
+      "scraped_time": "2026-06-02T14:53:47.553524+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Birkenstock"
+      ],
+      "keywords_matched": [
+        "sandal",
+        "upper"
+      ],
+      "relevance_score": 4,
+      "summary": "Name: BIOTOP x Birkenstock KyotoColorway: BlackSKU: BFA36060MSRP: ¥34,100 JPY (approx. $215 USD)Release Date: June 27Where to Buy: BIOTOPBIOTOP has announced its first Birkenstock exclusive, a reworked version of the Kyoto sandal releasing June 27. Pre-orders open June 5 via BIOTOP Online ahead of the wider release across all five BIOTOP locations. The collaboration applies a suite of material upgrades to the Kyoto's existing construction, arriving in a single all-black colorway.The construction decisions are the point. Birkenstock's Kyoto, introduced in 2020, is built on the Zurich silhouette with an upper designed to reference the collar fold of a kimono. BIOTOP's exclusive retains that visual language while reworking the materials from the footbed outward. The lining has been upgraded f",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "fa89072324e3",
       "title": "LEGO and Nike Football Are Dropping a Collection Built for the World Cup Summer",
@@ -2222,96 +2308,6 @@
       ],
       "relevance_score": 3,
       "summary": "Teyana Taylor, Nikki Glaser and more of the best shoe moments.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "3bb4834ece82",
-      "title": "Nike’s Mercurial Superfly 11 Elite Ditches the High-Top Look",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/5/nike-mercurial-superfly-11-elite-io8219-900-multi-color-black-official-images-release-info",
-      "original_publish_time": "2026-05-26T12:57:30+00:00",
-      "scraped_time": "2026-05-26T13:54:41.536070+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "boot",
-        "upper"
-      ],
-      "relevance_score": 4,
-      "summary": "Name: Nike Mercurial Superfly 11 EliteColorway: Multi-Color/BlackSKU: $315 USDMSRP: IO8219-900Release Date: June 1Where to Buy: NikeThe Nike Mercurial Superfly 11 Elite debuts as part of the next‑generation Mercurial lineup, revealed alongside the Vapor 17 Elite ahead of the 2026 FIFA World Cup. Designed with a dynamic mid‑cut collar, the Superfly 11 offers additional ankle support and lockdown while maintaining the lightweight responsiveness that defines the silo. Its upper is made of AtomKnit, Nike’s most transparent Flyknit construction to date, delivering a semi‑translucent, perforated finish that wraps the foot for a barefoot boot‑to‑ball sensation. This streamlined silhouette is accented by bold black Swoosh branding and vibrant multi‑color detailing, balancing technical innovation w",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "38c8677a3c23",
-      "title": "Every Colorway in Balenciaga’s New Unisex Jet Sneaker",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/5/balenciaga-jet-sneaker-release-info",
-      "original_publish_time": "2026-05-26T12:57:26+00:00",
-      "scraped_time": "2026-05-26T13:54:41.540005+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Balenciaga"
-      ],
-      "keywords_matched": [
-        "sole",
-        "upper"
-      ],
-      "relevance_score": 4,
-      "summary": "Name: Balenciaga Jet SneakerMSRP: $1,090 USDRelease Date: Available NowWhere to Buy: BalenciagaBalenciaga has officially launched the Jet sneaker, which was first previewed at Pierpaolo Piccioli's Fall 2026 \"Body and Being\" collection for the fashion house. This silhouette introduces a futuristic, aerodynamic form that emphasizes both technical construction and lifestyle appeal. The upper features layered mesh and synthetic panels with a sculpted, flowing geometry that evokes speed and movement. A molded sole unit extends into exaggerated curves, creating a dynamic profile that balances cushioning with bold visual impact.Catering to a wide variety of personal styles, the unisex lineup is available in a diverse array of precisely curated colorways across men's and women's sizing. The full c",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "17951fe695b7",
-      "title": "Official Look at the New Balance 5030 “Rainclound/Black Metallic”",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/5/new-balance-5030-rainclound-black-metallic-u50303l3-official-images-release-info",
-      "original_publish_time": "2026-05-26T09:21:58+00:00",
-      "scraped_time": "2026-05-26T13:54:41.543672+00:00",
-      "time_delta_mins": 0,
-      "category": "Trade Data",
-      "brands_mentioned": [
-        "New Balance"
-      ],
-      "keywords_matched": [
-        "lasting",
-        "midsole",
-        "sole",
-        "upper"
-      ],
-      "relevance_score": 6,
-      "summary": "Name: New Balance 5030 3L3 “Rainclound/Black Metallic”Colorway: “Rainclound/Black Metallic”SKU: U50303L3MSRP: ￥15,950 JPY (approx. $101 USD)Release Date: June 1 Where to Buy: New Balance New Balance is set to welcome a \"Raincloud/Black Metallic” colorway to the 5030 sneaker roster. The design centers on a padded upper detailed with clean, debossed lines that introduce sophisticated texture across the side paneling. The upper, constructed from synthetic material, is enveloped in a \"Raincloud\" grey and accented by \"Black Metallic\" highlights.The built construction emphasizes comfort and responsiveness, with a premium footbed and ABZORB midsole engineered to absorb impact while maintaining rebound for long‑lasting wear. To complement this structure, a traditional lace-up closure delivers an a",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "e54f13abd86c",
-      "title": "Vans Gives the Premium Authentic 44 EXT a World Cup Moment With the “Copa Racing Red”",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/5/vans-premium-authentic-44-ext-copa-racing-red-vn000z9qizq-release-info",
-      "original_publish_time": "2026-05-26T09:19:50+00:00",
-      "scraped_time": "2026-05-26T13:54:41.545384+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Vans"
-      ],
-      "keywords_matched": [
-        "outsole",
-        "sole"
-      ],
-      "relevance_score": 4,
-      "summary": "Name: Vans Premium Authentic 44 EXT “Copa Racing Red”Colorway: Copa Racing RedSKU: VN000Z9QIZQMSRP: ¥14,300 JPY (approx. $90 USD)Release Date: June 1Where to Buy: BILLY’SVans has been telling the same story since 1966, and it still lands. The Premium Authentic 44 EXT \"Copa Racing Red” is the latest chapter in that narrative, a colorway drop timed to the 2026 FIFA World Cup that pairs one of skateboarding's foundational silhouettes with a color associated more with football pitches than skate parks.The Style 44 is where Vans began. Produced from the brand's founding in 1966, the silhouette earned its reputation not from marketing but from function — skaters in the 1970s gravitated toward it because the thick, patterned outsole lasted longer and gripped better than anything else available. T",
       "ren_take": "",
       "image_url": ""
     }
