@@ -1,8 +1,71 @@
 {
-  "last_updated": "2026-06-02T15:04:33.255912+00:00",
-  "total_articles": 112,
+  "last_updated": "2026-06-02T20:18:14.059795+00:00",
+  "total_articles": 108,
   "sources_checked": 62,
   "articles": [
+    {
+      "id": "931a30193801",
+      "title": "How US$4.50 Chinese shoes are putting pressure on Brazil’s footwear industry - DatamarNews",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUDhFbEJaekF4aHhpS0cyNS1iSHJyaWR1LXNPMFh5MndDT3IteDBqdXVLcWRXdGQ3WXRIQnlWTkNLYVc3MlpmVDBZemtqdl9pQUNIbVV5eEhFZm5aZjNGQTllbTdvTF9Ib0dxcTZhbjNMSTdyLUt0cktkNFdoNUs1cFZmbG91MmNyZVJYZHB4WmVuOGlsMWwyazVOUE03MFJnT3JlRjNNYlR1elBB?oc=5",
+      "original_publish_time": "2026-06-02T19:42:15+00:00",
+      "scraped_time": "2026-06-02T20:06:21.020438+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "footwear industry",
+        "shoes"
+      ],
+      "relevance_score": 9,
+      "summary": "How US$4.50 Chinese shoes are putting pressure on Brazil’s footwear industry DatamarNews",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "271ce2e6cb87",
+      "title": "Vans’ Frayed Yarn ‘Ibiza’ Sneakers Are Poised to Be Its Next Big Hit",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/vans-authentic-ibiza-pack-release-date-1238990975/",
+      "original_publish_time": "2026-06-02T19:35:49+00:00",
+      "scraped_time": "2026-06-02T20:05:58.180640+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Vans"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "The trio of Authentics takes inspiration from a Loewe bag of the same name, as well as punk iconography.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "4ee0e2d8db54",
+      "title": "Wolverine Worldwide CEO on Merrell’s Legacy and Why He’s Not Leaning on the Past",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-features/wolverine-worldwide-ceo-chris-hufnagel-merrell-legacy-1238990817/",
+      "original_publish_time": "2026-06-02T17:31:00+00:00",
+      "scraped_time": "2026-06-02T20:05:58.183482+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Merrell",
+        "Wolverine",
+        "Wolverine Worldwide"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 6,
+      "summary": "Hufnagel, who previously served as Merrell brand president, gives us his perspective from the corner office.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "7c00937d403d",
       "title": "The Air Jordan 1 Low OG Is Looking \"Pine\" As Hell",
@@ -64,6 +127,25 @@
       ],
       "relevance_score": 4,
       "summary": "Name: McDonald's x Nike Book 2 \"Sedona\"Colorway: Sand Drift/Light British Tan/Revstar Dust/Dusty CactusSKU: IR6445-100Retail Price: $120 USDRelease Date: June 2, 2026Where to Buy: NikeDevin Booker is ready to serve up defenders with a side of fries. In one of the most unexpected and creative footwear crossovers of the year, Nike Basketball has officially unveiled the McDonald's x Nike Book 2. Rather than relying on the classic red and yellow branding of the fast-food giant, this collaboration digs deep into Arizona lore. The design pays homage to the famous Sedona McDonald's—the only location in the entire world to feature turquoise arches—making it a perfect, localized tribute that aligns seamlessly with Booker's deep connection to the Grand Canyon State.The upper leans heavily into deser",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "ca3aec08c885",
+      "title": "Mobile NIR Spectroscopy: New Applications for the Footwear and Textile Industry - Wiley Analytical Science",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRXlsNFcyX1V3dFhiSHFTOVNPaF9qdWFYSVJhUk50MWlXNW04OVlPMVhULTJ1czJFeGlmMWFDUzlBdFdGM3V3NGZBVTdESFFZTF9UdVM4dFh0NzdtSmdFa1pNc0tMbFVsdVI1WDA4UWNHWGh3bWhfZ2Jfb1ljMHpIbGxFNWh4R0dYZU1hRzRmN2xXOG5rRUwyZjV0YVJlbHRybUxaX19Ec2xOV2xxVnhYcE1GYzEtckhtS2h6T0RRcw?oc=5",
+      "original_publish_time": "2026-06-02T09:10:28+00:00",
+      "scraped_time": "2026-06-02T20:06:21.021370+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Mobile NIR Spectroscopy: New Applications for the Footwear and Textile Industry Wiley Analytical Science",
       "ren_take": "",
       "image_url": ""
     },
@@ -2145,169 +2227,6 @@
       ],
       "relevance_score": 3,
       "summary": "Willy Chavarria’s adidas Megaride drops in bold black and white with a chunked-up sole, sporty attitude, and oversized tongue",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "2f4805a41339",
-      "title": "The Raging Return of Nike’s Fieriest Jordan Sneaker",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/jordan-4-toro-bravo-sneakers-2026/",
-      "original_publish_time": "2026-05-26T18:06:11+00:00",
-      "scraped_time": "2026-05-26T19:19:35.083069+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike",
-        "Jordan"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 4,
-      "summary": "The Air Jordan 4 \"Toro Bravo\" sneaker returns in its iconic \"Fire Red\" color scheme 13 years after its debut.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "623851de4920",
-      "title": "Michael Jordan’s Last Chicago Bulls Sneakers Are Getting a New Makeover for Valentine’s Day",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/air-jordan-14-retro-low-valentines-day-release-date-ix5170-600-1238981770/",
-      "original_publish_time": "2026-05-26T17:49:53+00:00",
-      "scraped_time": "2026-05-26T19:15:49.067489+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Jordan"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 5,
-      "summary": "Early details on the Air Jordan 14 Retro Low expected in early 2027.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "ceb2fbec04ce",
-      "title": "Next Up In A Ma Maniére’s Generational Run Of Collabs: The Nike Pegasus Premium",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/05/26/a-ma-maniere-nike-pegasus-premium/",
-      "original_publish_time": "2026-05-26T17:44:35+00:00",
-      "scraped_time": "2026-05-26T19:16:00.951325+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Nike",
-        "Adidas",
-        "Jordan"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 4,
-      "summary": "A Ma Maniére simply refuses to slow down. Between an aggressive slate of collaborations spanning Nike, Jordan Brand, and adidas throughout 2026, the Atlanta-based boutique... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Next Up In A Ma Maniére's Generational Run Of Collabs: The Nike Pegasus Premium appeared first on Sneaker News . The post Next Up In A Ma Maniére’s Generational Run Of Collabs: The Nike Pegasus Premium appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "779efe754388",
-      "title": "Spanish Shoe Brand Alohas Continues U.S. Store Expansion With Two New Locations",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/alohas-store-expansion-plans-ceo-interview-1238981754/",
-      "original_publish_time": "2026-05-26T17:40:53+00:00",
-      "scraped_time": "2026-05-26T19:15:49.070241+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoe brand"
-      ],
-      "relevance_score": 3,
-      "summary": "The company has opened its second store in New York City and its first pop-up in Los Angeles.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "b8abdcaa7526",
-      "title": "Official Images Of The Air Jordan 1 Low OG “Sail”",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/05/26/air-jordan-1-low-og-sail-hq6998-100-release-date/",
-      "original_publish_time": "2026-05-26T17:00:57+00:00",
-      "scraped_time": "2026-05-26T19:16:00.953869+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Off-White",
-        "Jordan"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "The right pair of all-whites is a must for any sneakerhead come summertime, but various moves across the industry have made hits of off-white a... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Official Images Of The Air Jordan 1 Low OG \"Sail\" appeared first on Sneaker News . The post Official Images Of The Air Jordan 1 Low OG “Sail” appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "5adbdaa827dc",
-      "title": "8 Drops You Don't Want to Miss This Week",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/5/best-drops-may-week-4-palace-rizla-kith-adidas",
-      "original_publish_time": "2026-05-26T16:54:58+00:00",
-      "scraped_time": "2026-05-27T14:27:23.859673+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "footwear",
-        "leather goods"
-      ],
-      "relevance_score": 3,
-      "summary": "With another week upon us, we have yet another installment of our product drops series.This week’s lineup of drops kicks off with Palace and historic rolling paper brand Rizla channeling two centuries of British counterculture into a vibrant, MotoGP-inspired Summer 2026 capsule. Kith follows by honoring Argentine legend Lionel Messi alongside adidas Football, delivering a massive collection that seamlessly bridges on-pitch performance gear with premium off-pitch tailoring and six distinct footwear models. Coach taps Los Angeles-based creative collective Brain Dead for a playful, theme park-inspired capsule that mashes up '90s Tokyo street style with customized heritage leather goods. Fear of God modernizes classic baseball heritage with its MLB Essentials Spring 2026 collection, while HUF ",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "2582413357c7",
-      "title": "The Nike KD 19 “Bubble Gum Bounce” Is Ready To Pop",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/05/26/nike-kd-19-bubble-gum-bounce-ih1118-600/",
-      "original_publish_time": "2026-05-26T16:30:32+00:00",
-      "scraped_time": "2026-05-26T19:16:00.955394+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "Kevin Durant’s longstanding “Aunt Pearl” series has made the future Hall of Famer synonymous with pink basketball sneakers, but this upcoming Nike KD 19 has... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Nike KD 19 \"Bubble Gum Bounce\" Is Ready To Pop appeared first on Sneaker News . The post The Nike KD 19 “Bubble Gum Bounce” Is Ready To Pop appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "a23d7277ea5a",
-      "title": "The Best Celebrity Shoes on the 2026 American Music Awards Red Carpet",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-trends/shoes-american-music-awards-2026-red-carpet-1238981064/",
-      "original_publish_time": "2026-05-26T15:56:23+00:00",
-      "scraped_time": "2026-05-26T19:15:49.070900+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "Teyana Taylor, Nikki Glaser and more of the best shoe moments.",
       "ren_take": "",
       "image_url": ""
     }
