@@ -1,8 +1,47 @@
 {
-  "last_updated": "2026-06-03T01:52:19.430597+00:00",
+  "last_updated": "2026-06-03T09:30:58.404880+00:00",
   "total_articles": 109,
   "sources_checked": 62,
   "articles": [
+    {
+      "id": "d987fce18d82",
+      "title": "Footwear industry is backbone of India’s economy: Union Minister Giriraj Singh - News On AIR",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ29UaXZQZHFWUm1nX2FHV3h5VGlhdFRaX01vcllPcGc2bU5fRFdmR282RjQ1ZnkyTE9Ic0drOHQ2SjM3NkI5ZFI3eEZsRHUyaTI0LW15clpXMnJYcS15QmN6Qy0xR1NEbVd0QVp6b0taVXVkZXVYNUxsdHdlX2JFUGtKLUFXenJ6eVdxU1I5NF9ud2tPVTFLM3hwbmNZdHl4cFFZdQ?oc=5",
+      "original_publish_time": "2026-06-03T07:26:21+00:00",
+      "scraped_time": "2026-06-03T09:19:53.989979+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "footwear industry"
+      ],
+      "relevance_score": 6,
+      "summary": "Footwear industry is backbone of India’s economy: Union Minister Giriraj Singh News On AIR",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "4ec80e244911",
+      "title": "Portuguese Footwear Association welcomes talent from London College of Fashion and New York's Fashion Institute of Technology - FashionNetwork USA",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQb3RsRVdxUHp1LWRiRXZkZG55cDdveG1wVlF0cWFYdzFRZGFkV2owTXhIaHd4d3VWV05UMEpSY1Z3REZobjZ4SW85bHJ6VmFQbzRmdnBWakNQMDkyM05Na3pzdVlUNnRrMjhhUkllT2RMVWx4X0xldUVSaE1uRV9tNGlWMVZSSUhLYnFDMUtTdWxoSVFYSnk5dFlQaVJfemhJaVExRnh5bVJ1OFR3WnlyckJLajNEeHhvb1NTOGRONVU4TFljMXBXYXF2MlJfUWN4bjNEUW00akNuaHhBX2hIYklOTmdabXBtQUp1c3dyMTU5QU5mb0VqY0NKQ0l5UC1DWEE0?oc=5",
+      "original_publish_time": "2026-06-03T03:15:13+00:00",
+      "scraped_time": "2026-06-03T09:19:53.985275+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Portuguese Footwear Association welcomes talent from London College of Fashion and New York's Fashion Institute of Technology FashionNetwork USA",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "8761fc38c19b",
       "title": "Japan’s Forget-Me-Nots Joins The World Cup Party With Nike Total 90 Shox Magia Collab",
@@ -2205,47 +2244,6 @@
       ],
       "relevance_score": 6,
       "summary": "Portuguese footwear industry heads to Brussels AICEP",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "7b0a806309db",
-      "title": "Danner and N.HOOLYWOOD COMPILE Reconstruct the Postman Shoe With Work-Boot Attitude for Spring 2026",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/5/danner-n-hoolywood-compile-postman-shoes-collaboration-2261-se01-release-info",
-      "original_publish_time": "2026-05-27T09:24:55+00:00",
-      "scraped_time": "2026-05-27T14:27:23.864691+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "boot",
-        "footwear",
-        "shoes"
-      ],
-      "relevance_score": 6,
-      "summary": "Name: Danner x N.HOOLYWOOD COMPILE Postman ShoesColorway: BlackSKU: 2261-SE01MSRP: ¥71,500 JPY (approx. $450 USD)Release Date: May 30Where to Buy: N.HOOLYWOODThe postman shoe is one of American workwear's most quietly authoritative silhouettes. Designed originally as service footwear for postal workers and still produced in Japan today, it occupies a specific register: formal enough for dress wear, built tough enough to last. N.HOOLYWOOD COMPILE and Danner's Spring 2026 second drop, releasing May 30, takes that foundation and pushes it further into work-boot territory, adding rugged construction details to a silhouette that has always carried more toughness than its dress-adjacent appearance suggests.The starting point matters here. The postman shoe's origins as US Postal Service issue foo",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "8b2787286497",
-      "title": "Spanish footwear industry launches Intellectual Property Observatory - World Footwear",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNa2V4djJGcnc1MTgtaGd5dEloYWFDQkR4UU1oSGwzZW5KZ1hZVndWRnRCamhNLWpYYmpJRFVCY25qWTNTYWJ2c2JiMndWZjVEOEhxXzczam1zeW0yT0NnT3B2Vm8yWUJxVnIwTEFRalA3dFU1MV9oT09Pam9mMmFjVlRPTmZlVTBuVGMwdF9BN1QzX0VCVXZHMW5WWkt2MEhhbExIVDdKN3pfNDR0R080UUNPa28?oc=5",
-      "original_publish_time": "2026-05-27T08:20:58+00:00",
-      "scraped_time": "2026-05-27T08:33:17.551273+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "footwear industry"
-      ],
-      "relevance_score": 6,
-      "summary": "Spanish footwear industry launches Intellectual Property Observatory World Footwear",
       "ren_take": "",
       "image_url": ""
     }
