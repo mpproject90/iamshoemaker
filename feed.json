@@ -1,8 +1,256 @@
 {
-  "last_updated": "2026-06-03T09:30:58.404880+00:00",
-  "total_articles": 109,
-  "sources_checked": 62,
+  "last_updated": "2026-06-03T15:38:38.117963+00:00",
+  "total_articles": 114,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "80214620d995",
+      "title": "New Balance’s Newest Gator Is Proof the Archives Still Have Bite",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/new-balance-gator-run-yellow/",
+      "original_publish_time": "2026-06-03T14:07:03+00:00",
+      "scraped_time": "2026-06-03T15:31:26.478498+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [
+        "New Balance"
+      ],
+      "keywords_matched": [
+        "sole"
+      ],
+      "relevance_score": 3,
+      "summary": "New Balance brings back the Gator Run with bold yellow and lime green, vintage vibes, and spiked soles.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "ddc2f6b6c8d3",
+      "title": "Willy Chavarria And adidas Celebrate Mexico Through Megaride Footwear Collection",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/06/03/willy-chavarria-adidas-comienza-con-el-sueno-world-cup-collection/",
+      "original_publish_time": "2026-06-03T14:00:25+00:00",
+      "scraped_time": "2026-06-03T15:27:49.399494+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 5,
+      "summary": "As the FIFA World Cup 2026 approaches, adidas and Willy Chavarria are expanding their ongoing partnership with a new collection rooted in football culture and... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Willy Chavarria And adidas Celebrate Mexico Through Megaride Footwear Collection appeared first on Sneaker News . The post Willy Chavarria And adidas Celebrate Mexico Through Megaride Footwear Collection appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "6b75162cf979",
+      "title": "New Report Identifies Missed Opportunities to Scale Footwear Circularity",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/fashion-for-good-report-missed-opportunities-footwear-circularity-1238991622/",
+      "original_publish_time": "2026-06-03T14:00:00+00:00",
+      "scraped_time": "2026-06-03T15:27:38.030828+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Forty-six percent of post-consumer footwear waste is re-wearable, according to Fashion for Good.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "a3999395a90e",
+      "title": "Women Who Rock: Rack Room Shoes’ Molly Hartney on How to Embrace Change — and AI — Responsibly",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-features/molly-hartney-rack-room-shoes-women-who-rock-2026-1238951314/",
+      "original_publish_time": "2026-06-03T13:00:00+00:00",
+      "scraped_time": "2026-06-03T15:27:38.033329+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "Hartney added the title of chief digital officer in July 2025 after previously serving as chief marketing officer.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "7d47dc899d4d",
+      "title": "Vans’ Ibiza Inspired Slim Sneaker Is All About Controlled Chaos",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/vans-authentic-ibiza/",
+      "original_publish_time": "2026-06-03T11:34:00+00:00",
+      "scraped_time": "2026-06-03T15:31:26.479177+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Vans"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "Vans’ Authentic Ibiza Pack remixes the classic skate silhouette with maroon uppers, distressed yarn, and studded details.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "cfdedef41fe7",
+      "title": "The Nike Mind 001 \"White/Metallic Silver\" Trades the Silhouette's Signature Flash for Something Quieter",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/6/nike-mind-001-white-metallic-silver-hq4309-101-official-images",
+      "original_publish_time": "2026-06-03T11:30:44+00:00",
+      "scraped_time": "2026-06-03T15:27:49.238510+00:00",
+      "time_delta_mins": 0,
+      "category": "Trade Data",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "Name: Nike Mind 001 “White/Metallic Silver”Colorway: Summit White/Metallic Silver-Phantom-Light Orewood Brown-BlackSKU: HQ4309-101MSRP: $95 USDRelease Date: Summer 2026Nike is releasing the Mind 001 in \"White/Metallic Silver\" for Summer 2026, a women's-exclusive colorway priced at $95 USD. The release keeps the silhouette's full construction intact — molded foam upper, perforated textile overlays, 22-pod underfoot platform — while swapping the Mind 001's typically vivid palette for a quieter mix of Summit White, Metallic Silver, Phantom, Light Orewood Brown, and Black.The construction decisions on the \"Summit White\" are the same ones that have made the Mind 001 one of 2026's most consistently sold-out silhouettes. The molded foam upper retains the futuristic mule shape, with perforated tex",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "27fd7ac9ed2f",
+      "title": "Comet Expands Footwear Portfolio With Launch Of Retro Court-inspired Sneaker ‘Aeres’ - IFAB MEDIA",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBLeE9ZNXpWTHFiTXlJRVlPa21XSWY5LU5YdnZfQzdXTW1MaUFqT3VfS2pVeG9QaWVldUpmU3doR3JNb2dkMHNWb0E0anpqZDhPOUo1SmF2aWdSY1MyVTA2emI3Q0x6UQ?oc=5",
+      "original_publish_time": "2026-06-03T10:41:46+00:00",
+      "scraped_time": "2026-06-03T15:28:01.098753+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Comet Expands Footwear Portfolio With Launch Of Retro Court-inspired Sneaker ‘Aeres’ IFAB MEDIA",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "2a08b47c9346",
+      "title": "Govt prioritizes CETP overhaul and sector recovery to revive Bangladesh’s leather industry",
+      "source_name": "Textile Today",
+      "source_domain": "textiletoday.com.bd",
+      "source_url": "https://textiletoday.com.bd/govt-prioritizes-cetp-overhaul-and-sector-recovery-to-revive-bangladeshs-leather-industry",
+      "original_publish_time": "2026-06-03T10:08:00+00:00",
+      "scraped_time": "2026-06-03T15:31:39.111189+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "leather industry"
+      ],
+      "relevance_score": 4,
+      "summary": "The government is prioritizing improvements to waste treatment infrastructure and industry recovery measures as Bangladesh’s leather sector continues to struggle with relocation related challenges and...",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "9c6cb6df8b8d",
+      "title": "The Paura x Vans Authentic Collab Boasts a Fresh Yet Rebellious Punk Appeal",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/6/paura-vans-authentic-collaboration-collection-release-info",
+      "original_publish_time": "2026-06-03T10:00:36+00:00",
+      "scraped_time": "2026-06-03T15:27:49.240724+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Vans"
+      ],
+      "keywords_matched": [
+        "footwear",
+        "shoe brand",
+        "upper"
+      ],
+      "relevance_score": 6,
+      "summary": "Name: Paura x Vans Authentic CollectionColorway: TBCSKU: TBCMSRP: TBCRelease Date: June 6 Where to Buy: Paura, VansIn celebration of Vans' 60th anniversary, Paura, helmed by designer Danilo Paura, has teamed up with the iconic skate-shoe brand for a punk-inspired footwear collab. The Paura x Vans Authentic Collection reinterprets the timeless low‑top silhouette through an experimental and rebellious creative lens.Comprising two distinct variants, each pair features a premium canvas upper with a muted, earthy palette that blends black, brown and neutral tones for understated versatility. Across the entirety of the upper, the design showcases an airbrushed checkered diamond pattern that delivers a rugged, hand-crafted twist to Vans' signature checkerboard motif. Furthering this weathered fin",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "366127c3baeb",
+      "title": "Converse Reveals the All Star Cityhike Hi in “Black” and “Brown” Colorways",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/6/converse-all-star-cityhike-hi-black-31318610-brown-31318611-official-images-release-info",
+      "original_publish_time": "2026-06-03T09:59:16+00:00",
+      "scraped_time": "2026-06-03T15:27:49.245472+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Converse"
+      ],
+      "keywords_matched": [
+        "shoes",
+        "sole",
+        "upper"
+      ],
+      "relevance_score": 5,
+      "summary": "Name: Converse All Star Cityhike Hi “Black\" & \"Brown”Colorway: Black, BrownSKU: 31318610, 31318611MSRP: ¥9,900 JPY (approx. $62 USD)Release Date: June 26Where to Buy: ConverseThe Converse All Star Cityhike Hi takes the brand’s iconic high‑top silhouette and reimagines it with a bold, utilitarian edge. Merging the timeless DNA of the classic high-top silhouette with a bold, chunky structure, this new silhouette features a classic canvas upper and is offered in two versatile options: a uniform \"Black/Black\" and an earthy \"Brown\" colorway.The defining feature of the Cityhike Hi lies underfoot, anchored by an extra-thick, dramatic platform sole inspired by 2000s performance running shoes. This oversized sole architecture integrates the side foxing tape directly into a single-piece injection EV",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "0a832a73e460",
+      "title": "8 Drops You Don't Want to Miss This Week",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/6/best-drops-june-week-1-supreme-jordan-brand-palace-levis-cactus-jack-nike",
+      "original_publish_time": "2026-06-03T09:10:02+00:00",
+      "scraped_time": "2026-06-03T15:27:49.236334+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Nike",
+        "Adidas",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "With another week upon us, we have yet another installment of our product drops series.This week's lineup of drops kicks off with Supreme and Jordan Brand teaming up for a premium Spring 2026 apparel collection that effortlessly blends New York streetwear with classic basketball heritage. Palace Skateboards delivers Drop 5 of its Summer 2026 lineup, offering retro cycling-inspired sportswear and highly breathable warm-weather staples. Travis Scott's Cactus Jack and Nike keep the momentum going with the extensive “Pink Pack” apparel collection, featuring vintage athletic pieces designed to match his recent Air Jordan 1 Low drop. Ahead of the upcoming World Cup, adidas Skateboarding unites Thrasher Magazine and the Argentine Football Association for a historic nine-piece capsule bridging Sou",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "65c5d5949317",
+      "title": "Official Look at the Stone Island x New Balance 1890 \"Deep Forest\"",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/6/stone-island-new-balance-1890-deep-forest-u1890si-release-info",
+      "original_publish_time": "2026-06-03T08:18:11+00:00",
+      "scraped_time": "2026-06-03T15:27:49.243362+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [
+        "New Balance"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "Name: Stone Island x New Balance 1890Colorway: Deep ForestSKU: U1890SIMSRP: $200 USDRelease Date: June 4, 2026Where to Buy: New Balance, Stone IslandStone Island and New Balance are pushing their football-centered project beyond apparel with the introduction of the Stone Island x New Balance 1890 \"Deep Forest\". Expanding on their longstanding partnership, this latest collaborative sneaker gives New Balance a fresh platform, stepping away from familiar lifestyle models to deliver a technical aesthetic. Timed around the World Cup, the release is part of a broader collection that also includes co-branded clothing, a soccer cleat, and a second 1890 colorway.The 1890 \"Deep Forest\" sets a distinct tone with a forest green ripstop mesh across the upper, providing a technical look that aligns seam",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "d987fce18d82",
       "title": "Footwear industry is backbone of India’s economy: Union Minister Giriraj Singh - News On AIR",
@@ -2102,148 +2350,6 @@
       ],
       "relevance_score": 7,
       "summary": "From Nike to Salomon, this week’s selection is about all about clever collabs.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "e383e025dc2c",
-      "title": "Sneex Breaks Into the Sandal Market With a New Hybrid Shoe Design",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-trends/sneex-sara-blakely-high-heel-sneaker-sandal-hybrid-1238982854/",
-      "original_publish_time": "2026-05-27T15:22:55+00:00",
-      "scraped_time": "2026-05-27T19:22:10.928402+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "sandal"
-      ],
-      "relevance_score": 3,
-      "summary": "The Charlie Hy-Heel Sandal offers the boost of a stiletto in addition to the responsiveness of a sneaker.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "64ef7455fda0",
-      "title": "Golden Goose reports ‘strong start to 2026’ as sales rise",
-      "source_name": "Drapers",
-      "source_domain": "drapersonline.com",
-      "source_url": "https://www.drapersonline.com/news/golden-goose-reports-strong-start-to-2026-as-sales-rise",
-      "original_publish_time": "2026-05-27T15:01:48+00:00",
-      "scraped_time": "2026-05-27T19:25:25.601717+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Golden Goose"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Drapers Golden Goose reports ‘strong start to 2026’ as sales rise Italian footwear brand Golden Goose reported a 10% year-on-year rise in revenue to €173.2m (£150m) for the 12 weeks to 31 March 2026, driven by continued momentum in its direct-to-consumer (DTC) business. The post Golden Goose reports ‘strong start to 2026’ as sales rise appeared first on Drapers .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "d04c065fae46",
-      "title": "I Saw More Pairs of These Walking Shoes in Italy Than I Did Gelato Shops - EatingWell",
-      "source_name": "Google News - Sneaker Brand",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE16d2NzcHowYUNHVGFtVkkwdHpyXzRaZkl5cXQyc0oybEM2QldmWlNFbzhXbFU0U0s0cHgxU3FkR0NGOEtFeVVnTlNMUGxJdHlPc0VQcTBVLTNqNklRRG9mUlhtS3JRVHV0LUNzUDAtM2hiY1U?oc=5",
-      "original_publish_time": "2026-05-27T13:00:00+00:00",
-      "scraped_time": "2026-05-29T08:36:09.568259+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "I Saw More Pairs of These Walking Shoes in Italy Than I Did Gelato Shops EatingWell",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "ccb6ca141885",
-      "title": "Nike's Air Rift Mesh Is a Breathable Update to One of the Brand's Most Distinctive Silhouettes",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/5/nike-air-rift-mesh-black-white-iw8074-001-japan-release-info",
-      "original_publish_time": "2026-05-27T11:56:01+00:00",
-      "scraped_time": "2026-05-31T08:00:21.901090+00:00",
-      "time_delta_mins": 0,
-      "category": "Quality",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "midsole",
-        "outsole",
-        "shoes",
-        "sole",
-        "upper"
-      ],
-      "relevance_score": 8,
-      "summary": "Name: Nike Air Rift Mesh “Black/White”Colorway: Black/White/BlackSKU: IW8074-001MSRP: ¥12,100 JPY (approx. $75 USD)Release Date: Available now (Japan)Where to Buy: Nike JPNike has listed the Air Rift Mesh Women's Shoes on its Japan webstore, bringing a mesh upper iteration of the brand's iconic split-toe silhouette in a Black/White/Black colorway. The shoe retains the Air Rift's defining construction — split toe, hook-and-loop strap entry, Nike Air cushioning — while the mesh upper reduces weight and improves breathability across the board.The spec sheet is straightforward and purposeful. A mesh upper keeps the build light and ventilated, a foam midsole pairs with Nike Air technology for impact absorption, and a rubber outsole with rugged tread handles durability and grip. Hook-and-loop st",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "15523da73efa",
-      "title": "Liberty Shoes Reports 5.5% Decline in Q4 Profit Despite Higher Revenue",
-      "source_name": "Apparel Resources",
-      "source_domain": "apparelresources.com",
-      "source_url": "https://apparelresources.com/business-news/retail/liberty-shoes-reports-5-5-decline-q4-profit-despite-higher-revenue/",
-      "original_publish_time": "2026-05-27T11:42:25+00:00",
-      "scraped_time": "2026-05-27T14:31:16.104185+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "Liberty Shoes Limited reported a 5.5% year-on-year decline in net profit to Rs 5.29 crore (US $552,000) for the fourth quarter ended 31st March 2026, despite recording double-digit growth in revenue. The company had posted a net profit of Rs 5.60 crore (US $585,000) during the corresponding quarter of the previous financial year, according to […] The post Liberty Shoes Reports 5.5% Decline in Q4 Profit Despite Higher Revenue appeared first on Apparel Resources .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "4ecaedff6630",
-      "title": "Luxury fashion supply chain reporting still lacks depth",
-      "source_name": "Ecotextile News",
-      "source_domain": "ecotextile.com",
-      "source_url": "https://www.ecotextile.com/2026052762938/news/social-compliance-and-csr/luxury-fashion-supply-chain-reporting-still-lacks-depth/",
-      "original_publish_time": "2026-05-27T11:22:30+00:00",
-      "scraped_time": "2026-05-27T14:29:25.830270+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "fashion supply chain"
-      ],
-      "relevance_score": 3,
-      "summary": "Heriot-Watt research says major luxury groups are complying with France’s vigilance law in form, but not in substance EDINBURGH – […] The post Luxury fashion supply chain reporting still lacks depth appeared first on Ecotextile News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "7578da686bdf",
-      "title": "Portuguese footwear industry heads to Brussels - AICEP",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRXlvX2wwTHFWZUhwazVCVENIeFBpajdDQ3F3b09lQjc1NUhUcXdYTDl5U1dvUkFsV2x4MUlBN1JGVTVsYzhQOGprM2QzR1d0RHNlaFRmSGw4ZDJNOVVNUGF3bnY1NmJZWWtqcnVvX3lfNVBYZk5xYUVPV3pqNTgwVXd6VVNYa19VM2poVDRWMkFEUW5HUkFRcXFLV1k?oc=5",
-      "original_publish_time": "2026-05-27T10:00:14+00:00",
-      "scraped_time": "2026-05-27T14:27:34.769803+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "footwear industry"
-      ],
-      "relevance_score": 6,
-      "summary": "Portuguese footwear industry heads to Brussels AICEP",
       "ren_take": "",
       "image_url": ""
     }
