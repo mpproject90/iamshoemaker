@@ -1,8 +1,90 @@
 {
-  "last_updated": "2026-06-04T14:09:15.707669+00:00",
-  "total_articles": 112,
+  "last_updated": "2026-06-04T19:32:57.708709+00:00",
+  "total_articles": 114,
   "sources_checked": 62,
   "articles": [
+    {
+      "id": "3f471ee1552e",
+      "title": "Nike Football Logos Appear On This Upcoming Jordan Spiz’ike Low",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/06/04/jordan-spizike-low-fc-iv6807-001/",
+      "original_publish_time": "2026-06-04T18:30:30+00:00",
+      "scraped_time": "2026-06-04T19:22:04.306916+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "Spike Lee is essentially traveling with his beloved New York Knicks as they seek their first NBA Championship of the century, but his signature Jordan... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike Football Logos Appear On This Upcoming Jordan Spiz'ike Low appeared first on Sneaker News . The post Nike Football Logos Appear On This Upcoming Jordan Spiz’ike Low appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "cadbb2406471",
+      "title": "Adidas Takes Over 35 Nordstrom Stores in Major World Cup Moment",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/adidas-nordstrom-nyc-pop-up-world-cup-1238995219/",
+      "original_publish_time": "2026-06-04T17:37:36+00:00",
+      "scraped_time": "2026-06-04T19:21:52.605026+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Adidas' signature footwear leads the offering, reimagined in World Cup colorways.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "76c75d02d027",
+      "title": "Following Offseason Trade, Reebok Is Dropping “Atlanta Dream” Angel Reese Shoes",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/06/04/reebok-angel-reese-1-red-release-date/",
+      "original_publish_time": "2026-06-04T17:30:29+00:00",
+      "scraped_time": "2026-06-04T19:22:04.309419+00:00",
+      "time_delta_mins": 0,
+      "category": "Trade Data",
+      "brands_mentioned": [
+        "Reebok"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 5,
+      "summary": "The WNBA universe got rocked this offseason when the Chicago Sky sent Angel Reese to Atlanta for two first-round picks, a seemingly out-of-nowhere reset named... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Following Offseason Trade, Reebok Is Dropping \"Atlanta Dream\" Angel Reese Shoes appeared first on Sneaker News . The post Following Offseason Trade, Reebok Is Dropping “Atlanta Dream” Angel Reese Shoes appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "e5da9990e9b6",
+      "title": "Up Close With The Nike Cryoshot Tiempo Legend",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/06/04/nike-cryoshot-tiempo-legend-r10/",
+      "original_publish_time": "2026-06-04T16:30:38+00:00",
+      "scraped_time": "2026-06-04T19:22:04.311944+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "It’s now commonplace that the public will hear whispers of massive Nike and Jordan releases way, way ahead of time. Hell, even as we write... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Up Close With The Nike Cryoshot Tiempo Legend appeared first on Sneaker News . The post Up Close With The Nike Cryoshot Tiempo Legend appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "13416b9b9851",
       "title": "A Half-Time Pulse Check On the Year's Best Running Shoes",
@@ -2272,48 +2354,6 @@
       ],
       "relevance_score": 4,
       "summary": "UBS analyst Jay Sole says AI will \"accelerate GDP growth\" that will fuel increased fashion and footwear spending by U.S. consumers.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "4c3a0aec9c61",
-      "title": "Nike’s Updated Air Max Boot Is Getting Several New Changes for the Summer",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-air-max-goadome-low-sp-black-pale-lemon-release-date-ir2173-001-1238984820/",
-      "original_publish_time": "2026-05-28T16:48:22+00:00",
-      "scraped_time": "2026-05-28T19:34:31.727758+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 5,
-      "summary": "Revamped hardware, speed lacing and wear-away graphics are featured on the Air Max Goadome Low.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "5d6cc6b57f75",
-      "title": "Geox Unveils Ventilated Cushioning Technology in ‘Climasandal’ Line",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/geox-climasandal-ventilated-cushioning-technology-1238984408/",
-      "original_publish_time": "2026-05-28T14:36:45+00:00",
-      "scraped_time": "2026-05-28T14:38:02.393685+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Geox"
-      ],
-      "keywords_matched": [
-        "sandal"
-      ],
-      "relevance_score": 5,
-      "summary": "President Mario Moretti Polegato presented the project during a conference in Milan.",
       "ren_take": "",
       "image_url": ""
     }
