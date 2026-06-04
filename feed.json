@@ -1,8 +1,53 @@
 {
-  "last_updated": "2026-06-04T08:53:10.694897+00:00",
-  "total_articles": 115,
-  "sources_checked": 61,
+  "last_updated": "2026-06-04T14:09:15.707669+00:00",
+  "total_articles": 112,
+  "sources_checked": 62,
   "articles": [
+    {
+      "id": "13416b9b9851",
+      "title": "A Half-Time Pulse Check On the Year's Best Running Shoes",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/the-best-running-shoes-to-shop-on-kickscrew-right-now/",
+      "original_publish_time": "2026-06-04T12:04:01+00:00",
+      "scraped_time": "2026-06-04T14:02:02.115698+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Adidas",
+        "Hoka"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 5,
+      "summary": "From adidas’ hottest runner to HOKA trail tanks and luxury On collabs, these are the Kicks Crew running shoes worth lacing up right now.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "13dcd3da7838",
+      "title": "The Nike Mind 002 \"Camo Green\" Tones Everything Down for Fall 2026",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/6/nike-mind-002-camo-green-hq4308-300-official-images",
+      "original_publish_time": "2026-06-04T09:46:47+00:00",
+      "scraped_time": "2026-06-04T13:58:31.139692+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "midsole",
+        "outsole",
+        "sole"
+      ],
+      "relevance_score": 5,
+      "summary": "Name: Nike Mind 002 “Camo Green”Colorway: Camo Green/Phantom-NewsprintSKU: HQ4308-300MSRP: $145 USDRelease Date: Fall 2026Nike is releasing the Mind 002 in \"Camo Green\" for Fall 2026. The unisex release takes a quieter approach than earlier Mind 002 pairs, most visibly in the decision to match the pressure-point pods to the rest of the shoe rather than using the bright orange that has defined the silhouette's most recognizable colorways.The pod swap is the colorway's central design statement. The Mind 002's columned midsole and podded outsole have typically appeared in a contrasting color that draws attention to the shoe's neuroscience-backed pressure-point system, making the recovery technology visible as an aesthetic feature. The \"Camo Green\" abandons that approach entirely, running the ",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "1ae30548ebeb",
       "title": "Take an Official Look at the Converse x Collina Strada Chuck 70 Collection",
@@ -21,6 +66,28 @@
       ],
       "relevance_score": 3,
       "summary": "Name: Converse x Collina Strada Chuck 70 Collection MSRP: $160 - $200 USDRelease Date: June 16 Where to Buy: Converse, Collina StradaConverse has finally announced its collaborative collection with Collina Strada. Previewed during the label’s Fall/Winter 2026 runway, the collaboration centers on the Chuck 70 silhouette, where it’s reimagined through Collina Strada's radical lens of self‑expression. This four-pair women 's-exclusive capsule introduces a bold range of cuts, including an extra-high ankle Chuck 70 XX-Hi boot, a standard high-top and low-top Ox models.The collection splits its design identity across two distinct visual themes: the colorful iterations showcase a whimsical, plaid picnic blanket print rendered in \"Mellow Rose\" pink and \"Mellow Yellow\" hues, while the sleek black i",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "34bafe3f7e1b",
+      "title": "Salomon Unveils the Japanese Garden-Inspired RX-ENRO UCHI",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/6/salomon-rx-enro-uchi-global-release-info",
+      "original_publish_time": "2026-06-04T08:00:45+00:00",
+      "scraped_time": "2026-06-04T13:58:31.144646+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [
+        "Salomon"
+      ],
+      "keywords_matched": [
+        "footwear",
+        "upper"
+      ],
+      "relevance_score": 4,
+      "summary": "SummarySalomon introduces the new RX-ENRO UCHI silhouette inspired by the serene philosophy of Japanese gardensThe footwear features a mesh upper that fades from green to brown to express the passage of timeVisuals for the campaign were photographed by Kisshomaru Shimamura to highlight the beauty of everyday utilitySalomon has officially unveiled the RX-ENRO UCHI, a brand-new footwear silhouette deeply inspired by the calming philosophy and aesthetic of traditional Japanese gardens. Designed with minimalism at its core, the model embraces a close connection with nature and the quiet beauty of daily living, continuing the brand's exploration of lifestyle-focused utility.Salomon has officially unveiled the RX-ENRO UCHI, a brand-new footwear silhouette deeply inspired by the calming philosoph",
       "ren_take": "",
       "image_url": ""
     },
@@ -2247,132 +2314,6 @@
       ],
       "relevance_score": 5,
       "summary": "President Mario Moretti Polegato presented the project during a conference in Milan.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "329ac9aec8bf",
-      "title": "Global Footwear Market Gains Momentum Through E-Commerce and Product Innovation - Spherical Insights",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcW0tbjJablB6SzVIRS03ZUhFUzJMODNtWU41VWI0Y1VWN1QxcDVkMkhhYm90Ql9SWjlYd1NzOWwzdHdJTDdoWEx2aFdVa3BSSVpRekg0UGhzSWJuQnM0WjEyXzJoMWI5cTRMR0NNQjFNVm9DWW8zcTFlZmRhdmVDdjlNRWhFSWcxbHN0R0lmYWhiZUh6bEtpN0kyVUVobXAzSUYteEdwUUl2c1FYRG0wcExDQ2xYMWlIX3Yw?oc=5",
-      "original_publish_time": "2026-05-28T13:27:08+00:00",
-      "scraped_time": "2026-05-28T14:38:24.755025+00:00",
-      "time_delta_mins": 0,
-      "category": "Trade Data",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Global Footwear Market Gains Momentum Through E-Commerce and Product Innovation Spherical Insights",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "38fc23e9c714",
-      "title": "adidas' Spezial Loafer Is What Happens When You Grow Up (Sort Of)",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/adidas-spezial-loafer/",
-      "original_publish_time": "2026-05-28T13:05:00+00:00",
-      "scraped_time": "2026-05-28T14:41:52.952548+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "sole"
-      ],
-      "relevance_score": 3,
-      "summary": "adidas Spezial Loafer blends soft black leather, gum sole, and signature stripes for a summer ready smart-casual shoe.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "e57b12e95831",
-      "title": "Salomon x Pas Normal Studios SS26 Is Built for Athletes Who Don't Choose a Discipline",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/5/salomon-pas-normal-studios-spring-summer-ss-2026-collaboration-collection-release-info",
-      "original_publish_time": "2026-05-28T11:31:32+00:00",
-      "scraped_time": "2026-05-28T14:38:13.761622+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Salomon"
-      ],
-      "keywords_matched": [
-        "midsole",
-        "outsole",
-        "sole"
-      ],
-      "relevance_score": 5,
-      "summary": "SummaryPas Normal Studios and Salomon have unveiled their SS26 T.K.O. collaborationAt the center of the drop is the GRVL Concept shoe, a hybrid performance trainer featuring a PEBA-based supercritical foam midsole, dual full-length carbon blades, and a bike tyre-derived outsole with 1.5mm lugs, weighing in at 262 gramsThe collection is completed by the RACE SKIN 2 running vest, designed for mixed-terrain endurance with dual front flasks and a rear hydration bladder compartmentPas Normal Studios and Salomon have launched their SS26 T.K.O. collaboration, a limited-edition collection built around the GRVL Concept: a performance shoe engineered for hybrid terrain. Available now the collection also includes the RACE SKIN 2 running vest, forming a unified system that bridges cycling and running ",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "76a89087e69f",
-      "title": "First Look at the Above the Clouds x ASICS GEL-1130",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/5/above-the-clouds-asics-gel-1130-first-look-teaser-info",
-      "original_publish_time": "2026-05-28T10:57:41+00:00",
-      "scraped_time": "2026-05-28T14:38:13.763786+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "ASICS"
-      ],
-      "keywords_matched": [
-        "shoes",
-        "sole",
-        "upper"
-      ],
-      "relevance_score": 5,
-      "summary": "Name: Above the Clouds x ASICS Gel-1130SKU: TBCRelease Date: 2026Above the Clouds has teased its upcoming collaboration with ASICS, offering a first look at the Above the Clouds x ASICS GEL‑1130 via its official Instagram.The preview image reveals only part of the sneaker, but enough to highlight its distinctive Intrecciato‑style woven leather upper, paired with overlays in a dark sage and khaki green palette. This layered construction gives the shoe a textured, premium feel while maintaining the GEL‑1130’s archival running silhouette. Additional details include dark grey shoes, a black mesh tongue and a black sole unit, all of which reinforce the understated yet refined aesthetic. Click here to view full gallery at Hypebeast",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "30d73313e414",
-      "title": "The new adidas sneakers set to outshine the Samba craze - Vogue Adria",
-      "source_name": "Google News - Sneaker Brand",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2YTBSTFBhT3Rmc0w5UDM0OGdDRzY2SjlhdjNKS2tBak5GWXc3dC1XNC1hMFQ5bEdGSUp4LTJmNVAtMUZvVjlQMlRueUo5YzE1ZlR6S2Zn?oc=5",
-      "original_publish_time": "2026-05-28T09:00:33+00:00",
-      "scraped_time": "2026-05-31T17:58:55.418124+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 5,
-      "summary": "The new adidas sneakers set to outshine the Samba craze Vogue Adria",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "dd1daff146b2",
-      "title": "JISOO Named Global Ambassador of Salomon",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/5/blackpink-jisoo-salomon-global-ambassador-announcement",
-      "original_publish_time": "2026-05-28T08:54:53+00:00",
-      "scraped_time": "2026-05-28T14:38:13.766962+00:00",
-      "time_delta_mins": 0,
-      "category": "Quality",
-      "brands_mentioned": [
-        "Salomon"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "SummaryFrench outdoor and sports apparel brand Salomon has officially announced JISOO as its newest global ambassadorThe partnership highlights Salomon's continued expansion beyond pure performance gear, embracing lifestyle, fashion, and everyday styleJISOO cited her South Korean upbringing close to the mountains and her appreciation for balancing functionality with style as key reasons for joining the brandThe intersection of outdoor performance and high fashion just gained a massive new co-sign. Annecy-based brand Salomon has officially unveiled global superstar BLACKPINK's JISOO as its newest brand ambassador. Moving beyond a traditional sportswear partnership, the collaboration aims to reflect Salomon’s rapidly evolving identity—one that seamlessly bridges its rugged mountain heritage ",
       "ren_take": "",
       "image_url": ""
     }
