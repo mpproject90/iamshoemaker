@@ -1,8 +1,114 @@
 {
-  "last_updated": "2026-06-04T19:32:57.708709+00:00",
-  "total_articles": 114,
-  "sources_checked": 62,
+  "last_updated": "2026-06-05T00:24:23.368825+00:00",
+  "total_articles": 115,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "ef2932addba9",
+      "title": "US proposes 25% tariff on Brazilian goods, raising concerns in footwear sector - World Footwear",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaGJXd3pCWXF3UjlSSDFxSTNZSHRObmZvdVdTNzQ5Z1pzcmFOYlZwdnA5di03bV9sRC1rNHdZV1ZnbHdSMHhpN01CMFd3WTNMZnBsT1R4S0hIM29KajRyQm5Vd3RBQWtEMm5wUEhrWkRuR3g5TTRCMXBfYjkyZmotOHVvSTRUWlpqZVp4b3BXZGhEM0VMQ0haQXEtWERXVHlXY0ZpWnhnVzl5NzYzVmg2UHZFTDlnTTkwTG0zT2dCSQ?oc=5",
+      "original_publish_time": "2026-06-04T23:01:43+00:00",
+      "scraped_time": "2026-06-05T00:13:39.036070+00:00",
+      "time_delta_mins": 0,
+      "category": "Trade Data",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "US proposes 25% tariff on Brazilian goods, raising concerns in footwear sector World Footwear",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "fb94c3baf29a",
+      "title": "Kids’ Shoes and ‘Elevated’ Brands Help Recovering Famous Footwear in Q1",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/famous-footwear-kids-shoes-elevated-brands-q1-2026-1238995869/",
+      "original_publish_time": "2026-06-04T21:04:49+00:00",
+      "scraped_time": "2026-06-05T00:13:16.616625+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [
+        "New Balance",
+        "Skechers",
+        "Brooks",
+        "Birkenstock",
+        "Jordan"
+      ],
+      "keywords_matched": [
+        "footwear",
+        "shoes"
+      ],
+      "relevance_score": 11,
+      "summary": "The retailer noted that it saw growth in the first quarter of 2026 from Jordan, Skechers, Birkenstock, New Balance, Reef and Brooks.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "cd6591d7005e",
+      "title": "atmos Pink Reimagines The Handball Spezial With Distressed Denim",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/06/04/atmos-pink-adidas-handball-spezial-denim-pack/",
+      "original_publish_time": "2026-06-04T20:30:28+00:00",
+      "scraped_time": "2026-06-05T00:13:27.844462+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Adidas",
+        "New Balance"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "Any sneakerhead should be well aware that atmos is among the most prolific collaborators there is in the landscape, linking with New Balance, Nike, adidas,... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post atmos Pink Reimagines The Handball Spezial With Distressed Denim appeared first on Sneaker News . The post atmos Pink Reimagines The Handball Spezial With Distressed Denim appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "1390ce73608d",
+      "title": "Love or Hate Them, Toe-ring Sandals Are Having a Moment",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-trends/toe-ring-sandal-trend-summer-1238995062/",
+      "original_publish_time": "2026-06-04T19:38:27+00:00",
+      "scraped_time": "2026-06-05T00:13:16.619458+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sandal"
+      ],
+      "relevance_score": 3,
+      "summary": "The polarizing shoe is back for summer — and getting freakier.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "6106ea2d0243",
+      "title": "Asics to Release a Special Edition of One of Its Most Iconic Sneakers to Celebrate the Designer’s Retirement",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/asics-gel-lyte-iii-shigeyuki-mitsui-release-date-1238995523/",
+      "original_publish_time": "2026-06-04T19:32:00+00:00",
+      "scraped_time": "2026-06-05T00:13:16.619945+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "ASICS"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "The Asics Gel-Lyte III Remastered releases this week in its popular build from 2007.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "3f471ee1552e",
       "title": "Nike Football Logos Appear On This Upcoming Jordan Spiz’ike Low",
@@ -2270,90 +2376,6 @@
       ],
       "relevance_score": 3,
       "summary": "SummaryBrain Dead, adidas and Disney have launched a 1994 World Cup-inspired football capsuleThe lineup leads with a reimagined Predator 94 sneaker, alongside jerseys, track jackets, shorts and accessories inspired by 1990s EQT templates and World Cup fan cultureIn step with the soccer-centric energy sweeping into the summer of 2026, Los Angeles-based creative collective Brain Dead has teamed up with adidas and The Walt Disney Company to launch a collaborative football capsule.Headlining this three-way partnership is the highly anticipated Brain Dead x Disney x adidas Predator 94 sneaker that retails for $200 USD. Reinterpreting the performance heritage of the 1994 World Cup boot through a distinct streetwear lens, this iteration arrives in a \"Core Black/Cream White\" colorway with a leathe",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "e4524f4f9788",
-      "title": "Where To Buy The Travis Scott Air Jordan 1 Low Pink Pack",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/05/28/travis-scott-shoes-pink-pack/",
-      "original_publish_time": "2026-05-28T23:00:35+00:00",
-      "scraped_time": "2026-05-29T00:13:59.435210+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Jordan"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "The time is almost here. The latest Travis Scott shoes, the Air Jordan 1 Low “Pink Pack” is ready to go on SNKRS and retailers... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Where To Buy The Travis Scott Air Jordan 1 Low Pink Pack appeared first on Sneaker News . The post Where To Buy The Travis Scott Air Jordan 1 Low Pink Pack appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "c807b7a8c128",
-      "title": "Nobody Noticed That JJJJound's Brilliant Vans Sneakers Came Back",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/jjjjound-vans-half-cab-2026/",
-      "original_publish_time": "2026-05-28T21:33:00+00:00",
-      "scraped_time": "2026-05-29T00:17:44.120009+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Vans"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 5,
-      "summary": "There's never been a Vans Half Cab like the one JJJJound made. But the menswear label's silhouette-altering update is so lowkey it's almost imperceptible.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "7e5aeec44aa4",
-      "title": "Capri Holdings’ ‘biggest issue’ is footwear",
-      "source_name": "Retail Dive",
-      "source_domain": "retaildive.com",
-      "source_url": "https://www.retaildive.com/news/capri-q4-earnings-footwear-strategy-Michael-Kors/821331/",
-      "original_publish_time": "2026-05-28T20:32:00+00:00",
-      "scraped_time": "2026-05-29T00:16:59.497405+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Jimmy Choo",
-        "Capri"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 6,
-      "summary": "Michael Kors is going through a strategic repositioning of the category, as that brand and Jimmy Choo prioritize more casual styles.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "8252f88df4c1",
-      "title": "AI to Fuel Fashion, Footwear Spending",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/ubs-analyst-jay-sole-ai-gdp-growth-footwear-spending-1238985291/",
-      "original_publish_time": "2026-05-28T19:48:35+00:00",
-      "scraped_time": "2026-05-29T00:13:47.719953+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "sole"
-      ],
-      "relevance_score": 4,
-      "summary": "UBS analyst Jay Sole says AI will \"accelerate GDP growth\" that will fuel increased fashion and footwear spending by U.S. consumers.",
       "ren_take": "",
       "image_url": ""
     }
