@@ -1,8 +1,75 @@
 {
-  "last_updated": "2026-06-05T00:24:23.368825+00:00",
-  "total_articles": 115,
+  "last_updated": "2026-06-05T08:47:57.154763+00:00",
+  "total_articles": 112,
   "sources_checked": 61,
   "articles": [
+    {
+      "id": "5a324e55c356",
+      "title": "New Balance's Techy Dad Sneaker Airs Out Its Linens. Literally",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/new-balance-1890-linen-punch-yellow/",
+      "original_publish_time": "2026-06-05T07:36:11+00:00",
+      "scraped_time": "2026-06-05T08:40:42.099706+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "New Balance"
+      ],
+      "keywords_matched": [
+        "midsole",
+        "sole",
+        "upper"
+      ],
+      "relevance_score": 5,
+      "summary": "The latest New Balance 1890 Linen/Punch Yellow combines a soft, neutral Linen upper with a flash of Punch Yellow to the midsole.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "6648a929a83e",
+      "title": "The Nike Mind 001 \"Old Royal/Midnight Navy\" Layers Two Blues Against Metallic Silver",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/6/nike-mind-001-old-royal-midnight-navy-hq4309-400-official-images",
+      "original_publish_time": "2026-06-05T06:33:59+00:00",
+      "scraped_time": "2026-06-05T08:37:04.409734+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "outsole",
+        "sole",
+        "upper"
+      ],
+      "relevance_score": 5,
+      "summary": "Name: Nike Mind 001 “Old Royal/Midnight Navy”Colorway: Old Royal/Midnight Navy/Aluminium/Metallic SilverSKU: HQ4309-400MSRP: TBCRelease Date: TBCNike is releasing the Mind 001 in \"Old Royal/Midnight Navy,\" a women's-exclusive colorway that runs two blue tones across the silhouette's mule upper and oversized outsole node system. The colorway, Old Royal/Midnight Navy/Aluminium/Metallic Silver, is one of the Mind 001's more considered palette executions, using depth and tonal contrast within a single color family rather than reaching for a second hue to carry the design.The palette's internal logic is what makes the colorway worth examining. Old Royal and Midnight Navy are both blue, but they occupy meaningfully different registers. Old Royal carries a brighter, more saturated presence while ",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "b5f9f79c5413",
+      "title": "Prada Unveils \"Satellites II\" With Nicolas Winding Refn and Hideo Kojima at Hotel Chelsea",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/6/prada-satellites-ii-nicolas-winding-refn-hideo-kojima-hotel-chelsea-inside-look",
+      "original_publish_time": "2026-06-05T01:56:41+00:00",
+      "scraped_time": "2026-06-05T08:37:04.416466+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Prada"
+      ],
+      "keywords_matched": [
+        "hide"
+      ],
+      "relevance_score": 5,
+      "summary": "SummaryPrada is bringing the 14th iteration of its Prada Mode cultural series to New York City's historic Hotel ChelseaTitled \"Satellites II,\" the immersive event is a collaborative exhibition curated by director Nicolas Winding Refn and game creator Hideo KojimaThe multi-day activation features private performances and public art installations that explore human connection through a sci-fi lensPrada has officially brought its traveling cultural series to New York City with the launch of Prada Mode New York \"Satellites II.\" Hosted at the historic Hotel Chelsea, the 14th iteration of the luxury house's immersive event reunites Danish film director Nicolas Winding Refn and Japanese game creator Hideo Kojima for a multi-day exhibition that runs concurrently with the Tribeca Festival.Serving a",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "ef2932addba9",
       "title": "US proposes 25% tariff on Brazilian goods, raising concerns in footwear sector - World Footwear",
@@ -130,6 +197,27 @@
       "image_url": ""
     },
     {
+      "id": "b9358a117c76",
+      "title": "adidas Transforms the Anthony Edwards 1 Low Into an \"Atlanta Vikings\" Football Cleat",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/6/adidas-anthony-edwards-1-low-cleat-atlanta-vikings-kk3085-release-info",
+      "original_publish_time": "2026-06-04T17:55:15+00:00",
+      "scraped_time": "2026-06-05T08:37:04.401744+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "Name: adidas Anthony Edwards 1 Low Cleat \"Atlanta Vikings\"Colorway: Core Black/Semi Solar Green-Solar PurpleSKU: KK3085MSRP: $160 USDRelease Date: Available NowWhere to Buy: adidasadidas has officially introduced the Anthony Edwards 1 Low Football Cleat in an \"Atlanta Vikings\" colorway, seamlessly bridging the gap between basketball design DNA and on-field performance. Paying tribute to the Minnesota Timberwolves star's early days dominating the Pop Warner circuit as a youth quarterback and running back, this gridiron-ready iteration reimagines one of the most culturally relevant signature sneakers on the market for an entirely new arena.At its core, the new football cleat retains everything that made the original basketball silhouette a massive success. The shoe features the same futurist",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
       "id": "cadbb2406471",
       "title": "Adidas Takes Over 35 Nordstrom Stores in Major World Cup Moment",
       "source_name": "Footwear News",
@@ -168,6 +256,27 @@
       ],
       "relevance_score": 5,
       "summary": "The WNBA universe got rocked this offseason when the Chicago Sky sent Angel Reese to Atlanta for two first-round picks, a seemingly out-of-nowhere reset named... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Following Offseason Trade, Reebok Is Dropping \"Atlanta Dream\" Angel Reese Shoes appeared first on Sneaker News . The post Following Offseason Trade, Reebok Is Dropping “Atlanta Dream” Angel Reese Shoes appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "0c8a16b583b4",
+      "title": "Nike Introduces the Air Max 95 Big Bubble in \"Pearl Grey/Light Charcoal\"",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/6/nike-introduces-the-air-max-95-big-bubble-in-pearl-grey-light-charcoal",
+      "original_publish_time": "2026-06-04T16:50:26+00:00",
+      "scraped_time": "2026-06-05T08:37:04.411316+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "Name: Nike Air Max 95 Big Bubble \"Pearl Grey/Light Charcoal\"Colorway: White/Light Graphite/Light Charcoal/BlackSKU: IR0802-100Retail Price: $210 USDRelease Date: June 12, 2026Where to Buy: NikeNike continues to dig into its vast archives to revitalize classic silhouettes, officially introducing the Air Max 95 Big Bubble in a clean \"Pearl Grey/Light Charcoal\" colorway. Drawing inspiration from the oversized visible Air units that defined the brand's early technological advancements, this latest iteration reimagines Sergio Lozano's iconic 1995 running sneaker with a bolder, more prominent cushioning system.Staying true to the anatomy-inspired design language of the original, the upper retains its signature layered construction. Wavy side panels transition smoothly from light Pearl Grey to da",
       "ren_take": "",
       "image_url": ""
     },
@@ -233,6 +342,27 @@
       ],
       "relevance_score": 5,
       "summary": "Name: Nike Mind 002 “Camo Green”Colorway: Camo Green/Phantom-NewsprintSKU: HQ4308-300MSRP: $145 USDRelease Date: Fall 2026Nike is releasing the Mind 002 in \"Camo Green\" for Fall 2026. The unisex release takes a quieter approach than earlier Mind 002 pairs, most visibly in the decision to match the pressure-point pods to the rest of the shoe rather than using the bright orange that has defined the silhouette's most recognizable colorways.The pod swap is the colorway's central design statement. The Mind 002's columned midsole and podded outsole have typically appeared in a contrasting color that draws attention to the shoe's neuroscience-backed pressure-point system, making the recovery technology visible as an aesthetic feature. The \"Camo Green\" abandons that approach entirely, running the ",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "d75c6417f748",
+      "title": "SOULGOODS and Nike Prepare to Drop the Homescape Woven Pack",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/6/soulgoods-nike-homescape-woven-pack-medium-orewood-brown-hm6961-001-blue-beyond-hm6961-400-chile-red-hm6961-600-first-look-release-info",
+      "original_publish_time": "2026-06-04T08:52:35+00:00",
+      "scraped_time": "2026-06-05T08:37:04.413862+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Name: SOULGOODS X Nike Homescape WovenColorway: Medium Orewood Brown/Dark Field Brown-Dark Blue Grey, Blue Beyond/Light Blue-Peat Moss, Chile Red/Black-Dark Smoke Grey-GingerSKU: HM6961-001, HM6961-400, HM6961-600Retail Price: $180 USDRelease Date: Fall 2026Where to Buy: NikeBeijing-based retailer SOULGOODS is teaming up with Nike to introduce an entirely new footwear silhouette with the upcoming Homescape Woven pack. Continuing a collaborative relationship that previously delivered unique takes on the Dunk High and Air Ship, the Chinese imprint is now reimagining the beloved Footscape lineage with a bold, outdoor-ready twist tailored for everyday wear.Flipping the classic Footscape Woven into a collapsible sneaker-slipper hybrid, the Homescape Woven arrives in three distinct colorways: a ",
       "ren_take": "",
       "image_url": ""
     },
@@ -2188,194 +2318,6 @@
       ],
       "relevance_score": 3,
       "summary": "Name: Nike Air Force 1 Low \"White Stars\"Colorway: White/Metallic SilverSKU: IM5750-100Retail Price: $125 USDRelease Date: Summer 2026Where to Buy: NikeYou can never have too many crisp white Air Force 1s in your summer rotation, but this season, Nike is offering a fresh take on the undisputed classic. Introducing the Nike Air Force 1 Low \"White Stars,\" a sneaker that initially appears to be the standard issue white-on-white staple. However, a closer inspection reveals meticulous textured detailing that transforms this familiar, blank-slate silhouette into a unique, elevated statement piece.Constructed with a premium white leather upper, the shoe maintains the exact color-blocking—or lack thereof—that made the original model an absolute icon. The Swooshes, laces, interior lining, tongue tag",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "c83196c9fc8b",
-      "title": "New Balance Unveils the 990v4 in \"Moonbeam/Tangerine Heat/Dried Orange\"",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/5/new-balance-990v4-moonbeam-tangerine-heat-dried-orange-u990mo4-release-info",
-      "original_publish_time": "2026-05-29T08:39:22+00:00",
-      "scraped_time": "2026-05-29T14:01:47.457191+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "New Balance"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Name: New Balance 990v4 MADE in USA \"Moonbeam/Tangerine-Heat Dried Orange\"Colorway: Moonbeam/Tangerine-Heat Dried OrangeSKU: U990MO4MSRP: $185 USDRelease Date: Summer 2026Where to Buy: New BalanceNew Balance’s legendary \"Made in USA\" collection is bringing some serious heat to your footwear rotation. Continuing to build upon the enduring legacy of the 990 series, the Boston-based sportswear giant has delivered a striking new colorway for the U990v4. Officially billed as the \"Moonbeam / Tangerine Heat / Dried Orange\" edition, this release seamlessly blends the brand's heritage craftsmanship with a bold, refreshing pop of color that is absolutely perfect for the warmer months ahead.Originally introduced as a direct, performance-driven update to the 990v3, the v4 is widely celebrated by runne",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "0f82faf81b3b",
-      "title": "adidas’ Summer Soccer Sneaker Is a Certified Goal",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/adidas-mundial-goal-soccer-shoe/",
-      "original_publish_time": "2026-05-29T08:29:23+00:00",
-      "scraped_time": "2026-05-29T08:39:30.740762+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "sole"
-      ],
-      "relevance_score": 3,
-      "summary": "adidas drops the Mundial Goal soccer sneaker with split-suede leather, gum sole, and a street-ready vibe.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "eb988451f9dd",
-      "title": "Travis Scott x Air Jordan 1 Low OG SP \"Sail/Shy Pink\" Pack Drops This Month",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/5/travis-scott-air-jordan-1-low-og-sp-sail-shy-pink-iq7604-100-iq7604-101-release-info",
-      "original_publish_time": "2026-05-29T08:22:11+00:00",
-      "scraped_time": "2026-05-29T08:35:57.720737+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Jordan"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "Name: Travis Scott x Air Jordan 1 Low OGColorway: Muslin/Sail/University Red/Shy Pink, Sail/Tropical Pink/Shy Pink/MuslinSKU: IQ7604-100, IQ7604-101Retail Price: $140 USDRelease Date: May 29Retailers: NikeTravis Scott’s chokehold on the sneaker community shows no signs of loosening. Just in time for the summer, the Houston rapper is once again teaming up with Jordan Brand to expand his massively successful Air Jordan 1 Low OG SP lineage. Moving away from his traditionally heavy, earth-toned palettes, La Flame is bringing a fresh pop of color to the timeline with a highly anticipated two-pair pack anchored by vibrant \"Shy Pink\" accentsThe latest drop delivers two distinct, yet complementary variations of the legendary low-top silhouette. The first pair (Style Code: IQ7604-100) utilizes a \"M",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "fc7cebccec2d",
-      "title": "Viet Nam’s leather and footwear industry builds stronger position in global supply chain - Nhan Dan Online",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVkhxaG1pTl83bW1NWmJyTmJkNl9xdzBTMm5FOE96RVJUVGNLNVBETWdjZnB4QTFOQU83NndaWHhSWF80SG9oQ2VjMmFUNlNSa2Y0UTZoZFhDdWgyWUR5VDFRMFNIblktT1F1azdBOWcyVFZqV1U4SEVLZmZLV09TSHpkQVE4cVFsWm9iWmRHNkxpNmp3U0p4bUlxMHlLQUpUVTRxSmhmbGRVb3JyRllyMER6VTNRV0NqQkR3YlU1ZHdxeXc?oc=5",
-      "original_publish_time": "2026-05-29T07:36:59+00:00",
-      "scraped_time": "2026-05-29T19:31:11.651865+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "footwear industry"
-      ],
-      "relevance_score": 6,
-      "summary": "Viet Nam’s leather and footwear industry builds stronger position in global supply chain Nhan Dan Online",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "a25eafe390ad",
-      "title": "I Tried Walking Shoes From Hoka and New Balance for a Month to Determine Which Brand Is Best - Prevention",
-      "source_name": "Google News - Sneaker Brand",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNEx4VFExZmlpLUZDNDhLRW5ITUNVbzVZZlN0cWtEd250aXZ0QnU4OFF1ajNNNFFsYXltTFBVN0pJWktqMC0xS1ptSV9RVTR1LWJmQjdKZl81LUQ0TzVRNG5hbW1DQUFuOFNiaFBFd3NWY0xsU0thandwWVg0LWxJd21qVXYtZFVqdmgyZ3FzT29TWmVPM0dB?oc=5",
-      "original_publish_time": "2026-05-29T07:00:00+00:00",
-      "scraped_time": "2026-05-31T08:00:34.450970+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "New Balance",
-        "Hoka"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 7,
-      "summary": "I Tried Walking Shoes From Hoka and New Balance for a Month to Determine Which Brand Is Best Prevention",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "853f91472997",
-      "title": "SUPPORT LOCAL 👞 Shoe vendors display a variety of school shoes at the Marikina City Public Market as they prepare for the influx of shoppers ahead of the opening of classes on June 8, 2026. Despite the back-to-school season, many vendors said they con - facebook.com",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOV1k3SU9kdTBZWTlkeDZQbzZ5NmhLbE5TV01TYUJUZkpFd3JNaHk3UUdmWmFmXzFsSVdONllYbkdxc2lSS1hwNVlGTmZacVdCSUFVbTItZDhCRFZlOVZjWWVKNWhnWW9vUjhoWjM0YlBYQ2hIRVNSdVVvME5sZjBXVUYzOERDeldTZjZ4cUZPQTZmZk1RbFZCdDJ5MkRQOHdNb0V5dTVDMjBYX1pTTHRTSnM0bkpwY0xSa3FFdWxZckFPY29RdlRQNm00VVcxYzNoc1hOWk5aOUV0TU9q?oc=5",
-      "original_publish_time": "2026-05-29T06:56:15+00:00",
-      "scraped_time": "2026-05-29T08:36:08.917719+00:00",
-      "time_delta_mins": 0,
-      "category": "Manufacturing",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "SUPPORT LOCAL 👞 Shoe vendors display a variety of school shoes at the Marikina City Public Market as they prepare for the influx of shoppers ahead of the opening of classes on June 8, 2026. Despite the back-to-school season, many vendors said they con facebook.com",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "39aed132c84c",
-      "title": "Metagirl Studio Gives the Vans Old Skool 36 a glam yet gritty Maximalist makeover",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/5/metagirl-studio-gives-the-vans-old-skool-36-a-glam-yet-gritty-maximalist-makeover",
-      "original_publish_time": "2026-05-29T06:39:21+00:00",
-      "scraped_time": "2026-05-29T08:35:57.728231+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Vans"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "Name: Metagirl Studio x Vans Premium Old SkoolColorway: Black/WhiteSKU: VN000ZAZHAB1MSRP: $160 USDRelease Date: Available NowWhere to Buy: Metagirl StudioThe Metagirl Studio has released a collaborative Vans Premium Old Skool 36 sneaker, reimagining the classic silhouette with Caterina Mongillo's signature hyper-feminine yet gritty and maximalist-glam aesthetics.The sneaker draws cues from nostalgic late-2000s design cues and a defiant \"divamaxxing\" appeal to subvert the traditionally boyish skate silhouette. Across the upper, a slanted snakeskin-effect leather strap arches boldly over the vamp, adorned with glittering rhinestone accents and anchored by a massive, gemstone-encrusted oversized gold buckle. This opulent, high-shine hardware is dynamically disrupted by Vans' iconic Sidestripe",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "ef47764ae878",
-      "title": "BEAUTY&YOUTH x PUMA’s H-Street Strap Boasts a Stealthy Look",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/5/beauty-youth-puma-h-street-strap-black-release-info",
-      "original_publish_time": "2026-05-29T06:38:01+00:00",
-      "scraped_time": "2026-05-29T08:35:57.730605+00:00",
-      "time_delta_mins": 0,
-      "category": "Quality",
-      "brands_mentioned": [
-        "Puma"
-      ],
-      "keywords_matched": [
-        "midsole",
-        "outsole",
-        "sole",
-        "upper"
-      ],
-      "relevance_score": 6,
-      "summary": "Name: BEAUTY&YOUTH x PUMA H-Street StrapColorway: “Black”SKU: TBCMSRP: ¥16,500 JPY (approx. $104 USD)Release Date: Available Now Where to Buy: UNITED ARROWSBEAUTY&YOUTH and PUMA's H-Street Strap sneaker arrives in a s sleek and stealthy palette. featuring a black mesh and leather upper, reinforced with a wide Velcro strap across the midfoot for secure lockdown and a streamlined look. The strap is accented with subtle tonal branding, while the upper construction balances softness with durability. A sculpted EVA midsole provides lightweight cushioning, complemented by a black outsole for traction and stability.The design nods to the original 2003 H‑Street model, but evolves it with sharper detailing and a more fashion‑forward silhouette. Branding on the silhouette is handled with characteris",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "e34e814fae67",
-      "title": "Brain Dead, Disney and adidas Team Up for a Nostalgic Football Collection",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/5/brain-dead-disney-adidas-football-collection-info",
-      "original_publish_time": "2026-05-29T06:11:34+00:00",
-      "scraped_time": "2026-05-29T08:35:57.732120+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 3,
-      "summary": "SummaryBrain Dead, adidas and Disney have launched a 1994 World Cup-inspired football capsuleThe lineup leads with a reimagined Predator 94 sneaker, alongside jerseys, track jackets, shorts and accessories inspired by 1990s EQT templates and World Cup fan cultureIn step with the soccer-centric energy sweeping into the summer of 2026, Los Angeles-based creative collective Brain Dead has teamed up with adidas and The Walt Disney Company to launch a collaborative football capsule.Headlining this three-way partnership is the highly anticipated Brain Dead x Disney x adidas Predator 94 sneaker that retails for $200 USD. Reinterpreting the performance heritage of the 1994 World Cup boot through a distinct streetwear lens, this iteration arrives in a \"Core Black/Cream White\" colorway with a leathe",
       "ren_take": "",
       "image_url": ""
     }
