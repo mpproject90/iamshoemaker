@@ -1,8 +1,52 @@
 {
-  "last_updated": "2026-06-06T12:16:25.801354+00:00",
-  "total_articles": 119,
+  "last_updated": "2026-06-06T18:13:47.130926+00:00",
+  "total_articles": 120,
   "sources_checked": 61,
   "articles": [
+    {
+      "id": "936b6d8c18af",
+      "title": "First Look: Nike’s Beloved Flyknit Sneakers Are Finally Coming Back With New Updates",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-flyknit-runner-2027-release-date-1238998435/",
+      "original_publish_time": "2026-06-06T17:35:12+00:00",
+      "scraped_time": "2026-06-06T18:02:47.850250+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "The Flyknit Runner is expected to debut at retail next year.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "224500722aec",
+      "title": "Skechers Has New NBA Finals Sneakers That Look Like Timberland’s 6-Inch Work Boots",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/skechers-skx-reign-foreman-timberland-boot-og-anunoby-1238998415/",
+      "original_publish_time": "2026-06-06T15:25:30+00:00",
+      "scraped_time": "2026-06-06T18:02:47.852618+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Skechers",
+        "Timberland"
+      ],
+      "keywords_matched": [
+        "boot",
+        "sneakers"
+      ],
+      "relevance_score": 10,
+      "summary": "A \"symbol of the toughness, dedication, and defensive excellence\" that took the New York Knicks to the NBA Finals.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "5fd2daa1e140",
       "title": "A Video Game Designer and a Filmmaker Created a Prada Dreamscape",
@@ -2455,27 +2499,6 @@
       "keywords_matched": [],
       "relevance_score": 3,
       "summary": "You’d be hard pressed to name a more prevalent sneaker of the past few years than the New Balance 9060. The adidas Samba and the... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The New Balance 9060 Gets A High-Contrast \"Timberwolf\" Colorway appeared first on Sneaker News . The post The New Balance 9060 Gets A High-Contrast “Timberwolf” Colorway appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "0a312cac428b",
-      "title": "The Nike Tiempo Streetgato Adds A Highlighter Pink Swoosh",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/05/30/nike-tiempo-streetgato-grey-pink-iq2389-901/",
-      "original_publish_time": "2026-05-30T16:00:29+00:00",
-      "scraped_time": "2026-05-30T18:00:55.314300+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "With the official promo for the Cryoshot movement teeing off this past week, the inescapability of soccer footwear is about to hit a fever pitch.... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Nike Tiempo Streetgato Adds A Highlighter Pink Swoosh appeared first on Sneaker News . The post The Nike Tiempo Streetgato Adds A Highlighter Pink Swoosh appeared first on Sneaker News .",
       "ren_take": "",
       "image_url": ""
     }
