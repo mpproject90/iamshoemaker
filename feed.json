@@ -1,8 +1,133 @@
 {
-  "last_updated": "2026-06-05T19:07:56.824225+00:00",
-  "total_articles": 114,
-  "sources_checked": 62,
+  "last_updated": "2026-06-06T00:21:47.859000+00:00",
+  "total_articles": 118,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "5fd2daa1e140",
+      "title": "A Video Game Designer and a Filmmaker Created a Prada Dreamscape",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/prada-mode-new-york-hideo-kujima-nicolas-winding-refn-hotel-chelsea/",
+      "original_publish_time": "2026-06-05T21:59:06+00:00",
+      "scraped_time": "2026-06-06T00:14:31.432142+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Prada"
+      ],
+      "keywords_matched": [
+        "hide"
+      ],
+      "relevance_score": 3,
+      "summary": "At the fourteenth installment of Prada Mode, the luxury house tapped game creator Hideo Kojima and filmmaker Nicolas Winding Refn to build a mind palace in the Hotel Chelsea.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "89493a15c9fa",
+      "title": "New Balance’s Vibram-Soled Trail Sandal Is the King of Versatility",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/new-balance-hiesv1-shoes/",
+      "original_publish_time": "2026-06-05T21:57:39+00:00",
+      "scraped_time": "2026-06-06T00:14:31.432985+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "New Balance",
+        "Vibram"
+      ],
+      "keywords_matched": [
+        "sandal",
+        "sole"
+      ],
+      "relevance_score": 10,
+      "summary": "New Balance's Fresh Foam Hierro sandal, or HIESV1, is a versatile Vibram-soled model with trail-worthy touches & classic dadcore energy.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "d0fe606272b8",
+      "title": "Nike Built Its Craziest Pixel Air Maxes One LEGO Brick at a Time",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/lego-nike-air-max-95-sneakers-2026/",
+      "original_publish_time": "2026-06-05T21:45:13+00:00",
+      "scraped_time": "2026-06-06T00:14:31.433603+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "LEGO & Nike release new \"brick pixel\" Air Max 95 sneakers in two colorways, as part of a larger soccer-themed collection.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "03cac2cfcb62",
+      "title": "The Verdict From FFANY Market Week: Footwear Is Having a Moment",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/ffany-market-week-june-2026-takeaways-1238994652/",
+      "original_publish_time": "2026-06-05T19:59:43+00:00",
+      "scraped_time": "2026-06-06T00:10:46.342214+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "While spring styles are infusing much-needed freshness into the market, emerging technology is on everyone's mind.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "0cb78969aabf",
+      "title": "Phoebe Philo Has Always Made Boring Shoes Beautiful",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/phoebe-philo-sneaker/",
+      "original_publish_time": "2026-06-05T19:33:00+00:00",
+      "scraped_time": "2026-06-06T00:14:31.434630+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoes",
+        "sneakers"
+      ],
+      "relevance_score": 4,
+      "summary": "Phoebe Philo's $950 plimsol is a perfect example of the former Celine designer turning ordinary sneakers into gorgeous luxury shoes.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "18d5b58425ad",
+      "title": "Nike's Freakiest Soccer-Minded Sneaker Is a Swoosh Mirage",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-first-sight-mirage-sneakers/",
+      "original_publish_time": "2026-06-05T19:17:44+00:00",
+      "scraped_time": "2026-06-06T00:14:31.435230+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sole"
+      ],
+      "relevance_score": 3,
+      "summary": "Nike debuts the all-new First Sight Mirage, a soccer-minded sneaker with dramatic cleated soles.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "f2a22fe3ba04",
       "title": "OG Anunoby Gets A Skechers PE Inspired By Timberland Boots",
@@ -124,6 +249,27 @@
       ],
       "relevance_score": 4,
       "summary": "Suicoke, the original cool-guy sandal brand, spent 2026 quietly rebranding. In place of the flashy collabs of yesteryear, a newfound focus on its own shoes.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "a5bf47222107",
+      "title": "Nike Goes All-in on World Cup X2 Collabs & Jaden Smith Debuts Christian Louboutin FW26 in This Week's Top Fashion News",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/6/nike-x2-world-cup-jaden-smith-louboutin-jordan-supreme-adidas-margiela",
+      "original_publish_time": "2026-06-05T15:59:44+00:00",
+      "scraped_time": "2026-06-06T00:10:57.932956+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Nike",
+        "Adidas",
+        "Louboutin"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 5,
+      "summary": "SummarySportswear Meets the Pitch: Nike, adidas, and Supreme released high-profile athletic capsules celebrating international sports cultures.Designer Milestones: Jaden Smith showcased his inaugural Christian Louboutin Fall 2026 menswear line, while Martin Margiela’s rare early works hit the auction block.Retail Expansion: Jacques Marie Mage opened a nature-inspired SoHo gallery in NYC.First Look Nike X2 World Cup Collection Palace Jacquemus Virgil Abloh Archive Exclusive Ahead of its mid-June release, Nike previewed its expansive X2 World Cup capsule. The sportswear titan tapped seven labels to blend football tradition with their identities, including Palace for England with a \"Three Lions\" range featuring varsity jackets and a custom Cryoshot sneaker, and Jacquemus for France with a ref",
       "ren_take": "",
       "image_url": ""
     },
@@ -2307,68 +2453,6 @@
       ],
       "relevance_score": 3,
       "summary": "I Comfortably Walked 20,000 Steps in These Cool-Girl Sneakers That Reese Witherspoon Wears—and They’re on Sale instyle.com",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "b2d48f82f785",
-      "title": "What's Wilder Than adidas Dress Shoes? Mickey Mouse adidas Dress Shoes",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/adidas-disney-brain-dead-predator/",
-      "original_publish_time": "2026-05-29T21:22:00+00:00",
-      "scraped_time": "2026-05-30T00:15:29.123201+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "boot",
-        "shoes"
-      ],
-      "relevance_score": 6,
-      "summary": "Turning the OG adidas Predator football boot into a dress shoe wasn’t crazy enough for Brain Dead. So it also got Disney involved for a three-part collab.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "3b59c31f4ec6",
-      "title": "Why Did This Artisanal Label Dip Its adidas Sneakers In Coffee? (EXCLUSIVE)",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/adidas-glass-cypress-interview/",
-      "original_publish_time": "2026-05-29T20:52:52+00:00",
-      "scraped_time": "2026-05-30T00:15:29.123929+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 5,
-      "summary": "Glass Cypress' delicious coffee-dyed & hand-scuffed adidas Stan Smiths are elegantly unique. \"That irregularity is the point,\" the brand's founder tells us.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "817008aaa559",
-      "title": "Salt Life to Launch Women’s Footwear for Spring ’27",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/salt-life-shoe-spring-27-license-sg-cos-iconix-1238986694/",
-      "original_publish_time": "2026-05-29T19:48:39+00:00",
-      "scraped_time": "2026-05-30T00:11:41.151627+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Salt Life's new shoe collection for Spring '27 is in partnership under license with The SG Cos.",
       "ren_take": "",
       "image_url": ""
     }
