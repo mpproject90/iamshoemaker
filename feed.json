@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-07T08:28:25.449831+00:00",
-  "total_articles": 125,
-  "sources_checked": 62,
+  "last_updated": "2026-06-07T12:32:58.796761+00:00",
+  "total_articles": 127,
+  "sources_checked": 61,
   "articles": [
     {
       "id": "5bd10ea65687",
@@ -1535,6 +1535,25 @@
       "image_url": ""
     },
     {
+      "id": "7ad3217db19b",
+      "title": "Footwear Market Size, Share, Growth, Analysis, Report, 2034 - Straits Research",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2WkdLUXBmRDFGaTVlM0dyZGtVXzRJWkVTQ3ZuUU91NTRlRDlKckVkRFQzeEJoeFFkeVdpcjBNNko3Q0E2TXpCVTZNRjJ2VC1tUFgxM1liNW42UkJXNnZZ?oc=5",
+      "original_publish_time": "2026-06-03T07:00:00+00:00",
+      "scraped_time": "2026-06-07T12:21:52.466051+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Footwear Market Size, Share, Growth, Analysis, Report, 2034 Straits Research",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
       "id": "f83ee27b5bf3",
       "title": "New Balance Vs Brooks | Finding the Right Running Shoe - RunToTheFinish",
       "source_name": "Google News - Sneaker Brand",
@@ -1570,6 +1589,26 @@
       ],
       "relevance_score": 3,
       "summary": "Portuguese Footwear Association welcomes talent from London College of Fashion and New York's Fashion Institute of Technology FashionNetwork USA",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "1d3bd607f93c",
+      "title": "Sneaker Impact: Sustainable Future for Footwear Industry - Causeartist",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQN1dzekowZld1RURPTF9TbVJmZVhnX1VoYXMya1NGZlNmdW5KRWpxeWtIVHJ5UkVHRGViVlliclNfLVE4aGdSa0tzQ3dsMC0wZVFvTWFjVEFHdUpZR3JFams5UW5BZWZkSGJ6eFh3ekJUeGx0ajVmUnp1T1Bkemk5V24tYw?oc=5",
+      "original_publish_time": "2026-06-03T01:23:58+00:00",
+      "scraped_time": "2026-06-07T12:21:52.469790+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "footwear industry"
+      ],
+      "relevance_score": 6,
+      "summary": "Sneaker Impact: Sustainable Future for Footwear Industry Causeartist",
       "ren_take": "",
       "image_url": ""
     },
