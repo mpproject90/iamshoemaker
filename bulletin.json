@@ -1,6 +1,107 @@
 {
-  "last_updated": "2026-05-31T10:18:51.973006+00:00",
+  "last_updated": "2026-06-07T10:31:41.726884+00:00",
   "bulletins": [
+    {
+      "id": "wk23-2026",
+      "week_number": 23,
+      "year": 2026,
+      "date_from": "2026-06-01",
+      "date_to": "2026-06-07",
+      "published": "2026-06-07T10:31:41.726459+00:00",
+      "intro": "Week 23 brings a familiar tension into focus: the gravitational pull of low-cost Chinese imports compressing margins at the manufacturing base, while premium collaborations and athlete marketing dominate the brand conversation at the top. The BOOTS Act failure in the House closes one policy door that U.S. domestic producers were watching closely. Meanwhile, Skechers is doing what Skechers has always done — moving fast, spending smart, and taking shelf space that other brands left unguarded.",
+      "articles": [
+        {
+          "title": "Kids’ Shoes and ‘Elevated’ Brands Help Recovering Famous Footwear in Q1",
+          "source_name": "Footwear News",
+          "source_url": "https://wwd.com/footwear-news/shoe-industry-news/famous-footwear-kids-shoes-elevated-brands-q1-2026-1238995869/",
+          "category": "Sustainability",
+          "relevance_score": 11,
+          "original_publish_time": "2026-06-04T21:04:49+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "Skechers Has New NBA Finals Sneakers That Look Like Timberland’s 6-Inch Work Boots",
+          "source_name": "Footwear News",
+          "source_url": "https://wwd.com/footwear-news/sneaker-news/skechers-skx-reign-foreman-timberland-boot-og-anunoby-1238998415/",
+          "category": "Retail",
+          "relevance_score": 10,
+          "original_publish_time": "2026-06-06T15:25:30+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "New Balance’s Vibram-Soled Trail Sandal Is the King of Versatility",
+          "source_name": "Highsnobiety",
+          "source_url": "https://www.highsnobiety.com/p/new-balance-hiesv1-shoes/",
+          "category": "Retail",
+          "relevance_score": 10,
+          "original_publish_time": "2026-06-05T21:57:39+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "From ASICS to adidas, the Seven Best Sneakers to Cop Right Now",
+          "source_name": "Highsnobiety",
+          "source_url": "https://www.highsnobiety.com/p/sneaker-releases-2026-june-week-1/",
+          "category": "Retail",
+          "relevance_score": 9,
+          "original_publish_time": "2026-06-03T11:27:34+00:00",
+          "misaki_take": "Editorial roundups like this are a lagging indicator of where marketing spend already landed, not a leading one — by the time a product earns consensus placement across open-market lists, the production run is largely locked and the sourcing decision is 12 to 18 months old. What is worth tracking here is which brands are consistently present week over week, because that frequency maps directly to which factories are running at or above plan."
+        },
+        {
+          "title": "How US$4.50 Chinese shoes are putting pressure on Brazil’s footwear industry - DatamarNews",
+          "source_name": "Google News - Footwear Industry",
+          "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUDhFbEJaekF4aHhpS0cyNS1iSHJyaWR1LXNPMFh5MndDT3IteDBqdXVLcWRXdGQ3WXRIQnlWTkNLYVc3MlpmVDBZemtqdl9pQUNIbVV5eEhFZm5aZjNGQTllbTdvTF9Ib0dxcTZhbjNMSTdyLUt0cktkNFdoNUs1cFZmbG91MmNyZVJYZHB4WmVuOGlsMWwyazVOUE03MFJnT3JlRjNNYlR1elBB?oc=5",
+          "category": "Retail",
+          "relevance_score": 9,
+          "original_publish_time": "2026-06-02T19:42:15+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "OG Anunoby Gets A Skechers PE Inspired By Timberland Boots",
+          "source_name": "Sneaker News",
+          "source_url": "https://sneakernews.com/2026/06/05/og-anunoby-skechers-skx-reign-foreman-pe-nba-finals/",
+          "category": "Supply Chain",
+          "relevance_score": 7,
+          "original_publish_time": "2026-06-05T17:33:17+00:00",
+          "misaki_take": "A player-exclusive built on a culturally legible silhouette during a Finals run is as efficient as athlete marketing gets — limited production, maximum earned media, no need for a new last or new tooling investment. For Skechers' operations team, the real discipline is keeping PE volumes tight enough to protect scarcity while having the factory allocation ready to scale the commercial colorway the moment the cultural moment peaks."
+        },
+        {
+          "title": "Dolce & Gabbana x Diadora Rebuild the Brasil in Leopard-Print Pony Hair for a Football Boot and a Street Sneaker",
+          "source_name": "Hypebeast",
+          "source_url": "https://hypebeast.com/2026/6/dolce-gabbana-diadora-brasil-brasil-id-collaboration-collection-release-info",
+          "category": "Leather",
+          "relevance_score": 7,
+          "original_publish_time": "2026-06-04T07:58:14+00:00",
+          "misaki_take": "Pony hair on a football-heritage silhouette is a material specification that immediately bifurcates the supply chain — the Brasil's existing production line in Italy can handle the nappa upper with minimal retooling, but pony hair cutting, matching, and waste management require a specialist leather goods operator, not a standard footwear upper supplier. At the volumes a D&G collaboration commands, the unit economics are defensible, but any brand attempting to replicate this at higher quantities will encounter both tannery allocation constraints and a sharp BOM escalation."
+        },
+        {
+          "title": "House Lawmakers Fail to Pass BOOTS Act to Strengthen US Footwear Production - WWD",
+          "source_name": "Google News - Footwear Industry",
+          "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTGdUVG1RV1VHRWN2RkZfV0cyYkpqa2hfUUpjRjNoRV9aa2UxMUJNblYzdnQ1SzZKdFhUc2g3Z0QtcU1hRjhsVXhRYnFhVXFKN3BmeG52NlZRcnByWFF4ZmpyRVJUcG56Z2xzQXNhMV83VDY0cHdHOE56czI1X1IyZ2k5QW9mZ0R6TmlVbnJRVThtYzI4RjZJVkhsUnYxcTZGbVRrQ2Z6TTM1T2tmT1dWVmQ4Nmg?oc=5",
+          "category": "Manufacturing",
+          "relevance_score": 6,
+          "original_publish_time": "2026-06-05T21:52:06+00:00",
+          "misaki_take": "The BOOTS Act failure removes the one near-term policy mechanism that could have shifted domestic investment calculus for brands considering U.S. assembly or finishing operations, and the window for that conversation will not reopen quickly in this legislative environment. Brands that were using the bill as a justification to explore nearshore or domestic capacity should now treat that rationale as closed and redirect that capital planning energy toward Vietnam, Mexico, or Dominican Republic configurations that do not depend on Washington."
+        },
+        {
+          "title": "This beloved boot brand just launched a ballet sneaker that’s redefining summer footwear - MLive.com",
+          "source_name": "Google News - Sneaker Brand",
+          "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcFpZbDU5TnNBQ0d3bzg4TEhXZHphOHlsS2EyTHROXzFPeW5hanBzQklwaWZPczQ2alRQWEFWOTZYcmY3UnZiYklka01TVEE2aGVLWmpxX0hnN2ZVZVFiaVFKMzFVc3lkQmltdzBCc1FrQ2gwbU5YYnpRSzNmcWYtdTVrQTc0Z3M5UXVCV1o4WUh6Wi1WcXhpSVNtRUJsc05FWEhydm1fanU4UHVnV1RtdWdKTFdNekczUG5MWmptclM0UTJIRzkyUXp1QQ?oc=5",
+          "category": "Brand News",
+          "relevance_score": 6,
+          "original_publish_time": "2026-06-03T20:30:00+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "The Paura x Vans Authentic Collab Boasts a Fresh Yet Rebellious Punk Appeal",
+          "source_name": "Hypebeast",
+          "source_url": "https://hypebeast.com/2026/6/paura-vans-authentic-collaboration-collection-release-info",
+          "category": "Brand News",
+          "relevance_score": 6,
+          "original_publish_time": "2026-06-03T10:00:36+00:00",
+          "misaki_take": "Vans' 60th anniversary collaboration slate is a deliberate exercise in proving the Authentic silhouette's design surface is not exhausted, which matters for the brand's long-term SKU rationalization argument to retail buyers. For Paura, the production reality is that Vans' established factory network in China and Vietnam handles the manufacturing with no incremental risk, meaning the designer captures creative equity at essentially zero supply chain exposure — which is the model every emerging footwear label should study."
+        }
+      ]
+    },
     {
       "id": "wk22-2026",
       "week_number": 22,
