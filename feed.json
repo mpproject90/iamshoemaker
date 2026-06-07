@@ -1,8 +1,27 @@
 {
-  "last_updated": "2026-06-06T18:13:47.130926+00:00",
-  "total_articles": 120,
+  "last_updated": "2026-06-07T00:18:27.232443+00:00",
+  "total_articles": 122,
   "sources_checked": 61,
   "articles": [
+    {
+      "id": "63fb5a2e0836",
+      "title": "Experts warn of declining momentum in Bangladesh’s leather industry",
+      "source_name": "Textile Today",
+      "source_domain": "textiletoday.com.bd",
+      "source_url": "https://textiletoday.com.bd/experts-warn-of-declining-momentum-in-bangladeshs-leather-industry",
+      "original_publish_time": "2026-06-06T18:21:00+00:00",
+      "scraped_time": "2026-06-07T00:11:23.998764+00:00",
+      "time_delta_mins": 0,
+      "category": "Quality",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "leather industry"
+      ],
+      "relevance_score": 3,
+      "summary": "Bangladesh's leather industry is gradually losing its competitive position in global markets due to policy neglect, environmental compliance shortcomings, financing barriers, and weak institutional su...",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "936b6d8c18af",
       "title": "First Look: Nike’s Beloved Flyknit Sneakers Are Finally Coming Back With New Updates",
@@ -1179,6 +1198,25 @@
       ],
       "relevance_score": 3,
       "summary": "New Balance brings back the Gator Run with bold yellow and lime green, vintage vibes, and spiked soles.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "7b99f13dec8c",
+      "title": "The 15 Best New York Knicks Player Exclusive Sneakers - Complex",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTE51RW5MTVdZTzQtc19KZlc2UFM5M0ZIRkxBc3RINFkzYmROUnN4ZGJRQnZsZzJlVkljNThXVF90YXJzWjJ4M29OeXFnTWJmTzlsVjBST1JXQmRGM2FpbklKcVpaQTVWeGVWS0hQVmpFSk9qSGRtYl94dEtlM1U0X1ZZc29oV2NaS2RIWmVuN2pqcXNTcDFjamJvTzAteTR3anc1eTR3?oc=5",
+      "original_publish_time": "2026-06-03T14:02:10+00:00",
+      "scraped_time": "2026-06-07T00:07:53.020578+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "The 15 Best New York Knicks Player Exclusive Sneakers Complex",
       "ren_take": "",
       "image_url": ""
     },
