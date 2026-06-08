@@ -1,8 +1,68 @@
 {
-  "last_updated": "2026-06-07T18:12:42.824442+00:00",
+  "last_updated": "2026-06-08T00:23:18.794178+00:00",
   "total_articles": 131,
   "sources_checked": 61,
   "articles": [
+    {
+      "id": "a41edab1b3ef",
+      "title": "Nike’s Stimulating Sneaker Is a Soleful Experience",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-mind-002-khaki/",
+      "original_publish_time": "2026-06-07T21:52:01+00:00",
+      "scraped_time": "2026-06-08T00:16:07.194563+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sole",
+        "upper"
+      ],
+      "relevance_score": 6,
+      "summary": "Nike’s Mind 002 in Light Khaki and Desert Khaki features sensory-focused sole pods, responsive foam, and a clever knit upper.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "726905f9dab0",
+      "title": "Shoes almost never get recycled. Here’s the data. - Sporting Goods Intelligence Europe",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUTFzWTFfanlvVmgyVmlTVF9kZlpibnVKUU5GMjAyaVJBUFg4VGc3TjdsQ0xUcjNwRTFXamVWanZBSksyLVVQR3JPdXNZY3VvRUxoeXBIckNLT3BOZnVBSXdNdVl3STlIQUJpNTBlV1hhVk9jWmRnUkh4LWZXZjdZOUNQQmc0WlZfUTlFRUxOTHlpcTY3S0lOS2NKUmtBQU9CM3JRd1VBTmE1M2dtRno4?oc=5",
+      "original_publish_time": "2026-06-07T21:36:32+00:00",
+      "scraped_time": "2026-06-08T00:12:46.711940+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "Shoes almost never get recycled. Here’s the data. Sporting Goods Intelligence Europe",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "878b8b0a012a",
+      "title": "Your Local Mobster Will Love These Wingtip Sneakers",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/saucony-engineered-garments-wingtip-black-white/",
+      "original_publish_time": "2026-06-07T20:02:00+00:00",
+      "scraped_time": "2026-06-08T00:16:07.195260+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "For the Saucony x Engineered Garments Shadow Original Wingtip, Suzuki returns to a concept he knows well: turning a vintage runner into a formal shoe.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "91868c0b882f",
       "title": "Nike Experiments With Gradient Midsoles On The Vomero Premium “Aluminum”",
@@ -190,6 +250,25 @@
       ],
       "relevance_score": 10,
       "summary": "A \"symbol of the toughness, dedication, and defensive excellence\" that took the New York Knicks to the NBA Finals.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "06e9caa96ba6",
+      "title": "I found my summer sneakers among this year’s most coveted brand collaborations - Vogue Adria",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9wajRNbUtJdFBLVFIyWDJveU1YeTM2Yzk5amV6ejk3M3RBR1Nia2JQakFKQWlnbW1HT0lCZ011ZnJxMVlDdWlTbk1jS2FmbVl1ejYtVWlUanBleU5KdEtraERESQ?oc=5",
+      "original_publish_time": "2026-06-06T15:00:33+00:00",
+      "scraped_time": "2026-06-08T00:12:47.374083+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "I found my summer sneakers among this year’s most coveted brand collaborations Vogue Adria",
       "ren_take": "",
       "image_url": ""
     },
@@ -2642,88 +2721,6 @@
       ],
       "relevance_score": 4,
       "summary": "SummaryRumors are heavily circulating regarding a massive new footwear collaboration uniting Supreme, London designer Martine Rose, and NikeThe trio is reportedly working on a collaborative iteration of the iconic Nike Dunk Low, expected to arrive in a versatile \"Black/Black/White\" colorwayInsider leaks suggest the sneaker project will be released in tandem with Supreme's upcoming Fall/Winter 2026 collectionThe sneaker and streetwear communities are already buzzing with what could easily be the most significant footwear collaboration of the upcoming winter season. According to recent industry leaks, New York streetwear behemoth Supreme is teaming up with acclaimed London-based menswear designer Martine Rose and sportswear giant Nike for an unprecedented three-way collaboration on the class",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "718b4320e115",
-      "title": "APB Has Nike, Jordan Brand and More Lined Up for Fall/Winter 2026",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/6/apb-fall-winter-2026-collection",
-      "original_publish_time": "2026-06-01T00:21:38+00:00",
-      "scraped_time": "2026-06-01T16:39:18.949843+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [
-        "Nike",
-        "Jordan"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 5,
-      "summary": "SUMMARYAPB introduces its Fall/Winter 2026 collection through a localized campaign featuring Charlotte rapper Reuben VincentThe seasonal rollout consists of APB’s latest apparel capsule alongside collaborations with Nike and Jordan BrandThe campaign also offers a glimpse into the retailer's new Music Series, which will launch with Reuben Vincent on JuneteenthCharlotte-based lifestyle boutique APB (All Points Bulletin) has unveiled a first look at its Fall/Winter 2026 plans, presenting a collection that expands beyond apparel and footwear into something larger: a cultural ecosystem built around product, place, music and community.Shot entirely inside APB Charlotte at The Collective on Tuckaseegee, the campaign is anchored by Charlotte rapper Reuben Vincent, whose original freestyle serves a",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "1d4da4743d07",
-      "title": "Nike Puts A New Spin On A Classic Dunk Low",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/05/31/nike-dunk-low-old-royal-photon-dust-io4244-400/",
-      "original_publish_time": "2026-06-01T00:00:39+00:00",
-      "scraped_time": "2026-06-01T00:10:08.120887+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike",
-        "Jordan"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "Nike has no issue putting a fresh coat of paint on a shoe that’s already done well. The “Tianjin 2.0” Foamposites? The “Seoul 2.0” Jordan... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike Puts A New Spin On A Classic Dunk Low appeared first on Sneaker News . The post Nike Puts A New Spin On A Classic Dunk Low appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "f9457591c202",
-      "title": "Govt aims to make leather industry stronger, exportoriented Muktadir - The Financial Express",
-      "source_name": "Google News - Leather Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNOGEyQXExWEV5Nkd6eXU3S0NiYjhDdkNTSUZWUllQbmhIdXZpT19zV0pUM0h4bTRWMHpoM3NKWE9GVm85bWwycktLS0VTNEY3M0pmdEpwb2VMMjhoV25ZVTRnQjJmTk1rbGFma1VldE1yTjhSYnJMQ09BZDBQYzFFYmtPYmpROFhUblpVU3F4eUNheUoyQjNNWGx5N196YVRXWEFKanZxcDJOX1U2UmQwUkNVWHduWFJIZlluemFfRjV6US01eHM4alN4cW9JWDVSU1h3MU1Bc09mSEVLVTBPV2M4d2vSAfABQVVfeXFMUEppZVFlZWsyWEhHMmJZYzVaZEtOUFdPcU9FVWlNdGdXMjdwWTMwTm5JSm5xZVpDY2I2M3RQaEhaWnJiMFpqY2xtSUxBbzhLZmpub2FKZTU2aTZOTlRoWmdENzctMVlfa0ZpZzlsTXhFV3lyQmxsUGRxVUwtRkVaSkppeExkSnJVQ2FuXzBjY2VEckJscmh4akRTbzhHX0o5SHRVcGdLUWg4bF92cDV0R3gyajRBY1RTZUR5c3M0ZTZfQUVwcTBhX19Nek9Tekkwdm5SR3kyNnRHWFoyTFZoaTVUX3RlTG1hVkprN3djcUVP?oc=5",
-      "original_publish_time": "2026-05-31T23:21:12+00:00",
-      "scraped_time": "2026-06-04T01:44:24.816508+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "leather industry"
-      ],
-      "relevance_score": 3,
-      "summary": "Govt aims to make leather industry stronger, exportoriented Muktadir The Financial Express",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "343f7bc4e3ca",
-      "title": "The Super-Stacked Nike Vomero Premium Cleans Up In “Off White”",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/05/31/nike-vomero-premium-off-white-dark-obsidian-grey-fog-hq2050-104/",
-      "original_publish_time": "2026-05-31T22:00:24+00:00",
-      "scraped_time": "2026-06-01T00:10:08.124623+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "If you’re one to abide by the old (probably antiquated) rule of wearing no white sneakers before Memorial Day, Nike has a new release well... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Super-Stacked Nike Vomero Premium Cleans Up In \"Off White\" appeared first on Sneaker News . The post The Super-Stacked Nike Vomero Premium Cleans Up In “Off White” appeared first on Sneaker News .",
       "ren_take": "",
       "image_url": ""
     }
