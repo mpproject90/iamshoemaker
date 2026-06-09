@@ -1,8 +1,50 @@
 {
-  "last_updated": "2026-06-08T19:31:11.356193+00:00",
-  "total_articles": 127,
-  "sources_checked": 61,
+  "last_updated": "2026-06-09T00:20:34.489669+00:00",
+  "total_articles": 124,
+  "sources_checked": 62,
   "articles": [
+    {
+      "id": "d6d24d7ba80b",
+      "title": "Crocs Finds New Ways to Keep Used Shoes Out of Landfills",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/crocs-recycled-clog-take-back-program-shreds-used-shoes-1239000879/",
+      "original_publish_time": "2026-06-08T20:24:11+00:00",
+      "scraped_time": "2026-06-09T00:09:17.630120+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [
+        "Crocs"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 5,
+      "summary": "Crocs continues its recycled clog initiative in new colorways, expands its take-back program and uses Crocs sheds to create the first-ever flying disc.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "8d7b1f56d927",
+      "title": "Caitlin Clark Practices In A “Midwest Lakes” Nike Kobe 5 PE",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/06/08/caitlin-clark-nike-kobe-5-midwest-lakes-pe/",
+      "original_publish_time": "2026-06-08T20:00:05+00:00",
+      "scraped_time": "2026-06-09T00:09:28.919756+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "By all accounts, the Caitlin Clark x Nike Kobe footwear era has come to a close. A “Scrabble” inspired pair of the Nike Kobe 5... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Caitlin Clark Practices In A \"Midwest Lakes\" Nike Kobe 5 PE appeared first on Sneaker News . The post Caitlin Clark Practices In A “Midwest Lakes” Nike Kobe 5 PE appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "12802013f1de",
       "title": "The New Balance 1890 Dresses Up In Calming Off-White",
@@ -131,6 +173,25 @@
       "image_url": ""
     },
     {
+      "id": "45064fca46c2",
+      "title": "Portuguese footwear to present itself as model for European reindustrialisation - Portugal Resident",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZjZ5QnYtTEdvRlVYazhENnhIVnF6NlBqYmMwRHktLU80NWtsSHlzb3d1TlY4WHNjTE9CQVdsTTU0RjBNZXhISmpLTzhRSDNxVU9JRUNqOTVKS094aDNBaTlDQ3I1T1hMWWtfMVo1dURFWnYybnE4XzlGdWtnMVlCZ20tR180Q3JWdW82R0dMR0Z3Ym4zWlV2SzJKLUQ5Z1kxOXlEOTJka3hiYUp6RDgzSndVOA?oc=5",
+      "original_publish_time": "2026-06-08T15:27:33+00:00",
+      "scraped_time": "2026-06-09T00:09:39.902935+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Portuguese footwear to present itself as model for European reindustrialisation Portugal Resident",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
       "id": "3df751757716",
       "title": "Women Who Rock: Aerosoles’ Fabiana Rigamonti on Why a Great Mentor ‘Doesn’t Make You Comfortable’",
       "source_name": "Footwear News",
@@ -204,6 +265,25 @@
       ],
       "relevance_score": 6,
       "summary": "Portuguese Shoes campaign receives award World Footwear",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "c4c53220ac01",
+      "title": "A Flight Attendant Sold Me on These “Super Comfy,” Cool-Girl Travel Sneakers From a Podiatrist-Approved Brand - instyle.com",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRTRiY1IyV24wX0FXa0loWEhiTHgtOHM5ZjVQTkhIMUtDODFDNDdrTzZOVzhrc25sV3ByRUdESWhLc2FRc0Z0MkVWVmNZVmxnWXFrMUR6QjhETTZQLVJnZjZTeE5Dalg5c3N2ZFAzMWJaVi1CLTdGdjFQTGVyak52OHpEdU1Mdw?oc=5",
+      "original_publish_time": "2026-06-08T10:30:00+00:00",
+      "scraped_time": "2026-06-09T00:09:40.555557+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "A Flight Attendant Sold Me on These “Super Comfy,” Cool-Girl Travel Sneakers From a Podiatrist-Approved Brand instyle.com",
       "ren_take": "",
       "image_url": ""
     },
@@ -2502,143 +2582,6 @@
       ],
       "relevance_score": 4,
       "summary": "SummaryNike has officially launched its ambitious \"X2\" World Cup Collection, pairing seven national football federations with seven leading fashion designers from their respective countriesShifting the focus to apparel, the collection features bespoke pre-match jerseys, tracksuits, and lifestyle clothing designed by Jacquemus, Palace, NOCTA, Patta, Slawn, PEACEMINUSONE, and the Virgil Abloh ArchiveGoing beyond aesthetics, each collaboration honors and supports a specific local youth sports charity, whose logos are featured on the back of the jerseysNike is officially changing the way we look at international football kits. While the brand’s X2 Cryoshot sneakers have been making heavy waves in the footwear world, the massive apparel rollout accompanying them is poised to redefine modern spo",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "ba259e62ed6d",
-      "title": "APICCAPS welcomes talents from leading international universities - World Footwear",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeGRYU1hxVmI1NjMwdWItUFlUeUlncmVVSjdGX2w0WXRNdE1hZXpwQll6cWpmeTdoSG16STBieG5KMFp5TnhOc3k3aXR0ZVA0a1NnSFU3WENjV192ME9aMWlQSi1CZ1BHREk4QmxBTDl4djhQUnllNGxOZERja3VzczJ4WFZaS25rSHRHRWx3bjZMTjFfTDVadXFrbml1Z2VyZnFqcC1qUi1MYy0zZVhPaQ?oc=5",
-      "original_publish_time": "2026-06-01T23:04:30+00:00",
-      "scraped_time": "2026-06-02T00:17:04.200530+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "APICCAPS welcomes talents from leading international universities World Footwear",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "7e90d09b8b5f",
-      "title": "Steph Curry Signs 10-Year Sneaker Deal with Li-Ning - Sole Retriever",
-      "source_name": "Google News - Sneaker Brand",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdFBKMTBVZHJRVGtKbS1Jb1UyaVNRTE1ZeWZBQkVKSFFsdmVTUm8xNVQ5SjVKS1o4UHZCRXN6RkFPTVdqTXNkREhLN3dsOS1NRlJNRFJNaUlHam1HamdmU3lxTVNQRWtQUzNhc05mZWVvM3VzajMwQ3pIZHBPZW1xeWdZbXZoeThiYU9OOXRheUFNMG5XblF6VlQ2MA?oc=5",
-      "original_publish_time": "2026-06-01T22:35:15+00:00",
-      "scraped_time": "2026-06-03T01:41:52.313939+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "sole"
-      ],
-      "relevance_score": 3,
-      "summary": "Steph Curry Signs 10-Year Sneaker Deal with Li-Ning Sole Retriever",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "10f88d7afd8f",
-      "title": "Chinese firms offer footwear tech transfer - The Express Tribune",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZWhreFQ5Ylc1eWpRTEU1YVN0cjVXbnNaRGVtcHJCZ3BNUUZvNGlpWGNDVjdyQUYxZjhFd0RUU1hfWFY1cFpxaEN6eDNjRE5ubEUyTDVidHNyZW1rQzNHZ0RmU3R1RUIzN1NHb1F2WDM5Sy1zSkh3cm9RcDVleE1KOS12Y0hTUdIBjgFBVV95cUxPblo1NmVpTDRqR3V5ZlBtRk8xVUZfd0kxcFdfUmNTOVp2WFVMcmVSOEllaVN2czFTc1J3clRTc3pkNWExVlBWUVc3QkZLT21HTTVDTGhTOHVuVEVFd05iRFUxbS1uNHZVeVFIUDg1RHNVeUVmUzB1bk9jeGVMYURBRUhlbFBpWGtoSGE0NmFn?oc=5",
-      "original_publish_time": "2026-06-01T22:16:48+00:00",
-      "scraped_time": "2026-06-02T00:17:04.203144+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Chinese firms offer footwear tech transfer The Express Tribune",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "0a6783ca6aee",
-      "title": "The Teenage Mutant Ninja Turtles Battle Shredder In First Crocs Collaboration",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/06/01/teenage-mutant-ninja-turtles-crocs/",
-      "original_publish_time": "2026-06-01T21:30:16+00:00",
-      "scraped_time": "2026-06-02T00:16:53.415523+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Adidas",
-        "Crocs"
-      ],
-      "keywords_matched": [
-        "footwear",
-        "shoes"
-      ],
-      "relevance_score": 5,
-      "summary": "Following a 2024 adidas project and a 2025 run of LaMelo Ball shoes, the Teenage Mutant Ninja Turtles are back with another footwear collaboration. The... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Teenage Mutant Ninja Turtles Battle Shredder In First Crocs Collaboration appeared first on Sneaker News . The post The Teenage Mutant Ninja Turtles Battle Shredder In First Crocs Collaboration appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "778ee4b5bcd7",
-      "title": "Dockers, Wrangler Footwear Continue to Drive Genesco’s Licensed Division",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/dockers-wrangler-footwear-genesco-brands-group-growth-1238988885/",
-      "original_publish_time": "2026-06-01T20:36:02+00:00",
-      "scraped_time": "2026-06-01T20:53:44.923810+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Genesco is kicking off footwear market week in New York by looking forward.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "8a7527ad7b56",
-      "title": "Amy Poehler, Yara Shahidi and More Stars Slip Into Strappy Sandals and Pumps for the 2026 Peabody Awards",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-trends/amy-poehler-yara-shahidi-shoes-2026-peabody-awards-1238988644/",
-      "original_publish_time": "2026-06-01T20:33:09+00:00",
-      "scraped_time": "2026-06-01T20:53:44.926174+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "sandal"
-      ],
-      "relevance_score": 3,
-      "summary": "Poehler wore Giuseppe Zanotti sandals.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "8269ef0f27fd",
-      "title": "Footwear Firms at Forefront of Demand for Circularity Policy Overhaul",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/policy-change-circularity-models-resale-repair-1238988140/",
-      "original_publish_time": "2026-06-01T19:46:00+00:00",
-      "scraped_time": "2026-06-01T20:53:44.926694+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Among the signatories pushing for policy change are Amer Sports, Arc'teryx, Ecoalf, Stella McCartney and Vivobarefoot.",
       "ren_take": "",
       "image_url": ""
     }
