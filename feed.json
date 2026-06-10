@@ -1,8 +1,131 @@
 {
-  "last_updated": "2026-06-10T14:34:28.253393+00:00",
-  "total_articles": 127,
-  "sources_checked": 62,
+  "last_updated": "2026-06-10T19:39:24.602667+00:00",
+  "total_articles": 135,
+  "sources_checked": 60,
   "articles": [
+    {
+      "id": "7b0ae8fbe419",
+      "title": "Nike SB Revives Air Force 1 Color Of The Month Program Through Collaborations",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/06/10/ben-g-nike-sb-air-force-1-iv5289-200/",
+      "original_publish_time": "2026-06-10T16:00:30+00:00",
+      "scraped_time": "2026-06-10T19:32:18.824209+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "What happens when Nike SB takes on one of Beaverton’s most treasured designs? That’s been the prompt for several years, beginning with the Air Jordan... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike SB Revives Air Force 1 Color Of The Month Program Through Collaborations appeared first on Sneaker News . The post Nike SB Revives Air Force 1 Color Of The Month Program Through Collaborations appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "1e4535d3ac52",
+      "title": "First Look: Kobe Bryant’s Rare Firework-inspired Nike Sneakers Are Getting Their First Wide Release",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-kobe-8-protro-shanghai-fireworks-first-look-io6259-800-1239004269/",
+      "original_publish_time": "2026-06-10T15:53:32+00:00",
+      "scraped_time": "2026-06-10T19:32:07.091703+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "The Kobe 8 \"Shanghai Fireworks\" was originally a China-exclusive in 2013.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "a0df81279ba8",
+      "title": "One Year In: How Ecco Americas Built a Women’s Leadership Program From the Ground Up",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-features/ecco-americas-women-forward-leadership-program-1239003279/",
+      "original_publish_time": "2026-06-10T15:36:28+00:00",
+      "scraped_time": "2026-06-10T19:32:07.094483+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Ecco"
+      ],
+      "keywords_matched": [
+        "lasting"
+      ],
+      "relevance_score": 3,
+      "summary": "FN takes a deep dive into its origins, structure and lofty goals for making a lasting impact.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "d987fce18d82",
+      "title": "Footwear industry is backbone of India’s economy: Union Minister Giriraj Singh - News On AIR",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ29UaXZQZHFWUm1nX2FHV3h5VGlhdFRaX01vcllPcGc2bU5fRFdmR282RjQ1ZnkyTE9Ic0drOHQ2SjM3NkI5ZFI3eEZsRHUyaTI0LW15clpXMnJYcS15QmN6Qy0xR1NEbVd0QVp6b0taVXVkZXVYNUxsdHdlX2JFUGtKLUFXenJ6eVdxU1I5NF9ud2tPVTFLM3hwbmNZdHl4cFFZdQ?oc=5",
+      "original_publish_time": "2026-06-10T13:36:44+00:00",
+      "scraped_time": "2026-06-10T19:32:29.722725+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "footwear industry"
+      ],
+      "relevance_score": 6,
+      "summary": "Footwear industry is backbone of India’s economy: Union Minister Giriraj Singh News On AIR",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "986840cae264",
+      "title": "Deni-Deni Academy launches to inspire the next generation of leather and footwear talent - UK Fashion and Textile Association",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA0MlhOR2VnOGEyU0NkbzZvc3NlQTExcFBaVllKMk1mdGtiaE5BNWxScldKWWxMRXMteThTYm5kNE5NUnlvOHpDMFNHSQ?oc=5",
+      "original_publish_time": "2026-06-10T13:20:33+00:00",
+      "scraped_time": "2026-06-10T19:32:29.725891+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Deni-Deni Academy launches to inspire the next generation of leather and footwear talent UK Fashion and Textile Association",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "e47df1ed4481",
+      "title": "Official Look at the JJJJound x New Balance 1890 Sneakers",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/6/jjjjound-new-balance-1890-silver-white-blacl-official-images-release-info",
+      "original_publish_time": "2026-06-10T10:05:38+00:00",
+      "scraped_time": "2026-06-10T19:32:18.629432+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "New Balance"
+      ],
+      "keywords_matched": [
+        "sneakers",
+        "upper"
+      ],
+      "relevance_score": 6,
+      "summary": "Name: JJJJound x New Balance 1890Colorway: “Silver/White,” “Black”SKU: TBCMSRP: TBCRelease Date: June 25Where to Buy: JJJJoundFollowing up on the initial teaser that offered a first glimpse at a sleek grey JJJJound x New Balance 1890 sneaker, the Montreal-based design label has officially unveiled two distinct colorways for the collaboration.The first variant, now confirmed as \"Silver/White,\" leans heavily into a classic American collegiate sports aesthetic by assembling airy white mesh underlays beneath metallic silver synthetic overlays. This bright, multi-paneled upper framework is sharply anchored by a deep navy mesh lining and New Balance's signature midfoot \"N\" logo, which is rendered in black with a vibrant yellow interior accent. Underfoot, the silhouette sits directly atop a crisp",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "ba1d3aa0ed83",
       "title": "Extreme heat is disrupting global fashion supply chains, says NYU Stern",
@@ -42,6 +165,93 @@
       "image_url": ""
     },
     {
+      "id": "1bf378edb74b",
+      "title": "BAPE and adidas Take on Performance Running With Asymmetrical Adizero EVO SL",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/6/bape-adidas-adizero-evo-sl-collaboration-release-info-blue-green-kj5749-white-gold-kj5751-release-info",
+      "original_publish_time": "2026-06-10T09:48:01+00:00",
+      "scraped_time": "2026-06-10T19:32:18.631039+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "shoes",
+        "sneakers"
+      ],
+      "relevance_score": 4,
+      "summary": "Name: BAPE x adidas Adizero EVO SL Colorway: Blue/Green, White/GoldSKU: KJ5751, KJ5749MSRP: $200 USDRelease Date: June 27 Where to Buy: adidasBAPE and adidas mark the latest chapter in their long‑standing partnership with the new Adizero EVO SL sneakers. Two colorways headline the drop, spanning a vibrant “Blue/Green” and “White/Gold” version, each offering a distinct balance of athletic function and streetwear flair.Leaning even further into a color-clashing, split-foot formula, the \"Blue/Green\" variant embraces a mismatched aesthetic. Instead of a white base, the right sneaker is doused entirely in a deep royal blue mesh, while the left sneaker transitions into a rich, dark green mesh. The two distinct shoes are visually tied together by a series of high-contrast embellishments, includin",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "6abbd1b0fadd",
+      "title": "I Solemnly Swear These ‘Harry Potter’ x Crocs Classic Clog \"Marauder's Map\" Are Up to No Good",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/6/harry-potter-crocs-classic-clog-marauders-map-212968-90h-release-info",
+      "original_publish_time": "2026-06-10T09:04:06+00:00",
+      "scraped_time": "2026-06-10T19:32:18.634273+00:00",
+      "time_delta_mins": 0,
+      "category": "Quality",
+      "brands_mentioned": [
+        "Crocs"
+      ],
+      "keywords_matched": [
+        "sole"
+      ],
+      "relevance_score": 5,
+      "summary": "Name: Harry Potter x Crocs Classic Clog “Marauder’s Map”Colorway: MultiSKU: 212968-90HMSRP: $70 USDRelease Date: June 11Where to Buy: CrocsHarry Potter and Crocs have announced the Classic Clog “Marauder’s Map,” releasing June 11. The collaboration takes one of the Harry Potter franchise's most visually specific objects and translates it across the full surface of the Classic Clog, treating the shoe as a canvas for the map's graphic language rather than a vehicle for standard logo placement.The design's most deliberate decision is the asymmetrical layout. Rather than centering the Marauder's Map graphic and repeating it identically across both clogs, the collaboration opts for an offset composition that feels closer to how an actual map would sit on a surface: slightly shifted, with differ",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "0ef1f3616587",
+      "title": "A’Ja Wilson’s Nike A’Two PE “Susie Carmichael” Channels ‘90s Nostalgia",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/6/aja-wilson-nike-atwo-pe-rugrats-susie-carmichael-first-look",
+      "original_publish_time": "2026-06-10T08:49:38+00:00",
+      "scraped_time": "2026-06-10T19:32:18.636301+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "Reigning WNBA MVP A’ja Wilson of the Las Vegas Aces brought a wave of 1990s nostalgia to the hardwood by debuting a brand-new Player Exclusive (PE) iteration of her latest signature shoe. As seen on Wilson during the Las Vegas Aces’ Commissioner’s Cup game, the Nike A’Two \"Susie Carmichael\" made its official on-court bow during a regular-season game against the Golden State Valkyries. This playful design holds notable cultural relevance for the superstar, who is a self-proclaimed superfan of Nickelodeon’s classic animated series Rugrats.The aesthetic blueprint of the shoe translates Susie's iconic outfit directly onto the sneaker, boasting a vibrant yellow base upper adorned with a repeating pattern of purple flowers to mirror her signature dress. This cheerful arrangement is sharply contr",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "1b3d26a3344a",
+      "title": "Converse Refreshes the All Star Lgcy Ox With Three New Retro Hues",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/6/converse-all-star-lgcy-ox-orange-31318410-dark-navy-31318411-sand-31318412-release-info",
+      "original_publish_time": "2026-06-10T08:32:49+00:00",
+      "scraped_time": "2026-06-10T19:32:18.637896+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Converse"
+      ],
+      "keywords_matched": [
+        "midsole",
+        "sole",
+        "upper"
+      ],
+      "relevance_score": 5,
+      "summary": "Name: Converse All Star Lgcy OxMSRP: ¥12,650 JPY (approx. $79 USD)Release Date: June 19Where to Buy: Converse Japan, BILLY’SConverse welcomes a trio of All Star Lgcy Ox colorways, spanning “Orange,” “Dark Navy” and “Sand.” Each pair retains the classic All Star profile but is updated with tonal canvas uppers and a slightly aged finish that nods to vintage styling.The “Orange” variant delivers a bold pop of color, contrasted by crisp white midsoles and stitching, while the “Dark Navy” option leans into timeless versatility with deep hues that highlight the shoe’s heritage lines. The “Sand” colorway offers a neutral, minimalist take, pairing earthy tones with the aged sole for a refined finish.The silhouette features a classic vulcanized rubber midsole, finished in a clean tone that enhances",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
       "id": "3914692ac246",
       "title": "nonnative’s Leather Trooper Lace up Boots Embodies a Tactical Minimalist Aesthetic",
       "source_name": "Hypebeast",
@@ -58,6 +268,30 @@
       ],
       "relevance_score": 5,
       "summary": "Name: nonnative Trooper Lace up Boots Cow LeatherColorway: “Gray,” “Coyote” SKU: NN-F4804MSRP: ¥60,000 JPY (approx. $374 USD)Release Date: Available NowWhere to Buy: nonnativeThe nonnative Trooper Lace Up Boots merge tactical military utility with refined urban style, with its latest additions crafted in premium cow leather. This high-top model is defined by its beautifully texturized leather upper that adds an organic and rugged depth to its appeal. The boot is offered in two highly adaptable colorways: a moody, sophisticated “Gray” and a classic, military-inspired “Coyote”.The design boasts nonnative's signature detachable zip center-piece, which overlays the traditional lacing system. This modular component delivers an innovative 2-way wearing configuration, allowing the wearer to effor",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "007ada5ef486",
+      "title": "From Nike to Salomon, the Seven Best Sneakers to Cop Right Now",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/sneaker-releases-2026-june-week-2/",
+      "original_publish_time": "2026-06-10T07:50:00+00:00",
+      "scraped_time": "2026-06-10T19:36:12.339004+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Adidas",
+        "New Balance",
+        "Salomon"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 9,
+      "summary": "The world of sneaker releases is tricky to navigate, but we're here with the best of the open market, from adidas to Salomon, New Balance to Nike.",
       "ren_take": "",
       "image_url": ""
     },
@@ -2573,68 +2807,6 @@
       ],
       "relevance_score": 3,
       "summary": "Following a jam-packed May headlined by Travis Scott shoes and Nigel Sylvester’s “Brick After Brick” Jordan 4, Jordan Brand is taking it slow for the... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post June 2026 Air Jordan Retro Preview appeared first on Sneaker News . The post June 2026 Air Jordan Retro Preview appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "c6e6f96c7bdc",
-      "title": "Willy Chavarria & adidas Originals Form a Dream Team With Selección Nacional de México",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/6/adidas-originals-willy-chavarria-mexico-world-cup-collection-release-date-info",
-      "original_publish_time": "2026-06-03T18:53:10+00:00",
-      "scraped_time": "2026-06-03T20:16:56.739822+00:00",
-      "time_delta_mins": 0,
-      "category": "Trade Data",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "SummaryThe expansive capsule features officially accredited Selección Nacional de México merchandise spanning apparel and footwearFootwear highlights include the Willy Mega Low, Megaride AG XL, and the football-inspired Megaride CopaThe accompanying campaign spotlights rising Mexican youth talent, including Jesús Gilberto Orozco and Jeremy MárquezWith the FIFA World Cup 2026 tournament on its way, sportswear brands and designers have been partnering up to represent various global teams with special collections. However, adidas Originals and Willy Chavarria’s special bond feels like the perfect fit for Selección Nacional de México. The Mexican American designer and adidas have officially unveiled the \"Comienza Con El Sueño\" collection made for Team Mexico — translating to \"It Begins With th",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "6e1811714cb9",
-      "title": "Saucony Is Turning One of Its Classic Sneakers Into an Elegant Wingtip",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/engineered-garments-saucony-shadow-wingtip-release-date-1238993227/",
-      "original_publish_time": "2026-06-03T18:33:12+00:00",
-      "scraped_time": "2026-06-03T20:16:45.007535+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "Made in collaboration with Engineered Garments.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "cb2fe27a3136",
-      "title": "Nike Core Cryoshot Series Revives the Mercurial Vapor R9",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/6/nike-cryoshot-mercurial-vapor-r9-iq8160-400-release-info",
-      "original_publish_time": "2026-06-03T15:20:02+00:00",
-      "scraped_time": "2026-06-04T08:42:25.755334+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "boot",
-        "footwear"
-      ],
-      "relevance_score": 4,
-      "summary": "Name: Nike Cryoshot Mercurial Vapor R9Colorway: Varsity Royal/Metallic Silver-Black-Varsity MaizeSKU: IQ8160-400Retail Price: $200 USDRelease Date: Summer 2026Where to Buy: NikeThe Nike Cryoshot Mercurial Vapor R9 is officially set to bring a legendary piece of pitch heritage into the contemporary lifestyle space. Expected to release during the 2026 FIFA World Cup, this special addition to the Cryoshot series pivots away from traditional performance sportswear to offer a casual footwear option rooted deeply in archival storytelling.The design pulls its direct narrative from Ronaldo Nazário’s iconic Mercurial R9 boot worn during the 1998 FIFA World Cup in France. The original silhouette was defined by its speed-driven aesthetics and technical construction, which ultimately helped solidify t",
       "ren_take": "",
       "image_url": ""
     }
