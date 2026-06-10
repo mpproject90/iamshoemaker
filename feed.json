@@ -1,8 +1,129 @@
 {
-  "last_updated": "2026-06-09T19:22:26.524813+00:00",
-  "total_articles": 134,
-  "sources_checked": 60,
+  "last_updated": "2026-06-10T00:29:14.878817+00:00",
+  "total_articles": 136,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "908d74b67310",
+      "title": "Busan Footwear Industry Shifts from Manufacturing to Brands After Decade Beyond OEM - Seoul Economic Daily",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNkZ2UFA3Sl9lcmRtYXpnZF9CRFZuaVY1UklBMkQ3TkFjWk5rakpZLWFrb2g0Q1hCRWU1NjhMVk5MTzhyWGNEZnVSbzRtLVJ0Mm5TQmtyR3hISlV4RWMteEpGbzNXN083UWotVEdVQ1pXR1FNLUJPNy1WanhYakZJNENhODRaY0xpWlpMaklnTDNFakdrRE53eGszZTNsZllyVWc0?oc=5",
+      "original_publish_time": "2026-06-09T23:01:05+00:00",
+      "scraped_time": "2026-06-10T00:18:35.892350+00:00",
+      "time_delta_mins": 0,
+      "category": "Manufacturing",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "footwear industry"
+      ],
+      "relevance_score": 6,
+      "summary": "Busan Footwear Industry Shifts from Manufacturing to Brands After Decade Beyond OEM Seoul Economic Daily",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "f0f2d29557d6",
+      "title": "Even New Balance’s Freshest Trail Sandal Has Its Grey Days",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/new-balance-hiesv1-grey-sandals/",
+      "original_publish_time": "2026-06-09T22:28:07+00:00",
+      "scraped_time": "2026-06-10T00:22:05.152967+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "New Balance"
+      ],
+      "keywords_matched": [
+        "sandal"
+      ],
+      "relevance_score": 5,
+      "summary": "New Balance's Fresh Foam Hierro, a.k.a. HIESV1, sandal gets a classic NB Grey makeover, appearing in the famous \"Raincloud\" scheme.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "b75e85f31207",
+      "title": "Nike’s Wax-Sealed Jordan Sneaker Is Too Luxe for Its Own Good",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/air-jordan-3-bin-23-sneakers/",
+      "original_publish_time": "2026-06-09T22:10:32+00:00",
+      "scraped_time": "2026-06-10T00:22:05.154381+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "The Air Jordan 3 \"Bin 23\" sneaker lands with mega-luxe touches, including wax seals & high-end materials. Here's everything on the release.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "8e5b8eaf29b5",
+      "title": "Survey: Global Footwear Executives are Less Optimistic Now Than They Were in Fall 2025",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/shoe-executives-world-footwear-business-conditions-study-1239002459/",
+      "original_publish_time": "2026-06-09T21:21:15+00:00",
+      "scraped_time": "2026-06-10T00:18:12.566167+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Shoe executive respondents to the recent World Footwear Business Conditions Survey say the U.S.-Iran conflict could be a material business risk.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "905d6f50ba63",
+      "title": "KidSuper and Bape Are Making Colorful Patent Leather Sneakers for All 48 World Cup Teams",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/kidsuper-bape-sta-world-cup-sneakers-release-date-1239003234/",
+      "original_publish_time": "2026-06-09T20:28:42+00:00",
+      "scraped_time": "2026-06-10T00:18:12.569041+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "The Bape Sta goes on a comprehensive tour.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "7155883e4c31",
+      "title": "Academy’s a Believer in Nike and Jordan",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/academy-sports-outdoors-nike-jordan-footwear-running-shoes-1239002617/",
+      "original_publish_time": "2026-06-09T19:29:44+00:00",
+      "scraped_time": "2026-06-10T00:18:12.569555+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 5,
+      "summary": "Academy Sports + Outdoors is expanding the Nike and Jordan brands to more store locations at a time when sales of running shoes are expected to rise.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "a4870af3ef12",
       "title": "Sole Play’s adidas Predator Sala “Press Play” Is Inspired By Gaming",
@@ -2701,88 +2822,6 @@
       ],
       "relevance_score": 6,
       "summary": "Sneaker Impact: Sustainable Future for Footwear Industry Causeartist",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "8761fc38c19b",
-      "title": "Japan’s Forget-Me-Nots Joins The World Cup Party With Nike Total 90 Shox Magia Collab",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/06/02/forget-me-nots-nike-total-90-shox-magia/",
-      "original_publish_time": "2026-06-02T21:30:01+00:00",
-      "scraped_time": "2026-06-03T01:41:40.819332+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Nike",
-        "Jordan"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "It’s rare for a brand to check off its first Nike Inc. collab with Jordan Brand rather than the Swoosh proper, but Japanese concept store... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Japan's Forget-Me-Nots Joins The World Cup Party With Nike Total 90 Shox Magia Collab appeared first on Sneaker News . The post Japan’s Forget-Me-Nots Joins The World Cup Party With Nike Total 90 Shox Magia Collab appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "a2f52a975598",
-      "title": "Superfeet’s Making Its Personalized Insoles More Accessible",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/superfeet-personalized-insole-smartphone-scan-running-shoe-1238989923/",
-      "original_publish_time": "2026-06-02T21:29:02+00:00",
-      "scraped_time": "2026-06-03T01:41:29.367152+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "insole",
-        "sole"
-      ],
-      "relevance_score": 6,
-      "summary": "Custom insole maker Superfeet's new version of its ME3D platform allows for the creation of a personalized insole from a smartphone scan.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "931a30193801",
-      "title": "How US$4.50 Chinese shoes are putting pressure on Brazil’s footwear industry - DatamarNews",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUDhFbEJaekF4aHhpS0cyNS1iSHJyaWR1LXNPMFh5MndDT3IteDBqdXVLcWRXdGQ3WXRIQnlWTkNLYVc3MlpmVDBZemtqdl9pQUNIbVV5eEhFZm5aZjNGQTllbTdvTF9Ib0dxcTZhbjNMSTdyLUt0cktkNFdoNUs1cFZmbG91MmNyZVJYZHB4WmVuOGlsMWwyazVOUE03MFJnT3JlRjNNYlR1elBB?oc=5",
-      "original_publish_time": "2026-06-02T19:42:15+00:00",
-      "scraped_time": "2026-06-02T20:06:21.020438+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "footwear industry",
-        "shoes"
-      ],
-      "relevance_score": 9,
-      "summary": "How US$4.50 Chinese shoes are putting pressure on Brazil’s footwear industry DatamarNews",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "271ce2e6cb87",
-      "title": "Vans’ Frayed Yarn ‘Ibiza’ Sneakers Are Poised to Be Its Next Big Hit",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/vans-authentic-ibiza-pack-release-date-1238990975/",
-      "original_publish_time": "2026-06-02T19:35:49+00:00",
-      "scraped_time": "2026-06-02T20:05:58.180640+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Vans"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 5,
-      "summary": "The trio of Authentics takes inspiration from a Loewe bag of the same name, as well as punk iconography.",
       "ren_take": "",
       "image_url": ""
     }
