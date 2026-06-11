@@ -1,8 +1,49 @@
 {
-  "last_updated": "2026-06-10T19:39:24.602667+00:00",
-  "total_articles": 135,
-  "sources_checked": 60,
+  "last_updated": "2026-06-11T00:29:45.654363+00:00",
+  "total_articles": 132,
+  "sources_checked": 62,
   "articles": [
+    {
+      "id": "3993019d4d30",
+      "title": "The 8 Best World Cup Sneakers",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/best-world-cup-sneakers-2026-1239005393/",
+      "original_publish_time": "2026-06-10T21:03:38+00:00",
+      "scraped_time": "2026-06-11T00:18:53.665380+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "Including past releases and those still to come from Nike, Adidas and more.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "e64a7b2df057",
+      "title": "Mexico’s Largest Department Store Chain Coppel Expands AI Merchandising Pilot Program to Footwear",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/mexican-store-coppel-predictive-ai-first-insight-footwear-1239005524/",
+      "original_publish_time": "2026-06-10T20:29:17+00:00",
+      "scraped_time": "2026-06-11T00:18:53.667638+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Coppel has already test piloted predictive AI using First Insight's platform in women's apparel, and is now eyeing footwear.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "7b0ae8fbe419",
       "title": "Nike SB Revives Air Force 1 Color Of The Month Program Through Collaborations",
@@ -2704,109 +2745,6 @@
       ],
       "relevance_score": 3,
       "summary": "SummaryRonnie Fieg has officially confirmed a public release for the Kith x Nike Air Max 95 \"Knicks\" in adult sizingThe drop celebrates the New York Knicks' recent push to the NBA FinalsThe release is being handled exclusively via a Kith App Draw that closes on June 10, 2026Ronnie Fieg and Kith are officially giving fans a chance to secure the Kith x Nike Air Max 95 \"Knicks\". Originally released exclusively in children's sizing, the highly anticipated collaboration is finally arriving in adult proportions to celebrate the New York Knicks' run to the NBA Finals.After initially teasing the sneakers courtside during a matchup against the Memphis Grizzlies, Fieg has confirmed the public drop details. The collaborative Nike Air Max 95 arrives dressed in a signature Midnight Navy, Game Royal, Sm",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "5a7fb7489838",
-      "title": "The Sneaker That Revolutionized adidas Just Rolled a Strike",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/adidas-samba-bowling/",
-      "original_publish_time": "2026-06-03T21:56:01+00:00",
-      "scraped_time": "2026-06-04T01:48:11.162188+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "sole"
-      ],
-      "relevance_score": 3,
-      "summary": "adidas updates its iconic Samba with a new bowling-inspired design, featuring chunky soles and premium materials.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "6002fd2d9b72",
-      "title": "10 Affordable Sneaker Brands Quietly Competing With Nike and Adidas - Style Rave",
-      "source_name": "Google News - Sneaker Brand",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAwUjdMWGZYQ1czdlNHY0hyTHVKOWpfQXVaMzBWejhYU0c4dnJDZjQwZ1hHakEwVVF0dEY3eWdyRzhMZUplNE9UWWcybWtoYVNvQ0o4XzhrRk80cHF0LWNNTlVCWTYtMUFI?oc=5",
-      "original_publish_time": "2026-06-03T21:33:30+00:00",
-      "scraped_time": "2026-06-04T01:44:23.456397+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Nike",
-        "Adidas"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 4,
-      "summary": "10 Affordable Sneaker Brands Quietly Competing With Nike and Adidas Style Rave",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "3cdedd20bd45",
-      "title": "Collina Strada Brings Their Whimsical Vision To Converse Classics",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/06/03/collina-strada-converse-chuck-70-release-date/",
-      "original_publish_time": "2026-06-03T20:30:24+00:00",
-      "scraped_time": "2026-06-04T01:44:11.957256+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Converse"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "As we’ve mentioned countless times before, the widened scope of collaborations and the increased attention paid by major brands to women’s footwear has borne out... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Collina Strada Brings Their Whimsical Vision To Converse Classics appeared first on Sneaker News . The post Collina Strada Brings Their Whimsical Vision To Converse Classics appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "2ba898edfc5b",
-      "title": "This beloved boot brand just launched a ballet sneaker that’s redefining summer footwear - MLive.com",
-      "source_name": "Google News - Sneaker Brand",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcFpZbDU5TnNBQ0d3bzg4TEhXZHphOHlsS2EyTHROXzFPeW5hanBzQklwaWZPczQ2alRQWEFWOTZYcmY3UnZiYklka01TVEE2aGVLWmpxX0hnN2ZVZVFiaVFKMzFVc3lkQmltdzBCc1FrQ2gwbU5YYnpRSzNmcWYtdTVrQTc0Z3M5UXVCV1o4WUh6Wi1WcXhpSVNtRUJsc05FWEhydm1fanU4UHVnV1RtdWdKTFdNekczUG5MWmptclM0UTJIRzkyUXp1QQ?oc=5",
-      "original_publish_time": "2026-06-03T20:30:00+00:00",
-      "scraped_time": "2026-06-04T01:44:23.454651+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "boot",
-        "footwear"
-      ],
-      "relevance_score": 6,
-      "summary": "This beloved boot brand just launched a ballet sneaker that’s redefining summer footwear MLive.com",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "821e6ada11c2",
-      "title": "June 2026 Air Jordan Retro Preview",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/06/03/jordan-release-dates-june-2026/",
-      "original_publish_time": "2026-06-03T20:00:05+00:00",
-      "scraped_time": "2026-06-03T20:16:56.901098+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Jordan"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "Following a jam-packed May headlined by Travis Scott shoes and Nigel Sylvester’s “Brick After Brick” Jordan 4, Jordan Brand is taking it slow for the... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post June 2026 Air Jordan Retro Preview appeared first on Sneaker News . The post June 2026 Air Jordan Retro Preview appeared first on Sneaker News .",
       "ren_take": "",
       "image_url": ""
     }
