@@ -1,8 +1,91 @@
 {
-  "last_updated": "2026-06-11T00:29:45.654363+00:00",
-  "total_articles": 132,
-  "sources_checked": 62,
+  "last_updated": "2026-06-11T09:17:29.127128+00:00",
+  "total_articles": 130,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "1c811c3a4d8a",
+      "title": "Nike Just Dragged a Football Legend Out of the Vault & Onto the Pitch",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-cryoshot-ronaldo/",
+      "original_publish_time": "2026-06-11T08:41:45+00:00",
+      "scraped_time": "2026-06-11T09:10:10.180552+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 3,
+      "summary": "Nike Cryoshot Mercurial Vapor R9 “Ronaldo” brings back the iconic 1998 football boot in a street-ready lifestyle sneaker.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "6e1931435a03",
+      "title": "Jil Sander and PUMA Revive the 1998 King Avanti in “Optic White”",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/6/jil-sander-puma-king-avanti-optic-white-release-info",
+      "original_publish_time": "2026-06-11T07:14:31+00:00",
+      "scraped_time": "2026-06-11T09:06:29.219503+00:00",
+      "time_delta_mins": 0,
+      "category": "Quality",
+      "brands_mentioned": [
+        "Puma"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "Name: Jil Sander x PUMA King Avanti \"Optic White\"Colorway: \"Optic White\"SKU: TBCMSRP: ¥88,000 JPY (approx. $548 USD)Release Date: June 17Where to Buy: Jil Sander, PUMAThe soon-to-be-released King Avanti sneaker in “Optic White” marks the third highly anticipated drop of Jil Sander and PUMA following their revived partnership. Originally launched in 1998, this collaborative model serves as a historical milestone that famously pioneered the fusion of high fashion and athletic performance by reimagining PUMA's iconic soccer silhouette.This latest re-edition strips away complex multi-colored blockings in favor of an immaculate, monochrome \"Optic White\" colorway that swathes the entirety of the low-profile shoe. The upper is meticulously constructed from ultra-premium, high-quality leather, est",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "bd777eec95ef",
+      "title": "N.HOOLYWOOD and Teva Rebuild the Hurricane XLT3 CT as a Military Sandal in All-Black",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/6/n-hoolywood-test-product-exchange-service-teva-hurricane-xlt3-ct-collaboration-release-info",
+      "original_publish_time": "2026-06-11T06:49:04+00:00",
+      "scraped_time": "2026-06-11T09:06:29.221952+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sandal"
+      ],
+      "relevance_score": 3,
+      "summary": "Name: N.HOOLYWOOD TEST PRODUCT EXCHANGE SERVICE x Teva Hurricane XLT3 CTColorway: BlackSKU: TBCMSRP: ¥25,300 JPY (approx. $160 USD)Release Date: June 12Where to Buy: TevaN.HOOLYWOOD TEST PRODUCT EXCHANGE SERVICE and Teva have announced their second collaboration, an all-black rework of the Hurricane XLT3 CT releasing June 12. The collaboration marks the world's first time the Hurricane XLT3 CT has been used as a collab base, with N.HOOLYWOOD TPES applying its military-focused design language to Teva's amphibious closed-toe sport sandal through a single, disciplined creative decision: make everything black.The all-black monochrome treatment is not simply an aesthetic preference. N.HOOLYWOOD TEST PRODUCT EXCHANGE SERVICE is the military-specialist line within N.HOOLYWOOD, and the all-black c",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "5e7769e99023",
+      "title": "Nike Brings Luxe Textures to the Air Force 1 Low \"Triple Black Croc\"",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/6/nike-air-force-1-low-triple-black-croc-iv6306-010-release-info",
+      "original_publish_time": "2026-06-11T03:36:32+00:00",
+      "scraped_time": "2026-06-11T09:06:29.217068+00:00",
+      "time_delta_mins": 0,
+      "category": "Quality",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "footwear",
+        "upper"
+      ],
+      "relevance_score": 4,
+      "summary": "Name: Nike Air Force 1 Low \"Triple Black Croc\"Colorway: Black/Metallic Dark GreySKU: IV6306-010Retail Price: $125 USDRelease Date: July 1, 2026Where to Buy: NikeNike is officially bringing an elevated material treatment to its classic footwear roster with the introduction of the Air Force 1 Low \"Triple Black Croc\". Reimagining the brand's ubiquitous all-black color palette, the upcoming release modernizes the traditional Uptown format without steering too far away from its everyday lifestyle roots.A close look at the design details reveals a stealthy upper completely monochromatic in execution. Moving away from standard smooth leather, the silhouette incorporates heavy embossed crocodile-style textures across the toe box, quarter panels, eyestays, and heel counters. This structural texture",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "3993019d4d30",
       "title": "The 8 Best World Cup Sneakers",
@@ -249,6 +332,27 @@
       "image_url": ""
     },
     {
+      "id": "187ab1274d82",
+      "title": "adidas and Anthony Edwards Prepping the AE 3 Mule in \"Stone\"",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/6/adidas-anthony-edwards-3-mule-stone-kz9166-release-info",
+      "original_publish_time": "2026-06-10T08:55:32+00:00",
+      "scraped_time": "2026-06-11T09:06:29.211414+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 4,
+      "summary": "Name: adidas Anthony Edwards 3 Mule \"Stone\"Colorway: Stone/Lucid BlueSKU: KZ9166MSRP: $70 USDRelease Date: October 9, 2026Where to Buy: adidasadidas is officially expanding its collaborative basketball lineage with the upcoming release of the adidas Anthony Edwards 3 Mule \"Stone\". Built specifically for off-court recovery, the slip-on silhouette transitions the Minnesota Timberwolves star's distinct, bold design language seamlessly into the lifestyle footwear space.The casual model is crafted from a contoured, sculpted foam construction draped entirely in a stone-grey aesthetic. Suggested imagery shows dynamic molded ridges slicing across the lateral side profiles, taking clear design inspiration from the avant-garde aesthetic of Edwards' performance line. To secure a co-signed finish, the",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
       "id": "0ef1f3616587",
       "title": "A’Ja Wilson’s Nike A’Two PE “Susie Carmichael” Channels ‘90s Nostalgia",
       "source_name": "Hypebeast",
@@ -266,6 +370,28 @@
       ],
       "relevance_score": 3,
       "summary": "Reigning WNBA MVP A’ja Wilson of the Las Vegas Aces brought a wave of 1990s nostalgia to the hardwood by debuting a brand-new Player Exclusive (PE) iteration of her latest signature shoe. As seen on Wilson during the Las Vegas Aces’ Commissioner’s Cup game, the Nike A’Two \"Susie Carmichael\" made its official on-court bow during a regular-season game against the Golden State Valkyries. This playful design holds notable cultural relevance for the superstar, who is a self-proclaimed superfan of Nickelodeon’s classic animated series Rugrats.The aesthetic blueprint of the shoe translates Susie's iconic outfit directly onto the sneaker, boasting a vibrant yellow base upper adorned with a repeating pattern of purple flowers to mirror her signature dress. This cheerful arrangement is sharply contr",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "458e9545f4fe",
+      "title": "First Look at the New Balance 1954R",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/6/new-balance-1954r-first-look-release-info",
+      "original_publish_time": "2026-06-10T08:46:45+00:00",
+      "scraped_time": "2026-06-11T09:06:29.224038+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "New Balance"
+      ],
+      "keywords_matched": [
+        "sole",
+        "upper"
+      ],
+      "relevance_score": 4,
+      "summary": "SummaryImages of the unreleased New Balance 1954R have surfaced online ahead of an official launchThe new model features a technical blend of open mesh and premium grey suede overlaysOfficial release dates and pricing details have not yet been announced by the brandNew Balance is preparing to expand its retro-running lineup with the New Balance 1954R. Although the brand has not confirmed an official launch date, recently surfaced images preview the upcoming tech-runner in classic grey and black colorways.First look imagery shows a heavily layered upper constructed with a technical blend of open mesh and premium grey suede. Tonal shades of grey cover the panels, laces, and collar, while sharp black hits contrast the signature \"N\" logos and sole units. Distinct \"1954R\" tags are found on the ",
       "ren_take": "",
       "image_url": ""
     },
@@ -2578,173 +2704,6 @@
       ],
       "relevance_score": 4,
       "summary": "Name: Nike Dunk Low “Old Royal”Colorway: Old Royal/Photon Dust-WhiteSKU: IO4244-400MSRP: $120 USDRelease Date: Summer 2026Nike is releasing the Dunk Low \"Old Royal\" for Summer 2026. The colorway arrives in \"Old Royal, Photon Dust, and White and makes its case through material rather than color: suede overlays in place of the leather typically found in this construction zone, giving a familiar blue-and-white blocking more textural depth than a standard two-tone Dunk Low delivers.The material split is where the design work lives. Photon Dust leather covers the toe box, side panels, and collar, laying down a soft off-white base across the upper's largest surfaces. Old Royal suede then takes over on the overlays — the mudguard, eyestays, Swoosh, heel tab, and back tag — running the same blue h",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "d75c6417f748",
-      "title": "SOULGOODS and Nike Prepare to Drop the Homescape Woven Pack",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/6/soulgoods-nike-homescape-woven-pack-medium-orewood-brown-hm6961-001-blue-beyond-hm6961-400-chile-red-hm6961-600-first-look-release-info",
-      "original_publish_time": "2026-06-04T08:52:35+00:00",
-      "scraped_time": "2026-06-05T08:37:04.413862+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Name: SOULGOODS X Nike Homescape WovenColorway: Medium Orewood Brown/Dark Field Brown-Dark Blue Grey, Blue Beyond/Light Blue-Peat Moss, Chile Red/Black-Dark Smoke Grey-GingerSKU: HM6961-001, HM6961-400, HM6961-600Retail Price: $180 USDRelease Date: Fall 2026Where to Buy: NikeBeijing-based retailer SOULGOODS is teaming up with Nike to introduce an entirely new footwear silhouette with the upcoming Homescape Woven pack. Continuing a collaborative relationship that previously delivered unique takes on the Dunk High and Air Ship, the Chinese imprint is now reimagining the beloved Footscape lineage with a bold, outdoor-ready twist tailored for everyday wear.Flipping the classic Footscape Woven into a collapsible sneaker-slipper hybrid, the Homescape Woven arrives in three distinct colorways: a ",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "1ae30548ebeb",
-      "title": "Take an Official Look at the Converse x Collina Strada Chuck 70 Collection",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/6/converse-collina-strada-chuck-70-collection-official-images-release-info",
-      "original_publish_time": "2026-06-04T08:35:34+00:00",
-      "scraped_time": "2026-06-04T08:42:25.740072+00:00",
-      "time_delta_mins": 0,
-      "category": "Quality",
-      "brands_mentioned": [
-        "Converse"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 3,
-      "summary": "Name: Converse x Collina Strada Chuck 70 Collection MSRP: $160 - $200 USDRelease Date: June 16 Where to Buy: Converse, Collina StradaConverse has finally announced its collaborative collection with Collina Strada. Previewed during the label’s Fall/Winter 2026 runway, the collaboration centers on the Chuck 70 silhouette, where it’s reimagined through Collina Strada's radical lens of self‑expression. This four-pair women 's-exclusive capsule introduces a bold range of cuts, including an extra-high ankle Chuck 70 XX-Hi boot, a standard high-top and low-top Ox models.The collection splits its design identity across two distinct visual themes: the colorful iterations showcase a whimsical, plaid picnic blanket print rendered in \"Mellow Rose\" pink and \"Mellow Yellow\" hues, while the sleek black i",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "34bafe3f7e1b",
-      "title": "Salomon Unveils the Japanese Garden-Inspired RX-ENRO UCHI",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/6/salomon-rx-enro-uchi-global-release-info",
-      "original_publish_time": "2026-06-04T08:00:45+00:00",
-      "scraped_time": "2026-06-04T13:58:31.144646+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [
-        "Salomon"
-      ],
-      "keywords_matched": [
-        "footwear",
-        "upper"
-      ],
-      "relevance_score": 4,
-      "summary": "SummarySalomon introduces the new RX-ENRO UCHI silhouette inspired by the serene philosophy of Japanese gardensThe footwear features a mesh upper that fades from green to brown to express the passage of timeVisuals for the campaign were photographed by Kisshomaru Shimamura to highlight the beauty of everyday utilitySalomon has officially unveiled the RX-ENRO UCHI, a brand-new footwear silhouette deeply inspired by the calming philosophy and aesthetic of traditional Japanese gardens. Designed with minimalism at its core, the model embraces a close connection with nature and the quiet beauty of daily living, continuing the brand's exploration of lifestyle-focused utility.Salomon has officially unveiled the RX-ENRO UCHI, a brand-new footwear silhouette deeply inspired by the calming philosoph",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "a676d53550d6",
-      "title": "Nintendo and Crocs Power Up for 'Super Mario Bros.' Collection",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/6/nintendo-crocs-super-mario-bros-classic-clog-collection-release-info",
-      "original_publish_time": "2026-06-04T07:59:48+00:00",
-      "scraped_time": "2026-06-04T08:42:25.748031+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [
-        "Crocs"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Name: Nintendo x Crocs Classic Clog \"Mario,\" \"Super Mario,\" \"Bowser,\" \"Yoshi,\" \"Princess Peach\"Colorway: Multi-ColorSKU: 212134-90H, 212138-90H, 212135-90H, 212136-90H, 212137-90HRetail Price: $80 USDRelease Date: July 15, 2026Where to Buy: CrocsNintendo and Crocs have officially joined forces to deliver the expansive Super Mario Bros. collection. Bringing the iconic Mushroom Kingdom to the lifestyle footwear realm, the upcoming capsule is packed with character-driven designs and highly customizable accessories.The undisputed centerpiece of the collaboration is the Super Mario Core Classic Clog. Available in both adult and kids' sizing, this model boasts a vibrant blue colorway covered in a detailed graphic print featuring classic in-game items like coins, Super Stars, and Green Shells. El",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "dd4fefb50bb1",
-      "title": "Dolce & Gabbana x Diadora Rebuild the Brasil in Leopard-Print Pony Hair for a Football Boot and a Street Sneaker",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/6/dolce-gabbana-diadora-brasil-brasil-id-collaboration-collection-release-info",
-      "original_publish_time": "2026-06-04T07:58:14+00:00",
-      "scraped_time": "2026-06-04T08:42:25.750441+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Diadora"
-      ],
-      "keywords_matched": [
-        "boot",
-        "sole",
-        "upper"
-      ],
-      "relevance_score": 7,
-      "summary": "SummaryDolce & Gabbana and Diadora have unveiled an exclusive collaboration centered on the Brasil, Diadora's iconic 1984 football boot, available in both an original football version and a street-ready Brasil ID sneakerThe Brasil retains its nappa leather upper with ball-control stitching, anatomical footbed, and SOFTY PRO 91 sole, while the Brasil ID features ultra-soft nappa leather, visible stitching, and a signature folded tongue detail, available in full-grain leather with leopard-print pony hair or all-over animalier pony hairBoth models are available from June 8 Dolce & Gabbana and Diadora have announced an exclusive collaboration built around the Brasil, Diadora's foundational football boot first launched in 1984. The collection produces two distinct constructions releasing June 8",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "8cf5b260eccf",
-      "title": "Currys names shop-floor veteran as new boss as Baldock exits for Boots",
-      "source_name": "Retail Gazette",
-      "source_domain": "retailgazette.co.uk",
-      "source_url": "https://www.retailgazette.co.uk/blog/2026/06/currys-names-shop-floor-veteran-as-new-boss-as-baldock-exits-for-boots/",
-      "original_publish_time": "2026-06-04T07:31:22+00:00",
-      "scraped_time": "2026-06-04T08:45:25.093899+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 3,
-      "summary": "Currys has promoted company veteran Fredrik Tonnesen to chief executive, replacing Alex Baldock as he prepares to take the top job at Boots. Tonnesen, who currently leads Currys’ Nordics business, first joined the electricals retailer 20 years ago as a sales assistant. He went on to become managing director for Norway, before taking on the...",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "1d068802d599",
-      "title": "Inside the Push Towards Footwear Manufacturing in Portugal - The Business of Fashion",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPR1I2TFRzczlBYmJhamdPeUlFWW9HU1hPdy1nZnJRdHlLdEYxOUdjX19iNndUdFdQTGQ5SDRFZHpWTlE1bU9VeTdwRGw5WkJnZE1ZMThTYWYtUVNKUTNFeEVkdVVjVWtYQ3lmbTdHWDZHWG5vLUtBZ2NmM1R0R09YaFJXdEh3dW5JTWJQNGJ6ODBGUGg0dkNGT0xfNkRrbW9QdlRNSlJOWldPX1laZWowZA?oc=5",
-      "original_publish_time": "2026-06-04T05:00:00+00:00",
-      "scraped_time": "2026-06-04T08:42:36.666924+00:00",
-      "time_delta_mins": 0,
-      "category": "Manufacturing",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Inside the Push Towards Footwear Manufacturing in Portugal The Business of Fashion",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "d7190e60e6da",
-      "title": "Ronnie Fieg Opens Draw for Kith x Nike Air Max 95 \"Knicks\"",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/6/ronnie-fieg-kith-nike-air-max-95-knicks-raffle-release-info",
-      "original_publish_time": "2026-06-04T04:40:48+00:00",
-      "scraped_time": "2026-06-04T08:42:25.753713+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "SummaryRonnie Fieg has officially confirmed a public release for the Kith x Nike Air Max 95 \"Knicks\" in adult sizingThe drop celebrates the New York Knicks' recent push to the NBA FinalsThe release is being handled exclusively via a Kith App Draw that closes on June 10, 2026Ronnie Fieg and Kith are officially giving fans a chance to secure the Kith x Nike Air Max 95 \"Knicks\". Originally released exclusively in children's sizing, the highly anticipated collaboration is finally arriving in adult proportions to celebrate the New York Knicks' run to the NBA Finals.After initially teasing the sneakers courtside during a matchup against the Memphis Grizzlies, Fieg has confirmed the public drop details. The collaborative Nike Air Max 95 arrives dressed in a signature Midnight Navy, Game Royal, Sm",
       "ren_take": "",
       "image_url": ""
     }
