@@ -1,8 +1,235 @@
 {
-  "last_updated": "2026-06-12T14:21:01.843813+00:00",
-  "total_articles": 135,
-  "sources_checked": 61,
+  "last_updated": "2026-06-12T19:13:21.259561+00:00",
+  "total_articles": 140,
+  "sources_checked": 60,
   "articles": [
+    {
+      "id": "94456a3204b6",
+      "title": "Nike’s 7-Eleven Air Max Is a 24/7 Textural Treat",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-air-max-95-7-eleven/",
+      "original_publish_time": "2026-06-12T19:04:13+00:00",
+      "scraped_time": "2026-06-12T19:06:10.625701+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "Nike's Air Max 95 Big Bubble sneaker gets the \"7-Eleven\" treatment, complete with textural uppers dressed in the convenience store's signature colors.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "31ca6de7cfde",
+      "title": "Nike Let Slawn Doodle All Over Its Latest Striking Soccer Sneaker",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-cryoshot-slawn/",
+      "original_publish_time": "2026-06-12T18:46:01+00:00",
+      "scraped_time": "2026-06-12T19:06:10.626464+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "outsole",
+        "sole",
+        "upper"
+      ],
+      "relevance_score": 5,
+      "summary": "Nike Cryoshot Striker 1976 x Nigeria x Slawn features a canvas upper covered in Slawn’s signature illustrations, minimal overlays, and a clear outsole.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "dbb7e0f3da20",
+      "title": "Not All Bootleg Knicks Merch Is Created Equal",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/knicks-bootleg-tshirts/",
+      "original_publish_time": "2026-06-12T18:21:18+00:00",
+      "scraped_time": "2026-06-12T19:06:10.627146+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 3,
+      "summary": "The New York Knicks are on a historic 2026 NBA Playoffs run but the bootleg merch ranges from rough to sublime. Here's the best bootleg bits.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "1afb6fb7c9db",
+      "title": "Nike’s Most Classic Sneaker Has a Very Bright Future with Vibram",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-air-force-1-vibram-volt/",
+      "original_publish_time": "2026-06-12T18:07:42+00:00",
+      "scraped_time": "2026-06-12T19:06:10.627760+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Vibram"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "Nike's tough Air Force 1 Low Vibram sneaker gets a \"Volt\" makeover, resulting in the boldest version yet.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "a0ec90de3344",
+      "title": "SpaceX Had Custom Nike Tennis Shoes For Historic IPO",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/06/12/space-x-ipo-nike-tennis-classic-shoes/",
+      "original_publish_time": "2026-06-12T18:00:24+00:00",
+      "scraped_time": "2026-06-12T19:02:31.166204+00:00",
+      "time_delta_mins": 0,
+      "category": "Trade Data",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 5,
+      "summary": "It’s not often that we have overlap with Bloomberg’s front page, but as SpaceX became a publicly traded company, some employees’ sartorial choices provide just... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post SpaceX Had Custom Nike Tennis Shoes For Historic IPO appeared first on Sneaker News . The post SpaceX Had Custom Nike Tennis Shoes For Historic IPO appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "272399181d5f",
+      "title": "The Air Jordan Cryoshot Mercurial Vapor 1 Honors Ronaldo’s 2002 World Cup Cleats",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/06/12/air-jordan-cryoshot-mercurial-vapor-1-io8209-600/",
+      "original_publish_time": "2026-06-12T17:34:55+00:00",
+      "scraped_time": "2026-06-12T19:02:31.167824+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 4,
+      "summary": "The story of Nike Cryoshot began with an idea to transform Ronaldo’s 1998 World Cup boots into a wearable street option, that first thought snowballing... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Air Jordan Cryoshot Mercurial Vapor 1 Honors Ronaldo's 2002 World Cup Cleats appeared first on Sneaker News . The post The Air Jordan Cryoshot Mercurial Vapor 1 Honors Ronaldo’s 2002 World Cup Cleats appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "472bc856ca2c",
+      "title": "Travis Scott Fragment Air Jordan 1 Looksee Sample From 2021 Has Appeared",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/06/12/travis-scott-fragment-air-jordan-1-low-2021-sample/",
+      "original_publish_time": "2026-06-12T16:56:14+00:00",
+      "scraped_time": "2026-06-12T19:02:31.169628+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Jordan"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "We’d like to remind you that no matter how many Travis Scott shoes release, there will always be an undercurrent of never-before-seen samples that trickle... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Travis Scott Fragment Air Jordan 1 Looksee Sample From 2021 Has Appeared appeared first on Sneaker News . The post Travis Scott Fragment Air Jordan 1 Looksee Sample From 2021 Has Appeared appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "e876d57dc140",
+      "title": "QCI, FDDI Join Hands to Boost Quality and Skills in Footwear Sector - Devdiscourse",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOHUyeE5XaVREODBVVXZEazJxVDR1M1NEaWNrdEJhblMxYnhjcmFIdUdEUzVONG04THdkNzNkQzhjZ3ItSDZlenJQTExOYUZwLWNvY2k2UFhHSVZ3MzRvbUU0Rk5HbUlwc1c3cUIxSW45a3VDSlNlcjRWeUVlWWhzNzJ2aGhTVmVVUTQ1N01ubldLZ2UtVndzTkNmVVB4dWRfR1pUQXRIXzdJWThHYXgybzl6cDlFRFZqeksxbll30gHDAUFVX3lxTE9MS3lWWDQwTGV0eVpVeElDRlF1YkdRY2U3U2ZaZkZUZ0dFanFMTFVwYWpKNU96dzRieC1SZmljT3Nsa1hnNEZuVGlHa1hicWR0MlJ0cFFKa1FMaXNiU25va0JoWVpxQ1NOX3V0dUJhQ0FtQ1dDTVRkaE85Tldpd19iMlRJcnU3VFRpZ1dpb2VRSkdIcU8tZXRxTDBiZE4taWZPNGZxczlHamtGQ3dGVENCblE3UG9JUVlZQVpjeGVZa3hISQ?oc=5",
+      "original_publish_time": "2026-06-12T16:28:54+00:00",
+      "scraped_time": "2026-06-12T19:02:41.859550+00:00",
+      "time_delta_mins": 0,
+      "category": "Quality",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "QCI, FDDI Join Hands to Boost Quality and Skills in Footwear Sector Devdiscourse",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "b47ff808efb8",
+      "title": "Stone Island’s Spin on New Balance’s Tech Sneaker Is Fit For Combat",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/new-balance-x-stone-island-abzorb-1890/",
+      "original_publish_time": "2026-06-12T15:48:57+00:00",
+      "scraped_time": "2026-06-12T19:06:10.629536+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "New Balance"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "Stone Island x New Balance ABZORB 1890 features a teardrop cut-out upper, technical mesh, and ABZORB cushioning.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "0c04486b0ef2",
+      "title": "New Balance's Easy Breezy Mary Jane Sneaker Is One Rugged Sandal",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/new-balance-breeze-mary-jane/",
+      "original_publish_time": "2026-06-12T15:26:00+00:00",
+      "scraped_time": "2026-06-12T19:06:10.628856+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "New Balance"
+      ],
+      "keywords_matched": [
+        "sandal"
+      ],
+      "relevance_score": 7,
+      "summary": "New Balance Breeze Mary Jane in gray suede, a strappy, laid-back sneaker with classic chunk and effortless tech.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "7c84786420c8",
+      "title": "Bharat's Footwear Sector Takes a Step Forward: QCI and FDDI's Strategic Partnership - Devdiscourse",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPXzFUOXNYZlZUbDV3bFozeTJ6SzRjUUNhYWlnMnZJUllfSFJ5NDhEQWx2NkJYU2ZCc3k2b3ZvaFBfeldpMFpDc2VIQUNwM19uNmN3dGlwWVl2TXQ1TC1mbHpVcHRDTTBBNUt5Y0d2aXlmVjRmVVNQZmxxT01UeEVmWFQ4aFpNVF9WLXVfMXotOVljMUh3OHFlNDB2N2hUNEJ5UFBjcHVueXJodk95aC1fRHc5c1NQZWFNejVSR3ZmTlJEMEtrdnptNFJTbnZIZ1XSAdQBQVVfeXFMUHpQd1c4NlBoU3NQd1JhUWlfZXRrdUtUX3FxLXVrY2FJZGJxUjdFV00xVjByclBGYnVZYllvaE96LUx3YldBNE1uMndlY2JlQ0xDT1ZOcVQzQkh1QkxrZTZlOTBFOVJhZng1R24yTlZHSXpybkhhcHNoMURscjFFamFkMG85VXZVYXJSOURXZjk3SkRHUGFjX3MzTjJvc09RdkZIcDJIdDd2aWV1QmNVSEc1aTJ5WGdaUG9YZWI1aXowX2ZYLU5Yc0l1QU1NSTNTVDVUMmc?oc=5",
+      "original_publish_time": "2026-06-12T15:14:42+00:00",
+      "scraped_time": "2026-06-12T19:02:41.857309+00:00",
+      "time_delta_mins": 0,
+      "category": "Quality",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Bharat's Footwear Sector Takes a Step Forward: QCI and FDDI's Strategic Partnership Devdiscourse",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "f2d44c47afe6",
       "title": "Why Von Dutch is expanding into clothing and footwear",
@@ -103,6 +330,27 @@
       ],
       "relevance_score": 6,
       "summary": "Name: ASICS x Setinn GEL-CHALLENGER 15Colorway: White/Peacoat, Black/White, SKU: 1043A034, 1043A034-001MSRP: ￥16,500 JPY (approx. $103 USD)Release Date: June 25 Where to Buy: ASICSASICS has partnered with Japanese tennis lifestyle brand Setinn for a collaborative take on the GEL-CHALLENGER 15 shoe. The model is offered in two distinct colorways: a dynamic \"White/Peacoat\" and a classic \"Black/White.\" Both pairs sit atop GEL‑infused midsoles for responsive cushioning, paired with durable rubber outsoles designed for traction and longevity.The model retains ASICS' technical DNA, engineered for stability and cushioning, while Setinn’s design language adds a refined edge. The upper arrives in a synthetic leather material, complete with tonal overlays, accented with detailing that emphasizes the",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "7121d5affde5",
+      "title": "J Balvin Shows Off Unreleased ‘Lemonade’ Air Jordan 4 Collab During 2026 FIFA World Cup Opening Ceremony",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/j-balvin-lemonade-air-jordan-4-world-cup-ceremony-1239007864/",
+      "original_publish_time": "2026-06-12T08:45:00+00:00",
+      "scraped_time": "2026-06-12T19:02:19.455803+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Jordan"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "Photos of the sneakers leaked in 2025.",
       "ren_take": "",
       "image_url": ""
     },
@@ -2654,151 +2902,6 @@
       ],
       "relevance_score": 3,
       "summary": "Nike debuts the all-new First Sight Mirage, a soccer-minded sneaker with dramatic cleated soles.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "f2a22fe3ba04",
-      "title": "OG Anunoby Gets A Skechers PE Inspired By Timberland Boots",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/06/05/og-anunoby-skechers-skx-reign-foreman-pe-nba-finals/",
-      "original_publish_time": "2026-06-05T17:33:17+00:00",
-      "scraped_time": "2026-06-05T18:56:40.436888+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Skechers",
-        "Timberland"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 7,
-      "summary": "Everyone wants in on the New York Knicks’ historic playoff run, especially the sportswear brands that pay top dollar to rep an athlete in the... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post OG Anunoby Gets A Skechers PE Inspired By Timberland Boots appeared first on Sneaker News . The post OG Anunoby Gets A Skechers PE Inspired By Timberland Boots appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "e623fa0d163e",
-      "title": "The World Cup's Biggest Rivalry Is Actually Nike vs adidas",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/adidas-nike-world-cup-ads-2026/",
-      "original_publish_time": "2026-06-05T17:24:51+00:00",
-      "scraped_time": "2026-06-05T19:00:12.875853+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike",
-        "Adidas"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 4,
-      "summary": "The biggest rivalry of the World Cup has arrived before anyone has even kicked a ball. It's the Nike vs adidas advert competition.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "51f3b45018c4",
-      "title": "Wax London expands its curated footwear offer with cult brand Sabah - FashionNetwork - The World's Fashion Business News",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPc21GSzdaRlU2ZERCUEx4WmZ5MVZGd1Fsa1hKZVJHS1RGb0lrLU5iU0trY0NmSTlaa1NRQzdzVGdCUjk3dUJKaDFEM3BiWFJIclRiZnlDenRxYVNrSWlQZHU4MUtkNzNpNlJUNTNqaEVaanJaLW8wclh5S3lfY1BqS19lM2NGSURnejlZS2tULXBVbV9zdS1VbVNfVmxrc3ZpU1pLUHdOZEY5YzhMN0ZzVnRwZG16UQ?oc=5",
-      "original_publish_time": "2026-06-05T17:10:33+00:00",
-      "scraped_time": "2026-06-05T18:56:51.468339+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Wax London expands its curated footwear offer with cult brand Sabah FashionNetwork - The World's Fashion Business News",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "5a08b083234d",
-      "title": "Nike’s \"General Purpose Shoe\" Turns an Everyday Sneaker Into an Art Form",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nikecraft-gps-bricolage/",
-      "original_publish_time": "2026-06-05T17:07:52+00:00",
-      "scraped_time": "2026-06-05T19:00:12.876497+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "sole",
-        "upper"
-      ],
-      "relevance_score": 4,
-      "summary": "NikeCraft GPS Bricolage features a waffle sole, seat belt pull tabs, and knot-detailed knit upper. Innovation done right.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "f0a4c32b28e4",
-      "title": "Bape’s Highly Anticipated Collab on Adidas’ Hottest Running Shoe Adds Another Colorway",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/bape-adidas-evo-sl-blue-green-release-date-kj5749-1238997021/",
-      "original_publish_time": "2026-06-05T17:01:42+00:00",
-      "scraped_time": "2026-06-05T18:56:28.532809+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "Once again featuring mismatched shoes.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "08bfc2cc0cbd",
-      "title": "Streetwear's OG Sandal Brand Is Ready to Be Taken Seriously",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/suicoke-interview-2026/",
-      "original_publish_time": "2026-06-05T16:58:27+00:00",
-      "scraped_time": "2026-06-05T19:00:12.877088+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "sandal",
-        "shoes"
-      ],
-      "relevance_score": 4,
-      "summary": "Suicoke, the original cool-guy sandal brand, spent 2026 quietly rebranding. In place of the flashy collabs of yesteryear, a newfound focus on its own shoes.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "a5bf47222107",
-      "title": "Nike Goes All-in on World Cup X2 Collabs & Jaden Smith Debuts Christian Louboutin FW26 in This Week's Top Fashion News",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/6/nike-x2-world-cup-jaden-smith-louboutin-jordan-supreme-adidas-margiela",
-      "original_publish_time": "2026-06-05T15:59:44+00:00",
-      "scraped_time": "2026-06-06T00:10:57.932956+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Nike",
-        "Adidas",
-        "Louboutin"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 5,
-      "summary": "SummarySportswear Meets the Pitch: Nike, adidas, and Supreme released high-profile athletic capsules celebrating international sports cultures.Designer Milestones: Jaden Smith showcased his inaugural Christian Louboutin Fall 2026 menswear line, while Martin Margiela’s rare early works hit the auction block.Retail Expansion: Jacques Marie Mage opened a nature-inspired SoHo gallery in NYC.First Look Nike X2 World Cup Collection Palace Jacquemus Virgil Abloh Archive Exclusive Ahead of its mid-June release, Nike previewed its expansive X2 World Cup capsule. The sportswear titan tapped seven labels to blend football tradition with their identities, including Palace for England with a \"Three Lions\" range featuring varsity jackets and a custom Cryoshot sneaker, and Jacquemus for France with a ref",
       "ren_take": "",
       "image_url": ""
     }
