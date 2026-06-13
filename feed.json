@@ -1,8 +1,90 @@
 {
-  "last_updated": "2026-06-12T19:13:21.259561+00:00",
-  "total_articles": 140,
-  "sources_checked": 60,
+  "last_updated": "2026-06-13T00:32:50.704076+00:00",
+  "total_articles": 137,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "c60e8bcff0f5",
+      "title": "Nike KD 19 “Candy Apple” Releases June 17th",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/06/12/nike-kd-19-candy-apple-university-red-ih1117-600/",
+      "original_publish_time": "2026-06-12T21:30:41+00:00",
+      "scraped_time": "2026-06-13T00:21:50.125078+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 4,
+      "summary": "Michael Jordan, LeBron James, and Kobe Bryant are the only people in history with more total signature sneakers than Kevin Durant, a fact that says... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike KD 19 “Candy Apple” Releases June 17th appeared first on Sneaker News . The post Nike KD 19 “Candy Apple” Releases June 17th appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "5e6e9abfaf98",
+      "title": "New Balance’s Soft Pink Dad Shoe Is a Surprising Thirst-Quencher",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/new-balance-992-pink-chalk/",
+      "original_publish_time": "2026-06-12T21:06:29+00:00",
+      "scraped_time": "2026-06-13T00:25:35.923694+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "New Balance"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "New Balance's 992 Made in U.S.A. sneakers land in a new tasty \"Pink Chalk/Pink Lemonade\" colorway. Here's everything on the release.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "2accbe592b35",
+      "title": "‘The Godfather of Dad Shoes’ Steven Smith Reveals His First Silhouette for Hey Dude at Home Depot",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/hey-dude-stride-s-sneaker-steven-smith-interview-crocs-1239009366/",
+      "original_publish_time": "2026-06-12T20:21:26+00:00",
+      "scraped_time": "2026-06-13T00:21:37.581961+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "The tongue-and-cheek release event was held in honor of Father's Day, which occurs on June 21.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "8bd609dfd5b3",
+      "title": "The UGG-ification of adidas’ Luxe Samba Slippers",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/adidas-samba-mule-fur/",
+      "original_publish_time": "2026-06-12T20:16:46+00:00",
+      "scraped_time": "2026-06-13T00:25:35.924828+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Adidas",
+        "UGG"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "adidas' Samba Mules have gone UGG mode, having received a cold-weather-ready fur update.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "94456a3204b6",
       "title": "Nike’s 7-Eleven Air Max Is a 24/7 Textural Treat",
@@ -2757,151 +2839,6 @@
       ],
       "relevance_score": 3,
       "summary": "I found my summer sneakers among this year’s most coveted brand collaborations Vogue Adria",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "5fd2daa1e140",
-      "title": "A Video Game Designer and a Filmmaker Created a Prada Dreamscape",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/prada-mode-new-york-hideo-kujima-nicolas-winding-refn-hotel-chelsea/",
-      "original_publish_time": "2026-06-05T21:59:06+00:00",
-      "scraped_time": "2026-06-06T00:14:31.432142+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Prada"
-      ],
-      "keywords_matched": [
-        "hide"
-      ],
-      "relevance_score": 3,
-      "summary": "At the fourteenth installment of Prada Mode, the luxury house tapped game creator Hideo Kojima and filmmaker Nicolas Winding Refn to build a mind palace in the Hotel Chelsea.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "89493a15c9fa",
-      "title": "New Balance’s Vibram-Soled Trail Sandal Is the King of Versatility",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/new-balance-hiesv1-shoes/",
-      "original_publish_time": "2026-06-05T21:57:39+00:00",
-      "scraped_time": "2026-06-06T00:14:31.432985+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "New Balance",
-        "Vibram"
-      ],
-      "keywords_matched": [
-        "sandal",
-        "sole"
-      ],
-      "relevance_score": 10,
-      "summary": "New Balance's Fresh Foam Hierro sandal, or HIESV1, is a versatile Vibram-soled model with trail-worthy touches & classic dadcore energy.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "9095be00ab59",
-      "title": "House Lawmakers Fail to Pass BOOTS Act to Strengthen US Footwear Production - WWD",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTGdUVG1RV1VHRWN2RkZfV0cyYkpqa2hfUUpjRjNoRV9aa2UxMUJNblYzdnQ1SzZKdFhUc2g3Z0QtcU1hRjhsVXhRYnFhVXFKN3BmeG52NlZRcnByWFF4ZmpyRVJUcG56Z2xzQXNhMV83VDY0cHdHOE56czI1X1IyZ2k5QW9mZ0R6TmlVbnJRVThtYzI4RjZJVkhsUnYxcTZGbVRrQ2Z6TTM1T2tmT1dWVmQ4Nmg?oc=5",
-      "original_publish_time": "2026-06-05T21:52:06+00:00",
-      "scraped_time": "2026-06-06T07:39:21.105644+00:00",
-      "time_delta_mins": 0,
-      "category": "Manufacturing",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "boot",
-        "footwear"
-      ],
-      "relevance_score": 6,
-      "summary": "House Lawmakers Fail to Pass BOOTS Act to Strengthen US Footwear Production WWD",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "d0fe606272b8",
-      "title": "Nike Built Its Craziest Pixel Air Maxes One LEGO Brick at a Time",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/lego-nike-air-max-95-sneakers-2026/",
-      "original_publish_time": "2026-06-05T21:45:13+00:00",
-      "scraped_time": "2026-06-06T00:14:31.433603+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "LEGO & Nike release new \"brick pixel\" Air Max 95 sneakers in two colorways, as part of a larger soccer-themed collection.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "03cac2cfcb62",
-      "title": "The Verdict From FFANY Market Week: Footwear Is Having a Moment",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/ffany-market-week-june-2026-takeaways-1238994652/",
-      "original_publish_time": "2026-06-05T19:59:43+00:00",
-      "scraped_time": "2026-06-06T00:10:46.342214+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "While spring styles are infusing much-needed freshness into the market, emerging technology is on everyone's mind.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "0cb78969aabf",
-      "title": "Phoebe Philo Has Always Made Boring Shoes Beautiful",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/phoebe-philo-sneaker/",
-      "original_publish_time": "2026-06-05T19:33:00+00:00",
-      "scraped_time": "2026-06-06T00:14:31.434630+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoes",
-        "sneakers"
-      ],
-      "relevance_score": 4,
-      "summary": "Phoebe Philo's $950 plimsol is a perfect example of the former Celine designer turning ordinary sneakers into gorgeous luxury shoes.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "18d5b58425ad",
-      "title": "Nike's Freakiest Soccer-Minded Sneaker Is a Swoosh Mirage",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-first-sight-mirage-sneakers/",
-      "original_publish_time": "2026-06-05T19:17:44+00:00",
-      "scraped_time": "2026-06-06T00:14:31.435230+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "sole"
-      ],
-      "relevance_score": 3,
-      "summary": "Nike debuts the all-new First Sight Mirage, a soccer-minded sneaker with dramatic cleated soles.",
       "ren_take": "",
       "image_url": ""
     }
