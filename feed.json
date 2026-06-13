@@ -1,8 +1,27 @@
 {
-  "last_updated": "2026-06-13T12:37:46.676438+00:00",
-  "total_articles": 138,
+  "last_updated": "2026-06-13T18:15:43.646502+00:00",
+  "total_articles": 136,
   "sources_checked": 61,
   "articles": [
+    {
+      "id": "d2a50ac31266",
+      "title": "Lab Series & Jordan Clarkson Are Making Skincare Personal",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/lab-series-jordan-clarkson/",
+      "original_publish_time": "2026-06-13T14:29:23+00:00",
+      "scraped_time": "2026-06-13T18:08:34.247260+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "With the culture around optimizing wellness finally losing steam, Lab Series and Clarkson want to “Turn Your Routine Pro.”",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "c60e8bcff0f5",
       "title": "Nike KD 19 “Candy Apple” Releases June 17th",
@@ -2798,69 +2817,6 @@
       ],
       "relevance_score": 3,
       "summary": "Bangladesh's leather industry is gradually losing its competitive position in global markets due to policy neglect, environmental compliance shortcomings, financing barriers, and weak institutional su...",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "936b6d8c18af",
-      "title": "First Look: Nike’s Beloved Flyknit Sneakers Are Finally Coming Back With New Updates",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-flyknit-runner-2027-release-date-1238998435/",
-      "original_publish_time": "2026-06-06T17:35:12+00:00",
-      "scraped_time": "2026-06-06T18:02:47.850250+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 5,
-      "summary": "The Flyknit Runner is expected to debut at retail next year.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "224500722aec",
-      "title": "Skechers Has New NBA Finals Sneakers That Look Like Timberland’s 6-Inch Work Boots",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/skechers-skx-reign-foreman-timberland-boot-og-anunoby-1238998415/",
-      "original_publish_time": "2026-06-06T15:25:30+00:00",
-      "scraped_time": "2026-06-06T18:02:47.852618+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Skechers",
-        "Timberland"
-      ],
-      "keywords_matched": [
-        "boot",
-        "sneakers"
-      ],
-      "relevance_score": 10,
-      "summary": "A \"symbol of the toughness, dedication, and defensive excellence\" that took the New York Knicks to the NBA Finals.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "06e9caa96ba6",
-      "title": "I found my summer sneakers among this year’s most coveted brand collaborations - Vogue Adria",
-      "source_name": "Google News - Sneaker Brand",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9wajRNbUtJdFBLVFIyWDJveU1YeTM2Yzk5amV6ejk3M3RBR1Nia2JQakFKQWlnbW1HT0lCZ011ZnJxMVlDdWlTbk1jS2FmbVl1ejYtVWlUanBleU5KdEtraERESQ?oc=5",
-      "original_publish_time": "2026-06-06T15:00:33+00:00",
-      "scraped_time": "2026-06-08T00:12:47.374083+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "I found my summer sneakers among this year’s most coveted brand collaborations Vogue Adria",
       "ren_take": "",
       "image_url": ""
     }
