@@ -1,6 +1,107 @@
 {
-  "last_updated": "2026-06-07T10:31:41.726884+00:00",
+  "last_updated": "2026-06-14T10:50:47.108600+00:00",
   "bulletins": [
+    {
+      "id": "wk24-2026",
+      "week_number": 24,
+      "year": 2026,
+      "date_from": "2026-06-08",
+      "date_to": "2026-06-14",
+      "published": "2026-06-14T10:50:47.108113+00:00",
+      "intro": "Week 24 arrives against a backdrop of tariff anxiety, leather spectacle, and quiet but consequential material shifts. Indonesia's manufacturers are bracing, India's government is positioning, and the brands are doing what they always do in uncertain times — lean into storytelling. The underlying tension between sourcing cost pressure and premium product investment is the thread running through everything this week.",
+      "articles": [
+        {
+          "title": "From Nike to Salomon, the Seven Best Sneakers to Cop Right Now",
+          "source_name": "Highsnobiety",
+          "source_url": "https://www.highsnobiety.com/p/sneaker-releases-2026-june-week-2/",
+          "category": "Retail",
+          "relevance_score": 9,
+          "original_publish_time": "2026-06-10T07:50:00+00:00",
+          "misaki_take": "When editorial roundups span Nike, adidas, Salomon, and New Balance in a single breath, it signals a market where no single silhouette dominates and consumer attention is genuinely fragmented. For sourcing teams, that fragmentation means smaller batch runs, more SKU complexity, and less leverage on unit economics — plan accordingly."
+        },
+        {
+          "title": "Natalie Portman’s Hoka Sneakers Might Be the Coolest Walking Shoes You Can Own - instyle.com",
+          "source_name": "Google News - Sneaker Brand",
+          "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTUTIxcWczTzIwQ0FRc0NxZTFMdzZIN2dUZng5Rkt3enhsN2hEbFE1VkpqLUNJUHpyQ0dOcDFJbnlCQUZQTDlFWWdyVWNiRjFqdVlIR2pkUDVScG02VHFYS2hsenhHd19yMVVUdUJ5SQ?oc=5",
+          "category": "Supply Chain",
+          "relevance_score": 8,
+          "original_publish_time": "2026-06-12T01:30:00+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "One of New Balance’s Biggest Shoes of the Decade Is Getting a Massive Change for Its Upper",
+          "source_name": "Footwear News",
+          "source_url": "https://wwd.com/footwear-news/sneaker-news/new-balance-1906e-release-date-1239002892/",
+          "category": "Retail",
+          "relevance_score": 8,
+          "original_publish_time": "2026-06-09T17:01:19+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "Nike Experiments With Gradient Midsoles On The Vomero Premium “Aluminum”",
+          "source_name": "Sneaker News",
+          "source_url": "https://sneakernews.com/2026/06/07/nike-vomero-premium-aluminum-hm5973-401/",
+          "category": "Retail",
+          "relevance_score": 8,
+          "original_publish_time": "2026-06-07T18:00:34+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "New Balance's Easy Breezy Mary Jane Sneaker Is One Rugged Sandal",
+          "source_name": "Highsnobiety",
+          "source_url": "https://www.highsnobiety.com/p/new-balance-breeze-mary-jane/",
+          "category": "Leather",
+          "relevance_score": 7,
+          "original_publish_time": "2026-06-12T15:26:00+00:00",
+          "misaki_take": "Gray suede on a hybrid sandal-sneaker construction is a deliberate materials choice that keeps upper costs contained while delivering a premium hand feel at retail — suede finishing remains more forgiving on split leather grades than full-grain work. New Balance continues to show it understands how to engineer perceived luxury without the full-grain price tag, which is a sourcing discipline as much as a design one."
+        },
+        {
+          "title": "Kith Readies a Summer-Ready Footwear Capsule With Birkenstock",
+          "source_name": "Hypebeast",
+          "source_url": "https://hypebeast.com/2026/6/kith-readies-a-summer-ready-footwear-capsule-with-birkenstock",
+          "category": "Leather",
+          "relevance_score": 7,
+          "original_publish_time": "2026-06-12T08:39:16+00:00",
+          "misaki_take": "Premium suede with brass and steel hardware at the $200–$250 price point reflects Birkenstock's continued confidence in its German manufacturing cost structure as a brand asset rather than a liability. For brands considering whether to reshore or maintain European production for prestige positioning, Birkenstock's consistent commercial success with that model is the clearest data point available."
+        },
+        {
+          "title": "J Balvin Takes the World Cup Stage to Debut His Air Jordan 4 “Lemonade”",
+          "source_name": "Hypebeast",
+          "source_url": "https://hypebeast.com/2026/6/j-balvin-air-jordan-4-lemonade-fifa-world-cup-2026-opening-ceremony-kick-off-performance-first-look",
+          "category": "Leather",
+          "relevance_score": 7,
+          "original_publish_time": "2026-06-12T04:54:23+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "US Tariff Uncertainties Haunt Indonesia’s Footwear Industry - Jakarta Globe",
+          "source_name": "Google News - Footwear Industry",
+          "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOR3UtTlRzVVMySmJnUUhPTTNJaC1DQ25hVEVEZDFIQU9XaWdMQWFHUkE0MXFjWG1TZmRDUnZwbEJVdFUwNEdDY3JHZWJoRVY3SG5acUtoOGhicDNNclIxSGxBaDhPaS1JMDdiM0tnRmVkZUd5am8yTzlfUENTdjJTZWEtNGpHekV1YjdPUEd1Z2VIbkE0ZGc?oc=5",
+          "category": "Trade Data",
+          "relevance_score": 6,
+          "original_publish_time": "2026-06-12T09:54:00+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "ASICS x Setinn Serve Up a GEL‑CHALLENGER 15 Tennis Shoe Duo",
+          "source_name": "Hypebeast",
+          "source_url": "https://hypebeast.com/2026/6/asics-setinn-gel-challenger-15-white-peacoat-1043a034-100-black-white-1043a034-001-release-info",
+          "category": "Leather",
+          "relevance_score": 6,
+          "original_publish_time": "2026-06-12T08:52:39+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "Footwear industry is backbone of India’s economy: Union Minister Giriraj Singh - News On AIR",
+          "source_name": "Google News - Footwear Industry",
+          "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ29UaXZQZHFWUm1nX2FHV3h5VGlhdFRaX01vcllPcGc2bU5fRFdmR282RjQ1ZnkyTE9Ic0drOHQ2SjM3NkI5ZFI3eEZsRHUyaTI0LW15clpXMnJYcS15QmN6Qy0xR1NEbVd0QVp6b0taVXVkZXVYNUxsdHdlX2JFUGtKLUFXenJ6eVdxU1I5NF9ud2tPVTFLM3hwbmNZdHl4cFFZdQ?oc=5",
+          "category": "Sustainability",
+          "relevance_score": 6,
+          "original_publish_time": "2026-06-10T13:36:44+00:00",
+          "misaki_take": ""
+        }
+      ]
+    },
     {
       "id": "wk23-2026",
       "week_number": 23,
