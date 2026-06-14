@@ -1,8 +1,29 @@
 {
-  "last_updated": "2026-06-13T18:15:43.646502+00:00",
+  "last_updated": "2026-06-14T00:22:24.960772+00:00",
   "total_articles": 136,
   "sources_checked": 61,
   "articles": [
+    {
+      "id": "abb9f9d177e6",
+      "title": "Touch Grass? CLOT’s adidas Samba Espadrille Sneaker Wears It Proudly",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/clot-adidas-samba-espadrille-sneakers/",
+      "original_publish_time": "2026-06-13T20:13:42+00:00",
+      "scraped_time": "2026-06-14T00:15:10.910001+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "CLOT debuts new adidas Samba Espadrille sneakers in three colorways, including a \"Grass Green\" pair inspired by the pitch.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "d2a50ac31266",
       "title": "Lab Series & Jordan Clarkson Are Making Skincare Personal",
@@ -2798,25 +2819,6 @@
       ],
       "relevance_score": 4,
       "summary": "Name: Basketcase x New Balance Gator Run CollectionColorway: \"Hacky,” “Maiden”SKU: TBCMSRP: $130 USDRelease Date: June 12Where to Buy: Basketcase, New BalanceRevisiting their collaborative chemistry following their previous 204L partnership, California-based streetwear label Basketcase has teamed up with New Balance for a new soccer-inspired collection, dubbed the Gator Run “The Alternates.”Delivering the collection’s most explicit pitch-side reference, the “Hacky” colorway combines vibrant yellow side panels with shaggy, long-haired green suede overlays that beautifully mimic a worn football pitch. This bold configuration is anchored by a classic gum rubber outsole featuring a distinct, jagged tooth-pattern tread and is accessorized with custom green-and-yellow mixed laces along with a pl",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "63fb5a2e0836",
-      "title": "Experts warn of declining momentum in Bangladesh’s leather industry",
-      "source_name": "Textile Today",
-      "source_domain": "textiletoday.com.bd",
-      "source_url": "https://textiletoday.com.bd/experts-warn-of-declining-momentum-in-bangladeshs-leather-industry",
-      "original_publish_time": "2026-06-06T18:21:00+00:00",
-      "scraped_time": "2026-06-07T00:11:23.998764+00:00",
-      "time_delta_mins": 0,
-      "category": "Quality",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "leather industry"
-      ],
-      "relevance_score": 3,
-      "summary": "Bangladesh's leather industry is gradually losing its competitive position in global markets due to policy neglect, environmental compliance shortcomings, financing barriers, and weak institutional su...",
       "ren_take": "",
       "image_url": ""
     }
