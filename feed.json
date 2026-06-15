@@ -1,8 +1,50 @@
 {
-  "last_updated": "2026-06-14T18:20:45.128048+00:00",
+  "last_updated": "2026-06-15T00:26:14.187831+00:00",
   "total_articles": 135,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "eed831ccfb22",
+      "title": "adidas’ Iconic Cleat Gets a Glow-in-the-Dark Refit",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/adidas-atmos-zx8000-predator/",
+      "original_publish_time": "2026-06-14T21:59:00+00:00",
+      "scraped_time": "2026-06-15T00:19:00.899204+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 3,
+      "summary": "The atmos x adidas ZX 8000 Predator is a celebration of sports culture, drawing inspiration from the 2002 adidas Predator football boots",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "dce5a1ab7b74",
+      "title": "New Balance's Savory Slim Sneaker Is the Real Salt Bae",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/new-balance-204l-sea-salt/",
+      "original_publish_time": "2026-06-14T21:18:26+00:00",
+      "scraped_time": "2026-06-15T00:19:00.899901+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "New Balance"
+      ],
+      "keywords_matched": [
+        "sole"
+      ],
+      "relevance_score": 3,
+      "summary": "New Balance's \"Sea Salt\" 204L sneaker lands as a clean, well-seasoned take on the low-soled model. Here's everything on the release.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "5152d7ffd267",
       "title": "A Ton of Rare New York Knicks-Themed Sneakers Are up for Grabs for Only $5 Each",
@@ -19,6 +61,26 @@
       ],
       "relevance_score": 3,
       "summary": "Sign-ups for the drawings are open now through Wednesday.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "b1e12b7ce31d",
+      "title": "Jordan 5 “Black Carolina,” Nike Cryoshot, And This Week’s Best Releases",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/06/14/sneaker-releases-june-14-june-20-2026/",
+      "original_publish_time": "2026-06-14T16:00:46+00:00",
+      "scraped_time": "2026-06-15T00:15:26.086850+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "If you’re retro-focused or a fan of innovation, you’ve got quite the one-two combo ahead of you. For the former, the Air Jordan 5 “Black... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Jordan 5 \"Black Carolina,\" Nike Cryoshot, And This Week's Best Releases appeared first on Sneaker News . The post Jordan 5 “Black Carolina,” Nike Cryoshot, And This Week’s Best Releases appeared first on Sneaker News .",
       "ren_take": "",
       "image_url": ""
     },
@@ -2733,66 +2795,6 @@
       "keywords_matched": [],
       "relevance_score": 4,
       "summary": "SummaryHiroshi Fujiwara was recently spotted wearing what appears to be an unreleased sample of the fragment design x Travis Scott x Nike Air Jordan 1 LowThe unseen pair features an alternative color blocking compared to the original retail release that took the sneaker world by stormOfficial release details remain unknown as the shoe may currently be an exclusive sample for the designerSpeculation is mounting as Hiroshi Fujiwara was recently seen wearing an unpublished version of the highly coveted fragment design x Travis Scott x Air Jordan 1 Low. According to the godfather of streetwear who gave fans a rare glimpse at a rumored alternative colorway of the beloved three-way collaboration, the newly surfaced monochromatic image.While clear details remain scarce, early visual cues suggest ",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "a41edab1b3ef",
-      "title": "Nike’s Stimulating Sneaker Is a Soleful Experience",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-mind-002-khaki/",
-      "original_publish_time": "2026-06-07T21:52:01+00:00",
-      "scraped_time": "2026-06-08T00:16:07.194563+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "sole",
-        "upper"
-      ],
-      "relevance_score": 6,
-      "summary": "Nike’s Mind 002 in Light Khaki and Desert Khaki features sensory-focused sole pods, responsive foam, and a clever knit upper.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "726905f9dab0",
-      "title": "Shoes almost never get recycled. Here’s the data. - Sporting Goods Intelligence Europe",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUTFzWTFfanlvVmgyVmlTVF9kZlpibnVKUU5GMjAyaVJBUFg4VGc3TjdsQ0xUcjNwRTFXamVWanZBSksyLVVQR3JPdXNZY3VvRUxoeXBIckNLT3BOZnVBSXdNdVl3STlIQUJpNTBlV1hhVk9jWmRnUkh4LWZXZjdZOUNQQmc0WlZfUTlFRUxOTHlpcTY3S0lOS2NKUmtBQU9CM3JRd1VBTmE1M2dtRno4?oc=5",
-      "original_publish_time": "2026-06-07T21:36:32+00:00",
-      "scraped_time": "2026-06-08T00:12:46.711940+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "Shoes almost never get recycled. Here’s the data. Sporting Goods Intelligence Europe",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "878b8b0a012a",
-      "title": "Your Local Mobster Will Love These Wingtip Sneakers",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/saucony-engineered-garments-wingtip-black-white/",
-      "original_publish_time": "2026-06-07T20:02:00+00:00",
-      "scraped_time": "2026-06-08T00:16:07.195260+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "For the Saucony x Engineered Garments Shadow Original Wingtip, Suzuki returns to a concept he knows well: turning a vintage runner into a formal shoe.",
       "ren_take": "",
       "image_url": ""
     }
