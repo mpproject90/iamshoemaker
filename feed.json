@@ -1,8 +1,73 @@
 {
-  "last_updated": "2026-06-15T16:29:02.372056+00:00",
-  "total_articles": 128,
+  "last_updated": "2026-06-15T20:34:04.391433+00:00",
+  "total_articles": 123,
   "sources_checked": 61,
   "articles": [
+    {
+      "id": "73d3fc0019d1",
+      "title": "Mike Ashley’s Frasers Group Eyes Footwear Expansion Down Under Via Takeover Bid",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/mike-ashley-frasers-group-takeover-accent-group-footwear-1239010845/",
+      "original_publish_time": "2026-06-15T19:00:43+00:00",
+      "scraped_time": "2026-06-15T20:22:55.848050+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Skechers",
+        "Hoka",
+        "Vans"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 6,
+      "summary": "The company is eyeing an acquisition of Australian shoe retailer and wholesaler Accent, a distributor for Hoka, Skechers, Vans and others.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "61f67cabb216",
+      "title": "Behind Every Great Athlete is... Skechers?",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/skechers-sportswear-trend/",
+      "original_publish_time": "2026-06-15T18:49:57+00:00",
+      "scraped_time": "2026-06-15T20:26:53.648172+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Skechers"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "Skechers' push into sportswear manifested in Knicks star OG Anunoby's 2026 NBA Playoffs sneakers. Willits winning streak continue at the World Cup?",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "f5edf42a6b43",
+      "title": "Nike’s Saucy Air Max Is as Hot as Curry",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-air-max-95-black-total-orange/",
+      "original_publish_time": "2026-06-15T17:47:17+00:00",
+      "scraped_time": "2026-06-15T20:26:53.648999+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "Nike's Air Max 95 \"Total Orange\" sneakers lands as another spicy take on the classic model. Call it the \"Hot Curry\" 2.0s, even.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "6c7cd82d7eda",
       "title": "Nike Mashes Up the Original Mercurial Soccer Boot With One of Its Contemporary Premium Running Shoes",
@@ -2489,175 +2554,6 @@
       ],
       "relevance_score": 5,
       "summary": "Name: Air Jordan 1 Mid \"Brazil Football\"Colorway: Phantom/Gum Dark Brown-University Red-SailSKU: IO2051-001Retail Price: TBDRelease Date: Summer 2026Where to Buy: NikeJordan Brand is officially expanding its inline catalog with the upcoming release of the Air Jordan 1 Mid \"Brazil Football.\" Arriving just in time for the 2026 World Cup, this latest lifestyle offering celebrates the intersection of basketball heritage and global football culture, delivering a subtle yet detailed homage to the South American powerhouse.Diverging from the expected vibrant green and yellow palettes synonymous with the nation, this iteration opts for a low-key off-white upper. The understated design allows the nuanced, football-inspired details to take center stage. Padded, quilted paneling wraps around the coll",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "d6d24d7ba80b",
-      "title": "Crocs Finds New Ways to Keep Used Shoes Out of Landfills",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/crocs-recycled-clog-take-back-program-shreds-used-shoes-1239000879/",
-      "original_publish_time": "2026-06-08T20:24:11+00:00",
-      "scraped_time": "2026-06-09T00:09:17.630120+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [
-        "Crocs"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 5,
-      "summary": "Crocs continues its recycled clog initiative in new colorways, expands its take-back program and uses Crocs sheds to create the first-ever flying disc.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "8d7b1f56d927",
-      "title": "Caitlin Clark Practices In A “Midwest Lakes” Nike Kobe 5 PE",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/06/08/caitlin-clark-nike-kobe-5-midwest-lakes-pe/",
-      "original_publish_time": "2026-06-08T20:00:05+00:00",
-      "scraped_time": "2026-06-09T00:09:28.919756+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "By all accounts, the Caitlin Clark x Nike Kobe footwear era has come to a close. A “Scrabble” inspired pair of the Nike Kobe 5... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Caitlin Clark Practices In A \"Midwest Lakes\" Nike Kobe 5 PE appeared first on Sneaker News . The post Caitlin Clark Practices In A “Midwest Lakes” Nike Kobe 5 PE appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "12802013f1de",
-      "title": "The New Balance 1890 Dresses Up In Calming Off-White",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/06/08/new-balance-1890-grey-white/",
-      "original_publish_time": "2026-06-08T19:00:57+00:00",
-      "scraped_time": "2026-06-08T19:20:13.290021+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "New Balance",
-        "Off-White"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 5,
-      "summary": "At this point, more than half a decade into New Balance’s resurgence as a defining brand in sneakers, we can comfortably lay out the cadence... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The New Balance 1890 Dresses Up In Calming Off-White appeared first on Sneaker News . The post The New Balance 1890 Dresses Up In Calming Off-White appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "58843d0ef95b",
-      "title": "The Nike ACG LDV Looks To Go The Distance With New Colorways",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/06/08/nike-acg-ldv-if2857-001-if2857-600/",
-      "original_publish_time": "2026-06-08T18:00:54+00:00",
-      "scraped_time": "2026-06-08T19:20:13.292151+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "The latest Nike ACG re-launch might be the Beaverton sub-brand’s most promising to date, headlined by dope activations, innovative gear and apparel, and footwear spanning... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Nike ACG LDV Looks To Go The Distance With New Colorways appeared first on Sneaker News . The post The Nike ACG LDV Looks To Go The Distance With New Colorways appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "dbf828e738cc",
-      "title": "Jalen Brunson’s Latest Nike Kobe Sneakers Get an Early Release in NYC Ahead of Finals Game 3",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/jalen-brunson-nike-kob3-5-ny-vs-ny-early-release-nyc-1239000248/",
-      "original_publish_time": "2026-06-08T17:54:26+00:00",
-      "scraped_time": "2026-06-08T19:20:01.058282+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 5,
-      "summary": "Hitting four boroughs throughout the day.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "e5c06ec138dd",
-      "title": "Nike’s Beautifully Woven Dunk Is a No-Stress Zone",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-dunk-woven-hydrogen-blue/",
-      "original_publish_time": "2026-06-08T17:43:09+00:00",
-      "scraped_time": "2026-06-08T19:23:55.845614+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "Nike releases woven Dunk Low \"Hydrogren Blue\" sneakers which comes with relaxing keychains.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "12e054058418",
-      "title": "Expect More Denim Nike Air Force 1s In 2026",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/06/08/nike-air-force-1-low-denim-desert-khaki-ir0951-201/",
-      "original_publish_time": "2026-06-08T17:00:13+00:00",
-      "scraped_time": "2026-06-08T19:20:13.294487+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "Denim sneakers have seen their fair share of peaks and valleys, and it’s safe to say we’re at a peak right now. All the biggest... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Expect More Denim Nike Air Force 1s In 2026 appeared first on Sneaker News . The post Expect More Denim Nike Air Force 1s In 2026 appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "a98f97d3978e",
-      "title": "One Good Pair of Neutral Canvas Sneakers",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/a-good-pair-of-canvas-sneakers/",
-      "original_publish_time": "2026-06-08T16:54:34+00:00",
-      "scraped_time": "2026-06-08T19:23:55.846374+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Vans"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 4,
-      "summary": "Highsnobiety's \"One Good\" series explores editors' tried, tested & trusted products. This round features a known yet still somehow underrated Vans shoe.",
       "ren_take": "",
       "image_url": ""
     }
