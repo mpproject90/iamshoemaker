@@ -1,8 +1,89 @@
 {
-  "last_updated": "2026-06-16T16:05:38.645826+00:00",
-  "total_articles": 124,
+  "last_updated": "2026-06-16T20:22:20.579509+00:00",
+  "total_articles": 120,
   "sources_checked": 61,
   "articles": [
+    {
+      "id": "5550f7fd4b47",
+      "title": "Nike’s Exclusive New York Knicks Huarache Sneakers Are Being Released to the Public for the First Time",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-zoom-huarache-2k4-penny-hardaway-pe-release-date-iv0345-001-1239013264/",
+      "original_publish_time": "2026-06-16T20:09:34+00:00",
+      "scraped_time": "2026-06-16T20:11:13.997778+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "Details on the upcoming Zoom Huarache 2K4 release.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "3a872ac4263c",
+      "title": "I Tried It: Why Iambic's $600 AI-Tailored Kicks Might Be Your Feet's Favorite High-Performance Sneakers - Athletech News",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBYemNUTmJtQ0NWbHZoUVNqRWhMLW5uOTlUVDhCb0YzSDRZMUdGRFdEWjJ2MWxNQ00tUC1OclkwTVdpd3cxR21rb0pGdHJsQXBKYnZKcVRNekZFT0ZMcW5KSmgzTF96aWl3YkZwenR1NmpSMzFFcS10dkFPaw?oc=5",
+      "original_publish_time": "2026-06-16T19:16:04+00:00",
+      "scraped_time": "2026-06-16T20:11:36.299331+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "I Tried It: Why Iambic's $600 AI-Tailored Kicks Might Be Your Feet's Favorite High-Performance Sneakers Athletech News",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "28423058a861",
+      "title": "Adidas Is Bringing Cow Print Pony Hair to a Three-pack of Classic Sneakers",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/adidas-cow-print-pack-sneaekers-release-date-1239012646/",
+      "original_publish_time": "2026-06-16T18:18:12+00:00",
+      "scraped_time": "2026-06-16T20:11:14.000979+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "The Taekwondo, Superstar and Japan all head to the farm.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "3dcfd309759b",
+      "title": "APB Store Reimagines The adidas Powerphase As A Puffy Skate Shoe",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/06/16/apb-adidas-powerphase-puff-release-date/",
+      "original_publish_time": "2026-06-16T18:15:59+00:00",
+      "scraped_time": "2026-06-16T20:11:25.492909+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Adidas"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "2026 is shaping up to be a milestone year for The Whitaker Group’s APB Store. In addition to their massive collaborative capsule with Nike and... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post APB Store Reimagines The adidas Powerphase As A Puffy Skate Shoe appeared first on Sneaker News . The post APB Store Reimagines The adidas Powerphase As A Puffy Skate Shoe appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "627eb1581c1e",
       "title": "Devin Booker’s Nike Sneaker Adds Luxe Quilting as Homage to Rare Air Jordan Collab and Chanel Bags",
@@ -2397,172 +2478,6 @@
       ],
       "relevance_score": 3,
       "summary": "The Bape Sta goes on a comprehensive tour.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "7155883e4c31",
-      "title": "Academy’s a Believer in Nike and Jordan",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/academy-sports-outdoors-nike-jordan-footwear-running-shoes-1239002617/",
-      "original_publish_time": "2026-06-09T19:29:44+00:00",
-      "scraped_time": "2026-06-10T00:18:12.569555+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Nike",
-        "Jordan"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 5,
-      "summary": "Academy Sports + Outdoors is expanding the Nike and Jordan brands to more store locations at a time when sales of running shoes are expected to rise.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "a4870af3ef12",
-      "title": "Sole Play’s adidas Predator Sala “Press Play” Is Inspired By Gaming",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/06/09/sole-play-adidas-predator-sala-press-play/",
-      "original_publish_time": "2026-06-09T18:30:34+00:00",
-      "scraped_time": "2026-06-09T19:11:44.351083+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Nike",
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "sole"
-      ],
-      "relevance_score": 6,
-      "summary": "Nike put the ball in adidas’ court with its massive lineup of Cryoshot collaborations ahead of the World Cup, linking with some of its foremost... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Sole Play's adidas Predator Sala \"Press Play\" Is Inspired By Gaming appeared first on Sneaker News . The post Sole Play’s adidas Predator Sala “Press Play” Is Inspired By Gaming appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "bdfb82804ab4",
-      "title": "The JJJJound x New Balance 1890 Releases On June 25th",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/06/09/jjjjound-new-balance-1890-release-date/",
-      "original_publish_time": "2026-06-09T18:00:40+00:00",
-      "scraped_time": "2026-06-09T19:11:44.352741+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "New Balance"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "JJJJound is jjjjuggling a ton of partnerships at any given time, but there’s no doubt that their relationship with New Balance is highly favored among... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The JJJJound x New Balance 1890 Releases On June 25th appeared first on Sneaker News . The post The JJJJound x New Balance 1890 Releases On June 25th appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "f6647034fbe2",
-      "title": "Jodie Comer Takes on the Thong Sandal With Heels by Christen",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-trends/jodie-comer-christen-heels-nyc-1239002472/",
-      "original_publish_time": "2026-06-09T17:45:25+00:00",
-      "scraped_time": "2026-06-09T19:11:32.682586+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "sandal"
-      ],
-      "relevance_score": 3,
-      "summary": "She wore a stiletto sandal style from Nina Christen's self-named luxury label.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "7ee66a44c805",
-      "title": "Spike Lee Got a Custom Air Jordan 3 Just to Watch The Knicks",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/6/spike-lee-got-a-custom-air-jordan-3-just-to-watch-the-knicks",
-      "original_publish_time": "2026-06-09T17:27:54+00:00",
-      "scraped_time": "2026-06-09T19:11:44.217155+00:00",
-      "time_delta_mins": 0,
-      "category": "Quality",
-      "brands_mentioned": [
-        "Jordan"
-      ],
-      "keywords_matched": [
-        "midsole",
-        "sole"
-      ],
-      "relevance_score": 4,
-      "summary": "SummaryJordan Brand has gifted Spike Lee a custom Air Jordan 3 to celebrate the Knicks historic entrance into the NBA Finals The bespoke design features a mismatched colorway, utilizing deep royal blue leather on the left shoe and bright orange on the rightDelivered exclusively to NYC icon Spike Lee ahead of Game 3 of the NBA Finals, the custom Air Jordan 3 \"Knicks\" silhouette was crafted specifically for the superfan. Built on the classic foundation of elephant print overlays, the left shoe is rendered in a,deep royal blue leather, while the right shoe counterbalances it with a striking bright orange. Further, the lace tracks, midsole heel stabilizers, and signature Jumpman tongue embroideries alternate colors to directly contrast the primary leather paneling. Replacing standard heel tabs",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "b606ec7e666c",
-      "title": "Meet Od.a, a Footwear Label Rethinking Newness and Craft",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-features/meet-oda-spanish-chinese-footwear-label-rethinking-craft-1238999291/",
-      "original_publish_time": "2026-06-09T17:18:31+00:00",
-      "scraped_time": "2026-06-09T19:11:32.685426+00:00",
-      "time_delta_mins": 0,
-      "category": "Manufacturing",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "The brand, which will be launched exclusively at Dover Street Market London this fall, is inspired by early 20th-century hiking gear and design traditions rooted in Chinese manufacturing.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "65426c1b8575",
-      "title": "One of New Balance’s Biggest Shoes of the Decade Is Getting a Massive Change for Its Upper",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/new-balance-1906e-release-date-1239002892/",
-      "original_publish_time": "2026-06-09T17:01:19+00:00",
-      "scraped_time": "2026-06-09T19:11:32.686115+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "New Balance"
-      ],
-      "keywords_matched": [
-        "shoes",
-        "upper"
-      ],
-      "relevance_score": 8,
-      "summary": "The 1906E introduces streamlined engineered mesh.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "54c762fa30cd",
-      "title": "With The Peach Jam Looming, Nike Basketball Tees Up A Book 2 “EYBL” PE",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/06/09/nike-book-2-eybl-pe-pink-green/",
-      "original_publish_time": "2026-06-09T16:30:12+00:00",
-      "scraped_time": "2026-06-09T19:11:44.356064+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "Nike’s efforts to court up-and-coming basketball talent have made EYBL PEs some of the most coveted hoops shoes in the game, frequently spotted on NBA... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post With The Peach Jam Looming, Nike Basketball Tees Up A Book 2 \"EYBL\" PE appeared first on Sneaker News . The post With The Peach Jam Looming, Nike Basketball Tees Up A Book 2 “EYBL” PE appeared first on Sneaker News .",
       "ren_take": "",
       "image_url": ""
     }
