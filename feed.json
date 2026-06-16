@@ -1,8 +1,89 @@
 {
-  "last_updated": "2026-06-15T20:34:04.391433+00:00",
-  "total_articles": 123,
+  "last_updated": "2026-06-16T01:53:51.860005+00:00",
+  "total_articles": 127,
   "sources_checked": 61,
   "articles": [
+    {
+      "id": "64ab797f428f",
+      "title": "Ugg Brand Owner Deckers Outdoor Corp. Loses Patent Case Against Quince",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/ugg-deckers-quince-trial-jury-design-patent-mini-boot-1239011824/",
+      "original_publish_time": "2026-06-16T00:15:25+00:00",
+      "scraped_time": "2026-06-16T01:42:37.546353+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "UGG"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 3,
+      "summary": "After a four-day trial, a federal jury invalidated the design patent Deckers Outdoor Corp. had for its Ugg Ultra Mini Boot, giving Quince the win.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "7b846bc5377f",
+      "title": "The General Store Wins Footwear Brand Z1R0 Globally - Little Black Book | LBBOnline",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9EcTZwc0YxY2V5aUpnY05YWUNpd0hCajEwMU1YT3pqOFFEUE1telNLbnZyS1JJeEt2dTJteVFhclliSk9UM1dZdVVYLTdYWXBRV1BIZnZNbUxlT0VGY0E?oc=5",
+      "original_publish_time": "2026-06-15T23:24:29+00:00",
+      "scraped_time": "2026-06-16T01:43:00.566746+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "The General Store Wins Footwear Brand Z1R0 Globally Little Black Book | LBBOnline",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "7978d5e442ee",
+      "title": "Up Close With The Soulgoods x Nike Homescape Woven",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/06/15/soulgoods-nike-homescape-woven-sp/",
+      "original_publish_time": "2026-06-15T23:00:39+00:00",
+      "scraped_time": "2026-06-16T01:42:49.372064+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "China-based retailer Soulgoods is preparing to add another chapter to its growing partnership with Nike. Following previous collaborations on the Nike Dunk High and Jordan... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Up Close With The Soulgoods x Nike Homescape Woven appeared first on Sneaker News . The post Up Close With The Soulgoods x Nike Homescape Woven appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "debf2ef8c156",
+      "title": "The Internet’s New Favorite Off Campus TV Boyfriend Just Made Reebok Sneakers Look Even Cooler - E! News",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNR0tESE43Y0VDQmN5U05aNkotcW9RWmhwWmZRYVpKSldHZkhEcjZ4ZUhGYl9QZWJNMnA1VHpYTUV5TkY1SUk1QVJmMDE3amVFSWlMdi12c1Z3UFBXVklQS29vWTFLVUtGRzZLYTNzOGVmSk1oVWZDSDQtQnRCUVRXQVJ6OW85VjlSZWhwZHBROA?oc=5",
+      "original_publish_time": "2026-06-15T20:30:00+00:00",
+      "scraped_time": "2026-06-16T01:43:01.358890+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Reebok"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "The Internet’s New Favorite Off Campus TV Boyfriend Just Made Reebok Sneakers Look Even Cooler E! News",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "73d3fc0019d1",
       "title": "Mike Ashley’s Frasers Group Eyes Footwear Expansion Down Under Via Takeover Bid",
