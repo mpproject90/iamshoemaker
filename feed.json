@@ -1,8 +1,93 @@
 {
-  "last_updated": "2026-06-17T09:35:24.586222+00:00",
-  "total_articles": 114,
+  "last_updated": "2026-06-17T14:37:24.017485+00:00",
+  "total_articles": 113,
   "sources_checked": 61,
   "articles": [
+    {
+      "id": "d8d22e914ed6",
+      "title": "From Salomon to New Balance, the Seven Best Sneakers to Cop Right Now",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/sneaker-releases-2026-june-week-3/",
+      "original_publish_time": "2026-06-17T11:18:52+00:00",
+      "scraped_time": "2026-06-17T14:30:06.783443+00:00",
+      "time_delta_mins": 0,
+      "category": "Quality",
+      "brands_mentioned": [
+        "Nike",
+        "Adidas",
+        "New Balance",
+        "Salomon"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 9,
+      "summary": "From A Ma Maniére's latest Nike collab to MM6 Maison Margiela's newest Salomon mule, & Pharrell's adidas shoe, these are the week's best sneaker releases",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "47b29cdd2f7d",
+      "title": "The Sole Connection: Why India’s sneaker brands are betting on culture and community - IMPACT Magazine",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOXFtRzhza1lKc2sxLVJJRHBVcXY0OG92dDdNbVZkM2t2SlJXUEJHdmVkY1BfMmNNQ1BTUTF4QXh2VmpWcjFtbXhkUnFoQ1g3Q1NnNXc5RzB4Qm1jVFRNYmVZYjNCMzFESzM3bVpIUGFTUnlSbWI2UFVQYXVESXpkQWVvTlBIRzVjRnpRV0RLc0VOYmxIQTV2Q1lQS3Z5LXhPUDlUVjJPX2pWSUd0aGNCdUJhYnEydVVMdVZSS1pkNjBzaldTa3JodFZxNENGSVM4SWc?oc=5",
+      "original_publish_time": "2026-06-17T11:08:17+00:00",
+      "scraped_time": "2026-06-17T14:26:36.514732+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sole"
+      ],
+      "relevance_score": 3,
+      "summary": "The Sole Connection: Why India’s sneaker brands are betting on culture and community IMPACT Magazine",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "bb7fcd69bd83",
+      "title": "ASICS Reimagines Archival Performance With the Hybrid GEL-STRATUS MC",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/6/asics-gel-stratus-mc-concrete-1203b219-020-lime-zest-1203b219-300-official-images-release-info",
+      "original_publish_time": "2026-06-17T09:47:35+00:00",
+      "scraped_time": "2026-06-17T14:26:24.097920+00:00",
+      "time_delta_mins": 0,
+      "category": "Trade Data",
+      "brands_mentioned": [
+        "ASICS"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "Name: ASICS GEL-STRATUS MC “Concrete” & “Lime Zest”Colorway: “Concrete,” “Lime Zest”SKU: 1203B219.020, 1203B219.300MSRP: $110 USDRelease Date: June 19Where to Buy: ASICSASICS continues its exploration of technical archival design with the upcoming release of the GEL-STRATUS MC, a hybrid lifestyle silhouette. The latest drop spotlights “Concrete” and “Lime Zest,” a duo of refreshing colorways that's perfect for summer.The “Concrete” variant features a tonal grey mesh and synthetic upper accented by layered overlays, delivering a sleek, urban aesthetic. In contrast, the “Lime Zest” version injects vibrant energy with neon green highlights across the breathable mesh construction, creating a striking visual effect. Both pairs are built on ASICS’ GEL cushioning system for responsive comfort, pa",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "391037930671",
+      "title": "The Bad Bunny x adidas Gazelle Indoor “Solar Gold” Drops This October",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/6/bad-bunny-adidas-gazelle-indoor-solar-gold-core-black-gum-ki2592-images",
+      "original_publish_time": "2026-06-17T09:28:28+00:00",
+      "scraped_time": "2026-06-17T14:26:24.103235+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "Name: Bad Bunny adidas Gazelle Indoor “Solar Gold”Colorway: Solar Gold/Core Black/GumSKU: KI2592MSRP: $140 USDRelease Date: October 2026Bad Bunny and adidas are set to release a collaborative Gazelle Indoor silhouette, bringing vibrant new energy to the classic terrace silhouette. Draped in a striking \"Solar Gold,\" the sneaker boasts a suede upper that demands attention, contrasted by deep \"Core Black\" accents applied to the signature Three Stripes and heel tab.Staying true to Benito's subversive design language, the shoe incorporates signature archival disruptions, including his hallmark twisted, \"flipped\" T-toe overlay, a layered double-tongue construction, and an exposed exterior size label at the heel, all of which lend an intentionally raw, deconstructed aesthetic to the classic Gazel",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "f890cfebe54e",
       "title": "Teyana Taylor Teases Upcoming Air Jordan Collaboration Is on the Way",
@@ -59,6 +144,27 @@
       ],
       "relevance_score": 3,
       "summary": "Small rubber footwear units get 1 yr to comply with quality norms The Economic Times",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "0370f72675c3",
+      "title": "Under Armour will close Portland footwear office, move most jobs out of state - OregonLive.com",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdTdMMERrVmluelJ0dzhwSnFpT3NpM3JaWDhoSVVlNS1TdHV3REJnN3Z6OWQxQ2hqcUYyaTUyaFBEaUtXZWdGcFpfVXpoM3JwR2tHWlh0M3hVcFdoQTcyZDFtbVdaSE8zU29weE1rM2d0U190QXN2d0c5ODFobWtsX0MyOW4yNno2amktQU55OC1kRHFDSTFmb1RrT3ZXLUhaOEJLYjluZEcwdGV4MjR3ZHMtc2M5ZWtuTzR1c0I2MlJqOTjSAdcBQVVfeXFMT2lhTkJzRm9EdU0xODd4em1sVXFwVkFMMS1paWM0WHVENjBnZjNlVTdCVXpQeVd5cWNnSlBwSElFNERuWXFQN3c0dGhKbUpkSTBDZlVOS1ozc0xVVlVyVE43amZqbUR6bV9TRTA1MTJwVnY2NXFuTWFfV1R4d25HRF81Um1oNTk5NS1OT0NvOWNNbmNYdHg0OFR1Nzk4ajRIdG5vQzFZQ2lHS2htVWY5bnhmdGc2b0dtY0Y2VkpsQWl2WVZ6U2JDTGNKb0JsaUVicXVWNmtsS1k?oc=5",
+      "original_publish_time": "2026-06-17T02:28:00+00:00",
+      "scraped_time": "2026-06-17T14:26:35.628558+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Under Armour"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 5,
+      "summary": "Under Armour will close Portland footwear office, move most jobs out of state OregonLive.com",
       "ren_take": "",
       "image_url": ""
     },
@@ -2225,127 +2331,6 @@
       ],
       "relevance_score": 3,
       "summary": "FN takes a deep dive into its origins, structure and lofty goals for making a lasting impact.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "d987fce18d82",
-      "title": "Footwear industry is backbone of India’s economy: Union Minister Giriraj Singh - News On AIR",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ29UaXZQZHFWUm1nX2FHV3h5VGlhdFRaX01vcllPcGc2bU5fRFdmR282RjQ1ZnkyTE9Ic0drOHQ2SjM3NkI5ZFI3eEZsRHUyaTI0LW15clpXMnJYcS15QmN6Qy0xR1NEbVd0QVp6b0taVXVkZXVYNUxsdHdlX2JFUGtKLUFXenJ6eVdxU1I5NF9ud2tPVTFLM3hwbmNZdHl4cFFZdQ?oc=5",
-      "original_publish_time": "2026-06-10T13:36:44+00:00",
-      "scraped_time": "2026-06-10T19:32:29.722725+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "footwear industry"
-      ],
-      "relevance_score": 6,
-      "summary": "Footwear industry is backbone of India’s economy: Union Minister Giriraj Singh News On AIR",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "986840cae264",
-      "title": "Deni-Deni Academy launches to inspire the next generation of leather and footwear talent - UK Fashion and Textile Association",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA0MlhOR2VnOGEyU0NkbzZvc3NlQTExcFBaVllKMk1mdGtiaE5BNWxScldKWWxMRXMteThTYm5kNE5NUnlvOHpDMFNHSQ?oc=5",
-      "original_publish_time": "2026-06-10T13:20:33+00:00",
-      "scraped_time": "2026-06-10T19:32:29.725891+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Deni-Deni Academy launches to inspire the next generation of leather and footwear talent UK Fashion and Textile Association",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "e47df1ed4481",
-      "title": "Official Look at the JJJJound x New Balance 1890 Sneakers",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/6/jjjjound-new-balance-1890-silver-white-blacl-official-images-release-info",
-      "original_publish_time": "2026-06-10T10:05:38+00:00",
-      "scraped_time": "2026-06-10T19:32:18.629432+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "New Balance"
-      ],
-      "keywords_matched": [
-        "sneakers",
-        "upper"
-      ],
-      "relevance_score": 6,
-      "summary": "Name: JJJJound x New Balance 1890Colorway: “Silver/White,” “Black”SKU: TBCMSRP: TBCRelease Date: June 25Where to Buy: JJJJoundFollowing up on the initial teaser that offered a first glimpse at a sleek grey JJJJound x New Balance 1890 sneaker, the Montreal-based design label has officially unveiled two distinct colorways for the collaboration.The first variant, now confirmed as \"Silver/White,\" leans heavily into a classic American collegiate sports aesthetic by assembling airy white mesh underlays beneath metallic silver synthetic overlays. This bright, multi-paneled upper framework is sharply anchored by a deep navy mesh lining and New Balance's signature midfoot \"N\" logo, which is rendered in black with a vibrant yellow interior accent. Underfoot, the silhouette sits directly atop a crisp",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "ba1d3aa0ed83",
-      "title": "Extreme heat is disrupting global fashion supply chains, says NYU Stern",
-      "source_name": "Just Style",
-      "source_domain": "just-style.com",
-      "source_url": "https://www.just-style.com/news/nyu-stern-extreme-heat-report/",
-      "original_publish_time": "2026-06-10T10:01:14+00:00",
-      "scraped_time": "2026-06-10T14:22:52.156481+00:00",
-      "time_delta_mins": 0,
-      "category": "Trade Data",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "fashion supply chain"
-      ],
-      "relevance_score": 3,
-      "summary": "The NYU Stern Center for Business and Human Rights has urged apparel brands to classify extreme heat as a “measurable workplace safety risk.”",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "0236ce8f4ff2",
-      "title": "Sigma Healthcare confirms early-stage talks to snap up Boots",
-      "source_name": "Retail Gazette",
-      "source_domain": "retailgazette.co.uk",
-      "source_url": "https://www.retailgazette.co.uk/blog/2026/06/sigma-healthcare-confirms-early-stage-talks-to-snap-up-boots/",
-      "original_publish_time": "2026-06-10T09:52:53+00:00",
-      "scraped_time": "2026-06-10T14:26:34.818769+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 3,
-      "summary": "Sigma Healthcare has confirmed it has held early-stage talks over a potential acquisition of Boots. The Australian pharmaceutical wholesaler and retailer said it “continuously reviews opportunities” that could create shareholder value, but stressed there was no certainty that any deal would go ahead. The confirmation followed a Financial Times report that Sigma was among potential...",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "1bf378edb74b",
-      "title": "BAPE and adidas Take on Performance Running With Asymmetrical Adizero EVO SL",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/6/bape-adidas-adizero-evo-sl-collaboration-release-info-blue-green-kj5749-white-gold-kj5751-release-info",
-      "original_publish_time": "2026-06-10T09:48:01+00:00",
-      "scraped_time": "2026-06-10T19:32:18.631039+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "shoes",
-        "sneakers"
-      ],
-      "relevance_score": 4,
-      "summary": "Name: BAPE x adidas Adizero EVO SL Colorway: Blue/Green, White/GoldSKU: KJ5751, KJ5749MSRP: $200 USDRelease Date: June 27 Where to Buy: adidasBAPE and adidas mark the latest chapter in their long‑standing partnership with the new Adizero EVO SL sneakers. Two colorways headline the drop, spanning a vibrant “Blue/Green” and “White/Gold” version, each offering a distinct balance of athletic function and streetwear flair.Leaning even further into a color-clashing, split-foot formula, the \"Blue/Green\" variant embraces a mismatched aesthetic. Instead of a white base, the right sneaker is doused entirely in a deep royal blue mesh, while the left sneaker transitions into a rich, dark green mesh. The two distinct shoes are visually tied together by a series of high-contrast embellishments, includin",
       "ren_take": "",
       "image_url": ""
     }
