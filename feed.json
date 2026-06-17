@@ -1,8 +1,109 @@
 {
-  "last_updated": "2026-06-16T20:22:20.579509+00:00",
+  "last_updated": "2026-06-17T00:31:15.066002+00:00",
   "total_articles": 120,
   "sources_checked": 61,
   "articles": [
+    {
+      "id": "aa826d93b736",
+      "title": "Nike Is Dropping A Blind-Bag Kobe Draft Day T-Shirt Collection",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/06/16/nike-kobe-draft-day-pack-t-shirt/",
+      "original_publish_time": "2026-06-16T23:47:26+00:00",
+      "scraped_time": "2026-06-17T00:20:37.067141+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "What began as one of Nike Basketball’s more creative footwear concepts of 2026 is now making its way to the apparel side. Following the reveal... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike Is Dropping A Blind-Bag Kobe Draft Day T-Shirt Collection appeared first on Sneaker News . The post Nike Is Dropping A Blind-Bag Kobe Draft Day T-Shirt Collection appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "fc80189a6026",
+      "title": "Nike’s Cushy Crocs-Coded Clog Is a Bred-Hot Banger",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-reactx-rejuven8-bred-gradient/",
+      "original_publish_time": "2026-06-16T22:40:43+00:00",
+      "scraped_time": "2026-06-17T00:24:01.897158+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Crocs"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "Nike's ReactX Rejuven8 clogs land in a cool \"Bred Gradient\" colorway. Here's everything on the summer-ready pairs.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "7ac659310b6f",
+      "title": "The adidas Climacool Laced “Solar Turbo” Features A Notable Hardware Upgrade",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/06/16/adidas-climacool-laced-solar-turbo-core-black-ki2678/",
+      "original_publish_time": "2026-06-16T22:30:02+00:00",
+      "scraped_time": "2026-06-17T00:20:37.069414+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Climacool has gone from a buzzy entrance into the world of 3D-printed footwear for the Three Stripes into a sprawling category. Now, it supports that... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The adidas Climacool Laced \"Solar Turbo\" Features A Notable Hardware Upgrade appeared first on Sneaker News . The post The adidas Climacool Laced “Solar Turbo” Features A Notable Hardware Upgrade appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "a5dd08237b79",
+      "title": "Stuart Weitzman Returns to Children’s Footwear Market Through Licensing Partnership With FALC - WWD",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcUdSbjZmek1yMUFjM2JGOHFLYzNFaHgwREtnNTBIM3lEbzhGYV94OUIyTE5MTDdSRkcwWFdCUkhzN3o2ZExROVZwa1ZtX2VjbThXWi03LWdQd1ZJcHctcTJMNlhmX1hwWkkxbFV0UVh4Y3RvaUJITElmbjhISjk1U20yWlEtbVZlRnl2TGJrd0JxcWlvSG1NM0toengtZEFPbjZJYWhMQzhqTTRrdTl3?oc=5",
+      "original_publish_time": "2026-06-16T21:46:42+00:00",
+      "scraped_time": "2026-06-17T00:20:47.887399+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Stuart Weitzman Returns to Children’s Footwear Market Through Licensing Partnership With FALC WWD",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "cf7a71c1e312",
+      "title": "Puma Could Be Back in Growth Mode by Late 2027, Thanks to Anta",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/analysts-anta-puma-dtc-chinese-market-arcteryx-salomon-1239012787/",
+      "original_publish_time": "2026-06-16T20:17:42+00:00",
+      "scraped_time": "2026-06-17T00:20:21.675219+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Puma",
+        "Salomon"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "HSBC analysts says Anta's first priority for Puma is the DTC Chinese market as it executes a turnaround playbook that helped Arc'teryx and Salomon.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "5550f7fd4b47",
       "title": "Nike’s Exclusive New York Knicks Huarache Sneakers Are Being Released to the Public for the First Time",
@@ -2379,105 +2480,6 @@
       ],
       "relevance_score": 6,
       "summary": "‘Balen shoes’ craze gives Nepali footwear brands a boost Asia News Network",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "908d74b67310",
-      "title": "Busan Footwear Industry Shifts from Manufacturing to Brands After Decade Beyond OEM - Seoul Economic Daily",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNkZ2UFA3Sl9lcmRtYXpnZF9CRFZuaVY1UklBMkQ3TkFjWk5rakpZLWFrb2g0Q1hCRWU1NjhMVk5MTzhyWGNEZnVSbzRtLVJ0Mm5TQmtyR3hISlV4RWMteEpGbzNXN083UWotVEdVQ1pXR1FNLUJPNy1WanhYakZJNENhODRaY0xpWlpMaklnTDNFakdrRE53eGszZTNsZllyVWc0?oc=5",
-      "original_publish_time": "2026-06-09T23:01:05+00:00",
-      "scraped_time": "2026-06-10T00:18:35.892350+00:00",
-      "time_delta_mins": 0,
-      "category": "Manufacturing",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "footwear industry"
-      ],
-      "relevance_score": 6,
-      "summary": "Busan Footwear Industry Shifts from Manufacturing to Brands After Decade Beyond OEM Seoul Economic Daily",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "f0f2d29557d6",
-      "title": "Even New Balance’s Freshest Trail Sandal Has Its Grey Days",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/new-balance-hiesv1-grey-sandals/",
-      "original_publish_time": "2026-06-09T22:28:07+00:00",
-      "scraped_time": "2026-06-10T00:22:05.152967+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "New Balance"
-      ],
-      "keywords_matched": [
-        "sandal"
-      ],
-      "relevance_score": 5,
-      "summary": "New Balance's Fresh Foam Hierro, a.k.a. HIESV1, sandal gets a classic NB Grey makeover, appearing in the famous \"Raincloud\" scheme.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "b75e85f31207",
-      "title": "Nike’s Wax-Sealed Jordan Sneaker Is Too Luxe for Its Own Good",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/air-jordan-3-bin-23-sneakers/",
-      "original_publish_time": "2026-06-09T22:10:32+00:00",
-      "scraped_time": "2026-06-10T00:22:05.154381+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike",
-        "Jordan"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 4,
-      "summary": "The Air Jordan 3 \"Bin 23\" sneaker lands with mega-luxe touches, including wax seals & high-end materials. Here's everything on the release.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "8e5b8eaf29b5",
-      "title": "Survey: Global Footwear Executives are Less Optimistic Now Than They Were in Fall 2025",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/shoe-executives-world-footwear-business-conditions-study-1239002459/",
-      "original_publish_time": "2026-06-09T21:21:15+00:00",
-      "scraped_time": "2026-06-10T00:18:12.566167+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Shoe executive respondents to the recent World Footwear Business Conditions Survey say the U.S.-Iran conflict could be a material business risk.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "905d6f50ba63",
-      "title": "KidSuper and Bape Are Making Colorful Patent Leather Sneakers for All 48 World Cup Teams",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/kidsuper-bape-sta-world-cup-sneakers-release-date-1239003234/",
-      "original_publish_time": "2026-06-09T20:28:42+00:00",
-      "scraped_time": "2026-06-10T00:18:12.569041+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "The Bape Sta goes on a comprehensive tour.",
       "ren_take": "",
       "image_url": ""
     }
