@@ -1,8 +1,67 @@
 {
-  "last_updated": "2026-06-17T00:31:15.066002+00:00",
-  "total_articles": 120,
+  "last_updated": "2026-06-17T09:35:24.586222+00:00",
+  "total_articles": 114,
   "sources_checked": 61,
   "articles": [
+    {
+      "id": "f890cfebe54e",
+      "title": "Teyana Taylor Teases Upcoming Air Jordan Collaboration Is on the Way",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/6/teyana-taylor-teases-next-air-jordan-collaboration-arriving-soon",
+      "original_publish_time": "2026-06-17T07:08:18+00:00",
+      "scraped_time": "2026-06-17T09:24:20.096247+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Jordan"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "SummarhTeyana Taylor has taken to social media to officially tease an upcoming footwear project with Jordan BrandThe announcement follows her highly successful early 2026 Air Jordan 3 Concrete Rose releaseSpecific details regarding the chosen sneaker silhouette design elements and release timeline remain unknownJordan Brand and multi-hyphenate artist Teyana Taylor are officially cooking up their next collaborative footwear project. Teased directly via Taylor's personal social media channels, the upcoming venture marks the next evolution of her ongoing partnership with the Jumpman label following a major year of creative momentum and high-profile media appearances.Taylor initially formalized her relationship with Jordan Brand in 2023 with the launch of the high-performing Air Jordan 1 High ",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "e0134c847eaf",
+      "title": "Forced labor dispute puts Bangladesh apparel exports at risk",
+      "source_name": "Textile Today",
+      "source_domain": "textiletoday.com.bd",
+      "source_url": "https://textiletoday.com.bd/forced-labor-dispute-puts-bangladesh-apparel-exports-at-risk",
+      "original_publish_time": "2026-06-17T04:01:00+00:00",
+      "scraped_time": "2026-06-17T09:28:16.626894+00:00",
+      "time_delta_mins": 0,
+      "category": "Trade Data",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "apparel exports"
+      ],
+      "relevance_score": 3,
+      "summary": "Key insights: The U.S. wants a real domestic law passed, not just a written promise. Total U.S. tariffs could jump to 29%, hurting price competitiveness. S. investigators are double-checking where th...",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "36708c23c7e1",
+      "title": "Small rubber footwear units get 1 yr to comply with quality norms - The Economic Times",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxONjFLUEJadmx0VURFMkk3X3ZBZUhaQ0lNa1hyQ3FhZmZKZDR1RUVIQVF2b0tQMFhZWDkyTnVtXzBXY19uazZvVDlOS3MyQ2duNXUyaTd2dU1GdTZFU3MwQWhlRkRRQ2tYVjVRY0YxVS1rdVVPYUZyRXQ1UlR6Q1hnYXBNZEpKbk9UX2IwRHRBRXJLWUo3Z0Y1VDFkcTRueDA2Q2FheGJITlZVZUJrc0hMRzVTdWV1ZUNiUHpQLURPX01GVXM0ZHNxSnotZVE2WmtJQTcwOUFIanp3bGh3N3d2QVV4czVRUEp2S2dDR0JvT2VKVWpybk9JY05fN2xyVTZTODgxTtIBigJBVV95cUxQUUxiSzZsWHJYamFRcl84ZXlJd2JzdS1BRkhqd3hpaHpiLXRmMzZXa3NzZ0VoOGhST213Wl9vUURoQUp4Mmo2d0JYVjdYbld4SnlScWJtT0NtemtGMHpSUVF6dkxxRjFrLTFjUGllLXdqYnk4MzNyby00VDAwS3NKMEsxNEp6cUZMUHVwaXNNM3hORFVUdVJVQkhPMHZRQzN2cUx4Z1d3S3lWdTVKcy1QLWNWaGVoTGpNZDAzNXptT0VxR3l1cE9Rb3BrM2d4ZHlEdFM5dDR6eDl1MG1ZaUc2bDA5TnJTR1laUDVIUlhiUUR4UVBEdlgtNktyWEl0T1A1dDhUeW14Y0Rydw?oc=5",
+      "original_publish_time": "2026-06-17T03:33:45+00:00",
+      "scraped_time": "2026-06-17T09:24:31.204743+00:00",
+      "time_delta_mins": 0,
+      "category": "Quality",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Small rubber footwear units get 1 yr to comply with quality norms The Economic Times",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "aa826d93b736",
       "title": "Nike Is Dropping A Blind-Bag Kobe Draft Day T-Shirt Collection",
@@ -595,6 +654,25 @@
       "image_url": ""
     },
     {
+      "id": "7349bb6bfdac",
+      "title": "Footwear globale in trasformazione, tra spin-off e crescita selettiva - HUB Style",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNFhTcWdCY2pLcnZ1Vl9XRUtyTTdHa2lZOEZtUGpKN0tQNTBCOU1zSERPSU5GWkllTF9ZbjVtZk9PYXBTdXplbWcxQ2NtQ1dZSHNSdlJ2S0lzNWx2U2Z5VmZGQ182a1BWX1YtZXlBbmM4NGRybV9kaXplbElRaGNybFE2TE42SzFzazVLY2NUT2ZlOC1zWG1lb1duLXktR29TUURfbV9UVFlXekhWZU1CTWNScjBvakhvVWtBVVc1Yk1IdWE5U2c?oc=5",
+      "original_publish_time": "2026-06-15T15:23:53+00:00",
+      "scraped_time": "2026-06-17T09:24:31.203449+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Footwear globale in trasformazione, tra spin-off e crescita selettiva HUB Style",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
       "id": "045d51bc1064",
       "title": "The Vans Fall 2026 Campaign? Likely Place for Feng To Be",
       "source_name": "Hypebeast",
@@ -675,6 +753,27 @@
       ],
       "relevance_score": 5,
       "summary": "Name: Jordan Future Mule \"Light Iron Ore\"Colorway: Light Iron Ore/White-Medium BrownSKU: HV5073-003Retail Price: TBDRelease Date: Fall/Winter 2026Where to Buy: NikeJordan Brand has officially unveiled the upcoming Jordan Future Mule \"Light Iron Ore.\" Embracing the ever-growing demand for cozy, lounge-ready footwear, the brand-new model cleanly bridges the gap between heritage hardwood DNA and modern, backless slip-on designs.The sleek lifestyle silhouette opts for a completely minimalistic construction, utilizing premium short-hair suede across the entire upper. Shifting away from standard performance structures, the model adopts a clean, lace-free setup highlighted by curved panel overlays and tonal, precise stitching that gives the understated shape subtle visual depth. Branding remains ",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "6d169e2c89d8",
+      "title": "Even Serious Hoka Loyalists Are Switching to These Cloud-Like Running Shoes That Cost Way Less - EatingWell",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdTRnUDE5SVFGY0Z6WWRsUDdIMzFQUUg2UGFXTEpUOE9oajkyN1pFN0h0RnJkajlUTmFkVWtqc0dxcHZPdWgweDRqSEszWW5lVF9zUnB4WUVEU1NQaW9tVHV3bVlOcW41VzlFak56ZVlSVmxFaGVldHYyYXR3X2ZSaVpGdTh5SVNENGw0QXJ2UVU?oc=5",
+      "original_publish_time": "2026-06-15T08:00:00+00:00",
+      "scraped_time": "2026-06-17T09:24:31.911202+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Hoka"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 5,
+      "summary": "Even Serious Hoka Loyalists Are Switching to These Cloud-Like Running Shoes That Cost Way Less EatingWell",
       "ren_take": "",
       "image_url": ""
     },
@@ -2247,239 +2346,6 @@
       ],
       "relevance_score": 4,
       "summary": "Name: BAPE x adidas Adizero EVO SL Colorway: Blue/Green, White/GoldSKU: KJ5751, KJ5749MSRP: $200 USDRelease Date: June 27 Where to Buy: adidasBAPE and adidas mark the latest chapter in their long‑standing partnership with the new Adizero EVO SL sneakers. Two colorways headline the drop, spanning a vibrant “Blue/Green” and “White/Gold” version, each offering a distinct balance of athletic function and streetwear flair.Leaning even further into a color-clashing, split-foot formula, the \"Blue/Green\" variant embraces a mismatched aesthetic. Instead of a white base, the right sneaker is doused entirely in a deep royal blue mesh, while the left sneaker transitions into a rich, dark green mesh. The two distinct shoes are visually tied together by a series of high-contrast embellishments, includin",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "6abbd1b0fadd",
-      "title": "I Solemnly Swear These ‘Harry Potter’ x Crocs Classic Clog \"Marauder's Map\" Are Up to No Good",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/6/harry-potter-crocs-classic-clog-marauders-map-212968-90h-release-info",
-      "original_publish_time": "2026-06-10T09:04:06+00:00",
-      "scraped_time": "2026-06-10T19:32:18.634273+00:00",
-      "time_delta_mins": 0,
-      "category": "Quality",
-      "brands_mentioned": [
-        "Crocs"
-      ],
-      "keywords_matched": [
-        "sole"
-      ],
-      "relevance_score": 5,
-      "summary": "Name: Harry Potter x Crocs Classic Clog “Marauder’s Map”Colorway: MultiSKU: 212968-90HMSRP: $70 USDRelease Date: June 11Where to Buy: CrocsHarry Potter and Crocs have announced the Classic Clog “Marauder’s Map,” releasing June 11. The collaboration takes one of the Harry Potter franchise's most visually specific objects and translates it across the full surface of the Classic Clog, treating the shoe as a canvas for the map's graphic language rather than a vehicle for standard logo placement.The design's most deliberate decision is the asymmetrical layout. Rather than centering the Marauder's Map graphic and repeating it identically across both clogs, the collaboration opts for an offset composition that feels closer to how an actual map would sit on a surface: slightly shifted, with differ",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "187ab1274d82",
-      "title": "adidas and Anthony Edwards Prepping the AE 3 Mule in \"Stone\"",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/6/adidas-anthony-edwards-3-mule-stone-kz9166-release-info",
-      "original_publish_time": "2026-06-10T08:55:32+00:00",
-      "scraped_time": "2026-06-11T09:06:29.211414+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 4,
-      "summary": "Name: adidas Anthony Edwards 3 Mule \"Stone\"Colorway: Stone/Lucid BlueSKU: KZ9166MSRP: $70 USDRelease Date: October 9, 2026Where to Buy: adidasadidas is officially expanding its collaborative basketball lineage with the upcoming release of the adidas Anthony Edwards 3 Mule \"Stone\". Built specifically for off-court recovery, the slip-on silhouette transitions the Minnesota Timberwolves star's distinct, bold design language seamlessly into the lifestyle footwear space.The casual model is crafted from a contoured, sculpted foam construction draped entirely in a stone-grey aesthetic. Suggested imagery shows dynamic molded ridges slicing across the lateral side profiles, taking clear design inspiration from the avant-garde aesthetic of Edwards' performance line. To secure a co-signed finish, the",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "0ef1f3616587",
-      "title": "A’Ja Wilson’s Nike A’Two PE “Susie Carmichael” Channels ‘90s Nostalgia",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/6/aja-wilson-nike-atwo-pe-rugrats-susie-carmichael-first-look",
-      "original_publish_time": "2026-06-10T08:49:38+00:00",
-      "scraped_time": "2026-06-10T19:32:18.636301+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "Reigning WNBA MVP A’ja Wilson of the Las Vegas Aces brought a wave of 1990s nostalgia to the hardwood by debuting a brand-new Player Exclusive (PE) iteration of her latest signature shoe. As seen on Wilson during the Las Vegas Aces’ Commissioner’s Cup game, the Nike A’Two \"Susie Carmichael\" made its official on-court bow during a regular-season game against the Golden State Valkyries. This playful design holds notable cultural relevance for the superstar, who is a self-proclaimed superfan of Nickelodeon’s classic animated series Rugrats.The aesthetic blueprint of the shoe translates Susie's iconic outfit directly onto the sneaker, boasting a vibrant yellow base upper adorned with a repeating pattern of purple flowers to mirror her signature dress. This cheerful arrangement is sharply contr",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "458e9545f4fe",
-      "title": "First Look at the New Balance 1954R",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/6/new-balance-1954r-first-look-release-info",
-      "original_publish_time": "2026-06-10T08:46:45+00:00",
-      "scraped_time": "2026-06-11T09:06:29.224038+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "New Balance"
-      ],
-      "keywords_matched": [
-        "sole",
-        "upper"
-      ],
-      "relevance_score": 4,
-      "summary": "SummaryImages of the unreleased New Balance 1954R have surfaced online ahead of an official launchThe new model features a technical blend of open mesh and premium grey suede overlaysOfficial release dates and pricing details have not yet been announced by the brandNew Balance is preparing to expand its retro-running lineup with the New Balance 1954R. Although the brand has not confirmed an official launch date, recently surfaced images preview the upcoming tech-runner in classic grey and black colorways.First look imagery shows a heavily layered upper constructed with a technical blend of open mesh and premium grey suede. Tonal shades of grey cover the panels, laces, and collar, while sharp black hits contrast the signature \"N\" logos and sole units. Distinct \"1954R\" tags are found on the ",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "1b3d26a3344a",
-      "title": "Converse Refreshes the All Star Lgcy Ox With Three New Retro Hues",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/6/converse-all-star-lgcy-ox-orange-31318410-dark-navy-31318411-sand-31318412-release-info",
-      "original_publish_time": "2026-06-10T08:32:49+00:00",
-      "scraped_time": "2026-06-10T19:32:18.637896+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Converse"
-      ],
-      "keywords_matched": [
-        "midsole",
-        "sole",
-        "upper"
-      ],
-      "relevance_score": 5,
-      "summary": "Name: Converse All Star Lgcy OxMSRP: ¥12,650 JPY (approx. $79 USD)Release Date: June 19Where to Buy: Converse Japan, BILLY’SConverse welcomes a trio of All Star Lgcy Ox colorways, spanning “Orange,” “Dark Navy” and “Sand.” Each pair retains the classic All Star profile but is updated with tonal canvas uppers and a slightly aged finish that nods to vintage styling.The “Orange” variant delivers a bold pop of color, contrasted by crisp white midsoles and stitching, while the “Dark Navy” option leans into timeless versatility with deep hues that highlight the shoe’s heritage lines. The “Sand” colorway offers a neutral, minimalist take, pairing earthy tones with the aged sole for a refined finish.The silhouette features a classic vulcanized rubber midsole, finished in a clean tone that enhances",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "3914692ac246",
-      "title": "nonnative’s Leather Trooper Lace up Boots Embodies a Tactical Minimalist Aesthetic",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/6/nonnative-trooper-lace-up-boots-cow-leather-gray-coyote-nn-f4804-release-info",
-      "original_publish_time": "2026-06-10T08:02:04+00:00",
-      "scraped_time": "2026-06-10T08:41:19.784681+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "boot",
-        "upper"
-      ],
-      "relevance_score": 5,
-      "summary": "Name: nonnative Trooper Lace up Boots Cow LeatherColorway: “Gray,” “Coyote” SKU: NN-F4804MSRP: ¥60,000 JPY (approx. $374 USD)Release Date: Available NowWhere to Buy: nonnativeThe nonnative Trooper Lace Up Boots merge tactical military utility with refined urban style, with its latest additions crafted in premium cow leather. This high-top model is defined by its beautifully texturized leather upper that adds an organic and rugged depth to its appeal. The boot is offered in two highly adaptable colorways: a moody, sophisticated “Gray” and a classic, military-inspired “Coyote”.The design boasts nonnative's signature detachable zip center-piece, which overlays the traditional lacing system. This modular component delivers an innovative 2-way wearing configuration, allowing the wearer to effor",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "007ada5ef486",
-      "title": "From Nike to Salomon, the Seven Best Sneakers to Cop Right Now",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/sneaker-releases-2026-june-week-2/",
-      "original_publish_time": "2026-06-10T07:50:00+00:00",
-      "scraped_time": "2026-06-10T19:36:12.339004+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike",
-        "Adidas",
-        "New Balance",
-        "Salomon"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 9,
-      "summary": "The world of sneaker releases is tricky to navigate, but we're here with the best of the open market, from adidas to Salomon, New Balance to Nike.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "be7922e3193f",
-      "title": "Vans Is All in on the \"Knicks\" With the Classic Slip-On",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/6/vans-classic-slip-on-knicks-vn000eacblq-release-info",
-      "original_publish_time": "2026-06-10T07:24:42+00:00",
-      "scraped_time": "2026-06-10T08:41:19.791812+00:00",
-      "time_delta_mins": 0,
-      "category": "Quality",
-      "brands_mentioned": [
-        "Vans"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Name: Vans Classic Slip-On “Knicks”Colorway: Checkerboard Blue/OrangeSKU: VN000EACBLQRetail Price: $60 USDRelease Date: Available NowWhere to Buy: VansVans is officially tapping into the surging city energy with the release of the Vans Classic Slip-On \"New York Knicks\". Arriving in celebration of NBA Finals Game 3 at Madison Square Garden, the skate shoe originators are crossing the bridge to deliver a bold new colorway. This special release serves as a heartfelt tribute to New York City and the enduring crossover between its rich local skate community and its deeply rooted sports fandom.Translating the vibrant energy of the city onto a footwear staple, the NYC-centric Vans Slip-On features a striking blue and orange checkerboard mix to perfectly match the iconic Knicks jerseys. The signat",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "86fea492d746",
-      "title": "Onitsuka Tiger Goes Independent From ASICS",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/6/onitsuka-tiger-goes-independent-from-asics-establishes-ot-group-business-news-info",
-      "original_publish_time": "2026-06-10T05:16:06+00:00",
-      "scraped_time": "2026-06-10T08:41:19.795863+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "ASICS"
-      ],
-      "keywords_matched": [
-        "sole"
-      ],
-      "relevance_score": 3,
-      "summary": "SummaryOnitsuka Tiger will spin off from ASICS in 2027 under OT GROUP, gaining independent managementBrand sales surged 34% in Q1 2026, driven by retro sneaker demand and global expansionThe separation aims to accelerate the label’s growthOnitsuka Tiger is set to operate independently from ASICS beginning January 1, 2027, under a newly formed subsidiary called OT GROUP. While ASICS will remain the sole shareholder, the restructuring is designed to give Onitsuka Tiger greater autonomy in decision‑making and brand direction. The move reflects ASICS’ strategy to sharpen its performance‑driven identity while allowing Onitsuka Tiger to fully embrace its positioning as a fashion‑forward lifestyle label with global ambitions.The separation comes at a time of strong growth for Onitsuka Tiger, whic",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "0d2502a39915",
-      "title": "Bangladesh targets $3 billion in apparel exports to Japan as sourcing interest grows",
-      "source_name": "Textile Today",
-      "source_domain": "textiletoday.com.bd",
-      "source_url": "https://textiletoday.com.bd/bangladesh-targets-3-billion-in-apparel-exports-to-japan-as-sourcing-interest-grows",
-      "original_publish_time": "2026-06-10T04:36:00+00:00",
-      "scraped_time": "2026-06-10T08:44:58.546558+00:00",
-      "time_delta_mins": 0,
-      "category": "Trade Data",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "apparel exports"
-      ],
-      "relevance_score": 3,
-      "summary": "Japan is showing growing interest in sourcing more apparel products from Bangladesh as businesses from both countries move to capitalize on the recently signed Economic Partnership Agreement (EPA). T...",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "49fdd1f6d72a",
-      "title": "‘Balen shoes’ craze gives Nepali footwear brands a boost - Asia News Network",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQanJkdzFKblFKMjJsNUhOZGFINVNPWGIxYmtubHVmdDRIRUp5aVhqRy1RUWFIUTBFNHpkUlFiRDhNMGY3aUt1Rlc1d1ZOZ0o0MXVWMEN2MkE3V25jbUNYYXVnNjFDUGxtQ2lkUGpaNV9xUWR6dkw3UDJNdlhRZTZVekhqVERkQjA?oc=5",
-      "original_publish_time": "2026-06-10T04:13:45+00:00",
-      "scraped_time": "2026-06-10T08:41:31.144703+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "shoes"
-      ],
-      "relevance_score": 6,
-      "summary": "‘Balen shoes’ craze gives Nepali footwear brands a boost Asia News Network",
       "ren_take": "",
       "image_url": ""
     }
