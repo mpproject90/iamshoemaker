@@ -1,8 +1,110 @@
 {
-  "last_updated": "2026-06-18T14:30:55.606842+00:00",
-  "total_articles": 120,
-  "sources_checked": 62,
+  "last_updated": "2026-06-18T19:35:28.925901+00:00",
+  "total_articles": 116,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "603eb5c6eade",
+      "title": "Can't Find Paraboot's Rare French Shoes? Try This Gun Store",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/paraboot-beretta-gallery/",
+      "original_publish_time": "2026-06-18T19:13:24+00:00",
+      "scraped_time": "2026-06-18T19:28:20.586511+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "boot",
+        "shoes"
+      ],
+      "relevance_score": 6,
+      "summary": "Beretta Gallery is the only store in Manhattan that sells guns. It's also one of the few boutiques that offers a comprehensive Paraboot selection. Why?",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "b869754dd74e",
+      "title": "Moncler Previews Latest Shoe Collabs With Clarks, Rick Owens, Moon Boot and Fragment in Milan",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/moncler-clarks-rick-owens-moon-boot-fragment-collaborations-1239017269/",
+      "original_publish_time": "2026-06-18T18:17:34+00:00",
+      "scraped_time": "2026-06-18T19:24:29.592875+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Clarks"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 5,
+      "summary": "The event was held at the company's new global headquarters in Milan, Casa Moncler.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "7ab3437cc226",
+      "title": "Thorogood Boots Opens $14.5 Million Manufacturing Facility and First Retail Store in Wisconsin",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/thorogood-marshfield-wisconsin-manufacturing-facility-store-1239017044/",
+      "original_publish_time": "2026-06-18T16:59:06+00:00",
+      "scraped_time": "2026-06-18T19:24:29.595494+00:00",
+      "time_delta_mins": 0,
+      "category": "Manufacturing",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 3,
+      "summary": "The 70,000-square-foot facility is operated by Weinbrenner Shoe Company, the parent company of the Thorogood brand.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "f7f304cd8f6b",
+      "title": "A Knicks Air Jordan 3 Is Going Up for Pre-order Just as the Championship Parade Begins",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/air-jordan-3-knicks-pre-order-2026-1239016487/",
+      "original_publish_time": "2026-06-18T14:40:08+00:00",
+      "scraped_time": "2026-06-18T19:24:29.596373+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Jordan"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "The shoes previously released in 2019.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "0a13b22e65d2",
+      "title": "Official Look at the Nike Air Force 1 07 Low SE “Philadelphia”",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/6/official-look-at-the-nike-air-force-1-07-low-se-philadelphia",
+      "original_publish_time": "2026-06-18T14:17:24+00:00",
+      "scraped_time": "2026-06-18T19:24:41.086974+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "Name: Nike Air Force 1 07 Low SE “Philadelphia”Colorway: Light Orewood Brown/Metallic Gold Silk-Phantom-Mineral Teal-Treasure Blue-SailSKU: IV6205-104MSRP: $125 USDRelease Date: July 11Where to Buy: NikeCelebrating the rich spirit and culture of the City of Brotherly Love, Nike is set to release the Nike Air Force 1 '07 Low SE “Philadelphia” this summer. The upper arrives in a smooth leather build, dressed in a sophisticated \"Light Orewood Brown,\" providing a clean and muted palette that allows its vibrant accents to pop. Adding rich tactile contrast to the clean leather base, shaggy teal suede is applied to both the tongue tag and the heel tab.The sneaker's highlight lies in its split-Swoosh configuration: the lateral side features a shimmering gold Swoosh resting on a teal backing, while",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "040792824f65",
       "title": "Nike and Mita Dress the Archival Gato LV8 in Denim",
@@ -21,6 +123,26 @@
       ],
       "relevance_score": 3,
       "summary": "Name: Nike Gato LV8 DENIM mita ExclusiveColorway: Light Armoury Blue/Light Armoury Blue/Gum Light Brown/White, Thunder Blue/Coconut Milk/Obsidian/Summit WhiteSKU: IH3587-400,MSRP: ¥17,050 JPY (approx. $106 USD)Release Date: June 27Where to Buy: mitaNike has partnered with Tokyo's mita sneakers to launch an exclusive Nike Gato LV8 “DENIM” pack. Presented in two distinct denim finishes, the first variant boasts a washed, airy \"Light Armory Blue\" accented by crisp white details. Meanwhile, the second option introduces a dark indigo \"Thunder Blue\" rigid denim profile balanced by soft \"Coconut Milk\" and \"Obsidian\" accents. Both iterations rely on prominent contrast color stitching running across the paneled overlays, a tactile embellishment that sharply accentuates the raw texture and premium w",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "368573bb445e",
+      "title": "The footwear industry is demanding an urgent plan in response to company closures and job losses. - Diario de Alicante",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOXN0UjhZTzgwYk9wM0lWcU9rVXdldGJ1ZFVjTHFZUU1ZLTlscThqR0dvMWVyelByWmFQWVM4QmN4eGRkN0gyVTVjb0wtRE1VZkJfVVVmcmJIQ2JGODNLN2RBci02UDZ6dlZVQXhRb0RMUE5zdzk5N3JKcVB4Y0M5TjhlVzd0azBmckNPeUpSZnlRenFNZnlxbE9Md2xQQXk5OHh4UC1B?oc=5",
+      "original_publish_time": "2026-06-18T12:12:08+00:00",
+      "scraped_time": "2026-06-18T19:24:52.234047+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "footwear industry"
+      ],
+      "relevance_score": 6,
+      "summary": "The footwear industry is demanding an urgent plan in response to company closures and job losses. Diario de Alicante",
       "ren_take": "",
       "image_url": ""
     },
@@ -2260,211 +2382,6 @@
       ],
       "relevance_score": 5,
       "summary": "The sneaker choices includes Converse Chuck Taylor All-Stars and the predecessor to the Adidas Superstar.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "dc44cc24e971",
-      "title": "There’s Plenty Freak Left in Mizuno’s Beautifully Bonkers Boat Shoe",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/mizuno-wave-prophecy-moc-2026/",
-      "original_publish_time": "2026-06-11T19:33:01+00:00",
-      "scraped_time": "2026-06-11T19:37:04.162489+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Mizuno"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "Two new Mizuno Wave Prophecy Moc sneakers, unveiled almost simultaneously, are proof that Mizuno's brilliantly weird shoe can get weirder.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "81b61bf2e71f",
-      "title": "3D-printed Footwear Firm Syntilay and Former NFL Star Team on Recovery Pickleball Shoe",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/terrell-owens-syntilay-ai-footwear-3d-printed-recovery-shoe-1239007105/",
-      "original_publish_time": "2026-06-11T18:41:45+00:00",
-      "scraped_time": "2026-06-11T19:33:09.629172+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Football wide receiver and pickleball player Terrell Owens worked with Syntilay's AI-driven footwear technology to shape the 3D-printed recovery shoe.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "1a9abad2d4e0",
-      "title": "WNBA Star Kelsey Plum Joins Adidas Women’s Basketball Roster",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/kelsey-plum-adidas-basketball-1239007265/",
-      "original_publish_time": "2026-06-11T18:40:00+00:00",
-      "scraped_time": "2026-06-11T19:33:09.631683+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Adidas",
-        "Under Armour"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "Plum was previously an Under Armour ambassador.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "d53bf297dcd4",
-      "title": "Travis Barker Updates His Vans ‘Dues Paid’ Old Skool for Summer",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/travis-barker-vans-old-skool-release-date-1239007420/",
-      "original_publish_time": "2026-06-11T18:19:14+00:00",
-      "scraped_time": "2026-06-11T19:33:09.632211+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [
-        "Vans"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Barker's second collection with Vans spans both footwear and apparel.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "756006dfee83",
-      "title": "Christian Louboutin and d’Adda Return With Footwear Capsule Crafted With a Range of Unique Materials",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-trends/christian-louboutin-dadda-second-shoe-capsule-collection-1239006754/",
-      "original_publish_time": "2026-06-11T17:37:36+00:00",
-      "scraped_time": "2026-06-11T19:33:09.632697+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Louboutin"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 5,
-      "summary": "Louboutin and Coco Brandolini d'Adda have a long-standing friendship.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "3d16b26c9bf2",
-      "title": "The adidas Anthony Edwards 3 Mule Looks To “Core Black”",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/06/11/adidas-anthony-edwards-3-mule-core-black-lucid-red-silver-metallic/",
-      "original_publish_time": "2026-06-11T17:00:59+00:00",
-      "scraped_time": "2026-06-11T19:33:21.661341+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "The mark of a true superstar, at least in the realm of footwear, is the ability to support multiple product lines. Already adidas has signaled... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The adidas Anthony Edwards 3 Mule Looks To \"Core Black\" appeared first on Sneaker News . The post The adidas Anthony Edwards 3 Mule Looks To “Core Black” appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "81717e341855",
-      "title": "Salomon’s Techy Sneakers Set the Bar. This Tonal, Textural Collab Breaks It",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/a-cold-wall-x-salomon-acs-pro/",
-      "original_publish_time": "2026-06-11T15:56:01+00:00",
-      "scraped_time": "2026-06-11T19:37:04.163541+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Salomon"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 5,
-      "summary": "Salomon teams up with British label A-COLD-WALL* for the ACS Pro, blending tonal earth tones, premium suede and mesh detail.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "dbab2839ca74",
-      "title": "OG Anunoby Hit Historic Game-winning Finals Shot in These Player-exclusive Skechers Sneakers",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/og-anunoby-nba-finals-game-4-sneakers-skechers-1239006686/",
-      "original_publish_time": "2026-06-11T15:17:30+00:00",
-      "scraped_time": "2026-06-11T19:33:09.633549+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [
-        "Skechers"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 5,
-      "summary": "His second PE sneaker of the NBA Finals.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "86134fbfe920",
-      "title": "Residents of East African Community countries will be needing 400 million pairs of shoes by 2030 - The Tanzania Times",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTlR6R2tZc1VYcUFoQUVxNW5JdmNPVXp1ZmRXSmJCdTVuN1JwdDgwXzJ3Qk1FNDB1aW9FYmRZOE1DWkxSbXBvZktQellMek82YlF6STh4dU53NDZnUjc0VnhOLWpab0ktRnZ0OXdWbUJ0RDEtZDNmMXg0a3FEd0dDSUt5UjdJeldxRTNKV2JtM2R1SmpiZmdJVGtqbkpDeUlKRl9xYmVYU1NZeDBRMlltWFZKOUlqOUQtWTB6NnEyYjE?oc=5",
-      "original_publish_time": "2026-06-11T14:52:11+00:00",
-      "scraped_time": "2026-06-11T19:33:32.476424+00:00",
-      "time_delta_mins": 0,
-      "category": "Trade Data",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "Residents of East African Community countries will be needing 400 million pairs of shoes by 2030 The Tanzania Times",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "1978cb19c2df",
-      "title": "Dylan Harper's TITAN x Nike Air Zoom GT Cut EP \"Daybreak\" Pays Homage To His Filipino Roots",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/6/dylan-harper-titan-nike-air-zoom-gt-cut-ep-daybreak-iu0779-400-release-info",
-      "original_publish_time": "2026-06-11T14:36:32+00:00",
-      "scraped_time": "2026-06-11T14:38:09.184937+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 4,
-      "summary": "Name: Dylan Harper x TITAN x Nike Air Zoom G.T. Cut EP \"Daybreak\"Colorway: Bleached Aqua/Cashmere/Sport Gold/Chile Red/Metallic Silver/Glacier BlueSKU: IU0779-400MSRP: $200 USDRelease Date: June 17Where to Buy: TITANNike, TITAN, and San Antonio Spurs rising star Dylan Harper have unveiled \"Daybreak,\" the first colorway in the Nike Air Zoom GT Cut EP \"DUSK 2 DAWN\" series, releasing June 17. The light blue upper and soft gradients on the Swoosh draw directly from a sunrise over Bataan, the Philippine province that is the hometown of Harper's mother, making the colorway a tribute to both his Filipino heritage and the values she instilled in him.The colorway's design brief is specific and personal. Bataan is not a generic cultural reference but a precise geographic anchor — Harper's mother's h",
       "ren_take": "",
       "image_url": ""
     }
