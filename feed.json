@@ -1,8 +1,31 @@
 {
-  "last_updated": "2026-06-18T00:29:10.253891+00:00",
-  "total_articles": 122,
+  "last_updated": "2026-06-18T09:18:47.103365+00:00",
+  "total_articles": 120,
   "sources_checked": 61,
   "articles": [
+    {
+      "id": "2232ebfd499d",
+      "title": "Vans and Urban Research Doors Team Up for an Exclusive 2-Elt Boat Shoe",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/6/vans-urban-research-doors-exclusive-2-elt-boat-shoes-release-info",
+      "original_publish_time": "2026-06-18T06:45:14+00:00",
+      "scraped_time": "2026-06-18T09:07:58.094712+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Vans"
+      ],
+      "keywords_matched": [
+        "footwear",
+        "shoes",
+        "upper"
+      ],
+      "relevance_score": 5,
+      "summary": "Name: Vans x Urban Research Doors “Exclusive 2-Elt Boat Shoes”Colorway: WhiteSKU: TBCMSRP: ¥11,000 JPY (approx. $69 USD)Release Date: June 19Where to Buy: Urban Research DoorsUrban Research Doors is set to release an exclusive collaboration with Vans, introducing the Exclusive 2-Elt Boat Shoes. This limited-edition model reimagines the classic two-eyelet boat shoe silhouette, designed specifically to bring a sense of sophisticated ease to summer and transitional autumn wardrobes. By combining a refined aesthetic with the relaxed comfort characteristic of boat-style footwear, the collaboration aims to provide a versatile, year-round option that bridges the gap between casual and polished attire.The upper is crafted in a washed off‑white canvas, giving the shoes a relaxed, worn‑in aesthetic ",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "32f7df2e222e",
       "title": "Future for Birdies, Taft Shoe Brands Now Up in the Air After Bank Take Over - WWD",
@@ -19,6 +42,48 @@
       ],
       "relevance_score": 3,
       "summary": "Future for Birdies, Taft Shoe Brands Now Up in the Air After Bank Take Over WWD",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "fa9872b1c609",
+      "title": "Official Look at the Nike KD 19 \"Bubble Gum Bounce\"",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/6/nike-kd-19-bubble-gum-bounce-ih1118-600-official-look-release-info",
+      "original_publish_time": "2026-06-17T23:02:53+00:00",
+      "scraped_time": "2026-06-18T09:07:58.092395+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Name: Nike KD 19 \"Bubble Gum Bounce\"Colorway: Hyper Pink/Stadium Green-University GoldSKU: IH1118-600Retail Price: $155 USDRelease Date: July 2026Where to Buy: NikeNike and Kevin Durant are expanding their historic basketball catalog with the upcoming Nike KD 19 \"Bubble Gum Bounce.\" The newly surfaced model marks a fresh addition to the athlete's signature performance lineup, continuing a long-standing legacy of elite hardwood footwear.The upcoming silhouette serves as the latest iteration of Durant's nineteenth signature shoe with the brand. While detailed design schematics, exact material compositions, and specific technical cushioning setups have not been officially broken down in early reports, the model is expected to carry forward the performance-driven DNA characteristic of the sign",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "df7f50fb26a4",
+      "title": "Nike Air Force 1 Low \"Game Day\" Pays Homage to Vintage Sports Gear",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/6/nike-air-force-1-low-game-day-iv5685-365-release-info",
+      "original_publish_time": "2026-06-17T22:51:54+00:00",
+      "scraped_time": "2026-06-18T09:07:58.087854+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "Name: Nike Air Force 1 Low \"Game Day\"Colorway: Malachite/University Gold-Gum Medium Brown-Coconut MilkSKU: IV5685-365Retail Price: $125 USDRelease Date: June 20, 2026Where to Buy: NikeThe Nike Air Force 1 Low \"Game Day\" is officially slated to join the brand's extensive lifestyle lineup as part of a broader seasonal roll-out. Arriving as a standout entry within an upcoming Nike Sportswear capsule, this freshly revealed colorway leverages archival aesthetic choices to honor the deep-seated connection between traditional athletic apparel and contemporary street fashion.Reintroducing the highly favored 2001 shape of the iconic presidential silhouette, the low-top sneaker pairs classic performance roots with an elevated combination of textures and tones. The upper utilizes vibrant \"Malachite\" ",
       "ren_take": "",
       "image_url": ""
     },
@@ -81,6 +146,25 @@
       ],
       "relevance_score": 5,
       "summary": "The Allbirds IP assets were acquired by American Exchange Group in partnership with WSG Brands, a brand management and licensing platform.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "1ae0156e1c75",
+      "title": "Footwear sector opposes Third Schedule inclusion - The Express Tribune",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVDMyYUZ3OWlqSktkbmJGbk42ZmlRV0ozN1VYcVZKMHEyODQzdTNzTUZFY1pfTERydkNQOHFhbTZUdHNjanJ5VUVjNFRoUktNQkJYRnRZU3EyV2lUSFdFNWRMaF9XX3lMU0k0ODN2bGhDTWZVaER2cXFYZ2tkTk92OEE3T2hoZm5jMkthWnNB0gGWAUFVX3lxTE81TVR0NXlyUlVEc3ktVmYtMUMzY3RLMFBLOGVXTG9weV93VUpNSTAtSThFNmJHZElzTm5FQlRBNXdIRUN6TW5Ybklwb3N4cGotR0NUXzlvQjdtLURkSVVLcHlYWXd6bTlISUQwZV9VZUZCUTFScFBwY28zdVQ0cm10YjRRSEprd05KREVrc2J0Z1A4REwyUQ?oc=5",
+      "original_publish_time": "2026-06-17T20:49:43+00:00",
+      "scraped_time": "2026-06-18T09:08:09.503140+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Footwear sector opposes Third Schedule inclusion The Express Tribune",
       "ren_take": "",
       "image_url": ""
     },
@@ -326,6 +410,27 @@
       "image_url": ""
     },
     {
+      "id": "4ffa297c7d65",
+      "title": "Allbirds is now Smartbird, and its new AI-focused CEO says 'people won't even remember the shoes' - Business Insider",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRjQxYlZHbkxjUlJRYlZuZU54UEtTcUlNam95amFxWE80eDJ3QzJpUE5QU0RsSnRiaFo0QkpWLURBcDJqb2U2b00xQTU4TmNiOTVTTktndFhqeXFOX1F5dUVVNVRXcGlUNENOMGtCenh3YWl3X3JjZDJNdkRUc3FTWG5DYk1KVUYtczN4QUN5b2VpaUFnNm1TWGtLTGoyM0k?oc=5",
+      "original_publish_time": "2026-06-17T10:00:00+00:00",
+      "scraped_time": "2026-06-18T09:08:10.250649+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Allbirds"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 5,
+      "summary": "Allbirds is now Smartbird, and its new AI-focused CEO says 'people won't even remember the shoes' Business Insider",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
       "id": "bb7fcd69bd83",
       "title": "ASICS Reimagines Archival Performance With the Hybrid GEL-STRATUS MC",
       "source_name": "Hypebeast",
@@ -385,6 +490,29 @@
       ],
       "relevance_score": 3,
       "summary": "SummarhTeyana Taylor has taken to social media to officially tease an upcoming footwear project with Jordan BrandThe announcement follows her highly successful early 2026 Air Jordan 3 Concrete Rose releaseSpecific details regarding the chosen sneaker silhouette design elements and release timeline remain unknownJordan Brand and multi-hyphenate artist Teyana Taylor are officially cooking up their next collaborative footwear project. Teased directly via Taylor's personal social media channels, the upcoming venture marks the next evolution of her ongoing partnership with the Jumpman label following a major year of creative momentum and high-profile media appearances.Taylor initially formalized her relationship with Jordan Brand in 2023 with the launch of the high-performing Air Jordan 1 High ",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "47080d69c1da",
+      "title": "Empty Behavior Re-Codes the ASICS Tiger Stripes With Ruffled Trimmings",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/6/empty-behavior-asics-hypersync-black-breeze-1203b146-001-white-1203b146-100-official-images-release-info",
+      "original_publish_time": "2026-06-17T06:18:25+00:00",
+      "scraped_time": "2026-06-18T09:07:58.098082+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "ASICS"
+      ],
+      "keywords_matched": [
+        "footwear",
+        "sneakers",
+        "upper"
+      ],
+      "relevance_score": 5,
+      "summary": "Name: ASICS x EMPTY BEHAVIOR HYPERSYNCColorway: Black/Pink, White/SilverSKU: 1203B146.001,1203B146.100MSRP: $135 USDRelease Date: June 27Where to buy: ASICSExperimental footwear brand Empty Behavior has collaborated with ASICS for a unique reimagining of the Hypersync sneakers, bringing the label's industrial, avant-garde yet feminine aesthetics to the everyday silhouette.The collaboration introduces two distinct colorways: a moody “Black” accented by soft, contrasting pink hits, alongside a clean “White/Silver” variant. Built from a tactical blend of synthetic leather overlays and open-weave air mesh underlays, the sleek upper embraces functional minimalism while offering a unique, texture-heavy finish.The defining visual hallmark of this partnership is the subversive transformation of AS",
       "ren_take": "",
       "image_url": ""
     },
@@ -2340,173 +2468,6 @@
       ],
       "relevance_score": 4,
       "summary": "Name: New Balance 992 \"Pink Chalk\"Colorway: Pink Chalk/Pink Lemonade/Cherry LeatherSKU: U992PKRetail Price: $200 USDRelease Date: Summer 2026Where to Buy: New BalanceNew Balance is officially preparing to expand its lifestyle roster with the upcoming introduction of the New Balance 992 \"Pink Chalk\". Spearheaded under the brand's premium Made in USA division, the upcoming release shifts away from the Boston label's traditional neutral grey palettes to offer an expressive, multi-layered pastel option for the global footwear market.The newly revealed silhouette features a high-quality material construction that pairs a breathable mesh foundation with premium suede overlays and smooth leather underlays. A soft \"Pink Chalk\" hue dominates the upper panels, dressing the toe box, quarter panels, a",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "04a9b2fa4c2e",
-      "title": "adidas Introduces the F1-Adapted CLIMACOOL SYSTEM for World Cup 2026",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/6/adidas-new-climacool-system-fifa-world-cup-2026-info",
-      "original_publish_time": "2026-06-11T09:11:10+00:00",
-      "scraped_time": "2026-06-11T14:38:09.199137+00:00",
-      "time_delta_mins": 0,
-      "category": "Quality",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 3,
-      "summary": "Summaryadidas unveils CLIMACOOL SYSTEM with vest, jacket and overshoe to combat extreme heat at FIFA World Cup 2026Technology lowers core body temperature and improves enduranceThis innovation joins federation kits, TRIONDA ball and F50 Hyperfast Evo bootsadidas has unveiled the CLIMACOOL SYSTEM, a performance innovation designed to help athletes withstand the high temperatures expected at the FIFA World Cup 2026.Originally developed for motorsport drivers, the system has been adapted for football through extensive testing with clubs like Manchester United, Juventus and Arsenal. It consists of three components : a cooling vest, an insulating jacket and overshoe, all engineered to lower core body temperature, improve heat tolerance and boost endurance. The vest uses a frozen gel that gradua",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "0551e5417516",
-      "title": "The Broken Arm and Salomon’s SAVÁT Sneaker Embraces Handcrafted Appeal",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/6/the-broken-arm-and-salomons-savat-sneaker-embraces-handcrafted-appeal",
-      "original_publish_time": "2026-06-11T09:06:23+00:00",
-      "scraped_time": "2026-06-11T14:38:09.197580+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Salomon"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Name: Salomon x THE BROKEN ARM SAVÁTColorway: “Cosmic Sky,” “Black Olive”SKU: TBCMSRP: TBCRelease Date: June 16 Where to Buy: SalomonSalomon is reuniting with Paris-based boutique The Broken Arm to debut SAVÁT, a brand-new collaborative silhouette.Confirmed in two sophisticated, nature-inspired colorways, spanning \"Cosmic Sky\" and \"Black Olive,\" the SAVÁT draws inspiration from traditional handmade footwear. Each shoe is constructed from a single piece of leather, leaving seams and construction visible to emphasize honesty in design. Elevated through technical detailing, the silhouette is characterized by prominent exposed seams and clean structural lines, while delicate, artisanal embroidery evokes timeless, practical patchwork charm. This rustic appeal is further complemented by an innov",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "1c811c3a4d8a",
-      "title": "Nike Just Dragged a Football Legend Out of the Vault & Onto the Pitch",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-cryoshot-ronaldo/",
-      "original_publish_time": "2026-06-11T08:41:45+00:00",
-      "scraped_time": "2026-06-11T09:10:10.180552+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 3,
-      "summary": "Nike Cryoshot Mercurial Vapor R9 “Ronaldo” brings back the iconic 1998 football boot in a street-ready lifestyle sneaker.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "75dfdcab255f",
-      "title": "UK: John Lobb (Hermès) invests in a new footwear factory - La conceria.it",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUjREUmd3eXVMSlh1VUtKQUlkRmFTcnNsREZPd1VXZWdyay0wcGo4dFhfX2tJWmZ0WmRCbFVvbHViYkY3UlhyTml0bDhEZFFZSFZPMEJWbGJGRU92ZTBpU0gxSUZ6bXE0R3pMREZRbkF1bmZVMFlrUktsdjNvb1gxNWhFVDBNMmtxRElzUnFNM3JtNVE5ZXpv?oc=5",
-      "original_publish_time": "2026-06-11T08:34:05+00:00",
-      "scraped_time": "2026-06-11T19:33:32.477126+00:00",
-      "time_delta_mins": 0,
-      "category": "Manufacturing",
-      "brands_mentioned": [
-        "Hermès"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 5,
-      "summary": "UK: John Lobb (Hermès) invests in a new footwear factory La conceria.it",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "6e1931435a03",
-      "title": "Jil Sander and PUMA Revive the 1998 King Avanti in “Optic White”",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/6/jil-sander-puma-king-avanti-optic-white-release-info",
-      "original_publish_time": "2026-06-11T07:14:31+00:00",
-      "scraped_time": "2026-06-11T09:06:29.219503+00:00",
-      "time_delta_mins": 0,
-      "category": "Quality",
-      "brands_mentioned": [
-        "Puma"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "Name: Jil Sander x PUMA King Avanti \"Optic White\"Colorway: \"Optic White\"SKU: TBCMSRP: ¥88,000 JPY (approx. $548 USD)Release Date: June 17Where to Buy: Jil Sander, PUMAThe soon-to-be-released King Avanti sneaker in “Optic White” marks the third highly anticipated drop of Jil Sander and PUMA following their revived partnership. Originally launched in 1998, this collaborative model serves as a historical milestone that famously pioneered the fusion of high fashion and athletic performance by reimagining PUMA's iconic soccer silhouette.This latest re-edition strips away complex multi-colored blockings in favor of an immaculate, monochrome \"Optic White\" colorway that swathes the entirety of the low-profile shoe. The upper is meticulously constructed from ultra-premium, high-quality leather, est",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "bd777eec95ef",
-      "title": "N.HOOLYWOOD and Teva Rebuild the Hurricane XLT3 CT as a Military Sandal in All-Black",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/6/n-hoolywood-test-product-exchange-service-teva-hurricane-xlt3-ct-collaboration-release-info",
-      "original_publish_time": "2026-06-11T06:49:04+00:00",
-      "scraped_time": "2026-06-11T09:06:29.221952+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "sandal"
-      ],
-      "relevance_score": 3,
-      "summary": "Name: N.HOOLYWOOD TEST PRODUCT EXCHANGE SERVICE x Teva Hurricane XLT3 CTColorway: BlackSKU: TBCMSRP: ¥25,300 JPY (approx. $160 USD)Release Date: June 12Where to Buy: TevaN.HOOLYWOOD TEST PRODUCT EXCHANGE SERVICE and Teva have announced their second collaboration, an all-black rework of the Hurricane XLT3 CT releasing June 12. The collaboration marks the world's first time the Hurricane XLT3 CT has been used as a collab base, with N.HOOLYWOOD TPES applying its military-focused design language to Teva's amphibious closed-toe sport sandal through a single, disciplined creative decision: make everything black.The all-black monochrome treatment is not simply an aesthetic preference. N.HOOLYWOOD TEST PRODUCT EXCHANGE SERVICE is the military-specialist line within N.HOOLYWOOD, and the all-black c",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "5e7769e99023",
-      "title": "Nike Brings Luxe Textures to the Air Force 1 Low \"Triple Black Croc\"",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/6/nike-air-force-1-low-triple-black-croc-iv6306-010-release-info",
-      "original_publish_time": "2026-06-11T03:36:32+00:00",
-      "scraped_time": "2026-06-11T09:06:29.217068+00:00",
-      "time_delta_mins": 0,
-      "category": "Quality",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "footwear",
-        "upper"
-      ],
-      "relevance_score": 4,
-      "summary": "Name: Nike Air Force 1 Low \"Triple Black Croc\"Colorway: Black/Metallic Dark GreySKU: IV6306-010Retail Price: $125 USDRelease Date: July 1, 2026Where to Buy: NikeNike is officially bringing an elevated material treatment to its classic footwear roster with the introduction of the Air Force 1 Low \"Triple Black Croc\". Reimagining the brand's ubiquitous all-black color palette, the upcoming release modernizes the traditional Uptown format without steering too far away from its everyday lifestyle roots.A close look at the design details reveals a stealthy upper completely monochromatic in execution. Moving away from standard smooth leather, the silhouette incorporates heavy embossed crocodile-style textures across the toe box, quarter panels, eyestays, and heel counters. This structural texture",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "2a12f892e06f",
-      "title": "Did Ronnie Fieg Just Tease a Possible Kith x Nike Air Force 1 Low \"Reverse Linen?\"",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/6/ronnie-fieg-tease-possible-kith-nike-air-force-1-low-reverse-linen",
-      "original_publish_time": "2026-06-11T03:17:12+00:00",
-      "scraped_time": "2026-06-11T14:38:09.195458+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "SummaryKith founder Ronnie Fieg was recently spotted wearing a potential Kith x Nike Air Force 1 Low \"Reverse Linen\"The unconfirmed design flips the iconic \"Linen\" tan and \"Atmosphere\" pink color blocking from the original 2001 releaseNeither Nike nor Kith have officially confirmed release dates or pricing details for the sneakerNike and Kith may be collaborating on a brand-new footwear project following an early look at the Kith x Nike Air Force 1 Low \"Reverse Linen\". Spotted on the feet of Kith founder Ronnie Fieg during a podcast appearance, the unconfirmed pair offers a fresh twist on a highly respected colorway from the early 2000s. While official details remain scarce, the preview has quickly generated significant online traction.According to surfaced images, the unconfirmed design f",
       "ren_take": "",
       "image_url": ""
     }
