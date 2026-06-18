@@ -1,8 +1,89 @@
 {
-  "last_updated": "2026-06-17T19:34:38.543034+00:00",
-  "total_articles": 120,
-  "sources_checked": 60,
+  "last_updated": "2026-06-18T00:29:10.253891+00:00",
+  "total_articles": 122,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "32f7df2e222e",
+      "title": "Future for Birdies, Taft Shoe Brands Now Up in the Air After Bank Take Over - WWD",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNX0lMdnZaYlo2dWRoTUo0SF85bkhyX0hIcWRpLVZ4YU9MeW1tX3Q5RmhpYTVIUnFwZ3I4QUdyYTRlSXRuU2JXU3BiTjZvUzdCcnNGQmlxZkFuN3dKQkt2UXBGRTdsUTJSa056anQ0bnZVaWFUek80VlFBZEhxZE41bmNGclIwZHVRQ2N5SUo1ZVpIcDA2R2F3WmVGdlpTOUVNSnNwNXN3?oc=5",
+      "original_publish_time": "2026-06-17T23:36:43+00:00",
+      "scraped_time": "2026-06-18T00:18:05.958385+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoe brand"
+      ],
+      "relevance_score": 3,
+      "summary": "Future for Birdies, Taft Shoe Brands Now Up in the Air After Bank Take Over WWD",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "8cf5f8f95f9f",
+      "title": "Zellerfeld And Nike Return With The Air Max 1000.2 “Pink Spell”",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/06/17/zellerfeld-nike-air-max-1000-2-black-pink-spell/",
+      "original_publish_time": "2026-06-17T22:37:35+00:00",
+      "scraped_time": "2026-06-18T00:17:54.801727+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Nike’s exploration of 3D-printed footwear continues with a yet another colorway of the Air Max 1000.2. Following the debut of the updated futuristic silhouette earlier... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Zellerfeld And Nike Return With The Air Max 1000.2 \"Pink Spell\" appeared first on Sneaker News . The post Zellerfeld And Nike Return With The Air Max 1000.2 “Pink Spell” appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "d987fce18d82",
+      "title": "Footwear industry is backbone of India’s economy: Union Minister Giriraj Singh - Newsonair",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ29UaXZQZHFWUm1nX2FHV3h5VGlhdFRaX01vcllPcGc2bU5fRFdmR282RjQ1ZnkyTE9Ic0drOHQ2SjM3NkI5ZFI3eEZsRHUyaTI0LW15clpXMnJYcS15QmN6Qy0xR1NEbVd0QVp6b0taVXVkZXVYNUxsdHdlX2JFUGtKLUFXenJ6eVdxU1I5NF9ud2tPVTFLM3hwbmNZdHl4cFFZdQ?oc=5",
+      "original_publish_time": "2026-06-17T21:08:38+00:00",
+      "scraped_time": "2026-06-18T00:18:05.959519+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "footwear industry"
+      ],
+      "relevance_score": 6,
+      "summary": "Footwear industry is backbone of India’s economy: Union Minister Giriraj Singh Newsonair",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "00962ace1769",
+      "title": "Allbirds Is Officially a Tech Company, American Exchange Group Takes Over Footwear Business",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/allbirds-american-exchange-wsg-brands-assets-smartbird-1239015666/",
+      "original_publish_time": "2026-06-17T21:07:24+00:00",
+      "scraped_time": "2026-06-18T00:17:42.870604+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Allbirds"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 5,
+      "summary": "The Allbirds IP assets were acquired by American Exchange Group in partnership with WSG Brands, a brand management and licensing platform.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "b29ebd7f0c24",
       "title": "Jordan 5 Retro and Nike Mind 001 Slide Among Buzziest Releases So Far in 2026, According to StockX",
@@ -2426,47 +2507,6 @@
       ],
       "relevance_score": 3,
       "summary": "SummaryKith founder Ronnie Fieg was recently spotted wearing a potential Kith x Nike Air Force 1 Low \"Reverse Linen\"The unconfirmed design flips the iconic \"Linen\" tan and \"Atmosphere\" pink color blocking from the original 2001 releaseNeither Nike nor Kith have officially confirmed release dates or pricing details for the sneakerNike and Kith may be collaborating on a brand-new footwear project following an early look at the Kith x Nike Air Force 1 Low \"Reverse Linen\". Spotted on the feet of Kith founder Ronnie Fieg during a podcast appearance, the unconfirmed pair offers a fresh twist on a highly respected colorway from the early 2000s. While official details remain scarce, the preview has quickly generated significant online traction.According to surfaced images, the unconfirmed design f",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "3993019d4d30",
-      "title": "The 8 Best World Cup Sneakers",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/best-world-cup-sneakers-2026-1239005393/",
-      "original_publish_time": "2026-06-10T21:03:38+00:00",
-      "scraped_time": "2026-06-11T00:18:53.665380+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike",
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 5,
-      "summary": "Including past releases and those still to come from Nike, Adidas and more.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "e64a7b2df057",
-      "title": "Mexico’s Largest Department Store Chain Coppel Expands AI Merchandising Pilot Program to Footwear",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/mexican-store-coppel-predictive-ai-first-insight-footwear-1239005524/",
-      "original_publish_time": "2026-06-10T20:29:17+00:00",
-      "scraped_time": "2026-06-11T00:18:53.667638+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Coppel has already test piloted predictive AI using First Insight's platform in women's apparel, and is now eyeing footwear.",
       "ren_take": "",
       "image_url": ""
     }
