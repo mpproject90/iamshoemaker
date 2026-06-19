@@ -1,8 +1,46 @@
 {
-  "last_updated": "2026-06-19T09:35:10.823632+00:00",
-  "total_articles": 114,
-  "sources_checked": 64,
+  "last_updated": "2026-06-19T14:23:34.765086+00:00",
+  "total_articles": 113,
+  "sources_checked": 62,
   "articles": [
+    {
+      "id": "f15a2412d347",
+      "title": "BRICS Trade Ties Could Boost India’s Textile and Apparel Exports",
+      "source_name": "Apparel Resources",
+      "source_domain": "apparelresources.com",
+      "source_url": "https://apparelresources.com/business-news/trade-business-news/brics-trade-ties-boost-indias-textile-apparel-exports/",
+      "original_publish_time": "2026-06-19T13:31:44+00:00",
+      "scraped_time": "2026-06-19T14:16:35.372073+00:00",
+      "time_delta_mins": 0,
+      "category": "Trade Data",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "apparel exports"
+      ],
+      "relevance_score": 3,
+      "summary": "India’s textile and apparel exports to BRICS countries increased to Rs 36,535 crore (US$3.87 billion) in FY2024 before moderating to Rs 34,647 crore (US$3.67 billion) in FY2025. Meanwhile, imports of textiles and apparel from BRICS rose 6.9% to Rs 36,854 crore (US$3.90 billion), highlighting the bloc’s importance as both an export market and sourcing destination. […] The post BRICS Trade Ties Could Boost India’s Textile and Apparel Exports appeared first on Apparel Resources .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "02dbc4430875",
+      "title": "Mastering life for lasting success inspires Textile Talent Hunt 10.0 participants",
+      "source_name": "Textile Today",
+      "source_domain": "textiletoday.com.bd",
+      "source_url": "https://textiletoday.com.bd/mastering-life-for-lasting-success-inspires-textile-talent-hunt-100-participants",
+      "original_publish_time": "2026-06-19T10:00:00+00:00",
+      "scraped_time": "2026-06-19T14:16:36.451024+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "lasting"
+      ],
+      "relevance_score": 3,
+      "summary": "The first training session of Textile Talent Hunt 10.0, titled \"Mastering Life for Lasting Success: Effectiveness Through Inside-Out Synergy – A Thinking Framework for Innovation Masterminds,\" was su...",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "db1333845bf8",
       "title": "Tracing the Craftsmanship at the Heart of MIZUNO Through the Words of Mizuno Global Brand Ambassador Mason Mount",
@@ -2271,66 +2309,6 @@
       ],
       "relevance_score": 3,
       "summary": "Bharat's Footwear Sector Takes a Step Forward: QCI and FDDI's Strategic Partnership Devdiscourse",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "f2d44c47afe6",
-      "title": "Why Von Dutch is expanding into clothing and footwear",
-      "source_name": "Drapers",
-      "source_domain": "drapersonline.com",
-      "source_url": "https://www.drapersonline.com/news/why-von-dutch-is-expanding-into-clothing-and-footwear",
-      "original_publish_time": "2026-06-12T11:37:12+00:00",
-      "scraped_time": "2026-06-12T14:13:17.027841+00:00",
-      "time_delta_mins": 0,
-      "category": "Trade Data",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Drapers Why Von Dutch is expanding into clothing and footwear Goldfinch Agency recently acquired the official license and distribution rights for Von Dutch in the UK and Europe. MD Matthew Broughton explains why now is the time to expand its regional offer beyond its ubiquitous trucker cap. The post Why Von Dutch is expanding into clothing and footwear appeared first on Drapers .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "933a430135ac",
-      "title": "Travis Barker Reimagines the Vans Old Skool in Clean \"White\"",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/6/vans-travis-barker-old-skool-vn000e9tcj7-collaboration-release-info",
-      "original_publish_time": "2026-06-12T11:08:55+00:00",
-      "scraped_time": "2026-06-12T14:10:13.053859+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [
-        "Vans"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "Name: Vans x Travis Barker Old SkoolColorway: WhiteSKU: VN000E9TCJ7MSRP: £85 GBP (approx. $114 USD)Release Date: June 18Where to Buy: Vans, JourneysSouthern California heritage and authentic punk rock energy collide once again as Vans introduces its second collaborative capsule with legendary musician and Blink-182 drummer, Travis Barker.The collection embraces a raw, DIY spirit heavily inspired by zine-like punk graphics and a shared non-conformist mindset. Similar to their first collaboration, the Vans x Travis Barker Old Skool comes as the center of this release. Dressed in a crisp white colorway, the silhouette features a traditional canvas upper with classic cotton laces. This pristine, understated canvas foundation is sharply contrasted by edgy, personalized design details that refle",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "c65d55c2cff5",
-      "title": "US Tariff Uncertainties Haunt Indonesia’s Footwear Industry - Jakarta Globe",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOR3UtTlRzVVMySmJnUUhPTTNJaC1DQ25hVEVEZDFIQU9XaWdMQWFHUkE0MXFjWG1TZmRDUnZwbEJVdFUwNEdDY3JHZWJoRVY3SG5acUtoOGhicDNNclIxSGxBaDhPaS1JMDdiM0tnRmVkZUd5am8yTzlfUENTdjJTZWEtNGpHekV1YjdPUEd1Z2VIbkE0ZGc?oc=5",
-      "original_publish_time": "2026-06-12T09:54:00+00:00",
-      "scraped_time": "2026-06-12T14:10:24.130096+00:00",
-      "time_delta_mins": 0,
-      "category": "Trade Data",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "footwear industry"
-      ],
-      "relevance_score": 6,
-      "summary": "US Tariff Uncertainties Haunt Indonesia’s Footwear Industry Jakarta Globe",
       "ren_take": "",
       "image_url": ""
     }
