@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-20T00:23:26.118963+00:00",
-  "total_articles": 106,
-  "sources_checked": 61,
+  "last_updated": "2026-06-20T08:27:00.908149+00:00",
+  "total_articles": 107,
+  "sources_checked": 62,
   "articles": [
     {
       "id": "fee4283b50fc",
@@ -229,6 +229,31 @@
       ],
       "relevance_score": 5,
       "summary": "SummaryDSM Kei Ninomiya showcases a detailed look at its upcoming footwear collaboration with VansThe collection highlights modified Vans Slip-On models featuring custom branding and floral overlaysOfficial release dates and retail pricing details for the collaborative sneakers remain unconfirmedDSM Kei Ninomiya and Vans have officially revealed a closer look at their upcoming collaborative Vans Slip-On collection, which originally debuted during the brand's Pitti Uomo 110 runway presentation. The backstage images highlight a closer look at the avant-garde perspective applied to the foundational skate silhouettes.The visual breakdown reveals multiple design iterations of the classic low-top model. The iconic black-and-white checkerboard canvas upper is updated with a contrasting house-shap",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "d16162fc3da5",
+      "title": "OG Anunoby's Skechers SKX Nexus \"NYC Blue\" PE Is Available for Pre-Order",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/6/og-anunoby-skechers-skx-nexus-nyc-blue-pe-available-pre-order-release-info",
+      "original_publish_time": "2026-06-19T05:26:56+00:00",
+      "scraped_time": "2026-06-20T08:15:59.229486+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Skechers"
+      ],
+      "keywords_matched": [
+        "footwear",
+        "midsole",
+        "outsole",
+        "sole",
+        "upper"
+      ],
+      "relevance_score": 7,
+      "summary": "SummarySkechers Basketball has revealed a custom player-exclusive iteration of the SKX Nexus for New York Knicks forward OG AnunobyThe performance low-top incorporates a vibrant royal blue and orange colorway inspired by traditional New York team colorsTechnical design elements highlight a lightweight mesh upper paired with 5GEN midsole cushioning and a Goodyear performance outsoleSkechers Basketball has officially introduced the custom SKX Nexus \"NYC Blue\" PE created exclusively for New York Knicks forward OG Anunoby. Spotlighting the brand's expanding presence on the professional hardwood, the player-exclusive model gained historic significance during the 2026 NBA Finals as Anunoby became the first athlete to win an NBA championship wearing the footwear brand.The low-top silhouette is sp",
       "ren_take": "",
       "image_url": ""
     },
