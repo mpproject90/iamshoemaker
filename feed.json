@@ -1,8 +1,28 @@
 {
-  "last_updated": "2026-06-20T08:27:00.908149+00:00",
-  "total_articles": 107,
+  "last_updated": "2026-06-20T12:42:14.867797+00:00",
+  "total_articles": 106,
   "sources_checked": 62,
   "articles": [
+    {
+      "id": "396a23d45a34",
+      "title": "Chupps Footwear Targets 50 Stores, Expands Footwear Portfolio",
+      "source_name": "Apparel Resources",
+      "source_domain": "apparelresources.com",
+      "source_url": "https://apparelresources.com/business-news/retail/chupps-footwear-targets-50-stores-expands-footwear-portfolio/",
+      "original_publish_time": "2026-06-20T11:08:27+00:00",
+      "scraped_time": "2026-06-20T12:35:02.023689+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "sandal"
+      ],
+      "relevance_score": 4,
+      "summary": "Chupps, a D2C footwear brand, is accelerating its retail expansion, targeting 40-50 stores over the next two years while expanding its product portfolio across sandals, home footwear, and functional comfort categories. The company has expanded beyond its initial men’s range and now offers footwear for women and children. It is also strengthening its presence in […] The post Chupps Footwear Targets 50 Stores, Expands Footwear Portfolio appeared first on Apparel Resources .",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "fee4283b50fc",
       "title": "PM Modi Shares Minister Giriraj Singh’s Article on Technical Textiles in Footwear Sector - Newsonair",
@@ -229,6 +249,28 @@
       ],
       "relevance_score": 5,
       "summary": "SummaryDSM Kei Ninomiya showcases a detailed look at its upcoming footwear collaboration with VansThe collection highlights modified Vans Slip-On models featuring custom branding and floral overlaysOfficial release dates and retail pricing details for the collaborative sneakers remain unconfirmedDSM Kei Ninomiya and Vans have officially revealed a closer look at their upcoming collaborative Vans Slip-On collection, which originally debuted during the brand's Pitti Uomo 110 runway presentation. The backstage images highlight a closer look at the avant-garde perspective applied to the foundational skate silhouettes.The visual breakdown reveals multiple design iterations of the classic low-top model. The iconic black-and-white checkerboard canvas upper is updated with a contrasting house-shap",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "e9899ded22a0",
+      "title": "Official Look at the Nike Mind 002 \"White/Vast Grey\"",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/6/nike-mind-002-white-vast-grey-hq4308-100-release-info",
+      "original_publish_time": "2026-06-19T06:05:07+00:00",
+      "scraped_time": "2026-06-20T12:26:33.444986+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "footwear",
+        "upper"
+      ],
+      "relevance_score": 4,
+      "summary": "Name: Nike Mind 002 \"White/Vast Grey\"Colorway: White/Vast Grey-Anthracite-Metallic SilverSKU: IW2026-110Retail Price: $145 USDRelease Date: July 23, 2026Where to Buy: NikeNike is officially expanding its groundbreaking neuroscience-driven footwear line with the introduction of the Nike Mind 002 \"White/Vast Grey.\" Reported by Sneaker Bar Detroit, the upcoming recovery sneaker brings a crisp, minimalist aesthetic to the highly sought-after silhouette, shifting away from earlier vibrant releases in favor of a versatile, everyday look.Engineered by Nike's Mind Science Department, the Mind 002 silhouette prioritizes both physical recovery and active sensory engagement. The upper is constructed from a clean white breathable mesh, establishing a streamlined, lightweight fit. Crisp \"Vast Grey\" and",
       "ren_take": "",
       "image_url": ""
     },
@@ -2126,70 +2168,6 @@
       "keywords_matched": [],
       "relevance_score": 4,
       "summary": "With the culture around optimizing wellness finally losing steam, Lab Series and Clarkson want to “Turn Your Routine Pro.”",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "a877a8bc2531",
-      "title": "Nike Basketball Unveils Kevin Durant's New KD 19 \"Candy Apple\"",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/6/nike-kd-19-candy-apple-ih1117-600-first-look-release-info",
-      "original_publish_time": "2026-06-13T10:28:53+00:00",
-      "scraped_time": "2026-06-14T08:35:22.455693+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "Name: Nike KD 19 \"Candy Apple\"Colorway: Candy Apple/University RedSKU: IO8209-600Retail Price: $155 USDRelease Date: June 17, 2026Where to Buy: NikeNike Basketball has officially unveiled the Nike KD 19 \"Candy Apple.\" Marking the nineteenth signature model for superstar Kevin Durant, the debut performance sneaker arrives in a vibrant tonal colorway built specifically for summer hooping and offseason style.The low-cut silhouette represents a clean design evolution for Durant’s signature line, leaning heavily into a sleek and futuristic aesthetic. Shifting away from layered traditional fabrics, the sneaker introduces a structured, single-piece molded upper that offers enhanced foot containment. The most prominent visual anchor is a dual-injection \"dagger\" line running along the lateral profi",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "498a8ecc0ae6",
-      "title": "Jordan Brand Infuses Chicago Bulls Heritage Into the Nike Cryoshot Mercurial Vapor 1",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/6/jordan-nike-cryoshot-university-red-io8209-600-first-look-release-info",
-      "original_publish_time": "2026-06-13T10:18:47+00:00",
-      "scraped_time": "2026-06-14T12:59:46.084599+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Nike",
-        "Jordan"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 5,
-      "summary": "Name: Jordan x Nike Cryoshot \"University Red\"Colorway: University Red/Deep Pewter-Metallic SilverSKU: IO8209-600Retail Price: $210 USDRelease Date: Summer 2026Where to Buy: NikeJordan Brand and Nike have officially teamed up to unveil the Jordan x Nike Cryoshot Mercurial Vapor 1 \"University Red.\" The high-profile hybrid silhouette marks the latest addition to Nike's expansive Cryoshot program, beautifully merging historic football boot aesthetics with classic basketball lineage ahead of the World Cup timeline.The performance-turned-lifestyle silhouette draws its primary design architecture from the iconic Nike Mercurial Vapor 1, famously worn by Ronaldo Nazário during Brazil's championship run in the 2002 World Cup. Shifting away from the boot's original synthetic build, this rendition ado",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "3a57bcf7d858",
-      "title": "Comfy New Balance Sneakers Are on Sale—Including a Podiatrist-approved Pair Travelers Easily Walk 20K Steps In - Travel + Leisure",
-      "source_name": "Google News - Sneaker Brand",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObjJzbzFfTzh3MF9POGNqUElIZWthV2hIZm9SN3c5bXJDb2dkN2daaE43cDlEWDhQZ1djZXNuaXhlaDRXdXp0WWtQZFB5ekcxRklkY3ZXQnQtc0tCaGRibzdyMzFFTzRBZlBZSUktQ2pnLXF3T1hLdDY1TkJiLWMwR1Z1bWdnRC1LNzBsQg?oc=5",
-      "original_publish_time": "2026-06-13T09:00:00+00:00",
-      "scraped_time": "2026-06-14T18:10:03.866890+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "New Balance"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 5,
-      "summary": "Comfy New Balance Sneakers Are on Sale—Including a Podiatrist-approved Pair Travelers Easily Walk 20K Steps In Travel + Leisure",
       "ren_take": "",
       "image_url": ""
     }
