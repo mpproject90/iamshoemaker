@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-20T18:19:10.882438+00:00",
-  "total_articles": 111,
+  "last_updated": "2026-06-21T00:22:32.992501+00:00",
+  "total_articles": 110,
   "sources_checked": 62,
   "articles": [
     {
@@ -2250,27 +2250,6 @@
       ],
       "relevance_score": 3,
       "summary": "The longtime fan was gifted Knicks-themed Bape Stas ahead of Game 5.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "abb9f9d177e6",
-      "title": "Touch Grass? CLOT’s adidas Samba Espadrille Sneaker Wears It Proudly",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/clot-adidas-samba-espadrille-sneakers/",
-      "original_publish_time": "2026-06-13T20:13:42+00:00",
-      "scraped_time": "2026-06-14T00:15:10.910001+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "CLOT debuts new adidas Samba Espadrille sneakers in three colorways, including a \"Grass Green\" pair inspired by the pitch.",
       "ren_take": "",
       "image_url": ""
     }
