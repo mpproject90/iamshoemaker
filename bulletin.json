@@ -1,6 +1,107 @@
 {
-  "last_updated": "2026-06-14T10:50:47.108600+00:00",
+  "last_updated": "2026-06-21T11:18:57.417870+00:00",
   "bulletins": [
+    {
+      "id": "wk25-2026",
+      "week_number": 25,
+      "year": 2026,
+      "date_from": "2026-06-15",
+      "date_to": "2026-06-21",
+      "published": "2026-06-21T11:18:57.417349+00:00",
+      "intro": "Week 25 brings a split screen: premium product innovation accelerating at the top of the market while structural stress fractures widen at the base. The India QCO extension and Alicante factory closures are not isolated events — they are pressure readings from the same system. Pay attention to both ends simultaneously.",
+      "articles": [
+        {
+          "title": "From Salomon to New Balance, the Seven Best Sneakers to Cop Right Now",
+          "source_name": "Highsnobiety",
+          "source_url": "https://www.highsnobiety.com/p/sneaker-releases-2026-june-week-3/",
+          "category": "Quality",
+          "relevance_score": 9,
+          "original_publish_time": "2026-06-17T11:18:52+00:00",
+          "misaki_take": "The continued collision of trail-running construction with lifestyle silhouettes — Salomon mules, MM6 crossovers — signals that technical upper complexity is now a brand equity driver, not a cost center to manage down. Factories without the capability to execute bonded overlays, TPU caging, and hybrid outsole assemblies at speed are quietly being screened out of these conversations."
+        },
+        {
+          "title": "Nike Mashes Up the Original Mercurial Soccer Boot With One of Its Contemporary Premium Running Shoes",
+          "source_name": "Footwear News",
+          "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-atelier-merc-premium-release-date-1239010669/",
+          "category": "Retail",
+          "relevance_score": 8,
+          "original_publish_time": "2026-06-15T15:24:20+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "OG Anunoby's Skechers SKX Nexus \"NYC Blue\" PE Is Available for Pre-Order",
+          "source_name": "Hypebeast",
+          "source_url": "https://hypebeast.com/2026/6/og-anunoby-skechers-skx-nexus-nyc-blue-pe-available-pre-order-release-info",
+          "category": "Brand News",
+          "relevance_score": 7,
+          "original_publish_time": "2026-06-19T05:26:56+00:00",
+          "misaki_take": "Skechers putting a Goodyear outsole on a basketball PE is a deliberate credibility statement aimed at performance buyers who have historically dismissed the brand — this is brand architecture work, not just a colorway drop. The Knicks placement is surgical; NYC retail visibility for a PE drives disproportionate trade press coverage relative to the actual unit volume, which keeps the SKX Nexus story alive heading into back-to-school."
+        },
+        {
+          "title": "Global Football Shoes Market to Reach USD 50.2 Billion by 2035, Expanding at 7.0% CAGR Amid Rising Youth Participation, AI-Driven Customization, and Premium Footwear Innovation:Fact.MR - 24-7 Press Release Newswire",
+          "source_name": "Google News - Footwear Industry",
+          "source_url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQdHRPLTJ3X0hNbkViazlPV0NQQmZMc0o4SEZ6N2ZnRWJpcUR0VE1XemNHU21Ma3hHU1NYOXFqSFBYdDNIaDhXaXlJV3lQOEc3cUVXVmZaT3Bvc3llMWdWQ0lSdTZIUDhzUkRyc1BkRHFFbkprZjJQNnRNMUVPTnhXcmdKLVM1SUpnTS1LbHQ5TjJCQUtaNEJ3Z3BoZ3lGRHZzYm1rc05vQ0pwMjJVOUhsZlVsSDM5aVBSaE4tNG1xNDQyU3BRZkoxZmxJS0NKck1ITmJVWDBvM2xKN1dHblRYRVVYUm9wNURORDlnZENEcjdwc21rRmNRa09Hd2N2ZklzNEZtZUpQakRaQ3ZzZEZOQmhMOFU2WThfR2lYZFJGZ2U2NFQyc0t3aFZyNHR5Wk9jUk5TYUlBMk5OOWVIQmFpRkNsNXNXVzBTSVA1aDNsUQ?oc=5",
+          "category": "Retail",
+          "relevance_score": 6,
+          "original_publish_time": "2026-06-20T07:05:16+00:00",
+          "misaki_take": "A 7.0% CAGR over nine years is a defensible projection given youth participation trends in South and Southeast Asia, but the AI-driven customization narrative consistently overstates near-term manufacturing readiness at FOB-competitive price points. The real capacity question is whether Vietnamese and Indonesian football boot factories can absorb both volume growth and the SKU proliferation that mass customization demands without margin erosion."
+        },
+        {
+          "title": "Our Inside Look at the Ultimate Sneaker Archive and World Cup Boot Test Inside New Balance HQ",
+          "source_name": "Hypebeast",
+          "source_url": "https://hypebeast.com/2026/6/inside-look-of-new-balance-hq-soccer-sneakers-innovation",
+          "category": "Supply Chain",
+          "relevance_score": 6,
+          "original_publish_time": "2026-06-19T17:18:00+00:00",
+          "misaki_take": "New Balance's Boston campus access strategy is deliberate brand journalism that reinforces the narrative of an American brand with genuine athletic credibility — ahead of what will be enormous 2026 World Cup commercial exposure on home soil. The sourcing implication is that New Balance will face acute allocation pressure across its football boot supply chain in H2 2026, and brands sharing those same Vietnamese factories should be scenario-planning now."
+        },
+        {
+          "title": "Nike and Zellerfeld Unveil the Air Max 1000.2 \"Black/Pink Spell\"",
+          "source_name": "Hypebeast",
+          "source_url": "https://hypebeast.com/2026/6/zellerfeld-nike-air-max-1000-2-pink-spell-first-look-release-info",
+          "category": "Manufacturing",
+          "relevance_score": 6,
+          "original_publish_time": "2026-06-18T20:27:22+00:00",
+          "misaki_take": "The refinement of lugs to accelerate production speeds is the detail worth tracking — it indicates Nike and Zellerfeld are actively engineering out the cycle-time bottlenecks that have kept 3D-printed footwear commercially marginal. When a second-generation iteration is already optimizing for throughput rather than aesthetics, the program has moved from proof-of-concept to genuine supply chain alternative testing."
+        },
+        {
+          "title": "Can't Find Paraboot's Rare French Shoes? Try This Gun Store",
+          "source_name": "Highsnobiety",
+          "source_url": "https://www.highsnobiety.com/p/paraboot-beretta-gallery/",
+          "category": "Retail",
+          "relevance_score": 6,
+          "original_publish_time": "2026-06-18T19:13:24+00:00",
+          "misaki_take": "Paraboot's distribution scarcity in the US market is not accidental — it is a deliberate strategy that protects FOB pricing integrity and brand positioning by keeping volume out of channels that would compress margin or commoditize the product. The Beretta Gallery placement is almost absurdly on-brand for a workwear-heritage product: both categories sell craft, durability, and American associations with French or European provenance to a buyer who is not price-sensitive."
+        },
+        {
+          "title": "The footwear industry is demanding an urgent plan in response to company closures and job losses. - Diario de Alicante",
+          "source_name": "Google News - Footwear Industry",
+          "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOXN0UjhZTzgwYk9wM0lWcU9rVXdldGJ1ZFVjTHFZUU1ZLTlscThqR0dvMWVyelByWmFQWVM4QmN4eGRkN0gyVTVjb0wtRE1VZkJfVVVmcmJIQ2JGODNLN2RBci02UDZ6dlZVQXhRb0RMUE5zdzk5N3JKcVB4Y0M5TjhlVzd0azBmckNPeUpSZnlRenFNZnlxbE9Md2xQQXk5OHh4UC1B?oc=5",
+          "category": "Retail",
+          "relevance_score": 6,
+          "original_publish_time": "2026-06-18T12:12:08+00:00",
+          "misaki_take": "The Alicante cluster — historically a mid-tier volume producer of cemented construction dress and casual footwear — has been losing ground to Asian FOB pricing for over a decade, and what we are seeing now is the terminal phase of that structural adjustment accelerated by weak European consumer demand. Any brand still sourcing from Spanish factories for price rather than provenance storytelling needs to have continuity sourcing identified; the closures will not slow down waiting for a government response plan."
+        },
+        {
+          "title": "Footwear industry is backbone of India’s economy: Union Minister Giriraj Singh - Newsonair",
+          "source_name": "Google News - Footwear Industry",
+          "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ29UaXZQZHFWUm1nX2FHV3h5VGlhdFRaX01vcllPcGc2bU5fRFdmR282RjQ1ZnkyTE9Ic0drOHQ2SjM3NkI5ZFI3eEZsRHUyaTI0LW15clpXMnJYcS15QmN6Qy0xR1NEbVd0QVp6b0taVXVkZXVYNUxsdHdlX2JFUGtKLUFXenJ6eVdxU1I5NF9ud2tPVTFLM3hwbmNZdHl4cFFZdQ?oc=5",
+          "category": "Sustainability",
+          "relevance_score": 6,
+          "original_publish_time": "2026-06-17T21:08:38+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "Footwear industry gets relief as Centre extends Quality Control Order deadline to July 2027 - The Tribune",
+          "source_name": "Google News - Footwear Industry",
+          "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNel9xcXY3NjBTaUNwZ1h5TWNlTTVHejQzTS14QkFONUlWU0daRWlGaERaSkxRZDI4RHZFV3pCamNyYXEwa1Nxa00yZ0NKNWZnSWh4OHZQenpsR0FVTDhQUTY5WXZ1c2pKT2prU3ZlWU84TEVHUWFZZmU4VE5oZFhkZ0prRnB5cE9tYXBndEdBNFQzMnVMRi0wRGdqNHlGa3JMdE1FQ1NOR3lOWFNMcGZxZXZjVTBPV1BqaFc4eE54Y1NSbnlKdXNISXd5SmNIMXkt0gHUAUFVX3lxTFB5YjhMbUdkNWlEejVhTEV3eG94TEkyY3lMTWEzRVczLWkzX0F5ckY5QWJCVGdTSXQ2b2NWX3lwVlNhSTJ1TmVIRVVPaW9CTF8wMWJocS1sWHVkN3VXNkZpWEVINF9zQmNvUktXRFpVcTZYTzRGbVY4TkRleVo4Zl9kSWFHdEFkcWNjZUNPRVJJOTdrdDVPakxYNWlyNDA5Z1NaZnpRU0RJRTN4MkctZmhIZDd5b2R1Vm9rUmhOdllRczdEb2s1Yjl3OUJMWFRMTkp2NG9F?oc=5",
+          "category": "Quality",
+          "relevance_score": 6,
+          "original_publish_time": "2026-06-16T07:04:03+00:00",
+          "misaki_take": "The extension to July 2027 is the second or third such deferral depending on how you count the previous phase-ins, and each one signals that the BIS certification infrastructure — lab capacity, testing turnaround, auditor availability — cannot yet handle the volume of SKUs the industry needs to certify at commercially viable speed. Brands sourcing finished footwear from India for domestic market sale should use this window to get ahead of the queue, because the July 2027 deadline will create a certification bottleneck regardless of whether it holds."
+        }
+      ]
+    },
     {
       "id": "wk24-2026",
       "week_number": 24,
