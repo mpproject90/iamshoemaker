@@ -1,8 +1,69 @@
 {
-  "last_updated": "2026-06-21T13:17:47.405052+00:00",
+  "last_updated": "2026-06-21T18:28:02.368048+00:00",
   "total_articles": 111,
-  "sources_checked": 62,
+  "sources_checked": 60,
   "articles": [
+    {
+      "id": "aa67688e55b9",
+      "title": "The Air Jordan 1 Low Looks To Autumn In “Legend Medium Brown”",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/06/21/air-jordan-1-low-legend-medium-brown-chalk-light-british-tan-dc0774-205/",
+      "original_publish_time": "2026-06-21T18:00:33+00:00",
+      "scraped_time": "2026-06-21T18:17:15.307074+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Jordan"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "The sneaker world’s lag between first looks and actual releases means we’re often operating a season or two ahead, unpacking shoes that don’t quite match... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Air Jordan 1 Low Looks To Autumn In \"Legend Medium Brown\" appeared first on Sneaker News . The post The Air Jordan 1 Low Looks To Autumn In “Legend Medium Brown” appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "26e60642858e",
+      "title": "Pharrell’s New Louis Vuitton Sneakers Are Being Compared to Vans — and Even the Skate Brand Is Chiming In",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/pharrell-williams-louis-vuitton-combi-vans-1239021158/",
+      "original_publish_time": "2026-06-21T17:32:27+00:00",
+      "scraped_time": "2026-06-21T18:16:53.179276+00:00",
+      "time_delta_mins": 0,
+      "category": "Quality",
+      "brands_mentioned": [
+        "Vans"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "Here's what Vans had to say about the comparisons.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "17a489ec96f7",
+      "title": "Top Spring 2027 Men’s Footwear Trends Unveiled at Pitti Uomo",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-trends/pitti-uomo-spring-2027-mens-footwear-trends-1239020068/",
+      "original_publish_time": "2026-06-21T16:15:32+00:00",
+      "scraped_time": "2026-06-21T18:16:53.182020+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Brands put comfort at their core with premium materials, new technologies and innovative designs.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "2d9c2a7b539c",
       "title": "adidas Brings Closed Soles To The Climacool Laced",
@@ -2213,64 +2274,6 @@
       ],
       "relevance_score": 3,
       "summary": "New Balance's \"Sea Salt\" 204L sneaker lands as a clean, well-seasoned take on the low-soled model. Here's everything on the release.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "5152d7ffd267",
-      "title": "A Ton of Rare New York Knicks-Themed Sneakers Are up for Grabs for Only $5 Each",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/new-york-knicks-championship-sneaker-raffle-flight-club-1239010067/",
-      "original_publish_time": "2026-06-14T18:00:25+00:00",
-      "scraped_time": "2026-06-14T18:09:40.572737+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "Sign-ups for the drawings are open now through Wednesday.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "b1e12b7ce31d",
-      "title": "Jordan 5 “Black Carolina,” Nike Cryoshot, And This Week’s Best Releases",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/06/14/sneaker-releases-june-14-june-20-2026/",
-      "original_publish_time": "2026-06-14T16:00:46+00:00",
-      "scraped_time": "2026-06-15T00:15:26.086850+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike",
-        "Jordan"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 4,
-      "summary": "If you’re retro-focused or a fan of innovation, you’ve got quite the one-two combo ahead of you. For the former, the Air Jordan 5 “Black... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Jordan 5 \"Black Carolina,\" Nike Cryoshot, And This Week's Best Releases appeared first on Sneaker News . The post Jordan 5 “Black Carolina,” Nike Cryoshot, And This Week’s Best Releases appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "e6c9fcd007ec",
-      "title": "Timothée Chalamet Wore Exclusive Knicks Sneakers for New York’s Historic Championship Win",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/timothee-chalamet-bape-sta-new-york-knicks-game-5-1239010009/",
-      "original_publish_time": "2026-06-14T15:31:42+00:00",
-      "scraped_time": "2026-06-14T18:09:40.575355+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "The longtime fan was gifted Knicks-themed Bape Stas ahead of Game 5.",
       "ren_take": "",
       "image_url": ""
     }
