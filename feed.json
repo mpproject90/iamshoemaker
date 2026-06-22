@@ -1,8 +1,67 @@
 {
-  "last_updated": "2026-06-22T10:41:36.946450+00:00",
-  "total_articles": 111,
-  "sources_checked": 60,
+  "last_updated": "2026-06-22T16:03:10.497295+00:00",
+  "total_articles": 110,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "8fb85b83867e",
+      "title": "Beaded Sandals Take the Season’s Maximalism Up a Notch",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-trends/beaded-sandal-trend-summer-1239021725/",
+      "original_publish_time": "2026-06-22T13:58:03+00:00",
+      "scraped_time": "2026-06-22T15:52:11.986102+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sandal"
+      ],
+      "relevance_score": 3,
+      "summary": "Step aside, jelly sandals: another playful, nostalgic shoe is defining summer dressing.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "aa390074184d",
+      "title": "This Vans Collection Makes Sneakers an Art Form",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/this-vans-collection-makes-sneakers-an-art-form/",
+      "original_publish_time": "2026-06-22T11:42:20+00:00",
+      "scraped_time": "2026-06-22T15:55:56.105769+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Vans"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "Legendary skate brand Vans and e-retailer Zalando have joined forces for a collaboration featuring new styles worn by three artists pushing the boundaries of their craft.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "3538dfd4604d",
+      "title": "Menstrual health: A missing link in  fashion supply chains",
+      "source_name": "Just Style",
+      "source_domain": "just-style.com",
+      "source_url": "https://www.just-style.com/interviews/menstrual-health-a-missing-link-in-fashion-supply-chains/",
+      "original_publish_time": "2026-06-22T10:51:01+00:00",
+      "scraped_time": "2026-06-22T15:52:12.075411+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "fashion supply chain"
+      ],
+      "relevance_score": 3,
+      "summary": "Just Style speaks to drip by drip about tackling menstrual health in fashion's supply chain, starting with a pilot scheme in Bangladesh.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "1a4feef3b7a9",
       "title": "This Yellow Plaid Nike Air Force 1 Low Brings Cher’s Iconic Outfit to Your Feet",
@@ -2194,87 +2253,6 @@
       ],
       "relevance_score": 3,
       "summary": "Nike's Air Max 95 \"Total Orange\" sneakers lands as another spicy take on the classic model. Call it the \"Hot Curry\" 2.0s, even.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "6c7cd82d7eda",
-      "title": "Nike Mashes Up the Original Mercurial Soccer Boot With One of Its Contemporary Premium Running Shoes",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-atelier-merc-premium-release-date-1239010669/",
-      "original_publish_time": "2026-06-15T15:24:20+00:00",
-      "scraped_time": "2026-06-15T16:17:56.248023+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "boot",
-        "shoes"
-      ],
-      "relevance_score": 8,
-      "summary": "Releasing as part of a larger Atelier collection.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "7349bb6bfdac",
-      "title": "Footwear globale in trasformazione, tra spin-off e crescita selettiva - HUB Style",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNFhTcWdCY2pLcnZ1Vl9XRUtyTTdHa2lZOEZtUGpKN0tQNTBCOU1zSERPSU5GWkllTF9ZbjVtZk9PYXBTdXplbWcxQ2NtQ1dZSHNSdlJ2S0lzNWx2U2Z5VmZGQ182a1BWX1YtZXlBbmM4NGRybV9kaXplbElRaGNybFE2TE42SzFzazVLY2NUT2ZlOC1zWG1lb1duLXktR29TUURfbV9UVFlXekhWZU1CTWNScjBvakhvVWtBVVc1Yk1IdWE5U2c?oc=5",
-      "original_publish_time": "2026-06-15T15:23:53+00:00",
-      "scraped_time": "2026-06-17T09:24:31.203449+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Footwear globale in trasformazione, tra spin-off e crescita selettiva HUB Style",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "045d51bc1064",
-      "title": "The Vans Fall 2026 Campaign? Likely Place for Feng To Be",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/6/feng-vans-off-the-wall-fall-2026-campaign-interview",
-      "original_publish_time": "2026-06-15T15:04:10+00:00",
-      "scraped_time": "2026-06-15T16:18:07.746489+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Vans"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "If you've ever seen a Feng music video – or, honestly, so much so merely follow the budding UK underground rapper on Instagram – you know how much he loves his Vans.Despite hailing from South London, thousands of miles removed from Vans' Southern California birthplace, Feng rarely finds himself without a pair of Authentics, Old Skools, or Classic Slip-Ons on his feet, the footwear imprint a staple of his \"positive punk\" personal style palette. Fresh off his highly Cali-coded Weekend Rockstar album, and even fresher off his stateside Summer Smash performance – which he obviously handled whilst donning a pair of purple Authentics – the latest place the rapper is rocking his messy bun, tie-dye tee, and arm full of festival wristbands is in the Vans Fall 2026 lookbook.The carefree, honorary Ca",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "b32091a9dd3f",
-      "title": "Textile Exports Grow 2.47% in May 2026 as Apparel Exports Fall 14.17%",
-      "source_name": "Apparel Resources",
-      "source_domain": "apparelresources.com",
-      "source_url": "https://apparelresources.com/business-news/trade-business-news/textile-exports-grow-2-47-may-2026-apparel-exports-fall-14-17/",
-      "original_publish_time": "2026-06-15T13:27:10+00:00",
-      "scraped_time": "2026-06-15T16:21:57.722457+00:00",
-      "time_delta_mins": 0,
-      "category": "Trade Data",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "apparel exports"
-      ],
-      "relevance_score": 3,
-      "summary": "Indian textile exports registered a growth of 3.03% during April-May 2026 over the corresponding period of the previous year, while apparel exports registered a degrowth of 12.98% during the same period. Cumulative exports of textiles and apparel during April-May 2026 registered a degrowth of 4.44% compared with April-May 2025, according to a CITI analysis of […] The post Textile Exports Grow 2.47% in May 2026 as Apparel Exports Fall 14.17% appeared first on Apparel Resources .",
       "ren_take": "",
       "image_url": ""
     }
