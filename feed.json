@@ -1,8 +1,92 @@
 {
-  "last_updated": "2026-06-22T16:03:10.497295+00:00",
-  "total_articles": 110,
+  "last_updated": "2026-06-22T20:18:38.891578+00:00",
+  "total_articles": 111,
   "sources_checked": 61,
   "articles": [
+    {
+      "id": "5162bcf05704",
+      "title": "Jordan’s Elderly Everyday Mule Is from the Future",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/jordan-future-mule/",
+      "original_publish_time": "2026-06-22T19:37:05+00:00",
+      "scraped_time": "2026-06-22T20:11:28.118268+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Jordan"
+      ],
+      "keywords_matched": [
+        "sole"
+      ],
+      "relevance_score": 3,
+      "summary": "The Jordan Future Mule makes its debut as the brand's all-new slip-on model featuring sneaker-coded soles & plenty of elderly swag.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "5d51bf15760e",
+      "title": "Messi Becomes World Cup’s All-time Leading Scorer in Signature Adidas Boot",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/messi-world-cup-goal-record-adidas-boots-1239023267/",
+      "original_publish_time": "2026-06-22T19:00:46+00:00",
+      "scraped_time": "2026-06-22T20:07:28.709798+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 5,
+      "summary": "The style is dubbed the El Último Tango.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "4e2a49dd8e8f",
+      "title": "Nike Mashes Up Ronaldo’s Most Iconic Soccer Boot With the Air Max 95",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-air-max-joga-bonito-release-date-ix8646-001-1239022449/",
+      "original_publish_time": "2026-06-22T18:10:51+00:00",
+      "scraped_time": "2026-06-22T20:07:28.712625+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 5,
+      "summary": "The Mercurial R9 and Air Max 95 join forces to become the Air Max Joga Bonito R9.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "fa4e008a7701",
+      "title": "This Air Jordan 1 Low Takes Inspiration From Tennis Balls",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/06/22/air-jordan-1-low-avalanche-lime-anthracite-iv6501-337/",
+      "original_publish_time": "2026-06-22T17:00:29+00:00",
+      "scraped_time": "2026-06-22T20:07:40.394519+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Jordan"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Jordan Brand doesn’t shy away from meeting big sporting events with special footwear, whether that’s basketball (duh), soccer, golf, or for our purposes, tennis. With... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post This Air Jordan 1 Low Takes Inspiration From Tennis Balls appeared first on Sneaker News . The post This Air Jordan 1 Low Takes Inspiration From Tennis Balls appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "8fb85b83867e",
       "title": "Beaded Sandals Take the Season’s Maximalism Up a Notch",
@@ -2188,71 +2272,6 @@
       ],
       "relevance_score": 3,
       "summary": "SummaryNike has introduced a brand-new customizable sneaker program titled the Air Force 1 Low By NYCThe localized option allows creators to modify various components including the labels laces and dubraesThe customizable footwear model is currently available through official online channelsNike has officially launched its highly anticipated \"Air Force 1 Low By NYC\" customizable sneaker program. The fresh digital roll-out updates the brand's iconic low-top basketball silhouette, granting creators full access to localized design details that pay direct homage to New York City's street and sporting culture.Nike has officially launched its highly anticipated \"Air Force 1 Low By NYC\" customizable sneaker program. Reported by Victor Deng for Complex, the fresh digital roll-out updates the brand",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "73d3fc0019d1",
-      "title": "Mike Ashley’s Frasers Group Eyes Footwear Expansion Down Under Via Takeover Bid",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/mike-ashley-frasers-group-takeover-accent-group-footwear-1239010845/",
-      "original_publish_time": "2026-06-15T19:00:43+00:00",
-      "scraped_time": "2026-06-15T20:22:55.848050+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Skechers",
-        "Hoka",
-        "Vans"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 6,
-      "summary": "The company is eyeing an acquisition of Australian shoe retailer and wholesaler Accent, a distributor for Hoka, Skechers, Vans and others.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "61f67cabb216",
-      "title": "Behind Every Great Athlete is... Skechers?",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/skechers-sportswear-trend/",
-      "original_publish_time": "2026-06-15T18:49:57+00:00",
-      "scraped_time": "2026-06-15T20:26:53.648172+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Skechers"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "Skechers' push into sportswear manifested in Knicks star OG Anunoby's 2026 NBA Playoffs sneakers. Willits winning streak continue at the World Cup?",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "f5edf42a6b43",
-      "title": "Nike’s Saucy Air Max Is as Hot as Curry",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-air-max-95-black-total-orange/",
-      "original_publish_time": "2026-06-15T17:47:17+00:00",
-      "scraped_time": "2026-06-15T20:26:53.648999+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "Nike's Air Max 95 \"Total Orange\" sneakers lands as another spicy take on the classic model. Call it the \"Hot Curry\" 2.0s, even.",
       "ren_take": "",
       "image_url": ""
     }
