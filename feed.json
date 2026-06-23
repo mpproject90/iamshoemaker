@@ -1,8 +1,111 @@
 {
-  "last_updated": "2026-06-23T08:33:34.573513+00:00",
-  "total_articles": 107,
-  "sources_checked": 61,
+  "last_updated": "2026-06-23T13:54:06.238011+00:00",
+  "total_articles": 108,
+  "sources_checked": 62,
   "articles": [
+    {
+      "id": "8f4eebeb8364",
+      "title": "EU footwear imports generate over 1.2 million tonnes of potential waste each year - FashionNetwork France",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOXzQ5ZTR0N0pBTjZfcjh2d2hhbEhsak93UUROYnhIZTMwLVJycE5ud01zdE81MWd3Y293Z3FrNjBRODl1bkJUaEhiUG9VcHRuSlI1MC12VzJtWlBNX3Q1VndXVGFmWFJpOHdSMC1JM0x6UkxpTm92emdQalVOWmw4OUV1WDk2bEZYa1FWR081Y1loMk5KS2pUV0EyNlVISkUweUpLZThhOGZXbEtaNHByb1NSaEdlc2xyaVlUa3c2VU9Dd1U5Q2tQOA?oc=5",
+      "original_publish_time": "2026-06-23T11:51:47+00:00",
+      "scraped_time": "2026-06-23T13:43:27.903096+00:00",
+      "time_delta_mins": 0,
+      "category": "Trade Data",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "footwear imports"
+      ],
+      "relevance_score": 6,
+      "summary": "EU footwear imports generate over 1.2 million tonnes of potential waste each year FashionNetwork France",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "ac81addaa257",
+      "title": "What Starmer stepping down means for fashion supply chains",
+      "source_name": "Just Style",
+      "source_domain": "just-style.com",
+      "source_url": "https://www.just-style.com/news/what-starmer-stepping-down-means-for-fashion-supply-chains/",
+      "original_publish_time": "2026-06-23T08:58:28+00:00",
+      "scraped_time": "2026-06-23T13:43:05.425792+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "fashion supply chain"
+      ],
+      "relevance_score": 3,
+      "summary": "Following Starmer’s resignation, industry experts reveal the implications of a UK political transition for fashion supply chains.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "5bed5d84dc4e",
+      "title": "Nike's Air Force 1 Low \"Patent Denim\" Seals Coastal Blue Denim Beneath a Glossy Finish",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/6/nike-air-force-1-low-patent-denim-im5757-400-official-images",
+      "original_publish_time": "2026-06-23T08:45:02+00:00",
+      "scraped_time": "2026-06-23T13:43:16.602766+00:00",
+      "time_delta_mins": 0,
+      "category": "Quality",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "Name: Nike Air Force 1 Low “Patent Denim”Colorway: Coastal Blue/Natural-Flax-Coastal BlueSKU: IM5757-400MSRP: TBCRelease Date: Summer 2026Nike is set to release the Air Force 1 Low \"Patent Denim,\" applying a glossy patent finish over a Coastal Blue denim upper in a construction that keeps the fabric's weave and tonal variation visible beneath the gloss.The material logic here is the central point of interest. Rather than replacing denim with patent leather or treating them as separate design elements, the \"Patent Denim\" build layers the gloss directly over the fabric, allowing the denim's natural weave and the darker shading around the heel and side panels to show through. The result reads differently from a standard patent leather AF1 because the surface has tonal variation built into it,",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "364d6031f78b",
+      "title": "Nike's Total 90 \"White/Black\" Lets the Football Stitch Pattern Speak for Itself",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/6/nike-total-90-white-black-io2388-100-official-images",
+      "original_publish_time": "2026-06-23T08:45:00+00:00",
+      "scraped_time": "2026-06-23T13:43:16.604409+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sole",
+        "upper"
+      ],
+      "relevance_score": 4,
+      "summary": "Name: Nike Total 90 “White/Black”Colorway: TBCSKU: IO2388-100MSRP: TBCRelease Date: TBCNike is reportedly set to release the Total 90 \"White/Black,\" bringing the pack's all-over hexagonal quilted leather upper to its most stripped-back colorway. The “White/Black” build retains the asymmetrical lacing and flat rubber sole of the lifestyle Total 90 series, while the clean two-tone finish gives the shoe's soccer ball-mimicking stitch pattern its clearest canvasThe construction concept driving the Soccer Ball pack is arguably easier to read on the model than on any other colorway in the lineup. Where the “Pink Rise” edition wraps the hexagonal quilting in a single saturated shade that foregrounds color as much as texture, the White/Black build uses contrast to trace the stitch pattern's geomet",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "f333d2d2f6e6",
+      "title": "Nike’s Latest Game-Ready AF1 Just Made Accessorizing a Sport",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-air-force-1-game-day/",
+      "original_publish_time": "2026-06-23T08:26:24+00:00",
+      "scraped_time": "2026-06-23T13:46:43.223059+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "Nike Air Force 1 '07 \"Game Day\" features a crisp leather upper, clip-on charms for personal style, and classic cushioning.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "a3b8f0368f11",
       "title": "Hideo Kojima Reveals Xbox Was the Only Platform Bold Enough to Back ‘OD’",
@@ -2111,89 +2214,6 @@
       "keywords_matched": [],
       "relevance_score": 4,
       "summary": "Taking after Just Don's Chanel-inspired Air Jordan 2 from 2015.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "4d0d3577a2ad",
-      "title": "The MM6 Maison Margiela x Salomon XT-4 MULE Drops in Two New Colorways",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/6/mm6-maison-margiela-salomon-xt-4-mule-vanilla-ice-sh1ws0017-hb425-black-sh1ws0017-hb424-release-info",
-      "original_publish_time": "2026-06-16T12:46:22+00:00",
-      "scraped_time": "2026-06-16T15:54:57.543212+00:00",
-      "time_delta_mins": 0,
-      "category": "Quality",
-      "brands_mentioned": [
-        "Salomon"
-      ],
-      "keywords_matched": [
-        "midsole",
-        "outsole",
-        "sole"
-      ],
-      "relevance_score": 5,
-      "summary": "Name: MM6 Maison Margiela x Salomon XT-4 MULEColorway: “Vanilla Ice,\" \"Black”SKU: SH1WS0017 HB425, SH1WS0017 HB424MSRP: €360 EUR (approx. $417 USD)Release Date: June 18Where to Buy: Maison MargielaMM6 Maison Margiela and Salomon continue their collaborative exploration of performance and fashion with the XT‑4 MULE, a reinterpretation of Salomon’s trail icon into a summer‑ready, open‑heeled silhouette.Arriving in “Vanilla Ice” and “Black,” the release transforms the recognizable XT‑4 OG sneaker into a slip‑on mule, maintaining its agile Chassis skeleton for stability, EnergyCell midsole cushioning, and Mud Contagrip outsole with chevron lugs for traction. Both colorways emphasize versatility: \"Vanilla Ice\" delivers a light, tonal palette with subtle vibrancy, while \"Black\" opts for a stealt",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "ad69ada51deb",
-      "title": "Centre Extends Footwear QCO Deadline by One Year, Allows Limited Imports for R&D",
-      "source_name": "Apparel Resources",
-      "source_domain": "apparelresources.com",
-      "source_url": "https://apparelresources.com/business-news/policy/centre-extends-footwear-qco-deadline-one-year-allows-limited-imports-rd/",
-      "original_publish_time": "2026-06-16T10:15:57+00:00",
-      "scraped_time": "2026-06-16T15:58:40.293353+00:00",
-      "time_delta_mins": 0,
-      "category": "Quality",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "footwear industry"
-      ],
-      "relevance_score": 4,
-      "summary": "The Central Government has extended by one year the implementation deadline for the Quality Control Order (QCO) covering footwear made from leather and other materials, while also introducing a special exemption permitting limited imports for research and development (R&D) and other non-commercial purposes. The move is expected to provide relief to the footwear industry by […] The post Centre Extends Footwear QCO Deadline by One Year, Allows Limited Imports for R&D appeared first on Apparel Resources .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "15bd03005533",
-      "title": "adidas and The Better Generation Tap Creative Andu for the \"Grassroots\" Predator Sala",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/6/adidas-the-better-generation-andu-grassroots-predator-sala-kz8749-release-info",
-      "original_publish_time": "2026-06-16T09:38:58+00:00",
-      "scraped_time": "2026-06-16T10:00:30.290494+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 4,
-      "summary": "Name: The Better Generation x adidas “Grassroots” Predator SalaColorway: TBCSKU: KZ8749MSRP: $135 - $299 USDRelease Date: June 20Where to Buy: The Better Generationadidas has partnered up with Andu and Houston-based lifestyle boutique and cultural hub, The Better Generation, to present a collaborative sneaker that blends gootball culture, community storytelling and local creativity: the “Grassroots” Predator Sala.The sneaker’s carefully curated, multi-textured upper charts a deliberate narrative of growth, beginning at the forefoot with an earthy brown leather hue that references the grit, struggle and foundation of any creative pursuit. This is paired with textured green laces that reinforce the grassroots theme, while the low-profile construction is grounded by a durable, flat gum rubber",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "a7d9a34fb0f0",
-      "title": "One more year to non-leather footwear sector to comply with mandatory quality control order - Deccan Herald",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPT2dRUjVuRUhlTnBqTlpBcF81X01EVU1VOUlzWlozVGRyOEVfbTVOTW9KYWJZajI5bmU2Q1pmdl8tNFhBc21Oa3Q0LUxJbTNOblg3R2R5eWRST2FnT1hmT1ZDTG9HSXNDbHJlUUlpM19GOE94Wk9GM0RyQ1hBUWFVTG8zXzgzcGJMSVdZajZsS0Q2STdVRkVTRVF4M3I3QXJJUC1kUFI4MVhLQXZQeDZoVWdqX01meXJCWTFuSTI3OEJnMTdzd3FhazhGaENadnFReGg0?oc=5",
-      "original_publish_time": "2026-06-16T09:28:51+00:00",
-      "scraped_time": "2026-06-16T10:00:41.790978+00:00",
-      "time_delta_mins": 0,
-      "category": "Quality",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "One more year to non-leather footwear sector to comply with mandatory quality control order Deccan Herald",
       "ren_take": "",
       "image_url": ""
     }
