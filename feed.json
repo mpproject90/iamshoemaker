@@ -1,8 +1,48 @@
 {
-  "last_updated": "2026-06-22T20:18:38.891578+00:00",
-  "total_articles": 111,
+  "last_updated": "2026-06-23T00:21:52.874006+00:00",
+  "total_articles": 109,
   "sources_checked": 61,
   "articles": [
+    {
+      "id": "8dbf214681cd",
+      "title": "Amir Pourirani from BASF Performance Materials: the industry is moving to a system-design mindset - World Footwear",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbERHY1Fpdmsybk9aMnJUelVyTTN6LS1UWUtrQW16WTY2TTlYLWNhZ0J2UjNHcXRHcTFySWhORUtfc1lMN1ZET1V2SGtlclREQ05xakg2WFVFQVpTb0g5MGl1blVVR1hBbU95dXpBX3BvaWRKeGZXMmFLQk5ZSnlJdE1vaFhvbVdtbWJzaWhLUDlmelFtZ0V0enRuVDVxa3gyWGhhMVZpYzQ3dFNZcWNrOGpzV1Q4TGVXTHBHRG5XaFQyZ3JEcE43azZ3ODNxbmV0SllRYlZyWC0?oc=5",
+      "original_publish_time": "2026-06-22T23:03:45+00:00",
+      "scraped_time": "2026-06-23T00:11:19.066510+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Amir Pourirani from BASF Performance Materials: the industry is moving to a system-design mindset World Footwear",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "7de15ed22b75",
+      "title": "Vans Preps For Paris Fashion Week With Three F&F Collabs",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/06/22/vans-slip-on-paris-fashion-week-friends-and-family/",
+      "original_publish_time": "2026-06-22T21:30:06+00:00",
+      "scraped_time": "2026-06-23T00:11:08.269945+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Vans"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "Paris Fashion Week has increasingly picked up intensity as a can’t-miss event in the world of sneakers. What was once exclusively the territory of the... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Vans Preps For Paris Fashion Week With Three F&F Collabs appeared first on Sneaker News . The post Vans Preps For Paris Fashion Week With Three F&F Collabs appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "5162bcf05704",
       "title": "Jordan’s Elderly Everyday Mule Is from the Future",
@@ -391,6 +431,26 @@
       ],
       "relevance_score": 3,
       "summary": "SummaryASICS has partnered with designer Juntae Kim to introduce a hybrid footwear model titled the GEL-KINETIC FRThe silhouette explores a \"Dressneaker\" concept by merging traditional dress shoe elegance with functional sneaker designCustomizable elements include detachable flower motif hardware to provide versatile styling configurationsASICS and JUNTAE KIM have officially announced their upcoming collaborative footwear model, the ASICS x JUNTAE KIM GEL-KINETIC FR. The joint project introduces a unique hybrid silhouette that bridges the gap between traditional formal aesthetics and utilitarian sportswear.The collaborative footwear project is developed under the core design concept of the \"Dressneaker\". This approach intentionally combines the classic, refined mood of traditional dress sh",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "6fdd4e3318b6",
+      "title": "Comfort-first shopping continues to reshape the footwear industry - WFTV",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MVEd4SVBpeERyS0w2c0lRcU5ETnBSSmpiUERKYl9hQ0luT21ZVVliamIyQ1NVRy1lUVQtSXg3Wm92NGlVY1FDdmtyWGpJclJrb0NfRW9mR3o2cUpLRzU2WFF3LVNQR0szcVljaHdBWWtGRHJma3QtV1drUlVTSjTSAZMBQVVfeXFMT1lUR3FxcWJERDJPMnMzZ3FTR0N6NEZkVFc5SHBZZ1d6N2MxT2tfTEQweTNlUWtYZldQLWdxdU4xN1BDSWxWNFBTRmJoN0JEZVVSdlpQekdUV3pEQTNoaUI1UUZGUEVyN2tUajNTcFB6MTlYV1g0RDFXbDAyQ0duamJvUUtmUVVvSUMxOWVJSGFPMGxN?oc=5",
+      "original_publish_time": "2026-06-21T01:29:00+00:00",
+      "scraped_time": "2026-06-23T00:11:19.067309+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "footwear industry"
+      ],
+      "relevance_score": 6,
+      "summary": "Comfort-first shopping continues to reshape the footwear industry WFTV",
       "ren_take": "",
       "image_url": ""
     },
@@ -2170,108 +2230,6 @@
       ],
       "relevance_score": 3,
       "summary": "Founder Barbara Borghini found a niche for a new take on the traditional Venetian furlane slippers.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "64ab797f428f",
-      "title": "Ugg Brand Owner Deckers Outdoor Corp. Loses Patent Case Against Quince",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/ugg-deckers-quince-trial-jury-design-patent-mini-boot-1239011824/",
-      "original_publish_time": "2026-06-16T00:15:25+00:00",
-      "scraped_time": "2026-06-16T01:42:37.546353+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "UGG"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 3,
-      "summary": "After a four-day trial, a federal jury invalidated the design patent Deckers Outdoor Corp. had for its Ugg Ultra Mini Boot, giving Quince the win.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "7b846bc5377f",
-      "title": "The General Store Wins Footwear Brand Z1R0 Globally - Little Black Book | LBBOnline",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9EcTZwc0YxY2V5aUpnY05YWUNpd0hCajEwMU1YT3pqOFFEUE1telNLbnZyS1JJeEt2dTJteVFhclliSk9UM1dZdVVYLTdYWXBRV1BIZnZNbUxlT0VGY0E?oc=5",
-      "original_publish_time": "2026-06-15T23:24:29+00:00",
-      "scraped_time": "2026-06-16T01:43:00.566746+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "The General Store Wins Footwear Brand Z1R0 Globally Little Black Book | LBBOnline",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "7978d5e442ee",
-      "title": "Up Close With The Soulgoods x Nike Homescape Woven",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/06/15/soulgoods-nike-homescape-woven-sp/",
-      "original_publish_time": "2026-06-15T23:00:39+00:00",
-      "scraped_time": "2026-06-16T01:42:49.372064+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Nike",
-        "Jordan"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "China-based retailer Soulgoods is preparing to add another chapter to its growing partnership with Nike. Following previous collaborations on the Nike Dunk High and Jordan... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Up Close With The Soulgoods x Nike Homescape Woven appeared first on Sneaker News . The post Up Close With The Soulgoods x Nike Homescape Woven appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "debf2ef8c156",
-      "title": "The Internet’s New Favorite Off Campus TV Boyfriend Just Made Reebok Sneakers Look Even Cooler - E! News",
-      "source_name": "Google News - Sneaker Brand",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNR0tESE43Y0VDQmN5U05aNkotcW9RWmhwWmZRYVpKSldHZkhEcjZ4ZUhGYl9QZWJNMnA1VHpYTUV5TkY1SUk1QVJmMDE3amVFSWlMdi12c1Z3UFBXVklQS29vWTFLVUtGRzZLYTNzOGVmSk1oVWZDSDQtQnRCUVRXQVJ6OW85VjlSZWhwZHBROA?oc=5",
-      "original_publish_time": "2026-06-15T20:30:00+00:00",
-      "scraped_time": "2026-06-16T01:43:01.358890+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Reebok"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 5,
-      "summary": "The Internet’s New Favorite Off Campus TV Boyfriend Just Made Reebok Sneakers Look Even Cooler E! News",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "5ca9ea66c836",
-      "title": "Nike Launches Customizable Air Force 1 Low By NYC Sneaker Program",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/6/nike-launches-customizable-air-force-1-low-by-nyc-sneaker-program",
-      "original_publish_time": "2026-06-15T20:25:09+00:00",
-      "scraped_time": "2026-06-16T10:00:30.298367+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "SummaryNike has introduced a brand-new customizable sneaker program titled the Air Force 1 Low By NYCThe localized option allows creators to modify various components including the labels laces and dubraesThe customizable footwear model is currently available through official online channelsNike has officially launched its highly anticipated \"Air Force 1 Low By NYC\" customizable sneaker program. The fresh digital roll-out updates the brand's iconic low-top basketball silhouette, granting creators full access to localized design details that pay direct homage to New York City's street and sporting culture.Nike has officially launched its highly anticipated \"Air Force 1 Low By NYC\" customizable sneaker program. Reported by Victor Deng for Complex, the fresh digital roll-out updates the brand",
       "ren_take": "",
       "image_url": ""
     }
