@@ -1,8 +1,88 @@
 {
-  "last_updated": "2026-06-24T13:33:39.277562+00:00",
-  "total_articles": 118,
-  "sources_checked": 61,
+  "last_updated": "2026-06-24T19:00:26.431439+00:00",
+  "total_articles": 115,
+  "sources_checked": 62,
   "articles": [
+    {
+      "id": "d99131ff7fc7",
+      "title": "You Can Now Sell Used Sneakers On StockX",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/06/24/stockx-listings-sell-used-sneakers/",
+      "original_publish_time": "2026-06-24T18:00:02+00:00",
+      "scraped_time": "2026-06-24T18:49:15.569165+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "eBay and GOAT just got put on notice. StockX, the world’s most widely-known sneaker resale platform, is staking its claim in the used sneaker market... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post You Can Now Sell Used Sneakers On StockX appeared first on Sneaker News . The post You Can Now Sell Used Sneakers On StockX appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "fdfab4be943c",
+      "title": "StockX Is Now Letting You Buy and Sell Used Sneakers and Apparel",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/stockx-listings-sell-used-sneakers-1239029860/",
+      "original_publish_time": "2026-06-24T17:37:12+00:00",
+      "scraped_time": "2026-06-24T18:49:04.222701+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "The resale platform addresses a longtime customer demand.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "7c7724e7e789",
+      "title": "Nike Made A Friends And Family Air Force 1 Canvas For Paris Fashion Week",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/06/24/nike-air-force-1-low-canvas-paris-fashion-week-friends-and-family/",
+      "original_publish_time": "2026-06-24T16:59:00+00:00",
+      "scraped_time": "2026-06-24T18:49:15.571766+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Nike’s presence at Paris Fashion Week has yielded no shortage of compelling footwear for SS27 like the Air Bakin’ Low and Laceless Air Max 97,... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike Made A Friends And Family Air Force 1 Canvas For Paris Fashion Week appeared first on Sneaker News . The post Nike Made A Friends And Family Air Force 1 Canvas For Paris Fashion Week appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "915b78e37086",
+      "title": "Jaden Smith Told a Multigenerational Story at Christian Louboutin",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-features/christian-louboutin-men-spring-2027-jaden-paris-1239028838/",
+      "original_publish_time": "2026-06-24T13:25:02+00:00",
+      "scraped_time": "2026-06-24T18:49:04.225669+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Louboutin"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "For his sophomore collection, he widened the aperture for ages and wearing occasions — along with several conversation-starting shoes and accessories.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "ef4266f280c6",
       "title": "How adidas Turned Adistar Franchise Into A Tech-Runner Powerhouse",
@@ -40,6 +120,25 @@
       ],
       "relevance_score": 3,
       "summary": "PwC said the back-to-school shopping season has \"gotten pricey,\" and \"three out of four families are spending at least $100\" for apparel and shoes.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "5b572aa0f1f1",
+      "title": "Does Indian Footwear Need a Quality Revision? - The Voice of Fashion",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRVkwUU1hYXJ4TGtnWmJUd0FWTTE5eWhfT09RVFFIZ0NwVkdYVkk4eTdxekVscnp2ajZ3S1I1Y1RKYlFLR2NrUUJ5NlhTNjNyazBhMW9mWHR6Q0tLZi1EVVFjdjIwRHpmeDhlRENkWnhZLUFRSV82Ym5sdVNybGNnSHBob1V6NDhlRmljREdDNzhleExHOWJ4azRVclBKZktNM3RGUWpLUQ?oc=5",
+      "original_publish_time": "2026-06-24T12:35:47+00:00",
+      "scraped_time": "2026-06-24T18:49:26.509878+00:00",
+      "time_delta_mins": 0,
+      "category": "Quality",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Does Indian Footwear Need a Quality Revision? The Voice of Fashion",
       "ren_take": "",
       "image_url": ""
     },
@@ -2269,163 +2368,6 @@
       "keywords_matched": [],
       "relevance_score": 3,
       "summary": "This year and last, Nike has given us some headlines we truly thought we’d never see. The Undefeated Air Jordan 4 becoming a widely available... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post This Nike Air Force 1 Low Is Giving Newport Vibes appeared first on Sneaker News . The post This Nike Air Force 1 Low Is Giving Newport Vibes appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "2d660bd40b05",
-      "title": "Caitlin Clark’s First Nike Sneaker Debuts Upper Technology With Meticulous, Aerodynamic Detailing",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-caitlin-1-tech-personal-details-release-date-1239014835/",
-      "original_publish_time": "2026-06-17T18:00:00+00:00",
-      "scraped_time": "2026-06-17T19:23:18.981875+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 5,
-      "summary": "A fine texture is made up of mini Cs and 2s on either side of each shoe.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "f1fa7898b332",
-      "title": "Future for Birdies, Taft Shoe Brands Now Up in the Air",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/birdies-taft-kns-shoe-brands-journee-vance-1239014555/",
-      "original_publish_time": "2026-06-17T17:53:49+00:00",
-      "scraped_time": "2026-06-17T19:23:18.982326+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoe brand"
-      ],
-      "relevance_score": 3,
-      "summary": "After a bank took over KNS International, its shoe brands — Birdies, Taft, Journee and Vance — could be separately sold to new owners.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "02040e35c971",
-      "title": "Sneakky Klean Partners with Franchise Creators to Disrupt the Footwear Care Industry with Rapid Franchise Expansion - TMX Newsfile",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNRTlMNzlIdTBocXdSamdodS1YTlY2czlpQk5zbnRmdktNa1ZJaE9leDVvX2wwbEJOX3FmTXVxVF9fT0s3cFdpSVBZaDV1Uy1DV0NjVGZWSEJVOTJPZlZOYWI1enVjcUFoOG02SzJ4Z25vLTY2amg1bmdvQmt2SWFQLUNSRERtWjk2R0lQb0FBb3pMYzIyR3VhN0Z3am1oaS0zbzBOVHI5bmJGaTB6MjN6dkx4U0xGZU03WDVVd3BrWDhZZ2o4VGVnbVFiX0dnT0lFUExkcVN0Q2EySzZ1TGhXX2FtYV8xQk5DWUwwRjEtMlQ?oc=5",
-      "original_publish_time": "2026-06-17T17:13:00+00:00",
-      "scraped_time": "2026-06-17T19:23:41.523389+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Sneakky Klean Partners with Franchise Creators to Disrupt the Footwear Care Industry with Rapid Franchise Expansion TMX Newsfile",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "a6c6346e0e3d",
-      "title": "Carbitex Launches the Center for Better Flex, an Educational Hub Dedicated to Performance Footwear - newswire.com",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWkhpZXNva1hTUGZfdE5HYWxNNS1zY0RGa0pLVDdBQk5jaWVhNUJVaHVrV2pKMEwxRGdhRk42NVU5bC1MV2xzcjBxaDZNOUcxOXMxMWk1WGtaU082elRFVjA4dkN0YVFJQVo3MnZLdlRxVE91RGRLbFRmU05UNUpEYk1NNUQ0Z3ZDUHppMmRKeW82QVkwWXZqLU5uM1ZHMThNSWJtbw?oc=5",
-      "original_publish_time": "2026-06-17T16:00:00+00:00",
-      "scraped_time": "2026-06-17T19:23:41.524329+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Carbitex Launches the Center for Better Flex, an Educational Hub Dedicated to Performance Footwear newswire.com",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "fab59502dfc8",
-      "title": "Vans Is Rolling Out Four More Versions of Its Hit ‘Souvenir’ Old Skool Sneakers This Summer",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/vans-old-skool-souvenir-new-colorways-release-date-2026-1239014409/",
-      "original_publish_time": "2026-06-17T15:27:14+00:00",
-      "scraped_time": "2026-06-17T19:23:18.982859+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Vans"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 5,
-      "summary": "The rollout begins this weekend.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "a4c60bfd42e7",
-      "title": "What Does Shai Gilgeous-Alexander’s Move From Converse to Nike Mean for Both Brands?",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/shai-gilgeous-alexander-moves-converse-nike-1239014324/",
-      "original_publish_time": "2026-06-17T14:53:01+00:00",
-      "scraped_time": "2026-06-17T19:23:18.983312+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Nike",
-        "Converse"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 5,
-      "summary": "The switch doesn't suggest confidence in Converse, but maybe a departure from basketball is what it needs.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "f2cc24576279",
-      "title": "What will happen to the footwear market in 2026?",
-      "source_name": "Drapers",
-      "source_domain": "drapersonline.com",
-      "source_url": "https://www.drapersonline.com/insight/analysis/what-will-happen-to-the-footwear-market-in-2026",
-      "original_publish_time": "2026-06-17T14:36:00+00:00",
-      "scraped_time": "2026-06-17T19:26:45.570295+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Drapers What will happen to the footwear market in 2026? Competition in the footwear market is fierce with additional macroeconomic challenges snapping at retailers’ heels. We size up the market ahead of Drapers Footwear Awards on 1 July. The post What will happen to the footwear market in 2026? appeared first on Drapers .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "fdc1512b1321",
-      "title": "The World Footwear report highlights a decline in optimism in the footwear sector - outdoormagazine.it",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeEJuOWJLVFZUaGRBZHE4TGNLdjRPX2JMdmtDUkVOVXNwSHdEM0k5eGxmQjFpUTc5ZWs2eHZOazZWTTF4RzEyNEY3Ymh1a0xxaWFmMWRVd01XRHM5a29GQThNNld6UmRTVWdMUjlaWkdJN01OZi1vNzdlV0lXZ1FOM0RaaXRDeVEzNXlNRktSZHZwbTZQc2dXUGlUS2ZzT1JTMnY4XzN3Ry1URlBlUDBBcEpkVUY2eUp0VWVvNS1hTC13TmNsOElDUGc5dw?oc=5",
-      "original_publish_time": "2026-06-17T14:04:31+00:00",
-      "scraped_time": "2026-06-17T19:23:41.524889+00:00",
-      "time_delta_mins": 0,
-      "category": "Trade Data",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "The World Footwear report highlights a decline in optimism in the footwear sector outdoormagazine.it",
       "ren_take": "",
       "image_url": ""
     }
