@@ -1,8 +1,111 @@
 {
-  "last_updated": "2026-06-25T13:31:13.546357+00:00",
+  "last_updated": "2026-06-25T19:14:42.038999+00:00",
   "total_articles": 115,
-  "sources_checked": 60,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "ff5638efbcd6",
+      "title": "Vans’ Hot Streak Is Only Getting Hotter (EXCLUSIVE)",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/vans-ss27/",
+      "original_publish_time": "2026-06-25T18:44:01+00:00",
+      "scraped_time": "2026-06-25T19:07:26.139158+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Vans"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "Vans' hot streak is only getting hotter, as the brand debuts indestructible outdoor shoes and artful collaborations for Spring/Summer 2027.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "5e7480d7720f",
+      "title": "The Nike Air Force 1 Goes Cabana Mode With Woven Uppers",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/06/25/nike-air-force-1-low-rec-phantom-light-khaki-iw2347-002/",
+      "original_publish_time": "2026-06-25T18:30:09+00:00",
+      "scraped_time": "2026-06-25T19:03:45.288024+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 5,
+      "summary": "‘Tis the season for the getaway: to steal some days or weeks away from the hustle and bustle and settle in somewhere beachside. Whether you’re... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Nike Air Force 1 Goes Cabana Mode With Woven Uppers appeared first on Sneaker News . The post The Nike Air Force 1 Goes Cabana Mode With Woven Uppers appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "494e1ded52d2",
+      "title": "Nike’s Futuristic Air Liquid Max Sneaker Will Soon Get a Wavy New Printed Upper",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-air-liquid-max-black-metallic-release-date-iq7635-002-1239032688/",
+      "original_publish_time": "2026-06-25T16:49:49+00:00",
+      "scraped_time": "2026-06-25T19:03:33.719349+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 5,
+      "summary": "Replacing the dotted pattern used prior.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "ea3b8e1d49b0",
+      "title": "Rick Owens, Adidas Debut a Slouched Boot Sneaker in Paris",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-trends/rick-owens-adidas-paris-1239032890/",
+      "original_publish_time": "2026-06-25T15:59:24+00:00",
+      "scraped_time": "2026-06-25T19:03:33.721661+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 5,
+      "summary": "The designer's spring 2027 menswear show combined a slouched boot with an angular running shoe.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "f963a140e944",
+      "title": "Sri Lanka apparel exports rise on US demand",
+      "source_name": "Ecotextile News",
+      "source_domain": "ecotextile.com",
+      "source_url": "https://www.ecotextile.com/2026062563657/radar/sri-lanka-apparel-exports-rise-on-us-demand/",
+      "original_publish_time": "2026-06-25T13:31:59+00:00",
+      "scraped_time": "2026-06-25T19:05:45.073587+00:00",
+      "time_delta_mins": 0,
+      "category": "Trade Data",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "apparel exports"
+      ],
+      "relevance_score": 3,
+      "summary": "Sri Lanka’s apparel and textile exports rose 7.96% in May to $394.14 million, their strongest monthly performance this year, as […] The post Sri Lanka apparel exports rise on US demand appeared first on Ecotextile News .",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "85e313a88e25",
       "title": "Boots granted Royal Warrant by Her Majesty The Queen",
@@ -2269,108 +2372,6 @@
       ],
       "relevance_score": 5,
       "summary": "Low-profile continues to expand, but European shoe sales hurt global growth. Birkenstock, Crocs and Deckers could be hurt by muted DTC trends.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "603eb5c6eade",
-      "title": "Can't Find Paraboot's Rare French Shoes? Try This Gun Store",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/paraboot-beretta-gallery/",
-      "original_publish_time": "2026-06-18T19:13:24+00:00",
-      "scraped_time": "2026-06-18T19:28:20.586511+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "boot",
-        "shoes"
-      ],
-      "relevance_score": 6,
-      "summary": "Beretta Gallery is the only store in Manhattan that sells guns. It's also one of the few boutiques that offers a comprehensive Paraboot selection. Why?",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "b869754dd74e",
-      "title": "Moncler Previews Latest Shoe Collabs With Clarks, Rick Owens, Moon Boot and Fragment in Milan",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/moncler-clarks-rick-owens-moon-boot-fragment-collaborations-1239017269/",
-      "original_publish_time": "2026-06-18T18:17:34+00:00",
-      "scraped_time": "2026-06-18T19:24:29.592875+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Clarks"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 5,
-      "summary": "The event was held at the company's new global headquarters in Milan, Casa Moncler.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "7ab3437cc226",
-      "title": "Thorogood Boots Opens $14.5 Million Manufacturing Facility and First Retail Store in Wisconsin",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/thorogood-marshfield-wisconsin-manufacturing-facility-store-1239017044/",
-      "original_publish_time": "2026-06-18T16:59:06+00:00",
-      "scraped_time": "2026-06-18T19:24:29.595494+00:00",
-      "time_delta_mins": 0,
-      "category": "Manufacturing",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 3,
-      "summary": "The 70,000-square-foot facility is operated by Weinbrenner Shoe Company, the parent company of the Thorogood brand.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "f7f304cd8f6b",
-      "title": "A Knicks Air Jordan 3 Is Going Up for Pre-order Just as the Championship Parade Begins",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/air-jordan-3-knicks-pre-order-2026-1239016487/",
-      "original_publish_time": "2026-06-18T14:40:08+00:00",
-      "scraped_time": "2026-06-18T19:24:29.596373+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Jordan"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "The shoes previously released in 2019.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "0a13b22e65d2",
-      "title": "Official Look at the Nike Air Force 1 07 Low SE “Philadelphia”",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/6/official-look-at-the-nike-air-force-1-07-low-se-philadelphia",
-      "original_publish_time": "2026-06-18T14:17:24+00:00",
-      "scraped_time": "2026-06-18T19:24:41.086974+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "Name: Nike Air Force 1 07 Low SE “Philadelphia”Colorway: Light Orewood Brown/Metallic Gold Silk-Phantom-Mineral Teal-Treasure Blue-SailSKU: IV6205-104MSRP: $125 USDRelease Date: July 11Where to Buy: NikeCelebrating the rich spirit and culture of the City of Brotherly Love, Nike is set to release the Nike Air Force 1 '07 Low SE “Philadelphia” this summer. The upper arrives in a smooth leather build, dressed in a sophisticated \"Light Orewood Brown,\" providing a clean and muted palette that allows its vibrant accents to pop. Adding rich tactile contrast to the clean leather base, shaggy teal suede is applied to both the tongue tag and the heel tab.The sneaker's highlight lies in its split-Swoosh configuration: the lateral side features a shimmering gold Swoosh resting on a teal backing, while",
       "ren_take": "",
       "image_url": ""
     }
