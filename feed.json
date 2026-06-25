@@ -1,8 +1,71 @@
 {
-  "last_updated": "2026-06-24T19:00:26.431439+00:00",
-  "total_articles": 115,
-  "sources_checked": 62,
+  "last_updated": "2026-06-25T00:28:00.299633+00:00",
+  "total_articles": 111,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "785bae1ef010",
+      "title": "Converse Just Brought Back One Of It’s Oldest Sneakers",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/06/24/converse-jack-purcell-2026/",
+      "original_publish_time": "2026-06-24T21:30:34+00:00",
+      "scraped_time": "2026-06-25T00:16:00.100111+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Converse"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "Converse is bringing one of its oldest sneakers into a new era under First String, the brand’s premium craftsmanship tier. That would be none other... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Converse Just Brought Back One Of It's Oldest Sneakers appeared first on Sneaker News . The post Converse Just Brought Back One Of It’s Oldest Sneakers appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "266049214e84",
+      "title": "Little Tokyo Table Tennis Unveils Two ASICS GEL-Revolution 5",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/06/24/little-tokyo-table-tennis-asics-gel-resolution-5/",
+      "original_publish_time": "2026-06-24T21:00:06+00:00",
+      "scraped_time": "2026-06-25T00:16:00.101315+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "ASICS",
+        "Mizuno"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "Little Tokyo Table Tennis first stepped beyond the bounds of their inline fashion efforts and their performance title by linking up with Mizuno, but it... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Little Tokyo Table Tennis Unveils Two ASICS GEL-Revolution 5 appeared first on Sneaker News . The post Little Tokyo Table Tennis Unveils Two ASICS GEL-Revolution 5 appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "afdfa8a91aa1",
+      "title": "The Only Way to Survive Heat Death Is to Show Leg",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/milan-fashion-week-report/",
+      "original_publish_time": "2026-06-24T19:22:00+00:00",
+      "scraped_time": "2026-06-25T00:19:31.383502+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Balenciaga",
+        "Prada"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "With toe-friendly footwear from Chanel, Balenciaga, and Saint Laurent sorted, fashion brands like Prada and Saul Nash are moving on to sheer pants and shorts.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "d99131ff7fc7",
       "title": "You Can Now Sell Used Sneakers On StockX",
@@ -59,6 +122,27 @@
       ],
       "relevance_score": 3,
       "summary": "Nike’s presence at Paris Fashion Week has yielded no shortage of compelling footwear for SS27 like the Air Bakin’ Low and Laceless Air Max 97,... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike Made A Friends And Family Air Force 1 Canvas For Paris Fashion Week appeared first on Sneaker News . The post Nike Made A Friends And Family Air Force 1 Canvas For Paris Fashion Week appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "b556004c3487",
+      "title": "Sp5der and Adidas Combine Retro Soccer and Running for a Brand-New Sneaker Modeled by Lamine Yamal",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/sp5der-adidas-f50-formotion-release-date-kz6575-1239029859/",
+      "original_publish_time": "2026-06-24T16:51:56+00:00",
+      "scraped_time": "2026-06-25T00:15:48.098673+00:00",
+      "time_delta_mins": 0,
+      "category": "Manufacturing",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 3,
+      "summary": "Taking after a boot worn by Messi in his record-setting 91 goal output of 2012.",
       "ren_take": "",
       "image_url": ""
     },
@@ -726,6 +810,25 @@
       "image_url": ""
     },
     {
+      "id": "ca2f6abaca8a",
+      "title": "The Best Sneakers of 2026 (So Far) - Complex",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbVdHYWtwLTZHQ3lGUHY5SlBlN3pCNHNCLWdHQ1V6MkdRVlZRSVhCcXp1T2FEMS0wSDdLOFNIR3VlNlRMU2VVOGJqRUgzWlhraDNfQUFRQUpUZFpTTHFjQm5hOHZrOTloRGRvV2RtMi1Oekhwa1pzRnBDbFRMUkI0aURHLXBpdw?oc=5",
+      "original_publish_time": "2026-06-23T14:00:20+00:00",
+      "scraped_time": "2026-06-25T00:16:11.733018+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "The Best Sneakers of 2026 (So Far) Complex",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
       "id": "a6d158258dc2",
       "title": "Global footwear firms boost Tamil Nadu sourcing; Adidas unit starts in July - Business Standard",
       "source_name": "Google News - Footwear Industry",
@@ -1133,6 +1236,26 @@
       ],
       "relevance_score": 5,
       "summary": "Name: Nike Air Force 1 Low \"Clueless”Colorway: Multi-Color/Yellow Ochre/White/BlackSKU: IR5596-900MSRP: $125 USDRelease Date: July 2026The Nike Air Force 1 Low “Clueless” is a women’s exclusive sneaker that pays homage to Alicia Silverstone’s iconic yellow plaid outfit from the 1995 film Clueless. The upper is dressed in a bold plaid textile featuring yellow, black and white tones, directly referencing Cher Horowitz’s signature look.A black leather Swoosh overlays the patterned base, while black laces, tongue, and lining provide sharp contrast. Metallic AF1 lace dubraes add a subtle touch of shine,while classic Nike Air branding appears on the tongue, insole and heel tab, reinforcing the shoe’s heritage identity. Click here to view full gallery at Hypebeast",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "05d4f3ab551c",
+      "title": "Spanish footwear industry lost over 1,100 companies since 2020: AEC calls for urgent action plan - fashionunited.uk",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOT1Bsd3VNTzBkZUgzY0tsazRQamotT3U1dEsyT2ptSDRjeU5SV2RqNjkzaThMZVZqRTRpSkIyc1l1RDdjbVJFb2NRRzR2MS14MzdaeERVQzFseUIwWER4eUU3M1RwWkU0RTNIYXhheXA1cTBPbGpMNEM3TXJVY1liSEhhWmptcVhMSGxJakFyZ1hiNk1YbXBzaFlZZ19OT3ZkVXI3OU55Xy1teE53X0U4cEFyS2d2a3ptcnBZVnloMnFkRzlwNTZVSGlpVDZPeUZ6NU9MR1IyMFIxcURUMWVMQlZR?oc=5",
+      "original_publish_time": "2026-06-22T08:37:53+00:00",
+      "scraped_time": "2026-06-25T00:16:10.994821+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "footwear industry"
+      ],
+      "relevance_score": 6,
+      "summary": "Spanish footwear industry lost over 1,100 companies since 2020: AEC calls for urgent action plan fashionunited.uk",
       "ren_take": "",
       "image_url": ""
     },
@@ -2164,210 +2287,6 @@
       ],
       "relevance_score": 5,
       "summary": "Name: Vans x Urban Research Doors “Exclusive 2-Elt Boat Shoes”Colorway: WhiteSKU: TBCMSRP: ¥11,000 JPY (approx. $69 USD)Release Date: June 19Where to Buy: Urban Research DoorsUrban Research Doors is set to release an exclusive collaboration with Vans, introducing the Exclusive 2-Elt Boat Shoes. This limited-edition model reimagines the classic two-eyelet boat shoe silhouette, designed specifically to bring a sense of sophisticated ease to summer and transitional autumn wardrobes. By combining a refined aesthetic with the relaxed comfort characteristic of boat-style footwear, the collaboration aims to provide a versatile, year-round option that bridges the gap between casual and polished attire.The upper is crafted in a washed off‑white canvas, giving the shoes a relaxed, worn‑in aesthetic ",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "32f7df2e222e",
-      "title": "Future for Birdies, Taft Shoe Brands Now Up in the Air After Bank Take Over - WWD",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNX0lMdnZaYlo2dWRoTUo0SF85bkhyX0hIcWRpLVZ4YU9MeW1tX3Q5RmhpYTVIUnFwZ3I4QUdyYTRlSXRuU2JXU3BiTjZvUzdCcnNGQmlxZkFuN3dKQkt2UXBGRTdsUTJSa056anQ0bnZVaWFUek80VlFBZEhxZE41bmNGclIwZHVRQ2N5SUo1ZVpIcDA2R2F3WmVGdlpTOUVNSnNwNXN3?oc=5",
-      "original_publish_time": "2026-06-17T23:36:43+00:00",
-      "scraped_time": "2026-06-18T00:18:05.958385+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoe brand"
-      ],
-      "relevance_score": 3,
-      "summary": "Future for Birdies, Taft Shoe Brands Now Up in the Air After Bank Take Over WWD",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "a836e4cfff71",
-      "title": "Travis Scott Debuts Jet-Black Nike Caitlin 1",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/6/travis-scott-nike-caitlin-1-black-debut-teaser",
-      "original_publish_time": "2026-06-17T23:11:18+00:00",
-      "scraped_time": "2026-06-18T14:10:56.903618+00:00",
-      "time_delta_mins": 0,
-      "category": "Trade Data",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "SummaryTravis Scott was spotted wearing an all-black version of Caitlin Clark's upcoming Nike Caitlin 1 signature shoeThe design showcases core technical elements including raised CC siding mesh foundations and stacked inset SwooshesWhile the specific pair worn could be a wear-test sample a black metallic silver and racer blue colorway is confirmed to releaseNike and WNBA superstar Caitlin Clark have officially kicked off the rollout for the Nike Caitlin 1 with a high-profile co-sign from global artist Travis Scott. Shown directly during the initial social media reveal of the signature silhouette, Scott was seen debuting a jet-black iteration of the highly anticipated performance basketball model.The newly revealed footwear highlights the intersection of elite women's basketball and domina",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "fa9872b1c609",
-      "title": "Official Look at the Nike KD 19 \"Bubble Gum Bounce\"",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/6/nike-kd-19-bubble-gum-bounce-ih1118-600-official-look-release-info",
-      "original_publish_time": "2026-06-17T23:02:53+00:00",
-      "scraped_time": "2026-06-18T09:07:58.092395+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Name: Nike KD 19 \"Bubble Gum Bounce\"Colorway: Hyper Pink/Stadium Green-University GoldSKU: IH1118-600Retail Price: $155 USDRelease Date: July 2026Where to Buy: NikeNike and Kevin Durant are expanding their historic basketball catalog with the upcoming Nike KD 19 \"Bubble Gum Bounce.\" The newly surfaced model marks a fresh addition to the athlete's signature performance lineup, continuing a long-standing legacy of elite hardwood footwear.The upcoming silhouette serves as the latest iteration of Durant's nineteenth signature shoe with the brand. While detailed design schematics, exact material compositions, and specific technical cushioning setups have not been officially broken down in early reports, the model is expected to carry forward the performance-driven DNA characteristic of the sign",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "df7f50fb26a4",
-      "title": "Nike Air Force 1 Low \"Game Day\" Pays Homage to Vintage Sports Gear",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/6/nike-air-force-1-low-game-day-iv5685-365-release-info",
-      "original_publish_time": "2026-06-17T22:51:54+00:00",
-      "scraped_time": "2026-06-18T09:07:58.087854+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "Name: Nike Air Force 1 Low \"Game Day\"Colorway: Malachite/University Gold-Gum Medium Brown-Coconut MilkSKU: IV5685-365Retail Price: $125 USDRelease Date: June 20, 2026Where to Buy: NikeThe Nike Air Force 1 Low \"Game Day\" is officially slated to join the brand's extensive lifestyle lineup as part of a broader seasonal roll-out. Arriving as a standout entry within an upcoming Nike Sportswear capsule, this freshly revealed colorway leverages archival aesthetic choices to honor the deep-seated connection between traditional athletic apparel and contemporary street fashion.Reintroducing the highly favored 2001 shape of the iconic presidential silhouette, the low-top sneaker pairs classic performance roots with an elevated combination of textures and tones. The upper utilizes vibrant \"Malachite\" ",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "8cf5f8f95f9f",
-      "title": "Zellerfeld And Nike Return With The Air Max 1000.2 “Pink Spell”",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/06/17/zellerfeld-nike-air-max-1000-2-black-pink-spell/",
-      "original_publish_time": "2026-06-17T22:37:35+00:00",
-      "scraped_time": "2026-06-18T00:17:54.801727+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Nike’s exploration of 3D-printed footwear continues with a yet another colorway of the Air Max 1000.2. Following the debut of the updated futuristic silhouette earlier... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Zellerfeld And Nike Return With The Air Max 1000.2 \"Pink Spell\" appeared first on Sneaker News . The post Zellerfeld And Nike Return With The Air Max 1000.2 “Pink Spell” appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "d987fce18d82",
-      "title": "Footwear industry is backbone of India’s economy: Union Minister Giriraj Singh - Newsonair",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ29UaXZQZHFWUm1nX2FHV3h5VGlhdFRaX01vcllPcGc2bU5fRFdmR282RjQ1ZnkyTE9Ic0drOHQ2SjM3NkI5ZFI3eEZsRHUyaTI0LW15clpXMnJYcS15QmN6Qy0xR1NEbVd0QVp6b0taVXVkZXVYNUxsdHdlX2JFUGtKLUFXenJ6eVdxU1I5NF9ud2tPVTFLM3hwbmNZdHl4cFFZdQ?oc=5",
-      "original_publish_time": "2026-06-17T21:08:38+00:00",
-      "scraped_time": "2026-06-18T00:18:05.959519+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "footwear industry"
-      ],
-      "relevance_score": 6,
-      "summary": "Footwear industry is backbone of India’s economy: Union Minister Giriraj Singh Newsonair",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "00962ace1769",
-      "title": "Allbirds Is Officially a Tech Company, American Exchange Group Takes Over Footwear Business",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/allbirds-american-exchange-wsg-brands-assets-smartbird-1239015666/",
-      "original_publish_time": "2026-06-17T21:07:24+00:00",
-      "scraped_time": "2026-06-18T00:17:42.870604+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Allbirds"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 5,
-      "summary": "The Allbirds IP assets were acquired by American Exchange Group in partnership with WSG Brands, a brand management and licensing platform.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "1ae0156e1c75",
-      "title": "Footwear sector opposes Third Schedule inclusion - The Express Tribune",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVDMyYUZ3OWlqSktkbmJGbk42ZmlRV0ozN1VYcVZKMHEyODQzdTNzTUZFY1pfTERydkNQOHFhbTZUdHNjanJ5VUVjNFRoUktNQkJYRnRZU3EyV2lUSFdFNWRMaF9XX3lMU0k0ODN2bGhDTWZVaER2cXFYZ2tkTk92OEE3T2hoZm5jMkthWnNB0gGWAUFVX3lxTE81TVR0NXlyUlVEc3ktVmYtMUMzY3RLMFBLOGVXTG9weV93VUpNSTAtSThFNmJHZElzTm5FQlRBNXdIRUN6TW5Ybklwb3N4cGotR0NUXzlvQjdtLURkSVVLcHlYWXd6bTlISUQwZV9VZUZCUTFScFBwY28zdVQ0cm10YjRRSEprd05KREVrc2J0Z1A4REwyUQ?oc=5",
-      "original_publish_time": "2026-06-17T20:49:43+00:00",
-      "scraped_time": "2026-06-18T09:08:09.503140+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Footwear sector opposes Third Schedule inclusion The Express Tribune",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "b29ebd7f0c24",
-      "title": "Jordan 5 Retro and Nike Mind 001 Slide Among Buzziest Releases So Far in 2026, According to StockX",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/stockx-big-facts-resale-trends-2026-nike-mind-slide-jordan-1239015242/",
-      "original_publish_time": "2026-06-17T19:06:24+00:00",
-      "scraped_time": "2026-06-17T19:23:18.979878+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Nike",
-        "Adidas",
-        "Jordan"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 5,
-      "summary": "The Adidas BadBo 1.0 Bad Bunny Resilience was the hottest release from Adidas so far this year, the resale platform noted.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "78108e92c0ac",
-      "title": "This Nike Air Force 1 Low Is Giving Newport Vibes",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/06/17/nike-air-force-1-low-game-day-iv5685-365/",
-      "original_publish_time": "2026-06-17T19:00:57+00:00",
-      "scraped_time": "2026-06-17T19:23:30.671257+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Nike",
-        "Jordan"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "This year and last, Nike has given us some headlines we truly thought we’d never see. The Undefeated Air Jordan 4 becoming a widely available... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post This Nike Air Force 1 Low Is Giving Newport Vibes appeared first on Sneaker News . The post This Nike Air Force 1 Low Is Giving Newport Vibes appeared first on Sneaker News .",
       "ren_take": "",
       "image_url": ""
     }
