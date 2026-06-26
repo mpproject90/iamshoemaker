@@ -1,8 +1,70 @@
 {
-  "last_updated": "2026-06-26T13:22:46.017822+00:00",
-  "total_articles": 117,
-  "sources_checked": 60,
+  "last_updated": "2026-06-26T18:39:37.401433+00:00",
+  "total_articles": 116,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "342081b179c1",
+      "title": "Sp5ders Silver Take On adidas' Techy Dad Shoe Is Otherworldly",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/adidas-formotion/",
+      "original_publish_time": "2026-06-26T16:49:16+00:00",
+      "scraped_time": "2026-06-26T18:32:26.590585+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "adidas F50 Formotion Sp5der features a silver upper, Formotion tech for flexible movement, and Sp5der’s bold streetwear twist.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "70e42c8948e9",
+      "title": "Soulgoods x Nike Homescape Woven “Medium Orewood Brown” Launches On July 11th",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/06/26/soulgoods-nike-homescape-woven-sp-medium-orewood-brown-hm6961-001/",
+      "original_publish_time": "2026-06-26T15:30:21+00:00",
+      "scraped_time": "2026-06-26T18:28:49.516170+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "Following under-the-radar Nike SB Dunk and Jordan Air Ship collaborations, Beijing-based sneaker store Soulgoods is about to have its biggest global collab moment yet, and... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Soulgoods x Nike Homescape Woven “Medium Orewood Brown” Launches On July 11th appeared first on Sneaker News . The post Soulgoods x Nike Homescape Woven “Medium Orewood Brown” Launches On July 11th appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "d37549dae610",
+      "title": "The Weekly Closeout: Adidas gets into PPE, Five Below fills out C-suite",
+      "source_name": "Retail Dive",
+      "source_domain": "retaildive.com",
+      "source_url": "https://www.retaildive.com/news/adidas-safety-footwear-five-below-chief-retail-officer-nike-china-strategy/823842/",
+      "original_publish_time": "2026-06-26T14:55:00+00:00",
+      "scraped_time": "2026-06-26T18:31:33.203102+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "The athletics retailer debuted a safety footwear collection with Glo Brands B.V., while the discount chain hired a chief retail officer and a chief legal officer.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "e3b6019da33a",
       "title": "Official Images of the Nike Air Force 1 Low Luxe “Black”",
@@ -166,6 +228,25 @@
       ],
       "relevance_score": 3,
       "summary": "Summary KENZO's Spring/Summer 2027 collection under NIGO draws on Japanese denim, houndstooth, fil coupé florals, velour denim, and richly textured knitwear as its primary fabrication toolkitCustom ribbon construction appears across jackets and skirts referencing Kenzo Takada's personal ribbon collection, while a hand-sewn dress built entirely from multicolored knitted bands extends the technique to its most labour-intensive applicationFootwear collaborations with Converse and Paraboot introduce Chuck 70 and Jack Purcell interpretations alongside a reworked Paraboot Michael shoe with workwear-inspired metal detailing and bold varsity lettering NIGO’s KENZO Spring/Summer 2027 collection positions fabrication and construction as the collection's primary language. Presented at Place des Victo",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "762eeabd67dc",
+      "title": "70% off brand-name sneakers?! These deals are only possible during Prime Day - AOL.com",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUTk0Rl91QzJ4TDJibS1ldzVuZUtsRHNnU3pUSFN2ODZkUVFvY1liQXJ3OG9wc0Z4M3RzRmJQVi0wek1QX2VfNk9senUxUVhVLWp4ZVlBRXBuREdWNmh5Z09qMmVaTGxNRmliUkFnRUp2TWVtQmxRb2ZyNVZQUENsVUx6a2RTems4VEhRbE92T1UwaHlCRWtVZ2s5WFlsVVFxaHlaWnpnLWg4TUV5REpqMDdmSEZFazlra2VOXzBMNUdEQTFTcm92QzRPVk8?oc=5",
+      "original_publish_time": "2026-06-26T05:37:07+00:00",
+      "scraped_time": "2026-06-26T18:29:00.947644+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "70% off brand-name sneakers?! These deals are only possible during Prime Day AOL.com",
       "ren_take": "",
       "image_url": ""
     },
@@ -2294,110 +2375,6 @@
       ],
       "relevance_score": 3,
       "summary": "BIOTOP is one of Japan's finest purveyor's of good taste. And now, it's the only purveyor of beautifully blacked-out Birkenstock Kyoto sandals.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "b1dc22b57187",
-      "title": "Cade Cunningham Has Another Nike S.T. Charge “Detroit Tough” PE",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/06/19/cade-cunningham-shoes-nike-st-charge-detroit-tough-iz6735-800/",
-      "original_publish_time": "2026-06-19T17:30:13+00:00",
-      "scraped_time": "2026-06-19T18:52:08.084114+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "Though the window is now closing with the official reveal of the signature Caitlin Clark shoes, the Iowa product and Jalen Brunson have shown that... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Cade Cunningham Has Another Nike S.T. Charge “Detroit Tough” PE appeared first on Sneaker News . The post Cade Cunningham Has Another Nike S.T. Charge “Detroit Tough” PE appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "3f0b50b105e5",
-      "title": "Our Inside Look at the Ultimate Sneaker Archive and World Cup Boot Test Inside New Balance HQ",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/6/inside-look-of-new-balance-hq-soccer-sneakers-innovation",
-      "original_publish_time": "2026-06-19T17:18:00+00:00",
-      "scraped_time": "2026-06-19T18:52:07.896007+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "New Balance"
-      ],
-      "keywords_matched": [
-        "boot",
-        "footwear"
-      ],
-      "relevance_score": 6,
-      "summary": "New Balance is no longer just the king of premium lifestyle runners but now also the absolute epicenter of global soccer and street culture. During an exclusive experience in Boston, the brand opened its doors to us for an immersive, behind-the-scenes look into the future of the beautiful game. Walking through the campus, the sheer scale of the brand’s athletic ambition becomes instantly clear. High-performance engineering and high-fashion aesthetics collide, seeing this world-class setup prove that the brand's current cultural foothold is meticulously calculated.The real magic happens where data meets design. Inside the cutting-edge Sports Research Lab, biomechanics dictate the geometry of footwear long before it hits the pavement or the pitch. The pinnacle of this technical prowess was o",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "5045c3a79770",
-      "title": "First Look At The Nike Air Max Joga Bonito R9",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/06/19/nike-air-max-joga-bonito-r9-ix8646-001/",
-      "original_publish_time": "2026-06-19T16:30:01+00:00",
-      "scraped_time": "2026-06-19T18:52:08.086493+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "boot",
-        "sole"
-      ],
-      "relevance_score": 4,
-      "summary": "The creation of Nike Cryoshot, a collection of archival Nike football boots reimagined for lifestyle wear with encased soles, has pushed Nike to explore other... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post First Look At The Nike Air Max Joga Bonito R9 appeared first on Sneaker News . The post First Look At The Nike Air Max Joga Bonito R9 appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "5618fac5b76d",
-      "title": "Harrods footwear head’s mission to find the next cult shoe",
-      "source_name": "Drapers",
-      "source_domain": "drapersonline.com",
-      "source_url": "https://www.drapersonline.com/people/my-fashion-life/harrods-footwear-heads-mission-to-find-the-next-cult-shoe",
-      "original_publish_time": "2026-06-19T15:03:00+00:00",
-      "scraped_time": "2026-06-19T18:55:04.331628+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "shoes"
-      ],
-      "relevance_score": 4,
-      "summary": "Drapers Harrods footwear head’s mission to find the next cult shoe Josie Gardner, head of buying for shoes and accessories at Harrods and Drapers Footwear Awards 2026 judge, reflects on the rhythms of her day to day, the investment pieces she swears by and what makes a winning entry. The post Harrods footwear head’s mission to find the next cult shoe appeared first on Drapers .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "f15a2412d347",
-      "title": "BRICS Trade Ties Could Boost India’s Textile and Apparel Exports",
-      "source_name": "Apparel Resources",
-      "source_domain": "apparelresources.com",
-      "source_url": "https://apparelresources.com/business-news/trade-business-news/brics-trade-ties-boost-indias-textile-apparel-exports/",
-      "original_publish_time": "2026-06-19T13:31:44+00:00",
-      "scraped_time": "2026-06-19T14:16:35.372073+00:00",
-      "time_delta_mins": 0,
-      "category": "Trade Data",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "apparel exports"
-      ],
-      "relevance_score": 3,
-      "summary": "India’s textile and apparel exports to BRICS countries increased to Rs 36,535 crore (US$3.87 billion) in FY2024 before moderating to Rs 34,647 crore (US$3.67 billion) in FY2025. Meanwhile, imports of textiles and apparel from BRICS rose 6.9% to Rs 36,854 crore (US$3.90 billion), highlighting the bloc’s importance as both an export market and sourcing destination. […] The post BRICS Trade Ties Could Boost India’s Textile and Apparel Exports appeared first on Apparel Resources .",
       "ren_take": "",
       "image_url": ""
     }
