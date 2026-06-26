@@ -1,8 +1,69 @@
 {
-  "last_updated": "2026-06-26T00:23:58.868103+00:00",
-  "total_articles": 116,
+  "last_updated": "2026-06-26T08:34:47.682013+00:00",
+  "total_articles": 113,
   "sources_checked": 61,
   "articles": [
+    {
+      "id": "f95d9e3bb0d1",
+      "title": "The Retroid Pocket Nova Handheld Gaming Console Launches With PS2 and GameCube Emulation",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/6/retroid-pocket-nova-handheld-debuts-with-43-amoled",
+      "original_publish_time": "2026-06-26T08:09:51+00:00",
+      "scraped_time": "2026-06-26T08:24:12.987856+00:00",
+      "time_delta_mins": 0,
+      "category": "Quality",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sole"
+      ],
+      "relevance_score": 3,
+      "summary": "Summary Retroid announced the Pocket Nova, a new handheld gaming console featuring a 4.5-inch AMOLED display with a 4:3 aspect ratioThe device is powered by a Qualcomm QCS8550 processor, which provides performance similar to the Snapdragon 8 Gen 2 to support PlayStation 2 and GameCube emulationStarting at $229 USD, the handheld includes a 5,000mAh battery with 27W fast charging, Wi-Fi 7 and Bluetooth 5.3 connectivity Retroid announced the Pocket Nova, a dedicated gaming handheld that brings premium hardware to the competitive retro emulation market. The device targets enthusiasts seeking a high-performance 4:3 display format. This specific screen ratio naturally fits the native output of fifth and sixth-generation console libraries. Modern emulation requires serious computational overhead ",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "b38f3b5eb4b4",
+      "title": "Adidas pulls ahead of Nike in World Cup retail battle",
+      "source_name": "Retail Gazette",
+      "source_domain": "retailgazette.co.uk",
+      "source_url": "https://www.retailgazette.co.uk/blog/2026/06/adidas-pulls-ahead-of-nike-in-world-cup-retail-battle/",
+      "original_publish_time": "2026-06-26T08:07:02+00:00",
+      "scraped_time": "2026-06-26T08:27:05.702767+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Nike",
+        "Adidas"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 5,
+      "summary": "Adidas is edging ahead of Nike in the early retail battle around the World Cup, with new data suggesting the German giant is seeing a bigger sales uplift from the tournament. Spending on Adidas apparel jumped 70 per cent in May compared with the same month last year, according to M Science data reported by...",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "94c43bb7003b",
+      "title": "NIGO’s KENZO SS27 Collection Is Built on Ribbon Construction, Japanese Denim, and a Floor-Length Rugby Shirt",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/6/kenzo-spring-summer-ss-2027-paris-fashion-week-runway-collection-info",
+      "original_publish_time": "2026-06-26T06:44:17+00:00",
+      "scraped_time": "2026-06-26T08:24:12.991910+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Converse"
+      ],
+      "keywords_matched": [
+        "boot",
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Summary KENZO's Spring/Summer 2027 collection under NIGO draws on Japanese denim, houndstooth, fil coupé florals, velour denim, and richly textured knitwear as its primary fabrication toolkitCustom ribbon construction appears across jackets and skirts referencing Kenzo Takada's personal ribbon collection, while a hand-sewn dress built entirely from multicolored knitted bands extends the technique to its most labour-intensive applicationFootwear collaborations with Converse and Paraboot introduce Chuck 70 and Jack Purcell interpretations alongside a reworked Paraboot Michael shoe with workwear-inspired metal detailing and bold varsity lettering NIGO’s KENZO Spring/Summer 2027 collection positions fabrication and construction as the collection's primary language. Presented at Place des Victo",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "e9f9609596c3",
       "title": "adidas Stays Focused On The Philippines With The Anthony Edwards Believe That 1",
@@ -78,6 +139,25 @@
       ],
       "relevance_score": 6,
       "summary": "Footwear industry is backbone of India’s economy: Union Minister Giriraj Singh News On AIR",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "5ae29a293234",
+      "title": "No Hiking Required: Lindsay Lohan’s Podiatrist-Approved Trail Sneakers Are a No-Brainer for Summer - instyle.com",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9yTVVoS1puT2hiYWtyMDM1RThodzd6THRlaEotZFZRbTBWcDV0dzhiejViYlpKXzlnYklaZHdKenpXdi0tTW00ZjlMbENzSVVxVVlsLWV5SlJtMEZEcnhaeDNXUm16Ml9URTdJ?oc=5",
+      "original_publish_time": "2026-06-25T19:00:00+00:00",
+      "scraped_time": "2026-06-26T08:24:24.559375+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "No Hiking Required: Lindsay Lohan’s Podiatrist-Approved Trail Sneakers Are a No-Brainer for Summer instyle.com",
       "ren_take": "",
       "image_url": ""
     },
@@ -2234,155 +2314,6 @@
       ],
       "relevance_score": 5,
       "summary": "The Brooks Sneakers I’ve Worn for a Year Feel Like ‘Walking on Clouds’—They’re on Sale and Bound to Sell Out EatingWell",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "db1333845bf8",
-      "title": "Tracing the Craftsmanship at the Heart of MIZUNO Through the Words of Mizuno Global Brand Ambassador Mason Mount",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/6/mizuno-mason-mount-interview",
-      "original_publish_time": "2026-06-19T07:41:25+00:00",
-      "scraped_time": "2026-06-19T09:23:57.159893+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Mizuno"
-      ],
-      "keywords_matched": [
-        "boot",
-        "sole"
-      ],
-      "relevance_score": 4,
-      "summary": "Japanese sporting goods icon MIZUNO has unveiled the MORELIA LS — a lifestyle silhouette that carries the DNA of the MORELIA, one of the brand's most beloved football boot lineages.Built on the foundation of the MORELIA GM IN, an indoor football shoe from the mid-2000s, the MORELIA LS has been reimagined for modern life while preserving the details that made the original iconic: the signature flap tongue, precise stitchwork, and refined heel construction. The result is a shoe that bridges football heritage and street sensibility.The slim-soled silhouette remains sharp and true to its roots, while MIZUNO's proprietary cushioning technologies — MIZUNO ENERZY and MIZUNO WAVE — have been integrated for enhanced comfort underfoot. A rubber forefoot wrap adds stability, ensuring a ride that is b",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "c7447d960590",
-      "title": "Closer Look at the DSM Kei Ninomiya x Vans Collaboration From Pitti Uomo 110",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/6/dsm-kei-ninomiya-vans-collaboration-pitti-uomo-110-closer-look",
-      "original_publish_time": "2026-06-19T06:28:08+00:00",
-      "scraped_time": "2026-06-19T09:23:57.155325+00:00",
-      "time_delta_mins": 0,
-      "category": "Trade Data",
-      "brands_mentioned": [
-        "Vans"
-      ],
-      "keywords_matched": [
-        "footwear",
-        "sneakers",
-        "upper"
-      ],
-      "relevance_score": 5,
-      "summary": "SummaryDSM Kei Ninomiya showcases a detailed look at its upcoming footwear collaboration with VansThe collection highlights modified Vans Slip-On models featuring custom branding and floral overlaysOfficial release dates and retail pricing details for the collaborative sneakers remain unconfirmedDSM Kei Ninomiya and Vans have officially revealed a closer look at their upcoming collaborative Vans Slip-On collection, which originally debuted during the brand's Pitti Uomo 110 runway presentation. The backstage images highlight a closer look at the avant-garde perspective applied to the foundational skate silhouettes.The visual breakdown reveals multiple design iterations of the classic low-top model. The iconic black-and-white checkerboard canvas upper is updated with a contrasting house-shap",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "e9899ded22a0",
-      "title": "Official Look at the Nike Mind 002 \"White/Vast Grey\"",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/6/nike-mind-002-white-vast-grey-hq4308-100-release-info",
-      "original_publish_time": "2026-06-19T06:05:07+00:00",
-      "scraped_time": "2026-06-20T12:26:33.444986+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "footwear",
-        "upper"
-      ],
-      "relevance_score": 4,
-      "summary": "Name: Nike Mind 002 \"White/Vast Grey\"Colorway: White/Vast Grey-Anthracite-Metallic SilverSKU: IW2026-110Retail Price: $145 USDRelease Date: July 23, 2026Where to Buy: NikeNike is officially expanding its groundbreaking neuroscience-driven footwear line with the introduction of the Nike Mind 002 \"White/Vast Grey.\" Reported by Sneaker Bar Detroit, the upcoming recovery sneaker brings a crisp, minimalist aesthetic to the highly sought-after silhouette, shifting away from earlier vibrant releases in favor of a versatile, everyday look.Engineered by Nike's Mind Science Department, the Mind 002 silhouette prioritizes both physical recovery and active sensory engagement. The upper is constructed from a clean white breathable mesh, establishing a streamlined, lightweight fit. Crisp \"Vast Grey\" and",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "d16162fc3da5",
-      "title": "OG Anunoby's Skechers SKX Nexus \"NYC Blue\" PE Is Available for Pre-Order",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/6/og-anunoby-skechers-skx-nexus-nyc-blue-pe-available-pre-order-release-info",
-      "original_publish_time": "2026-06-19T05:26:56+00:00",
-      "scraped_time": "2026-06-20T08:15:59.229486+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Skechers"
-      ],
-      "keywords_matched": [
-        "footwear",
-        "midsole",
-        "outsole",
-        "sole",
-        "upper"
-      ],
-      "relevance_score": 7,
-      "summary": "SummarySkechers Basketball has revealed a custom player-exclusive iteration of the SKX Nexus for New York Knicks forward OG AnunobyThe performance low-top incorporates a vibrant royal blue and orange colorway inspired by traditional New York team colorsTechnical design elements highlight a lightweight mesh upper paired with 5GEN midsole cushioning and a Goodyear performance outsoleSkechers Basketball has officially introduced the custom SKX Nexus \"NYC Blue\" PE created exclusively for New York Knicks forward OG Anunoby. Spotlighting the brand's expanding presence on the professional hardwood, the player-exclusive model gained historic significance during the 2026 NBA Finals as Anunoby became the first athlete to win an NBA championship wearing the footwear brand.The low-top silhouette is sp",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "5903ce43cae3",
-      "title": "Official Look at the Air Jordan 1 Low MM V3 \"Light Orewood Brown\"",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/6/air-jordan-1-low-mm-v3-light-orewood-brown-iw2026-110-official-look-release-info",
-      "original_publish_time": "2026-06-19T03:21:22+00:00",
-      "scraped_time": "2026-06-19T09:23:57.165891+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [
-        "Jordan"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "Name: Air Jordan 1 Low MM V3 \"Light Orewood Brown\"Colorway: Light Orewood Brown/Black-Steam-WhiteSKU: IW2026-110Retail Price: $145 USDRelease Date: Fall 2026Where to Buy: NikeJordan Brand is officially preparing to expand its experimental lifestyle catalog with the arrival of the Air Jordan 1 Low MM V3 \"Light Orewood Brown.\" The upcoming sneaker delivers an updated take on the iconic low-top silhouette by continuing the brand's specialized Method of Make design series.The newly surfaced model marks the latest structural evolution within Jordan Brand's MM lineage, a sub-series widely recognized for applying elevated, fashion-forward tailoring techniques to traditional court silhouettes. The exterior composition of the low-top sneaker is heavily defined by its distinct \"Light Orewood Brown\" ",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "a7436b657f15",
-      "title": "Fire breaks out at shoe sole factory in Agra, eight fire tenders deployed - The News Mill",
-      "source_name": "Google News - Shoe Manufacturing",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRldCYkhTMGpWSjlLVjhzODlvbmFtaDFCYmR0Uk1SZHFSOUMyb0hvaHFTcFY1Qk9vYnk1dUtHeW90QXZSZTJIbnA3Z2pVeXVESDM0YmZWTGw0SlE1a2lja1NGQjBPYXJYUnhwUFE1aWd5OVhJNE9UM29MXzVlNTRSLVJiQ1lZLWhyUE1kbUVWVndzTFJDWU5HRnJmN2YtVVkta1FNQlMtUWI?oc=5",
-      "original_publish_time": "2026-06-19T03:17:27+00:00",
-      "scraped_time": "2026-06-19T09:24:10.365280+00:00",
-      "time_delta_mins": 0,
-      "category": "Manufacturing",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "sole"
-      ],
-      "relevance_score": 3,
-      "summary": "Fire breaks out at shoe sole factory in Agra, eight fire tenders deployed The News Mill",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "d62e8a981df7",
-      "title": "Thorogood Boots Opens $14.5 Million Manufacturing Facility and First Retail Store in Wisconsin - WWD",
-      "source_name": "Google News - Shoe Manufacturing",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZnU0N2xGMmNjR1BsUDItTDRjVU5aQU5LU3pUcENrNmY5ZjZJeDV3Q0tLalRwNVJsT1I1MW5qUnVSY0txbm9YZXJ2REdBMXJ0eUFoRElYQWpDZzhtQVZvMHRhck5pMHlTS09HX2lYNWhZLVRyWDFSSTlZUlI5cmpTVjA1NXlGOUt3cmlBYU9JQjJ0NXNzQTZfSkxNN1pHcGtZODlmYjExYWc1SUFXTEY2TkVnSlBpTjJiRjdsSw?oc=5",
-      "original_publish_time": "2026-06-19T01:18:22+00:00",
-      "scraped_time": "2026-06-26T00:13:19.600753+00:00",
-      "time_delta_mins": 0,
-      "category": "Manufacturing",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 3,
-      "summary": "Thorogood Boots Opens $14.5 Million Manufacturing Facility and First Retail Store in Wisconsin WWD",
       "ren_take": "",
       "image_url": ""
     }
