@@ -1,8 +1,29 @@
 {
-  "last_updated": "2026-06-27T07:53:15.039224+00:00",
+  "last_updated": "2026-06-27T12:20:20.468889+00:00",
   "total_articles": 122,
-  "sources_checked": 62,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "443e92fb4916",
+      "title": "PUMA's Signature Slim Sneaker-Turned-Mary-Jane Goes Aqua Marine",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/puma-speedcat-go-sheer/",
+      "original_publish_time": "2026-06-27T11:45:00+00:00",
+      "scraped_time": "2026-06-27T12:13:01.909552+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Puma"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "Puma Speedcat Go Sheer “Aqua Marine” reimagines the iconic slim sneaker with a Mary Jane-inspired strap, sheer mesh upper, and fresh colorway.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "58ca4ffbb0bd",
       "title": "Nike's ACG Staple Sneaker Is Retro, Rugged & Still Running the Show",
@@ -184,6 +205,29 @@
       ],
       "relevance_score": 3,
       "summary": "The athletics retailer debuted a safety footwear collection with Glo Brands B.V., while the discount chain hired a chief retail officer and a chief legal officer.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "03c36a25699e",
+      "title": "The Nike Air Max Phenomena \"Cacao Wow/Metallic Silver\" Applies a Loafer Silhouette to the Air Max SNDR Sole",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/6/nike-air-max-phenomena-cacao-wow-metallic-silver-im8814-200-official-images",
+      "original_publish_time": "2026-06-26T11:58:42+00:00",
+      "scraped_time": "2026-06-27T12:09:21.744312+00:00",
+      "time_delta_mins": 0,
+      "category": "Manufacturing",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "footwear",
+        "sole",
+        "upper"
+      ],
+      "relevance_score": 7,
+      "summary": "Name: Nike Air Max Phenomena \"Cacao Wow/Metallic Silver\"Colorway: Cacao Wow/Metallic SilverSKU: IM8814-200MSRP: TBCRelease Date: TBCThe Nike Air Max Phenomena is Nike's take on the loafer, a silhouette developed by the brand's SWDC design crew that places a dress shoe-informed upper onto the sole unit of the Air Max SNDR. The \"Cacao Wow/Metallic Silver\" colorway is continuing Nike's sustained push into footwear that borrows from tailored and formal dress codes without fully departing from its sneaker construction logic.The sole connection to the Air Max SNDR is the Phenomena's most legible technical detail. The SNDR, itself a recent Nike silhouette oriented around a low-profile Air unit and clean tooling, provides a foundation that sits closer to the ground than a traditional Air Max stack",
       "ren_take": "",
       "image_url": ""
     },
@@ -2459,45 +2503,6 @@
       ],
       "relevance_score": 3,
       "summary": "Brand Information: Adidas Originals is the heritage line of the German activewear brand adidas. The line specializes in lifestyle sneakers and streetwear apparel that seamlessly fuses fashion with function. A classic meets modern amalgamation that has already produced iconic models such as the NMD_R1, Stan Smith, Forum Low, Ultraboost, and Superstar, alongside a slew of successful collaborations with cultural icons and influential brands like Pharrell Williams, Alexander Wang, Palace, Kendall Jenner and more. Staying true to its athletic roots, the label has also formed brand sponsorships with world-class athletes such as Lionel Messi, David Beckham, and James Harden, to name a few.Price Range: $40.00 USD - $480.00 USDWhere to Buy: Available now on HBX Click here to view full gallery at Hy",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "fc1c3e0a5f1b",
-      "title": "Pakistan inaugurates first CETP to strengthen sustainable leather exports",
-      "source_name": "Textile Today",
-      "source_domain": "textiletoday.com.bd",
-      "source_url": "https://textiletoday.com.bd/pakistan-inaugurates-first-cetp-to-strengthen-sustainable-leather-exports",
-      "original_publish_time": "2026-06-20T11:59:00+00:00",
-      "scraped_time": "2026-06-20T18:12:01.222064+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "leather exports"
-      ],
-      "relevance_score": 3,
-      "summary": "Pakistan has inaugurated its first Common Effluent Treatment Plant (CETP), a project backed by the United Nations Industrial Development Organization (UNIDO) that aims to transform the country’s leath...",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "396a23d45a34",
-      "title": "Chupps Footwear Targets 50 Stores, Expands Footwear Portfolio",
-      "source_name": "Apparel Resources",
-      "source_domain": "apparelresources.com",
-      "source_url": "https://apparelresources.com/business-news/retail/chupps-footwear-targets-50-stores-expands-footwear-portfolio/",
-      "original_publish_time": "2026-06-20T11:08:27+00:00",
-      "scraped_time": "2026-06-20T12:35:02.023689+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "sandal"
-      ],
-      "relevance_score": 4,
-      "summary": "Chupps, a D2C footwear brand, is accelerating its retail expansion, targeting 40-50 stores over the next two years while expanding its product portfolio across sandals, home footwear, and functional comfort categories. The company has expanded beyond its initial men’s range and now offers footwear for women and children. It is also strengthening its presence in […] The post Chupps Footwear Targets 50 Stores, Expands Footwear Portfolio appeared first on Apparel Resources .",
       "ren_take": "",
       "image_url": ""
     }
