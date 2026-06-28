@@ -1,6 +1,107 @@
 {
-  "last_updated": "2026-06-21T11:18:57.417870+00:00",
+  "last_updated": "2026-06-28T10:30:25.147923+00:00",
   "bulletins": [
+    {
+      "id": "wk26-2026",
+      "week_number": 26,
+      "year": 2026,
+      "date_from": "2026-06-22",
+      "date_to": "2026-06-28",
+      "published": "2026-06-28T10:30:25.147344+00:00",
+      "intro": "Week 26 arrives with a structural tension that has been building for years: the premium-casual hybrid is now the dominant product brief across every tier, from Nike's Air Max loafer to PUMA's Vibram Suede, while the manufacturing base that makes it all possible is quietly fracturing — Spain losing 1,100 companies, Davao's artisans aging out, Pakistan's leather segment softening. The decorative layer of collaboration announcements sits on top of a supply chain that is being asked to do more with less. Watch the gap between what brands are designing and what the production ecosystem can actually sustain.",
+      "articles": [
+        {
+          "title": "Willy Chavarria Dives Deeper Into Shoes With a Debut Ugg Collab, New Luxury Footwear Partner + More Adidas Styles on the Way",
+          "source_name": "Footwear News",
+          "source_url": "https://wwd.com/footwear-news/shoe-industry-news/willy-chavarria-ugg-adidas-stan-smith-paris-interview-1239042147/",
+          "category": "Retail",
+          "relevance_score": 10,
+          "original_publish_time": "2026-06-27T22:44:56+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "Shoes to fill: Leather, labor, legacy in Davao’s local footwear industry - Atenews",
+          "source_name": "Google News - Footwear Industry",
+          "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObWxUZ2tOSVM4aHRNcWhPSmdJMWJkTUxnNU5KNm5XWDE1WHpZdFZ3cFFjdzN1YzBST3RmdDNpTXNZU0dyeHR5VXVNLTR3WG9OY0lOTHFlOTJwOVpxWTR6c1F1NUUwM0hvOWNCTno2YjhZcmhGUVFEWUg5bUNKM3BDamt2LThRUUx1VDYyMHdJQjE?oc=5",
+          "category": "Leather",
+          "relevance_score": 9,
+          "original_publish_time": "2026-06-24T04:36:21+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "The Nike Air Max Phenomena \"Cacao Wow/Metallic Silver\" Applies a Loafer Silhouette to the Air Max SNDR Sole",
+          "source_name": "Hypebeast",
+          "source_url": "https://hypebeast.com/2026/6/nike-air-max-phenomena-cacao-wow-metallic-silver-im8814-200-official-images",
+          "category": "Manufacturing",
+          "relevance_score": 7,
+          "original_publish_time": "2026-06-26T11:58:42+00:00",
+          "misaki_take": "The Air Max Phenomena is a manufacturing brief as much as a design brief — bonding a dress shoe last profile to a chunky cushioning platform requires precise lasting tension management, and the material transition between the leather-look upper and the foam carrier is where quality failures will surface at scale. Nike's SWDC has done the concept work, but the real test is whether their Tier 1 partners can hold tolerance on that silhouette junction across a volume run."
+        },
+        {
+          "title": "PUMA's Most Classic Sneaker Is a Dapper Vibram-Soled Dress Shoe Now",
+          "source_name": "Highsnobiety",
+          "source_url": "https://www.highsnobiety.com/p/puma-suede-vibram-sneakers/",
+          "category": "Leather",
+          "relevance_score": 7,
+          "original_publish_time": "2026-06-23T21:07:38+00:00",
+          "misaki_take": "Specifying Vibram is a deliberate signal to a trade buyer audience as much as a consumer one — it communicates a floor on outsole quality and shifts part of the brand-building cost to a supplier with its own equity, which is an efficient move when your own heritage sole unit is already commoditized. The FOB impact of a Vibram spec on a volume sneaker is non-trivial, typically adding $2.50–$4.00 per pair, so watch whether this stays a limited SKU or tests into mainline."
+        },
+        {
+          "title": "Footwear industry is backbone of India’s economy: Union Minister Giriraj Singh - News On AIR",
+          "source_name": "Google News - Footwear Industry",
+          "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ29UaXZQZHFWUm1nX2FHV3h5VGlhdFRaX01vcllPcGc2bU5fRFdmR282RjQ1ZnkyTE9Ic0drOHQ2SjM3NkI5ZFI3eEZsRHUyaTI0LW15clpXMnJYcS15QmN6Qy0xR1NEbVd0QVp6b0taVXVkZXVYNUxsdHdlX2JFUGtKLUFXenJ6eVdxU1I5NF9ud2tPVTFLM3hwbmNZdHl4cFFZdQ?oc=5",
+          "category": "Sustainability",
+          "relevance_score": 6,
+          "original_publish_time": "2026-06-25T19:16:39+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "Official Look at the Vans x FTMD Premium LX Old Skool “Migratory Patterns”",
+          "source_name": "Hypebeast",
+          "source_url": "https://hypebeast.com/2026/6/vans-ftmd-premium-lx-old-skool-migratory-patterns-release-info",
+          "category": "Leather",
+          "relevance_score": 6,
+          "original_publish_time": "2026-06-24T09:53:22+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "EU footwear imports generate over 1.2 million tonnes of potential waste each year - FashionNetwork France",
+          "source_name": "Google News - Footwear Industry",
+          "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOXzQ5ZTR0N0pBTjZfcjh2d2hhbEhsak93UUROYnhIZTMwLVJycE5ud01zdE81MWd3Y293Z3FrNjBRODl1bkJUaEhiUG9VcHRuSlI1MC12VzJtWlBNX3Q1VndXVGFmWFJpOHdSMC1JM0x6UkxpTm92emdQalVOWmw4OUV1WDk2bEZYa1FWR081Y1loMk5KS2pUV0EyNlVISkUweUpLZThhOGZXbEtaNHByb1NSaEdlc2xyaVlUa3c2VU9Dd1U5Q2tQOA?oc=5",
+          "category": "Trade Data",
+          "relevance_score": 6,
+          "original_publish_time": "2026-06-23T11:51:47+00:00",
+          "misaki_take": "1.2 million tonnes is not a sustainability talking point — it is a number that will be written into the EU's Extended Producer Responsibility framework revisions, and brands exporting into the EU market need to be building end-of-life cost assumptions into their product costing models now rather than after the legislation lands. Sourcing teams that have not already mapped their EU-bound SKUs against material recyclability classifications are behind this curve."
+        },
+        {
+          "title": "Pakistan footwear exports rise despite weakness in the leather segment - World Footwear",
+          "source_name": "Google News - Footwear Industry",
+          "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRWwteUI5UnNPUW9FM0loNlhVZUNNV0ozWE5vOHljODZEXzA4UkpJb3YzeExYV2ZlTE1lbHNFZkVWMHI1REZoME1iU2hwUEQ5NE1pcWh6VWIzT3g4MWRRVkROZ09wSWFaNGE2b2xCWl9YSHJDdExmNGJPbF8zcFRjWE9aSXFuVk9tS3VqeGkyVWFQQjNDczNpcjN0Mm9XQ0d6OC00SlpIdUppNWEyTE5jbDAtZ2lJam8?oc=5",
+          "category": "Leather",
+          "relevance_score": 6,
+          "original_publish_time": "2026-06-22T23:04:34+00:00",
+          "misaki_take": "The divergence — export growth with leather segment softness — almost always means the volume growth is being carried by synthetic and textile upper constructions, which is a structural shift in Pakistan's manufacturing identity that has long-term implications for tannery investment and skilled cutting labor retention. Buyers relying on Pakistan for full-grain leather product at competitive FOB should be stress-testing those supplier relationships, because the factory floor incentive is moving toward the easier margin."
+        },
+        {
+          "title": "Spanish footwear industry lost over 1,100 companies since 2020: AEC calls for urgent action plan - fashionunited.uk",
+          "source_name": "Google News - Footwear Industry",
+          "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOT1Bsd3VNTzBkZUgzY0tsazRQamotT3U1dEsyT2ptSDRjeU5SV2RqNjkzaThMZVZqRTRpSkIyc1l1RDdjbVJFb2NRRzR2MS14MzdaeERVQzFseUIwWER4eUU3M1RwWkU0RTNIYXhheXA1cTBPbGpMNEM3TXJVY1liSEhhWmptcVhMSGxJakFyZ1hiNk1YbXBzaFlZZ19OT3ZkVXI3OU55Xy1teE53X0U4cEFyS2d2a3ptcnBZVnloMnFkRzlwNTZVSGlpVDZPeUZ6NU9MR1IyMFIxcURUMWVMQlZR?oc=5",
+          "category": "Retail",
+          "relevance_score": 6,
+          "original_publish_time": "2026-06-22T08:37:53+00:00",
+          "misaki_take": "Losing 1,100 companies in five years is not a cyclical contraction — it is a structural liquidation of the mid-tier production base, and the companies that remain are either at the artisan luxury end with defensible positioning or large enough to have automated and absorbed the cost pressure. For brands that built European-made credentials on Spanish factory relationships, this is a supplier concentration risk moment that requires an honest audit of which partners can actually survive another five years."
+        },
+        {
+          "title": "Portuguese footwear industry received at the United Nations - World Footwear",
+          "source_name": "Google News - Footwear Industry",
+          "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVWxOS29ta2RsNU04VnBrU2drZXdtNm4xZ1lkZTMyU29vdWpmcGpYN2tGTmxfQlJlMTBEMGdPZE1yalo3MzVRek5hTXZ3Uk1RZGVaTmNWUmF3b21ienNSN2h3NGh0MlFOd19VSjhJLWhGR2tNU1M3MXk2WGxlWDBwLUJDTVdaSXNGeng3Uk10SnpTYWVsUENNbTloUFhXVmpKU01GZURRUXA?oc=5",
+          "category": "Supply Chain",
+          "relevance_score": 6,
+          "original_publish_time": "2026-06-21T23:03:39+00:00",
+          "misaki_take": "UN-level recognition is a validation of APICCAPS's long-running strategy of positioning Portuguese manufacturing as the global benchmark for responsible, traceable, high-value footwear production — and it strengthens the hand of Portuguese factories in FOB negotiations with brands that need credible sustainability provenance for their European consumers. The practical sourcing implication is that capacity in Portugal will remain constrained and premium-priced, and brands not already in the queue will find lead times, not price, to be the limiting factor."
+        }
+      ]
+    },
     {
       "id": "wk25-2026",
       "week_number": 25,
