@@ -1,8 +1,52 @@
 {
-  "last_updated": "2026-06-27T18:09:44.831665+00:00",
-  "total_articles": 121,
+  "last_updated": "2026-06-28T00:16:50.817887+00:00",
+  "total_articles": 123,
   "sources_checked": 62,
   "articles": [
+    {
+      "id": "df274593ea47",
+      "title": "Willy Chavarria Dives Deeper Into Shoes With a Debut Ugg Collab, New Luxury Footwear Partner + More Adidas Styles on the Way",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/willy-chavarria-ugg-adidas-stan-smith-paris-interview-1239042147/",
+      "original_publish_time": "2026-06-27T22:44:56+00:00",
+      "scraped_time": "2026-06-28T00:05:39.342292+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Adidas",
+        "UGG"
+      ],
+      "keywords_matched": [
+        "footwear",
+        "shoes"
+      ],
+      "relevance_score": 10,
+      "summary": "The designer is now working with Giuseppe Zanotti to develop his luxury footwear line.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "e244830bd00d",
+      "title": "The Whitaker Group's Leather adidas Sneaker Is a Low-Soled, High-Class Ride",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/whitaker-group-adidas-ghost-moto-low/",
+      "original_publish_time": "2026-06-27T20:26:42+00:00",
+      "scraped_time": "2026-06-28T00:09:34.899710+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "sole"
+      ],
+      "relevance_score": 5,
+      "summary": "The Whitaker Group returns with an exclusive adidas Ghost Moto Low sneaker as part of its ongoing \"Do Not Duplicate\" series. And it's quite the luxe ride.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "241eaf4bc4a2",
       "title": "Asics Bets on Chinese Creativity, Takes Lisa-approved Empty Behavior to Paris",
