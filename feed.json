@@ -1,8 +1,105 @@
 {
-  "last_updated": "2026-06-29T09:30:51.922504+00:00",
+  "last_updated": "2026-06-29T14:58:50.016019+00:00",
   "total_articles": 127,
-  "sources_checked": 60,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "a36c48f53e74",
+      "title": "Nike Is Releasing An Air Force 1 Low For The MLB All-Star Game",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/06/29/nike-air-force-1-low-mlb-all-star-2026-philly-iv6205-104/",
+      "original_publish_time": "2026-06-29T14:31:13+00:00",
+      "scraped_time": "2026-06-29T14:47:51.592349+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Over five years after becoming the exclusive uniform and footwear sponsor of Major League Baseball, Nike finally has some lifestyle sneaker drops to show for... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike Is Releasing An Air Force 1 Low For The MLB All-Star Game appeared first on Sneaker News . The post Nike Is Releasing An Air Force 1 Low For The MLB All-Star Game appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "c1ca6c9352c8",
+      "title": "Footwear Showcase to Boost Local Manufacturing in South Africa - Devdiscourse",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxON3ZweUhpMkUxZU12endFUzVxaU11aER2ZEdkQ21pSGJDREFQYXhQMVV4Nlc0MWh4TXQwWktQMWUtN08zYjBvQnQ4NEZKQ25za0tnNXY2Rk1EaEVkQW56Z0tpb0FjZmNZODA2TzRhX1FjX1d0NnJQLURINjFaZC1hQ2NGR3lpdHpONjZfZUk5OXllNlBSRjR3M3BSMVhuZURiWVhLcC1fbm50OUFtaFEyOE04MS1weUXSAbwBQVVfeXFMT1MySDNnT3lJVjMyTUtGUEx0OVJ5aDlZMktDUDhwN0pJUTVid0F2TmgyUHNFMU8weGZZZEQ4dURVRThDWGpUMkE2a0w4eVNkbFVUZkhSTGdNaUdxQi10V3Zhcml4QnJkTDJtNXVjWjJ4RUtRc0tHSjVxTzV2YmRVVVMyU050UjM1aUhtazVqNV9UOEd2STZZenFfZEVLQV9MN3BGSFN4VElMQVhFT09NaFhKQ0Vhd1p1ZnJwMW4?oc=5",
+      "original_publish_time": "2026-06-29T11:32:32+00:00",
+      "scraped_time": "2026-06-29T14:48:02.596443+00:00",
+      "time_delta_mins": 0,
+      "category": "Manufacturing",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Footwear Showcase to Boost Local Manufacturing in South Africa Devdiscourse",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "58140877cf31",
+      "title": "Charlotte Tilbury introduced to select Boots stores",
+      "source_name": "Retail Gazette",
+      "source_domain": "retailgazette.co.uk",
+      "source_url": "https://www.retailgazette.co.uk/blog/2026/06/charlotte-tilbury-boots-stores/",
+      "original_publish_time": "2026-06-29T10:22:45+00:00",
+      "scraped_time": "2026-06-29T14:51:00.781515+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 3,
+      "summary": "Luxury cosmetics brand Charlotte Tilbury will be available in 31 Boots stores from July, as the two beauty giants partner for the first time. The Puig-owned brand, founded by makeup artist Charlotte Tilbury, will introduce skin care, makeup and fragrance products in Boots’ locations such as Aberdeen, Chester, Leeds, Derby and Plymouth. “My mission has...",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "f878bf2bf291",
+      "title": "Week in Review: Why fashion supply chains must look beyond carbon",
+      "source_name": "Just Style",
+      "source_domain": "just-style.com",
+      "source_url": "https://www.just-style.com/comment/week-in-review-why-fashion-supply-chains-must-look-beyond-carbon/",
+      "original_publish_time": "2026-06-29T09:22:40+00:00",
+      "scraped_time": "2026-06-29T14:47:40.755648+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "fashion supply chain"
+      ],
+      "relevance_score": 3,
+      "summary": "A refugee-made documentary screened at Uniqlo's sustainability event shows why fashion's sustainability story goes beyond carbon.",
+      "ren_take": "",
+      "image_url": "https://www.just-style.com/wp-content/uploads/sites/27/2026/06/IMG_6625-scaled.jpg"
+    },
+    {
+      "id": "279aa9125e36",
+      "title": "Footwear initiative creates new opportunities for jobs and growth - South African Government News Agency",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeXQ1ekNuSXRvUF9FYmU0TnpWZ3Z6MDNkQzhHTk5hOWxJZjdSUmxlYWtxeGxwQnlDV01SRXNINkhjVGJpN0R2TFF5WF85M19xSnVaMGpzdFpEeWswVWMtdDJ5Yk9DS1pnYlE0UG1OZ1p0ZUtxUlhUZlBDMF9INGtKODJkUklzd0dvYmt6WGdkbmh2XzZBT25mcDZjR0NaZUxaWnc?oc=5",
+      "original_publish_time": "2026-06-29T09:19:42+00:00",
+      "scraped_time": "2026-06-29T14:48:02.596979+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Footwear initiative creates new opportunities for jobs and growth South African Government News Agency",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "e569227614ea",
       "title": "One of Salomon’s Most Popular Sneakers Is Getting Its Biggest Update Yet With This New Limited-edition Collaboration",
@@ -2508,111 +2605,6 @@
       ],
       "relevance_score": 3,
       "summary": "Jordan Brand doesn’t shy away from meeting big sporting events with special footwear, whether that’s basketball (duh), soccer, golf, or for our purposes, tennis. With... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post This Air Jordan 1 Low Takes Inspiration From Tennis Balls appeared first on Sneaker News . The post This Air Jordan 1 Low Takes Inspiration From Tennis Balls appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "8fb85b83867e",
-      "title": "Beaded Sandals Take the Season’s Maximalism Up a Notch",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-trends/beaded-sandal-trend-summer-1239021725/",
-      "original_publish_time": "2026-06-22T13:58:03+00:00",
-      "scraped_time": "2026-06-22T15:52:11.986102+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "sandal"
-      ],
-      "relevance_score": 3,
-      "summary": "Step aside, jelly sandals: another playful, nostalgic shoe is defining summer dressing.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "aa390074184d",
-      "title": "This Vans Collection Makes Sneakers an Art Form",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/this-vans-collection-makes-sneakers-an-art-form/",
-      "original_publish_time": "2026-06-22T11:42:20+00:00",
-      "scraped_time": "2026-06-22T15:55:56.105769+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Vans"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 5,
-      "summary": "Legendary skate brand Vans and e-retailer Zalando have joined forces for a collaboration featuring new styles worn by three artists pushing the boundaries of their craft.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "c8937d0e62d5",
-      "title": "Nike Outfits the Pegasus Premium in Bold “Cow Print” and Pony Hair",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/6/nike-pegasus-premium-cow-print-light-orewood-brown-black-university-red-sail-ir0033-100-official-images",
-      "original_publish_time": "2026-06-22T11:03:44+00:00",
-      "scraped_time": "2026-06-23T08:22:43.320524+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "midsole",
-        "sole",
-        "upper"
-      ],
-      "relevance_score": 5,
-      "summary": "Name: Nike Pegasus Premium “Cow Print”Colorway: Light Orewood Brown/Black-University Red-SailSKU: IR0033-100MSRP: $230 USDRelease Date: Fall 2026Nike's Pegasus Premium roster is set to welcome a new “Cow Print” variant this fall. The upper is grounded by a soft, natural \"Light Orewood Brown\" engineered mesh, which is sharply contrasted by a solid black tongue, laces and inner lining. Leaning fully into the western-inspired trend, Nike elevates the traditional branding by outfitting the lateral profile Swooshes in a \"Sail\"-colored pony hair material.The lower half of the sneaker is where the design truly makes its impact. The synthetic mudguard panels and the upper portion of the ZoomX foam midsole are entirely wrapped in an eye-catching, black-and-white cow print pattern. Breaking up this ",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "3538dfd4604d",
-      "title": "Menstrual health: A missing link in  fashion supply chains",
-      "source_name": "Just Style",
-      "source_domain": "just-style.com",
-      "source_url": "https://www.just-style.com/interviews/menstrual-health-a-missing-link-in-fashion-supply-chains/",
-      "original_publish_time": "2026-06-22T10:51:01+00:00",
-      "scraped_time": "2026-06-22T15:52:12.075411+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "fashion supply chain"
-      ],
-      "relevance_score": 3,
-      "summary": "Just Style speaks to drip by drip about tackling menstrual health in fashion's supply chain, starting with a pilot scheme in Bangladesh.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "1a4feef3b7a9",
-      "title": "This Yellow Plaid Nike Air Force 1 Low Brings Cher’s Iconic Outfit to Your Feet",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/6/nike-air-force-1-low-clueless-yellow-plaid-multi-color-yellow-ochre-white-black-ir5596-900-official-images-info",
-      "original_publish_time": "2026-06-22T09:53:52+00:00",
-      "scraped_time": "2026-06-22T10:30:57.988472+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "insole",
-        "sole",
-        "upper"
-      ],
-      "relevance_score": 5,
-      "summary": "Name: Nike Air Force 1 Low \"Clueless”Colorway: Multi-Color/Yellow Ochre/White/BlackSKU: IR5596-900MSRP: $125 USDRelease Date: July 2026The Nike Air Force 1 Low “Clueless” is a women’s exclusive sneaker that pays homage to Alicia Silverstone’s iconic yellow plaid outfit from the 1995 film Clueless. The upper is dressed in a bold plaid textile featuring yellow, black and white tones, directly referencing Cher Horowitz’s signature look.A black leather Swoosh overlays the patterned base, while black laces, tongue, and lining provide sharp contrast. Metallic AF1 lace dubraes add a subtle touch of shine,while classic Nike Air branding appears on the tongue, insole and heel tab, reinforcing the shoe’s heritage identity. Click here to view full gallery at Hypebeast",
       "ren_take": "",
       "image_url": ""
     }
