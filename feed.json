@@ -1,8 +1,256 @@
 {
-  "last_updated": "2026-06-30T13:20:30.782663+00:00",
-  "total_articles": 144,
-  "sources_checked": 61,
+  "last_updated": "2026-06-30T19:05:08.322293+00:00",
+  "total_articles": 145,
+  "sources_checked": 60,
   "articles": [
+    {
+      "id": "017fa0293c65",
+      "title": "Kylie Jenner’s Brand Khy Is About to Launch Footwear — And She Subtly Teased It at a Knicks Game",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-trends/kylie-jenner-khy-footwear-launch-tease-1239047958/",
+      "original_publish_time": "2026-06-30T18:29:36+00:00",
+      "scraped_time": "2026-06-30T18:54:10.864206+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "The footwear can also be seen in the brand's Dear Summer, Love Khy campaign.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "1320c1500881",
+      "title": "Birkenstock Got Its Own “Birken” Bags",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/birkenstocks-bag-sacai/",
+      "original_publish_time": "2026-06-30T18:04:20+00:00",
+      "scraped_time": "2026-06-30T18:57:58.848007+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Birkenstock"
+      ],
+      "keywords_matched": [
+        "sandal"
+      ],
+      "relevance_score": 3,
+      "summary": "For Spring/Summer 2027, sacai made itself a literal Birken bag, producing a sleek leather tote in the image of a classic Birkenstock sandal.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "396cfb13a360",
+      "title": "Nike’s Tasteful Tan Air Max Has a Rugged Side",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-air-max-95-desert-khaki-sail/",
+      "original_publish_time": "2026-06-30T17:59:09+00:00",
+      "scraped_time": "2026-06-30T18:57:58.848946+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "Nike's Air Max 95 \"Desert Khaki\" sneaker lands with rugged touches & clean tan views. Here's everything on the newest Big Bubble stepper.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "d026af2bb363",
+      "title": "Nike’s Futuristic Air Liquid Max Gets an All-black, Wavy Makeover",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-air-liquid-max-triple-black-release-date-iq7635-003-1239048020/",
+      "original_publish_time": "2026-06-30T17:57:35+00:00",
+      "scraped_time": "2026-06-30T18:54:10.867144+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "One of a few new variants to change its upper pattern.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "1f016d90c2b3",
+      "title": "A Closer Look at the Shoes in Marc Jacobs Spring 2027 Show",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-trends/marc-jacobs-spring-2027-shoes-sandals-1239047686/",
+      "original_publish_time": "2026-06-30T16:48:39+00:00",
+      "scraped_time": "2026-06-30T18:54:10.867950+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "The collection was presented at the New York Public Library on Monday.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "dfa2a6f50780",
+      "title": "PUMA’s Suede and Speedcat Inspired This Paris Café",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/6/puma-cafe-paris-fashion-week-ss27-popup-recap",
+      "original_publish_time": "2026-06-30T16:43:23+00:00",
+      "scraped_time": "2026-06-30T18:54:21.309717+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Puma"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "SummaryPUMA opened the doors to PUMA Café this past weekend for Paris Fashion Week, celebrating the Suede and the Speedcat, two of its most iconic silhouettesThe café pop-up ran from June 24 through 28, and doubled as a footwear showroom, serving up drinks, bites, and sounds by Timothée Joly and Kofi BæPUMA left its print in Paris this past weekend with PUMA Café, celebrating a pair of its most beloved models: the Speedcat and the Suede. While much of Fashion Week was a rather stylish sprint between shows, the brand’s showroom pitstop kept it calm with an immersive tale of two silhouettes.A playful, sleek nod to classic bon vivant culture, guests could chill, sip, and shop in the Le Marais pop-up, which doubled as a breather before heading back into the city. PUMA Café, which ran from June",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "93f5fd70f86f",
+      "title": "The Nike Air Foamposite Pro Sports “Glow In The Dark” Uppers",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/06/30/nike-air-foamposite-pro-glow-in-the-dark-iv6246-100/",
+      "original_publish_time": "2026-06-30T16:40:06+00:00",
+      "scraped_time": "2026-06-30T18:54:21.452678+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 5,
+      "summary": "If there’s one Nike sneaker category that can make glow-in-the-dark treatments actually work, it’s Foamposite, the often-childish feature pairing perfectly with the far-out themes and... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Nike Air Foamposite Pro Sports \"Glow In The Dark\" Uppers appeared first on Sneaker News . The post The Nike Air Foamposite Pro Sports “Glow In The Dark” Uppers appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "e4311b08d273",
+      "title": "The 17 Most Talked About Paris Men’s Shoe Moments for Spring 2027, From Jaden Smith and Louboutin to Saint Laurent",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-trends/paris-mens-shoe-moments-spring-2027-1239047625/",
+      "original_publish_time": "2026-06-30T16:16:31+00:00",
+      "scraped_time": "2026-06-30T18:54:10.868491+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Louboutin"
+      ],
+      "keywords_matched": [
+        "boot",
+        "shoes"
+      ],
+      "relevance_score": 4,
+      "summary": "Hot shoes of the moment continue to include flip-flops, slip-on styles, oversized boots and even ballet flats.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "1bfeb63d1300",
+      "title": "From ASICS to New Balance, Browse This Week’s Best Sneaker Releases",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/sneaker-releases-2026-june-week-5/",
+      "original_publish_time": "2026-06-30T15:58:17+00:00",
+      "scraped_time": "2026-06-30T18:57:58.849819+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "New Balance",
+        "ASICS"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 6,
+      "summary": "The world of sneakers releases is a tricky one to navigate, but we here with best of the open market, from Nike to ASICS & New Balance.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "03ec4d1f52ac",
+      "title": "Off-White Is Offering Access & Affordability With the Launch of L/AB c/o",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/6/off-white-lab-co-label-launch-collection-release-info",
+      "original_publish_time": "2026-06-30T14:35:11+00:00",
+      "scraped_time": "2026-06-30T18:54:21.311441+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Off-White"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "SummaryOff-White launched L/AB c/o, a new sub-label continuing Virgil Abloh’s accessible \"Off-White For All\" concept for young consumers.The debut collection features classic industrial-style apparel and sneakers, with all pieces priced under $200.Off-White has a new sub-label, which some fans may find familiar. As a re-up to Virgil Abloh’s accessible “Off-White For All” concept, the late designer’s imprint is reintroducing a diffusion line under a new name with the same message — L/AB c/o.The collection features apparel and sneakers rendered in the brand’s classic industrial aesthetics, including the diagonal strip motif, typographic prints, and plenty of “Off-White” callouts. However, every piece in the first drop, from the t-shirts to the sneakers, sit well below $200 USD. According to ",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "2168e22dbf1f",
+      "title": "Nepali leather industry grows steadily as PG Shoes sets sights on exports - myRepublica",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeW9aREpXT0M5Ynk1RzFEdTNwZWwxeFBPZDdvclZXYTc0NnBTV3JLNjNLa2FINm8xYmM1ZnZubFhBdDYyOTM3VEtrMXlVSE0wZU9TTXNyNzgxTlg0RlNETWVxWlNnU0JtSk5UX1FpRGpheFJteDNqZFFZaEVaa3VxeG9SV3ZUVVVKUnFxblRlU3YzenNQV1Jmd0U5QUlWTlpMWjNlZFFET3B5cEQzNzlPbmpXQlFXcTd2cndBN250SUZHak5uWkZR?oc=5",
+      "original_publish_time": "2026-06-30T14:11:44+00:00",
+      "scraped_time": "2026-06-30T18:54:32.379990+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "leather industry",
+        "shoes"
+      ],
+      "relevance_score": 6,
+      "summary": "Nepali leather industry grows steadily as PG Shoes sets sights on exports myRepublica",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "834a2546ff1b",
+      "title": "How Wolverine’s New Made in USA Boot Celebrates America’s 250th Birthday",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/wolverine-american-heritage-usa-built-wedge-boot-1239046635/",
+      "original_publish_time": "2026-06-30T13:15:00+00:00",
+      "scraped_time": "2026-06-30T18:54:10.869243+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Wolverine"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 5,
+      "summary": "The American heritage brand Wolverine is celebrating the big milestone.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "dcf851b343da",
       "title": "BEPZA Attracts US $21.6 Million for Footwear Manufacturing Facility by Irish-Italian Firm",
@@ -2736,231 +2984,6 @@
       ],
       "relevance_score": 5,
       "summary": "Nurses Are Trading in Their $150 Hokas for These $46 Sneakers That Keep Them to Standing for 12+ Hour Shifts Real Simple",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "ac61add116ac",
-      "title": "Vans And Undercover Reconvene With Original Art And Gridded Sk8 His",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/06/23/undercover-vans-otw-slip-on-sk8-hi/",
-      "original_publish_time": "2026-06-23T18:45:14+00:00",
-      "scraped_time": "2026-06-23T19:08:00.173937+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [
-        "Nike",
-        "Vans"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "Once one of Nike’s most steadfast partners, legendary streetwear outfit Undercover has forged a rock-solid relationship with Vans as of late, visiting the California company... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Vans And Undercover Reconvene With Original Art And Gridded Sk8 His appeared first on Sneaker News . The post Vans And Undercover Reconvene With Original Art And Gridded Sk8 His appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "146a1322d432",
-      "title": "Nike’s Beloved Air Max Boot Is Getting a New Futuristic Foamposite Update",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-air-max-goadome-low-foamposite-sp-release-date-iv7693-500-1239026167/",
-      "original_publish_time": "2026-06-23T18:01:53+00:00",
-      "scraped_time": "2026-06-23T19:07:48.746411+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 5,
-      "summary": "The latest looks were previewed at men's Paris Fashion Week.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "b1e53946f33e",
-      "title": "Nike Air Diamond Turf II “49ers” Is Coming Soon",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/06/23/nike-air-diamond-turf-ii-49ers-ii7080-001-release-date/",
-      "original_publish_time": "2026-06-23T17:30:58+00:00",
-      "scraped_time": "2026-06-23T19:08:00.176236+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "Sale racks might tell one story, but for the generation of sneaker fans that watched him dominate in his prime, Deion Sanders shoes still command... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike Air Diamond Turf II \"49ers\" Is Coming Soon appeared first on Sneaker News . The post Nike Air Diamond Turf II “49ers” Is Coming Soon appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "215578dbf9ab",
-      "title": "Have Red Shoes Become the New Neutral?",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-trends/red-sandals-shoes-summer-trend-1239025643/",
-      "original_publish_time": "2026-06-23T17:09:29+00:00",
-      "scraped_time": "2026-06-23T19:07:48.748734+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "sandal",
-        "shoes"
-      ],
-      "relevance_score": 4,
-      "summary": "From elevated flip-flops to ballet flats and lace-up sandals, red shoes are having a moment.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "4e6abb44df27",
-      "title": "Nike And The Air Max 90 Square Up For Spring 2027",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/06/23/nike-air-max-90-square-toe/",
-      "original_publish_time": "2026-06-23T17:00:58+00:00",
-      "scraped_time": "2026-06-23T19:08:00.177761+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "Is all publicity really good publicity? Nike has put that truism to the test with their Paris Fashion Week opening salvo, already dividing the sneakersphere... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike And The Air Max 90 Square Up For Spring 2027 appeared first on Sneaker News . The post Nike And The Air Max 90 Square Up For Spring 2027 appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "75bf3d495406",
-      "title": "Nike Adds To Stacked Paris Fashion Week Showcase With The Air Max Dolce",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/06/23/nike-air-max-dolce-paris-fashion-week-ss27/",
-      "original_publish_time": "2026-06-23T16:00:32+00:00",
-      "scraped_time": "2026-06-23T19:08:00.180097+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Nike Sportswear has touched down at Paris Fashion Week with one of its most intriguing seasonal footwear collections in recent memory, headlined by the already-controversial... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike Adds To Stacked Paris Fashion Week Showcase With The Air Max Dolce appeared first on Sneaker News . The post Nike Adds To Stacked Paris Fashion Week Showcase With The Air Max Dolce appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "6af4b6d98502",
-      "title": "Top Shoes From the Presentations at Milan Men’s Fashion Week",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-trends/milan-mens-spring-2027-top-shoes-santoni-testoni-rossetti-1239023234/",
-      "original_publish_time": "2026-06-23T15:55:29+00:00",
-      "scraped_time": "2026-06-23T19:07:48.749355+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "shoes"
-      ],
-      "relevance_score": 4,
-      "summary": "Santoni, Testoni and Fratelli Rossetti revisited their heritage footwear with a fresh take.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "f9b72ad182d4",
-      "title": "New Balance and Miu Miu Reveal Coco Gauff’s Wimbledon Collection",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/coco-gauff-miu-miu-new-balance-wimbeldon-collection-1239025523/",
-      "original_publish_time": "2026-06-23T15:47:59+00:00",
-      "scraped_time": "2026-06-23T19:07:48.749955+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "New Balance"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "Including two new 530 SL sneakers in deco leather.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "9337e01bcfe1",
-      "title": "This Week’s Amazon Prime Days Could Be the Big AI Test for Footwear Shopping",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/ai-amazon-prime-fashion-shoes-consumers-1239024493/",
-      "original_publish_time": "2026-06-23T15:34:24+00:00",
-      "scraped_time": "2026-06-23T19:07:48.750485+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "shoes"
-      ],
-      "relevance_score": 4,
-      "summary": "Fashion and shoes are the big shopping categories, especially as some consumers begin back-to-school purchases.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "ca2f6abaca8a",
-      "title": "The Best Sneakers of 2026 (So Far) - Complex",
-      "source_name": "Google News - Sneaker Brand",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbVdHYWtwLTZHQ3lGUHY5SlBlN3pCNHNCLWdHQ1V6MkdRVlZRSVhCcXp1T2FEMS0wSDdLOFNIR3VlNlRMU2VVOGJqRUgzWlhraDNfQUFRQUpUZFpTTHFjQm5hOHZrOTloRGRvV2RtMi1Oekhwa1pzRnBDbFRMUkI0aURHLXBpdw?oc=5",
-      "original_publish_time": "2026-06-23T14:00:20+00:00",
-      "scraped_time": "2026-06-25T00:16:11.733018+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "The Best Sneakers of 2026 (So Far) Complex",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "a6d158258dc2",
-      "title": "Global footwear firms boost Tamil Nadu sourcing; Adidas unit starts in July - Business Standard",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSjJDLUxSSk1XQnpCdHIxbGVOMDRIdlVWYW51QXhsT3U3V18xLXpoV21pR081Z2ZKQUJ0VnZkdkhDSXBQc0xaR2RiRDZoXzc2S0lvY3ZNVHdyWElIX1ZEU0hISW5IMWQ0SFdhNEhIdXZ5TmxhbUxkSWc0VnFUQ1VXa0NHWHlqc1ZxNDZ6UmJNS0F2X2dPcXJqbi1rMHBCRXByNFZSZzdrNkVSZHlqTkprYlNMbGJkSGtlVlBKVC1lQkVfMWlkbXoyMXNkTV96WWVGWnBscGQzTHAyQdIB3wFBVV95cUxOOU9sOXJvcGNSVnNKXzN4bks1ZnZmOElWV1BkQjM4MlVTcGNRUmZCb2xRcTlsVHBCQzhJUDZSYXBLRXNHX1dSVjBuR2pXYmozaG1rUk1VQkZpMUNET3phMVpwVm9UYU9OSklHa1QzSjYxQnZxUURQREV1bkV1Vkl2ZTViSU91dGs3ZkprNHdMN2ZocVMyU0VPQnJlT0VBUEU1NS1OaHVmYVdWbGRDSEJ5em4tUzYxS0FBN3dVa1ZKb0ZPUTNpXzlQOHUxSmdlVThWNWNaX2xnOFhPZU9tVmJz?oc=5",
-      "original_publish_time": "2026-06-23T13:58:21+00:00",
-      "scraped_time": "2026-06-23T19:08:11.144551+00:00",
-      "time_delta_mins": 0,
-      "category": "Quality",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 5,
-      "summary": "Global footwear firms boost Tamil Nadu sourcing; Adidas unit starts in July Business Standard",
       "ren_take": "",
       "image_url": ""
     }
