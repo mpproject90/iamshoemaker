@@ -1,8 +1,71 @@
 {
-  "last_updated": "2026-06-30T00:19:16.545304+00:00",
+  "last_updated": "2026-06-30T08:34:10.620967+00:00",
   "total_articles": 139,
-  "sources_checked": 60,
+  "sources_checked": 62,
   "articles": [
+    {
+      "id": "bce0690bcd95",
+      "title": "Boots extends late-night delivery as football fans drive demand for match-day essentials",
+      "source_name": "Retail Gazette",
+      "source_domain": "retailgazette.co.uk",
+      "source_url": "https://www.retailgazette.co.uk/blog/2026/06/boots-extends-late-night-delivery-as-football-fans-drive-demand-for-match-day-essentials/",
+      "original_publish_time": "2026-06-30T05:06:16+00:00",
+      "scraped_time": "2026-06-30T08:26:24.110921+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 3,
+      "summary": "Boots is extending on-demand delivery hours to midnight across 25 more locations as football fans turn to rapid delivery for match-day essentials. The health and beauty retailer said new data from Boots and Deliveroo showed rising demand around England matches, with shoppers ordering products to homes and pubs rather than leaving the game to visit...",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "12c663bf92e6",
+      "title": "What Best Travel Footwear across Europe Looks Like, Top Shoe Brands Offering Comfort Mixed with Luxury and Practicality, Here is All You Need to Know - Travel And Tour World",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE41TVJfVVVOM1M2NGlmYnBienpMZTYwa2Y5MTVpa0dnMTJIdklpaHRDODIxdkNsVlFXcGd2dTZhT1c1bnhoa3duT3RucHhQRmRIWVhvM0diYWd4eUJJY3lxTjNITTQ2amhYMkhSSFR3?oc=5",
+      "original_publish_time": "2026-06-30T04:33:22+00:00",
+      "scraped_time": "2026-06-30T08:23:22.790057+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "shoe brand"
+      ],
+      "relevance_score": 6,
+      "summary": "What Best Travel Footwear across Europe Looks Like, Top Shoe Brands Offering Comfort Mixed with Luxury and Practicality, Here is All You Need to Know Travel And Tour World",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "e3ad69f19866",
+      "title": "What the Peak of Indian Travel Footwear Industry Looks Like Right Now, Top Shoe Brands Offering Comfort Mixed with Luxury and Practicality, Skechers India, Bata, Indus Shoe Industries and Many More, Here is All You Need to Know - Travel And Tour World",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5nRVczekFqNThDdkdzZE05X2NHTmI5UHd0TG9MOHpoaW1YUm0taVE4akJqeGNwUWg5cmJFalhGWDFLVWpOLXBLeklzYndod21SZ2gwY2pNblpPMFdBTjl6eG1DMF81MEZYTlhTeXRn?oc=5",
+      "original_publish_time": "2026-06-30T03:57:54+00:00",
+      "scraped_time": "2026-06-30T08:23:22.785139+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Skechers",
+        "Bata"
+      ],
+      "keywords_matched": [
+        "footwear",
+        "footwear industry",
+        "shoe brand"
+      ],
+      "relevance_score": 13,
+      "summary": "What the Peak of Indian Travel Footwear Industry Looks Like Right Now, Top Shoe Brands Offering Comfort Mixed with Luxury and Practicality, Skechers India, Bata, Indus Shoe Industries and Many More, Here is All You Need to Know Travel And Tour World",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "d62f12bc1438",
       "title": "'We're competing with Jordan?' Angela Simmons reveals how Pastry Sneakers evolved into a $75M brand on par with Jordan Brand - TheGrio",
@@ -2795,65 +2858,6 @@
       ],
       "relevance_score": 4,
       "summary": "Name: Nike Total 90 “White/Black”Colorway: TBCSKU: IO2388-100MSRP: TBCRelease Date: TBCNike is reportedly set to release the Total 90 \"White/Black,\" bringing the pack's all-over hexagonal quilted leather upper to its most stripped-back colorway. The “White/Black” build retains the asymmetrical lacing and flat rubber sole of the lifestyle Total 90 series, while the clean two-tone finish gives the shoe's soccer ball-mimicking stitch pattern its clearest canvasThe construction concept driving the Soccer Ball pack is arguably easier to read on the model than on any other colorway in the lineup. Where the “Pink Rise” edition wraps the hexagonal quilting in a single saturated shade that foregrounds color as much as texture, the White/Black build uses contrast to trace the stitch pattern's geomet",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "f333d2d2f6e6",
-      "title": "Nike’s Latest Game-Ready AF1 Just Made Accessorizing a Sport",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-air-force-1-game-day/",
-      "original_publish_time": "2026-06-23T08:26:24+00:00",
-      "scraped_time": "2026-06-23T13:46:43.223059+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "Nike Air Force 1 '07 \"Game Day\" features a crisp leather upper, clip-on charms for personal style, and classic cushioning.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "a3b8f0368f11",
-      "title": "Hideo Kojima Reveals Xbox Was the Only Platform Bold Enough to Back ‘OD’",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/6/hideo-kojima-reveals-xbox-was-the-only-platform-bold-enough-to-back-od",
-      "original_publish_time": "2026-06-23T07:27:02+00:00",
-      "scraped_time": "2026-06-23T08:22:43.314460+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "hide"
-      ],
-      "relevance_score": 3,
-      "summary": "SummaryHideo Kojima revealed a screenshot from his upcoming horror IP, OD, featuring an eerie hallway resembling his canceled project, P.T.In his interview with Entertainment Weekly, the game designer revealed that other major publishers rejected OD, calling the experimental concept \"crazy\"Hideo Kojima has once again ignited intense speculation across the gaming industry after sharing a striking screenshot from a previously released trailer for his upcoming horror title, OD.Shared on Kojima Productions' official social channels alongside an Entertainment Weekly feature celebrating Xbox's 25th anniversary, the image features a narrow, dimly lit hallway sporting an oppressive, sickly yellow paint choice. At the far end of the corridor, an open door frames a deeply disturbing, shadowy figure ",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "8b765a6d8900",
-      "title": "Five Reputable Men's Leather Shoe Manufacturers in China 2026: Driving Innovation in Premium Leather Footwear - EIN Presswire",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPckVPV1N4SGZORnlIRGJvc3F3NFNfeWxENHdtRk1DWkZJMXZISzhGUjlrSUFEdUdxS01SbEdPVm5HZXVSQl9pbi11LWlkNmNoalgwUHFza2hYbTRFd3VMMFhISmw5UWxGenRGUWJvNDZyVThNemlUdHltT3Vod1JLVGo2aGdYdG5BNGl3ZDFSbEJrUHlfYWpPQlVkUGtxMURSeGpSSW0tMEJ2Rkw1Z3RnbzhYaEV5NGM1bHFrN04wQ3FTVFFmXzViek9pbjBHUDBQcVN4R1BZWmlHdDJDOVpqc19ZMVlDYXNGMkhB?oc=5",
-      "original_publish_time": "2026-06-23T05:58:00+00:00",
-      "scraped_time": "2026-06-23T08:22:54.435339+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Five Reputable Men's Leather Shoe Manufacturers in China 2026: Driving Innovation in Premium Leather Footwear EIN Presswire",
       "ren_take": "",
       "image_url": ""
     }
