@@ -1,8 +1,69 @@
 {
-  "last_updated": "2026-07-01T00:20:46.963391+00:00",
-  "total_articles": 146,
+  "last_updated": "2026-07-01T08:53:47.715671+00:00",
+  "total_articles": 145,
   "sources_checked": 61,
   "articles": [
+    {
+      "id": "5f0d4332d3fb",
+      "title": "adidas' Techy Stomper Is Single-Handedly Resurrecting the Chunky Sneaker",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/adidas-adistar-xlg-2-blue/",
+      "original_publish_time": "2026-07-01T07:44:12+00:00",
+      "scraped_time": "2026-07-01T08:46:34.737618+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "adidas' Adistar XLG 2.0 proves chunky sneakers are here to stay with retro running DNA, premium comfort, and bold, techy styling.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "6ebb20b0cf77",
+      "title": "Nike’s growth sluggish as sales decline in China",
+      "source_name": "Drapers",
+      "source_domain": "drapersonline.com",
+      "source_url": "https://www.drapersonline.com/news/nikes-growth-sluggish-as-sales-decline-in-china",
+      "original_publish_time": "2026-07-01T06:53:03+00:00",
+      "scraped_time": "2026-07-01T08:46:01.633824+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "Drapers Nike’s growth sluggish as sales decline in China Sportswear giant Nike has reported gross profit for the year to 31 May 2026 of $19.9bn (£15.7bn) – up just 1% on the previous year. The post Nike’s growth sluggish as sales decline in China appeared first on Drapers .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "0bffc4add3ad",
+      "title": "The Nike Zoom Vomero 5 \"Aluminum\" Stacks Two Swooshes in Metallic Silver",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/7/nike-zoom-vomero-5-aluminum-iv4311-100-release-info",
+      "original_publish_time": "2026-07-01T03:27:27+00:00",
+      "scraped_time": "2026-07-01T08:42:53.147059+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "Name: Nike Zoom Vomero 5 “Aluminum”Colorway: White/Metallic Silver/AluminumSKU: IV4311-100MSRP: $170 USDRelease Date: Available nowWhere to Buy: NikeThe Nike Zoom Vomero 5 adds a new women's colorway in \"Aluminum,\" anchored by a double-Swoosh construction that splits Metallic Silver on top from Aluminum below.The defining detail sits on the side panels, where Nike layers two Swooshes instead of the usual one. Metallic Silver takes the upper position while Aluminum runs underneath it, creating a stacked, two-tone branding moment that reads as the shoe's clearest technical signature. The treatment carries forward the chrome-toe construction that first defined the Vomero 5's breakout run two years ago, applying the same finish to the lateral branding rather than the toe box alone.Color is oth",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "e86d114a5a26",
       "title": "Official Look at the Jordan Triangle \"Quai 54\"",
@@ -78,6 +139,25 @@
       "keywords_matched": [],
       "relevance_score": 3,
       "summary": "Nike SB has hoovered up a host of crossover models in recent years; the Jordan 4, the Air Force 1, the Air Max 95. Clearly,... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Official Images Of The Nike SB Tennis Classic \"Club 58\" appeared first on Sneaker News . The post Official Images Of The Nike SB Tennis Classic “Club 58” appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "17a0ffbea66e",
+      "title": "These Are the Sneakers I Wear During NYC Summers, Including Pairs From Oprah's Go-To Brand - instyle.com",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5MOUZvOXV3MEstb05jRVNHaWoxUFl6bG5PSEtybENfelg1XzRCRldRRTZKWFY4RHNzMzY0Z2otSUkyVzIxcjBXZ21NaDl4clYtbFJUTjRXcTVrX2RjTFU3Qmd5MjBGX1hsYVpmek1jLWI4N1BMbWc?oc=5",
+      "original_publish_time": "2026-06-30T21:30:00+00:00",
+      "scraped_time": "2026-07-01T08:43:05.019637+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "These Are the Sneakers I Wear During NYC Summers, Including Pairs From Oprah's Go-To Brand instyle.com",
       "ren_take": "",
       "image_url": ""
     },
@@ -537,6 +617,25 @@
       "image_url": ""
     },
     {
+      "id": "f2d2dc5ceb1c",
+      "title": "The Best Sneakers Releasing in July - wwd.com",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVTdaLW02eXU3dTVuQklxMkk0eTc4WUFEQVJKYTU0c25BNEVlVlJNTzRCU0V2akNrc3dnMnQ5SFVuWDd6aDBzajFicUUtbmlBaklsV1RBS3lNc2FQN3ktNUY4UW4yR2pkUk92LWRab3V3NFgtczNKR1ZLNVFJN3NpekFYWmcySmFUUlNEczRnODFOWGJYZzlXRjB3?oc=5",
+      "original_publish_time": "2026-06-30T09:50:00+00:00",
+      "scraped_time": "2026-07-01T08:43:05.020639+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "The Best Sneakers Releasing in July wwd.com",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
       "id": "1f960e1d63ee",
       "title": "Global footwear trade weakens in early 2026 - World Footwear",
       "source_name": "Google News - Footwear Industry",
@@ -617,6 +716,27 @@
       ],
       "relevance_score": 5,
       "summary": "Name: Salomon X ULTRA 360 GORE-TEX GORAIKOColorway: TBCSKU: L45489000MSRP: ¥20,900 JPY (approx. $129 USD)Release Date: July 1Where to Buy: SalomonThe Salomon X ULTRA 360 GORE-TEX GORAIKO stands as a highly conceptual, performance-driven tribute to Japan’s legendary summit, drawing direct design inspiration from \"Goraiko\" — the awe-inspiring viewing of the sunrise from the peak of Mount Fuji.The upper features a charcoal grey sole unit and an off-white upper, evoking the shifting brightness against the dark volcanic rock ground. Technical mesh panels are reinforced with synthetic overlays, while the waterproof GORE‑TEX membrane ensures durability and weather protection. Branding is kept minimal, with a tonal Salomon logo along the lateral side and discreet detailing on the tongue, allowing ",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "cf723442b7bc",
+      "title": "This Nike Air Force 1 Low Pack Splits Patent Leather and Suede in \"Triple Black\" and \"University Red\"",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/6/nike-air-force-1-low-patent-suede-pack-red-black-iv5103-001-iv5103-600-release-info",
+      "original_publish_time": "2026-06-30T06:17:43+00:00",
+      "scraped_time": "2026-07-01T08:42:53.152120+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "Name: Nike Air Force 1 Low “Patent Suede”Colorway: University Red/Metallic Silver-Tough Red, Black/Metallic Silver-AnthraciteSKU: IV5103-001, IV5103-600MSRP: $115 USDRelease Date: July 1Where to Buy: NikeNike's Air Force 1 Low gets a women's exclusive update with the \"Patent Suede\" pack, splitting its upper between glossy patent leather and softer suede across two monochrome colorways.Construction is where this pack earns its name. Rather than running a single material across the full upper, Nike divides the build between glossy patent leather on the toe box and quarter panels and a softer suede or nubuck across the overlays. The split creates two distinct surface textures on a single shoe, with the patent sections catching light differently than the matte panels around them.Each pair comm",
       "ren_take": "",
       "image_url": ""
     },
@@ -2859,151 +2979,6 @@
       ],
       "relevance_score": 3,
       "summary": "Sri Lanka’s JAAF has reported that the country achieved its highest monthly export value for apparel and textile products in 2026.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "7eafb9a95a7e",
-      "title": "Albino & Preto Wraps the Padmore & Barnes Sport Boot in Realtree Camo for a Four-Brand Outdoor Utility Drop",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/6/padmore-barnes-realtree-original-rcarryall-albino-preto-sport-boot-tote-bags-release-info",
-      "original_publish_time": "2026-06-24T08:11:15+00:00",
-      "scraped_time": "2026-06-24T08:16:43.166995+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 3,
-      "summary": "Name: Padmore & Barnes x Realtree Original x Albino & Preto Sport BootColorway: CamoSKU: TBCMSRP: TBCRelease Date: June 24Where to Buy: Albino & PretoAlbino & Preto has unveiled a four-brand collaboration with Padmore & Barnes, Realtree Original, and RCarryall, reinterpreting the Padmore & Barnes Sport Boot through an outdoor utility lens and pairing it with a special edition tote bag series from cult Southern California bag maker RCarryall.The Sport Boot's place in the Padmore & Barnes catalog has always rested on a particular tension: a silhouette with genuine craft heritage, worn most often in contexts that have little to do with the terrain it was built to handle. Albino & Preto's reinterpretation leans directly into the boot's utilitarian origins rather than softening them. The Realtr",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "74e7f5ae9540",
-      "title": "The SP5DER x adidas Originals F50 Formotion Drags the Football Cleat Into Street-Ready Territory",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/6/sp5der-adidas-originals-f50-formotion-kz6575-release-info",
-      "original_publish_time": "2026-06-24T07:48:21+00:00",
-      "scraped_time": "2026-06-24T08:16:43.171178+00:00",
-      "time_delta_mins": 0,
-      "category": "Manufacturing",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "Name: SP5DER x adidas Originals F50 FormotionColorway: Silver Metallic/Core BlackSKU: KZ6575MSRP: $190 USDRelease Date: June 26 (KINGSPIDER), July 1 (Global)Where to Buy: SP5DER, CONFIRMED appYoung Thug’s SP5DER and adidas Originals have introduced the F50 Formotion, a new collaborative silhouette that pulls the construction logic of a football cleat into a street-facing runner, arriving as the centerpiece of the two brands' first head-to-toe football-inspired collection.The F50 Formotion's design premise is a direct collision of two distinct adidas performance histories. The upper draws from the Adizero F50 III, one of adidas' most recognizable football cleat silhouettes, while the tooling beneath it is Formotion, a system originally developed for running. The translation from pitch to pa",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "f575cdfc66de",
-      "title": "Boots debuts On the Go travel store at Belfast International",
-      "source_name": "Retail Gazette",
-      "source_domain": "retailgazette.co.uk",
-      "source_url": "https://www.retailgazette.co.uk/blog/2026/06/boots-debuts-on-the-go-travel-store-at-belfast-international/",
-      "original_publish_time": "2026-06-24T07:44:14+00:00",
-      "scraped_time": "2026-06-24T08:19:47.360780+00:00",
-      "time_delta_mins": 0,
-      "category": "Quality",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 3,
-      "summary": "Boots is looking to “bring a high street quality shopping experience” to the airport with a new On the Go concept store. It has introduced the first-of-its-kind at Belfast International Airport. Designed with a new layout featuring clearly defined quick-find zones, the Boots On The Go store aims to offer more convenience for shoppers who...",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "deab929178ba",
-      "title": "Nike's Mind 001 AMP Gets an Unofficial \"Spider-Man\" Makeover",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/6/nike-mind-001-amp-spider-man-iz6659-400-release-info",
-      "original_publish_time": "2026-06-24T07:25:42+00:00",
-      "scraped_time": "2026-06-24T08:16:43.174160+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "footwear",
-        "midsole",
-        "sole"
-      ],
-      "relevance_score": 5,
-      "summary": "Name: Nike Mind 001 AMP “Spider-Man”Colorway: Indigo Burst/Metallic Platinum-Hyper Punch-BlackSKU: IZ6659-400MSRP: $95 USDRelease Date: July 19Where to Buy: NikeNike is officially set to release the Mind 001 AMP in an \"Indigo Burst\" colorway, a blue and red combination that lands on one of the brand's more structurally unusual silhouettes and makes its stranger design decisions considerably harder to ignore.The Mind 001 AMP sits in an increasingly populated category of footwear that borrows the form language of recovery and slides but applies it to something more architecturally deliberate. The perforated, column-shaped midsole and 22 sensory nodes underfoot push it away from the flat, minimal construction of most recovery options, while the laceless soft tongue panel keeps the entry and w",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "853681409111",
-      "title": "Mizuno Reissues Its Flagship WAVE PROPHECY 1 in Two High-Contrast Colorways",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/6/mizuno-wave-prophecy-1-yellow-blue-d1ga265501-red-gold-d1ga265101-campaign-images-release-info",
-      "original_publish_time": "2026-06-24T07:22:39+00:00",
-      "scraped_time": "2026-06-24T08:16:43.176360+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Mizuno"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "Name: Mizuno WAVE PROPHECY 1 “Yellow/Blue,” “Red/Gold”Colorway: Yellow/Blue, Red/GoldSKU: D1GA265501, D1GA265101MSRP: ￥35,200 JPY (approx. $218 USD)Release Date: July 3Where to Buy: MizunoMizuno is set to reissue its landmark flagship runner, the WAVE PROPHECY 1, in two striking, high‑contrast colorways: “Yellow/Blue” and “Red/Gold.” Both editions revive the silhouette’s futuristic DNA while introducing bold palettes that amplify its layered construction and technical edge.The “Yellow/Blue” iteration channels a vibrant, athletic energy, with electric yellow and blue tones peeking through a white mesh upper to create an understated, whimsical effect. These titular hues also dominate the quarters, forging a sweeping look anchored by a yellow Runbird logo that is complemented by dark blue ove",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "09d1760fa889",
-      "title": "Global Footwear Giants Deepen Tamil Nadu Sourcing as as Adidas Unit Launches",
-      "source_name": "Apparel Resources",
-      "source_domain": "apparelresources.com",
-      "source_url": "https://apparelresources.com/business-news/manufacturing/global-footwear-giants-deepen-tamil-nadu-sourcing-adidas-unit-launches/",
-      "original_publish_time": "2026-06-24T05:38:58+00:00",
-      "scraped_time": "2026-06-24T08:20:31.536908+00:00",
-      "time_delta_mins": 0,
-      "category": "Manufacturing",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 5,
-      "summary": "Tamil Nadu is strengthening its position as a global footwear manufacturing hub, with major international brands and their supply-chain partners increasing sourcing activities from the state. The latest development comes from Phoenix Kothari Footwear, which is set to commence production of Adidas footwear at its new manufacturing facility in Karur from 10th July. Phoenix Kothari […] The post Global Footwear Giants Deepen Tamil Nadu Sourcing as as Adidas Unit Launches appeared first on Apparel Resources .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "3e1a19ce4e5a",
-      "title": "Shoes to fill: Leather, labor, legacy in Davao’s local footwear industry - Atenews",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObWxUZ2tOSVM4aHRNcWhPSmdJMWJkTUxnNU5KNm5XWDE1WHpZdFZ3cFFjdzN1YzBST3RmdDNpTXNZU0dyeHR5VXVNLTR3WG9OY0lOTHFlOTJwOVpxWTR6c1F1NUUwM0hvOWNCTno2YjhZcmhGUVFEWUg5bUNKM3BDamt2LThRUUx1VDYyMHdJQjE?oc=5",
-      "original_publish_time": "2026-06-24T04:36:21+00:00",
-      "scraped_time": "2026-06-24T08:16:54.601676+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "footwear industry",
-        "shoes"
-      ],
-      "relevance_score": 9,
-      "summary": "Shoes to fill: Leather, labor, legacy in Davao’s local footwear industry Atenews",
       "ren_take": "",
       "image_url": ""
     }
