@@ -1,8 +1,118 @@
 {
-  "last_updated": "2026-07-02T08:09:01.625827+00:00",
-  "total_articles": 146,
+  "last_updated": "2026-07-02T13:09:34.108404+00:00",
+  "total_articles": 145,
   "sources_checked": 61,
   "articles": [
+    {
+      "id": "8be97aee47e0",
+      "title": "On, Crocs and Birkenstock Are On a Roll in Europe, UBS Says",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/shoe-brands-europe-sales-crocs-on-birkenstock-1239048302/",
+      "original_publish_time": "2026-07-02T12:06:08+00:00",
+      "scraped_time": "2026-07-02T12:58:41.588334+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Birkenstock",
+        "Crocs"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 5,
+      "summary": "The three brands were a hit with footwear consumers in May, new data points show.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "a6246c1b2fd6",
+      "title": "BEAMS Just Turned Two of Vans’ Hottest Sneakers Into One Crazy Shredder",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/beams-vans-skool-era-sneaker/",
+      "original_publish_time": "2026-07-02T11:49:34+00:00",
+      "scraped_time": "2026-07-02T13:02:21.983868+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Vans"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "BEAMS just mixed up two of Vans best shredders to create the ultimate skate shoe. Meet the Skool Era.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "58aa8281ee51",
+      "title": "BEAMS x Vans Reinvigorate Two Icons With The Era95 GORE-TEX and Skool Era",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/7/beams-vans-era95-gore-tex-skool-era-collaboration-release-info",
+      "original_publish_time": "2026-07-02T10:14:37+00:00",
+      "scraped_time": "2026-07-02T12:58:52.029725+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Vans",
+        "Vibram"
+      ],
+      "keywords_matched": [
+        "sole"
+      ],
+      "relevance_score": 4,
+      "summary": "Name: BEAMS x Vans Era95 GORE-TEX, BEAMS x Vans Skool EraColorway: Black/True WhiteSKU: TBCMSRP: ¥15,400 JPY (approx. $95 USD), ¥21,450 JPY (approx. $130 USD)Release Date: July 3Where to Buy: BEAMSVans and BEAMS are reworking two of the skate brand's essential archetypes with the Era95 GORE-TEX and Skool Era, a two-model collaboration that reinterprets classic silhouettes through both technical and design-driven approaches. The release treats Vans' catalog as a starting point for experimentation rather than a straight reissue, layering new materials onto one model and blending two distinct design languages into the other.The Era95 GORE-TEX takes the Era, one of Vans' defining models, and rebuilds it around GORE-TEX fabric and a Vibram sole. The familiar silhouette stays intact, but the upd",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "43968991d873",
+      "title": "Official Images of the Nike Book 2 SE EP “Tigers”",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/7/official-images-of-the-nike-book-2-se-ep-tigers",
+      "original_publish_time": "2026-07-02T09:05:20+00:00",
+      "scraped_time": "2026-07-02T12:58:52.032335+00:00",
+      "time_delta_mins": 0,
+      "category": "Quality",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "midsole",
+        "outsole",
+        "sole",
+        "upper"
+      ],
+      "relevance_score": 6,
+      "summary": "Name: Nike Book 2 SE EP “Tigers”Colorway: Midnight Navy/White/Midnight NavySKU: IM4667-400MSRP: $155 USDRelease Date: Available NowWhere to Buy: NikeThe Nike Book 2 SE EP \"Tigers\" serves as a heartfelt homage to Devin Booker's Michigan roots, seamlessly blending his signature basketball silhouette with the iconic sports identity of the Detroit Tigers. Grounded in a sleek, monochromatic \"Midnight Navy\" color scheme, the sneaker features a structured molded upper that delivers both durability and a streamlined aesthetic on the court. This deep navy hue floods nearly every component of the shoe, extending from the laces down through the midsole and finishing with a grippy, translucent rubber outsole.Designed for high-performance play while maintaining a lifestyle-ready appeal, the cohesive da",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "caa9f32f36aa",
+      "title": "Nike Reworks the Shox TL in Black Leather as the Silhouette's Fashion Rehabilitation Deepens",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/7/nike-shox-tl-black-leather-ir2097-001-official-images",
+      "original_publish_time": "2026-07-02T08:26:15+00:00",
+      "scraped_time": "2026-07-02T12:58:52.035289+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "Name: Nike Shox TLColorway: TBCSKU: IR2097-001MSRP: TBCRelease Date: TBCNike is pushing the Shox TL further into fashion territory with an all-black leather rework that trades the silhouette's original mesh and synthetic construction for a more polished material palette. The upcoming Nike Shox TL retains the model's aggressive Shox column tooling and futuristic profile, but rebuilds the upper around leather panels that reposition the runner closer to a dress-adjacent register than a track-adjacent one.Construction on the pair centers on a full material overhaul of the upper. Nike has stripped out the Shox TL's signature mesh construction and synthetic overlays and replaced them with black leather panels that cover the toebox, midfoot, and heel. Branding is handled through Swoosh-shaped per",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "9e616404a24c",
       "title": "Official Look at Deion Sanders’ Nike Diamond Turf 2 Cleat “49ers”",
@@ -2872,128 +2982,6 @@
       ],
       "relevance_score": 3,
       "summary": "Sri Lanka’s apparel and textile exports rose 7.96% in May to $394.14 million, their strongest monthly performance this year, as […] The post Sri Lanka apparel exports rise on US demand appeared first on Ecotextile News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "978dab24c721",
-      "title": "Fire damages shoe factory in Agra, no casualties reported - Rediff",
-      "source_name": "Google News - Shoe Manufacturing",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTjNjOWdTaFdGOGhaUlJ4M2k0ckhtTjU3R1hhV2VNRmVfRnBYNTBpMG90NG5nMk9iVU1NT0FlUnZVdFZ5YVczdVBwY0oyNFVON2Y1SXZjbkh0VU1tOVRtSUNaT2VYZk1zT0ZmLUI2WVF6b2hTUGZZcXduZjlwUG8ySi0xdlRVb2ZGZ2plWTBaY2E3bHF6TnYteGpDTlpNSVB2d3loMGVTY3QyRHlUMERMbzZHX0lnYkJiSHNQRS1UTW9NcnlJbTMtMVF6QlFyR1M4ZDJJWHBCMA?oc=5",
-      "original_publish_time": "2026-06-25T12:01:07+00:00",
-      "scraped_time": "2026-06-28T18:03:09.031759+00:00",
-      "time_delta_mins": 0,
-      "category": "Manufacturing",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoe factory"
-      ],
-      "relevance_score": 3,
-      "summary": "Fire damages shoe factory in Agra, no casualties reported Rediff",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "85e313a88e25",
-      "title": "Boots granted Royal Warrant by Her Majesty The Queen",
-      "source_name": "Retail Gazette",
-      "source_domain": "retailgazette.co.uk",
-      "source_url": "https://www.retailgazette.co.uk/blog/2026/06/boots-granted-royal-warrant-by-her-majesty-the-queen/",
-      "original_publish_time": "2026-06-25T11:52:55+00:00",
-      "scraped_time": "2026-06-25T13:23:23.461099+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 3,
-      "summary": "Boots has been granted a Royal Warrant by Her Majesty The Queen, recognising its service as manufacturers and retailers of health and beauty products to the Royal Household. The health and beauty retailer said the honour was a “very special” moment for the business and its colleagues across the UK. Royal Warrants are granted to...",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "990992a9ec93",
-      "title": "Nike Gives the Dunk Low Premium “Sesame” an Inflated, Bulbous Swoosh",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/6/nike-dunk-low-premium-sesame-pale-ivory-sesame-im4411-200-official-images",
-      "original_publish_time": "2026-06-25T11:40:27+00:00",
-      "scraped_time": "2026-06-25T13:20:22.594816+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "midsole",
-        "sole",
-        "upper"
-      ],
-      "relevance_score": 5,
-      "summary": "Name: Nike Dunk Low Premium “Sesame”Colorway: Sesame/Pale Ivory/SesameSKU: IM4411-200MSRP: TBCRelease Date: Fall 2026Nike is pushing the iconic Dunk Low Premium silhouette into chunkier, more sculptural territory. Arriving in a “Sesame” colorway from upper to midsole, the entire sneaker is dressed in a matte leather build, matched by tonal overlays and clean stitching. Moving away from the brand's traditional flat color-blocking, this variant boasts a bulbous Swoosh. Borrowing an inflated, raised-check design previously seen on select Air Force 1 iterations, this oversized side logo introduces a distinct three-dimensional texture that instantly gives the classic court model a more exaggerated, molded silhouette.Crisp white laces and a soft cream-colored tongue gently break up the monochrom",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "7aa0a5b80b1f",
-      "title": "Adidas, Uniqlo, Calvin Klein ads banned for greenwashing",
-      "source_name": "Apparel Insider",
-      "source_domain": "apparelinsider.com",
-      "source_url": "https://apparelinsider.com/adidas-uniqlo-calvin-klein-ads-banned-for-greenwashing/",
-      "original_publish_time": "2026-06-25T11:16:38+00:00",
-      "scraped_time": "2026-06-25T13:23:11.359106+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "LONDON – The UK advertising watchdog has banned paid Google ads from Adidas, Uniqlo and Calvin Klein for greenwashing. The ruling suggests the adverts’ claims about recycled, organic and other preferred materials were likely to mislead consumers. The post Adidas, Uniqlo, Calvin Klein ads banned for greenwashing appeared first on Apparel Insider .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "cde51759579e",
-      "title": "Nike’s Soccer Ball Soccer Sneaker Is a World Cup Showstopper",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-total-90-soccer-ball/",
-      "original_publish_time": "2026-06-25T10:21:00+00:00",
-      "scraped_time": "2026-06-25T13:23:55.773652+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "Nike T90 Total soccer sneaker features a soccer ball-inspired quilted upper and asymmetrical ribbon laces bringing 2000s football nostalgia to the streets.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "21891adaf575",
-      "title": "Take a Closer Look at the Bad Bunny x adidas F50 Ghost Sprint “Dark Marine” Colorway",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/6/take-a-closer-look-at-the-bad-bunny-x-adidas-f50-ghost-sprint-dark-marine-colorway",
-      "original_publish_time": "2026-06-25T09:08:40+00:00",
-      "scraped_time": "2026-06-25T13:20:22.599052+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "Name: Bad Bunny x adidas F50 Ghost Sprint “Dark Marine”Colorway: “Dark Marine”SKU: KI7711MSRP: $160 USDRelease Date: July 18Following initial teasers of the Bad Bunny x adidas F50 Ghost Sprint collection, a much more detailed closer look at the \"Dark Marine\" colorway has surfaced, offering a clear perspective on the pitch-to-street hybrid silhouette.Revealed in an unboxing through the @hypedsolutions Instagram page, this silhouette features a multi-dimensional mesh upper woven in shifting shades of blue and purple, creating a vibrant, texturized depth underneath. Enveloping this lightweight mesh base is an intricate, \"spider-web\" type exterior structure executed in a pale ice blue finish, providing a striking structural contrast that moves entirely away from anything adidas and Benito have",
       "ren_take": "",
       "image_url": ""
     }
