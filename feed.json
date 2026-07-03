@@ -1,8 +1,67 @@
 {
-  "last_updated": "2026-07-03T13:07:09.123377+00:00",
-  "total_articles": 136,
-  "sources_checked": 61,
+  "last_updated": "2026-07-03T18:21:42.799040+00:00",
+  "total_articles": 137,
+  "sources_checked": 62,
   "articles": [
+    {
+      "id": "43e58ebf5d3d",
+      "title": "Weyco Group Inc stock steady as footwear maker focuses on brand portfolio and wholesale strength - Ad-hoc-news.de",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZTNyb0FtMC0tR2Nid3NkRlpBY1FQLWh4TkExNS01X3hFbEZRZ0pHT2Q1UGp0RklpeC1POWNPN2VYeFRIN1I2SXZwVkJIRFZpeXBoY2pGN3plZWVDWFRzaXMyTEwyZ2xuQzRQc0h0U2p5V2VaNnd0M01QMUI2dkZKeW9LVGM2ck5aMXgwV1ZjTGtvZ3NCNFBmLTBmN0pTMDJjTm5BZFo5ZERCeDlxampVZnZkV3dTMUJCek1UU19MeEdXRWZfQ19PcG5WUGQ?oc=5",
+      "original_publish_time": "2026-07-03T17:13:51+00:00",
+      "scraped_time": "2026-07-03T18:10:38.381331+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Weyco Group Inc stock steady as footwear maker focuses on brand portfolio and wholesale strength Ad-hoc-news.de",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "0a9c77466c78",
+      "title": "Nike Is Being Sued by 7-Eleven Over ‘Malicious’ and ‘Misleading’ Air Max 95 Sneakers",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-air-max-95-7-eleven-lawsuit-1239052122/",
+      "original_publish_time": "2026-07-03T16:06:21+00:00",
+      "scraped_time": "2026-07-03T18:10:16.669706+00:00",
+      "time_delta_mins": 0,
+      "category": "Trade Data",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "All the details on the trademark infringement lawsuit.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "5597fe5ed702",
+      "title": "Holidaymakers set to boost clothing and footwear sales",
+      "source_name": "Drapers",
+      "source_domain": "drapersonline.com",
+      "source_url": "https://www.drapersonline.com/news/holidaymakers-set-to-boost-clothing-and-footwear-sales",
+      "original_publish_time": "2026-07-03T12:38:16+00:00",
+      "scraped_time": "2026-07-03T18:13:33.728870+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Drapers Holidaymakers set to boost clothing and footwear sales Fashion retailers could benefit from summer holiday spending despite continued economic uncertainty, as 42% of holidaymakers plan to buy new clothing and 25% intend to purchase footwear before travelling, KPMG research shows. The post Holidaymakers set to boost clothing and footwear sales appeared first on Drapers .",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "f9c165a199e3",
       "title": "DOE Reframes the New Balance 2010 Through a Yin-Yang Design Lens",
@@ -92,6 +151,26 @@
       "image_url": ""
     },
     {
+      "id": "b16c675fe9bd",
+      "title": "MICAM launches SHOES FIRST campaign - World Footwear",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLUhFRGE1MTFZRzYzSEJFWndocEdUQ2hkR3R4OGhxLWFPTHhWR3hGeVpzdWRPcnp5U2RJa1VqNUJuRGdlR2xxaWhJdFhBWndyazJvWkFtZ0hEQlZPcm9pZGpmbzNHUjJEMWFfd1Y3a2oyazZsSGIydUVIbU9YM3cwZTlsVFhRRUEw?oc=5",
+      "original_publish_time": "2026-07-03T08:40:09+00:00",
+      "scraped_time": "2026-07-03T18:10:38.379250+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "shoes"
+      ],
+      "relevance_score": 6,
+      "summary": "MICAM launches SHOES FIRST campaign World Footwear",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
       "id": "fe5b00aaa683",
       "title": "The Nike Mind 002 “Pink Smoke” Receives an Official Release Date",
       "source_name": "Hypebeast",
@@ -131,6 +210,26 @@
       ],
       "relevance_score": 5,
       "summary": "In this iteration of our our weekly lineup of Nike releases, find proof that familiarity doesn't have to mean predictability.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "b5537c180cfc",
+      "title": "The Austrian Footwear and Leather Goods Industry - wko.at",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbEppZVBlY00zbTNKNUlzUHlyRnUxd2w0VENRNzZaVWlrb3hHa0dwT3U4WW1ObzZXSGJEbTctTjNiOFdDRGYxVlpYbWk3bEhaMGNLSnpSTTY2TmhxNjFLWkpzVXV2cHVKOFlHejAtS0o4RE93akVSclpTZnZsWTVjeFdqbkVLLXBEb1pybmt5SzVXT1lwRXY0YmpKZ0dwa0dmWEtUSzMtRG55Rk9UUGt4QXBCaVFJTWpveEc3LVo4NXhTdw?oc=5",
+      "original_publish_time": "2026-07-03T01:06:36+00:00",
+      "scraped_time": "2026-07-03T18:10:38.380780+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "leather goods"
+      ],
+      "relevance_score": 6,
+      "summary": "The Austrian Footwear and Leather Goods Industry wko.at",
       "ren_take": "",
       "image_url": ""
     },
@@ -2727,89 +2826,6 @@
       ],
       "relevance_score": 3,
       "summary": "Saucony came to Paris Fashion Week correct with a number of strong lifestyle drops planned for Spring/Summer 2027, led by fresh styles from the brand’s... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Saucony Lifestyle Previews SS27 Footwear In Paris appeared first on Sneaker News . The post Saucony Lifestyle Previews SS27 Footwear In Paris appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "9eae9721d47b",
-      "title": "Pharrell’s Louis Vuitton Vans Comparisons Raise Questions About Who Actually Created the Style",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/louis-vuitton-combi-pharrell-vans-authentic-explanation-1239030718/",
-      "original_publish_time": "2026-06-26T18:07:39+00:00",
-      "scraped_time": "2026-06-27T00:11:47.551770+00:00",
-      "time_delta_mins": 0,
-      "category": "Quality",
-      "brands_mentioned": [
-        "Vans"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "At least three brands can claim older sneakers in the same style.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "342081b179c1",
-      "title": "Sp5ders Silver Take On adidas' Techy Dad Shoe Is Otherworldly",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/adidas-formotion/",
-      "original_publish_time": "2026-06-26T16:49:16+00:00",
-      "scraped_time": "2026-06-26T18:32:26.590585+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "adidas F50 Formotion Sp5der features a silver upper, Formotion tech for flexible movement, and Sp5der’s bold streetwear twist.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "70e42c8948e9",
-      "title": "Soulgoods x Nike Homescape Woven “Medium Orewood Brown” Launches On July 11th",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/06/26/soulgoods-nike-homescape-woven-sp-medium-orewood-brown-hm6961-001/",
-      "original_publish_time": "2026-06-26T15:30:21+00:00",
-      "scraped_time": "2026-06-26T18:28:49.516170+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Nike",
-        "Jordan"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "Following under-the-radar Nike SB Dunk and Jordan Air Ship collaborations, Beijing-based sneaker store Soulgoods is about to have its biggest global collab moment yet, and... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Soulgoods x Nike Homescape Woven “Medium Orewood Brown” Launches On July 11th appeared first on Sneaker News . The post Soulgoods x Nike Homescape Woven “Medium Orewood Brown” Launches On July 11th appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "d37549dae610",
-      "title": "The Weekly Closeout: Adidas gets into PPE, Five Below fills out C-suite",
-      "source_name": "Retail Dive",
-      "source_domain": "retaildive.com",
-      "source_url": "https://www.retaildive.com/news/adidas-safety-footwear-five-below-chief-retail-officer-nike-china-strategy/823842/",
-      "original_publish_time": "2026-06-26T14:55:00+00:00",
-      "scraped_time": "2026-06-26T18:31:33.203102+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "The athletics retailer debuted a safety footwear collection with Glo Brands B.V., while the discount chain hired a chief retail officer and a chief legal officer.",
       "ren_take": "",
       "image_url": ""
     }
