@@ -1,8 +1,118 @@
 {
-  "last_updated": "2026-07-03T08:12:57.493701+00:00",
-  "total_articles": 135,
-  "sources_checked": 76,
+  "last_updated": "2026-07-03T13:07:09.123377+00:00",
+  "total_articles": 136,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "f9c165a199e3",
+      "title": "DOE Reframes the New Balance 2010 Through a Yin-Yang Design Lens",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/7/doe-new-balance-2010-collaboration-release-info",
+      "original_publish_time": "2026-07-03T11:11:18+00:00",
+      "scraped_time": "2026-07-03T12:56:19.426678+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "New Balance"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Name: DOE x New Balance 2010Colorway: TBCSKU: TBCMSRP: ¥1,199 RMB (approx. $180 USD)Release Date: July 11 (DOE), July 12 (New Balance Grey), July 14 (retailers)Where to Buy: DOE, New Balance GreyNew Balance is teaming up with DOE, the Shanghai-based streetwear label, on a reimagined version of the New Balance 2010 that translates Eastern philosophy into footwear. The collaboration frames the silhouette through a Taoist yin-yang lens, using a theme the two brands describe as \"All-Embracing, Ocean-Deep\" to shape a shoe built around ideas of balance, inclusivity, and coexistence.Understanding the weight of this collaboration requires understanding DOE's place in Shanghai. Founded in 2014 by a group of self-described idealists, the label has spent more than a decade positioning itself as one o",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "db36981f8e78",
+      "title": "doublet SS27 Captures the Rush and Chaos of “A DAY IN THE LIFE”",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/7/doublet-spring-summer-2027-runway-collection",
+      "original_publish_time": "2026-07-03T10:24:23+00:00",
+      "scraped_time": "2026-07-03T12:56:19.432838+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Puma"
+      ],
+      "keywords_matched": [
+        "shoes",
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "Summary doublet SS27 “A DAY IN THE LIFE” satirizes daily routines through chaotic, hyper‑realistic runway personas.Oversized tailoring, receipt‑print coats, distressed denim, and exaggerated sneakers highlight humor and social commentary.Accessories and PUMA‑referencing graphics inject playful subcultural relevance. For Spring/Summer 2027, doublet stepped into the shoes of multiple personas, with each styled look offering a glimpse into someone’s “A DAY IN THE LIFE.” Presented in Paris, the show unfolded as a playful yet poignant exploration of everyday rituals and overlooked details. Designer Masayuki Ino transformed the runway into a satirical, hyper‑realistic commentary on modern routines, overstimulation, and the absurdities of urban existence. Known for his subversive humor, Ino drew ",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "649f0c059b90",
+      "title": "Take an Official Look at the Nike Air Force 1 Low “Ghostface”",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/7/nike-air-force-1-low-ghostface-summit-white-metallic-silver-black-gym-red-metallic-cool-grey-iv6350-121-official-images",
+      "original_publish_time": "2026-07-03T09:25:32+00:00",
+      "scraped_time": "2026-07-03T12:56:19.434483+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "midsole",
+        "outsole",
+        "sole",
+        "upper"
+      ],
+      "relevance_score": 6,
+      "summary": "Name: Nike Air Force 1 Low “Ghostface”Colorway: Summit White/Metallic Silver-Black-Gym Red-Metallic Cool GreySKU: IV6350-121MSRP: $125 USDRelease Date: October 2026Official images of the Nike Air Force 1 Low “Ghostface” has surafced, offering a more detailed look at the silhouette. Expected to launch as one of Nike’s premier drops this Halloween, the sneaker delivers an unofficial homage to the iconic Scream horror franchise. This ghostly iteration transforms the classic basketball silhouette with a leather upper that evokes the look of a black pair being hastily painted in white.The side Swooshes appear ripped and slashed, evoking the killer’s knife strikes, while a stark black midsole and outsole ground the design with dramatic contrast. To break up the predominantly black-and-white exec",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "7ae4a9883a0e",
+      "title": "This adidas Performance Runner Is the Supercar of Sneakers",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/this-performance-runner-is-the-supercar-of-sneakers/",
+      "original_publish_time": "2026-07-03T09:03:00+00:00",
+      "scraped_time": "2026-07-03T12:59:59.001707+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "The adidas Hyperboost Edge in Carbon/Hi-Res Yellow looks like a mean PB machine.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "fe5b00aaa683",
+      "title": "The Nike Mind 002 “Pink Smoke” Receives an Official Release Date",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/7/nike-mind-002-pink-smoke-hq4310-600-release-info",
+      "original_publish_time": "2026-07-03T08:11:27+00:00",
+      "scraped_time": "2026-07-03T12:56:19.437209+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "outsole",
+        "sole"
+      ],
+      "relevance_score": 4,
+      "summary": "Name: Nike Mind 002 “Pink Smoke”Colorway: Pink Smoke/Mystic Dates/Light Magenta/Metallic SilverSKU: HQ4310-600MSRP: $145 USDRelease Date: July 23Where to Buy: NikeNike is putting neuroscience underfoot with the Mind 002 “Pink Smoke”, a women's pregame shoe designed to sharpen focus through touch rather than cushioning alone. Built inside the brand's Mind Science Department, the silhouette channels years of sensory research into a shoe meant to be worn in the quiet minutes before competition, when staying present matters as much as staying loose.At the center of the shoe are 22 individually articulated foam nodes embedded in the outsole, engineered to press against the foot and stimulate the sensory areas of the brain tied to grounding and body awareness. Nike frames the effect simply: when",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "08178c3f3398",
       "title": "The Best Nike Sneakers Right Now",
@@ -21,6 +131,26 @@
       ],
       "relevance_score": 5,
       "summary": "In this iteration of our our weekly lineup of Nike releases, find proof that familiarity doesn't have to mean predictability.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "d987fce18d82",
+      "title": "Footwear industry is backbone of India’s economy: Union Minister Giriraj Singh - News On AIR",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ29UaXZQZHFWUm1nX2FHV3h5VGlhdFRaX01vcllPcGc2bU5fRFdmR282RjQ1ZnkyTE9Ic0drOHQ2SjM3NkI5ZFI3eEZsRHUyaTI0LW15clpXMnJYcS15QmN6Qy0xR1NEbVd0QVp6b0taVXVkZXVYNUxsdHdlX2JFUGtKLUFXenJ6eVdxU1I5NF9ud2tPVTFLM3hwbmNZdHl4cFFZdQ?oc=5",
+      "original_publish_time": "2026-07-02T23:57:34+00:00",
+      "scraped_time": "2026-07-03T12:56:30.365062+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "footwear industry"
+      ],
+      "relevance_score": 6,
+      "summary": "Footwear industry is backbone of India’s economy: Union Minister Giriraj Singh News On AIR",
       "ren_take": "",
       "image_url": ""
     },
@@ -400,6 +530,25 @@
       ],
       "relevance_score": 3,
       "summary": "Football season is right around the corner, and Nike is once again preparing a full collection of NFL-themed running shoes. After utilizing the Pegasus 41... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike Vomero 18 NFL Collection Launching This Summer appeared first on Sneaker News . The post Nike Vomero 18 NFL Collection Launching This Summer appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "559677316245",
+      "title": "Steph Curry Introduces New Curry Brand Logo with Li-Ning - Sole Retriever",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeVMzdUpISklmWUdnLW1KX3F1OTRVM3BLUzZUeElMd2llZlpkYnhuRUkzY294OU9HOUJqQl85cm93eEJmTkNIcjB4SU5jdVNrMmlwYXNYWUMxTXN4dWVSWk1sTkdIRXNtOG13WGFIcW9wY09VZU1Hblh2a1dTbm5ZclN5ekl1bHlUUHJucTR3Y2dHZGpMaVp4LVV2dVJ0dnI4Mmc?oc=5",
+      "original_publish_time": "2026-07-01T22:02:30+00:00",
+      "scraped_time": "2026-07-03T12:56:31.064353+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sole"
+      ],
+      "relevance_score": 3,
+      "summary": "Steph Curry Introduces New Curry Brand Logo with Li-Ning Sole Retriever",
       "ren_take": "",
       "image_url": ""
     },
@@ -2661,134 +2810,6 @@
       ],
       "relevance_score": 3,
       "summary": "The athletics retailer debuted a safety footwear collection with Glo Brands B.V., while the discount chain hired a chief retail officer and a chief legal officer.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "03c36a25699e",
-      "title": "The Nike Air Max Phenomena \"Cacao Wow/Metallic Silver\" Applies a Loafer Silhouette to the Air Max SNDR Sole",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/6/nike-air-max-phenomena-cacao-wow-metallic-silver-im8814-200-official-images",
-      "original_publish_time": "2026-06-26T11:58:42+00:00",
-      "scraped_time": "2026-06-27T12:09:21.744312+00:00",
-      "time_delta_mins": 0,
-      "category": "Manufacturing",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "footwear",
-        "sole",
-        "upper"
-      ],
-      "relevance_score": 7,
-      "summary": "Name: Nike Air Max Phenomena \"Cacao Wow/Metallic Silver\"Colorway: Cacao Wow/Metallic SilverSKU: IM8814-200MSRP: TBCRelease Date: TBCThe Nike Air Max Phenomena is Nike's take on the loafer, a silhouette developed by the brand's SWDC design crew that places a dress shoe-informed upper onto the sole unit of the Air Max SNDR. The \"Cacao Wow/Metallic Silver\" colorway is continuing Nike's sustained push into footwear that borrows from tailored and formal dress codes without fully departing from its sneaker construction logic.The sole connection to the Air Max SNDR is the Phenomena's most legible technical detail. The SNDR, itself a recent Nike silhouette oriented around a low-profile Air unit and clean tooling, provides a foundation that sits closer to the ground than a traditional Air Max stack",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "e3b6019da33a",
-      "title": "Official Images of the Nike Air Force 1 Low Luxe “Black”",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/6/nike-air-force-1-low-luxe-black-metallic-silver-anthracite-ja3822-010-official-images",
-      "original_publish_time": "2026-06-26T11:16:04+00:00",
-      "scraped_time": "2026-06-26T13:12:03.058720+00:00",
-      "time_delta_mins": 0,
-      "category": "Quality",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "boot",
-        "midsole",
-        "sole"
-      ],
-      "relevance_score": 5,
-      "summary": "Name: Nike Air Force 1 Low Luxe “Black”Colorway: Black/Metallic Silver-AnthraciteSKU: JA3822-010MSRP: $140 USDRelease Date: Fall 2026Nike's Air Force 1 Low Luxe “Black” trades its traditional clean court aesthetic for a boot-inspired look. Enveloped in a moody \"Black\" leather build, the silhouette is reinforced with an oversized tongue cover secured by dual buckled straps on the lateral side. Additional leather overlays at the toe enhance durability, while debossed Nike Air branding appears on the heel tab for a subtle yet elevated finish. The lone accent against the monochrome palette is a pair of mini metallic silver Swooshes, adding a sharp industrial touch.Elevating the sneaker’s stance is a thick, platform midsole featuring the iconic molded \"AIR\" graphic toward the heel. This chunky ",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "074b63b6b4c6",
-      "title": "On’s Lightest Super Shoe Yet Features Its LightSpray Upper and a New Foam System",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/on-lightspray-cloudboom-strike-2-release-date-1239034825/",
-      "original_publish_time": "2026-06-26T11:00:00+00:00",
-      "scraped_time": "2026-06-26T13:11:51.711892+00:00",
-      "time_delta_mins": 0,
-      "category": "Trade Data",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "The LightSpray Cloudboom Strike 2 weighs a total of just 158 grams.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "75f6aef4c44d",
-      "title": "US Customs detains Columbia, Under Armour Jordan suppliers on labour abuse",
-      "source_name": "Just Style",
-      "source_domain": "just-style.com",
-      "source_url": "https://www.just-style.com/news/us-customs-jordan-garment-supplier/",
-      "original_publish_time": "2026-06-26T10:06:24+00:00",
-      "scraped_time": "2026-06-26T13:11:51.794347+00:00",
-      "time_delta_mins": 0,
-      "category": "Manufacturing",
-      "brands_mentioned": [
-        "Under Armour",
-        "Jordan"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 4,
-      "summary": "US Customs has ordered the detention of garments from Jordan-based supplier factories for Under Armour and Columbia over allegations of forced labour.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "3e6903695d18",
-      "title": "Salomon Unveils the Understated \"Forms\" XT-ICONS Collection",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/6/salomon-forms-xt-icons-collection-xt-4-og-xt-6-xt-whisper-xt-pathway-2-release-info",
-      "original_publish_time": "2026-06-26T10:02:42+00:00",
-      "scraped_time": "2026-06-26T13:12:03.061426+00:00",
-      "time_delta_mins": 0,
-      "category": "Trade Data",
-      "brands_mentioned": [
-        "Salomon"
-      ],
-      "keywords_matched": [
-        "footwear",
-        "sneakers"
-      ],
-      "relevance_score": 4,
-      "summary": "Name: Salomon \"Forms\" XT-ICONS CollectionMSRP: TBCRelease Date: July 1Where to Buy: SalomonSalomon is set to launch its highly anticipated \"Forms\" XT-ICONS collection, a specialized capsule dedicated to the foundational silhouettes that continue to define the brand's contemporary Sportstyle universe. Bringing together four defining models - the XT-4 OG, XT-6, XT-Whisper and XT-Pathway 2 - the capsule spotlights the natural evolution of footwear from rigorous outdoor performance gear into enduring subcultural lifestyle staples.Visually unifying the capsule is a newly developed color pack that masterfully pairs deep, atmospheric blues with grounding, neutral tones. This deliberately understated and sophisticated palette shifts the spotlight entirely to the architecture of the sneakers themse",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "7615168e4f77",
-      "title": "Rick Owens Beats Paris Heatwave With Air-Conditioned adidas Collaboration for SS27",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/6/rick-owens-menswear-spring-summer-2027-collection-runway-paris-fashion-week",
-      "original_publish_time": "2026-06-26T08:38:49+00:00",
-      "scraped_time": "2026-06-26T13:12:03.065522+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "welt"
-      ],
-      "relevance_score": 3,
-      "summary": "Summary Rick Owens unveiled his SS27 \"STONE\" menswear collection during at Paris Fashion Week.The lineup debuts fan-inflated adidas ClimaCool outerwear and a 2027 running shoe.Radical pieces include hand-piped latex tops and architectural Tensegrity chaps. Amid a sweltering Paris heatwave, Rick Owens unveiled his Spring/Summer 2027 Menswear show with striking punctuality — an unusual defiance of typical Paris Fashion Week delays. Transforming the outdoor concrete grounds of the Palais de Tokyo into a dystopian theater , Owens’ collection, titled \"STONE\" , confronted a collective sense of societal menace through themes of discipline, transformation, and physical resilience.Models advanced along a steel‑grate runway like defensive figures - choosing to arm, train, or turn to stone - their se",
       "ren_take": "",
       "image_url": ""
     }
