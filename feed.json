@@ -1,8 +1,29 @@
 {
-  "last_updated": "2026-07-03T00:20:26.243604+00:00",
-  "total_articles": 140,
-  "sources_checked": 62,
+  "last_updated": "2026-07-03T08:12:57.493701+00:00",
+  "total_articles": 135,
+  "sources_checked": 76,
   "articles": [
+    {
+      "id": "08178c3f3398",
+      "title": "The Best Nike Sneakers Right Now",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/best-nike-releases-week-july-1/",
+      "original_publish_time": "2026-07-03T06:09:00+00:00",
+      "scraped_time": "2026-07-03T07:58:31.322483+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "In this iteration of our our weekly lineup of Nike releases, find proof that familiarity doesn't have to mean predictability.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "c58011a851ad",
       "title": "JUNTAE KIM Announces The Hybrid ASICS GEL-KINETIC FR",
@@ -2768,126 +2789,6 @@
       ],
       "relevance_score": 3,
       "summary": "Summary Rick Owens unveiled his SS27 \"STONE\" menswear collection during at Paris Fashion Week.The lineup debuts fan-inflated adidas ClimaCool outerwear and a 2027 running shoe.Radical pieces include hand-piped latex tops and architectural Tensegrity chaps. Amid a sweltering Paris heatwave, Rick Owens unveiled his Spring/Summer 2027 Menswear show with striking punctuality — an unusual defiance of typical Paris Fashion Week delays. Transforming the outdoor concrete grounds of the Palais de Tokyo into a dystopian theater , Owens’ collection, titled \"STONE\" , confronted a collective sense of societal menace through themes of discipline, transformation, and physical resilience.Models advanced along a steel‑grate runway like defensive figures - choosing to arm, train, or turn to stone - their se",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "f95d9e3bb0d1",
-      "title": "The Retroid Pocket Nova Handheld Gaming Console Launches With PS2 and GameCube Emulation",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/6/retroid-pocket-nova-handheld-debuts-with-43-amoled",
-      "original_publish_time": "2026-06-26T08:09:51+00:00",
-      "scraped_time": "2026-06-26T08:24:12.987856+00:00",
-      "time_delta_mins": 0,
-      "category": "Quality",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "sole"
-      ],
-      "relevance_score": 3,
-      "summary": "Summary Retroid announced the Pocket Nova, a new handheld gaming console featuring a 4.5-inch AMOLED display with a 4:3 aspect ratioThe device is powered by a Qualcomm QCS8550 processor, which provides performance similar to the Snapdragon 8 Gen 2 to support PlayStation 2 and GameCube emulationStarting at $229 USD, the handheld includes a 5,000mAh battery with 27W fast charging, Wi-Fi 7 and Bluetooth 5.3 connectivity Retroid announced the Pocket Nova, a dedicated gaming handheld that brings premium hardware to the competitive retro emulation market. The device targets enthusiasts seeking a high-performance 4:3 display format. This specific screen ratio naturally fits the native output of fifth and sixth-generation console libraries. Modern emulation requires serious computational overhead ",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "b38f3b5eb4b4",
-      "title": "Adidas pulls ahead of Nike in World Cup retail battle",
-      "source_name": "Retail Gazette",
-      "source_domain": "retailgazette.co.uk",
-      "source_url": "https://www.retailgazette.co.uk/blog/2026/06/adidas-pulls-ahead-of-nike-in-world-cup-retail-battle/",
-      "original_publish_time": "2026-06-26T08:07:02+00:00",
-      "scraped_time": "2026-06-26T08:27:05.702767+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Nike",
-        "Adidas"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 5,
-      "summary": "Adidas is edging ahead of Nike in the early retail battle around the World Cup, with new data suggesting the German giant is seeing a bigger sales uplift from the tournament. Spending on Adidas apparel jumped 70 per cent in May compared with the same month last year, according to M Science data reported by...",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "94c43bb7003b",
-      "title": "NIGO’s KENZO SS27 Collection Is Built on Ribbon Construction, Japanese Denim, and a Floor-Length Rugby Shirt",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/6/kenzo-spring-summer-ss-2027-paris-fashion-week-runway-collection-info",
-      "original_publish_time": "2026-06-26T06:44:17+00:00",
-      "scraped_time": "2026-06-26T08:24:12.991910+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Converse"
-      ],
-      "keywords_matched": [
-        "boot",
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Summary KENZO's Spring/Summer 2027 collection under NIGO draws on Japanese denim, houndstooth, fil coupé florals, velour denim, and richly textured knitwear as its primary fabrication toolkitCustom ribbon construction appears across jackets and skirts referencing Kenzo Takada's personal ribbon collection, while a hand-sewn dress built entirely from multicolored knitted bands extends the technique to its most labour-intensive applicationFootwear collaborations with Converse and Paraboot introduce Chuck 70 and Jack Purcell interpretations alongside a reworked Paraboot Michael shoe with workwear-inspired metal detailing and bold varsity lettering NIGO’s KENZO Spring/Summer 2027 collection positions fabrication and construction as the collection's primary language. Presented at Place des Victo",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "6de6ae999192",
-      "title": "This Nike Air Force 1 Low “What The” Stacks Safari, Elephant Print, and Jewel Eye Branding Into One Black Build",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/6/nike-air-force-1-low-easter-2027-iv4451-010-official-images",
-      "original_publish_time": "2026-06-26T06:28:00+00:00",
-      "scraped_time": "2026-06-27T07:42:12.843042+00:00",
-      "time_delta_mins": 0,
-      "category": "Quality",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "Name: Nike Air Force 1 Low “What The”Colorway: TBCSKU: IV4451-010MSRP: TBCRelease Date: TBCNike's Air Force 1 Low “What The” is arriving with a texture-forward build that distributes three distinct materials across a predominantly black upper. The release layers tumbled leather, elephant print, and safari texture across specific zones of the silhouette, with a Tough Red accent and an unusual backtab treatment rounding out a construction that rewards close inspection.The upper is divided with clear intent. The toe box and quarter anchor the shoe in tumbled black leather, providing a matte base that keeps the overall palette grounded. From there, the design shifts: elephant print covers the toe and heel, bringing a raised, irregular surface to the zones that typically anchor visual weight on",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "762eeabd67dc",
-      "title": "70% off brand-name sneakers?! These deals are only possible during Prime Day - AOL.com",
-      "source_name": "Google News - Sneaker Brand",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUTk0Rl91QzJ4TDJibS1ldzVuZUtsRHNnU3pUSFN2ODZkUVFvY1liQXJ3OG9wc0Z4M3RzRmJQVi0wek1QX2VfNk9senUxUVhVLWp4ZVlBRXBuREdWNmh5Z09qMmVaTGxNRmliUkFnRUp2TWVtQmxRb2ZyNVZQUENsVUx6a2RTems4VEhRbE92T1UwaHlCRWtVZ2s5WFlsVVFxaHlaWnpnLWg4TUV5REpqMDdmSEZFazlra2VOXzBMNUdEQTFTcm92QzRPVk8?oc=5",
-      "original_publish_time": "2026-06-26T05:37:07+00:00",
-      "scraped_time": "2026-06-26T18:29:00.947644+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "70% off brand-name sneakers?! These deals are only possible during Prime Day AOL.com",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "5953cf509d73",
-      "title": "Colombia’s Shoe Manufacturing Industry Gains Prominence Thanks to De la Espriella - ColombiaOne.com",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWXV4RXhRdDBOdVlxWE41YU55VDBWS3pyREJyV3Vma19hMXJ1and5WklpMElVMzROLW9qVXJwSDBvOUJnLWRPQjM3M0NsOGNzLTFNQW9ucEZHYktJTGhuTktwMjdBeEhGVDBNLVhuT2NZSXFyYVVJcDRyX0NoUVlRNzVfS29KTjN4LXJjYWV6R2xUNXRJRTFobFlRelJiRHRwRzdPTkZaUXJiVUNSVnVFV2pONHpIMVE?oc=5",
-      "original_publish_time": "2026-06-26T02:40:00+00:00",
-      "scraped_time": "2026-06-26T13:12:13.938644+00:00",
-      "time_delta_mins": 0,
-      "category": "Manufacturing",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoe manufacturing"
-      ],
-      "relevance_score": 3,
-      "summary": "Colombia’s Shoe Manufacturing Industry Gains Prominence Thanks to De la Espriella ColombiaOne.com",
       "ren_take": "",
       "image_url": ""
     }
