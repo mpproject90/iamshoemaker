@@ -1,8 +1,50 @@
 {
-  "last_updated": "2026-07-03T18:21:42.799040+00:00",
-  "total_articles": 137,
+  "last_updated": "2026-07-04T00:19:42.296527+00:00",
+  "total_articles": 134,
   "sources_checked": 62,
   "articles": [
+    {
+      "id": "59aa5f7c44c7",
+      "title": "The Nike Giannis Immortality 5 “Glacier Blue” Is Made For Summer Pick-Ups",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/07/03/nike-giannis-immortality-5-sail-glacier-blue-chalk-light-current-blue-im5130-102/",
+      "original_publish_time": "2026-07-03T21:00:00+00:00",
+      "scraped_time": "2026-07-04T00:08:36.384914+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "New team, new shoes. Giannis Antetokounmpo will begin his tenure with the Miami Heat in the Nike Giannis Freak 8, the latest chapter in what... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Nike Giannis Immortality 5 \"Glacier Blue\" Is Made For Summer Pick-Ups appeared first on Sneaker News . The post The Nike Giannis Immortality 5 “Glacier Blue” Is Made For Summer Pick-Ups appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "d333a8be3d17",
+      "title": "Finally, Actual Coastal Elite Birkenstocks",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/birkenstock-1774-northeast-providence/",
+      "original_publish_time": "2026-07-03T20:04:01+00:00",
+      "scraped_time": "2026-07-04T00:12:17.580262+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Birkenstock"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "Birkenstock 1774's new Northeast Providence collection updates its Boston, Arizona, Gizeh, Naples, and Sylt shoes with extravagent, old-money touches.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "43e58ebf5d3d",
       "title": "Weyco Group Inc stock steady as footwear maker focuses on brand portfolio and wholesale strength - Ad-hoc-news.de",
@@ -2725,107 +2767,6 @@
       ],
       "relevance_score": 3,
       "summary": "Footwear Foam Additives Market : Global Industry Analysis 2016 - 2025 and Opportunity Assessment 2026 - 2036 Future Market Insights",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "58ca4ffbb0bd",
-      "title": "Nike's ACG Staple Sneaker Is Retro, Rugged & Still Running the Show",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-acg-ldv/",
-      "original_publish_time": "2026-06-26T21:40:00+00:00",
-      "scraped_time": "2026-06-27T00:15:38.209249+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 5,
-      "summary": "Nike ACG LDV revives a vintage long-distance runner with a breathable mesh upper, combining heritage style with modern ACG attitude.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "e7da222307e1",
-      "title": "These Insane Pointy Boots Are Actually a COMME des GARÇONS Classic",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/cdg-pointy-boots/",
-      "original_publish_time": "2026-06-26T21:28:26+00:00",
-      "scraped_time": "2026-06-27T00:15:38.210070+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 4,
-      "summary": "COMME des GARÇONS HOMME PLUS' Spring/Summer 2027 collection includes a NIKE Pegasus Premium sneaker but the literal biggest collab? Pointy boots.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "34b98d4f9cb9",
-      "title": "Vans’ Off-Grid Sneaker Takes the Checkerboard to the Trails",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/vans-crosspath-xc-checkerboard-grey/",
-      "original_publish_time": "2026-06-26T21:11:49+00:00",
-      "scraped_time": "2026-06-27T00:15:38.210695+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Vans"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "Vans' outdoor-ready Crosspath XC emerges with a grey checkerboard design, ultimately taking the brand's iconic print to rugged levels.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "ee2e63dc2ec8",
-      "title": "OG Anunoby Sounds Off on His Skechers NBA Finals Shoes and Reveals Where They Are Now",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/og-anunoby-skechers-nba-finals-sneakers-1239035780/",
-      "original_publish_time": "2026-06-26T19:02:38+00:00",
-      "scraped_time": "2026-06-27T00:11:47.548927+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Skechers"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 5,
-      "summary": "Fans are now clamoring for the shoes he wore for his game-winning shot in game 4.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "2149e3feee8c",
-      "title": "Saucony Lifestyle Previews SS27 Footwear In Paris",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/06/26/saucony-lifestyle-spring-summer-2027-preview/",
-      "original_publish_time": "2026-06-26T18:30:24+00:00",
-      "scraped_time": "2026-06-27T00:11:59.399777+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Saucony came to Paris Fashion Week correct with a number of strong lifestyle drops planned for Spring/Summer 2027, led by fresh styles from the brand’s... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Saucony Lifestyle Previews SS27 Footwear In Paris appeared first on Sneaker News . The post Saucony Lifestyle Previews SS27 Footwear In Paris appeared first on Sneaker News .",
       "ren_take": "",
       "image_url": ""
     }
