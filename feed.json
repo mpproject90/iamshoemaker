@@ -1,8 +1,27 @@
 {
-  "last_updated": "2026-07-04T12:17:58.926244+00:00",
-  "total_articles": 135,
+  "last_updated": "2026-07-04T18:10:55.292012+00:00",
+  "total_articles": 134,
   "sources_checked": 62,
   "articles": [
+    {
+      "id": "abed34385d4c",
+      "title": "Pou Chen Corp highlights its role in global footwear supply chains - Ad-hoc-news.de",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVGw0SmJHanZPOTJnOEJObkpfQ2p1dVVyOUFjZTZWbkRBMGZDVVFMTnc3TWI1ZERLS1U0MThBYnE4U0laYjVPRGt6a2xOeDB4bHlaZmJ2VXZJenVmTDRsUlBueVBfeGt2OHcwd2lBOEtzWFh3NTdlUi1OOUQzdXRZUXV2S2JKeDBUbzlFcFRsSk1KUlhXS0xDOWxnOTFVeE1VOWF3Ql95Q1h1Y1ZTZmhyeWNQVkQwZHBBcVF3cF9qeTRJX1U?oc=5",
+      "original_publish_time": "2026-07-04T17:29:37+00:00",
+      "scraped_time": "2026-07-04T18:00:18.986589+00:00",
+      "time_delta_mins": 0,
+      "category": "Trade Data",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Pou Chen Corp highlights its role in global footwear supply chains Ad-hoc-news.de",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "fc85f16f2874",
       "title": "New Balance, Asics, Skechers and more are up to 43% off on Amazon right now - NBC News",
@@ -2747,48 +2766,6 @@
       ],
       "relevance_score": 5,
       "summary": "The Whitaker Group returns with an exclusive adidas Ghost Moto Low sneaker as part of its ongoing \"Do Not Duplicate\" series. And it's quite the luxe ride.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "241eaf4bc4a2",
-      "title": "Asics Bets on Chinese Creativity, Takes Lisa-approved Empty Behavior to Paris",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-features/asics-chinese-creativity-empty-behavior-paris-launch-1239031740/",
-      "original_publish_time": "2026-06-27T15:11:16+00:00",
-      "scraped_time": "2026-06-27T17:58:44.420138+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "ASICS"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Asics said the tie-up with the experimental footwear label signals a broader strategy to use cultural partnerships to launch new products and plug into China’s emerging creative networks.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "d28a0826d635",
-      "title": "The Best Nike Sneakers Releasing in July",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-sneaker-release-date-calendar-july-2026-1239036153/",
-      "original_publish_time": "2026-06-27T13:00:00+00:00",
-      "scraped_time": "2026-06-27T17:58:44.422587+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 5,
-      "summary": "They include the Air Force 1 Low '01 \"Triple White\" and a Nike Kobe 5 Protro worn by Jalen Brunson.",
       "ren_take": "",
       "image_url": ""
     }
