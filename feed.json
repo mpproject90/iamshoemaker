@@ -1,8 +1,29 @@
 {
-  "last_updated": "2026-07-04T07:45:47.307211+00:00",
-  "total_articles": 136,
+  "last_updated": "2026-07-04T12:17:58.926244+00:00",
+  "total_articles": 135,
   "sources_checked": 62,
   "articles": [
+    {
+      "id": "fc85f16f2874",
+      "title": "New Balance, Asics, Skechers and more are up to 43% off on Amazon right now - NBC News",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQS3lCUnhlem93QkU2WFdHbTd1c3NUV0xveGRCNmZMLWZRYk1RUDB3YUYzdnhfaHZOLVVENlJEUXdfWmNCX1otcXpkelI1cHBUVTlYX0hqdWVSNjZWQVdNQUswQkhyYmcxMmgtMFduWG9HTVRTdEtHOWRCOVBPaHppb3FlUGZPS21Vc3c?oc=5",
+      "original_publish_time": "2026-07-04T11:00:00+00:00",
+      "scraped_time": "2026-07-04T12:07:21.944485+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "New Balance",
+        "ASICS",
+        "Skechers"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 6,
+      "summary": "New Balance, Asics, Skechers and more are up to 43% off on Amazon right now NBC News",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "1432a8b741a4",
       "title": "Leather Industry can drive Nigeria’s industrial growth, job creation, say UNDP, Lagos Govt - The Guardian Nigeria News",
@@ -2768,46 +2789,6 @@
       ],
       "relevance_score": 5,
       "summary": "They include the Air Force 1 Low '01 \"Triple White\" and a Nike Kobe 5 Protro worn by Jalen Brunson.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "443e92fb4916",
-      "title": "PUMA's Signature Slim Sneaker-Turned-Mary-Jane Goes Aqua Marine",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/puma-speedcat-go-sheer/",
-      "original_publish_time": "2026-06-27T11:45:00+00:00",
-      "scraped_time": "2026-06-27T12:13:01.909552+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Puma"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "Puma Speedcat Go Sheer “Aqua Marine” reimagines the iconic slim sneaker with a Mary Jane-inspired strap, sheer mesh upper, and fresh colorway.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "ef0cac7a9e0d",
-      "title": "Footwear Foam Additives Market : Global Industry Analysis 2016 - 2025 and Opportunity Assessment 2026 - 2036 - Future Market Insights",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdUhmOERwMU1LdUVya2hZWnMxUTlVTGlzSGlUbUtvajVZaU5mQnRhWGJxeTVBUGNEQU1LT2JsLU1LZ0JFdm1mdTVPRmRUQ2N5T04xN0pwT283bmwyODcwNXQtU1BRbWFoLTVHZV9KZnlmaTAzVzR1WmFxVzVJQkpzdQ?oc=5",
-      "original_publish_time": "2026-06-27T10:09:23+00:00",
-      "scraped_time": "2026-06-27T17:59:06.826104+00:00",
-      "time_delta_mins": 0,
-      "category": "Trade Data",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Footwear Foam Additives Market : Global Industry Analysis 2016 - 2025 and Opportunity Assessment 2026 - 2036 Future Market Insights",
       "ren_take": "",
       "image_url": ""
     }
