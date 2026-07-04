@@ -1,8 +1,49 @@
 {
-  "last_updated": "2026-07-04T00:19:42.296527+00:00",
-  "total_articles": 134,
+  "last_updated": "2026-07-04T07:45:47.307211+00:00",
+  "total_articles": 136,
   "sources_checked": 62,
   "articles": [
+    {
+      "id": "1432a8b741a4",
+      "title": "Leather Industry can drive Nigeria’s industrial growth, job creation, say UNDP, Lagos Govt - The Guardian Nigeria News",
+      "source_name": "Google News - Leather Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMmVjNkc5TTJLYTE4eWJkQTVhRXMxVzI2MzJmNW53VXMwbGVITEc2QmcyR1d5eHRIQnVJZlBJTFlIR1prRFZCV2FhZnlGcUZMN3VzOGJUdHo5YmE0eWtva0FsTDMtVnBPWk9LM0NXdThNSTFCWWlJMTh6bVJteER1blFDb0RBRFMtLWNrWW45bU1PRXYwenNiWm50d2llbUEtQzFRZWQxNVJON3V3d01wQkRR?oc=5",
+      "original_publish_time": "2026-07-04T04:00:00+00:00",
+      "scraped_time": "2026-07-04T07:34:40.772831+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "leather industry"
+      ],
+      "relevance_score": 3,
+      "summary": "Leather Industry can drive Nigeria’s industrial growth, job creation, say UNDP, Lagos Govt The Guardian Nigeria News",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "590f16107557",
+      "title": "Taylor Swift Walks Down the Aisle in Custom Christian Louboutin Shoes to Marry Travis Kelce",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-trends/taylor-swift-custom-christian-louboutin-wedding-shoes-1239052399/",
+      "original_publish_time": "2026-07-04T01:21:02+00:00",
+      "scraped_time": "2026-07-04T07:34:17.494872+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Louboutin"
+      ],
+      "keywords_matched": [
+        "footwear",
+        "shoes"
+      ],
+      "relevance_score": 6,
+      "summary": "The bride paired the custom footwear with Dior haute couture after Christian Louboutin created hundreds of shoes for her “Eras Tour.\"",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "59aa5f7c44c7",
       "title": "The Nike Giannis Immortality 5 “Glacier Blue” Is Made For Summer Pick-Ups",
