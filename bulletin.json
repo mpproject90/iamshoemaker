@@ -1,6 +1,107 @@
 {
-  "last_updated": "2026-06-28T10:30:25.147923+00:00",
+  "last_updated": "2026-07-05T10:18:09.852539+00:00",
   "bulletins": [
+    {
+      "id": "wk27-2026",
+      "week_number": 27,
+      "year": 2026,
+      "date_from": "2026-06-29",
+      "date_to": "2026-07-05",
+      "published": "2026-07-05T10:18:09.851965+00:00",
+      "intro": "Week 27 brings a familiar tension: the industry's premium tier is consolidating around heritage storytelling and technical material innovation, while mid-market volume is being quietly eroded by Amazon discount cycles and shifting sourcing economics. India's travel footwear surge and MICAM's positioning campaign signal that brand-building infrastructure is being rebuilt in parallel with ongoing supply chain recalibration. Watch the French leather sector's upstream decline — it is an early indicator, not a lagging one.",
+      "articles": [
+        {
+          "title": "What the Peak of Indian Travel Footwear Industry Looks Like Right Now, Top Shoe Brands Offering Comfort Mixed with Luxury and Practicality, Skechers India, Bata, Indus Shoe Industries and Many More, Here is All You Need to Know - Travel And Tour World",
+          "source_name": "Google News - Footwear Industry",
+          "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5nRVczekFqNThDdkdzZE05X2NHTmI5UHd0TG9MOHpoaW1YUm0taVE4akJqeGNwUWg5cmJFalhGWDFLVWpOLXBLeklzYndod21SZ2gwY2pNblpPMFdBTjl6eG1DMF81MEZYTlhTeXRn?oc=5",
+          "category": "Brand News",
+          "relevance_score": 13,
+          "original_publish_time": "2026-06-30T03:57:54+00:00",
+          "misaki_take": "India's domestic footwear market has moved well past the 'emerging' label — what you are seeing now is category segmentation maturity, where comfort-luxury hybrids command premium shelf positioning in Tier 1 and Tier 2 cities simultaneously. For global brands assessing India as both a sourcing base and a sell-in market, that dual pressure on capacity allocation is the strategic complexity that most five-year plans have not fully priced in."
+        },
+        {
+          "title": "Leather goods boost French leather industry but footwear and upstream sectors decline - FashionNetwork France",
+          "source_name": "Google News - Footwear Industry",
+          "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQM200UkZoZFU2R3lCNFVWYnNsMVI1bElLQnFabTB4cENjbzdrZ3ZNcnJvbnFMX1Q5TkVPV1pxQ2VyY2dOaXpmaXA2TXhfME9falNUSl9xWGpqaGtZUEM4eEFGaHBmb0pXb3hpMHZPRHRheVp1ODVFdXp6TS1wdFZ5U29tdGhPTGFQN0lTZU1MWFZWU2Q5b2RBNy1MVUtzSWlXcWV3YWIzZERsUjlUdXlZeEhvVzNtbERZOUhhdnR1QkdtLVNDVDFnS3d2TU1DZw?oc=5",
+          "category": "Leather",
+          "relevance_score": 9,
+          "original_publish_time": "2026-06-30T09:57:19+00:00",
+          "misaki_take": "When leather goods outperform while footwear and tannery upstream both contract, it tells you that the luxury conglomerates are hoarding the best hides and the margin, leaving mid-tier footwear manufacturers to compete for what remains at worse conversion economics. This bifurcation has been building for three seasons and sourcing teams relying on European leather supply for non-luxury footwear need to be accelerating their Brazil and India tannery qualification work now."
+        },
+        {
+          "title": "Crocs’ Tech-Driven Slip-On Is Rewriting the Rugged Mary Jane Playbook",
+          "source_name": "Highsnobiety",
+          "source_url": "https://www.highsnobiety.com/p/crocs-terre-tech-mary-jane/",
+          "category": "Retail",
+          "relevance_score": 7,
+          "original_publish_time": "2026-07-02T18:49:00+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "Nike’s New Air Force 1 Is Being Compared to Timberland’s Iconic ‘Beef and Broccoli’ Boots",
+          "source_name": "Footwear News",
+          "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-air-force-1-beef-and-broccoli-release-date-ix4088-352-1239051283/",
+          "category": "Leather",
+          "relevance_score": 7,
+          "original_publish_time": "2026-07-02T17:59:46+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "Vans' Waterproof Vibram-Soled Sneaker Is a True Trail Treat",
+          "source_name": "Highsnobiety",
+          "source_url": "https://www.highsnobiety.com/p/vans-crosspath-xc-gore-tex-marshmallow-white/",
+          "category": "Retail",
+          "relevance_score": 7,
+          "original_publish_time": "2026-06-29T20:03:29+00:00",
+          "misaki_take": "GORE-TEX licensing combined with Vibram outsole sourcing is not a casual cost decision — Vans is absorbing meaningful BOM increases on this silhouette, which signals VF Corporation is willing to defend Vans' technical credibility even under ongoing margin pressure at the parent level. A 'Marshmallow White' colorway on a trail construction is a calculated halo move: it pulls the style into lifestyle channels without cannibalizing the core skate consumer."
+        },
+        {
+          "title": "The Nike Moon Shoe OG \"Cacao Wow\" Is a Faithful Recreation of the Waffle Sole That Started It All",
+          "source_name": "Hypebeast",
+          "source_url": "https://hypebeast.com/2026/6/nike-moon-shoe-og-cacao-wow-gum-light-brown-sail-ix3952-200-official-images",
+          "category": "Quality",
+          "relevance_score": 7,
+          "original_publish_time": "2026-06-29T06:39:40+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "New Balance, Asics, Skechers and more are up to 43% off on Amazon right now - NBC News",
+          "source_name": "Google News - Sneaker Brand",
+          "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQS3lCUnhlem93QkU2WFdHbTd1c3NUV0xveGRCNmZMLWZRYk1RUDB3YUYzdnhfaHZOLVVENlJEUXdfWmNCX1otcXpkelI1cHBUVTlYX0hqdWVSNjZWQVdNQUswQkhyYmcxMmgtMFduWG9HTVRTdEtHOWRCOVBPaHppb3FlUGZPS21Vc3c?oc=5",
+          "category": "Retail",
+          "relevance_score": 6,
+          "original_publish_time": "2026-07-04T11:00:00+00:00",
+          "misaki_take": "A 43% discount on performance and lifestyle footwear in late June is not a promotion — it is inventory correction, and it means someone in the planning chain overcommitted Q2 receipts against demand signals that softened faster than the forecast model anticipated. For competing brands still holding clean inventory at full price, this is a two-week window of margin pressure at retail that will show up in wholesale reorder conversations by August."
+        },
+        {
+          "title": "Taylor Swift Walks Down the Aisle in Custom Christian Louboutin Shoes to Marry Travis Kelce",
+          "source_name": "Footwear News",
+          "source_url": "https://wwd.com/footwear-news/shoe-trends/taylor-swift-custom-christian-louboutin-wedding-shoes-1239052399/",
+          "category": "Retail",
+          "relevance_score": 6,
+          "original_publish_time": "2026-07-04T01:21:02+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "Take an Official Look at the Nike Air Force 1 Low “Ghostface”",
+          "source_name": "Hypebeast",
+          "source_url": "https://hypebeast.com/2026/7/nike-air-force-1-low-ghostface-summit-white-metallic-silver-black-gym-red-metallic-cool-grey-iv6350-121-official-images",
+          "category": "Leather",
+          "relevance_score": 6,
+          "original_publish_time": "2026-07-03T09:25:32+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "MICAM launches SHOES FIRST campaign - World Footwear",
+          "source_name": "Google News - Footwear Industry",
+          "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLUhFRGE1MTFZRzYzSEJFWndocEdUQ2hkR3R4OGhxLWFPTHhWR3hGeVpzdWRPcnp5U2RJa1VqNUJuRGdlR2xxaWhJdFhBWndyazJvWkFtZ0hEQlZPcm9pZGpmbzNHUjJEMWFfd1Y3a2oyazZsSGIydUVIbU9YM3cwZTlsVFhRRUEw?oc=5",
+          "category": "Brand News",
+          "relevance_score": 6,
+          "original_publish_time": "2026-07-03T08:40:09+00:00",
+          "misaki_take": "MICAM repositioning around a 'Shoes First' platform is a direct response to the ongoing encroachment of accessories and apparel content in what was historically a pure footwear trade event — when an industry fair has to assert its primary category, it is a signal that exhibitor and buyer attention has already been fragmenting. For sourcing managers deciding which trade events justify travel budgets in 2026 and 2027, MICAM's ability to execute this campaign in buyer attendance numbers will be the real proof point."
+        }
+      ]
+    },
     {
       "id": "wk26-2026",
       "week_number": 26,
@@ -907,107 +1008,6 @@
           "relevance_score": 6,
           "original_publish_time": "2026-04-29T11:10:10+00:00",
           "misaki_take": "When a sitting prime minister amplifies a technical industry article directly, it telegraphs that government procurement and export promotion bodies will follow with aligned policy instruments — this is how industrial direction gets set in India before the formal announcements arrive. For footwear brands, it reinforces that India's competitiveness play is moving toward engineered materials and performance construction, not just labor arbitrage, which changes the capability conversation with Indian factory partners."
-        }
-      ]
-    },
-    {
-      "id": "wk17-2026",
-      "week_number": 17,
-      "year": 2026,
-      "date_from": "2026-04-20",
-      "date_to": "2026-04-26",
-      "published": "2026-04-26T09:05:59.972906+00:00",
-      "intro": "Week 17 brings a study in contrasts: luxury leather doubles down on domestic production while athletic footwear faces softening consumer sentiment in the U.S. market. Hermès is building capacity as if demand is a fixed star; the broader athletic sector is being reminded it isn't. The week's signal is structural, not cyclical — watch where the capital is actually going.",
-      "articles": [
-        {
-          "title": "Athletic Footwear Industry Is Racing Toward $269 Bn - vocal.media",
-          "source_name": "Google News - Footwear Industry",
-          "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWlNmT0pkdmxibVl0bnlGa3pud1V6YkxsRlZjUjdGRnh0a0E3TC1fMjE4SThBQXExb3dzUklvWmhxY2RVb2RIV3htanZnZk1nMHNLcHJPN0R2UmthdHFPUEt1QVlqVDdQWWh5U2FHbWhxcDBmODhnelhDaHRBWHpOQ28xT2Y?oc=5",
-          "category": "Retail",
-          "relevance_score": 9,
-          "original_publish_time": "2026-04-19T23:27:56+00:00",
-          "misaki_take": "Headline TAM figures like this are useful for investor decks but they mask the distribution problem — growth is concentrating in performance and lifestyle premiums while mid-tier volume is under real pressure. Sourcing teams building capacity plans around aggregate market growth numbers will overextend; segment-level demand modeling is the only honest basis for FOB volume commitments right now."
-        },
-        {
-          "title": "Vans’ Next Vibram-Soled Skate Shoe Is Part Frog",
-          "source_name": "Highsnobiety",
-          "source_url": "https://www.highsnobiety.com/p/vans-otw-authentic-siped-vibram-amphibian/",
-          "category": "Retail",
-          "relevance_score": 7,
-          "original_publish_time": "2026-04-25T19:59:20+00:00",
-          "misaki_take": ""
-        },
-        {
-          "title": "Athletic footwear loses ground in U.S. survey - Sporting Goods Intelligence Europe",
-          "source_name": "Google News - Footwear Industry",
-          "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOV3VaRlItNnB5VE55eWpZczVINmg2MGItZFA0b1Rjb0JVeUlMMEpNOXlBcEtMV1phclh1YmpTajEyM1hLaWNIZkVESTU4NjQ4d1ZHTUVnRjRUZ2pHX2JLQlRJQW5OMFFmbndqdDlOZjM5WVk3VFhPVGV5MlAxN19vZDN3djN6X21JRlN5ZkRiM2hwN1hselVxSg?oc=5",
-          "category": "Supply Chain",
-          "relevance_score": 6,
-          "original_publish_time": "2026-04-24T09:53:42+00:00",
-          "misaki_take": "When consumer survey data moves against a category, the factory-level consequence typically arrives six to nine months later as brands quietly reduce forward order volumes and push back on capacity reservation agreements. Any factory in Vietnam or Indonesia with a heavy athletic footwear client mix should be stress-testing their Q3 and Q4 utilization assumptions right now."
-        },
-        {
-          "title": "Brazilian footwear industry outlook points to stability in 2026 - World Footwear",
-          "source_name": "Google News - Footwear Industry",
-          "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeF9YYXVUejdRNG1Xd2xpcnF3Z1lMRHVXMUhOS1Nfa2FLZk44Wmx4YmJVRDBxZ005amQ4OXNOeGlJWDk2YkFTbzlULVhXNWdSdlFqa1ZqWXlpS3RUWVloZUcyTnNFSGpjRXF6Mmo2MXVaNXV5LWNULXhrVmRUYzZlY3RlSkU0cmEyWGdrdEhOR0lzMlNGNGVrYnVwaDZlYnVVb0NOTlUxZHdSSGw2R0E?oc=5",
-          "category": "Retail",
-          "relevance_score": 6,
-          "original_publish_time": "2026-04-23T23:03:28+00:00",
-          "misaki_take": "Stability in Brazil's context means the currency volatility and domestic demand swings of the past two years are not expected to worsen — it is not a growth signal. For brands sourcing leather components or finished product from the Vale dos Sinos region, stable input costs and consistent lead times are operationally valuable even without expansion, particularly as an alternative to Southeast Asian leather supply chains facing their own cost pressures."
-        },
-        {
-          "title": "Hermès Opens 25th Leather Goods Workshop to Expand Production and Create 260 Jobs",
-          "source_name": "Leather News",
-          "source_url": "https://leathernews.org/hermes-opens-25th-leather-goods-workshop-to-expand-production-and-create-260-jobs/",
-          "category": "Leather",
-          "relevance_score": 5,
-          "original_publish_time": "2026-04-25T08:15:58+00:00",
-          "misaki_take": "Opening a 25th French atelier is a supply chain strategy as much as a brand statement — Hermès is structurally limiting its exposure to geopolitical disruption and exchange rate volatility by anchoring production cost in euros and output in France, where the Hermès brand story is inseparable from provenance. The 260 artisan hires also represent a multi-year training commitment, which is how you read their confidence in sustained leather goods demand."
-        },
-        {
-          "title": "New Balance & Dover Street Market's Head-to-Toe Running Capsule Is Ready to Race",
-          "source_name": "Hypebeast",
-          "source_url": "https://hypebeast.com/2026/4/new-balance-dover-street-markets-head-to-toe-running-capsule-is-ready-to-race",
-          "category": "Sustainability",
-          "relevance_score": 5,
-          "original_publish_time": "2026-04-24T18:23:42+00:00",
-          "misaki_take": "The SC Elite V5 with a PEBA midsole and carbon plate is New Balance staking a technical claim at the top of the performance pyramid, using DSM's retail positioning to keep the volume controlled and the price integrity intact. This is the correct sequencing — prove the platform at low volume with a credible performance partner before scaling, which is precisely the distribution mistake some competitors made by going too wide too fast with carbon plate product."
-        },
-        {
-          "title": "Hermès Reports €4.1 Billion Q1 Revenue with €1.8 Billion Coming from Leather Goods",
-          "source_name": "Leather News",
-          "source_url": "https://leathernews.org/hermes-reports-e4-1-billion-q1-revenue-with-e1-8-billion-coming-from-leather-goods/",
-          "category": "Leather",
-          "relevance_score": 5,
-          "original_publish_time": "2026-04-21T07:16:08+00:00",
-          "misaki_take": "Leather goods growing 9.4% at constant exchange rates while the overall house grows 6% tells you the segment is carrying the brand's performance, which directly justifies the Loupes workshop investment announced the same week — capacity is being added against proven demand, not projected demand. The €290 million currency headwind is also a reminder that any sourcing operation pricing in dollars against euro-denominated cost bases needs active hedging discipline right now."
-        },
-        {
-          "title": "This is the Short Story of Nike's Original Rule-Breaking Jordan Sneaker",
-          "source_name": "Highsnobiety",
-          "source_url": "https://www.highsnobiety.com/p/jordan-1-low-banned-sneakers-2026/",
-          "category": "Retail",
-          "relevance_score": 4,
-          "original_publish_time": "2026-04-25T19:55:32+00:00",
-          "misaki_take": "The Air Jordan 1 retro cycle is one of the most reliable margin engines in Nike's portfolio, and repositioning the 'Banned' narrative through a Low OG format is a deliberate move to extend the story into a slightly younger and more price-accessible consumer without diluting the original high's premium positioning. Retail buyers should note that Nike is clearly managing Jordan heritage product as a long-cycle asset, not a seasonal drop — allocation strategy matters more than hype timing."
-        },
-        {
-          "title": "Nike’s Slip-on Running Sneaker Is All Flex",
-          "source_name": "Highsnobiety",
-          "source_url": "https://www.highsnobiety.com/p/nike-flex-runner-4-sneakers/",
-          "category": "Retail",
-          "relevance_score": 4,
-          "original_publish_time": "2026-04-25T18:35:14+00:00",
-          "misaki_take": ""
-        },
-        {
-          "title": "Kobe Bryant’s Latest ‘Mambacita’ Tribute Sneakers Will Be Released Soon",
-          "source_name": "Footwear News",
-          "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-kobe-3-protro-low-mambacita-release-date-iq3916-100-1238928554/",
-          "category": "Retail",
-          "relevance_score": 4,
-          "original_publish_time": "2026-04-24T16:08:09+00:00",
-          "misaki_take": ""
         }
       ]
     }
