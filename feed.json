@@ -1,8 +1,27 @@
 {
-  "last_updated": "2026-07-05T08:01:32.985751+00:00",
-  "total_articles": 131,
-  "sources_checked": 62,
+  "last_updated": "2026-07-05T12:27:53.783846+00:00",
+  "total_articles": 130,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "aa294a7fcea3",
+      "title": "Tracee Ellis Ross and Kendall Jenner Convinced Me to Rethink My Stance on These Divisive Walking Shoes - instyle.com",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNa3QxTE1XWUowUHBRSDlPc3BlYWQ3Y282am94ekZXR2RKckhYN0pPNDJ4bDE2SHc4d3Y5QnY0ajlPOHppM0M5N0Fpd0wyVDgxQ1FwYk5YaXhBX0xQbzhnQTlUYk1XMDVCMEU4ZGZFLU42QWgxNldaRTkzNm1xZWdvXzRqTDBYNGc?oc=5",
+      "original_publish_time": "2026-07-05T10:00:00+00:00",
+      "scraped_time": "2026-07-05T12:16:45.581899+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "Tracee Ellis Ross and Kendall Jenner Convinced Me to Rethink My Stance on These Divisive Walking Shoes instyle.com",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "5884b2771d39",
       "title": "The Nike Zoom Vomero 5 Breaks Free With “Fire Pink” Soles",
@@ -2662,46 +2681,6 @@
       "keywords_matched": [],
       "relevance_score": 3,
       "summary": "An A-list brand and A-list collaborator start a new chapter this week. It’s why the KITH x New Balance 2011 earns top billing this week,... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Cade Cunningham's Nike ST Charge, Nike Ja 3 \"Animal Pack\" And This Week's Best Releases appeared first on Sneaker News . The post Cade Cunningham’s Nike ST Charge, Nike Ja 3 “Animal Pack” And This Week’s Best Releases appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "8a197bb483f6",
-      "title": "Stefano Caroti: European Footwear Expert, Omni-Channel Pioneer, and President and Chief Executive Officer of Deckers Brands - BBN Times",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOdWJ5TEFOeGlYOEY2aEtLSWxmRXFYY3hRUXN6VXByQnZDdVVBUGl4TjYwVkd6RGJzam1NclpPQmpMRDdUbWRYVTAzSkFXTlBXcjVZNjZnY0I5UzRDei1EeU15ejBlNC0xQXRfWl9hR1psYnViRTIwM3owNFprNW1TMmhNMEQ3eGRLSXdGN21mVXlSeTF3S3ZwdTVKR3pGdWUwTW1GWHFqSjNvb1h4ZlhGZlRkbEVscE5DMUlQekd0MU42c1VsdjNzYU9Wc0tudGJXSy1Lb18yV3JDQmZrQ1JJd1piOVFpTHdsbDg0?oc=5",
-      "original_publish_time": "2026-06-28T10:19:39+00:00",
-      "scraped_time": "2026-06-28T12:17:13.983715+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Stefano Caroti: European Footwear Expert, Omni-Channel Pioneer, and President and Chief Executive Officer of Deckers Brands BBN Times",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "41995431dd3a",
-      "title": "A-COLD-WALL* x Salomon Unveil First ACS Pro Collaboration",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/6/a-cold-wall-salomon-acs-pro-black-olive-bog-icicle-bluing-earth-bro-black-olive-release-info",
-      "original_publish_time": "2026-06-28T08:39:32+00:00",
-      "scraped_time": "2026-06-29T09:20:05.685640+00:00",
-      "time_delta_mins": 0,
-      "category": "Quality",
-      "brands_mentioned": [
-        "Salomon"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 4,
-      "summary": "Name: A-COLD-WALL* x Salomon ACS Pro Colorway: Black Olive/Bog-Icicle, Bluing/Earth Bro/Black Olive SKU: TBCMSRP: $260 USDRelease Date: July 1Where to Buy: SalomonThe debut partnership between Salomon and A-COLD-WALL* reinterprets Salomon’s technical trail heritage through a distinct post-industrial design language. Redefined through the architectural lens of A-COLD-WALL*, the ACS Pro intentionally exposes every panel, seam and layer to contrast the shoe's rugged outdoor structure with design precision. Playing with deconstructed forms and industrial textures, the upper features a prominent floating cage structure, a technical asymmetric lacing system, and a dual upper structure built from rugged Matryx® Kevlar® mesh to deliver exceptional durability and steady support.The collection intro",
       "ren_take": "",
       "image_url": ""
     }
