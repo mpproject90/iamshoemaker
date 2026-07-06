@@ -1,8 +1,52 @@
 {
-  "last_updated": "2026-07-05T18:10:13.078231+00:00",
-  "total_articles": 132,
-  "sources_checked": 60,
+  "last_updated": "2026-07-06T00:21:03.833958+00:00",
+  "total_articles": 129,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "79e83ef4d854",
+      "title": "This Nike Air Force 1 Low “Safari” Carries Olympic Echoes",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/07/05/nike-air-force-1-low-white-kumquat-iv5525-100/",
+      "original_publish_time": "2026-07-05T20:00:23+00:00",
+      "scraped_time": "2026-07-06T00:09:58.311496+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Vans"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 4,
+      "summary": "All eyes are currently on Paris, with footwear fans feasting on headlines like the Westside Gunn Saucony collab, square Air Max 90, and Pharrell Vans... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post This Nike Air Force 1 Low \"Safari\" Carries Olympic Echoes appeared first on Sneaker News . The post This Nike Air Force 1 Low “Safari” Carries Olympic Echoes appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "7c657a18d7cb",
+      "title": "The Nike Dunk Low Gives “Beef & Broccoli” Vibes",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/07/05/nike-dunk-low-fir-light-british-tan-sesame-black-im4414-300/",
+      "original_publish_time": "2026-07-05T18:00:59+00:00",
+      "scraped_time": "2026-07-06T00:09:58.315637+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Timberland"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 4,
+      "summary": "As far as food-inspired shoe nicknames go, “Beef & Broccoli” sits near the top of the list, popularized in NYC by the Timberland Field Boot... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Nike Dunk Low Gives \"Beef & Broccoli\" Vibes appeared first on Sneaker News . The post The Nike Dunk Low Gives “Beef & Broccoli” Vibes appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "8deb53b8b644",
       "title": "Air Jordan 7 “Miro,” SOULGOODS Nike Homescape Woven, And This Week’s Best Releases",
@@ -2617,111 +2661,6 @@
       ],
       "relevance_score": 3,
       "summary": "Name: UNDERCOVER x OTW by Vans Slip-On, UNDERCOVER x OTW by Vans Sk8-HiColorway: Black, Egret WhiteSKU: VN000Z0ZBLK, VN000Z10BLKMSRP: $110 USDRelease Date: Available nowWhere to Buy: VansOTW by Vans and UNDERCOVER have delivered a two-silhouette collaboration that positions footwear as a vehicle for fine art and considered construction. The collection pairs the Classic Slip-On 98 and Sk8-Hi with distinct design treatments, each reflecting a different dimension of UNDERCOVER's creative output — one rooted in painterly expression, the other in Takahashi's instinct for sharp, restrained form.The Classic Slip-On 98 takes the more visually striking direction. Emma Bennett's oil paintings “Whence You Came” and “Ardour” are placed across the left and right vamps respectively, effectively converti",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "115f7bd6ea07",
-      "title": "New Balance's Tiny-Soled Dad Sneaker Exists In the Beautiful Gray Area",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/new-balance-u204l-grey-matter-magnet/",
-      "original_publish_time": "2026-06-28T21:27:00+00:00",
-      "scraped_time": "2026-06-29T00:15:43.777811+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "New Balance"
-      ],
-      "keywords_matched": [
-        "sole"
-      ],
-      "relevance_score": 5,
-      "summary": "A low-profile counter-revolution has been brewing in Boston. Enter the New Balance U204L Grey Matter/Magnet.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "d557faf3219a",
-      "title": "Nike’s Super Stitched Sneaker Is as Futuristic as It Is Disruptively Simple",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-ava-rover-green/",
-      "original_publish_time": "2026-06-28T21:12:00+00:00",
-      "scraped_time": "2026-06-29T00:15:43.778492+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "midsole",
-        "sole",
-        "upper"
-      ],
-      "relevance_score": 5,
-      "summary": "Nike Ava Rover Premium in Dark Smoke Grey and Light Liquid Lime features a super-stitched synthetic leather upper, chunky ReactX midsole, and city-ready design.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "76e911592e61",
-      "title": "Sacai Combines Three Birkenstock Models to Create Two New Styles for Spring 2027",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/sacai-birkenstock-collaboration-details-paris-spring-2027-1239044387/",
-      "original_publish_time": "2026-06-28T21:02:17+00:00",
-      "scraped_time": "2026-06-29T00:12:01.397256+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Birkenstock"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "The duo also showed a utility bag that was crafted using the same natural and suede leathers featured throughout the footwear collection.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "65bb05d656bc",
-      "title": "“K” Marks the Spot on KENZO’s Dapper Paraboot Shoe",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/kenzo-paraboot-ss27/",
-      "original_publish_time": "2026-06-28T19:56:23+00:00",
-      "scraped_time": "2026-06-29T00:15:43.779545+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 3,
-      "summary": "NIGO's KENZO debuts its first-ever Paraboot collaboration, taking the famous Michael shoe for a collegiate spin.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "2381c068f63a",
-      "title": "Hoka and Beams Tease Collab at Paris Fashion Week",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-features/hoka-beams-collaboration-paris-fashion-week-2026-1239043738/",
-      "original_publish_time": "2026-06-28T18:42:16+00:00",
-      "scraped_time": "2026-06-29T00:12:01.400028+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Hoka"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "The footwear brand and Japanese retailer's official launch will be July 31.",
       "ren_take": "",
       "image_url": ""
     }
