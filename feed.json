@@ -1,8 +1,232 @@
 {
-  "last_updated": "2026-07-07T13:41:07.496592+00:00",
-  "total_articles": 123,
-  "sources_checked": 62,
+  "last_updated": "2026-07-07T19:10:04.344628+00:00",
+  "total_articles": 124,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "0eb58700ea2d",
+      "title": "Adidas Is Taking Basketball Shoes Into the Future With Its 3D-printed Sneaker Dropping Soon",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/adidas-bb01-3d-printed-basketball-shoe-release-date-lc4118-1239056370/",
+      "original_publish_time": "2026-07-07T18:55:43+00:00",
+      "scraped_time": "2026-07-07T18:58:52.765932+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 5,
+      "summary": "The style launches this month after being revealed during March Madness.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "76c9ee916bb5",
+      "title": "Nike Atelier Taps Team France's Désiré Doué For a Limited-Edition Sneaker",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/7/nike-atelier-desire-doue-france-sneaker-release-date-info",
+      "original_publish_time": "2026-07-07T18:29:56+00:00",
+      "scraped_time": "2026-07-07T18:59:03.714264+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "midsole",
+        "sole",
+        "upper"
+      ],
+      "relevance_score": 5,
+      "summary": "SummaryFrench footballer Désiré Doué has teamed up with Nike to release a limited-edition NIKE ATELIER sneaker, which combines a '90s Nike Mercurial-inspired black leather upper with a Pegasus-style midsole featuring vibrant blue Air cushioning.The off-field shoe will be available at select retailers this summer, with an exclusive in-store pre-order starting July 8 at Dover Street Market Paris.While French football player Désiré Doué and Nike teased a NIKE ATELIER collab back in June, the partners are officially kicking off the rollout with a sleek leather sneaker.This discreet black silhouette borrows its upper design of the 90s-born Nike Mercurial, an iconic model in global football, inspired by Brazilian football legend Ronaldo Fenomeno. Combined with a Pegasus-style midsole featuring v",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "4f4c5d47ac89",
+      "title": "Nike Made a Tasteful Tactical Stomper Out of the Air Force 1",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-air-force-1-lux/",
+      "original_publish_time": "2026-07-07T18:03:00+00:00",
+      "scraped_time": "2026-07-07T19:02:48.553975+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "Nike's Air Force 1 Low Lux is a premium & surprisingly rugged take on the iconic sneaker. Here's everything on the release.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "6746146ca549",
+      "title": "This Weirdly Normal Sandal Is Balenciaga's Post-Demna Sneaker Vision",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/balenciaga-hike-sandal-sneaker/",
+      "original_publish_time": "2026-07-07T17:49:01+00:00",
+      "scraped_time": "2026-07-07T19:02:48.554663+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Balenciaga"
+      ],
+      "keywords_matched": [
+        "sandal"
+      ],
+      "relevance_score": 5,
+      "summary": "Pierpaolo Piccioli's Hike Sandal Sneaker for Balenciaga is shockingly normal and the logical next step in the designer's sportier, more scaled-back pivot.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "26d4517565f5",
+      "title": "Nike Added Iconic Prints to Its Air Force 1 and Air Max Sneakers for a New Exclusive Pack",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-safari-pack-air-force-1-air-max-90-iv5525-100-iv4451-010-iv4454-010-1239056609/",
+      "original_publish_time": "2026-07-07T17:48:19+00:00",
+      "scraped_time": "2026-07-07T18:58:52.768461+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "The Safari Pack is available now, and there's only one place to get it.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "97c32a70e7e1",
+      "title": "Imran Potato Flexes His Spring/Summer 2027 Vans Collabs",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/07/07/imran-potato-vans-half-cab-old-skool/",
+      "original_publish_time": "2026-07-07T17:30:13+00:00",
+      "scraped_time": "2026-07-07T18:59:03.886509+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Vans"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "With any rising or cresting trend in footwear or fashion, once things reach a certain level of notoriety, the think pieces and comments attempting to... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Imran Potato Flexes His Spring/Summer 2027 Vans Collabs appeared first on Sneaker News . The post Imran Potato Flexes His Spring/Summer 2027 Vans Collabs appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "9b29b8259c3b",
+      "title": "Gherardo Felloni’s First Pièce Unique Footwear Designs Take Flight",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/roger-vivier-gherardo-felloni-piece-unique-footwear-debut-1239056394/",
+      "original_publish_time": "2026-07-07T17:21:42+00:00",
+      "scraped_time": "2026-07-07T18:58:52.768996+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "The one-of-a-kind designs featured techniques including enameled metalwork, feathers and a multitude of embroidery techniques.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "e108bd2b2840",
+      "title": "Nike Mixes Materials With The Dunk Low “Bronze Eclipse”",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/07/07/nike-dunk-low-retro-bronze-eclipse-pale-ivory-pale-vanilla-black-im4414-200/",
+      "original_publish_time": "2026-07-07T16:30:00+00:00",
+      "scraped_time": "2026-07-07T18:59:03.888802+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "Few Nike sneakers embrace the pack mentality quite like the Dunk Low, the model routinely emerging in cohesive units built around matching materials and/or color... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike Mixes Materials With The Dunk Low \"Bronze Eclipse\" appeared first on Sneaker News . The post Nike Mixes Materials With The Dunk Low “Bronze Eclipse” appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "d2705854f43a",
+      "title": "Meet Full Kit, the Vintage Jersey Bootleggers Rewriting Music Merch",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/7/full-kit-hypebeast-cup-interview",
+      "original_publish_time": "2026-07-07T15:34:50+00:00",
+      "scraped_time": "2026-07-07T18:59:03.718334+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 3,
+      "summary": "Read more at Hypebeast",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "5e1337fb3813",
+      "title": "Nike’s Next Elegant Jordan Sneaker Literally Looks Like Money",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/jordan-8-bin-23/",
+      "original_publish_time": "2026-07-07T14:53:40+00:00",
+      "scraped_time": "2026-07-07T19:02:48.555748+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "The Air Jordan 8 \"Bin 23\" sneaker lands as the latest luxurious stepper in the series, featuring a suave all-green design & top-tier details.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "18c5d8e865a2",
+      "title": "Piyush Goyal asks leather industry to target $15 billion exports - newsage.in",
+      "source_name": "Google News - Leather Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1OMEFVbk55d2dsVExlYmVnWnpCWUZyU083T05TQUdNNS0tanhoOTU1VEVsUi1rWk14bXpPSEdteWdTTXNfclhVQ1RHcml6VGU3ZjJDRFJHcHVYYjZtNGVseVNONzV0U1NrTHNz?oc=5",
+      "original_publish_time": "2026-07-07T11:24:54+00:00",
+      "scraped_time": "2026-07-07T18:59:16.970018+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "leather industry"
+      ],
+      "relevance_score": 3,
+      "summary": "Piyush Goyal asks leather industry to target $15 billion exports newsage.in",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "554dbec18990",
       "title": "Piyush Goyal Urges Leather and Footwear Industry to Triple Exports to USD 15 Billion - KNN India",
@@ -58,6 +282,26 @@
       ],
       "relevance_score": 3,
       "summary": "‘Nigeria’s leather industry growing’ The Nation Newspaper",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "03da3817addc",
+      "title": "Free Trade Agreements Set To Push India's Leather, Footwear Exports To $14 Billion By 2030 - Swarajyamag",
+      "source_name": "Google News - Leather Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVFpyNFdSeExYX0QzUXFOVGotYVpCb05Ja2VhUkc1bDdrU3J1RXdaQVBIM3JjS3hFYnpnQXJOTjBqc2xKZHRaSmNNNFN4SU90V09xUVVmS0tLZXNzenRxaEJmRGdTZXBFc3BoWEsyb3RIUkcwcHVvbGVNVE9vb0ladHpzbVlIZy1GZUlXVmF2NmJDQU9IR2RXTk5XSTJ6Q3EweW9KQjBCOUxRZnM0M2U0emluWDh6WDBQaFpqNzRkVdIBzwFBVV95cUxOVl9wR2RNSUR4U2dCMzBOQ3dDa3hPM0pZMGxrOW45b0E3SWU4cDN5akprZjhQemRfLTByc25DeHZyQ25OYXZ0YU9Jd0QyTzBZOTUzNzFZV3ZjRUxOTGplUEJoRmNhZERMRl9FMEgxVFVJN0lUS2xQbFJRVjJka18tQUR0MkxPQUFWdGdHTi16dGlKakFnRFdmemJZdjNaV3RvT3JyR1ZnQWthU1VEek8xa21RNXRZRW5VZHZGYThiWGtnbVFFZ1BQWUt0R3ZvcDQ?oc=5",
+      "original_publish_time": "2026-07-07T09:24:53+00:00",
+      "scraped_time": "2026-07-07T18:59:16.968342+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "footwear exports"
+      ],
+      "relevance_score": 6,
+      "summary": "Free Trade Agreements Set To Push India's Leather, Footwear Exports To $14 Billion By 2030 Swarajyamag",
       "ren_take": "",
       "image_url": ""
     },
@@ -2305,233 +2549,6 @@
       "keywords_matched": [],
       "relevance_score": 4,
       "summary": "Among four key soccer tournaments on the international stage, Nike took 64.7 of the goals scored, beating out Adidas at 20.9 percent, per soccer.com.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "017fa0293c65",
-      "title": "Kylie Jenner’s Brand Khy Is About to Launch Footwear — And She Subtly Teased It at a Knicks Game",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-trends/kylie-jenner-khy-footwear-launch-tease-1239047958/",
-      "original_publish_time": "2026-06-30T18:29:36+00:00",
-      "scraped_time": "2026-06-30T18:54:10.864206+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "The footwear can also be seen in the brand's Dear Summer, Love Khy campaign.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "1320c1500881",
-      "title": "Birkenstock Got Its Own “Birken” Bags",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/birkenstocks-bag-sacai/",
-      "original_publish_time": "2026-06-30T18:04:20+00:00",
-      "scraped_time": "2026-06-30T18:57:58.848007+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Birkenstock"
-      ],
-      "keywords_matched": [
-        "sandal"
-      ],
-      "relevance_score": 3,
-      "summary": "For Spring/Summer 2027, sacai made itself a literal Birken bag, producing a sleek leather tote in the image of a classic Birkenstock sandal.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "396cfb13a360",
-      "title": "Nike’s Tasteful Tan Air Max Has a Rugged Side",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-air-max-95-desert-khaki-sail/",
-      "original_publish_time": "2026-06-30T17:59:09+00:00",
-      "scraped_time": "2026-06-30T18:57:58.848946+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 4,
-      "summary": "Nike's Air Max 95 \"Desert Khaki\" sneaker lands with rugged touches & clean tan views. Here's everything on the newest Big Bubble stepper.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "d026af2bb363",
-      "title": "Nike’s Futuristic Air Liquid Max Gets an All-black, Wavy Makeover",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-air-liquid-max-triple-black-release-date-iq7635-003-1239048020/",
-      "original_publish_time": "2026-06-30T17:57:35+00:00",
-      "scraped_time": "2026-06-30T18:54:10.867144+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "One of a few new variants to change its upper pattern.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "1f016d90c2b3",
-      "title": "A Closer Look at the Shoes in Marc Jacobs Spring 2027 Show",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-trends/marc-jacobs-spring-2027-shoes-sandals-1239047686/",
-      "original_publish_time": "2026-06-30T16:48:39+00:00",
-      "scraped_time": "2026-06-30T18:54:10.867950+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "The collection was presented at the New York Public Library on Monday.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "dfa2a6f50780",
-      "title": "PUMA’s Suede and Speedcat Inspired This Paris Café",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/6/puma-cafe-paris-fashion-week-ss27-popup-recap",
-      "original_publish_time": "2026-06-30T16:43:23+00:00",
-      "scraped_time": "2026-06-30T18:54:21.309717+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Puma"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "SummaryPUMA opened the doors to PUMA Café this past weekend for Paris Fashion Week, celebrating the Suede and the Speedcat, two of its most iconic silhouettesThe café pop-up ran from June 24 through 28, and doubled as a footwear showroom, serving up drinks, bites, and sounds by Timothée Joly and Kofi BæPUMA left its print in Paris this past weekend with PUMA Café, celebrating a pair of its most beloved models: the Speedcat and the Suede. While much of Fashion Week was a rather stylish sprint between shows, the brand’s showroom pitstop kept it calm with an immersive tale of two silhouettes.A playful, sleek nod to classic bon vivant culture, guests could chill, sip, and shop in the Le Marais pop-up, which doubled as a breather before heading back into the city. PUMA Café, which ran from June",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "93f5fd70f86f",
-      "title": "The Nike Air Foamposite Pro Sports “Glow In The Dark” Uppers",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/06/30/nike-air-foamposite-pro-glow-in-the-dark-iv6246-100/",
-      "original_publish_time": "2026-06-30T16:40:06+00:00",
-      "scraped_time": "2026-06-30T18:54:21.452678+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 5,
-      "summary": "If there’s one Nike sneaker category that can make glow-in-the-dark treatments actually work, it’s Foamposite, the often-childish feature pairing perfectly with the far-out themes and... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Nike Air Foamposite Pro Sports \"Glow In The Dark\" Uppers appeared first on Sneaker News . The post The Nike Air Foamposite Pro Sports “Glow In The Dark” Uppers appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "e4311b08d273",
-      "title": "The 17 Most Talked About Paris Men’s Shoe Moments for Spring 2027, From Jaden Smith and Louboutin to Saint Laurent",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-trends/paris-mens-shoe-moments-spring-2027-1239047625/",
-      "original_publish_time": "2026-06-30T16:16:31+00:00",
-      "scraped_time": "2026-06-30T18:54:10.868491+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Louboutin"
-      ],
-      "keywords_matched": [
-        "boot",
-        "shoes"
-      ],
-      "relevance_score": 4,
-      "summary": "Hot shoes of the moment continue to include flip-flops, slip-on styles, oversized boots and even ballet flats.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "1bfeb63d1300",
-      "title": "From ASICS to New Balance, Browse This Week’s Best Sneaker Releases",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/sneaker-releases-2026-june-week-5/",
-      "original_publish_time": "2026-06-30T15:58:17+00:00",
-      "scraped_time": "2026-06-30T18:57:58.849819+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike",
-        "New Balance",
-        "ASICS"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 6,
-      "summary": "The world of sneakers releases is a tricky one to navigate, but we here with best of the open market, from Nike to ASICS & New Balance.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "03ec4d1f52ac",
-      "title": "Off-White Is Offering Access & Affordability With the Launch of L/AB c/o",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/6/off-white-lab-co-label-launch-collection-release-info",
-      "original_publish_time": "2026-06-30T14:35:11+00:00",
-      "scraped_time": "2026-06-30T18:54:21.311441+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Off-White"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "SummaryOff-White launched L/AB c/o, a new sub-label continuing Virgil Abloh’s accessible \"Off-White For All\" concept for young consumers.The debut collection features classic industrial-style apparel and sneakers, with all pieces priced under $200.Off-White has a new sub-label, which some fans may find familiar. As a re-up to Virgil Abloh’s accessible “Off-White For All” concept, the late designer’s imprint is reintroducing a diffusion line under a new name with the same message — L/AB c/o.The collection features apparel and sneakers rendered in the brand’s classic industrial aesthetics, including the diagonal strip motif, typographic prints, and plenty of “Off-White” callouts. However, every piece in the first drop, from the t-shirts to the sneakers, sit well below $200 USD. According to ",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "2168e22dbf1f",
-      "title": "Nepali leather industry grows steadily as PG Shoes sets sights on exports - myRepublica",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeW9aREpXT0M5Ynk1RzFEdTNwZWwxeFBPZDdvclZXYTc0NnBTV3JLNjNLa2FINm8xYmM1ZnZubFhBdDYyOTM3VEtrMXlVSE0wZU9TTXNyNzgxTlg0RlNETWVxWlNnU0JtSk5UX1FpRGpheFJteDNqZFFZaEVaa3VxeG9SV3ZUVVVKUnFxblRlU3YzenNQV1Jmd0U5QUlWTlpMWjNlZFFET3B5cEQzNzlPbmpXQlFXcTd2cndBN250SUZHak5uWkZR?oc=5",
-      "original_publish_time": "2026-06-30T14:11:44+00:00",
-      "scraped_time": "2026-06-30T18:54:32.379990+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "leather industry",
-        "shoes"
-      ],
-      "relevance_score": 6,
-      "summary": "Nepali leather industry grows steadily as PG Shoes sets sights on exports myRepublica",
       "ren_take": "",
       "image_url": ""
     }
