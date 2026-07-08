@@ -1,8 +1,134 @@
 {
-  "last_updated": "2026-07-08T12:32:14.898031+00:00",
-  "total_articles": 121,
+  "last_updated": "2026-07-08T18:29:20.876741+00:00",
+  "total_articles": 124,
   "sources_checked": 61,
   "articles": [
+    {
+      "id": "9b8fd1421ea9",
+      "title": "Nike vs. Adidas: Here’s Who’s Winning the World Cup Sales Race",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/adidas-nike-world-cup-jersey-shoe-sales-1239051640/",
+      "original_publish_time": "2026-07-08T17:43:20+00:00",
+      "scraped_time": "2026-07-08T18:14:37.071441+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Adidas"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "From marketing to product, the competition is fierce.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "28204fe39591",
+      "title": "Vanessa Bryant Reveals New Nike Kobe Sneakers, Including Tributes to the Philadelphia Eagles and Iron Man",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/vanessa-bryant-2026-nike-kobe-sneaker-reveals-1239058789/",
+      "original_publish_time": "2026-07-08T17:03:14+00:00",
+      "scraped_time": "2026-07-08T18:14:37.074163+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "Four models get a total of seven new colorways.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "e9e1c51bab9a",
+      "title": "The Chicest Barefoot Sandal Yet Comes Courtesy of Literary Sport",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/7/literary-sport-xero-shoes-genesis-sandal",
+      "original_publish_time": "2026-07-08T16:46:48+00:00",
+      "scraped_time": "2026-07-08T18:14:47.826489+00:00",
+      "time_delta_mins": 0,
+      "category": "Quality",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "sandal",
+        "shoes",
+        "sole"
+      ],
+      "relevance_score": 6,
+      "summary": "Literary Sport, the Canadian label that has quietly become the new standard-bearer of chic activewear among fashion's inner circle, is now making a case for barefoot sandals.For its latest collaboration, the brand has teamed up with Xero Shoes to reinterpret the Genesis, the footwear company's original sandal first introduced in 2009 and inspired by the huarache-style sandals worn by Mexico's Tarahumara runners. The silhouette has remained largely unchanged for more than a decade, defined by its thin sole and minimalist lace construction.Rather than reinventing the formula, Literary Sport focuses on the sandal's most distinctive feature: its lacing system. Swapping the original paracord for navy leather cording finished with a polished silver bead, the collaboration subtly elevates the Gen",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "679e42569dec",
+      "title": "Nike’s Sold-out, Mind-altering Shoes Return This Week With a Spider-Man-esque Look",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-mind-001-spider-man-release-date-iz6659-400-1239058315/",
+      "original_publish_time": "2026-07-08T15:39:55+00:00",
+      "scraped_time": "2026-07-08T18:14:37.074932+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 5,
+      "summary": "Find the pressure point for your Spidey-Senses.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "c951276c7110",
+      "title": "FP Movement launches Asics footwear collaboration",
+      "source_name": "Retail Dive",
+      "source_domain": "retaildive.com",
+      "source_url": "https://www.retaildive.com/news/fp-movement-asics-footwear-collaboration/824688/",
+      "original_publish_time": "2026-07-08T15:24:00+00:00",
+      "scraped_time": "2026-07-08T18:17:32.385426+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "ASICS"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 5,
+      "summary": "The tie-up is one of several merchandising efforts from Free People this year and comes as the brand embarks on a brick-and-mortar expansion.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "ed0c9c2be065",
+      "title": "We've Never Seen Mephisto Merch Before",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/beams-mephisto/",
+      "original_publish_time": "2026-07-08T14:49:41+00:00",
+      "scraped_time": "2026-07-08T18:18:16.336531+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Mephisto"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Mephisto, maker of the “World’s Finest Footwear,\" finally has merch thanks to BEAMS. And its best shoe, the Match, finally has MEPHI-TEX waterproofing.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "80b9d019279c",
       "title": "New Balance’s Hunky Hiker Hides Two Beautiful Mules",
@@ -67,6 +193,26 @@
       ],
       "relevance_score": 5,
       "summary": "Name: adidas Originals Samba Decon “Auco” & “Brndes” BILLY's ExclusiveColorway: Auco/Auco/GUM5, Brndes/Brndes/GUM3SKU: KZ6693, KZ6694MSRP: ¥19,800 JPY (approx. $124 USD)Release Date: July 10Where to Buy: BILLY's TokyoBILLY’S is set to release two exclusive adidas Originals Samba Decon sneakers, arriving in “Auco” and “Brndes” colorways.The “Auco” edition features a light beige leather upper accented with tonal stitching and a soft suede toe cap, creating a minimalist yet refined finish. Its gum sole grounds the design with vintage appeal, while subtle perforations and embossed branding on the tongue highlight the deconstructed aesthetic.The “Brndes” iteration contrasts with a rich brown leather upper, paired with darker suede overlays for added depth and texture. Like its counterpart, it s",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "ec672d02b9f2",
+      "title": "FTAs To Boost India’s Leather, Footwear Exports To USD 14 Bn By 2030: CLE - KNN India",
+      "source_name": "Google News - CLE Leather Exports India",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNU1qUXlBbkhGSmZ1NDZnM0o3eUFsMTY1aWJZbER0MzZKcU4zbmJmVEpZMnY3c09kTWozczZWUXJQNEVtUXYydjV5NXpadUlWb2NiMzVKeVdLX1BsTkM5NGdZNS1iVXZVaHVJWC02Tmc5bXBfUUFvd0c3a3FFYnN0VGdkWkh2TU1yNkg1WU8wUmgxTWZZel9JSm4xTGlDNHIxS3BWd2V2aEV4WW4yUk1XNzZjSmdoWEh2bGc?oc=5",
+      "original_publish_time": "2026-07-08T10:16:26+00:00",
+      "scraped_time": "2026-07-08T18:29:20.246397+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "footwear exports"
+      ],
+      "relevance_score": 6,
+      "summary": "FTAs To Boost India’s Leather, Footwear Exports To USD 14 Bn By 2030: CLE KNN India",
       "ren_take": "",
       "image_url": ""
     },
@@ -2413,87 +2559,6 @@
       ],
       "relevance_score": 3,
       "summary": "Bad Bunny’s adidas F50 Ghost Sprint sneaker reworks football boot DNA into a slim, playful silhouette built around speed, lightness, and experimental design.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "45ad10f305ea",
-      "title": "The Nike Diamond Turf 2 “49ers” Is Dropping As A Cleat",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/07/01/nike-diamond-turf-2-football-cleats-if4807-002/",
-      "original_publish_time": "2026-07-01T17:00:07+00:00",
-      "scraped_time": "2026-07-01T18:57:42.511559+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "For the nostalgia-driven and the old school football diehards, the resurgence of Deion Sanders shoes has been a godsend, reviving what’s truly one of Nike’s... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Nike Diamond Turf 2 \"49ers\" Is Dropping As A Cleat appeared first on Sneaker News . The post The Nike Diamond Turf 2 “49ers” Is Dropping As A Cleat appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "c474cd0dff34",
-      "title": "adidas’ Cutesy Mary Jane Is Soft as Butter & Twice as Sweet",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/adidas-originals-x-care-bears-samba-jane/",
-      "original_publish_time": "2026-07-01T16:14:26+00:00",
-      "scraped_time": "2026-07-01T19:01:08.514830+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "The adidas Originals x Care Bears Samba Jane pairs a butter-yellow velvet upper with playful Care Bears details for the cutest take yet on the Mary Jane sneaker.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "f0262517bb9f",
-      "title": "Are Nike’s ‘kernels of progress’ enough?",
-      "source_name": "Retail Dive",
-      "source_domain": "retaildive.com",
-      "source_url": "https://www.retaildive.com/news/nike-earnings-turnaround-progress-enough-sell-converse/824225/",
-      "original_publish_time": "2026-07-01T15:41:00+00:00",
-      "scraped_time": "2026-07-01T19:00:24.820377+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Nike",
-        "Converse"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 4,
-      "summary": "Two major drags on the business, China and Converse, continued to post double-digit declines and one analyst suggested it may be time to sell the smaller brand.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "e1ffb2e6687c",
-      "title": "India’s Apparel Exports to EU Reach Record US$4.66 Bn in FY26",
-      "source_name": "Apparel Resources",
-      "source_domain": "apparelresources.com",
-      "source_url": "https://apparelresources.com/business-news/trade-business-news/indias-apparel-exports-eu-reach-record-us4-66-bn-fy26/",
-      "original_publish_time": "2026-07-01T12:58:24+00:00",
-      "scraped_time": "2026-07-01T13:38:02.362045+00:00",
-      "time_delta_mins": 0,
-      "category": "Quality",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "apparel exports"
-      ],
-      "relevance_score": 3,
-      "summary": "India’s apparel exports to the EU reached a record of US $ 4.66 billion in FY 2025–26, rising from US $ 4.55 billion in FY 2024–25. According to the Ministry of Shipping the growth has been supported by India’s manufacturing capabilities, along with its focus on quality, innovation, and a resilient supply chain. The European […] The post India’s Apparel Exports to EU Reach Record US$4.66 Bn in FY26 appeared first on Apparel Resources .",
       "ren_take": "",
       "image_url": ""
     }
