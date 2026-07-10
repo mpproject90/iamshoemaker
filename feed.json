@@ -1,8 +1,138 @@
 {
-  "last_updated": "2026-07-09T18:59:06.601364+00:00",
-  "total_articles": 138,
-  "sources_checked": 61,
+  "last_updated": "2026-07-10T00:18:54.634267+00:00",
+  "total_articles": 144,
+  "sources_checked": 62,
   "articles": [
+    {
+      "id": "252a4ffe86c1",
+      "title": "Nike Air Force 1 Low Foamposite Pro Reportedly Returning in \"Gym Red\"",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/7/nike-air-force-1-low-foamposite-pro-gym-red-jj3675-687-reported-release-info",
+      "original_publish_time": "2026-07-09T21:54:27+00:00",
+      "scraped_time": "2026-07-10T00:08:08.804155+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "footwear",
+        "upper"
+      ],
+      "relevance_score": 5,
+      "summary": "Name: Nike Air Force 1 Low Foamposite Pro \"Gym Red\"Colorway: Malachite/University Gold-Gum Medium Brown-Coconut MilkSKU: JJ3675-687Retail Price: $180 USDRelease Date: Summer 2027Where to Buy: NikeNike is rumored to be expanding its hybrid lifestyle footwear lineup with the purported return of the Air Force 1 Low Foamposite Pro \"Gym Red.\" The striking low-top silhouette is tentatively scheduled to make its debut window sometime in 2027.Rumors suggest that the upcoming release will merge the timeless streetwear architecture of the classic Air Force 1 Low with the rigid, molded polyurethane shell technology native to the Foamposite Pro series. The upper is expected to feature a vibrant \"Gym Red\" color scheme, likely adopting the signature metallic sheen and undulating side panel grooves inher",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "63d2a137849a",
+      "title": "Staring Contest: Nike Is Dropping An Air Max 90 With Eyes",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/07/09/nike-air-max-90-black-dark-smoke-grey-old-royal-iv4454-010/",
+      "original_publish_time": "2026-07-09T21:00:16+00:00",
+      "scraped_time": "2026-07-10T00:08:08.949369+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "We’re used to staring at sneakers. What we’re not used to is seeing them stare back. Nike is dropping a number of eerie lifestyle options... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Staring Contest: Nike Is Dropping An Air Max 90 With Eyes appeared first on Sneaker News . The post Staring Contest: Nike Is Dropping An Air Max 90 With Eyes appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "f100347a7cc9",
+      "title": "The Nike Vomero Premium Stacks Up “Green Spark”",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/07/09/nike-vomero-premium-white-green-spark-midnight-navy-hq2050-102/",
+      "original_publish_time": "2026-07-09T20:30:15+00:00",
+      "scraped_time": "2026-07-10T00:08:08.951060+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "footwear",
+        "shoes"
+      ],
+      "relevance_score": 4,
+      "summary": "Humanity’s oldest strength is now the footwear world’s foremost obsession. Shoes that have taken over our social media feeds like the Minted Saucony Endorphin Pro... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Nike Vomero Premium Stacks Up \"Green Spark\" appeared first on Sneaker News . The post The Nike Vomero Premium Stacks Up “Green Spark” appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "8462c27e7384",
+      "title": "30 Years of Jay-Z Shoe Hits: Nike, Timberland, Reebok and a Few Surprises",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/jay-z-favorite-shoe-styles-1239059377/",
+      "original_publish_time": "2026-07-09T19:34:57+00:00",
+      "scraped_time": "2026-07-10T00:07:58.364096+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Adidas",
+        "Reebok",
+        "Timberland"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 7,
+      "summary": "Hov has shown love to some unexpected models over the years, including the Adidas Superstar.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "48952b7845b5",
+      "title": "Forget Sneakers, New Balance’s Best New Shoes Are Sandals",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/new-balance-best-sandals/",
+      "original_publish_time": "2026-07-09T19:33:01+00:00",
+      "scraped_time": "2026-07-10T00:11:42.232834+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "New Balance"
+      ],
+      "keywords_matched": [
+        "sandal",
+        "shoes",
+        "sneakers"
+      ],
+      "relevance_score": 11,
+      "summary": "Everyone's seen New Balance's brilliant dad shoes, but have you seen its rapidly expanding range of sleek sandals? They're the best thing coming from NB.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "e4163c150793",
+      "title": "The Air Jordan 1 Mid Goes Loafer Mode",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/07/09/air-jordan-1-mid-off-noir-chalk-pearl-white-io0760-001/",
+      "original_publish_time": "2026-07-09T19:30:54+00:00",
+      "scraped_time": "2026-07-10T00:08:08.953423+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "New Balance",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "We’ve been documenting the blurring lines between formalwear and streetwear for years at this point. The paragon of that movement is the New Balance 204L,... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Air Jordan 1 Mid Goes Loafer Mode appeared first on Sneaker News . The post The Air Jordan 1 Mid Goes Loafer Mode appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "107f630ed425",
       "title": "At least 28 killed in shoe factory fire in southeast China, state media says - NBC News",
@@ -438,6 +568,27 @@
       ],
       "relevance_score": 3,
       "summary": "Garment buying houses have become an integral part of Bangladesh's apparel export ecosystem by securing international business, building buyer relationships and creating opportunities for local ma...",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "40f38d969923",
+      "title": "New Balance Blends Retro Track Style and Casual Elegance With the 204v Mary Jane",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/7/new-balance-204v-fan-blue-u204vcmv-neo-flame-u204vmcv-release-info",
+      "original_publish_time": "2026-07-09T05:08:02+00:00",
+      "scraped_time": "2026-07-10T00:08:08.802422+00:00",
+      "time_delta_mins": 0,
+      "category": "Quality",
+      "brands_mentioned": [
+        "New Balance"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Name: New Balance 204VColorway: Fan Blue/Vintage Indigo-Black, Neo Flame/Black-Black CementSKU: U204VCMV, U204VMCVMSRP: $120 USDRelease Date: July 8, 2026Where to Buy: New BalanceNew Balance is officially leaning into the slim sneaker movement with the announcement of the New Balance 204v Mary Jane. The Boston-based sportswear brand is ready to debut an updated, laceless variation of its low-profile 204 running platform, fusing mid-2000s track performance geometries with elements of contemporary casual footwear.The upcoming lifestyle model reimagines the traditional mesh runner layout by completely swapping out its standard lace-up infrastructure for a retro-inspired, single Velcro strap closure crossing over the bridge of the foot. Constructed with a highly breathable, open-gauge technica",
       "ren_take": "",
       "image_url": ""
     },
@@ -1547,6 +1698,26 @@
       ],
       "relevance_score": 3,
       "summary": "Name: SOULGOODS x Nike Homescape Woven “Blue Beyond”Colorway: Blue Beyond/Light Blue-Peat MossSKU: HM6961-400MSRP: $170 USDRelease Date: July 11Where to Buy: SOULGOODSSOULGOODS and Nike have built a quiet collaborative track record, and the Homescape Woven \"Blue Beyond\" is the latest installment in that dialogue between the Swoosh and its Beijing-based boutique partner. Official images of the lifestyle silhouette have now surfaced, revealing a layered, multi-blue construction that pairs woven craftsmanship with the kind of slip-on versatility Nike has been chasing across its recent hybrid releases.The silhouette sits at the center of a broader shift Nike has been making toward indoor-outdoor hybrids. The brand has been pushing in that direction across several silhouettes, with shoes increa",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "90ff4de335e1",
+      "title": "FTAs to help boost exports of leather goods, footwear to $14 bn by 2030: CLE - ET Manufacturing",
+      "source_name": "Google News - India Leather",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOS2REdk5fWEh6SUZLNFpUWnRpMHhfbGFVNW9FX2wwdU5lN1VvMjI4UHRBVXhiSkNIVUNyRFlsdllVMlJrZGx2RWtJNm5yTHk4ZWU2ajdWOHB4TFpRSnRqM1VmSFV5Qy0yQ1ROZFdZYllRWm5VTXVWOENJU2trcFVIdDNFM0dpQTN4UXZoRm1oVURqTnFpckp2NEY0MVNxQzJrdU9iRTk4QVhoM1dZRE1Td21obmY5RWtlS3puNlpaQ3VxUzYzc0sxME9PdFpacHdlbUpabDF5NGVkLUdjZ05JQ3JkZFlaWlXSAecBQVVfeXFMTktkRHZOX1hIeklGSzRaVFp0aTB4X2xhVTVvRV9sMHVOZTdVbzIyOFB0QVV4YkpDSFVDckRZbHZZVTJSa2RsdkVrSTZuckx5OGVlNmo3VjhweExaUUp0ajNVZkhVeUMtMkNUTmRXWWJZUVpuVU11VjhDSVNra3BVSHQzRTNHaUEzeFF2aEZtaFVEak5xaXJKdjRGNDFTcUMya3VPYkU5OEFYaDNXWURNU3dtaG5mOUVrZUt6bjZaWkN1cVM2M3NLMTBPT3RaWnB3ZW1KWmwxeTRlZC1HY2dOSUNyZGRZWlpV?oc=5",
+      "original_publish_time": "2026-07-07T08:06:06+00:00",
+      "scraped_time": "2026-07-10T00:18:54.602602+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "leather goods"
+      ],
+      "relevance_score": 6,
+      "summary": "FTAs to help boost exports of leather goods, footwear to $14 bn by 2030: CLE ET Manufacturing",
       "ren_take": "",
       "image_url": ""
     },
@@ -2785,47 +2956,6 @@
       ],
       "relevance_score": 6,
       "summary": "The Austrian Footwear and Leather Goods Industry wko.at",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "d987fce18d82",
-      "title": "Footwear industry is backbone of India’s economy: Union Minister Giriraj Singh - News On AIR",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ29UaXZQZHFWUm1nX2FHV3h5VGlhdFRaX01vcllPcGc2bU5fRFdmR282RjQ1ZnkyTE9Ic0drOHQ2SjM3NkI5ZFI3eEZsRHUyaTI0LW15clpXMnJYcS15QmN6Qy0xR1NEbVd0QVp6b0taVXVkZXVYNUxsdHdlX2JFUGtKLUFXenJ6eVdxU1I5NF9ud2tPVTFLM3hwbmNZdHl4cFFZdQ?oc=5",
-      "original_publish_time": "2026-07-02T23:57:34+00:00",
-      "scraped_time": "2026-07-03T12:56:30.365062+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "footwear industry"
-      ],
-      "relevance_score": 6,
-      "summary": "Footwear industry is backbone of India’s economy: Union Minister Giriraj Singh News On AIR",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "c58011a851ad",
-      "title": "JUNTAE KIM Announces The Hybrid ASICS GEL-KINETIC FR",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/07/02/juntae-kim-asics-gel-kinetic-fr/",
-      "original_publish_time": "2026-07-02T23:00:19+00:00",
-      "scraped_time": "2026-07-03T00:09:42.042402+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "ASICS"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "South Korean fashion label JUNTAE KIM has announced the ASICS GEL-KINETIC FR, a hybrid concept that fuses the sophistication of classic dress shoes with the... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post JUNTAE KIM Announces The Hybrid ASICS GEL-KINETIC FR appeared first on Sneaker News . The post JUNTAE KIM Announces The Hybrid ASICS GEL-KINETIC FR appeared first on Sneaker News .",
       "ren_take": "",
       "image_url": ""
     }
