@@ -1,8 +1,27 @@
 {
-  "last_updated": "2026-07-11T07:13:35.154944+00:00",
+  "last_updated": "2026-07-11T12:03:57.649025+00:00",
   "total_articles": 150,
-  "sources_checked": 64,
+  "sources_checked": 62,
   "articles": [
+    {
+      "id": "80d6bdbad649",
+      "title": "Nike’s Skate Classic Finds Beauty in the Basics",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-sb-code-58/",
+      "original_publish_time": "2026-07-11T09:29:00+00:00",
+      "scraped_time": "2026-07-11T11:56:42.671741+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "Nike SB Code 58 returns in a timeless new colorway, blending vintage basketball influences with skate-ready design.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "c87456b4f51c",
       "title": "28 killed in shoe factory fire in China - World Socialist Web Site",
@@ -623,6 +642,27 @@
       "image_url": ""
     },
     {
+      "id": "533b5e2eec0e",
+      "title": "Closer Look at the Nike Kobe 8 Protro \"Shanghai Fireworks\" That's Slated for a Global Return",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/7/nike-kobe-8-protro-shanghai-fireworks-io6259-800-return-release-info",
+      "original_publish_time": "2026-07-10T04:25:52+00:00",
+      "scraped_time": "2026-07-11T11:53:07.774549+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "Name: Nike Kobe 8 Protro \"Shanghai Fireworks\"Colorway: Laser Orange/Cinnabar-Safety OrangeSKU: IO6259-800MSRP: $200 USDRelease Date: November 11, 2026Where to Buy: NikeNike is expanding its performance retro catalog with the global return of the Kobe 8 Protro \"Shanghai Fireworks.\" The striking silhouette is breaking out of its original 2013 regional exclusivity to arrive on a wider international scale.The updated model honors the late Black Mamba’s legacy with a faithful recreation of its eye-catching upper. Built over an engineered mesh base, the sneaker applies a fiery blend of orange and crimson tones designed to emulate an exploding night sky. High contrast arrives via a sharp black side Swoosh and Kobe's signature sheath logo atop the tongue.The updated model honors the late Black Mam",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
       "id": "87e52098f751",
       "title": "Jordan Brand Delivers Tropical Energy With the Air Jordan 4 \"Birds of Paradise\"",
       "source_name": "Hypebeast",
@@ -783,6 +823,27 @@
       "image_url": ""
     },
     {
+      "id": "dce06815b4b1",
+      "title": "We’ve tested dozens of Brooks shoes — these are the ones worth buying (and the ones you can skip) - NBC News",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSmFaQmhFX19sSWpNU18wNmUtcVowOWd6dkM2al9VYldncnBvcGlLWUVkck9EOEZ6MFJSVHUzaEtjc0dxQzFnakp3UnVUQjJaVnlfQ3F3S0FWaUFaTnltQVdFSDZHWm9JcE12Q0dGTTMxRnF3XzRCNE9Jbk5WYy1KMQ?oc=5",
+      "original_publish_time": "2026-07-09T21:33:24+00:00",
+      "scraped_time": "2026-07-11T11:53:19.334916+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Brooks"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 5,
+      "summary": "We’ve tested dozens of Brooks shoes — these are the ones worth buying (and the ones you can skip) NBC News",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
       "id": "63d2a137849a",
       "title": "Staring Contest: Nike Is Dropping An Air Max 90 With Eyes",
       "source_name": "Sneaker News",
@@ -928,6 +989,28 @@
       ],
       "relevance_score": 6,
       "summary": "Vaulting into the upper echelon of high fashion, Jacquemus has never been at a loss for A++-list endorsers. Everyone from Bad Bunny to Beyoncé has... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Jacquemus Nike Moon Shoes Are Returning In 2027 appeared first on Sneaker News . The post Jacquemus Nike Moon Shoes Are Returning In 2027 appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "5790c877ac29",
+      "title": "Nike Brightens up Summer 2026 With the Air Force 1 Low LX \"Icon\"",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/7/nike-brightens-up-summer-2026-with-the-air-force-1-low-lx-icon",
+      "original_publish_time": "2026-07-09T17:01:16+00:00",
+      "scraped_time": "2026-07-11T11:53:07.778418+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "footwear",
+        "upper"
+      ],
+      "relevance_score": 4,
+      "summary": "Name: Nike Air Force 1 Low LX \"Icon\"Colorway: Green Apple/ChlorophyllSKU: IV6822-399MSRP: $140 USDRelease Date: Summer 2026Where to Buy: NikeThe Nike Air Force 1 Low LX \"Icon\" is officially set to make its vibrant debut as part of the brand's Summer 2026 footwear lineup. Dressed in an eye-catching \"Green Apple/Chlorophyll\" color scheme, the newly revealed iteration injects a high-energy, seasonal aesthetic into the legendary low-top basketball sneaker.The sneaker shifts away from traditional flat leathers, utilizing a high-gloss leather base across the upper to deliver a polished, candy-like sheen. To balance the bright monochromatic green finish, Nike has integrated premium ostrich-textured leather across the signature side Swooshes and heel tabs, providing an elevated textural contrast. ",
       "ren_take": "",
       "image_url": ""
     },
@@ -2984,92 +3067,6 @@
       ],
       "relevance_score": 3,
       "summary": "Name: Nike SB Blazer “Coastal Blue”Colorway: Coastal Blue/Coastal Blue/Pale YellowSKU: IO0667-400MSRP: $94 USDRelease Date: Available NowWhere to Buy: NikeThe Nike SB Blazer Mid \"Coastal Blue\" seamlessly blends a heritage basketball silhouette with the high-performance demands of modern skateboarders. The mid-top upper is constructed from soft yet highly durable suede, providing a premium, textured finish that is both flexible and built to withstand rigorous wear while offering essential ankle support. Drenched in a vibrant \"Coastal Blue,\" the shoe maintains a sleek, monochromatic aesthetic.Breaking up the blue base is classic Nike branding in \"Pale Yellow,\" prominently featured on the lateral and medial Swooshes, as well as on the heel embroidery and woven tongue tag. This vibrant contras",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "5f3b274aefdf",
-      "title": "These Hoka Sneakers Feel Like Walking on Clouds—I’ve Felt No Pain After Dozens of Miles - EatingWell",
-      "source_name": "Google News - Sneaker Brand",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBGTzRWdlItMWwteDhBMEFlY1I5R01yOHpWU0VfZkFtbWRMeTMyUDVvZ1RfZDJZVVU5bnNxSmUyWk9sUEp1anlpdWZySUpSM2tRaXJnejJudzBfSmpvenhjejBlU25FbXVTY0kw?oc=5",
-      "original_publish_time": "2026-07-06T08:00:00+00:00",
-      "scraped_time": "2026-07-06T14:26:12.426387+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Hoka"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 5,
-      "summary": "These Hoka Sneakers Feel Like Walking on Clouds—I’ve Felt No Pain After Dozens of Miles EatingWell",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "592d7dc961ed",
-      "title": "This All-White Vans Premium Authentic Ease Comes With a Touch of Floral",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/7/vans-premium-authentic-ease-sho-marshmallow-vn000ecpcd3-release-info",
-      "original_publish_time": "2026-07-06T07:50:00+00:00",
-      "scraped_time": "2026-07-06T08:53:35.121679+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Vans",
-        "Off-White"
-      ],
-      "keywords_matched": [
-        "insole",
-        "outsole",
-        "sole",
-        "upper"
-      ],
-      "relevance_score": 7,
-      "summary": "Name: Vans Premium Authentic Ease Sho “Marshmallow”Colorway: MarshmallowSKU: VN000ECPCD3MSRP: $100 USDRelease Date: Available NowWhere to Buy: VansThe Vans Premium Authentic Ease Sho \"Marshmallow\" reimagines the brand’s iconic deck shoe with a refined, minimalist profile and a touch of whimsy.Doused in an off-white \"Marshmallow\" color, the soft leather upper is accented by subtle flower embellishment, while the foxing tape draws inspiration from '90s Osnaburg outsoles. The colorway delivers a crisp, versatile aesthetic, complemented by a white vulcanized sole and Vans’ signature waffle outsole pattern for reliable grip. Inside, the shoe incorporates a Sola Foam ADC insole, made with at least 30% biobased PU foam, offering durable cushioning and all‑day comfort. Click here to view full gall",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "7d7e7c346144",
-      "title": "The Nike Total 90 III Resurfaces in a Suede-Heavy \"Black/Volt\" Build for Summer 2026",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/7/nike-total-90-iii-black-volt-iz8648-001-official-images",
-      "original_publish_time": "2026-07-06T07:22:07+00:00",
-      "scraped_time": "2026-07-06T08:53:35.124749+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "Name: Nike Total 90 III “Black/Volt”Colorway: Black/Volt-WhiteSKU: IZ8648-001MSRP: $120 USDRelease Date: Summer 2026Nike is set to bring back the Total 90 III this summer in a \"Black/Volt\" colorway that leans into the silhouette's early-2000s football roots. The retro indoor shoe is expected to retail for $120 USD, with shaggy black suede anchoring a build that keeps one foot planted firmly in its pitch-ready origins.The material story is where this iteration earns its character. Shaggy black suede covers most of the upper, offering a rougher, more tactile surface than the polished panels placed around the laces, medial side and heel. That contrast in texture prevents the predominantly black build from reading as flat, while the Total 90 III's signature off-center lacing setup remains inta",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "4c6487991b43",
-      "title": "Nike Prepares for Autumn with the Air Max 90 “Yellow Plaid”",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/7/nike-air-max-90-yellow-plaid-ir5598-001-release-info",
-      "original_publish_time": "2026-07-06T06:31:12+00:00",
-      "scraped_time": "2026-07-06T08:53:35.114100+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "Name: Nike Air Max 90 \"Yellow Plaid\"Colorway: Black/White-Yellow OchreSKU: IR5598-001MSRP: $300 USDRelease Date: September 2026Where to Buy: adidasNike is looking forward to the cooler months of the year, treating one of its most celebrated running heritages to a cozy, menswear-inspired transformation. Giving official look clearance to the upcoming Air Max 90 “Yellow Plaid,” the sportswear giant strips back traditional athletic mesh foundations to introduce an intricately woven sartorial theme that expertly combines streetwear energy with classic autumn tailoring.The visual allure of this upcoming release lies in its calculated material shift. Rather than leaning into the sleek, synthetic look that dominates the modern lifestyle market, this Air Max 90 utilizes a heavy, premium flannel-sty",
       "ren_take": "",
       "image_url": ""
     }
