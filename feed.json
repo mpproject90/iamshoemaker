@@ -1,8 +1,27 @@
 {
-  "last_updated": "2026-07-11T00:12:23.212341+00:00",
+  "last_updated": "2026-07-11T07:13:35.154944+00:00",
   "total_articles": 150,
-  "sources_checked": 62,
+  "sources_checked": 64,
   "articles": [
+    {
+      "id": "c87456b4f51c",
+      "title": "28 killed in shoe factory fire in China - World Socialist Web Site",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8wTnpGZjRhWmhKMEZtbHNtc3h4SjBmSEZCVmkycHNOS2N0NTMxOEpieFZuWElISDMyR1VYeUJabktWazhmUVdLaVA0Z3lNRFdwdnMxVGRtWm1iZnkyVGdadE9yS2w1cmRS?oc=5",
+      "original_publish_time": "2026-07-11T04:23:48+00:00",
+      "scraped_time": "2026-07-11T07:03:06.862774+00:00",
+      "time_delta_mins": 0,
+      "category": "Manufacturing",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoe factory"
+      ],
+      "relevance_score": 3,
+      "summary": "28 killed in shoe factory fire in China World Socialist Web Site",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "61535faa39c3",
       "title": "adidas’ Suavest Suede Samba Deconstructs on Its Own",
@@ -3051,26 +3070,6 @@
       "keywords_matched": [],
       "relevance_score": 3,
       "summary": "Name: Nike Air Max 90 \"Yellow Plaid\"Colorway: Black/White-Yellow OchreSKU: IR5598-001MSRP: $300 USDRelease Date: September 2026Where to Buy: adidasNike is looking forward to the cooler months of the year, treating one of its most celebrated running heritages to a cozy, menswear-inspired transformation. Giving official look clearance to the upcoming Air Max 90 “Yellow Plaid,” the sportswear giant strips back traditional athletic mesh foundations to introduce an intricately woven sartorial theme that expertly combines streetwear energy with classic autumn tailoring.The visual allure of this upcoming release lies in its calculated material shift. Rather than leaning into the sleek, synthetic look that dominates the modern lifestyle market, this Air Max 90 utilizes a heavy, premium flannel-sty",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "36695283d5c8",
-      "title": "Apex Footwear: From tannery to retail giant - The Business Standard",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUm5KaWpUQ3lWZ0NYc2RQZkY5TEd6MVZDQks5NkZLMFBTekZIVVd0ekNEYWE3SF9rMmJTMTFxUEVMeWdrNVRwMFJhWURWcy1DY3pyaEFTVUppN1JmS2pualQ2WDQxakY4blU0djQtUWl0bWcyRmd5MXRmaWVMMUJPVmxxONIBiAFBVV95cUxPbkJkZXRQNHNqY3IxdzB3NWV0dVBVRE4xOE1mMWpTZ0xhdERfYkY5U1VlcmQ1b05seWxzeGtZT3ViV25yenhZZ0c4NGlxUC1lbGdxWHFZY1A2WEJITm9TWVo3T1VBZ2N5a29La3FZMFh5alVmR0xlNFB4RUZEd2JTYXhBaWh6VDdq?oc=5",
-      "original_publish_time": "2026-07-06T06:30:00+00:00",
-      "scraped_time": "2026-07-06T08:53:45.986292+00:00",
-      "time_delta_mins": 0,
-      "category": "Quality",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "tannery"
-      ],
-      "relevance_score": 6,
-      "summary": "Apex Footwear: From tannery to retail giant The Business Standard",
       "ren_take": "",
       "image_url": ""
     }
