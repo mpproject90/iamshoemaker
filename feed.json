@@ -1,8 +1,201 @@
 {
-  "last_updated": "2026-07-10T18:31:30.203908+00:00",
+  "last_updated": "2026-07-11T00:12:23.212341+00:00",
   "total_articles": 150,
-  "sources_checked": 64,
+  "sources_checked": 62,
   "articles": [
+    {
+      "id": "61535faa39c3",
+      "title": "adidas’ Suavest Suede Samba Deconstructs on Its Own",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/adidas-samba-decon-billys/",
+      "original_publish_time": "2026-07-10T22:09:02+00:00",
+      "scraped_time": "2026-07-11T00:05:10.281599+00:00",
+      "time_delta_mins": 0,
+      "category": "Quality",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "sneakers",
+        "upper"
+      ],
+      "relevance_score": 4,
+      "summary": "Billy's releases exclusive Samba Decon sneakers, featuring quality suede uppers & the signature relaxed design.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "c5edecc1263e",
+      "title": "Nike Made High-Tech Red Bottoms for Runners",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-pegasus-premium-black-red/",
+      "original_publish_time": "2026-07-10T22:04:44+00:00",
+      "scraped_time": "2026-07-11T00:05:10.282354+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sole",
+        "upper"
+      ],
+      "relevance_score": 5,
+      "summary": "Nike's Pegasus Premium sneaker gets a new \"Bred\" makeover, landing with black uppers & red soles. It's quite literally \"Christian Louboutins\" for runners.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "b1d6131c1b5e",
+      "title": "BREAKING:  Carmelo Anthony’s Jordan Melo 5.5 Returning in 2027",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/07/10/jordan-melo-5-5-retro-2027/",
+      "original_publish_time": "2026-07-10T21:59:07+00:00",
+      "scraped_time": "2026-07-11T00:01:28.793216+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Jordan"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "Jordan Brand is continuing its recent embrace of basketball nostalgia by bringing back one of Carmelo Anthony’s earliest signature sneakers. Sneaker News can confirm that... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post BREAKING: Carmelo Anthony's Jordan Melo 5.5 Returning in 2027 appeared first on Sneaker News . The post BREAKING: Carmelo Anthony’s Jordan Melo 5.5 Returning in 2027 appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "ca67051101bf",
+      "title": "Satou Sabally’s Fiery adidas Crazy Energy PE Drops July 24th",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/07/10/adidas-crazy-energy-satou-sabally-pe-la1432/",
+      "original_publish_time": "2026-07-10T21:00:51+00:00",
+      "scraped_time": "2026-07-11T00:01:28.795816+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Adidas",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "After five years with Jordan Brand, WNBA star Satou Sabally took her talents to adidas in 2025. And it’s already paying dividends on the PE... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Satou Sabally's Fiery adidas Crazy Energy PE Drops July 24th appeared first on Sneaker News . The post Satou Sabally’s Fiery adidas Crazy Energy PE Drops July 24th appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "824d0d870612",
+      "title": "New Balance Unveils the 990v4 in a Warm \"Pumpernickel/Pink Chalk\" Colorway",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/7/new-balance-990v4-pumpernickel-pink-chalk-u990ic4-release-info",
+      "original_publish_time": "2026-07-10T20:44:28+00:00",
+      "scraped_time": "2026-07-11T00:01:28.491676+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "New Balance"
+      ],
+      "keywords_matched": [
+        "footwear",
+        "upper"
+      ],
+      "relevance_score": 4,
+      "summary": "Name: New Balance 990v4 \"Pumpernickel/Pink Chalk\"Colorway: Pumpernickel/Pink Chalk-AlabasterSKU: U990IC4Retail Price: $185 USDRelease Date: July 10Where to Buy: New BalanceNew Balance is officially expanding its seasonal lifestyle footwear lineup with the upcoming arrival of the New Balance 990v4 \"Pumpernickel/Pink Chalk\". The premium low-top runner brings a fresh, dessert-inspired aesthetic to the brand's celebrated domestic manufacturing line.The lifestyle runner adopts a multi-textured composition that accentuates its classic layered architecture. Premium brown suede overlays wrap cleanly around the upper, establishing a deep, grounded foundation that contrasts against the breathable pale mesh underlays. Soft pink accents are meticulously integrated across the trim panels, offering a li",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "3ef31875d80d",
+      "title": "New Balance Introduces the 5030 in \"Black/Black Metallic\"",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/7/new-balance-5030-black-u50302j5-release-info",
+      "original_publish_time": "2026-07-10T20:43:59+00:00",
+      "scraped_time": "2026-07-11T00:01:28.499116+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "New Balance"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "Name: New Balance 5030 \"Black\"Colorway: Black/Black MetallicSKU: U50302J5Retail Price: $160 USDRelease Date: July 10Where to Buy: New BalanceNew Balance is officially ready to expand its cutting-edge lifestyle catalog with the introduction of the New Balance U5030 \"Black/Black Metallic\". First documented by Japanese sneaker and fashion news platform Fullress, the sleek low-top model serves as a direct bridge between archival performance engineering and aggressive modern street style.The newly introduced silhouette brings a futuristic yet reverent approach to the brand’s lifestyle offerings. Constructed with a sleek \"Black/Black Metallic\" color scheme, the upper balances a technical mesh foundation with structured synthetic overlays. A heavily padded upper defined by precise debossed lines ",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "105717bad897",
+      "title": "Jordan Brand and Tokyo Giants Announce Exclusive 2026 Collection",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/7/jordan-brand-tokyo-giants-exclusive-2026-collection-announcement",
+      "original_publish_time": "2026-07-10T20:36:32+00:00",
+      "scraped_time": "2026-07-11T00:01:28.495623+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "Summary Nike and Jordan Brand are teaming up with the professional Japanese baseball team Tokyo Giants for an exclusive capsule The collaborative collection is officially scheduled to launch during the summer season of 2026Complete pricing details and a breakdown of specific pieces in the product lineup have not been disclosed Jordan Brand has officially aligned with the legendary Japanese baseball franchise, the Yomiuri Tokyo Giants, to present the collaborative Tokyo Giants x Jordan Brand exclusive 2026 collection. This intersection of professional baseball heritage and iconic sportswear aesthetics is scheduled to debut on July 17, 2026.The upcoming capsule marks a notable crossover moment for Jordan Brand as it continues to expand its athletic partnership footprint into international pr",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "068697cba084",
+      "title": "Want to Make a Good Shoe Great? Bottega-fy It",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/bottega-veneta-intrecciato-weave/",
+      "original_publish_time": "2026-07-10T19:33:00+00:00",
+      "scraped_time": "2026-07-11T00:05:10.282996+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Nike",
+        "Adidas",
+        "Converse",
+        "Timberland"
+      ],
+      "keywords_matched": [
+        "footwear",
+        "shoes"
+      ],
+      "relevance_score": 6,
+      "summary": "From Nike to Converse to adidas to Timberland, footwear brand all agree: classic shoes look better when you remake them with a Bottega Veneta Intrecciato weave.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "e3ea74eac24d",
+      "title": "Balenciaga Shows Piccioli's Couture Debut & Chanel Acquires France's Oldest Shirtmaker in This Week's Top Fashion News",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/7/balenciaga-couture-chanel-schiaparelli-desire-doue-france",
+      "original_publish_time": "2026-07-10T17:19:37+00:00",
+      "scraped_time": "2026-07-11T00:01:28.497421+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Balenciaga"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "SummaryParis saw striking runway shifts with Piccioli’s stripped-back Balenciaga debut, Roseberry’s avant-garde Schiaparelli materials, and Blazy’s fairytale-inspired Chanel collection.Chanel acquired the historic shirtmaker Charvet, signaling potential expansion into menswear.Nike Atelier tapped PSG's Désiré Doué for a special-edition sneaker.Balenciaga But Bigger: Pierpaolo Piccioli's Fall 2026 Couture DebutPierpaolo Piccioli stepped into the spotlight with his inaugural Haute Couture collection for Balenciaga, trading the theatrical spectacles of his predecessor for a refined, outdoor presentation. Set against the serene backdrop of the Cité Internationale Universitaire de Paris, the runway focused squarely on masterful garment construction. Piccioli employed a restrained philosophy to ",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "247fda7c370f",
       "title": "DeWanna Bonner Celebrates 8,000 Career WNBA Points In Nike Book 2 PE",
@@ -373,6 +566,25 @@
       "image_url": ""
     },
     {
+      "id": "d1e880b2fe85",
+      "title": "Nike and NIGO Partner With London's Design Museum for \"From Japan with Love\" Apparel Collection",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/7/nike-nigo-london-design-museum-from-japan-with-love-apparel-collection-release-info",
+      "original_publish_time": "2026-07-10T04:52:24+00:00",
+      "scraped_time": "2026-07-11T00:01:28.500787+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "Summary Nike has partnered with NIGO and London's Design Museum to launch a collaborative apparel capsuleThe collection accompanies the designer's major UK retrospective exhibition running through autumnSelected pieces including a coaches jacket and graphic t-shirt will drop in waves throughout the summer season Nike and NIGO have continued their partnership with London's Design Museum to reveal the Nike x NIGO \"From Japan with Love\" apparel collection. Released to coincide with the multi-disciplinary creative's major retrospective exhibition, the joint capsule translates decades of Ura-Harajuku design heritage into modern lifestyle garments.The collaborative range focuses on premium streetwear staples inspired directly by NIGO's personal design archive. Highlighting the limited-edition ap",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
       "id": "166d2eeb8cfe",
       "title": "Shoe factory fire in Fujian, China kills 28, authorities investigating cause - The Online Citizen",
       "source_name": "Google News - Shoe Manufacturing",
@@ -388,6 +600,27 @@
       ],
       "relevance_score": 3,
       "summary": "Shoe factory fire in Fujian, China kills 28, authorities investigating cause The Online Citizen",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "87e52098f751",
+      "title": "Jordan Brand Delivers Tropical Energy With the Air Jordan 4 \"Birds of Paradise\"",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/7/air-jordan-4-retro-birds-of-paradise-hv0823-101-release-info",
+      "original_publish_time": "2026-07-10T04:25:31+00:00",
+      "scraped_time": "2026-07-11T00:01:28.502414+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Jordan"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 4,
+      "summary": "Name: Air Jordan 4 Retro \"Birds of Paradise\"Colorway: Coconut Milk/Metallic Gold/Muslin/Bright Mango/Sundial/BlackSKU: HV0823-101Retail Price: $220 USDRelease Date: July 23, 2026Where to Buy: NikeJordan Brand is officially set to embrace the warm weather season with the upcoming release of the Air Jordan 4 \"Birds of Paradise\". First highlighted by House of Heat, the women's exclusive silhouette draws inspiration from the South African flower, utilizing a clean and neutral upper arrangement contrasted by unexpected bursts of color beneath the foot.The performance-turned-lifestyle sneaker keeps its primary upper composition grounded in sophisticated, easy-wearing tones. A premium Coconut Milk pebbled leather builds out the base, while a matching soft suede mudguard wraps the toe box area to ",
       "ren_take": "",
       "image_url": ""
     },
@@ -2838,234 +3071,6 @@
       ],
       "relevance_score": 6,
       "summary": "Apex Footwear: From tannery to retail giant The Business Standard",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "77d06b415bd6",
-      "title": "Pharrell and adidas Serve Earthy Textures on the VIRGINIA Adistar Jellyfish \"Timber\"",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/7/pharrell-adidas-adistar-jellyfish-timber-kk2889-release-info",
-      "original_publish_time": "2026-07-06T06:23:52+00:00",
-      "scraped_time": "2026-07-06T14:26:00.692760+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Name: Pharrell x adidas Adistar Jellyfish \"Timber\"Colorway: Auburn/Timber-YellowSKU: KK2889MSRP: $300 USDRelease Date: September 2026Where to Buy: adidasPharrell Williams and adidas are gearing up to transition their collaborative footwear catalog into the colder months, unveiling official images of the upcoming Pharrell x adidas VIRGINIA Adistar Jellyfish “Auburn Timber.” Serving as the uncompromised flagship centerpiece of Pharrell’s highly experimental, geography-themed VIRGINIA range, the silhouette leverages heavy earth-toned textures punctuated by calculated bursts of high-visibility neon to bridge the gap between industrial trail aesthetics and high-fashion runway design.The visual allure of the Adistar Jellyfish rests on its deeply complex, heavily layered architecture, making it e",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "518aa55d9b39",
-      "title": "Nike Plants Bright \"Sunflowers\" Across the Convertible Rejuven8 Run",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/7/nike-rejuven8-run-sunflowers-iw1263-999-release-info",
-      "original_publish_time": "2026-07-06T04:50:09+00:00",
-      "scraped_time": "2026-07-06T08:53:35.129115+00:00",
-      "time_delta_mins": 0,
-      "category": "Quality",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Name: Nike Rejuven8 Run \"Sunflowers\"Colorway: Multi-Color/Natural-Hemp-WhiteSKU: IW1263-999MSRP: $135 USDRelease Date: 2026Where to Buy: NikeNike is taking a decidedly bold, botanical approach to its summer footwear lineup, dressing one of its most unique lifestyle-performance hybrids in a lively new look. Slated for a seasonal rollout, the upcoming women's exclusive Rejuven8 Run “Sunflowers” trades standard sportswear solids for a radiant, maximalist floral pattern, delivering a striking, customizable design that effortlessly mirrors the sunny energy of the midsummer months.The visual identity of this release hinges on its dramatic, all-over print execution. Rather than isolating the floral pattern to small accent pieces or minor branding hits, Nike's design team coated virtually the enti",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "1eaf8d77cd54",
-      "title": "Natalie Portman’s All-Black Hoka Sneakers Might Be the Coolest Walking Shoes You Can Own - instyle.com",
-      "source_name": "Google News - Sneaker Brand",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE50Z0pxUGVkanZFRGt2eXk2eHM0QUZYMUZMdWExeWYtZGszNEVLeFlHRC1GLUVQR1R3VVUwSzNKQmVTVGpSOEkzX3E0cjRhRjVJby16RThGbGF4TmJGV2pxMDljNGFLMXBwYlV3WHdzb2tPeC00Uno4MHRJdWNndw?oc=5",
-      "original_publish_time": "2026-07-06T02:30:00+00:00",
-      "scraped_time": "2026-07-06T08:53:46.733502+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Hoka"
-      ],
-      "keywords_matched": [
-        "shoes",
-        "sneakers"
-      ],
-      "relevance_score": 8,
-      "summary": "Natalie Portman’s All-Black Hoka Sneakers Might Be the Coolest Walking Shoes You Can Own instyle.com",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "5e2286de32d8",
-      "title": "Nike Air Max 90 Premium Unleashes a Stealthy \"Black Croc\" Makeover",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/7/nike-air-max-90-black-croc-leather-iv6309-010-release-info",
-      "original_publish_time": "2026-07-05T23:33:14+00:00",
-      "scraped_time": "2026-07-06T08:53:35.130701+00:00",
-      "time_delta_mins": 0,
-      "category": "Quality",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "Name: Nike Air Max 90 \"Black Croc Leather\"Colorway: Black/Anthracite-Metallic Dark GreySKU: IV6309-010MSRP: $145 USDRelease Date: Available NowWhere to Buy: NikeNike is taking its foundational running lineage on a wild, luxurious detour, rolling out the all-new Air Max 90 Premium “Black Croc.” Maintaining absolute reverence for the silhouette’s original 1990 athletic performance roots, this premium lifestyle edition strips away standard athletic plastics in favor of an upscale, material-heavy look that effortlessly bridges retro street culture with high-end fashion sensibilities.The visual appeal of the \"Black Croc\" edition lies entirely in its complex layering of dark textures. Grounded in an easy-to-style monochromatic execution, the upper alternates between varying grades of premium lea",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "10eb15119c20",
-      "title": "Assomac calls for stronger supply chain coordination - World Footwear",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNY3ozcWxyMlN5REhpRWd3TGVkRmhvVDg2MUtCTnRpY29oUnJ6bkEwTGZaWHN5QzYzUjZMTVo5QUpXTWMtZUd1SFMzUC1JeUdEeVZndmplZHJYZi02eXh5LUczSzFhOTBWNXVLd2pUNnhsbHJ3NFBOR1ZTTkNEa2lfalhmbnpaTlVXV2UzcXFyclVqSGpWbTQtV1RHWFR4Mzg?oc=5",
-      "original_publish_time": "2026-07-05T23:01:38+00:00",
-      "scraped_time": "2026-07-06T14:26:11.577901+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Assomac calls for stronger supply chain coordination World Footwear",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "79e83ef4d854",
-      "title": "This Nike Air Force 1 Low “Safari” Carries Olympic Echoes",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/07/05/nike-air-force-1-low-white-kumquat-iv5525-100/",
-      "original_publish_time": "2026-07-05T20:00:23+00:00",
-      "scraped_time": "2026-07-06T00:09:58.311496+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike",
-        "Vans"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 4,
-      "summary": "All eyes are currently on Paris, with footwear fans feasting on headlines like the Westside Gunn Saucony collab, square Air Max 90, and Pharrell Vans... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post This Nike Air Force 1 Low \"Safari\" Carries Olympic Echoes appeared first on Sneaker News . The post This Nike Air Force 1 Low “Safari” Carries Olympic Echoes appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "7c657a18d7cb",
-      "title": "The Nike Dunk Low Gives “Beef & Broccoli” Vibes",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/07/05/nike-dunk-low-fir-light-british-tan-sesame-black-im4414-300/",
-      "original_publish_time": "2026-07-05T18:00:59+00:00",
-      "scraped_time": "2026-07-06T00:09:58.315637+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike",
-        "Timberland"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 4,
-      "summary": "As far as food-inspired shoe nicknames go, “Beef & Broccoli” sits near the top of the list, popularized in NYC by the Timberland Field Boot... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Nike Dunk Low Gives \"Beef & Broccoli\" Vibes appeared first on Sneaker News . The post The Nike Dunk Low Gives “Beef & Broccoli” Vibes appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "8deb53b8b644",
-      "title": "Air Jordan 7 “Miro,” SOULGOODS Nike Homescape Woven, And This Week’s Best Releases",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/07/05/sneaker-releases-july-5-july-11-2026/",
-      "original_publish_time": "2026-07-05T16:00:01+00:00",
-      "scraped_time": "2026-07-05T17:59:29.022830+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike",
-        "Jordan"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 4,
-      "summary": "Some heavy hitters are coming off the board this week. Returning to the “opening the vault” conversation, the Air Jordan 7 “Miro,” no doubt understood... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Air Jordan 7 \"Miro,\" SOULGOODS Nike Homescape Woven, And This Week's Best Releases appeared first on Sneaker News . The post Air Jordan 7 “Miro,” SOULGOODS Nike Homescape Woven, And This Week’s Best Releases appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "3fae7bb998bc",
-      "title": "This Wine-Gummy-Flavored Classic Has Been Dug Out of Nike's Archives",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-jordan-trunner-os-sp-bright-mango/",
-      "original_publish_time": "2026-07-05T15:47:01+00:00",
-      "scraped_time": "2026-07-05T18:03:02.410991+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike",
-        "Jordan"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "Jordan's '00s expansion into off-court training quietly generated some fiercely guarded cult classics. Chief among them is the colorful Nike Jordan Trunner O/S.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "aa294a7fcea3",
-      "title": "Tracee Ellis Ross and Kendall Jenner Convinced Me to Rethink My Stance on These Divisive Walking Shoes - instyle.com",
-      "source_name": "Google News - Sneaker Brand",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNa3QxTE1XWUowUHBRSDlPc3BlYWQ3Y282am94ekZXR2RKckhYN0pPNDJ4bDE2SHc4d3Y5QnY0ajlPOHppM0M5N0Fpd0wyVDgxQ1FwYk5YaXhBX0xQbzhnQTlUYk1XMDVCMEU4ZGZFLU42QWgxNldaRTkzNm1xZWdvXzRqTDBYNGc?oc=5",
-      "original_publish_time": "2026-07-05T10:00:00+00:00",
-      "scraped_time": "2026-07-05T12:16:45.581899+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "Tracee Ellis Ross and Kendall Jenner Convinced Me to Rethink My Stance on These Divisive Walking Shoes instyle.com",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "a92084a9f33b",
-      "title": "Footwear Brands An Athletic Footwear And Apparel Company Global Footwear Industry Strategies Differ Tracy Cai Posted On - consumerthai",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBlQ1dYUm9BWXg0QU5fb1FWVmNUa0xGTEdpdXpzdXpnaGRNRVVxbWlxRUFBT2FGS2FtZm90Y1RlbHk0SVBsYlpfVjhWODUzSURzczN6NUNBZVI0UWZjS3pkbDRDSjZCdWlz?oc=5",
-      "original_publish_time": "2026-07-05T00:30:42+00:00",
-      "scraped_time": "2026-07-05T17:59:39.847930+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "athletic footwear",
-        "footwear",
-        "footwear industry"
-      ],
-      "relevance_score": 9,
-      "summary": "Footwear Brands An Athletic Footwear And Apparel Company Global Footwear Industry Strategies Differ Tracy Cai Posted On consumerthai",
       "ren_take": "",
       "image_url": ""
     }
