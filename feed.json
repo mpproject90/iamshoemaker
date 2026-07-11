@@ -1,8 +1,29 @@
 {
-  "last_updated": "2026-07-11T12:03:57.649025+00:00",
+  "last_updated": "2026-07-11T18:03:38.896062+00:00",
   "total_articles": 150,
-  "sources_checked": 62,
+  "sources_checked": 64,
   "articles": [
+    {
+      "id": "c82873fafc83",
+      "title": "adidas' Materially Mixed-up Samba Manages to Make Leather & Fur Just Work",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/adidas-samba-chrome-white/",
+      "original_publish_time": "2026-07-11T16:44:00+00:00",
+      "scraped_time": "2026-07-11T17:56:26.059722+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "adidas' chrome-coated Samba sneaker wears a fully-fur upper that shouldn't work but somehow just does.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "80d6bdbad649",
       "title": "Nike’s Skate Classic Finds Beauty in the Basics",
@@ -3046,27 +3067,6 @@
       ],
       "relevance_score": 5,
       "summary": "Name: Jordan Pointe “White/Black/Metallic Silver”Colorway: White/Black/Metallic Silver/University RedSKU: IW2024-160MSRP: ¥19,250 JPY (approx. $120 USD)Release Date: Available now (Japan), TBC (Global)Where to Buy: Nike JapanJordan Brand has dropped a new \"White/Black/Metallic Silver/University Red\" colorway of the Jordan Pointe, the brand's ballet-inspired women's silhouette. The four-tone palette lands on Nike Japan, applying a clean, sport-forward color blocking to a shoe already defined by its contrast between refined upper detailing and a grounded chunky sole.The colorway works with the shoe's existing design tensions rather than against them. White synthetic leather forms the base of the upper, with black accents and metallic silver hardware playing off the rivet detailing and buckle",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "8099926ae497",
-      "title": "The Nike SB Blazer Mid Arrives in Vibrant “Coastal Blue”",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/7/nike-sb-blazer-coastal-blue-coastal-blue-pale-yellow-io0667-400-release-info",
-      "original_publish_time": "2026-07-06T08:06:42+00:00",
-      "scraped_time": "2026-07-06T08:53:35.119525+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "Name: Nike SB Blazer “Coastal Blue”Colorway: Coastal Blue/Coastal Blue/Pale YellowSKU: IO0667-400MSRP: $94 USDRelease Date: Available NowWhere to Buy: NikeThe Nike SB Blazer Mid \"Coastal Blue\" seamlessly blends a heritage basketball silhouette with the high-performance demands of modern skateboarders. The mid-top upper is constructed from soft yet highly durable suede, providing a premium, textured finish that is both flexible and built to withstand rigorous wear while offering essential ankle support. Drenched in a vibrant \"Coastal Blue,\" the shoe maintains a sleek, monochromatic aesthetic.Breaking up the blue base is classic Nike branding in \"Pale Yellow,\" prominently featured on the lateral and medial Swooshes, as well as on the heel embroidery and woven tongue tag. This vibrant contras",
       "ren_take": "",
       "image_url": ""
     }
