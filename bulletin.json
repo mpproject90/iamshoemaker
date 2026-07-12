@@ -1,6 +1,107 @@
 {
-  "last_updated": "2026-07-05T10:18:09.852539+00:00",
+  "last_updated": "2026-07-12T09:53:15.366898+00:00",
   "bulletins": [
+    {
+      "id": "wk28-2026",
+      "week_number": 28,
+      "year": 2026,
+      "date_from": "2026-07-06",
+      "date_to": "2026-07-12",
+      "published": "2026-07-12T09:53:15.366361+00:00",
+      "intro": "Week 28 opens with a tragedy in China that will echo through Q3 capacity planning, while the market continues its restless pivot toward leather — not as heritage, but as a deliberate material upgrade story. The thread connecting this week's noise: brands are quietly making harder sourcing decisions while the editorial world debates sandal silhouettes.",
+      "articles": [
+        {
+          "title": "Forget Sneakers, New Balance’s Best New Shoes Are Sandals",
+          "source_name": "Highsnobiety",
+          "source_url": "https://www.highsnobiety.com/p/new-balance-best-sandals/",
+          "category": "Retail",
+          "relevance_score": 11,
+          "original_publish_time": "2026-07-09T19:33:01+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "Fire kills at least 28 at shoe factory in China's global athletic footwear manufacturing hub - VnExpress International",
+          "source_name": "Google News - Shoe Manufacturing",
+          "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMllSR2Q1TzRaVTdoQkN1UDNzRXo1OXZCYzEzR21GWmp5Nzc2emtScy1mYXQ4alhJVm1pVEd5Z25qTjNTS3NkbXJSN09RTkNfM01hMi11WFEtZUMxaXVETXh0a255ZnhhWkJCbGFrbHVyU1FUc04xeE8zQ3BPRG5NN3NfcjZnSGRyX19YZE9DcUNWZUhQNUg1aEI1TnpGV3QyZDdCSDJyVVZreHd3Ukg4N085YzBIVWxqV3cwaHB3UlpXcGt1WndJd0c0VnhsbUdrU2lTNWx3?oc=5",
+          "category": "Manufacturing",
+          "relevance_score": 9,
+          "original_publish_time": "2026-07-10T01:50:00+00:00",
+          "misaki_take": "A factory fire of this scale in Jinjiang or the surrounding cluster will disrupt capacity allocation for whoever was pulling volume from that facility, and the ripple into Q3 delivery windows will be real and measurable within days of the incident. Brands and agents sourcing athletic footwear from that hub should be auditing their fire safety compliance documentation this week — not because regulators will ask first, but because their own risk teams will."
+        },
+        {
+          "title": "New Balance’s Hunky Hiker Hides Two Beautiful Mules",
+          "source_name": "Highsnobiety",
+          "source_url": "https://www.highsnobiety.com/p/new-balances-tds-niobium-concept-1/",
+          "category": "Leather",
+          "relevance_score": 8,
+          "original_publish_time": "2026-07-08T12:11:57+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "adidas' Perforated Soccer Boot Is Poking Holes in the Future of Football Sneakers",
+          "source_name": "Highsnobiety",
+          "source_url": "https://www.highsnobiety.com/p/adidas-climacool-laced-sneaker/",
+          "category": "Retail",
+          "relevance_score": 8,
+          "original_publish_time": "2026-07-06T12:47:51+00:00",
+          "misaki_take": "Perforation patterns at the density required for premium football boots create meaningful cutting waste and demand precision die tooling that adds cost at the component stage — this is not a casual material decision. The real story is whether adidas is testing consumer appetite for a performance-to-lifestyle crossover in football silhouettes, which would open an entirely different FOB price tier and distribution channel."
+        },
+        {
+          "title": "30 Years of Jay-Z Shoe Hits: Nike, Timberland, Reebok and a Few Surprises",
+          "source_name": "Footwear News",
+          "source_url": "https://wwd.com/footwear-news/sneaker-news/jay-z-favorite-shoe-styles-1239059377/",
+          "category": "Retail",
+          "relevance_score": 7,
+          "original_publish_time": "2026-07-09T19:34:57+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "The Nike Moon Shoe \"Leather Pack\" Swaps the 1970s Runner's Nylon Foundation for a Full Leather Upper",
+          "source_name": "Hypebeast",
+          "source_url": "https://hypebeast.com/2026/7/nike-moon-shoe-og-leather-pack-iu3162-600-iu3162-200-official-images",
+          "category": "Leather",
+          "relevance_score": 7,
+          "original_publish_time": "2026-07-09T07:58:13+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "Want to Make a Good Shoe Great? Bottega-fy It",
+          "source_name": "Highsnobiety",
+          "source_url": "https://www.highsnobiety.com/p/bottega-veneta-intrecciato-weave/",
+          "category": "Brand News",
+          "relevance_score": 6,
+          "original_publish_time": "2026-07-10T19:33:00+00:00",
+          "misaki_take": "Intrecciato weave applied to footwear uppers requires skilled hand-weaving or highly calibrated automated interlacing — neither is cheap, and the replication of that technique across multiple brand collaborations compresses what was once a genuine craft differentiator into a trend modifier. Brands using this technique without the underlying manufacturing credibility are essentially renting equity they do not own, which carries real brand risk when the trend cycle turns."
+        },
+        {
+          "title": "Island Slipper and Noah Add British-Braided Leather to a Sandal With Nearly 80 Years of Hawaiian Craft Behind It",
+          "source_name": "Hypebeast",
+          "source_url": "https://hypebeast.com/2026/7/island-slipper-noah-sandal-collaboration-release-info",
+          "category": "Leather",
+          "relevance_score": 6,
+          "original_publish_time": "2026-07-10T09:07:15+00:00",
+          "misaki_take": "At approximately $260 USD, this collaboration is pricing the intersection of two craft narratives — Hawaiian sandal-making and British leather braiding — into a margin structure that only works if both sides maintain strict production volume discipline. The strategic value here is not the unit economics but the proof of concept that genuine provenance layering, when executed with restraint, can hold a premium price point without a luxury house name attached."
+        },
+        {
+          "title": "Jacquemus Nike Moon Shoes Are Returning In 2027",
+          "source_name": "Sneaker News",
+          "source_url": "https://sneakernews.com/2026/07/09/jacquemus-nike-moon-shoe-emerald-rise-blue-cap-ghost-pale-ivory-hv8547-300/",
+          "category": "Retail",
+          "relevance_score": 6,
+          "original_publish_time": "2026-07-09T17:54:39+00:00",
+          "misaki_take": "A confirmed 2027 return window for the Jacquemus x Nike Moon Shoe gives Nike's planning and materials teams an unusually long lead runway, which suggests the production complexity or material sourcing constraints on the first run were significant enough to require it. For the broader collaborations market, an 18-month-plus gap between drops is becoming the new standard for high-fashion partnerships — it sustains scarcity, but it also signals that fast-follow execution on these projects is not operationally viable."
+        },
+        {
+          "title": "DPIIT Eases Footwear Quality Rules to Support Industry - Devdiscourse",
+          "source_name": "Google News - Footwear Industry",
+          "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUmpYVUtsMkdMTzIyTmk1UFB4R3VpWFJNMjlETnNUT2xHbVhfVFdlSDdyRXZlTlNaR0ktcnV5Zm40VUhERzlKZTVHaEpFVFk0X0F6b2ZTS3NNaHNkMG1UdG55Y19GTm1PTElRTzNERHgwcC0zbXF3X1ZEeENaNVUwZXdSS2owSTFPV3JydmtzMTE4c0c5UFljYUtvTXlCWjQ1SzBFWUFEUFVZVWUzTkHSAbMBQVVfeXFMUEY0SklmcHFCY2hwSWNScWRmVXM4WEJRYWtQV1pMNHVLYnJsQXl0bG1mZmpRWTNzVndXWk01LUFTQW43V3FsVzVPRzJFQjBUdGNYSWhVbVFwSEY1alFLWGZrNWtiYzJGZmNyeEtjWno1cG4xbVRaX0pJQllUaXppUFhJTjF2bm1ZTDg2Q1NRcXotRXhNLUFBV2lBRV9PS0o4Yy1XMzg1M011cHMzOFFqckJEcHM?oc=5",
+          "category": "Quality",
+          "relevance_score": 6,
+          "original_publish_time": "2026-07-09T16:53:05+00:00",
+          "misaki_take": "India rolling back or relaxing Quality Control Orders on footwear is a short-term pressure valve for domestic manufacturers struggling with compliance costs, but it creates a two-speed market where export-bound production still faces importing-country standards while domestic-facing production does not. Brands evaluating India as a sourcing alternative to Vietnam or Bangladesh should note that regulatory inconsistency at the national level is a leading indicator of audit complexity down the line."
+        }
+      ]
+    },
     {
       "id": "wk27-2026",
       "week_number": 27,
@@ -907,107 +1008,6 @@
           "relevance_score": 6,
           "original_publish_time": "2026-05-04T14:09:00+00:00",
           "misaki_take": "The geographic placement of this Circana story in Singapore-facing financial media is notable — it is being read by Asian manufacturers and investors who are calibrating their own production forecasts and factory utilization assumptions against US consumer resilience. If the Q2 Circana read shows price-driven growth stalling without a unit recovery, expect to see factory minimum order quantity negotiations become more favorable for brands in the back half of 2026."
-        }
-      ]
-    },
-    {
-      "id": "wk18-2026",
-      "week_number": 18,
-      "year": 2026,
-      "date_from": "2026-04-27",
-      "date_to": "2026-05-03",
-      "published": "2026-05-03T09:24:14.988747+00:00",
-      "intro": "Week 18 arrives with structural trade signals sitting underneath the noise of seasonal drops and collab launches. The EU-Mercosur development and India's technical textiles push are the two threads worth pulling — both point to sourcing diversification pressure that will show up in RFQ sheets before the year is out. Bahadurgarh's reported losses are a reminder that regional conflict exposure in leather supply chains is never priced in until it is already too late.",
-      "articles": [
-        {
-          "title": "From New Balance to ASICS, the Seven Best Sneakers to Cop Right Now",
-          "source_name": "Highsnobiety",
-          "source_url": "https://www.highsnobiety.com/p/sneaker-releases-2026-april-week-5/",
-          "category": "Retail",
-          "relevance_score": 8,
-          "original_publish_time": "2026-04-29T10:44:51+00:00",
-          "misaki_take": "The density of multi-brand editorial roundups signals that consumer attention is fragmenting across the mid-tier performance-lifestyle segment, which compresses margin for any single label relying on drop-driven sellthrough. Sourcing teams backing volume forecasts on hype cycles should treat this kind of noise as a leading indicator of SKU rationalization pressure, not demand confirmation."
-        },
-        {
-          "title": "All About the Shoes in ‘The Devil Wears Prada 2,’ From Miranda’s Balenciaga Heels to Andy’s Glittering Aquazzura Pumps",
-          "source_name": "Footwear News",
-          "source_url": "https://wwd.com/footwear-news/shoe-trends/devil-wears-prada-2-shoes-molly-rogers-interview-1238927063/",
-          "category": "Brand News",
-          "relevance_score": 8,
-          "original_publish_time": "2026-04-27T14:46:12+00:00",
-          "misaki_take": ""
-        },
-        {
-          "title": "Blue Sole Shoes: The Nike Air Force 1 Low Adds Aquatic Pops",
-          "source_name": "Sneaker News",
-          "source_url": "https://sneakernews.com/2026/04/26/nike-air-force-1-low-white-game-royal-fj4146-126/",
-          "category": "Retail",
-          "relevance_score": 8,
-          "original_publish_time": "2026-04-26T18:00:12+00:00",
-          "misaki_take": "Color injection on a proven silhouette is the lowest-risk, highest-frequency lever Nike pulls to sustain AF1 velocity without retooling last or construction — the operational cost delta on an outsole color change at scale is negligible, but the retail narrative resets the clock. What this tells sourcing professionals is that Nike's Vietnam and Indonesia cut-and-stitch partners are running steady-state volume with minimal disruption, which is consistent with what factory utilization data has been showing."
-        },
-        {
-          "title": "The Umbro x Crocs Collection Puts a Quilted Spin on Pitch Heritage",
-          "source_name": "Hypebeast",
-          "source_url": "https://hypebeast.com/2026/4/umbro-crocs-classic-crafted-clog-drill-top-speciali-collaboration-collection-213397-213398-release-info",
-          "category": "Quality",
-          "relevance_score": 7,
-          "original_publish_time": "2026-04-29T05:58:07+00:00",
-          "misaki_take": "Crocs continues to use collab architecture to test fabrication complexity — quilted textile overlays on EVA clogs represent a meaningful step up in component sourcing and assembly tolerance relative to their standard injection-molded product. The £80 price point for a modified Classic Clog signals they are stress-testing consumer willingness to pay for craft narrative on a platform historically defined by pure utility."
-        },
-        {
-          "title": "Bahadurgarh’s footwear industry suffers Rs 10,000 crore loss due to Gulf War - The Financial World",
-          "source_name": "Google News - Footwear Industry",
-          "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQX3NneTc4MFBDbkF3dEtmdXFGb3FWbnNTVE1yRE5jMksyd2djeDhnOXd1LTBmQXZ0ZlNjb1dtZkROanlJTWVmVkNnM3Q0ZmxNNzFCcS1TYzBZQ0p5ZkFYUFBna25yNXVFdTBGWDNobDRReWt4dkdTazgyVlRoVzk5VkVONjFiZUlRaU83bkFmZWFmTVRIOVRWbDA2amZxTGw2cG9US1JxbW1oc2RMYWc?oc=5",
-          "category": "Brand News",
-          "relevance_score": 6,
-          "original_publish_time": "2026-05-02T12:38:50+00:00",
-          "misaki_take": ""
-        },
-        {
-          "title": "New Balance's Newest Split-Soled Shoe Has Twice the Sole, Twice the Love",
-          "source_name": "Highsnobiety",
-          "source_url": "https://www.highsnobiety.com/p/new-balance-tf100-sneaker/",
-          "category": "Retail",
-          "relevance_score": 6,
-          "original_publish_time": "2026-05-01T23:32:02+00:00",
-          "misaki_take": "Split-midsole construction adds tooling cost and assembly complexity that is only viable at the price points New Balance is now defending in the $120–$160 performance-lifestyle corridor — this is a deliberate signal of upward brand positioning, not an experimental one. The challenge for their Flimby and Asian manufacturing partners is that split-sole geometries require tighter bonding specifications and increased QC gate frequency, which quietly expands cost-per-pair if production pace isn't calibrated correctly."
-        },
-        {
-          "title": "EU-Mercosur deal expected to boost Brazilian footwear exports - World Footwear",
-          "source_name": "Google News - Footwear Industry",
-          "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTER3Ym0wb3RKM19JZzNnUkJJd0Q5alVSandKdjhUYVZ2djZCVVd1ckYyV0RyMVJQYTY2VDVaQmpfaHcwd1FDOE40TU5YcGtFcUVvTjBKUlB4ajlKZ0hEc1NqbXlkdDYxTHBlSFdwakVDZEZwbTF4Q3ZMTGdjUXk1X0pFaUR5Rld0Wm1fajdIMDFaUGhUTFptSlhSOVctVHZOSnU2aGlyU3RlUQ?oc=5",
-          "category": "Trade Data",
-          "relevance_score": 6,
-          "original_publish_time": "2026-04-30T09:48:45+00:00",
-          "misaki_take": "If the EU-Mercosur agreement reaches ratification with meaningful tariff schedules on finished footwear, Brazilian producers — particularly in the Vale dos Sinos cluster — gain a structural cost advantage against Chinese and Vietnamese competitors in the European market for the first time in a generation. Sourcing managers building 2027 and 2028 supplier maps for the EU market should be in conversations with Brazilian factories now, before capacity gets committed and FOB premiums reflect the new demand pressure."
-        },
-        {
-          "title": "The Footwear Collective, industry partners to process 30,525 pounds of collected shoes - Recycling Today",
-          "source_name": "Google News - Footwear Industry",
-          "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQV2hPWGdWbjZ1Sk1ZSThhc2g0VV95RUVlZUEyMzNiSmJqMGxXYjctMVRyWHotMS1JVlRlak5ZdFRxSE1oV19iQ29fSEx2U0U4aHNlWldYUmZaRDlManVuRVU5SjJaak9QVkp1c21IWTFkcG5hNU5jdW10eEpHMFFNaU0yY1dmRjBONHNQdnBXQ2NQaWgzcy1IeQ?oc=5",
-          "category": "Retail",
-          "relevance_score": 6,
-          "original_publish_time": "2026-04-29T20:46:00+00:00",
-          "misaki_take": "30,000-plus pounds processed sounds significant in a press release, but against the estimated 300 million pairs discarded annually in the US alone it is a proof-of-concept number, not a scaled solution — and the industry needs to be honest about that gap when making ESG commitments. The operational value here is in the logistics and sortation learnings, which are the genuine bottleneck to scaling any footwear circularity program."
-        },
-        {
-          "title": "PM Modi highlights role of technical textiles in footwear industry - Social News XYZ",
-          "source_name": "Google News - Footwear Industry",
-          "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWF9jaUMxdmgtQWNkZ3N3dXhlQUVHdFEzWmcwYTNSOGE1ZjJnMkhQZ1ZKMmNuZGxCZWtRU3d4X0kwQUU4c1FMY1RQV00waTJPdUxHQlBaUjFtbGs0SmFEZndLbTBxQW1iQnQtZTVjM09MS01QeUdUdUhlb0diUl9lRGg3WE9lcm5BWWdSWDRrRmdRSjRwVG5BaDlvTGNLVFJZeFpQQ1MtNm7SAagBQVVfeXFMTlhfY2lDMXZoLUFjZGdzd3V4ZUFFR3RRM1pnMGEzUjhhNWYyZzJIUGdWSjJjbmRsQmVrUVN3eF9JMEFFOHNRTGNUUFdNMGkyT3VMR0JQWlIxbWxrNEphRGZ3S20wcUFtYkJ0LWU1YzNPTEtNUHlHVHVIZW9HYlJfZURoN1hPZXJuQVlnUlg0a0ZnUUo0cFRuQWg5b0xjS1RSWXhaUENTLTZu?oc=5",
-          "category": "Trade Data",
-          "relevance_score": 6,
-          "original_publish_time": "2026-04-29T11:46:00+00:00",
-          "misaki_take": "India's political signaling around technical textiles in footwear is a precursor to subsidy and certification frameworks that will reshape input cost structures for domestic manufacturers within three to five years. Brands evaluating India as a manufacturing scale-up destination should be tracking this policy thread closely — the winners will be those who have supplier relationships in place before the incentive architecture is fully published."
-        },
-        {
-          "title": "PM shares an article highlighting the integration of technical textiles in the footwear industry - PM India",
-          "source_name": "Google News - Footwear Industry",
-          "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTzZKZUliWVV1TFRMMWpacV9ya25qOUF3YUlVNUZTYmNvR0ExU1IteUs4ZnF0TE9YTWlVOHpMbkxnRkF2a1pXOXNabEZXQ3Y5YjNGdVpWZ0tFdjh1X2JwZktnR1NqQTVfcDNuRUF3Q3U3M2o4LThCOU9NRXdOQmE0alZRZGNpZE56a2hySVQxUGJoeTkyUFhLS1lFcFJvRFNCNko5WlRnQUlmRFIwOFNLb1M0Yk9RYzZFQ0dLYVVUZ215QmoxT2RQVXBlbG94RG1VWkw5a2hZWnFaVFhNVU1UTWZkSW94TEx3cjVibA?oc=5",
-          "category": "Retail",
-          "relevance_score": 6,
-          "original_publish_time": "2026-04-29T11:10:10+00:00",
-          "misaki_take": "When a sitting prime minister amplifies a technical industry article directly, it telegraphs that government procurement and export promotion bodies will follow with aligned policy instruments — this is how industrial direction gets set in India before the formal announcements arrive. For footwear brands, it reinforces that India's competitiveness play is moving toward engineered materials and performance construction, not just labor arbitrage, which changes the capability conversation with Indian factory partners."
         }
       ]
     }
