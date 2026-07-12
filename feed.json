@@ -1,8 +1,110 @@
 {
-  "last_updated": "2026-07-12T12:10:51.274424+00:00",
+  "last_updated": "2026-07-12T18:08:12.886728+00:00",
   "total_articles": 150,
-  "sources_checked": 64,
+  "sources_checked": 62,
   "articles": [
+    {
+      "id": "dfb0e133fd92",
+      "title": "Jason Kidd’s Fan-favorite Nike Shoes From the ’90s Are Finally Making Their Long-awaited Return",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-zoom-flight-5-og-release-date-jj3694-100-1239063846/",
+      "original_publish_time": "2026-07-12T17:34:31+00:00",
+      "scraped_time": "2026-07-12T17:57:05.448150+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 5,
+      "summary": "The Nike Zoom Flight 5 is coming back in its original colorways.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "a2b11c86b674",
+      "title": "Kingdom showcases footwear investment potential at global meet - Khmer Times",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTjFKd2JDbTk0X0c0NXJzaFdPWEd5RlZSZWpsbTlhb0JOZ2hlcnN3a2hBU1MwTElzcnNlN1BWVFlfa25hckJ3XzZSV29MZFpkVjA4bmtja3JVVlNTRUljZ3ZycFNDVG9VcFBrWTVpRHpLSTRGSXNLaDVkdy1hTWwxaTRuVGRLUEgxZFpRNkgwc1JVX1JBbnBQQWV4SkFZZDdOTm54WA?oc=5",
+      "original_publish_time": "2026-07-12T17:16:50+00:00",
+      "scraped_time": "2026-07-12T17:57:27.465514+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Kingdom showcases footwear investment potential at global meet Khmer Times",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "f03dd4708965",
+      "title": "This Is Nike's Most Blue-tiful Air Max Sandal Yet",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-air-max-halo-sandal-work-blue/",
+      "original_publish_time": "2026-07-12T16:20:14+00:00",
+      "scraped_time": "2026-07-12T18:00:57.992546+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sandal"
+      ],
+      "relevance_score": 5,
+      "summary": "Nike's Air Max Halo sandal lands in a new \"Work Blue\" colorway, getting a taste of the summer blues (the good kind).",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "9ea318ff1ce3",
+      "title": "Jordan 3 “True Blue,” BAPE Vans Knu Skool, And This Week’s Best Releases",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/07/12/sneaker-releases-july-12-july-18-2026/",
+      "original_publish_time": "2026-07-12T16:00:09+00:00",
+      "scraped_time": "2026-07-12T17:57:16.357477+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Vans",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "In the sneaker department, it’s been somewhat of a sleepy start to summer. No doubt, there’s been some massive releases, but in the first few... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Jordan 3 \"True Blue,\" BAPE Vans Knu Skool, And This Week's Best Releases appeared first on Sneaker News . The post Jordan 3 “True Blue,” BAPE Vans Knu Skool, And This Week’s Best Releases appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "a14cbc94b754",
+      "title": "Nike’s Futuristic Foamposite Sneakers Are Getting a New Premium Release for Their 30th Anniversary",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-air-foamposite-one-prm-30th-anniversary-release-date-iw8543-100-1239063821/",
+      "original_publish_time": "2026-07-12T15:30:59+00:00",
+      "scraped_time": "2026-07-12T17:57:05.450569+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "Celebrating three decades of the ahead-of-its-time sneaker.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "18b89b1c72d8",
       "title": "You Can Now Run Trails in Crocs",
@@ -942,6 +1044,25 @@
       ],
       "relevance_score": 4,
       "summary": "Humanity’s oldest strength is now the footwear world’s foremost obsession. Shoes that have taken over our social media feeds like the Minted Saucony Endorphin Pro... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Nike Vomero Premium Stacks Up \"Green Spark\" appeared first on Sneaker News . The post The Nike Vomero Premium Stacks Up “Green Spark” appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "ce862234fd14",
+      "title": "China shoe factory fire kills at least 28 - Japan Today",
+      "source_name": "Google News - Shoe Manufacturing",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTTBDUDZPQnJabTVRMVo3SkVrUkhpa3pzNnJzVzctM2x6SDR0OVE4N1R0NXQwejAzRGExWWRZYTZma1gyRmwyZk1VWGlxMlVkMWMwY0t0LVJNY3ZobEJFbFlwY1RDbHhvUTFmM2dQRzFjNWV6ZWxVOVF0R3BwUE45ay1YdWU5dzI5?oc=5",
+      "original_publish_time": "2026-07-09T19:46:00+00:00",
+      "scraped_time": "2026-07-12T17:57:29.087437+00:00",
+      "time_delta_mins": 0,
+      "category": "Manufacturing",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoe factory"
+      ],
+      "relevance_score": 3,
+      "summary": "China shoe factory fire kills at least 28 Japan Today",
       "ren_take": "",
       "image_url": ""
     },
@@ -2943,128 +3064,6 @@
       ],
       "relevance_score": 3,
       "summary": "For adidas, the future of footwear lies in additive manufacturing. We’re nearly a decade removed from the debut of the Futurecraft 4D, a pioneering 3D-printed... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post adidas Basketball Takes 3D Technology To The Court With The $250 BB.01 appeared first on Sneaker News . The post adidas Basketball Takes 3D Technology To The Court With The $250 BB.01 appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "8154e727e6d7",
-      "title": "Pharrell ChooseS “Timber” Brown And Yellow For The adidas Jellyfish",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/07/06/pharrell-adidas-jellyfish-timber-brown-yellow-kk2889/",
-      "original_publish_time": "2026-07-06T16:30:47+00:00",
-      "scraped_time": "2026-07-06T18:52:56.656578+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Adidas",
-        "Vans"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "Credit where credit is due: by way of the Louis Vuitton Vans controversy and him expanding the borders of his adidas VIRGINIA venture, Pharrell Williams... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Pharrell ChooseS \"Timber\" Brown And Yellow For The adidas Jellyfish appeared first on Sneaker News . The post Pharrell ChooseS “Timber” Brown And Yellow For The adidas Jellyfish appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "1c873e211e82",
-      "title": "Kobe Bryant Nike Air Force 1 Protro “Lord Of The Rings” Inspired By Rucker Park Appearance",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/07/06/kobe-bryant-nike-air-force-1-low-protro-rucker-park-nyc-iq3921-100/",
-      "original_publish_time": "2026-07-06T16:00:07+00:00",
-      "scraped_time": "2026-07-06T18:52:56.658250+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike",
-        "Jordan"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 4,
-      "summary": "Much the same way they’ve done for idol-turned-compatriot Michael Jordan, Beaverton continues to trawl through Kobe Bryant’s on-the-court and off-the-court legacy as his footwear empire... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Kobe Bryant Nike Air Force 1 Protro “Lord Of The Rings” Inspired By Rucker Park Appearance appeared first on Sneaker News . The post Kobe Bryant Nike Air Force 1 Protro “Lord Of The Rings” Inspired By Rucker Park Appearance appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "0a09cdbde3de",
-      "title": "EXCLUSIVE: Manolo Blahnik Celebrates America’s Birthday With Special Shoes for Saks and Neiman Marcus",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/manolo-blahnik-saks-neiman-marcus-shoes-america-250-1239053654/",
-      "original_publish_time": "2026-07-06T15:42:04+00:00",
-      "scraped_time": "2026-07-06T18:52:46.156487+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "The capsule includes four exclusive styles, two for Saks Fifth Avenue and two for Neiman Marcus.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "79ebdad9d284",
-      "title": "BFDT Opens 2026 Grants to Support Skills and Training Across UK Footwear Industry - UKFT",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAyQXI2ek81S0lOX3Zkd1lVZm1KXzlfc1FaTnVBMGdBMzk2dVdLb29vM3pIRXMtbXlfMGY5azV6RzJQQW5tVWxXS1ltOFplbEVfdkxGLW1KVFM5SjJNMlBkeEU0UlA?oc=5",
-      "original_publish_time": "2026-07-06T13:48:07+00:00",
-      "scraped_time": "2026-07-06T14:26:11.577143+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "footwear industry"
-      ],
-      "relevance_score": 6,
-      "summary": "BFDT Opens 2026 Grants to Support Skills and Training Across UK Footwear Industry UKFT",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "7d7e793d4c09",
-      "title": "British Footwear Development Trust opens 2026 grant programme - Drapers",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNjBlanpqNzVnUU9mVmwzZkdlbDRyVWJRZWM1cEpSSTRteVB0NGh2cHgyWTZycnJkekFjSFgxMWtGRExxajFYY1NJTjVia1duUXpYNzJ6cHlhaklWclNPMzBCTXM5YUVtSmZqYjM1MzZBUGZtN09KbndiQVJ3dnBoa1l2dlVjZGNqc205MzliVDl1ekhNTzZEamV2UEY?oc=5",
-      "original_publish_time": "2026-07-06T13:44:26+00:00",
-      "scraped_time": "2026-07-06T14:26:11.579893+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "British Footwear Development Trust opens 2026 grant programme Drapers",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "cf35d994c924",
-      "title": "adidas' Perforated Soccer Boot Is Poking Holes in the Future of Football Sneakers",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/adidas-climacool-laced-sneaker/",
-      "original_publish_time": "2026-07-06T12:47:51+00:00",
-      "scraped_time": "2026-07-06T14:29:40.501689+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "boot",
-        "sneakers"
-      ],
-      "relevance_score": 8,
-      "summary": "adidas' latest new sleek & hot football boot is not from this dimension — it's straight from the future.",
       "ren_take": "",
       "image_url": ""
     }
