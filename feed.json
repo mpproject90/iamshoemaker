@@ -1,8 +1,27 @@
 {
-  "last_updated": "2026-07-11T18:03:38.896062+00:00",
+  "last_updated": "2026-07-12T00:09:35.768502+00:00",
   "total_articles": 150,
   "sources_checked": 64,
   "articles": [
+    {
+      "id": "18b89b1c72d8",
+      "title": "You Can Now Run Trails in Crocs",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/crocs-classic-exp-clog-gum/",
+      "original_publish_time": "2026-07-11T20:09:00+00:00",
+      "scraped_time": "2026-07-12T00:02:19.211312+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Crocs"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "Crocs is pushing its design language even further into the rugged, outdoors-driven universe with the The Crocs Classic EXP Clog.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "c82873fafc83",
       "title": "adidas' Materially Mixed-up Samba Manages to Make Leather & Fur Just Work",
@@ -375,6 +394,25 @@
       "summary": "A footwear factory in the city of Jinjiang, east China's Fujian Province, was caught in a fire, killing at least 28 people.",
       "ren_take": "",
       "image_url": "https://www.just-style.com/wp-content/uploads/sites/27/2026/07/GettyImages-1919250993.jpg"
+    },
+    {
+      "id": "1f18e133aeb8",
+      "title": "China shoe factory fire kills 28, arrests follow - MSN",
+      "source_name": "Google News - China Footwear",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOc004V0FhbXRHT1pjcG1QMkFvOURQajlpR3BEY2NRM0pkcV9tN3hOQ2pNN2ZPQTlXcXI0Tk5Ua1kxQ1dTM3VNQUduM0xfdmZ3WnN4YkNQWWZVSmlDSDhvaDFhT3ByNHl1VlJ4OXJPQVNpWTE0WWZjaF9lWHNQWFlJUmJpaVhTakcyWVRadDJCSFVydGRLOEVaVWp4NFFQdS1FOEIyM1k1a0dXNEhsOVY2S2ZhdmN2TlY2QTNWTU94N0RUcm9abW14bEdjZEJ5bFZaMGdzUXZzR2Nsd0YySElaeXJaYjM?oc=5",
+      "original_publish_time": "2026-07-10T09:58:12+00:00",
+      "scraped_time": "2026-07-12T00:09:35.739912+00:00",
+      "time_delta_mins": 0,
+      "category": "Manufacturing",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoe factory"
+      ],
+      "relevance_score": 3,
+      "summary": "China shoe factory fire kills 28, arrests follow MSN",
+      "ren_take": "",
+      "image_url": ""
     },
     {
       "id": "5f70ff0358a9",
@@ -3023,50 +3061,6 @@
       "keywords_matched": [],
       "relevance_score": 3,
       "summary": "A-COLD-WALL turned a rugged Salomon hiking shoe into a ridiculously dapper gem that's too chic for the trails.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "5785e18f752b",
-      "title": "Official Look at the New Balance 2000 “Silver Moss”",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/7/new-balance-2000-silver-moss-bayberry-sea-salt-u20002uu-release-info",
-      "original_publish_time": "2026-07-06T09:21:05+00:00",
-      "scraped_time": "2026-07-06T14:26:00.696292+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [
-        "New Balance"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "Name: New Balance 2000 “Silver Moss”Colorway: Silver Moss/Bayberry/Sea SaltSKU: U20002UUMSRP: $170 USDRelease Date: Available NowWhere to Buy: New BalanceNew Balance continues to elevate its expansive running-inspired lifestyle catalog with the newly released 2000 sneaker \"Silver Moss.\"The upper boasts a progressive, minimalist-influenced design made of breathable mesh layered with sleek synthetic overlays. Dressed predominantly in a muted yet earthy \"Silver Moss\" colorway, the sneaker is accented by hints of \"Bayberry\" green and crisp \"Sea Salt\" touches. The mesh panels are highlighted by dynamic gradient treatments that add visual depth and an eye-catching finish to the otherwise muted palette. Emphasizing this streamlined look, the traditional stitched logos are swapped out in favor of ",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "d33d88faa6e0",
-      "title": "The Jordan Pointe's Sharpest Colorway Yet Mixes Metallic Silver With Classic University Red",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/7/jordan-pointe-white-black-metallic-silver-iw2024-160-official-images-japan-release-info",
-      "original_publish_time": "2026-07-06T08:20:30+00:00",
-      "scraped_time": "2026-07-06T08:53:35.117949+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Nike",
-        "Jordan"
-      ],
-      "keywords_matched": [
-        "sole",
-        "upper"
-      ],
-      "relevance_score": 5,
-      "summary": "Name: Jordan Pointe “White/Black/Metallic Silver”Colorway: White/Black/Metallic Silver/University RedSKU: IW2024-160MSRP: ¥19,250 JPY (approx. $120 USD)Release Date: Available now (Japan), TBC (Global)Where to Buy: Nike JapanJordan Brand has dropped a new \"White/Black/Metallic Silver/University Red\" colorway of the Jordan Pointe, the brand's ballet-inspired women's silhouette. The four-tone palette lands on Nike Japan, applying a clean, sport-forward color blocking to a shoe already defined by its contrast between refined upper detailing and a grounded chunky sole.The colorway works with the shoe's existing design tensions rather than against them. White synthetic leather forms the base of the upper, with black accents and metallic silver hardware playing off the rivet detailing and buckle",
       "ren_take": "",
       "image_url": ""
     }
