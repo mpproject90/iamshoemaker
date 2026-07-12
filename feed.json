@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12T00:09:35.768502+00:00",
+  "last_updated": "2026-07-12T07:33:52.346009+00:00",
   "total_articles": 150,
   "sources_checked": 64,
   "articles": [
@@ -1388,6 +1388,29 @@
       ],
       "relevance_score": 3,
       "summary": "It’s hard to believe Nike has been making horror-movie inspired sneakers for almost 20 years. Throughout the two decades, they’ve mined the iconography of slasher and monster films to sneak elements of their visuals into color schemes, materials and tiny details without explicitly working with any specific studios for official collaborations. No franchise logos on the tongue. No studio credits on the box. Only the skill of sneaker designers.It began in 2007, with a three-shoe pack of two Dunks and an Air Trainer 1 that almost halted the entire process before it got off the ground. New Line Cinema had issued cease-and-desist orders against a Freddy Krueger-themed release, transforming a potential fun holiday shoe release into one of the most legendary moments in sneaker lore. But Nike persi",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "d5fb5cb4bdd7",
+      "title": "The Nike Moon Shoe \"Leather Pack\" Swaps the 1970s Runner's Nylon Foundation for a Full Leather Upper",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/7/nike-moon-shoe-og-leather-pack-iu3162-600-iu3162-200-official-images",
+      "original_publish_time": "2026-07-09T07:58:13+00:00",
+      "scraped_time": "2026-07-12T07:22:58.228627+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "outsole",
+        "sole",
+        "upper"
+      ],
+      "relevance_score": 7,
+      "summary": "Name: Nike Moon Shoe OG “Leather Pack”Colorway: University Red/Black, Flax/Pale IvorySKU: IU3162-600, IU3162-200MSRP: TBCRelease Date: Fall 2026Nike's Moon Shoe is set to receive a material-level overhaul for Fall 2026 with a two-colorway \"Leather Pack\" that swaps the silhouette's usual nylon upper for a leather construction. The shift repositions the 1970s track runner for cooler-weather wear, replacing the lightweight, breathable layering of nylon with the structured weight and seasonal practicality of leather. Two colorways have surfaced so far: University Red/Black and Flax/Pale Ivory, both built on Gum Medium Brown waffle outsoles that keep the shoe grounded in its original design language from the sole unit up.The nylon-to-leather swap is the pack's single most consequential design d",
       "ren_take": "",
       "image_url": ""
     },
@@ -3042,25 +3065,6 @@
       ],
       "relevance_score": 8,
       "summary": "adidas' latest new sleek & hot football boot is not from this dimension — it's straight from the future.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "aaf20fc53918",
-      "title": "Salomon's Sturdiest Hiking Shoe Is Basically Bulletproof",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/a-cold-wall-salomon-acs-pro-2/",
-      "original_publish_time": "2026-07-06T12:43:33+00:00",
-      "scraped_time": "2026-07-06T14:29:40.502416+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Salomon"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "A-COLD-WALL turned a rugged Salomon hiking shoe into a ridiculously dapper gem that's too chic for the trails.",
       "ren_take": "",
       "image_url": ""
     }
