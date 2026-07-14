@@ -1,8 +1,115 @@
 {
-  "last_updated": "2026-07-14T12:23:34.065012+00:00",
+  "last_updated": "2026-07-14T18:10:13.238189+00:00",
   "total_articles": 150,
-  "sources_checked": 61,
+  "sources_checked": 62,
   "articles": [
+    {
+      "id": "ed00556126ec",
+      "title": "Portuguese footwear: an example for Europe - AICEP",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQVhSanU2NHdCRVFUS2lCa0o4Vi1iaHJfVkxQNncyWjFiaWFGTGFVT0JabUphZnU5WGRkZ281SXFUQ2s0WU9Yc0xFdFYtd1N5Skx3VHAzMl9OSXV0ZXdzNTA5cVpvNEZYY09vOWZZLVA4OXJJTjR3UnR1YlowNWo2QWl0eFBDbHY1NHBlclZYUGM?oc=5",
+      "original_publish_time": "2026-07-14T17:20:58+00:00",
+      "scraped_time": "2026-07-14T17:59:09.227888+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Portuguese footwear: an example for Europe AICEP",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "6cae1ac7f1d8",
+      "title": "Nike Air Force 1 “Shoe Dog” Is Inspired By Phil Knight’s Green Plymouth Valiant",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/07/14/nike-air-force-1-shoe-dog-ix8503-100/",
+      "original_publish_time": "2026-07-14T16:30:20+00:00",
+      "scraped_time": "2026-07-14T17:58:58.542975+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "footwear",
+        "footwear industry"
+      ],
+      "relevance_score": 4,
+      "summary": "Long before Nike became Nike, let alone the global behemoth it is today, Phil Knight entered the footwear industry at ground level, traveling to track... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike Air Force 1 “Shoe Dog” Is Inspired By Phil Knight’s Green Plymouth Valiant appeared first on Sneaker News . The post Nike Air Force 1 “Shoe Dog” Is Inspired By Phil Knight’s Green Plymouth Valiant appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "43936ca62459",
+      "title": "Ja Morant’s Popular Nike Sneaker Is Getting One of Its Most Premium Releases So Far",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-ja-3-white-label-release-date-io7666-100-1239065438/",
+      "original_publish_time": "2026-07-14T15:49:23+00:00",
+      "scraped_time": "2026-07-14T17:58:47.928871+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "A detailed look at the upcoming Nike Ja 3 White Label sneakers.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "bbed954c741d",
+      "title": "Nike Continues High-End Atelier Series With Total 90 Boots For Wemby",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/07/14/nike-atelier-total-90-victor-wembanyama/",
+      "original_publish_time": "2026-07-14T15:30:16+00:00",
+      "scraped_time": "2026-07-14T17:58:58.545577+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 5,
+      "summary": "Following special collections for tennis star Jannik Sinner and French footballer Désiré Doué, Nike’s bespoke Atelier platform has taken on its tallest task yet, literally.... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike Continues High-End Atelier Series With Total 90 Boots For Wemby appeared first on Sneaker News . The post Nike Continues High-End Atelier Series With Total 90 Boots For Wemby appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "57de38f7fef3",
+      "title": "From Salomon to adidas, Browse This Week’s Best Sneaker Releases",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/sneaker-releases-2026-july-week-2/",
+      "original_publish_time": "2026-07-14T15:07:50+00:00",
+      "scraped_time": "2026-07-14T18:02:57.351399+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Adidas",
+        "New Balance",
+        "Salomon",
+        "Vans"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 7,
+      "summary": "The world of sneakers releases is a tricky one to navigate, but we here with best of the open market, from Bape x Vans, to New Balance and Salomon.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "8fbd8bab3cd1",
       "title": "Official Look at the LAKH x Mizuno WAVE PROPHECY STRAP “THE KNOT-LINK”",
@@ -22,6 +129,25 @@
       ],
       "relevance_score": 5,
       "summary": "Name: LAKH x Mizuno WAVE PROPHECY STRAP “THE KNOT-LINK”Colorway: TBCSKU: TBCMSRP: $1,499 HKD (approx. $191 USD)Release Date: July 17Where to Buy: LAKH, MizunoHong Kong-based streetwear label LAKH has partnered up with Mizuno for a footwear collaboration, introducing the WAVE PROPHECY STRAP “THE KNOT-LINK” sneaker. Merging Mizuno’s high-performance running technology with LAKH’s streetwear sensibility, the collaborative model draws its initial inspiration from the aerodynamic structure of sprint spikes. The upper is defined by its highly functional, one-action adjustable strap system, which allows wearers to easily slip the shoe on and off while maintaining a secure, customized fit.True to its \"KNOT-LINK\" moniker, the design conceptually reinterprets traditional knotting and hand-knitting t",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "a03cb395f8f1",
+      "title": "The Next Step for India’s Footwear Manufacturing Ambitions - BW Businessworld",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNall6VDFXU0tfNHNkenp1bVQ4M1pfT0g1YW5tdUVhZEdSaGdJU0lkcWx4cmtPZG8xOGVtbzcxTkZVU2ZRY0oxQS1jcFc2QTM4T1ZFSW5qTzF2VFFGZXVVN3RCUUI0SGdGY3dDam9BNVZyODZRcXNqVGlRM3RGUjJhbzFrU2VCVUhUaXBYejFSUHAzQWdCYkZCcXdDUzVFWXNqTE43UXVFcHNCckRk?oc=5",
+      "original_publish_time": "2026-07-14T10:27:08+00:00",
+      "scraped_time": "2026-07-14T17:59:09.230214+00:00",
+      "time_delta_mins": 0,
+      "category": "Manufacturing",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "The Next Step for India’s Footwear Manufacturing Ambitions BW Businessworld",
       "ren_take": "",
       "image_url": ""
     },
@@ -130,6 +256,25 @@
       "keywords_matched": [],
       "relevance_score": 4,
       "summary": "Puma has appointed ex-Nike executive Marcia Dos Santos to lead its newly created Core business unit as it pushes ahead with wider transformation. Dos Santos will join the retailer as vice president of business unit Core on 15 July and report directly to chief brand officer Maria Valdes. She brings more than 20 years of...",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "aa7e2acba003",
+      "title": "Air Jordan 16 Retro OG \"Ginger\" Set to Return in Summer 2027",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/7/air-jordan-16-retro-og-ginger-return-summer-2027-ix7269-700-release-info",
+      "original_publish_time": "2026-07-14T05:08:28+00:00",
+      "scraped_time": "2026-07-14T17:58:58.414711+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "Summary Jordan Brand is officially bringing back a highly coveted colorway from the early 2000s archival vaultThe sneaker marks the first proper retro release of the specific lifestyle-oriented colorway in over 25 yearsThe signature design features its distinctive removable magnetic shroud alongside premium nubuck and mesh construction Name: Air Jordan 16 Retro OG \"Ginger\"Colorway: Ginger/WhiteSKU: IX7269-700MSRP: $245 USDRelease Date: Summer 2027Where to Buy: NikeJordan Brand is officially preparing to retro the legendary Air Jordan 16 Retro OG \"Ginger\" for the upcoming season. According to information shared by @zsneakerheadz, @brandon1, the highly anticipated return revives a classic silhouette that has remained untouched since its inaugural retail launch over two decades ago.Originally",
       "ren_take": "",
       "image_url": ""
     },
@@ -2933,149 +3078,6 @@
       ],
       "relevance_score": 6,
       "summary": "India targets $15B in leather and footwear exports by 2031 Qazinform",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "ece3e36fcd62",
-      "title": "Victor Victor's Nike Air Force 1 Low \"Red\" Is a Masterclass in 2001-Era Tooling",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/7/victor-victor-nike-air-force-1-low-red-first-look-revealed",
-      "original_publish_time": "2026-07-07T22:45:37+00:00",
-      "scraped_time": "2026-07-08T00:00:09.372205+00:00",
-      "time_delta_mins": 0,
-      "category": "Manufacturing",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Summary Victor Victor Worldwide and Nike are officially expanding their collaborative footwear series with a bold new colorwayThe unreleased sneaker utilizes the highly coveted 2001-era tooling to achieve a slimmer toe box and tighter panelingSubtle branding elements include a custom Tosa dog logo embroidered directly onto the lateral heel The Victor Victor x Nike Air Force 1 Low \"Red\" is officially surfacing to expand the multimedia label's growing footwear catalog. Following the recent rollout of the yellow and black colorways, Steven Victor's team has returned to the iconic basketball silhouette to deliver a highly specific, vintage-inspired construction. By deliberately utilizing the remastered 2001 shape, the design team has created a sharper, more refined iteration of the classic low",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "41c8ca3d67c3",
-      "title": "Here's How To Secure the Ultra-Limited adidas Basketball BB.01 3D-Printed Performance Shoe",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/7/how-to-secure-adidas-basketball-bb-01-3d-printed-performance-shoe-release-info",
-      "original_publish_time": "2026-07-07T22:14:52+00:00",
-      "scraped_time": "2026-07-08T00:00:09.375078+00:00",
-      "time_delta_mins": 0,
-      "category": "Manufacturing",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "footwear",
-        "sneakers"
-      ],
-      "relevance_score": 4,
-      "summary": "Summary adidas Basketball is officially launching its highly anticipated BB.01 performance silhouetteThe innovative model introduces the brand's revolutionary Project: R.A.P. additive manufacturing platformThe hyper-exclusive sneaker will make its official hardwood debut during the NBA Summer League The adidas Basketball BB.01 is officially arriving to usher in a completely new era of performance footwear technology. Built on the brand's pioneering Project: R.A.P. (Radical Athlete Perception) innovation platform, this silhouette completely reimagines how basketball sneakers are engineered. By utilizing cutting-edge additive manufacturing, the design team has created a sneaker tailored to the fluid movements of modern athletes.The defining feature of this groundbreaking performance model is",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "0f8cd9bc5eb0",
-      "title": "Chanel Fall 2026 Haute Couture Shoes Lean Into Whimsy",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-trends/chanel-haute-couture-fall-2026-shoes-1239056945/",
-      "original_publish_time": "2026-07-07T21:43:26+00:00",
-      "scraped_time": "2026-07-07T23:59:58.230781+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "Matthieu Blazy was inspired by classic fairy tales for his second couture collection at the French house.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "f4c7c6a399f7",
-      "title": "Carbitex Founder on Why Flexible Carbon Fiber Matters in More Than Just Performance Footwear",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/carbitex-junus-khan-open-resource-flexible-carbon-fiber-1239055356/",
-      "original_publish_time": "2026-07-07T21:29:06+00:00",
-      "scraped_time": "2026-07-07T23:59:58.233538+00:00",
-      "time_delta_mins": 0,
-      "category": "Trade Data",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Carbitex founder Junus Khan talks the importance to set up a shared, open resource for shoe designers, engineers and brands, and what's next on the innovation front.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "4bbb9b8a245b",
-      "title": "Mismatched Patent Leather Holds Down A Playful Air Jordan 1 Low",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/07/07/air-jordan-1-low-se-white-black-pink-spell-ix3521-010/",
-      "original_publish_time": "2026-07-07T21:00:55+00:00",
-      "scraped_time": "2026-07-08T00:00:09.530666+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Jordan"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "Due in no small part to recent 2000s-esque Air Force 1 releases, patent leather sneakers are having a moment. But the Swoosh isn’t hoarding the... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Mismatched Patent Leather Holds Down A Playful Air Jordan 1 Low appeared first on Sneaker News . The post Mismatched Patent Leather Holds Down A Playful Air Jordan 1 Low appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "5a7de50d2a1f",
-      "title": "Free People’s FP Movement Teams With Asics on Footwear Collection",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/free-people-fp-movement-teams-asics-shoe-collection-1239056520/",
-      "original_publish_time": "2026-07-07T20:54:53+00:00",
-      "scraped_time": "2026-07-07T23:59:58.234211+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "ASICS"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 5,
-      "summary": "The collection features a tennis shoe and a running shoe.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "47c300c59269",
-      "title": "The Air Jordan 1 Low Gussies Up With Tumbled Leather",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/07/07/air-jordan-1-low-white-iron-grey-wolf-grey-ix3959-100/",
-      "original_publish_time": "2026-07-07T20:00:55+00:00",
-      "scraped_time": "2026-07-08T00:00:09.533233+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Nike",
-        "Jordan"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "Sometimes, all it takes is a minor tweak or recontextualization for a shoe to hit the next level. Would the Nike Moon Shoe go as... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Air Jordan 1 Low Gussies Up With Tumbled Leather appeared first on Sneaker News . The post The Air Jordan 1 Low Gussies Up With Tumbled Leather appeared first on Sneaker News .",
       "ren_take": "",
       "image_url": ""
     }
