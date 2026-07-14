@@ -1,8 +1,189 @@
 {
-  "last_updated": "2026-07-13T18:52:30.542011+00:00",
+  "last_updated": "2026-07-14T00:07:17.841042+00:00",
   "total_articles": 150,
-  "sources_checked": 62,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "a8136c9c179a",
+      "title": "QVC Footwear Is No Longer the Fastest-growing U.S. TikTok Shop — Here’s the Unexpected Brand That Is Surging",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/boot-nortiv-8-beat-qvc-tiktok-shoe-shop-sales-fast-growth-1239062728/",
+      "original_publish_time": "2026-07-13T21:45:36+00:00",
+      "scraped_time": "2026-07-13T23:56:12.819489+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "boot",
+        "footwear"
+      ],
+      "relevance_score": 4,
+      "summary": "Outdoor boot brand Nortiv 8 beat out QVC as the fastest growing U.S. TikTok shoe shop, according to Charm Io's recent quarterly year-over-year data.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "bb3af5091dcf",
+      "title": "You Won't Believe How Sexy Arc’teryx Can Make Hiking Boots",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/arcteryx-konseal-trek-boot/",
+      "original_publish_time": "2026-07-13T21:22:00+00:00",
+      "scraped_time": "2026-07-14T00:00:01.226998+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "boot",
+        "sneakers"
+      ],
+      "relevance_score": 4,
+      "summary": "Arc’teryx's Konseal Trek Boot is a seamlessly sexy shoe for adventures, proving that not all trail sneakers need be as ugly as the trail itself.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "377f0d7246d0",
+      "title": "Nike’s All-Green Air Force 1 Isn’t Just Good — It’s Iconic",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-air-force-1-icon-green-apple/",
+      "original_publish_time": "2026-07-13T21:07:27+00:00",
+      "scraped_time": "2026-07-14T00:00:01.228053+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "Nike's classic Air Force 1 Low sneakers land in a new \"Green Apple\" colorway, alongside \"icon\" stamps & luxe details.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "c37190d55f6e",
+      "title": "Tailored Brands Store Expansion Plans Could Be Good for Men’s Footwear",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/tailored-brands-store-expansion-plans-mens-footwear-1239062020/",
+      "original_publish_time": "2026-07-13T20:31:18+00:00",
+      "scraped_time": "2026-07-13T23:56:12.821870+00:00",
+      "time_delta_mins": 0,
+      "category": "Manufacturing",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Tailored Brands plans to add more than 500 stores over ten years, a move that could see more wholesale orders for its men's shoe suppliers.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "065d37cc0867",
+      "title": "Puma Taps Nike Veteran Marcia Dos Santos to Lead Core Business Unit",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/puma-marcia-dos-santos-vice-president-core-business-unit-1239064938/",
+      "original_publish_time": "2026-07-13T20:30:23+00:00",
+      "scraped_time": "2026-07-13T23:56:12.822461+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Nike",
+        "Puma"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "The hiring of Dos Santos comes after Puma created dedicated teams for its sportstyle and core businesses earlier this year.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "fb1b249897ea",
+      "title": "A Japanese Adidas Collaboration Turns a Classic ’80s Basketball Sneaker Into a Square-toe",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/forget-me-nots-adidas-forum-square-toe-release-date-kz9588-1239064646/",
+      "original_publish_time": "2026-07-13T20:05:58+00:00",
+      "scraped_time": "2026-07-13T23:56:12.823029+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Nike",
+        "Adidas"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "Beating Nike to market on its square-toe Air Force 1.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "1b0f32525c5b",
+      "title": "This Golf Company Turned The adidas Samba Into A Head Cover",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/07/13/dormie-workshop-adidas-golf-club-cover/",
+      "original_publish_time": "2026-07-13T20:00:44+00:00",
+      "scraped_time": "2026-07-13T23:56:23.828266+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "adidas sent golf accessory brand Dormie Workshop some sneakers with the task of turning them into headcovers, and they knocked it out of the park.... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post This Golf Company Turned The adidas Samba Into A Head Cover appeared first on Sneaker News . The post This Golf Company Turned The adidas Samba Into A Head Cover appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "d10e56798c47",
+      "title": "Leather and footwear associations’ leaders from across world discuss key issues at CIFA conference in Cam - The Times of India",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOV0FUa2xxUlNRMVc0WHhiZkFPejkzS0VVRTVITVg4Qy0xUjZkQXZ0cDFLOTBBSnN3Zk1lLUY5ZVNiYm5hOVNXTmdLajZCbzJkUVVjalJCRHZ2bGtXem9YMzlrLWxJSTdfUURNQU04cWtJTmcwa3FUdXBDcDlCeVVjdEphMU9XUHBpVzFmNFRDOWtUT1d6RHZPdEY2T051WDRwX2Z0ZWt5b2ExcE9JOUpMSTNOak5DS05yS0h4Yjc3SldDSTZSaTgxQlF6TjZKR0dHQ0U0M3Vsd3VLMnQ2Unh3MWcxV0VLMVg2bDdjc2Y2dnBsNzM5WVp6MXRFOHhzLW5teExUbG5yTEFEYlpCZGFxR9IBlgJBVV95cUxOcGx1XzcwQ284YzE5NUFILWNnU0RoT1pDeEtNd2MwQlpXMTd4M1I1WWJZRXVpTnlibzUtMXJWdlVURURYRjhpY0NHTHMtZ0wtdzMwVmUtZEdQdzMxNHY3MDVfVU16aTZFU2I4UlpPZER5RWMwQlpmMVV4QW5sUENHMzB5NGhyb2kxcFVXbDY2eXhxUlJNd0FzRDdmQ1pvMjFyT2NESHhlRmFnNDlJdkI4UHlXeTNHUkUybTQzdjljbllnYVVGS2o4OWpqSU55ZlBLcjZYUUVac3JOQXFtYV8tYnRtbU9JWVZJS282Z2h3MHdzOUxabzhnTVdRS1hLVDdaYndnN3NUM1FpbkY3XzZMT3BRdlQzQQ?oc=5",
+      "original_publish_time": "2026-07-13T19:32:00+00:00",
+      "scraped_time": "2026-07-13T23:56:34.904418+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Leather and footwear associations’ leaders from across world discuss key issues at CIFA conference in Cam The Times of India",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "32faea424ba8",
+      "title": "Closer Looks At The Nike Ja 4 “Rise”",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/07/13/nike-ja-4-rise-release-date/",
+      "original_publish_time": "2026-07-13T19:30:13+00:00",
+      "scraped_time": "2026-07-13T23:56:23.829922+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "New team, new era, new shoes. Unquestionably, severing Ja Morant’s ties to Memphis (at least for the moment) is a bitter pill, but as they... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Closer Looks At The Nike Ja 4 \"Rise\" appeared first on Sneaker News . The post Closer Looks At The Nike Ja 4 “Rise” appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "49d0f9e1a615",
       "title": "China shoe factory fire exposes audit gaps",
@@ -2891,183 +3072,6 @@
       ],
       "relevance_score": 3,
       "summary": "Few Nike sneakers embrace the pack mentality quite like the Dunk Low, the model routinely emerging in cohesive units built around matching materials and/or color... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike Mixes Materials With The Dunk Low \"Bronze Eclipse\" appeared first on Sneaker News . The post Nike Mixes Materials With The Dunk Low “Bronze Eclipse” appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "d2705854f43a",
-      "title": "Meet Full Kit, the Vintage Jersey Bootleggers Rewriting Music Merch",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/7/full-kit-hypebeast-cup-interview",
-      "original_publish_time": "2026-07-07T15:34:50+00:00",
-      "scraped_time": "2026-07-07T18:59:03.718334+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 3,
-      "summary": "Read more at Hypebeast",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "1cb7a93f9481",
-      "title": "From New Balance to Vans, Browse This Week’s Best Sneaker Releases",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/sneaker-releases-2026-july-week-1/",
-      "original_publish_time": "2026-07-07T15:17:01+00:00",
-      "scraped_time": "2026-07-08T00:03:40.378221+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Adidas",
-        "New Balance",
-        "Vans"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 6,
-      "summary": "The world of sneakers releases is a tricky one to navigate, but we here with best of the open market, from New Balance to Adidas & Vans.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "5e1337fb3813",
-      "title": "Nike’s Next Elegant Jordan Sneaker Literally Looks Like Money",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/jordan-8-bin-23/",
-      "original_publish_time": "2026-07-07T14:53:40+00:00",
-      "scraped_time": "2026-07-07T19:02:48.555748+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [
-        "Nike",
-        "Jordan"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 4,
-      "summary": "The Air Jordan 8 \"Bin 23\" sneaker lands as the latest luxurious stepper in the series, featuring a suave all-green design & top-tier details.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "ae49ace4733d",
-      "title": "AAFA calls for no additional tariffs on footwear imported from Brazil - Fibre2Fashion",
-      "source_name": "Google News - Footwear Exports",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQRFhrenExak5ESFJENXBkcmMyUWlCcHV6dmxIOG1SSW8tUXdnREpmdUdKb0JYS1J4aDBQUXVBZzlHVFhJRW8xWnJ2cG9qRDJTMmFYM0ZvOG11UnZwMlN3ZkdZUGZvYTR6dzRoTEliVS1wRXo0azdvWlRVWVFXdXRJUjQ2cHhYeC1FTWtWVkhHMGpnTU0zOEdXZXFPNk1xY0ZuVlkzRG9PeThTLU1BeUpkNURsel9jbjg5R3gwbENISnNPY0VxZ1daeFZnOFRJNy1RVHh5dWtsbFI4SFpsMWxZZV96VQ?oc=5",
-      "original_publish_time": "2026-07-07T12:49:51+00:00",
-      "scraped_time": "2026-07-08T07:19:42.246587+00:00",
-      "time_delta_mins": 0,
-      "category": "Trade Data",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "AAFA calls for no additional tariffs on footwear imported from Brazil Fibre2Fashion",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "18c5d8e865a2",
-      "title": "Piyush Goyal asks leather industry to target $15 billion exports - newsage.in",
-      "source_name": "Google News - Leather Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1OMEFVbk55d2dsVExlYmVnWnpCWUZyU083T05TQUdNNS0tanhoOTU1VEVsUi1rWk14bXpPSEdteWdTTXNfclhVQ1RHcml6VGU3ZjJDRFJHcHVYYjZtNGVseVNONzV0U1NrTHNz?oc=5",
-      "original_publish_time": "2026-07-07T11:24:54+00:00",
-      "scraped_time": "2026-07-07T18:59:16.970018+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "leather industry"
-      ],
-      "relevance_score": 3,
-      "summary": "Piyush Goyal asks leather industry to target $15 billion exports newsage.in",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "525c02e59aa9",
-      "title": "I’ve Tested Several Pairs of Walking Shoes, and These Slip-Ons from an Oprah-Worn Brand Are My New Go-To - People.com",
-      "source_name": "Google News - Sneaker Brand",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZUW5KSnRBYkNfUURzcW9pNmdadWViLVUzSXAyeEpGR2xaNjhVNVVYWEtRTmRDLS1rNU1UU3RZMi1KY29kQk9kTXVrVm9menQ0RFA2VFJXTXRTa0d0dHdla1cwZWtIR3dfNEx2bkM2c3g?oc=5",
-      "original_publish_time": "2026-07-07T11:00:00+00:00",
-      "scraped_time": "2026-07-09T13:50:22.703880+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "I’ve Tested Several Pairs of Walking Shoes, and These Slip-Ons from an Oprah-Worn Brand Are My New Go-To People.com",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "554dbec18990",
-      "title": "Piyush Goyal Urges Leather and Footwear Industry to Triple Exports to USD 15 Billion - KNN India",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeHJ6MVZwWTZaQkRRSFFueE54MWk1SFlOc0pxSC1Ibzg2SGNWSFhZeHM1ekU0b2Z3M2RBMjVyQVlGTUJPdVJPWGtqOFNwcldKOFJXYVB2ZEhaSGhoVG5DMlMtaUE5VzA3Vnl5LXU0c0tmYV8tb19UTU5TNkl0blNMbURxcFdqRGtOWS1qODBSeFRSWXpsMlNycVJmS2R0bUZyUnZUWjc4bHlJcXI0SGxuSjBTVjdJMzJrTHdkNDdFc1pEeXN6WUlnZG5BcGs?oc=5",
-      "original_publish_time": "2026-07-07T10:08:26+00:00",
-      "scraped_time": "2026-07-07T13:21:39.765944+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "footwear industry"
-      ],
-      "relevance_score": 6,
-      "summary": "Piyush Goyal Urges Leather and Footwear Industry to Triple Exports to USD 15 Billion KNN India",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "48f30102de44",
-      "title": "India intends to more than triple its exports of leather and footwear products over next five years - TV BRICS",
-      "source_name": "Google News - India Leather",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNM05MZUVCNU4xRE1RYnFhbEZkMVhCbnAtUERYYjJBNTFzM0hhRkdZRjdDZ3kxMDBlTWsycTBaRWJyMTlpMi00QkF4dW92LXhuaXZIS0xwOFRnWW5HNnlock9ILWRVQ1NLVmRKWlN1VWZsTl9rUWpoRFJMNmVlZjIxZXlLVmVkM0pnemJFYm83SFRFMHhaR0NYTDkwNHdFUFNDdWNrc2pOUHl1b2FsYW1hME5CeXdRS19fd1RwNUp4X29EQ3NXaVdr?oc=5",
-      "original_publish_time": "2026-07-07T10:01:55+00:00",
-      "scraped_time": "2026-07-07T13:41:07.477834+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "India intends to more than triple its exports of leather and footwear products over next five years TV BRICS",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "0fdb241e5103",
-      "title": "‘Nigeria’s leather industry growing’ - The Nation Newspaper",
-      "source_name": "Google News - Leather Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB0Y0JzNlNuSlMycnZ1a21OcGUzQnFmQVE3VHhWTUxZU05GZllRSEZIb1o3cjNJNmJoZG96RVRPNWZtRVBJVE14SU1SRnZObHZGR2p1NWxjc3E0dVpiYnRBWVJ1a3NuSlFfdlA1RDY4ZHliZ9IBd0FVX3lxTFAtdmh0NUFEUExRdWhCeWJadXFoRWlfN1BqelBWajR2bjQyd1NyVVhsenBMMDJabHNIdWdzN041Y0FMcHlxajd4SldvYkt2YWNmZDBnSjFGbzRhcDZwOVp4SHNVbDlOem1iVFNrYXJ6ZVQwX0d3Y2xz?oc=5",
-      "original_publish_time": "2026-07-07T09:48:11+00:00",
-      "scraped_time": "2026-07-07T13:21:41.681480+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "leather industry"
-      ],
-      "relevance_score": 3,
-      "summary": "‘Nigeria’s leather industry growing’ The Nation Newspaper",
       "ren_take": "",
       "image_url": ""
     }
