@@ -1,8 +1,29 @@
 {
-  "last_updated": "2026-07-15T00:05:51.195293+00:00",
+  "last_updated": "2026-07-15T07:14:34.207336+00:00",
   "total_articles": 150,
-  "sources_checked": 61,
+  "sources_checked": 62,
   "articles": [
+    {
+      "id": "3ae9f5895ddd",
+      "title": "Travis Scott Debuts Unreleased Nike Moon Shoe at ‘The Odyssey’ Premiere",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/7/travis-scott-unreleased-nike-moon-shoe-first-look",
+      "original_publish_time": "2026-07-15T04:14:02+00:00",
+      "scraped_time": "2026-07-15T07:03:47.832497+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "Summary Travis Scott wore an unreleased Nike Moon Shoe at 'The Odyssey' premiere.It features a washed black leather upper with shaggy suede panels, contrasted with burnt red laces and Swooshes.A speculated collaborative model, the sneaker also boasts Scott's signature backwards Swoosh. Travis Scott was spotted at The Odyssey premiere wearing an unreleased Nike Moon Shoe. Featuring a low-profile runner that stays faithful to the silhouette, this particular iteration also boasts an aesthetic that is on brand with Scott's signature style -- notably a mix of luxe yet dystopian streetwear, vintage rock-and-roll elements and earth tones that echo his brand, Cactus Jack's palette.The shoe arrives in a washed black or deep gray leather upper paired with shaggy suede sidewalls and heels, creating a",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "1cf687a67a65",
       "title": "New Balance’s Miu Miu-Flavored Sneaker Gets Serious",
@@ -141,6 +162,25 @@
       ],
       "relevance_score": 3,
       "summary": "Portuguese footwear: an example for Europe AICEP",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "a8e858d7f36d",
+      "title": "Cambodia attracts global leaders at 43rd International Footwear Conference - Khmer Times",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ1BPYXhfYWFVZUZNRTYwUGhGcV9yQXhPZDlUeFJVT2xLa0luZzJYV3Q4eDlZVzdBSEVQQlNrMFZuNlg4ZWVNbzVqZGh3cnFLejFXcHNzUFQ3MWdjcEltN2hreHB1TXdReGNrLUpfVXVJb3I5Y3VwWDBhcjYxUWRGZVRpMzFmZko5clFieHZSbl9ZM3FtZFVRU1pWWDdLTEJKM0pMeWt1bTdIeHJQMGpRa1o5SEg?oc=5",
+      "original_publish_time": "2026-07-14T17:20:42+00:00",
+      "scraped_time": "2026-07-15T07:03:58.882379+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Cambodia attracts global leaders at 43rd International Footwear Conference Khmer Times",
       "ren_take": "",
       "image_url": ""
     },
@@ -2156,6 +2196,26 @@
       "image_url": ""
     },
     {
+      "id": "37933eaefdef",
+      "title": "Piyush Goyal urges leather, footwear industry to target $15 billion exports in next 5-6 years - DD News",
+      "source_name": "Google News - India Leather",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQV0JrMjZ3M3pjVnZDLVJvVnZzOWxjcEkzWnRBNjZwZGV0WGtPT19qajlGbU13M2t1b1NBRmJIT2RkYmZhbldVd05SNWpVRWF6dlBLU3o0LVZ3NGdZa1h1b1N3LVlFNVA2WHVCc0xsT0l4amVwZEdRX1lsQ3N2Mll5eHZWTEo1NzBwYkRIMTBnd2VPc0ZBY25YYWtrY0xtcUlGeE8xTHZXV3JPam44TTFLU3dnYzlEb3NI?oc=5",
+      "original_publish_time": "2026-07-09T19:09:28+00:00",
+      "scraped_time": "2026-07-15T07:14:34.185387+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "footwear industry"
+      ],
+      "relevance_score": 6,
+      "summary": "Piyush Goyal urges leather, footwear industry to target $15 billion exports in next 5-6 years DD News",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
       "id": "107f630ed425",
       "title": "At least 28 killed in shoe factory fire in southeast China, state media says - NBC News",
       "source_name": "Google News - Shoe Manufacturing",
@@ -3013,70 +3073,6 @@
       ],
       "relevance_score": 8,
       "summary": "The New Balance TDS Niobium Concept 1 shoe isn't just a rugged combat boot, it's actually three shoes in one.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "7d2d5ec2279b",
-      "title": "The Best Nike Sneakers Releasing This Week",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/the-best-nike-sneakers-releasing-this-week-july-2/",
-      "original_publish_time": "2026-07-08T11:35:58+00:00",
-      "scraped_time": "2026-07-08T12:24:59.734120+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 5,
-      "summary": "In this iteration of our our weekly lineup of Nike releases, find proof that Nike offers great design no matter the occasion.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "cb3f7f014024",
-      "title": "BILLY's Readies Two Exclusive adidas Originals Samba Decon Colorways \"",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/7/adidas-originals-samba-decon-billys-exclusive-auco-kz6693-brndes-kz6694-release-info",
-      "original_publish_time": "2026-07-08T10:26:32+00:00",
-      "scraped_time": "2026-07-08T12:21:22.971423+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "sneakers",
-        "sole",
-        "upper"
-      ],
-      "relevance_score": 5,
-      "summary": "Name: adidas Originals Samba Decon “Auco” & “Brndes” BILLY's ExclusiveColorway: Auco/Auco/GUM5, Brndes/Brndes/GUM3SKU: KZ6693, KZ6694MSRP: ¥19,800 JPY (approx. $124 USD)Release Date: July 10Where to Buy: BILLY's TokyoBILLY’S is set to release two exclusive adidas Originals Samba Decon sneakers, arriving in “Auco” and “Brndes” colorways.The “Auco” edition features a light beige leather upper accented with tonal stitching and a soft suede toe cap, creating a minimalist yet refined finish. Its gum sole grounds the design with vintage appeal, while subtle perforations and embossed branding on the tongue highlight the deconstructed aesthetic.The “Brndes” iteration contrasts with a rich brown leather upper, paired with darker suede overlays for added depth and texture. Like its counterpart, it s",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "ec672d02b9f2",
-      "title": "FTAs To Boost India’s Leather, Footwear Exports To USD 14 Bn By 2030: CLE - KNN India",
-      "source_name": "Google News - CLE Leather Exports India",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNU1qUXlBbkhGSmZ1NDZnM0o3eUFsMTY1aWJZbER0MzZKcU4zbmJmVEpZMnY3c09kTWozczZWUXJQNEVtUXYydjV5NXpadUlWb2NiMzVKeVdLX1BsTkM5NGdZNS1iVXZVaHVJWC02Tmc5bXBfUUFvd0c3a3FFYnN0VGdkWkh2TU1yNkg1WU8wUmgxTWZZel9JSm4xTGlDNHIxS3BWd2V2aEV4WW4yUk1XNzZjSmdoWEh2bGc?oc=5",
-      "original_publish_time": "2026-07-08T10:16:26+00:00",
-      "scraped_time": "2026-07-08T18:29:20.246397+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "footwear exports"
-      ],
-      "relevance_score": 6,
-      "summary": "FTAs To Boost India’s Leather, Footwear Exports To USD 14 Bn By 2030: CLE KNN India",
       "ren_take": "",
       "image_url": ""
     }
