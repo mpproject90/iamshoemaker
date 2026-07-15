@@ -1,8 +1,93 @@
 {
-  "last_updated": "2026-07-15T07:14:34.207336+00:00",
+  "last_updated": "2026-07-15T12:26:21.521468+00:00",
   "total_articles": 150,
   "sources_checked": 62,
   "articles": [
+    {
+      "id": "0b26f310183e",
+      "title": "Zara Larsson Takes the Stage in Portuguese Boots by PC Footwear - AICEP",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM0c5aXJxQXpvVmRXdWQ5eTRQZHdnQlRnTl9TNFRQS19aYXVrWFZtMDlaZVEyUWtReFJyN2FCcG9kdzRXNVpmaGhxOHhWbEVVR1ltZ3hNTDFLbFM3cXpxcjVYRXdaenE3SzhMcktkY2R5djR2VUFQRGVoVjNDNG5MdnFhRi1TNXpTWnhDbzlVQl94eDVhZkFyWXRaNXVWUThSdDdHa21hTkpiNHZLcXc?oc=5",
+      "original_publish_time": "2026-07-15T11:58:41+00:00",
+      "scraped_time": "2026-07-15T12:15:36.084108+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "boot",
+        "footwear"
+      ],
+      "relevance_score": 6,
+      "summary": "Zara Larsson Takes the Stage in Portuguese Boots by PC Footwear AICEP",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "97a4e70ccae8",
+      "title": "ASICS Put Its Dopest Dad Shoe on Ozempic",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/asics-gel-phai-z-sneaker/",
+      "original_publish_time": "2026-07-15T09:41:02+00:00",
+      "scraped_time": "2026-07-15T12:18:56.584522+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "ASICS"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "ASICS' major metallic Gel Phai Z sneaker is a super slim iteration of ASICS' best dad shoes to date.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "845576e27a04",
+      "title": "SOMEWHERE® Drops New Balance 1954R Ahead of Global Release",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/7/new-balance-1954r-u19543vu-u195438r-u19541r3-somewhere-release-info",
+      "original_publish_time": "2026-07-15T09:13:58+00:00",
+      "scraped_time": "2026-07-15T12:15:25.093570+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "New Balance"
+      ],
+      "keywords_matched": [
+        "shoes",
+        "sneakers",
+        "sole",
+        "upper"
+      ],
+      "relevance_score": 6,
+      "summary": "Name: New Balance 1954RMSRP: $190 USDRelease Date: Available Now (SOMEWHERE®), July 17 (New Balance)Where to Buy: SOMEWHERE, New BalanceWashington D.C.–based boutique SOMEWHERE® has secured an exclusive early release of New Balance’s newest silhouette, the 1954R, ahead of its global debut. Inspired by the city’s longstanding affinity for grey New Balance sneakers, the model merges design elements from the 2002 and 1906 heritage shoes.The name itself - 1954 - derives from the average of those two model numbers, underscoring its hybrid identity. The upper combines premium pig suede, synthetic overlays, and breathable mesh, while the sole construction borrows from both predecessors to create a balanced marriage of cushioning and stability. The new silhouette arrives in three versatile colorwa",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "436a589cccdc",
+      "title": "Portugal’s footwear industry welcomes EU crackdown on fashion waste - Portugal Resident",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE42dW01MW5LZUswR2c0TjZ0bW1lTENPaDQ2TWRMRzdYY3A1eVRUdGp4bjEzZV9tOWRqNElQQ2JidGlweFdLNTF6eEk3dDdIRi1ZZDR3SzNfUGF2RHE2blNldk5YUVhieEQyekx5a1RYbU9HTzBhN0d0blNfeUlTZw?oc=5",
+      "original_publish_time": "2026-07-15T09:11:24+00:00",
+      "scraped_time": "2026-07-15T12:15:36.083315+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "footwear industry"
+      ],
+      "relevance_score": 6,
+      "summary": "Portugal’s footwear industry welcomes EU crackdown on fashion waste Portugal Resident",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "3ae9f5895ddd",
       "title": "Travis Scott Debuts Unreleased Nike Moon Shoe at ‘The Odyssey’ Premiere",
@@ -2987,92 +3072,6 @@
       ],
       "relevance_score": 6,
       "summary": "Literary Sport, the Canadian label that has quietly become the new standard-bearer of chic activewear among fashion's inner circle, is now making a case for barefoot sandals.For its latest collaboration, the brand has teamed up with Xero Shoes to reinterpret the Genesis, the footwear company's original sandal first introduced in 2009 and inspired by the huarache-style sandals worn by Mexico's Tarahumara runners. The silhouette has remained largely unchanged for more than a decade, defined by its thin sole and minimalist lace construction.Rather than reinventing the formula, Literary Sport focuses on the sandal's most distinctive feature: its lacing system. Swapping the original paracord for navy leather cording finished with a polished silver bead, the collaboration subtly elevates the Gen",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "679e42569dec",
-      "title": "Nike’s Sold-out, Mind-altering Shoes Return This Week With a Spider-Man-esque Look",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-mind-001-spider-man-release-date-iz6659-400-1239058315/",
-      "original_publish_time": "2026-07-08T15:39:55+00:00",
-      "scraped_time": "2026-07-08T18:14:37.074932+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 5,
-      "summary": "Find the pressure point for your Spidey-Senses.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "c951276c7110",
-      "title": "FP Movement launches Asics footwear collaboration",
-      "source_name": "Retail Dive",
-      "source_domain": "retaildive.com",
-      "source_url": "https://www.retaildive.com/news/fp-movement-asics-footwear-collaboration/824688/",
-      "original_publish_time": "2026-07-08T15:24:00+00:00",
-      "scraped_time": "2026-07-08T18:17:32.385426+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "ASICS"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 5,
-      "summary": "The tie-up is one of several merchandising efforts from Free People this year and comes as the brand embarks on a brick-and-mortar expansion.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "ed0c9c2be065",
-      "title": "We've Never Seen Mephisto Merch Before",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/beams-mephisto/",
-      "original_publish_time": "2026-07-08T14:49:41+00:00",
-      "scraped_time": "2026-07-08T18:18:16.336531+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Mephisto"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Mephisto, maker of the “World’s Finest Footwear,\" finally has merch thanks to BEAMS. And its best shoe, the Match, finally has MEPHI-TEX waterproofing.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "80b9d019279c",
-      "title": "New Balance’s Hunky Hiker Hides Two Beautiful Mules",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/new-balances-tds-niobium-concept-1/",
-      "original_publish_time": "2026-07-08T12:11:57+00:00",
-      "scraped_time": "2026-07-08T12:24:59.733444+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "New Balance"
-      ],
-      "keywords_matched": [
-        "boot",
-        "hide",
-        "shoes"
-      ],
-      "relevance_score": 8,
-      "summary": "The New Balance TDS Niobium Concept 1 shoe isn't just a rugged combat boot, it's actually three shoes in one.",
       "ren_take": "",
       "image_url": ""
     }
