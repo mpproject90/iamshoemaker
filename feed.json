@@ -1,8 +1,130 @@
 {
-  "last_updated": "2026-07-14T18:10:13.238189+00:00",
+  "last_updated": "2026-07-15T00:05:51.195293+00:00",
   "total_articles": 150,
-  "sources_checked": 62,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "1cf687a67a65",
+      "title": "New Balance’s Miu Miu-Flavored Sneaker Gets Serious",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/new-balance-204l-triple-black/",
+      "original_publish_time": "2026-07-14T22:24:03+00:00",
+      "scraped_time": "2026-07-14T23:58:39.242970+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "New Balance"
+      ],
+      "keywords_matched": [
+        "sole"
+      ],
+      "relevance_score": 3,
+      "summary": "New Balance's 204L \"Triple Black\" sneaker sees the low-soled model dressed in a classic all-black suede look. Here's everything on the new release.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "f90fd4095214",
+      "title": "Victor Wembanyama Debuts the Nike Atelier Total 90 & Bespoke Team France Jacket",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/7/nike-atelier-total-90-victor-wembanyama-release-info",
+      "original_publish_time": "2026-07-14T20:15:41+00:00",
+      "scraped_time": "2026-07-14T23:55:05.917523+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 3,
+      "summary": "SummaryNike Atelier taps Victor Wembanyama for a bespoke capsule rooted in French craftsmanship and athletic heritageThe collection reimagines the legendary T90 Laser III football boot as a pure lifestyle silhouetteA tailored LenoWoven jacket crafted from an innovative cotton yarn adaptation completes the offeringAs the driving force behind the craft-forward initiative, Nike continues to invite world-class athletes into the fold of Nike Atelier. Following standout creations for athletes like Team France's Désiré Doué and Tennis star Jannik Sinner, the bespoke division is now rethinking a football staple through the streamlined Nike Atelier Total 90. Debuted by Doué's teammate Victor Wembanyama, Nike Atelier also revealed a bespoke creation made especially for \"Wemby.\"Shaped by precision an",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "575868960b35",
+      "title": "This World Cup Giveaway Includes the Summer’s Hottest Soccer Shoes",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/alias-world-cup-global-football-giveaway-1239065994/",
+      "original_publish_time": "2026-07-14T19:38:20+00:00",
+      "scraped_time": "2026-07-14T23:54:55.173232+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "Along with a Lionel Messi-signed soccer ball and other collectibles.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "04b761e7df3f",
+      "title": "EU Rules on Destruction of Unsold Apparel and Shoes Are About to Go into Effect: Here’s How It Could Benefit Small Shoe and Fashion Firms",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/deadstock-fabric-leather-luxury-houses-eu-textile-ban-1239065112/",
+      "original_publish_time": "2026-07-14T19:23:01+00:00",
+      "scraped_time": "2026-07-14T23:54:55.175719+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "The new EU rule curbing destruction of unsold fashion and shoes could see more deadstock fabric available for use in limited shoe runs.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "02fcdd497b6c",
+      "title": "EU Rules on Destruction of Unsold Apparel and Shoes Are in Effect Soon - WWD",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSlZDTTRudndXa1ZBd0pfQ2hTM0VsaFY4c0dQM1k0cVRYNWlFYkRtTnVwZ3pBYVY1aXU5R3ZVUGczRlpQQTRKU1RjUGpzZjkyV0RYM2dHN3BnN1FuaF9BUk9wWldGWHRUUTJGYzNVQzRXVUtCLVY3OXlIT1BraG5kMVl4LUpMMUtQaEJSOFo1bmt3QVVTTTh5dW1BajRCUEowMjFkb3lLZHM4M2Mtc2xkajFqS0I?oc=5",
+      "original_publish_time": "2026-07-14T19:13:16+00:00",
+      "scraped_time": "2026-07-14T23:55:17.155320+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "EU Rules on Destruction of Unsold Apparel and Shoes Are in Effect Soon WWD",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "4c325b27f1e7",
+      "title": "Shohei Ohtani's Game-Used New Balance Ohtani 1 Shoes Hits the Auction Block",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/7/shohei-ohtanis-game-used-new-balance-ohtani-1-shoes-mlb-tokyo-series-2025-the-realest-auction",
+      "original_publish_time": "2026-07-14T18:58:14+00:00",
+      "scraped_time": "2026-07-14T23:55:05.915759+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "New Balance"
+      ],
+      "keywords_matched": [
+        "footwear",
+        "shoes",
+        "sneakers"
+      ],
+      "relevance_score": 7,
+      "summary": "Summary The Realest has officially launched a live auction for Shohei Ohtani's game-used New Balance Ohtani 1 sneakersWorn during the historic 2025 MLB Tokyo Series, the one-of-one player exclusive pairs feature custom graphics of the athlete's dog and real infield dirtThe footwear artifact includes a rare personal Japanese Kanji signature and a game-used inscription from the four-time MVP New Balance and authentication platform The Realest have officially launched the live auction for Shohei Ohtani's game-used and signed New Balance Ohtani 1 shoes. Worn by the four-time MVP during the opening game of the 2025 MLB Tokyo Series, the historic sneakers represent an incredibly significant crossover of baseball legacy, Japanese sports history, and global sneaker culture.The one-of-one Player Ex",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "ed00556126ec",
       "title": "Portuguese footwear: an example for Europe - AICEP",
@@ -256,6 +378,25 @@
       "keywords_matched": [],
       "relevance_score": 4,
       "summary": "Puma has appointed ex-Nike executive Marcia Dos Santos to lead its newly created Core business unit as it pushes ahead with wider transformation. Dos Santos will join the retailer as vice president of business unit Core on 15 July and report directly to chief brand officer Maria Valdes. She brings more than 20 years of...",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "e46942887e70",
+      "title": "Paramount Pictures Announces 'A Nightmare on Elm Street' Reboot",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/7/paramount-picture-a-nightmare-on-elm-street-reboot-announcement",
+      "original_publish_time": "2026-07-14T05:17:54+00:00",
+      "scraped_time": "2026-07-14T23:55:05.920966+00:00",
+      "time_delta_mins": 0,
+      "category": "Trade Data",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 3,
+      "summary": "Paramount Pictures has officially closed a deal to reboot the iconic horror franchise A Nightmare on Elm Street. The studio has successfully acquired the U.S. rights to adapt the original 1984 screenplay from the estate of legendary filmmaker Wes Craven, marking a new theatrical era for the legendary slasher property.The upcoming feature project will be developed under Paramount Primal, the studio's newly established genre label designed to produce smartly budgeted films across horror, comedy, action, and science fiction. The new division is spearheaded by producers J.D. Lifshitz and Raphael Margules, the creative team behind notable genre hits such as Barbarian, Weapons, Companion, and Friendship. While specific plot parameters and character casting remain strictly under wraps, the film w",
       "ren_take": "",
       "image_url": ""
     },
@@ -2936,148 +3077,6 @@
       ],
       "relevance_score": 6,
       "summary": "FTAs To Boost India’s Leather, Footwear Exports To USD 14 Bn By 2030: CLE KNN India",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "021c37cfc225",
-      "title": "Piyush Goyal Calls on India’s Leather and Footwear Industry to Triple Growth, Target USD 15 Billion Exports and Expand Employment to 1 Crore by Leveraging FTAs and Diversifying Global Markets - A2Z Taxcorp LLP",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQNnZrME1fTzY2SEFpSDUtZkdJd2w4aDdILTduRmlqM2ZrUVhRZTlJczM5SV9wV3lFaDdmVlpPVDV0MkRqT1ExZE5NeWE4YnVHOFE0ZUVLN1cyTVJRTDl5MGxSTHE4NnNnSzZ2UlJNRFc4NWc0MVdzWnphaXUwUlZpVU5NZEkyMkNXak5fMXQ2b3piaTVqQ28zS3dKdlBFLWJ5RVhZZGhuSlU2QURKemlVZ2c4SDg0OGh5cjFKRV8zUVRlRXJzclpya2RrOHNwUTVUS3FTcmNQaFYwTFRYQW9HS3NNaGxYMExHVnBCeDdnY3FqWUFXT0E1YVJ6d0xEWURaN0hFamVqY3hpU1UyMnZhQzNpdGtoMGdHVzFEYzRGbjM1Y2pxQ1RkNGdNSURwNzJ4SDVDQXJELU4?oc=5",
-      "original_publish_time": "2026-07-08T08:53:33+00:00",
-      "scraped_time": "2026-07-08T12:21:34.226783+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "footwear industry"
-      ],
-      "relevance_score": 6,
-      "summary": "Piyush Goyal Calls on India’s Leather and Footwear Industry to Triple Growth, Target USD 15 Billion Exports and Expand Employment to 1 Crore by Leveraging FTAs and Diversifying Global Markets A2Z Taxcorp LLP",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "7477b3c41073",
-      "title": "Nike Air Max Dolce Emerges in a Vibrant \"Light Magenta\" Colorway",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/7/nike-air-max-dolce-light-magenta-ib4527-500-release-info",
-      "original_publish_time": "2026-07-08T08:12:32+00:00",
-      "scraped_time": "2026-07-09T00:14:30.516343+00:00",
-      "time_delta_mins": 0,
-      "category": "Trade Data",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 4,
-      "summary": "Name: Nike Air Max Dolce \"Light Magenta\"Colorway: Light Magenta/BlackSKU: IB4527-500MSRP: $130 USDRelease Date: July 18, 2026Where to Buy: NikeNike is expanding its legendary running archive with the upcoming release of the Air Max Dolce. The silhouette is set to adopt a striking, high-contrast color palette tailored explicitly for the modern lifestyle market.The model prominently features a vibrant light magenta base layer that is contrasted sharply by deep black structural accents distributed across the upper. Suggested imagery highlights a design framework that honors heritage running aesthetics, integrating a series of supportive tonal overlays alongside a signature visible Air cushioning unit embedded within the heel. The lifestyle-oriented model appears to prioritize both breathabili",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "86b3cd94d10f",
-      "title": "Nigel Sylvester Reveals the Air Jordan 14 \"Purple Ferrari\" WNBA PE",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/7/nigel-sylvester-reveals-air-jordan-14-purple-ferrari-wnba-pe",
-      "original_publish_time": "2026-07-08T07:56:34+00:00",
-      "scraped_time": "2026-07-09T00:14:30.514714+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Jordan"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "Summary Jordan Brand has crafted a specialized player exclusive sneaker for WNBA athletes utilizing the iconic Ferrari-inspired silhouetteThe design swaps the traditional red colorway for a rich purple premium suede upper paired with faux carbon fiber detailingAs a dedicated player edition custom build, this specific pair is not expected to receive a public retail release Nigel Sylvester has revealed the stunning Air Jordan 14 \"Purple Ferrari\" WNBA PE. Specially engineered to celebrate the elite athletes of the Women's National Basketball Association, this rare player exclusive brings a high-fashion, court-ready color palette to the legendary 1998 silhouette famously inspired by Michael Jordan's love for luxury Italian sports cars.The sneaker commands attention by completely replacing the ",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "467a54892a99",
-      "title": "Bangladesh targets $10bn leather exports with CETP upgrade and compliance reforms",
-      "source_name": "Textile Today",
-      "source_domain": "textiletoday.com.bd",
-      "source_url": "https://textiletoday.com.bd/bangladesh-targets-10bn-leather-exports-with-cetp-upgrade-and-compliance-reforms",
-      "original_publish_time": "2026-07-08T07:34:00+00:00",
-      "scraped_time": "2026-07-08T12:25:13.027690+00:00",
-      "time_delta_mins": 0,
-      "category": "Quality",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "leather exports",
-        "leather industry"
-      ],
-      "relevance_score": 4,
-      "summary": "On 7 July, Commerce Minister Khandakar Abdul Muqtadir announced a comprehensive reform initiative aimed at revitalizing Bangladesh's leather industry, strengthening environmental compliance, and trans...",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "26fc13a888ba",
-      "title": "Vanessa Bryant Reveals A Motherlode Of Upcoming Nike Kobe Footwear",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/07/07/vanessa-bryant-previews-nike-kobe-summer-2026/",
-      "original_publish_time": "2026-07-08T02:11:35+00:00",
-      "scraped_time": "2026-07-08T07:19:28.944941+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 5,
-      "summary": "Vanessa Bryant has once again offered Kobe fans an exciting glimpse into the future of Kobe Brand. The Black Mamba’s widow took to Instagram Stories... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Vanessa Bryant Reveals A Motherlode Of Upcoming Nike Kobe Footwear appeared first on Sneaker News . The post Vanessa Bryant Reveals A Motherlode Of Upcoming Nike Kobe Footwear appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "8a20609ee977",
-      "title": "Meghan Markle Hiked in the Podiatrist-Approved Sneakers That Amazon Shoppers Can Walk ‘20,000 Steps a Day’ In - People.com",
-      "source_name": "Google News - Sneaker Brand",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1jZW1GeE5kYXhpNFRJRWkxamZpZU5DOXF2cnBVT05rUlJpb2YyeGpFVTg2clA4b2hLdWhGdVlSMWNtMEJWNUkyRFdkelM1MWh1dHdIaUNLSFpHWHFPZXFhMXRDcXF2OFRaVlhqa0d4QThqLWM2VHJQOFhTdEk?oc=5",
-      "original_publish_time": "2026-07-08T01:45:00+00:00",
-      "scraped_time": "2026-07-09T13:50:22.701256+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "Meghan Markle Hiked in the Podiatrist-Approved Sneakers That Amazon Shoppers Can Walk ‘20,000 Steps a Day’ In People.com",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "0f6d2e61fe82",
-      "title": "India targets $15B in leather and footwear exports by 2031 - Qazinform",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdmNzbVFTQUZvWFRWaGc2SzcwVi11bnZpam9mZDlhYU9DSktTTWhpa3M3UE9NazUzREM5WUo5LVdoRkp5dm81ZFBGV19ESS0yN2tQNWJkUlIzeWNkTkxRZUk5X1FzMWdQVGdlM0R1aVNHZVB3THRPTkpEWHFVWjRsbTNBdEJJV1RvOUF3OTNpLU1WTWJrQnfSAZYBQVVfeXFMTjlDUURRM0dmalNXNHNOanBiRFAteER1NWNYUXAxclpuRW9ua0ZNMHpqVnFlbDVwVWVrTzJBaXd6XzB2Zi1IdVdWUzNyR3FaSzI2azNlalBINGRQM0t0akY2MkU5LVFMTXVDUnBGSGhtVnNVQndKMU5IZXRmMDRFTUlXVVQ2ZTB2elhMem94NXVfTVJnbFpn?oc=5",
-      "original_publish_time": "2026-07-07T23:39:31+00:00",
-      "scraped_time": "2026-07-08T00:00:20.265401+00:00",
-      "time_delta_mins": 0,
-      "category": "Quality",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "footwear exports"
-      ],
-      "relevance_score": 6,
-      "summary": "India targets $15B in leather and footwear exports by 2031 Qazinform",
       "ren_take": "",
       "image_url": ""
     }
