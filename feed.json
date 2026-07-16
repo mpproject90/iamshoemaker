@@ -1,8 +1,173 @@
 {
-  "last_updated": "2026-07-15T18:13:52.678139+00:00",
+  "last_updated": "2026-07-16T00:11:42.401790+00:00",
   "total_articles": 150,
-  "sources_checked": 62,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "7d7431f48e46",
+      "title": "Phyllis Rein from FSNYE: business is built on relationships - World Footwear",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVnJPUzMwR3NuMkVJcklGLTBjZERNZmx6ZmFjNXZiZVlwOTV3bTVRYXRDZGVHZzNBMHFJMXgzVktjdFBHUTdLQmxkU3d5azhNbDktLUxFdGdlNDJZU1YyNzZ6UzN0c3NqVjdYanZYbDBNTTdBbDg2dE1hWmF0Zy02bWh4aHRiUDB4Sm5uU2Mtd2JLWTRkc1JzOEU0SERRY1REVGJRVUFMTQ?oc=5",
+      "original_publish_time": "2026-07-15T23:00:32+00:00",
+      "scraped_time": "2026-07-16T00:01:15.561841+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Phyllis Rein from FSNYE: business is built on relationships World Footwear",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "e9c08763c076",
+      "title": "Vibram’s Little Yellow Tag Is the Main Character Now",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/hender-scheme-vibram/",
+      "original_publish_time": "2026-07-15T21:39:00+00:00",
+      "scraped_time": "2026-07-16T00:04:31.732961+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [
+        "Vibram"
+      ],
+      "keywords_matched": [
+        "footwear",
+        "sole"
+      ],
+      "relevance_score": 4,
+      "summary": "The Hender Scheme collab with footwear staple Vibram is more than a custom sole — it's a reflection of how fashionable the FiveFinger brand has become.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "d355674b4132",
+      "title": "Nike’s New Air Force 1 Is Being Compared to One of the Sneaker’s Most Notorious Bootlegs",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-air-force-1-07-game-day-iv5685-365-1239067386/",
+      "original_publish_time": "2026-07-15T21:04:18+00:00",
+      "scraped_time": "2026-07-16T00:00:54.168117+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 5,
+      "summary": "The \"Game Day\" Air Force 1 is available now.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "1d2736348e86",
+      "title": "Monica Barbaro Answers the Question of Which Heels Pair Well With Capris",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-trends/monica-barbaro-minimalist-sandal-capris-heels-1239067374/",
+      "original_publish_time": "2026-07-15T20:52:56+00:00",
+      "scraped_time": "2026-07-16T00:00:54.170996+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sandal"
+      ],
+      "relevance_score": 3,
+      "summary": "The actress was out and about in New York City wearing a minimalist sandal.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "5f5c636f5938",
+      "title": "Timberland and Jacquemus Are Back Together Again on Blue Lug Sole Boat Shoes",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/jacquemus-timberland-lagoon-blue-lug-sole-boat-shoes-1239067544/",
+      "original_publish_time": "2026-07-15T20:32:32+00:00",
+      "scraped_time": "2026-07-16T00:00:54.171585+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Timberland"
+      ],
+      "keywords_matched": [
+        "shoes",
+        "sole"
+      ],
+      "relevance_score": 8,
+      "summary": "The shoe will be available from July 17.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "bb13437a3bcc",
+      "title": "Purple Brand, Best Known for Its Denim, Is Now Launching Shoes",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/purple-brand-sneakers-release-info-1239067454/",
+      "original_publish_time": "2026-07-15T20:31:02+00:00",
+      "scraped_time": "2026-07-16T00:00:54.172093+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "The new sneaker style is available in four colorways.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "21c82e6ed0b3",
+      "title": "Nike Combines Footwear Trends With An Air Rift “Pony Hair Pack”",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/07/15/nike-air-rift-pony-hair-pack/",
+      "original_publish_time": "2026-07-15T20:30:11+00:00",
+      "scraped_time": "2026-07-16T00:01:04.820703+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 5,
+      "summary": "A trending texture meets a trending silhouette with Nike’s latest pack release. The tabi-toed Nike Air Rift, already in the midst of a renaissance thanks... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike Combines Footwear Trends With An Air Rift \"Pony Hair Pack\" appeared first on Sneaker News . The post Nike Combines Footwear Trends With An Air Rift “Pony Hair Pack” appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "c82b63a2e6d7",
+      "title": "The Bandana Craze Is Coming for Footwear, With Chaco and Nike Leading the Charge",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-trends/bandana-trend-shoes-chaco-nike-1239066942/",
+      "original_publish_time": "2026-07-15T18:03:53+00:00",
+      "scraped_time": "2026-07-16T00:00:54.172828+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "footwear",
+        "sandal"
+      ],
+      "relevance_score": 6,
+      "summary": "Chaco unveiled a bandana print lineup of sandals.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "6315d0c0152c",
       "title": "New Balance Has Its Own Answer To The Jelly Sandal Trend",
@@ -193,6 +358,27 @@
       "image_url": ""
     },
     {
+      "id": "9fbb6a35110d",
+      "title": "Nike Air Force 1 Low \"Orange Faux Fur\" Surfaces",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/7/nike-air-force-1-low-orange-faux-fur-surfaces",
+      "original_publish_time": "2026-07-15T07:06:41+00:00",
+      "scraped_time": "2026-07-16T00:01:04.592974+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 4,
+      "summary": "Summary Creative insider Frank Cooker has shared an early look at an unreleased Nike Air Force 1 Low covered in vibrant orange faux furThe wild design features tactile faux fur running across the toe box, side panels, and SwooshRumors suggest the sample could potentially see a public release slated for late 2026 or early 2027 Nike is reportedly preparing a wild, texture-heavy take on a classic with the rumored Nike Air Force 1 Low \"Orange Faux Fur\". Originally revealed by industry insider Frank Cooker, the striking sample has quickly captured the attention of the sneaker community.According to the previewed imagery, the lifestyle model completely swaps out traditional leather panels for long, bright orange faux fur. The eye-catching material runs across the entire upper, meticulously cover",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
       "id": "3ae9f5895ddd",
       "title": "Travis Scott Debuts Unreleased Nike Moon Shoe at ‘The Odyssey’ Premiere",
       "source_name": "Hypebeast",
@@ -231,6 +417,26 @@
       ],
       "relevance_score": 3,
       "summary": "Summary Indiana Fever guard Caitlin Clark has officially teased a brand-new colorway of her first signature sneakerThe newly revealed silhouette adopts a clean monochromatic white aesthetic nicknamed Snow WhiteThis latest design marks the fourth distinct colorway surfaced from the playmaker's upcoming footwear line Name: Nike Caitlin 1 \"Snow White\"Colorway: White/Racer BlueSKU: IH7423-100MSRP: $140 USDRelease Date: Holiday 2026Where to Buy: NikeNike and WNBA superstar Caitlin Clark are expanding her signature footwear portfolio with the reveal of the Nike Caitlin 1 \"Snow White\". The Indiana Fever guard took to social media to preview the clean monochromatic variation of her upcoming court-ready silhouette ahead of its formal debut.The \"Snow White\" edition trades the high-energy team colors",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "aaa5dd8e2d0b",
+      "title": "Walk This Way: Inside Spain’s Booming Footwear Industry - Monocle",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1XQW9QeURCWHY2UER3VHBNS0VRTkh2TUtMUXJiSUVZMTNlTGlxQmh4Tm9YaVo5RVVNT18zbG5LZTJ0ckhGQjlONC1tWk9pT1dSTHI1bkxmcV84T3FhNXR0N1ZvSF9PZ3M1cDNkcDU1Q3Y?oc=5",
+      "original_publish_time": "2026-07-14T23:42:22+00:00",
+      "scraped_time": "2026-07-16T00:01:15.562542+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "footwear industry"
+      ],
+      "relevance_score": 6,
+      "summary": "Walk This Way: Inside Spain’s Booming Footwear Industry Monocle",
       "ren_take": "",
       "image_url": ""
     },
@@ -2869,212 +3075,6 @@
       ],
       "relevance_score": 3,
       "summary": "Name: New Balance Ohtani Energy Metal, New Balance Ohtani Energy Trainer, New Balance Minimus Training v2, Shohei x NB RCVRY SlideColorway: TBCSKU: MSHO7DQ, MMTR2U7, MSHO7QIMSRP: $159.99 USD, $119.99 USD, $134.99 USDRelease Date: Available nowWhere to Buy: New BalanceNew Balance has released \"The Ohtani Pack,\" a four-model footwear collection built to serve every phase of Shohei Ohtani's on-field and off-field routine. Developed in collaboration with the Los Angeles Dodgers two-way star and New Balance global ambassador, the series covers game-day performance, turf training, gym agility, and post-game recovery across four distinct silhouettes, each running on the brand's FuelCell cushioning platform (with one exception) and dressed in a shared white, blue, and red colorway. Every model in ",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "41844a6e3a47",
-      "title": "CFPs: Footwear Education and Training Grant Programme (UK) - fundsforNGOs",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTHllamhKQ1J6Uzhkd2hrTTZBUjRPRGZjU0ctRTlTXzdWRGloVHJNSlV2Uzl6Tjk4SEVBejZfQXRlbE15cnlPSC1lZVhSRUFkY3poc0xGSXp6Q0N3cVFibjNnSEprTHRlQUl6cjR3aHgzNGtaajQwNkxaLVpFYkVxN1VwYUEzRk1Sa1RnZW9JOGdEc2g4b0prWjVDSm9iNHlBdGZDMtIBpAFBVV95cUxNTHllamhKQ1J6Uzhkd2hrTTZBUjRPRGZjU0ctRTlTXzdWRGloVHJNSlV2Uzl6Tjk4SEVBejZfQXRlbE15cnlPSC1lZVhSRUFkY3poc0xGSXp6Q0N3cVFibjNnSEprTHRlQUl6cjR3aHgzNGtaajQwNkxaLVpFYkVxN1VwYUEzRk1Sa1RnZW9JOGdEc2g4b0prWjVDSm9iNHlBdGZDMg?oc=5",
-      "original_publish_time": "2026-07-09T06:26:08+00:00",
-      "scraped_time": "2026-07-09T13:50:21.997525+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "CFPs: Footwear Education and Training Grant Programme (UK) fundsforNGOs",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "698862554940",
-      "title": "Official Look at the Nike Air Jordan 1 Low “Mismatched Patent”",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/7/nike-air-jordan-1-low-mismatched-patent-ix3521-010-official-images",
-      "original_publish_time": "2026-07-09T06:16:11+00:00",
-      "scraped_time": "2026-07-09T13:50:11.069761+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Nike",
-        "Jordan"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 4,
-      "summary": "Name: Nike Air Jordan 1 Low “Mismatched Patent”Colorway: “Mismatched Patent”SKU: IX3521-010MSRP: $140 USDRelease Date: Fall 2026The Nike Air Jordan 1 Low SE \"Mismatched Patent\" breathes fresh energy into Michael Jordan’s inaugural 1985 signature silhouette by introducing a refreshing, multicolored asymmetrical design.Scheduled for a Fall 2026 release, this special edition low-top sneaker is anchored by a classic \"Black Toe\" execution and a crisp white base. The defining characteristic of the shoe is its playful, mismatched color-blocking, featuring vibrant hues of bright pink, green and blue distributed differently across the left and right pair. The heel panels echo this bold layout, arriving in a glossy, high-shine patent leather that creates a striking textural contrast against the smoo",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "38b72d3ef1ea",
-      "title": "Buying houses play vital role in Bangladesh&#039;s apparel exports and deserve greater recognition,” Mofazzal Hossain Pabel",
-      "source_name": "Textile Today",
-      "source_domain": "textiletoday.com.bd",
-      "source_url": "https://textiletoday.com.bd/buying-houses-BGBA-bangladesh-apparel-exports-greater-recognition-mofazzal-hossain-pabel",
-      "original_publish_time": "2026-07-09T05:31:00+00:00",
-      "scraped_time": "2026-07-09T13:53:57.511518+00:00",
-      "time_delta_mins": 0,
-      "category": "Trade Data",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "apparel exports"
-      ],
-      "relevance_score": 3,
-      "summary": "Garment buying houses have become an integral part of Bangladesh's apparel export ecosystem by securing international business, building buyer relationships and creating opportunities for local ma...",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "40f38d969923",
-      "title": "New Balance Blends Retro Track Style and Casual Elegance With the 204v Mary Jane",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/7/new-balance-204v-fan-blue-u204vcmv-neo-flame-u204vmcv-release-info",
-      "original_publish_time": "2026-07-09T05:08:02+00:00",
-      "scraped_time": "2026-07-10T00:08:08.802422+00:00",
-      "time_delta_mins": 0,
-      "category": "Quality",
-      "brands_mentioned": [
-        "New Balance"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Name: New Balance 204VColorway: Fan Blue/Vintage Indigo-Black, Neo Flame/Black-Black CementSKU: U204VCMV, U204VMCVMSRP: $120 USDRelease Date: July 8, 2026Where to Buy: New BalanceNew Balance is officially leaning into the slim sneaker movement with the announcement of the New Balance 204v Mary Jane. The Boston-based sportswear brand is ready to debut an updated, laceless variation of its low-profile 204 running platform, fusing mid-2000s track performance geometries with elements of contemporary casual footwear.The upcoming lifestyle model reimagines the traditional mesh runner layout by completely swapping out its standard lace-up infrastructure for a retro-inspired, single Velcro strap closure crossing over the bridge of the foot. Constructed with a highly breathable, open-gauge technica",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "06e9d39014f1",
-      "title": "CNCPTS and New Balance Unveil the 990v4 \"Patina\" With Vintage Travel Charm",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/7/cncpts-new-balance-990v4-patina-first-look",
-      "original_publish_time": "2026-07-09T04:24:43+00:00",
-      "scraped_time": "2026-07-09T18:48:05.983567+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [
-        "New Balance",
-        "Off-White"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 5,
-      "summary": "Summary Boston-based boutique CNCPTS has reunited with New Balance to introduce a travel-inspired iteration of the Made in USA 990v4The design blends textured off-white mesh with a rich palette of soft tan, dark brown, olive green, and deep burgundy panelsEach pair arrives housed inside a customized vintage suitcase-style box complete with co-branded travel stickers and luggage tags CNCPTS and New Balance are extending their historic collaborative partnership with the official unveiling of the CNCPTS x New Balance 990v4 \"Patina.\" Rooted in the concept of vintage exploration and the organic aging of heritage materials, the Boston-bred silhouette elevates the legendary Made in USA runner with an elegant lifestyle aesthetic.The upper swaps out traditional athletic finishes for a heavily layer",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "90882adc12de",
-      "title": "Nike Officially Unveils Ja Morant’s New Ja 4 \"Nightmare\"",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/7/nike-ja-4-nightmare-im4135-405-release-info",
-      "original_publish_time": "2026-07-09T04:00:18+00:00",
-      "scraped_time": "2026-07-09T18:48:05.986146+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Name: Nike Ja 4 \"Nightmare\"Colorway: Obsidian/Black-Voltage Green-Multi-ColorSKU: IM4135-405MSRP: $130 USDRelease Date: August 13, 2026Where to Buy: NikeNike has officially unveiled the Ja 4, marking the latest evolutionary step in Ja Morant’s signature footwear line. Built to amplify an explosive, quick-twitch on-court style of play, the fourth installment introduces an aggressive performance blueprint that pairs elite multi-directional security with a raw, uncompromising aesthetic designed for underdog hoopers at all levels of the game.The silhouette marks a significant functional advancement for the line, introducing a lightweight TPU frame that securely wraps around the foot. This structural containment matrix works directly alongside a hallmark vertical side Swoosh to ensure maximum l",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "9a9b10b5193b",
-      "title": "Vanessa Bryant Reveals Upcoming Nike Kobe Protro Colorways",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/7/vanessa-bryant-reveals-upcoming-nike-kobe-protro-colorways-philadelphia-eagles-disney-marvel-iron-man",
-      "original_publish_time": "2026-07-09T03:15:05+00:00",
-      "scraped_time": "2026-07-09T13:50:11.040756+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "Summary Vanessa Bryant took to social media to showcase an expansive look at several unreleased Nike Kobe Protro sneakersThe multi-model reveal features fresh storytelling concepts across the signature Kobe 5, Kobe 6, and Kobe 9 silhouettesWhile some pairs may remain exclusive to the Bryant family and select athletes, the lineup signals an expansive future for the performance line The Nike Kobe Protro collection is entering an expressive new era following a surprise social media reveal. Vanessa Bryant took to her Instagram stories to preview a massive lineup of unreleased colorways across the late Black Mamba’s signature line, showcasing unique storytelling themes spanning multiple silhouette generations.The private showcase introduces imaginative concepts to the performance basketball lin",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "c6c0197347de",
-      "title": "adidas Dame X Fall 2026 Preview",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/07/08/adidas-dame-x-fall-2026-preview/",
-      "original_publish_time": "2026-07-08T22:00:51+00:00",
-      "scraped_time": "2026-07-09T00:14:30.783870+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Adidas",
-        "Puma"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 4,
-      "summary": "The new-look Portland Trail Blazers have one of the most stacked backcourts in basketball when it comes to signature shoes. PUMA athlete Scoot Henderson is... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post adidas Dame X Fall 2026 Preview appeared first on Sneaker News . The post adidas Dame X Fall 2026 Preview appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "91a1fd07d00b",
-      "title": "Nike’s Foamposite Inspired Tennis Shoe, The Vapor X Posite, Returns This Fall",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/07/08/nike-zoom-vapor-x-posite-foamposite-tennis-shoes/",
-      "original_publish_time": "2026-07-08T21:14:57+00:00",
-      "scraped_time": "2026-07-09T00:14:30.815511+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "The Nike Vapor X Posite is getting a second chance. Ths basketball-meets-tennis hybrid model boldly combined the iconic molded upper of the Air Foamposite One... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike's Foamposite Inspired Tennis Shoe, The Vapor X Posite, Returns This Fall appeared first on Sneaker News . The post Nike’s Foamposite Inspired Tennis Shoe, The Vapor X Posite, Returns This Fall appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "0a7a30bdabd0",
-      "title": "Your Feet Deserve Slutty Little Sandals",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/flip-flops-rope-sandals/",
-      "original_publish_time": "2026-07-08T20:55:00+00:00",
-      "scraped_time": "2026-07-09T00:18:20.713692+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "sandal",
-        "shoes"
-      ],
-      "relevance_score": 4,
-      "summary": "There's a new max-minimal sandal on the rise at Celine, Miu Miu, and Xero Shoes that somehow makes the Havaianas flip-flop look conservative.",
       "ren_take": "",
       "image_url": ""
     }
