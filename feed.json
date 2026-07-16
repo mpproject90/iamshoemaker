@@ -1,8 +1,129 @@
 {
-  "last_updated": "2026-07-16T07:23:14.704377+00:00",
+  "last_updated": "2026-07-16T12:31:07.777138+00:00",
   "total_articles": 150,
   "sources_checked": 62,
   "articles": [
+    {
+      "id": "7ce78a565d08",
+      "title": "What are the top running shoes & brands? A buyer's guide for runners - Savannah Morning News",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUHlQZVZiT0xndHkyelFrM0l5ZFRpeFhsUjNPMzFhVGNnSjNIMWlfLVJ0Tk9rYnF3djdVZDdfUnpSd0VlVGRNMGhCVXpuc2hEcmtRY2VkTkV0aDN2QnJZb3NTRUZadm95SWZYVlJ3TTd3eDJoUURmMDhrX2hQOGpKTk9Lb3F2cFlWWE42QjR3WW0zVWxRbmp0SlhoSkdfUnJXckFYd3g0dGdaOHFIanZIMHMzek95Q3c?oc=5",
+      "original_publish_time": "2026-07-16T12:02:00+00:00",
+      "scraped_time": "2026-07-16T12:20:23.075479+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "What are the top running shoes & brands? A buyer's guide for runners Savannah Morning News",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "b9e7829950ae",
+      "title": "Meridian Footwear Is Using 3D Technology to Fuel Interest in Made-in-America Shoe Production",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/meridian-footwear-factory-mississipi-reshoring-made-in-usa-1239067107/",
+      "original_publish_time": "2026-07-16T11:47:57+00:00",
+      "scraped_time": "2026-07-16T12:20:00.589296+00:00",
+      "time_delta_mins": 0,
+      "category": "Manufacturing",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "The company currently operates one factory in Mississippi and has plans to expand.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "daa27e07c576",
+      "title": "Salehe Bembury PUMA NITRO Velum 2 First Look",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/7/salehe-bembury-puma-nitro-velum-2-collaboration-first-look",
+      "original_publish_time": "2026-07-16T10:07:19+00:00",
+      "scraped_time": "2026-07-16T12:20:11.172204+00:00",
+      "time_delta_mins": 0,
+      "category": "Trade Data",
+      "brands_mentioned": [
+        "Puma"
+      ],
+      "keywords_matched": [
+        "midsole",
+        "sole",
+        "upper"
+      ],
+      "relevance_score": 5,
+      "summary": "Name: Salehe Bembury PUMA NITRO Velum 2SKU: TBCRelease Date: TBCSalehe Bembury has teased the upcoming PUMA NITRO Velum 2 on Instagram, offering a first look at the sequel to his debut Velum silhouette. The image highlights the sneaker’s sculptural upper, built with metallic silver synthetic overlays and breathable mesh windows arranged in fluid, wavy lines.The layered construction emphasizes movement while maintaining a futuristic edge, with black detailing along the lace panels and logos providing contrast. A textured yellow midsole anchors the design, adding energy and visual depth to the streamlined runner. While official release details remain unconfirmed, the previewed silhouette appears to be complete, which could mean that the launch is expected soon. Click here to view full galler",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "9cd7119233b7",
+      "title": "Take a First Look at the Nike Vomero Plus “Cheat Day”",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/7/nike-vomero-plus-cheat-day-first-look",
+      "original_publish_time": "2026-07-16T09:41:59+00:00",
+      "scraped_time": "2026-07-16T12:20:11.174196+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "Name: Nike Vomero Plus “Cheat Day”SKU: TBCRelease Date: TBCNike has unveiled the first look at the Vomero Plus “Cheat Day”, a playful reinterpretation of the performance‑driven runner. Inspired by the finger‑staining allure of Cheetos, the sneaker pairs humor with technical precision, positioning itself as both collectible and functional.The upper is constructed from lightweight, breathable mesh in cream and sail tones, serving as a neutral backdrop for the vibrant orange gradient that dominates the toe. Complementary details include orange lace tips and a matching heel tab, echoing the striking forefoot finish and reinforcing the snack‑inspired theme. Click here to view full gallery at Hypebeast",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "53183e953265",
+      "title": "Amfori launches review after fatal shoe factory fire",
+      "source_name": "Ecotextile News",
+      "source_domain": "ecotextile.com",
+      "source_url": "https://www.ecotextile.com/2026071664124/news/social-compliance-and-csr/amfori-launches-review-after-fatal-shoe-factory-fire/",
+      "original_publish_time": "2026-07-16T09:28:37+00:00",
+      "scraped_time": "2026-07-16T12:22:16.072373+00:00",
+      "time_delta_mins": 0,
+      "category": "Quality",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoe factory"
+      ],
+      "relevance_score": 3,
+      "summary": "Amfori has begun a formal review of its social auditing records after a deadly fire at a Chinese shoe factory […] The post Amfori launches review after fatal shoe factory fire appeared first on Ecotextile News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "68bb9e164029",
+      "title": "The Sony Playstation 6 Might Be a Handheld Digital Console",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/7/sony-playstation-6-rumored-as-handheld-digital-console",
+      "original_publish_time": "2026-07-16T07:37:52+00:00",
+      "scraped_time": "2026-07-16T12:20:11.178306+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "hide",
+        "sole"
+      ],
+      "relevance_score": 5,
+      "summary": "Summary Sony Interactive Entertainment CEO Hideaki Nishino signaled a major strategy shift during a recent investor meeting by emphasizing gaming \"beyond the living room\" and transitioning to a \"true digital platform business/\"The executive's comments coupled with a recent decision to phase out physical game discs suggest the upcoming PlayStation 6 will likely be designed as a handheld or hybrid device similar to the Nintendo Switch.Future hardware is expected to prioritize digital distribution through the PlayStation Store while maintaining backward compatibility for digital PS4 and PS5 libraries. Sony's hardware future is coming into sharp focus following remarks by CEO Hideaki Nishino at a recent business meeting. The executive positioned the PlayStation Portal as a precursor to a \"beyo",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "9e71a79ad834",
       "title": "First Look at the Reebok Premier Ultra Mule SS27 Colorways",
@@ -2953,127 +3074,6 @@
       ],
       "relevance_score": 3,
       "summary": "Drapers The future of footwear according to Vivobarefoot co-founder Asher Clark Fresh from taking home two trophies at Drapers Footwear Awards 2026, Vivobarefoot co-founder Asher Clark discusses regenerative design, natural movement and why the future of footwear should be made to measure. The post The future of footwear according to Vivobarefoot co-founder Asher Clark appeared first on Drapers .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "dc56bc82e598",
-      "title": "28 killed in factory blaze in the heart of Chinese shoe manufacturing hub - South China Morning Post",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWUFnaldZZHFZTk1YV2s0eHJiMm9xTEhScGRmZXVxNHBQc0RGREhxSVJWNnFMbnlYalVsNnA2enlTNjYyVVptUEF2cEkycGptYmZZUWhoS2gwSjRGV2gtUVZ1M0RiZjRla0xxR3U3bFd1UDVvanRNcHJ1anJhUk1UMUhzLTc5NF9ZeVl2VWlhWTVWaDRWTVBTZ2xHRVBydnF1czdXWUNmT1BvaTRBYkUyalp4OU1XaVl10gG4AUFVX3lxTFBlZHVnZF9mS182c0NVd3pfdVcxcU9VODBkdXYtcnhSelQ0SEtaci1DMjNMZ01KaGxNUnFTNE02R0VILTVEZTlqdnd1T1QzV0lTeVU1VzBqaHA1SUMxR3B2eXp6N2ZmbXZlLW9CM2NBSFlvMk1oU0p3VldGUVQxd0hZMHFQNDBTYzVKcWhsVXlmY1E3cVZYZkVYUUlsQ1hkc2MxMXZxclhleE5yY09hWldpV05CMEV6T1E?oc=5",
-      "original_publish_time": "2026-07-09T13:47:32+00:00",
-      "scraped_time": "2026-07-09T18:48:16.801862+00:00",
-      "time_delta_mins": 0,
-      "category": "Manufacturing",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoe manufacturing"
-      ],
-      "relevance_score": 3,
-      "summary": "28 killed in factory blaze in the heart of Chinese shoe manufacturing hub South China Morning Post",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "c48cf5527639",
-      "title": "How 3D Printing Is Changing The Footwear Industry - Programming Insider",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUlpJczNvbWV5Rm9jekpzYTlCTHdOWEJBUV9qRDNicDNUQ19qbHhwRzBDRVY0T0Q5WmpjLUxSRzdfcXhtQWFrWlN1LXRCX3hXVTc4cnN4em9yY2dHaUNaN0NOMWxyazhvVzNoNmxVa2FzeUViUjNJdkEwLUgwQ0NmYUxOMUtjMXF3?oc=5",
-      "original_publish_time": "2026-07-09T12:19:52+00:00",
-      "scraped_time": "2026-07-09T18:48:16.802577+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "footwear industry"
-      ],
-      "relevance_score": 6,
-      "summary": "How 3D Printing Is Changing The Footwear Industry Programming Insider",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "fb7d320b2c2f",
-      "title": "Camper and ISSEY MIYAKE Elevate the Slip-On Mule In Their First Footwear Collab",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/7/camper-issey-miyake-peu-form-footwear-collaboration-release-info",
-      "original_publish_time": "2026-07-09T10:05:09+00:00",
-      "scraped_time": "2026-07-09T13:50:11.059339+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "boot",
-        "footwear"
-      ],
-      "relevance_score": 4,
-      "summary": "Name: Camper x ISSEY MIYAKE Peu FormMSRP: TBCRelease Date: July 15Where to Buy: Camper, ISSEY MIYAKECamper and ISSEY MIYAKE have joined forces to debut Peu Form, their inaugural footwear collaboration. Designed by ISSEY MIYAKE's Satoshi Kondo for FW26, the collab draws inspiration from the Japanese house's foundational \"a piece of cloth\" concept, reimagining Camper’s iconic Peu silhouette by exploring how a single piece of material can organically wrap and drape around the human foot.The resulting shoe boasts an appearance that is both organic and fluid, balancing originality with functionality. Designed to adapt to the wearer with an unstructured, collapsible construction, Peu Form primarily arrives in two styles: a versatile shoe that can be worn as a mule, and an ankle boot that envelop",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "34a9e5a43476",
-      "title": "Xi makes instructions on shoe factory fire in east China; blaze reportedly causes major casualties - Global Times",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBZWkpsLXhuUXNhdmZjZHh5R3Vwdzc1WklUejNIT3oxSlpuU3p4RDUwa0xzbVBWV3Y5cWFla2VCZGZJZ215ekZ5Q2Rjb0R6MzZCeWZKMXExcFV1dHJrdU5kOU9R?oc=5",
-      "original_publish_time": "2026-07-09T10:00:00+00:00",
-      "scraped_time": "2026-07-09T18:48:16.805100+00:00",
-      "time_delta_mins": 0,
-      "category": "Manufacturing",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoe factory"
-      ],
-      "relevance_score": 3,
-      "summary": "Xi makes instructions on shoe factory fire in east China; blaze reportedly causes major casualties Global Times",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "23dc0b1247f8",
-      "title": "The Nike Air Rift Receives an Icy “Celestine Blue” Treatment",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/7/nike-air-rift-celestine-blue-celestine-blue-blur-pear-mystic-dates-iv5739-441-release-info",
-      "original_publish_time": "2026-07-09T09:47:22+00:00",
-      "scraped_time": "2026-07-09T13:50:11.061444+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "sandal",
-        "upper"
-      ],
-      "relevance_score": 4,
-      "summary": "Name: Nike Air Rift “Celestine Blue”Colorway: Celestine Blue/Celestine Blue/Blur Pear-Mystic DatesSKU: IV5739-441MSRP: ￥17,050 JPY (approx. $105 USD)Release Date: Available NowWhere to Buy: NikeNike welcomes a fresh new colorway for the Air Rift silhouette this summer, coming in a breezy “Celestine Blue.” Exclusively available in women's sizing, the sneaker-sandal hybrid retains its signature split-toe design, originally engineered to mimic the natural motion of barefoot runners.For this iteration, the upper is constructed from premium full-grain leather, entirely bathed in a soft, refreshing \"Celestine Blue\" hue that highlights the shoe's distinct, rounded paneling. Elevating the design, the quarters are embellished with tonal stitching that injects a touch of whimsy into the design. \"Haz",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "83b30de182f2",
-      "title": "7 Times Nike Referenced a Horror Franchise on a Sneaker",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/7/7-nike-horror-franchise-unofficial-collaboration-sneakers-list-freddy-krueger-jason-voorhees-ghostface",
-      "original_publish_time": "2026-07-09T08:23:27+00:00",
-      "scraped_time": "2026-07-09T13:50:11.057142+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "It’s hard to believe Nike has been making horror-movie inspired sneakers for almost 20 years. Throughout the two decades, they’ve mined the iconography of slasher and monster films to sneak elements of their visuals into color schemes, materials and tiny details without explicitly working with any specific studios for official collaborations. No franchise logos on the tongue. No studio credits on the box. Only the skill of sneaker designers.It began in 2007, with a three-shoe pack of two Dunks and an Air Trainer 1 that almost halted the entire process before it got off the ground. New Line Cinema had issued cease-and-desist orders against a Freddy Krueger-themed release, transforming a potential fun holiday shoe release into one of the most legendary moments in sneaker lore. But Nike persi",
       "ren_take": "",
       "image_url": ""
     }
