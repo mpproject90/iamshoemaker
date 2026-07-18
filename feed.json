@@ -1,8 +1,29 @@
 {
-  "last_updated": "2026-07-18T00:06:46.680637+00:00",
-  "total_articles": 118,
-  "sources_checked": 60,
+  "last_updated": "2026-07-18T07:11:28.829360+00:00",
+  "total_articles": 119,
+  "sources_checked": 76,
   "articles": [
+    {
+      "id": "185c87eb14bf",
+      "title": "Birkenstock’s Balletcore Era Has Officially Begun",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/birkenstock-repetto-opera/",
+      "original_publish_time": "2026-07-18T04:06:00+00:00",
+      "scraped_time": "2026-07-18T06:56:41.526055+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Birkenstock"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Birkenstock’s Repetto Opéra puts a balletcore spin on the brand’s comfort-first DNA, with wraparound laces and a more graceful take on everyday footwear.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "c945e3b60a81",
       "title": "DJ Khaled Talks Snipes’ Back-to-school Campaign, His Favorite Sneakers of 2026 and More",
@@ -266,6 +287,27 @@
       ],
       "relevance_score": 3,
       "summary": "Why is every sneaker brand suddenly dropping ‘water shoes’? British GQ",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "2afd5e86a37a",
+      "title": "The Nike Air Max Plus “Lava Lamp” Receives a “Smoke Grey” Variant",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/7/nike-air-max-plus-lava-lamp-smoke-grey-colorway-ih7960-002-official-images",
+      "original_publish_time": "2026-07-17T10:47:45+00:00",
+      "scraped_time": "2026-07-18T06:50:52.263779+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "Name: Nike Air Max Plus “Lava Lamp/Smoke Grey”Colorway: Lava Lamp/GreySKU: IH7960-002MSRP: $200 USDRelease Date: 2026Official images of Nike's Air Max Plus “Lava Lamp\" in a grey palette have surfaced, showcasing a bold reinterpretation of the classic silhouette. The upper features a smoke grey mesh base overlaid with the signature TPU cage, which is finished in a multi‑color iridescent effect reminiscent of a lava lamp. This dynamic treatment shifts between vibrant hues, creating a fluid, glowing aesthetic across the shoe’s profile. Black accents on the tongue, laces, and lining provide contrast, while reflective detailing enhances visibility and adds a modern edge.Beneath the eye-catching upper, this iteration of the Air Max Plus is anchored by Nike's legendary Tuned Air cushioning techno",
       "ren_take": "",
       "image_url": ""
     },
@@ -2417,25 +2459,6 @@
       "keywords_matched": [],
       "relevance_score": 4,
       "summary": "Nike SB Code 58 returns in a timeless new colorway, blending vintage basketball influences with skate-ready design.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "c87456b4f51c",
-      "title": "28 killed in shoe factory fire in China - World Socialist Web Site",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8wTnpGZjRhWmhKMEZtbHNtc3h4SjBmSEZCVmkycHNOS2N0NTMxOEpieFZuWElISDMyR1VYeUJabktWazhmUVdLaVA0Z3lNRFdwdnMxVGRtWm1iZnkyVGdadE9yS2w1cmRS?oc=5",
-      "original_publish_time": "2026-07-11T04:23:48+00:00",
-      "scraped_time": "2026-07-11T07:03:06.862774+00:00",
-      "time_delta_mins": 0,
-      "category": "Manufacturing",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoe factory"
-      ],
-      "relevance_score": 3,
-      "summary": "28 killed in shoe factory fire in China World Socialist Web Site",
       "ren_take": "",
       "image_url": ""
     }
