@@ -1,8 +1,29 @@
 {
-  "last_updated": "2026-07-18T07:11:28.829360+00:00",
+  "last_updated": "2026-07-18T12:04:00.013847+00:00",
   "total_articles": 119,
-  "sources_checked": 76,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "f834d39c2a80",
+      "title": "Crocs Appoints Kumar Harshit as Commercial Director for India",
+      "source_name": "Apparel Resources",
+      "source_domain": "apparelresources.com",
+      "source_url": "https://apparelresources.com/business-news/retail/crocs-appoints-kumar-harshit-commercial-director-india/",
+      "original_publish_time": "2026-07-18T08:07:42+00:00",
+      "scraped_time": "2026-07-18T11:56:58.159654+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Crocs"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Footwear brand Crocs has appointed Kumar Harshit as Commercial Director Retail & Wholesale for its India operations. In his new position, Harshit will lead Crocs’ retail and wholesale business across the country, taking full responsibility for the profitability of its offline operations. He will oversee company-operated stores, franchise and partner-led outlets, as well as wholesale […] The post Crocs Appoints Kumar Harshit as Commercial Director for India appeared first on Apparel Resources .",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "185c87eb14bf",
       "title": "Birkenstock’s Balletcore Era Has Officially Begun",
@@ -2440,25 +2461,6 @@
       ],
       "relevance_score": 3,
       "summary": "adidas' chrome-coated Samba sneaker wears a fully-fur upper that shouldn't work but somehow just does.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "80d6bdbad649",
-      "title": "Nike’s Skate Classic Finds Beauty in the Basics",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-sb-code-58/",
-      "original_publish_time": "2026-07-11T09:29:00+00:00",
-      "scraped_time": "2026-07-11T11:56:42.671741+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 4,
-      "summary": "Nike SB Code 58 returns in a timeless new colorway, blending vintage basketball influences with skate-ready design.",
       "ren_take": "",
       "image_url": ""
     }
