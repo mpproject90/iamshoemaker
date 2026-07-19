@@ -1,6 +1,107 @@
 {
-  "last_updated": "2026-07-12T09:53:15.366898+00:00",
+  "last_updated": "2026-07-19T09:54:23.262576+00:00",
   "bulletins": [
+    {
+      "id": "wk29-2026",
+      "week_number": 29,
+      "year": 2026,
+      "date_from": "2026-07-13",
+      "date_to": "2026-07-19",
+      "published": "2026-07-19T09:54:23.261968+00:00",
+      "intro": "Week 29 arrives with the market split between two frequencies: the design cycle running hot with collaborations stacking up across Timberland, Dr. Martens, Camper, and Reebok's SS27 preview, while the commercial floor tells a quieter, more consequential story — back-to-school is consolidating around low-profile silhouettes and Wolverine Worldwide's Q1 numbers are still being dissected for what they signal about mid-tier brand health. The collaboration economy is not slowing, but it is maturing; the brands winning are the ones treating it as a distribution and cultural-relevance instrument, not a design shortcut. Watch the BTS data closely — two-thirds of July-August footwear revenue in sneakers means every sourcing decision made in Q4 2025 is being tested at retail right now.",
+      "articles": [
+        {
+          "title": "Even Asics Is Making Flat-Soled Sneakers Now - GQ",
+          "source_name": "Google News - Sneaker Brand",
+          "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9yYTJqOTdnaU9VREprdTZNNi0zQ2JWY2taWGhJNDBRZ2hLdmFrcDA4X2FRX0tyd3lzeHJKYW40MUtzZ2IzSFB3TjBfWmpQQkZHLVYyWTRlQ19JTFRIbzBqd1JR?oc=5",
+          "category": "Retail",
+          "relevance_score": 8,
+          "original_publish_time": "2026-07-16T19:20:24+00:00",
+          "misaki_take": "When a performance-heritage brand built on cushioning technology deliberately flattens its midsole stack, it is not abandoning its DNA — it is chasing the lifestyle margin that has been compressing its wholesale positioning for three years. The mold and last investment required to pivot a silhouette like this is non-trivial, which tells you Asics' product team has conviction that the low-profile trend has enough runway to justify the tooling cost."
+        },
+        {
+          "title": "Timberland and Jacquemus Are Back Together Again on Blue Lug Sole Boat Shoes",
+          "source_name": "Footwear News",
+          "source_url": "https://wwd.com/footwear-news/shoe-industry-news/jacquemus-timberland-lagoon-blue-lug-sole-boat-shoes-1239067544/",
+          "category": "Retail",
+          "relevance_score": 8,
+          "original_publish_time": "2026-07-15T20:32:32+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "Camper and ISSEY MIYAKE Reimagine the Sock Boot With Anna",
+          "source_name": "Hypebeast",
+          "source_url": "https://hypebeast.com/2026/7/camper-issey-miyake-anna-footwear-collaboration-release-info",
+          "category": "Leather",
+          "relevance_score": 8,
+          "original_publish_time": "2026-07-12T11:31:24+00:00",
+          "misaki_take": "Sculptural footwear collaborations with Japanese fashion houses almost always live or die on the upper construction complexity, and a sock-boot format with a pointed last means Camper is absorbing significant pattern-making and lasting difficulty at their factory level. The commercial volume on this will be limited, but the material and construction methodology that comes out of this development cycle often feeds into mainline production efficiencies two seasons later."
+        },
+        {
+          "title": "How This ‘Shocked’ Designer Found Out Beyoncé Wore the Jimmy Choo x Timberland Boots She Helped Create",
+          "source_name": "Footwear News",
+          "source_url": "https://wwd.com/footwear-news/shoe-trends/shanel-campbell-beyonce-jimmy-choo-timberland-boots-1239069256/",
+          "category": "Retail",
+          "relevance_score": 7,
+          "original_publish_time": "2026-07-17T20:44:14+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "Low-profile Sneakers and Running-inspired Shoes to Dominate Back-to-school Shopping This Year",
+          "source_name": "Footwear News",
+          "source_url": "https://wwd.com/footwear-news/shoe-industry-news/back-to-school-shopping-low-profile-sneakers-running-shoes-1239074310/",
+          "category": "Retail",
+          "relevance_score": 7,
+          "original_publish_time": "2026-07-17T20:29:10+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "Dr. Martens Collaborates With VERDY’s Wasted Youth for a Footwear Collaboration",
+          "source_name": "Hypebeast",
+          "source_url": "https://hypebeast.com/2026/7/dr-martens-verdy-wasted-youth-penton-loafer-collaboration-release-info",
+          "category": "Leather",
+          "relevance_score": 7,
+          "original_publish_time": "2026-07-17T09:32:54+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "First Look at the Reebok Premier Ultra Mule SS27 Colorways",
+          "source_name": "Hypebeast",
+          "source_url": "https://hypebeast.com/2026/7/reebok-premier-ultra-mule-ss27-colorways-first-look",
+          "category": "Retail",
+          "relevance_score": 7,
+          "original_publish_time": "2026-07-16T06:04:14+00:00",
+          "misaki_take": "A SS27 silhouette preview in July 2026 is roughly on a standard 12-to-18-month development calendar, which means tooling decisions for this mule are already locked or nearly so — the colorway reveal is a market-testing exercise dressed as a product announcement. Open-back constructions have a deceptively narrow fit tolerance window, and Reebok's ability to scale the Premier Ultra Mule will depend entirely on whether they have solved the heel retention problem that sinks most performance-to-casual mule conversions at retail."
+        },
+        {
+          "title": "Shohei Ohtani's Game-Used New Balance Ohtani 1 Shoes Hits the Auction Block",
+          "source_name": "Hypebeast",
+          "source_url": "https://hypebeast.com/2026/7/shohei-ohtanis-game-used-new-balance-ohtani-1-shoes-mlb-tokyo-series-2025-the-realest-auction",
+          "category": "Supply Chain",
+          "relevance_score": 7,
+          "original_publish_time": "2026-07-14T18:58:14+00:00",
+          "misaki_take": "Game-used athlete footwear auctions are a brand equity instrument, not a revenue event, and New Balance benefits from the Ohtani 1 being publicly authenticated and valued in a high-visibility marketplace without spending a dollar on it. The deeper story is the custom player exclusive construction — the infield dirt and personal kanji detailing signal a level of athlete-spec investment from New Balance that is functionally a long-term contract signal dressed as a collectible."
+        },
+        {
+          "title": "From Salomon to adidas, Browse This Week’s Best Sneaker Releases",
+          "source_name": "Highsnobiety",
+          "source_url": "https://www.highsnobiety.com/p/sneaker-releases-2026-july-week-2/",
+          "category": "Retail",
+          "relevance_score": 7,
+          "original_publish_time": "2026-07-14T15:07:50+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "Unpacking Q1 Earnings: Wolverine Worldwide (NYSE:WWW) In The Context Of Other Consumer Discretionary - Footwear Stocks - StockStory",
+          "source_name": "Google News - Footwear Industry",
+          "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNNERKSUdrM2JuRnhCcS1OUjJHWWt2QmhEWngzVS1YQWczaFhLZXVDdWlqU1REOEFMSGlfMFVkTGs5UGxLZ29KQVpCZnNnb0NuRDZ4aThDeldqOGNXOFY0bTBiQ1MwWDktaTItM0pUUGJsczdNcFZpdW1QSGZEcVJ6Q0Y4RXZEMC15ZXBBZU4xTVRoVUFCcXRGTnR3UGtKUXRaRUVXRXQtVE9Ibzk2alIwWmRGZWRidnQza1MtLV94NnFFN1VKRTlWbHp2YVRqbG1lYTdQd0dSS0ZIYjZzd3BzaWxyRHZPS0dWbVA3Qml6dTVBT2ZDVTNYSEtMRHQ?oc=5",
+          "category": "Brand News",
+          "relevance_score": 7,
+          "original_publish_time": "2026-07-14T07:00:00+00:00",
+          "misaki_take": "Wolverine Worldwide's Q1 performance read in context with peer consumer discretionary footwear stocks is a referendum on the mid-tier brand portfolio model — the question has been whether Merrell and Saucony can carry enough margin to offset Wolverine's structural overhead while the company continues its multi-year brand rationalization. Any FOB or sourcing renegotiation leverage Wolverine has with factories in Vietnam and Cambodia is directly indexed to their inventory trajectory, and if turns are still sluggish, expect to see order consolidation and factory partner reduction before year-end."
+        }
+      ]
+    },
     {
       "id": "wk28-2026",
       "week_number": 28,
@@ -907,107 +1008,6 @@
           "relevance_score": 6,
           "original_publish_time": "2026-05-13T07:16:00+00:00",
           "misaki_take": "When a sourcing-adjacent industry event starts generating editorial attention for its format rather than just its exhibitor list, it means the organizers have figured out that buyers and brands are fatigued with the traditional trade show model and are willing to engage differently — Vietnam is smart to cultivate this because soft influence on sourcing relationships matters enormously when FOB differentials between Vietnam and its competitors are narrowing. For any sourcing director who skipped FXPO this year, the question worth asking is whether you just missed the room where the next generation of Vietnamese factory leadership was building the relationships that will shape your 2028 capacity options."
-        }
-      ]
-    },
-    {
-      "id": "wk19-2026",
-      "week_number": 19,
-      "year": 2026,
-      "date_from": "2026-05-04",
-      "date_to": "2026-05-10",
-      "published": "2026-05-10T09:41:03.865566+00:00",
-      "intro": "Week 19 arrives with a familiar tension: headline revenue growth masking structural fragility. US Q1 footwear numbers look passable until you read that the lift is coming from price increases, not unit volume — and Agra's exporters are being squeezed from two directions simultaneously. The industry is not in crisis, but the margin architecture is quietly deteriorating.",
-      "articles": [
-        {
-          "title": "Vans Covers One of Its Classic Sneakers Entirely in Denim — Midsole and All",
-          "source_name": "Footwear News",
-          "source_url": "https://wwd.com/footwear-news/sneaker-news/vans-authentic-denim-pack-release-date-1238944422/",
-          "category": "Retail",
-          "relevance_score": 11,
-          "original_publish_time": "2026-05-06T15:23:10+00:00",
-          "misaki_take": ""
-        },
-        {
-          "title": "Agra’s footwear industry, one of India’s biggest export hubs, is facing a double blow. The city exports shoes worth ₹3,000-4,000 crore annually, largely to the US and Europe. But in recent months, exporters have been hit by rising US tariffs and now the conflict - LinkedIn",
-          "source_name": "Google News - Footwear Industry",
-          "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQemNXTEF3N21NRTdJSnZSYnBLV1BmWUhWX1BRZ1NJNFRjZ2FsdjRGUFMzd2w5WDl4c0YwVV9BNmF0UTR6LUpKd2s2ZVJFMHFwaGlYamhrWFRvaEdUNWxid01nWlBEZVMyN1VyZnlnOF9YRkdELUhKc1BrN0xuZFpFVHBrb21GcndUYkc4SEpvUUNmMko1M2VCMVdPNTNtQ1kwYzVYNWx0bE5idVFUVXYyYUVB?oc=5",
-          "category": "Trade Data",
-          "relevance_score": 9,
-          "original_publish_time": "2026-05-08T15:51:56+00:00",
-          "misaki_take": ""
-        },
-        {
-          "title": "North America Footwear Industry Analysis: Consumer Trends, Innovation, and Competitive Benchmarking - openPR.com",
-          "source_name": "Google News - Footwear Industry",
-          "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaHl6QjBCTDlxLWs2eEJsaWxwZUJLMGZ2UXFFZVJDR2dHZ0JMNTJOWG1mVlB4UVJOWGhoOWxlVk5pRFNHZlpNaFBrbHd5QUxkSFZncXhMVGs5MHVuVTl4ZDhCcDdWbHZEbDNrTGVQNENFSDVnbjloRzdselhLUU5JZW1CbzhiRDdLN2hlcU9sOUE5bFJyQnpF?oc=5",
-          "category": "Retail",
-          "relevance_score": 6,
-          "original_publish_time": "2026-05-08T18:03:10+00:00",
-          "misaki_take": "Market research reports released via press wire services rarely contain actionable intelligence that isn't already visible in sell-through data and retail traffic numbers from the prior quarter. The timing of this release — amid a pricing-driven growth narrative — suggests vendors are positioning for budget cycles, not breaking news."
-        },
-        {
-          "title": "Public School NY's Bespoke Boots Are Timbs at Their Toughest",
-          "source_name": "Hypebeast",
-          "source_url": "https://hypebeast.com/2026/5/public-school-ny-timberland-custom-nickel-copper-toe-met-gala-info",
-          "category": "Leather",
-          "relevance_score": 6,
-          "original_publish_time": "2026-05-07T17:55:51+00:00",
-          "misaki_take": "Timberland's 'The Shed' placement at the Met Gala is a deliberate repositioning signal — nickel-plated copper toe guards and stacked midsoles on a bespoke commission are the brand speaking directly to the luxury trade and fashion press without touching their core SKU economics. The risk is the same one heritage workwear brands always face when they play in fashion spaces: the core wholesale customer watches and recalibrates their perception of where the brand sits on the value ladder."
-        },
-        {
-          "title": "West Asia war, soaring input costs push Agra footwear industry into crisis - CNBC TV18",
-          "source_name": "Google News - Footwear Industry",
-          "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPLVMwdFVQTldWUXF1aElyS1hINGpqcjFGOE53Zkh2emRmZ3hrWmpwaFBrX2tnOTVxcVY2a09KRVBRMDZQc05xRVhzY0lWUzIzRkt1S2dXS3JHVGhGeDNyUzdscWp3clFqN2JpYVlFalhDcUMxOWlJREQ4VHJMdE92ZWRwX3djclQ2NE9BVWhiWmY1cEJuTmN4ZGRpRFNZbHVQd3R5dnN3eVdUakFTblRxM3hnWVV5TERDNUdvWVB0eGFBWTFSX0FtT2N6RdIB0AFBVV95cUxQcWJzNE56NTNMRmtiOHU4Z3pvbE8teFU1Z3NYSG5ySF9VY05hME5ucFEwQ2JDQzR4RGVybGZfMERXOS0xa3E4bklsZmpxMW9IVFY5VUpLNkJGMVlhc1g4eDZoYWMzV2lSM294U2R5YjRGU2t1WnNJWFNnNGhoSDJYanlrNVU2VmpPSkZUalA5bWpDQ3BzcVoySHdXZnZOYTdPZ2xrUVlXZUotTWJXQ1FfUjRxS3dLbktJaVg3Wm5zaU1uc2QxYTlaNTZEcHhHOVZp?oc=5",
-          "category": "Retail",
-          "relevance_score": 6,
-          "original_publish_time": "2026-05-07T16:59:06+00:00",
-          "misaki_take": "The West Asia conflict is disrupting leather chemical and auxiliary supply chains that run through Gulf transit hubs, compounding the raw hide price pressure that Agra tanners were already managing before the tariff situation materialized. Brands sourcing finished leather goods from Agra vendors should be requesting written confirmation of inventory buffers and alternative chemistry sourcing before signing off on any Q3 or Q4 purchase orders."
-        },
-        {
-          "title": "First Look at Action Bronson’s New Balance 1890 “Planet Frog”",
-          "source_name": "Hypebeast",
-          "source_url": "https://hypebeast.com/2026/5/action-bronson-new-balance-1890-planet-frog-first-look",
-          "category": "Leather",
-          "relevance_score": 6,
-          "original_publish_time": "2026-05-06T08:32:20+00:00",
-          "misaki_take": ""
-        },
-        {
-          "title": "Mirziyoyev Reviews Leather and Footwear Industry Growth Plan - UzDaily.uz",
-          "source_name": "Google News - Footwear Industry",
-          "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRUdPV3otWGI1VkJEN3p3cXdtQUhuUmt2N3NweDNFVEZoTFRKODZBLVJ2SVVSeGt2SHpkd01kV3RTbkI2Qi1IUXN2cVhWY0ViQkd2dmt0eWp5SjdqNWFhVDNWcDl4WUpDTGo5WVg1eXhyWmJvQjNBbjJvTnp2RjhidTg2N0k3RmFxa2xBTld1aG4?oc=5",
-          "category": "Leather",
-          "relevance_score": 6,
-          "original_publish_time": "2026-05-05T12:44:00+00:00",
-          "misaki_take": "Uzbekistan has been signaling its leather and footwear manufacturing ambitions for several years, and presidential-level review of an industry growth plan indicates the government is prepared to move incentives and infrastructure investment forward seriously. Sourcing directors who have not yet sent a technical team to Tashkent should put it on the H2 2026 agenda — the combination of raw hide availability, competitive labor rates, and improving GSP positioning makes this a cluster worth evaluating before Western European buyers lock in early-mover advantages."
-        },
-        {
-          "title": "From Nike to Salomon, Browse This Week’s Best Sneaker Releases",
-          "source_name": "Highsnobiety",
-          "source_url": "https://www.highsnobiety.com/p/sneaker-releases-2026-may-week-1/",
-          "category": "Retail",
-          "relevance_score": 6,
-          "original_publish_time": "2026-05-05T09:10:00+00:00",
-          "misaki_take": ""
-        },
-        {
-          "title": "US Footwear Industry Q1 2026: Growth Driven by Price & Performance - Circana",
-          "source_name": "Google News - Footwear Industry",
-          "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQczlsaWpFSUU1YU1PaDdFM0IxU2xITkd2X3UtVVU0SklXMmxkcjNlYW9VQTRmbUw2VXc1ZDE3X2NjZDJqSHdRcUR3SUFZaFBYc0Y2RGh6VTJCUU90TldIbFd1OUVXX0tmdF9mTVhlaUUwUFMycm1XY2c5dlBMak9FeHNubkpsc3p1elV0RWU3NjNtVTZXYXNSWGMzZGxqZmt0WWVIY1U5S2I2MmhlaDJXbkxfWmJpbzFoTlBjQldkWWlQaEtVVjVv?oc=5",
-          "category": "Retail",
-          "relevance_score": 6,
-          "original_publish_time": "2026-05-04T16:25:01+00:00",
-          "misaki_take": "Revenue growth built on ASP increases rather than unit volume expansion is a fragile foundation — it signals that consumer demand is softening even as the topline holds, and it compresses the runway brands have before retailers begin pushing back on cost increases. Performance category strength is real, but it is concentrated in a narrow set of vendors with the technical credibility and inventory discipline to execute at that tier, which means mid-market brands in athletic or athleisure are likely seeing unit declines they are not publicly discussing."
-        },
-        {
-          "title": "US Footwear Industry Delivers Modest First-Quarter Growth Driven by Price Increases and Strength in Performance Segment, Circana Reports - Yahoo Finance Singapore",
-          "source_name": "Google News - Footwear Industry",
-          "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUFVIRnhMU1p1cU5RRl9mSFBtRE1nUDhXNUxHZGsxWjQ4ZGpLUGpIQTljWmZJZDI2dU8xNzBCaklXS0JnRkdKLVpnb3FZdTlxeTBiWFV1ZEYtbWVmWTVSS1haVHBTQmVuMGExbGtUZlJiMm14WUhWdkRWdHo0cm16ZGdxWlVHTEVfd3BBZXRn?oc=5",
-          "category": "Supply Chain",
-          "relevance_score": 6,
-          "original_publish_time": "2026-05-04T14:09:00+00:00",
-          "misaki_take": "The geographic placement of this Circana story in Singapore-facing financial media is notable — it is being read by Asian manufacturers and investors who are calibrating their own production forecasts and factory utilization assumptions against US consumer resilience. If the Q2 Circana read shows price-driven growth stalling without a unit recovery, expect to see factory minimum order quantity negotiations become more favorable for brands in the back half of 2026."
         }
       ]
     }
