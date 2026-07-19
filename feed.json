@@ -1,8 +1,30 @@
 {
-  "last_updated": "2026-07-18T18:04:42.731924+00:00",
+  "last_updated": "2026-07-19T00:07:42.516455+00:00",
   "total_articles": 123,
-  "sources_checked": 60,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "868b253475b2",
+      "title": "Hiker Dads & Fashion Goths Rejoice, You Can Share Shoes Now",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/merrell-1trl-relay-web-black-leather/",
+      "original_publish_time": "2026-07-18T21:59:00+00:00",
+      "scraped_time": "2026-07-19T00:00:30.676766+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Merrell"
+      ],
+      "keywords_matched": [
+        "footwear",
+        "shoes"
+      ],
+      "relevance_score": 5,
+      "summary": "Standing at the very peak of today's footwear renaissance is Merrell’s elite 1TRL imprint with the introduction of the Merrell 1TRL Relay Web.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "bb74b0d22fde",
       "title": "adidas’ Military-Soccer Crossover Has No Business Looking This Sharp",
@@ -2523,25 +2545,6 @@
       ],
       "relevance_score": 8,
       "summary": "Name: Camper x ISSEY MIYAKE AnnaMSRP: TBCRelease Date: July 15Where to Buy: Camper, ISSEY MIYAKECamper and ISSEY MIYAKE have unveiled Anna, their newest collaborative sculptural footwear that reimagines the act of wearing shoes as seamlessly as slipping on socks. Designed by Camper in collaboration with Satoshi Kondo, the women’s line designer at ISSEY MIYAKE, Anna features a streamlined pointed base and low heel paired with a precision‑knit upper. This upper is crafted from a soft TENCEL™‑blend fabric, derived from sustainably sourced wood fibres, which wraps the foot and lower leg like a second skin. The breathable material emphasizes comfort and support while accentuating the natural form, creating a juxtaposition between the supple sock‑like construction and the structured outsole.Juxt",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "18b89b1c72d8",
-      "title": "You Can Now Run Trails in Crocs",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/crocs-classic-exp-clog-gum/",
-      "original_publish_time": "2026-07-11T20:09:00+00:00",
-      "scraped_time": "2026-07-12T00:02:19.211312+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Crocs"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "Crocs is pushing its design language even further into the rugged, outdoors-driven universe with the The Crocs Classic EXP Clog.",
       "ren_take": "",
       "image_url": ""
     }
