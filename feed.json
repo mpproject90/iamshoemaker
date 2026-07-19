@@ -1,8 +1,49 @@
 {
-  "last_updated": "2026-07-19T12:09:29.641151+00:00",
-  "total_articles": 125,
+  "last_updated": "2026-07-19T18:06:30.788420+00:00",
+  "total_articles": 123,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "97c1eaf24b53",
+      "title": "New Balance's Futuristic Gray Sneaker Topples the Dad Shoe Charts",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/new-balance-1954-sneaker-gray/",
+      "original_publish_time": "2026-07-19T17:54:00+00:00",
+      "scraped_time": "2026-07-19T17:59:22.438505+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "New Balance"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "New Balance's sleek gray new U1954 dad shoe is unlike any of NB's other class gray dad shoes.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "eb51c536766f",
+      "title": "Vans Old Skool Souvenir, Jordan 4 “Comic,” And This Week’s Best Releases",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/07/19/sneaker-releases-july-19-july-25-2026/",
+      "original_publish_time": "2026-07-19T16:00:52+00:00",
+      "scraped_time": "2026-07-19T17:55:23.810379+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Vans",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "Is it 2016 again? Could it have been possible in any other year that Vans could jump over the Jumpman like this? Well, we’d save any sweeping... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Vans Old Skool Souvenir, Jordan 4 \"Comic,\" And This Week's Best Releases appeared first on Sneaker News . The post Vans Old Skool Souvenir, Jordan 4 “Comic,” And This Week’s Best Releases appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "38fb6985a55c",
       "title": "Official Look and Release for the Nike Air Foamposite Pro \"Green Camo\"",
@@ -1751,6 +1792,25 @@
       "image_url": ""
     },
     {
+      "id": "8f02608acc6f",
+      "title": "Here are 5 new running shoe brands we’re excited about - Believe in the Run",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1PVmxuOHkxSTR5Sm43N2tJNGNQWEdJR1BtcDNCS0MzSHVRZjFvV3dScHJVUm1HSFBEbTFaOHdNckhadkZJc3Zhd1g0ODVoZnN6ejFJdEowSWtWYnlJYTdjSGNrTGgxdUlod0I1eWRfaFNDNENtMkY4LWFR?oc=5",
+      "original_publish_time": "2026-07-14T14:33:05+00:00",
+      "scraped_time": "2026-07-19T17:55:35.292165+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoe brand"
+      ],
+      "relevance_score": 3,
+      "summary": "Here are 5 new running shoe brands we’re excited about Believe in the Run",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
       "id": "8fbd8bab3cd1",
       "title": "Official Look at the LAKH x Mizuno WAVE PROPHECY STRAP “THE KNOT-LINK”",
       "source_name": "Hypebeast",
@@ -2483,108 +2543,6 @@
       ],
       "relevance_score": 3,
       "summary": "Summary DJ Khaled has unveiled a closer look at the exclusive JAY-Z x Nike Air Force 1 Low celebrating the anniversary of Reasonable DoubtThe premium triple-white sneaker integrates custom album graphics alongside signature typography across the tumbled leather upperEach commemorative pair arrives housed inside special co-branded packaging complete with a personalized note from Shawn Carter Hip-hop mogul DJ Khaled has shared a closer look at the exclusive Nike Air Force 1 Low \"Reasonable Doubt\" gifted to him in celebration of JAY-Z's legendary debut album anniversary. The rare sneaker commemorates thirty years since the 1996 release of the Brooklyn rap classic.The custom silhouette builds upon the iconic triple-white construction of the classic Air Force 1, introducing premium soft-tumbled",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "dfb0e133fd92",
-      "title": "Jason Kidd’s Fan-favorite Nike Shoes From the ’90s Are Finally Making Their Long-awaited Return",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-zoom-flight-5-og-release-date-jj3694-100-1239063846/",
-      "original_publish_time": "2026-07-12T17:34:31+00:00",
-      "scraped_time": "2026-07-12T17:57:05.448150+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 5,
-      "summary": "The Nike Zoom Flight 5 is coming back in its original colorways.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "a2b11c86b674",
-      "title": "Kingdom showcases footwear investment potential at global meet - Khmer Times",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTjFKd2JDbTk0X0c0NXJzaFdPWEd5RlZSZWpsbTlhb0JOZ2hlcnN3a2hBU1MwTElzcnNlN1BWVFlfa25hckJ3XzZSV29MZFpkVjA4bmtja3JVVlNTRUljZ3ZycFNDVG9VcFBrWTVpRHpLSTRGSXNLaDVkdy1hTWwxaTRuVGRLUEgxZFpRNkgwc1JVX1JBbnBQQWV4SkFZZDdOTm54WA?oc=5",
-      "original_publish_time": "2026-07-12T17:16:50+00:00",
-      "scraped_time": "2026-07-12T17:57:27.465514+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Kingdom showcases footwear investment potential at global meet Khmer Times",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "f03dd4708965",
-      "title": "This Is Nike's Most Blue-tiful Air Max Sandal Yet",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-air-max-halo-sandal-work-blue/",
-      "original_publish_time": "2026-07-12T16:20:14+00:00",
-      "scraped_time": "2026-07-12T18:00:57.992546+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "sandal"
-      ],
-      "relevance_score": 5,
-      "summary": "Nike's Air Max Halo sandal lands in a new \"Work Blue\" colorway, getting a taste of the summer blues (the good kind).",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "9ea318ff1ce3",
-      "title": "Jordan 3 “True Blue,” BAPE Vans Knu Skool, And This Week’s Best Releases",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/07/12/sneaker-releases-july-12-july-18-2026/",
-      "original_publish_time": "2026-07-12T16:00:09+00:00",
-      "scraped_time": "2026-07-12T17:57:16.357477+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Vans",
-        "Jordan"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 4,
-      "summary": "In the sneaker department, it’s been somewhat of a sleepy start to summer. No doubt, there’s been some massive releases, but in the first few... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Jordan 3 \"True Blue,\" BAPE Vans Knu Skool, And This Week's Best Releases appeared first on Sneaker News . The post Jordan 3 “True Blue,” BAPE Vans Knu Skool, And This Week’s Best Releases appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "a14cbc94b754",
-      "title": "Nike’s Futuristic Foamposite Sneakers Are Getting a New Premium Release for Their 30th Anniversary",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-air-foamposite-one-prm-30th-anniversary-release-date-iw8543-100-1239063821/",
-      "original_publish_time": "2026-07-12T15:30:59+00:00",
-      "scraped_time": "2026-07-12T17:57:05.450569+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 5,
-      "summary": "Celebrating three decades of the ahead-of-its-time sneaker.",
       "ren_take": "",
       "image_url": ""
     }
