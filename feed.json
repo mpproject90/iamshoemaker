@@ -1,8 +1,29 @@
 {
-  "last_updated": "2026-07-19T18:06:30.788420+00:00",
-  "total_articles": 123,
-  "sources_checked": 60,
+  "last_updated": "2026-07-20T02:23:55.153968+00:00",
+  "total_articles": 119,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "6496ec1052af",
+      "title": "The ASICS GEL-Nimbus 10.1 Is Prepping For Fall Early",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/07/19/asics-gel-nimbus-10-1-cocoa-powder-1203a599-200/",
+      "original_publish_time": "2026-07-19T18:00:00+00:00",
+      "scraped_time": "2026-07-20T02:13:01.161289+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "ASICS"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "The further we get into the wave, the more it seems like we’ll look back at the 2020s in footwear as the era of the... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The ASICS GEL-Nimbus 10.1 Is Prepping For Fall Early appeared first on Sneaker News . The post The ASICS GEL-Nimbus 10.1 Is Prepping For Fall Early appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "97c1eaf24b53",
       "title": "New Balance's Futuristic Gray Sneaker Topples the Dad Shoe Charts",
@@ -2442,107 +2463,6 @@
       ],
       "relevance_score": 3,
       "summary": "Hong Kong partnership to strengthen Bangladesh’s apparel and footwear supply chain through innovation Textile Today",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "d987fce18d82",
-      "title": "Footwear industry is backbone of India’s economy: Union Minister Giriraj Singh | Akashvani News - News On AIR",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ29UaXZQZHFWUm1nX2FHV3h5VGlhdFRaX01vcllPcGc2bU5fRFdmR282RjQ1ZnkyTE9Ic0drOHQ2SjM3NkI5ZFI3eEZsRHUyaTI0LW15clpXMnJYcS15QmN6Qy0xR1NEbVd0QVp6b0taVXVkZXVYNUxsdHdlX2JFUGtKLUFXenJ6eVdxU1I5NF9ud2tPVTFLM3hwbmNZdHl4cFFZdQ?oc=5",
-      "original_publish_time": "2026-07-12T21:16:44+00:00",
-      "scraped_time": "2026-07-12T23:58:50.993750+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "footwear industry"
-      ],
-      "relevance_score": 6,
-      "summary": "Footwear industry is backbone of India’s economy: Union Minister Giriraj Singh | Akashvani News News On AIR",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "9ff0b937157a",
-      "title": "Footwear industry accelerates green transition, strengthens supply chains - Thông tấn xã Việt Nam (TTXVN)",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOa0hMQ3VBTHJEWklZbE5uYTI1aTZJMnE3OHh6b0JvTmpFaGdDVVNIeVd1SzlQNnYwa2xsVWJmRHM3TTI0Z01zNmNkTVRkTHFFWlozbUJ1RmVXY2J0N3JxX1BrQ2hFQ3U5aFA4YTc5UlFqekpuSnhCSzExRlVjS19lSGVOMHdSUVFKX0x2NjVCTy0tZ1h5aVR5QUNobGJ1WnRLdkNkNG5xdzhSYUNsYWY5THNPRE1paFFTYTNlWDRLM2E0M2JP?oc=5",
-      "original_publish_time": "2026-07-12T20:06:19+00:00",
-      "scraped_time": "2026-07-13T18:41:22.015529+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "footwear industry"
-      ],
-      "relevance_score": 6,
-      "summary": "Footwear industry accelerates green transition, strengthens supply chains Thông tấn xã Việt Nam (TTXVN)",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "d63b224ec41e",
-      "title": "The Nike Zoom Streak 3 Cleans Up In “Cream II/Sail”",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/07/12/nike-zoom-streak-3-cream-ii-sail-iq8020-200/",
-      "original_publish_time": "2026-07-12T20:00:42+00:00",
-      "scraped_time": "2026-07-12T23:58:40.235667+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike",
-        "New Balance",
-        "ASICS"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 4,
-      "summary": "Nike doesn’t need another Vomero 5. It needs its own ASICS GEL-1130 or New Balance 530, that being an archival retro runner that delivers comparable... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Nike Zoom Streak 3 Cleans Up In \"Cream II/Sail\" appeared first on Sneaker News . The post The Nike Zoom Streak 3 Cleans Up In “Cream II/Sail” appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "96824af5cbfe",
-      "title": "Colombia’s Shoe Manufacturing Industry Gains Prominence Thanks to De la Espriella - ColombiaOne.com",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaHJqU1J0bVFNM2YtUFRfWjhJUFl2M3dYb2VZcnhLMDBsSWhRdmZfZDVFMy0xU3Q0WEtnOWN4YkZ2R1NkeldOYlRUUjZrT0c2TjhOY1pJY01kVWVYTHhNMU9FR0Ntdl8ydDY1MjlHbjlyLXN0Y1FVaGwxanBfODl0YmFXX01BNl95aTJMZ0ZEbDdiWTNVamVLZUhObTc2Vm9RUUxlS3ZXOHVFSTZxdUY4SEU3bXZab2M?oc=5",
-      "original_publish_time": "2026-07-12T19:00:00+00:00",
-      "scraped_time": "2026-07-13T07:59:43.179893+00:00",
-      "time_delta_mins": 0,
-      "category": "Manufacturing",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoe manufacturing"
-      ],
-      "relevance_score": 3,
-      "summary": "Colombia’s Shoe Manufacturing Industry Gains Prominence Thanks to De la Espriella ColombiaOne.com",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "d9c96e289773",
-      "title": "Closer Look at Friends and Family JAY-Z x Nike Air Force 1 \"Reasonable Doubt\"",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/7/closer-look-friends-family-jay-z-nike-air-force-1-reasonable-doubt",
-      "original_publish_time": "2026-07-12T18:54:02+00:00",
-      "scraped_time": "2026-07-13T18:41:11.170731+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "Summary DJ Khaled has unveiled a closer look at the exclusive JAY-Z x Nike Air Force 1 Low celebrating the anniversary of Reasonable DoubtThe premium triple-white sneaker integrates custom album graphics alongside signature typography across the tumbled leather upperEach commemorative pair arrives housed inside special co-branded packaging complete with a personalized note from Shawn Carter Hip-hop mogul DJ Khaled has shared a closer look at the exclusive Nike Air Force 1 Low \"Reasonable Doubt\" gifted to him in celebration of JAY-Z's legendary debut album anniversary. The rare sneaker commemorates thirty years since the 1996 release of the Brooklyn rap classic.The custom silhouette builds upon the iconic triple-white construction of the classic Air Force 1, introducing premium soft-tumbled",
       "ren_take": "",
       "image_url": ""
     }
