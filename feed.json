@@ -1,8 +1,146 @@
 {
-  "last_updated": "2026-07-20T13:19:41.971551+00:00",
-  "total_articles": 121,
+  "last_updated": "2026-07-20T19:02:03.600920+00:00",
+  "total_articles": 127,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "57f1f30cd0c4",
+      "title": "Adidas’ World Cup Win Sets the Stage for Bigger Battle with Nike in the U.S. Market",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/adidas-nike-world-cup-sales-business-impact-1239075510/",
+      "original_publish_time": "2026-07-20T18:43:43+00:00",
+      "scraped_time": "2026-07-20T18:50:32.028780+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Adidas"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "Though Nike might have won when it came to media exposure with its blockbuster campaign, Adidas reigned on the sales front, according to early data.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "229af7a9643a",
+      "title": "Middle East Conflicts and Tariffs Continue to Hit Italian Footwear Industry in Q1",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/italian-footwear-industry-q1-2026-middle-east-war-tariffs-1239076079/",
+      "original_publish_time": "2026-07-20T17:23:18+00:00",
+      "scraped_time": "2026-07-20T18:50:32.030178+00:00",
+      "time_delta_mins": 0,
+      "category": "Trade Data",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "footwear industry"
+      ],
+      "relevance_score": 6,
+      "summary": "During the first three months of 2026, shoe exports from Italy amounted to 3 billion euros, a decline of 2.7 percent.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "92dfa2fdb542",
+      "title": "Nike’s Air Max Goadome Low “Dot Pack” Is Swiss Cheese For Your Feet",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/07/20/nike-air-max-goadome-low-dot-pack/",
+      "original_publish_time": "2026-07-20T17:00:21+00:00",
+      "scraped_time": "2026-07-20T18:50:42.993163+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "We’re calling these the “church shoes” because they’re hole-y as hell. The Nike Air Max Goadome Low is continuing its comeback with a new swiss... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike's Air Max Goadome Low \"Dot Pack\" Is Swiss Cheese For Your Feet appeared first on Sneaker News . The post Nike’s Air Max Goadome Low “Dot Pack” Is Swiss Cheese For Your Feet appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "4dbb84e7b837",
+      "title": "Vietnam footwear sector pushes greener production as exports near US$12bn - International Leather Maker",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMllIOXkzQ1paRHpoMXVHNDVES2VHTGRPRmxBbFp4dWdybktkOWxhU3NyNmUxcGMwWjBrQXJUZ2xRTTQyQ2NkeW90bTBVUzlJUlNRaDhOMlp6cTgyUDUzcGhhOUktb2tZUVZ3TVlpYmVQei00eF9pVEpyMHFwZkx6WmlOdXAwN0R5RUFwYzhtY2pkMks1S2xUUHVZTTNPOXU1RXE3cnU2RGhNek5nN0FoTQ?oc=5",
+      "original_publish_time": "2026-07-20T16:39:49+00:00",
+      "scraped_time": "2026-07-20T18:50:53.673027+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Vietnam footwear sector pushes greener production as exports near US$12bn International Leather Maker",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "6b0767b483d4",
+      "title": "The Nike ST Charge Steps Into “Pink Foam”",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/07/20/nike-st-charge-pink-foam-pink-spell-hot-lava-soft-yellow-io8063-600/",
+      "original_publish_time": "2026-07-20T16:30:57+00:00",
+      "scraped_time": "2026-07-20T18:50:42.994221+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Converse"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "The state of Nike signature athletes remains an object of fascination in our offices. With Shai Gilgeous-Alexander crossing the hall from Converse to Nike proper,... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Nike ST Charge Steps Into \"Pink Foam\" appeared first on Sneaker News . The post The Nike ST Charge Steps Into “Pink Foam” appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "78f5701eea06",
+      "title": "Madonna Laces Up Custom Saint Laurent Boots for FIFA World Cup 2026 Final Halftime Performance",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-trends/madonna-world-cup-saint-laurent-2026-halftime-performance-1239073794/",
+      "original_publish_time": "2026-07-20T14:27:16+00:00",
+      "scraped_time": "2026-07-20T18:50:32.030565+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 3,
+      "summary": "She brought her signature style to the Spain vs. Argentina match.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "1bf5f02600b0",
+      "title": "Kylian Mbappé Wins 2026 FIFA World Cup Golden Boot Over Lionel Messi",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/7/kylian-mbappe-wins-2026-fifa-world-cup-golden-boot-over-lionel-messi",
+      "original_publish_time": "2026-07-20T14:26:56+00:00",
+      "scraped_time": "2026-07-20T18:50:42.799662+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 3,
+      "summary": "Summary Kylian Mbappé won his second consecutive FIFA World Cup Golden Boot by finishing the 2026 tournament with 10 goalsLionel Messi finished second in the scoring race with eight goals after going goalless in Argentina's final loss to SpainThe French forward also established a new tournament record by reaching 22 all-time career World Cup goals FIFA has officially awarded the 2026 FIFA World Cup Golden Boot to French superstar Kylian Mbappé following the conclusion of the tournament. The 27-year-old forward secured his second consecutive scoring title by finishing with 10 goals, edging out rival Lionel Messi.Mbappé solidified his lead by netting two goals during France's 6-4 third-place playoff against England, bringing his total to 10 goals alongside four assists. The performance cemen",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "43ba8caa536b",
       "title": "The Nike Air Max Muse \"Floral Pack\" Wraps Metallic Petal Hardware Around a White Leather Build",
@@ -110,6 +248,51 @@
       ],
       "relevance_score": 4,
       "summary": "Name: Vans Skate Loafer 53 CrepeColorway: Brown, BlackSKU: VN000Z3QEMV, VN000Z3QFSTMSRP: TBCRelease Date: TBCThe Vans Skate Loafer 53 Crepe is the brand's latest entry in a growing lineage of shoes that refuse to pick a lane. Rooted in the clean, pared-back profile of a 1950s penny loafer, the silhouette re-emerges here with a full skate-specific toolkit underneath, blending vintage slip-on charm with the kind of reinforced construction Vans has spent decades engineering for the board.On the surface, the Skate Loafer 53 Crepe reads as almost deceptively simple. A suede upper provides a soft, textured finish across both the black and brown colorways, with leather reinforcement adding structure where the shoe needs it most. The silhouette stays true to the original loafer blueprint: low-prof",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "47fbdf18b949",
+      "title": "Caitlin Clark Debuts the Nike Caitlin 1 \"Purple\" On-Court",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/7/wnba-indiana-fever-caitlin-clark-nike-caitlin-1-purple-debut",
+      "original_publish_time": "2026-07-20T06:56:51+00:00",
+      "scraped_time": "2026-07-20T18:50:42.790776+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "midsole",
+        "sole",
+        "upper"
+      ],
+      "relevance_score": 5,
+      "summary": "Summary Caitlin Clark debuted a new \"Purple\" colorway of her signature Nike Caitlin 1 during a recent WNBA matchupThe low-cut basketball model features a soft lavender upper with layered multi-colored Swoosh brandingThe colorway is expected to land during the Holiday 2026 season following the model's official debut in October Nike and Indiana Fever star Caitlin Clark continue to build momentum for her upcoming signature line with a first look at the Nike Caitlin 1 \"Purple\". The superstar guard debuted the soft lavender pair on-court, offering fans a fourth visual preview of the low-cut basketball shoe ahead of its formal retail launch.The latest version comes dressed almost entirely in soft lavender across the textured upper, laces, tongue, and midsole. A darker purple gradient adds visual",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "ba6d4e78631f",
+      "title": "Nike Kobe Dunk Low Protro \"WNBA All-Star\" Honors Women's Basketball",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/7/nike-kobe-dunk-low-protro-wnba-all-star-iq3919-001-release-info",
+      "original_publish_time": "2026-07-20T06:55:47+00:00",
+      "scraped_time": "2026-07-20T18:50:42.788990+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "outsole",
+        "sole"
+      ],
+      "relevance_score": 4,
+      "summary": "Summary Nike Basketball is celebrating WNBA All-Star Weekend with a special Kobe Dunk Low ProtroThe silhouette pairs grey leather overlays with light-reflective black underlays and metallic pink hitsThe signature Kobe sheath tongue emblem and a Mamba-graphic outsole complete the commemorative pair Name: Nike Kobe Dunk Low Protro \"WNBA All-Star\"Colorway: Black/Hot Punch-Multi-ColorSKU: IQ3919-001MSRP: $135 USDRelease Date: July 24, 2026Where to Buy: NikeNike has officially expanded its hybrid basketball lineup with the release of the Nike Kobe Dunk Low Protro \"WNBA All-Star\". The special edition pair bridges the legacy of Kobe Bryant with the growing impact of women's basketball ahead of the league's midsummer showcase.The lifestyle-meets-performance model combines classic Dunk proportions ",
       "ren_take": "",
       "image_url": ""
     },
@@ -2447,68 +2630,6 @@
       ],
       "relevance_score": 3,
       "summary": "New team, new era, new shoes. Unquestionably, severing Ja Morant’s ties to Memphis (at least for the moment) is a bitter pill, but as they... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Closer Looks At The Nike Ja 4 \"Rise\" appeared first on Sneaker News . The post Closer Looks At The Nike Ja 4 “Rise” appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "49d0f9e1a615",
-      "title": "China shoe factory fire exposes audit gaps",
-      "source_name": "Ecotextile News",
-      "source_domain": "ecotextile.com",
-      "source_url": "https://www.ecotextile.com/2026071364037/news/social-compliance-and-csr/china-shoe-factory-fire-exposes-audit-gaps/",
-      "original_publish_time": "2026-07-13T17:58:23+00:00",
-      "scraped_time": "2026-07-13T18:43:18.649064+00:00",
-      "time_delta_mins": 0,
-      "category": "Quality",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoe factory",
-        "shoes"
-      ],
-      "relevance_score": 4,
-      "summary": "A fatal fire at Fujian Huiteng Shoes in China exposes how little buyers can infer from public audit records and […] The post China shoe factory fire exposes audit gaps appeared first on Ecotextile News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "e88a6340339a",
-      "title": "One of Carmelo Anthony’s Early Signature Jordan Sneakers Will Return More Than 20 Years Later",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/jordan-melo-5-5-black-taxi-blue-release-date-ja9035-001-1239064276/",
-      "original_publish_time": "2026-07-13T16:12:07+00:00",
-      "scraped_time": "2026-07-13T18:41:00.752093+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Jordan"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 5,
-      "summary": "Unlike its predecessor, the Jordan Melo 5.5 has never been given a retro.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "ccfb937e2991",
-      "title": "Official Images Of The Nike First Sight Shadow",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/07/13/nike-first-sight-shadow-metallic-silver-black-ice-hq2410-002/",
-      "original_publish_time": "2026-07-13T15:30:02+00:00",
-      "scraped_time": "2026-07-13T18:41:11.339883+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "As we’ve mentioned countless times before, it feels like big footwear players have finally come to realize that women’s footwear should be more of an... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Official Images Of The Nike First Sight Shadow appeared first on Sneaker News . The post Official Images Of The Nike First Sight Shadow appeared first on Sneaker News .",
       "ren_take": "",
       "image_url": ""
     }
