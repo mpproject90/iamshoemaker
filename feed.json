@@ -1,8 +1,50 @@
 {
-  "last_updated": "2026-07-20T02:23:55.153968+00:00",
-  "total_articles": 119,
+  "last_updated": "2026-07-20T08:00:25.812857+00:00",
+  "total_articles": 121,
   "sources_checked": 61,
   "articles": [
+    {
+      "id": "83bf23557821",
+      "title": "The Vans Skate Loafer 53 Crepe Disguises Skatepark Grip as 1950s Refinement",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/7/vans-skate-loafer-53-crepe-brown-black-vn000z3qemv-vn000z3qfst-official-images",
+      "original_publish_time": "2026-07-20T07:46:15+00:00",
+      "scraped_time": "2026-07-20T07:49:23.861164+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Vans"
+      ],
+      "keywords_matched": [
+        "shoes",
+        "upper"
+      ],
+      "relevance_score": 4,
+      "summary": "Name: Vans Skate Loafer 53 CrepeColorway: Brown, BlackSKU: VN000Z3QEMV, VN000Z3QFSTMSRP: TBCRelease Date: TBCThe Vans Skate Loafer 53 Crepe is the brand's latest entry in a growing lineage of shoes that refuse to pick a lane. Rooted in the clean, pared-back profile of a 1950s penny loafer, the silhouette re-emerges here with a full skate-specific toolkit underneath, blending vintage slip-on charm with the kind of reinforced construction Vans has spent decades engineering for the board.On the surface, the Skate Loafer 53 Crepe reads as almost deceptively simple. A suede upper provides a soft, textured finish across both the black and brown colorways, with leather reinforcement adding structure where the shoe needs it most. The silhouette stays true to the original loafer blueprint: low-prof",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "83c8769a62a6",
+      "title": "US imposes 25% tariffs on Brazilian goods, raising concerns in the footwear industry - World Footwear",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYVAxNklfclh0MHlIVnlacUozWWE2RDhFUDBmaTh5TUhMOVdDd3IwQWV5ZENWLXJxMjZPbUlsY3NySlVvQk40NWdyTHlzUnJER2xNRno0VUNBVHBqY2I0cEJyT2hYRS1iTERneGFzNExFZ3JndFo0aW1qYV92V0VIWnVvTU54bVJpcG5OeWJzb1czdS1NcktYQ1lJTjR3OTFrTnd1bmNCR2VrYlZhMFRCdngxdDBnRGpCa2JVTFNld1BVR2dReDZR?oc=5",
+      "original_publish_time": "2026-07-19T23:02:10+00:00",
+      "scraped_time": "2026-07-20T07:49:34.900521+00:00",
+      "time_delta_mins": 0,
+      "category": "Trade Data",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "footwear industry"
+      ],
+      "relevance_score": 6,
+      "summary": "US imposes 25% tariffs on Brazilian goods, raising concerns in the footwear industry World Footwear",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "6496ec1052af",
       "title": "The ASICS GEL-Nimbus 10.1 Is Prepping For Fall Early",
@@ -2062,6 +2104,26 @@
       "image_url": ""
     },
     {
+      "id": "5edf8971c7dd",
+      "title": "Footwear industry accelerates green transition, strengthens supply chains - vietnamnews.vn",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX0x5Wldtd2JmbHgxOTVZeFFjZFFxWG95X1VXWTA0bm1nbE5UaWNIVjZzQTZBMFUwT2Uyd0Y3WGs4bGVRWlNwQzJ1R0xERnBXVGI3c2h6bzFuUEw4VmRlMVFTLUdaVFJPb01ORElTdmgzMmI5OHhjUW1wd3dIX2o0WmJENEY5V2NjRXM5Z3p0R2JVeFpSTlNGcEl3bnlQUUVNdEhOQkZpRks1MDc1elUxekpZNlJjbUU?oc=5",
+      "original_publish_time": "2026-07-14T03:51:00+00:00",
+      "scraped_time": "2026-07-20T07:49:34.902657+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "footwear industry"
+      ],
+      "relevance_score": 6,
+      "summary": "Footwear industry accelerates green transition, strengthens supply chains vietnamnews.vn",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
       "id": "5e69d5d5867d",
       "title": "Bangladesh apparel exports face a defining test as Vietnam rapidly closes the gap",
       "source_name": "Textile Today",
@@ -2444,25 +2506,6 @@
       ],
       "relevance_score": 3,
       "summary": "China shoe factory fire kills 28 workers in Fujian Prop News Time",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "e1e442badc9c",
-      "title": "Hong Kong partnership to strengthen Bangladesh’s apparel and footwear supply chain through innovation - Textile Today",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdC1LcEZMRmxFU2pseEFlamwzay10NzZRZkVkVE5RSTduQ1B0Z0JNdFJQdS1UQ1ltaDZsb2I0cnJlVFhsWEJKbFVXSlF2N096NkdJZ0JzSXlrbFp4UmpxLTNUaU9mUmhkRGQzcHJHRVJpeElQdnBlSlI1bVdNUzRYdEcyMzJucHZPbm9ITFBTMW5oZmlBZ2J0RGk2SWJaeUVtXzlGV3c3QWxIMnd0SDhnRjFMSVRQbThVdTI3NDhSVDRDZThHSjU5VmxxOTA?oc=5",
-      "original_publish_time": "2026-07-13T06:29:49+00:00",
-      "scraped_time": "2026-07-13T07:59:43.182493+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Hong Kong partnership to strengthen Bangladesh’s apparel and footwear supply chain through innovation Textile Today",
       "ren_take": "",
       "image_url": ""
     }
