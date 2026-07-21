@@ -1,8 +1,108 @@
 {
-  "last_updated": "2026-07-21T12:34:43.488350+00:00",
-  "total_articles": 119,
-  "sources_checked": 60,
+  "last_updated": "2026-07-21T18:24:56.375576+00:00",
+  "total_articles": 120,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "ed644803d5f8",
+      "title": "McFarland Shoe Repair: Heart and sole - FOX 13 Tampa Bay",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQkU1VDdwbmhJTWZoWnR1Z25yTHZBdGdvR1ZHS3N4bjNoX3pmdk9MS0F3RkVUNzZ1bU8wNE5UYTBzdVlzLVV2TngtcHprWjZTaHhSYUNFM0dBMkFqUS1Dc2hsU0xGLTRDTVo1bjRTcDBXQnExTWdNc21UQlg0aXdXVm9wRFVaU2t6Y3djLW82aDAzdzlMU2Jmd0NzMkdQNXFodUHSAacBQVVfeXFMTUlLNlhBdE01WFRaTTNZVlQ0RlkwTjlfM0k1M3RQUXY0b1RnUk9lYzE0T1dOUGlPVTNKc1A0NHB5VHFnc0NUcFFUTnZyUVU3NS1wajRkOVQ1WmxmUVdUdHZRajkta09SV21iN0JjekdzU0RyZWZfamdOaWFzUGc5TTY4WTRyTmI0N1cwaU5fZmhESG9NaDdvdHVXNnVJZEstSlJmWjJvUk0?oc=5",
+      "original_publish_time": "2026-07-21T16:23:41+00:00",
+      "scraped_time": "2026-07-21T18:14:06.473857+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sole"
+      ],
+      "relevance_score": 3,
+      "summary": "McFarland Shoe Repair: Heart and sole FOX 13 Tampa Bay",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "aaf80adf0216",
+      "title": "Hiking Shoes Are On Every Designer's Moodboard",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/hiking-approach-shoe-sneakers-trend/",
+      "original_publish_time": "2026-07-21T15:51:18+00:00",
+      "scraped_time": "2026-07-21T18:17:44.970974+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "In July 20's issue of Highsnobiety's Shopper newsletter, editor Max Migowski approaches approach shoes.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "2a566b04584a",
+      "title": "VandyThePink and Asics Are Serving Two Flavors of Ice Cream-themed Sneakers",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/vandythepink-asics-gel-kayano-12-1-release-date-1239077130/",
+      "original_publish_time": "2026-07-21T15:21:39+00:00",
+      "scraped_time": "2026-07-21T18:13:44.863257+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "ASICS"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "Chocolate and vanilla Gel-Kayano 12.1s are coming in August.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "774040b6d2e9",
+      "title": "Air Jordan 3 “Laser” Launching In August",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/07/21/air-jordan-3-laser-ja1369-001/",
+      "original_publish_time": "2026-07-21T14:30:59+00:00",
+      "scraped_time": "2026-07-21T18:13:55.674477+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "Two decades and change later, Mark Smith’s Laser Project is back in focus for Nike and Jordan Brand. Setting the table for next year’s Jordan... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Air Jordan 3 \"Laser\" Launching In August appeared first on Sneaker News . The post Air Jordan 3 “Laser” Launching In August appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "edcba8708cb3",
+      "title": "Adidas to Unveil New Concept Store at Mall of America in October",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/adidas-store-zones-footwear-integrated-digital-mall-america-1239076446/",
+      "original_publish_time": "2026-07-21T14:22:33+00:00",
+      "scraped_time": "2026-07-21T18:13:44.865624+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "The store is designed around four immersive retail zones: Footwear, Made For You, City Shop and a storefront with integrated digital touchpoints.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "4dc420d8d117",
       "title": "Worldview | Brazilian Footwear Exporters Brace for US Tariff Hike - The Business of Fashion",
@@ -147,6 +247,25 @@
       "image_url": ""
     },
     {
+      "id": "6fb0d6e54847",
+      "title": "Success of Kizik shoes has footprints in North Idaho - Bonner County Daily Bee",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdFlYQUxJUEJKNVhiVFhjYXI3cVctc1hLemw1UUpHMmZocGtvbTVHWEx0VVMzZG1pN3oycmhtemZmdi1xN3pJVWtUSGRVS2ozbEtHNkY5Uk1mSi1KY1Y4VDJGcTRfLUFmYjlQMDhpV0llRUtJSzNkdDhkVVRqUnptUGhsSEVrRkxsWDhqbTlNNzdQU2Q4RFRFbW5HMVNZU1djcDYw?oc=5",
+      "original_publish_time": "2026-07-21T08:00:00+00:00",
+      "scraped_time": "2026-07-21T18:14:06.472955+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "Success of Kizik shoes has footprints in North Idaho Bonner County Daily Bee",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
       "id": "88071d6dde0a",
       "title": "MASU and Clarks’ Collaborative Desert Boot Comes Adorned With Painted Florals",
       "source_name": "Hypebeast",
@@ -206,6 +325,26 @@
       ],
       "relevance_score": 4,
       "summary": "Name: Air Jordan 1 Low “Golf Shroud”Colorway: Light Orewood Brown/Black/Steam/WhiteSKU: IW2020-110MSRP: $130 USDRelease Date: Available nowWhere to Buy: NikeJordan Brand has released the Air Jordan 1 Low SE “Golf Shroud,” a Light Orewood Brown/Black/Steam/White colorway that builds on the silhouette's 1985 DNA with a material-focused SE treatment. The shoe pairs a leather and synthetic leather upper with detachable kilties, repositioning the familiar low-cut frame as a platform for modular design.The upper splits its construction between leather and synthetic leather panels, creating a tonal interplay across the Light Orewood Brown base, Black accents, Steam mid-tones, and White overlays. It is a four-color palette that stays restrained on paper but relies on the textural contrast between ",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "c94942c9df77",
+      "title": "Helping our footwear industry fulfil its potential - Dhaka Tribune",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNTNDWHZBU3FHc0RQY2tXSXdGdUlBbWMzcXE5bHZqWEtyRXJucFhaNWkydWgxMjF1dHRnbFhYc3RsZUN2VnlTQkdzbDNkaGJ6UjliYVFkUEdsSHBWdy1wN2ZOZ3JYd0xQQWhDSU55cFJXRkFFM3MzOXRpSU9vSzVLLUhUaUhMR1ZmU1Jza0FsdzhWSnhFZzJ0YTRaSGlNdVRYMklXaHoteW9ISmcyQTNzbnpR0gGsAUFVX3lxTE9jZGdNVjRmaFctQkVVekwtOVoyaDBneUpsTnU4X3EtODl2ZC1aeE1zYU5vTUdtYnJzd0ZGTm9BQ25rMkZQLVdfQUI4RlVzNlA2eUJTek9mQVZENVlWXzRhSk9jNURLY0VpR2ZKX1Jfdkl0cDVwT1AtV0cxZ3ViMnI4aGxXOUFmdG9vc2VUZTBGMTdqa1RmTXNTd3lfZGVSckxYYU55QkFKbF9YUjE?oc=5",
+      "original_publish_time": "2026-07-21T05:38:47+00:00",
+      "scraped_time": "2026-07-21T18:14:06.476061+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "footwear industry"
+      ],
+      "relevance_score": 6,
+      "summary": "Helping our footwear industry fulfil its potential Dhaka Tribune",
       "ren_take": "",
       "image_url": ""
     },
@@ -403,6 +542,26 @@
       ],
       "relevance_score": 3,
       "summary": "Summary Kylian Mbappé won his second consecutive FIFA World Cup Golden Boot by finishing the 2026 tournament with 10 goalsLionel Messi finished second in the scoring race with eight goals after going goalless in Argentina's final loss to SpainThe French forward also established a new tournament record by reaching 22 all-time career World Cup goals FIFA has officially awarded the 2026 FIFA World Cup Golden Boot to French superstar Kylian Mbappé following the conclusion of the tournament. The 27-year-old forward secured his second consecutive scoring title by finishing with 10 goals, edging out rival Lionel Messi.Mbappé solidified his lead by netting two goals during France's 6-4 third-place playoff against England, bringing his total to 10 goals alongside four assists. The performance cemen",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "e100846ea375",
+      "title": "Deadly China shoe factory fire followed repeated safety warnings",
+      "source_name": "Apparel Insider",
+      "source_domain": "apparelinsider.com",
+      "source_url": "https://apparelinsider.com/deadly-china-shoe-factory-fire-followed-repeated-safety-warnings/",
+      "original_publish_time": "2026-07-20T13:11:25+00:00",
+      "scraped_time": "2026-07-21T18:16:50.618933+00:00",
+      "time_delta_mins": 0,
+      "category": "Quality",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "shoe factory"
+      ],
+      "relevance_score": 4,
+      "summary": "BEIJING – A footwear factory in China where 28 people died had been repeatedly ordered to address fire hazards and was warned about disorderly stockpiles just two days before the blaze, according to new reports from Chinese state media. The post Deadly China shoe factory fire followed repeated safety warnings appeared first on Apparel Insider .",
       "ren_take": "",
       "image_url": ""
     },
@@ -2324,151 +2483,6 @@
       ],
       "relevance_score": 7,
       "summary": "Summary The Realest has officially launched a live auction for Shohei Ohtani's game-used New Balance Ohtani 1 sneakersWorn during the historic 2025 MLB Tokyo Series, the one-of-one player exclusive pairs feature custom graphics of the athlete's dog and real infield dirtThe footwear artifact includes a rare personal Japanese Kanji signature and a game-used inscription from the four-time MVP New Balance and authentication platform The Realest have officially launched the live auction for Shohei Ohtani's game-used and signed New Balance Ohtani 1 shoes. Worn by the four-time MVP during the opening game of the 2025 MLB Tokyo Series, the historic sneakers represent an incredibly significant crossover of baseball legacy, Japanese sports history, and global sneaker culture.The one-of-one Player Ex",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "ed00556126ec",
-      "title": "Portuguese footwear: an example for Europe - AICEP",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQVhSanU2NHdCRVFUS2lCa0o4Vi1iaHJfVkxQNncyWjFiaWFGTGFVT0JabUphZnU5WGRkZ281SXFUQ2s0WU9Yc0xFdFYtd1N5Skx3VHAzMl9OSXV0ZXdzNTA5cVpvNEZYY09vOWZZLVA4OXJJTjR3UnR1YlowNWo2QWl0eFBDbHY1NHBlclZYUGM?oc=5",
-      "original_publish_time": "2026-07-14T17:20:58+00:00",
-      "scraped_time": "2026-07-14T17:59:09.227888+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Portuguese footwear: an example for Europe AICEP",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "a8e858d7f36d",
-      "title": "Cambodia attracts global leaders at 43rd International Footwear Conference - Khmer Times",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ1BPYXhfYWFVZUZNRTYwUGhGcV9yQXhPZDlUeFJVT2xLa0luZzJYV3Q4eDlZVzdBSEVQQlNrMFZuNlg4ZWVNbzVqZGh3cnFLejFXcHNzUFQ3MWdjcEltN2hreHB1TXdReGNrLUpfVXVJb3I5Y3VwWDBhcjYxUWRGZVRpMzFmZko5clFieHZSbl9ZM3FtZFVRU1pWWDdLTEJKM0pMeWt1bTdIeHJQMGpRa1o5SEg?oc=5",
-      "original_publish_time": "2026-07-14T17:20:42+00:00",
-      "scraped_time": "2026-07-15T07:03:58.882379+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Cambodia attracts global leaders at 43rd International Footwear Conference Khmer Times",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "6cae1ac7f1d8",
-      "title": "Nike Air Force 1 “Shoe Dog” Is Inspired By Phil Knight’s Green Plymouth Valiant",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/07/14/nike-air-force-1-shoe-dog-ix8503-100/",
-      "original_publish_time": "2026-07-14T16:30:20+00:00",
-      "scraped_time": "2026-07-14T17:58:58.542975+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "footwear",
-        "footwear industry"
-      ],
-      "relevance_score": 4,
-      "summary": "Long before Nike became Nike, let alone the global behemoth it is today, Phil Knight entered the footwear industry at ground level, traveling to track... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike Air Force 1 “Shoe Dog” Is Inspired By Phil Knight’s Green Plymouth Valiant appeared first on Sneaker News . The post Nike Air Force 1 “Shoe Dog” Is Inspired By Phil Knight’s Green Plymouth Valiant appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "43936ca62459",
-      "title": "Ja Morant’s Popular Nike Sneaker Is Getting One of Its Most Premium Releases So Far",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-ja-3-white-label-release-date-io7666-100-1239065438/",
-      "original_publish_time": "2026-07-14T15:49:23+00:00",
-      "scraped_time": "2026-07-14T17:58:47.928871+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "A detailed look at the upcoming Nike Ja 3 White Label sneakers.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "bbed954c741d",
-      "title": "Nike Continues High-End Atelier Series With Total 90 Boots For Wemby",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/07/14/nike-atelier-total-90-victor-wembanyama/",
-      "original_publish_time": "2026-07-14T15:30:16+00:00",
-      "scraped_time": "2026-07-14T17:58:58.545577+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 5,
-      "summary": "Following special collections for tennis star Jannik Sinner and French footballer Désiré Doué, Nike’s bespoke Atelier platform has taken on its tallest task yet, literally.... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike Continues High-End Atelier Series With Total 90 Boots For Wemby appeared first on Sneaker News . The post Nike Continues High-End Atelier Series With Total 90 Boots For Wemby appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "57de38f7fef3",
-      "title": "From Salomon to adidas, Browse This Week’s Best Sneaker Releases",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/sneaker-releases-2026-july-week-2/",
-      "original_publish_time": "2026-07-14T15:07:50+00:00",
-      "scraped_time": "2026-07-14T18:02:57.351399+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Adidas",
-        "New Balance",
-        "Salomon",
-        "Vans"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 7,
-      "summary": "The world of sneakers releases is a tricky one to navigate, but we here with best of the open market, from Bape x Vans, to New Balance and Salomon.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "8f02608acc6f",
-      "title": "Here are 5 new running shoe brands we’re excited about - Believe in the Run",
-      "source_name": "Google News - Sneaker Brand",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1PVmxuOHkxSTR5Sm43N2tJNGNQWEdJR1BtcDNCS0MzSHVRZjFvV3dScHJVUm1HSFBEbTFaOHdNckhadkZJc3Zhd1g0ODVoZnN6ejFJdEowSWtWYnlJYTdjSGNrTGgxdUlod0I1eWRfaFNDNENtMkY4LWFR?oc=5",
-      "original_publish_time": "2026-07-14T14:33:05+00:00",
-      "scraped_time": "2026-07-19T17:55:35.292165+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoe brand"
-      ],
-      "relevance_score": 3,
-      "summary": "Here are 5 new running shoe brands we’re excited about Believe in the Run",
       "ren_take": "",
       "image_url": ""
     }
