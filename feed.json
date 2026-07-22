@@ -1,8 +1,152 @@
 {
-  "last_updated": "2026-07-22T12:45:03.205682+00:00",
-  "total_articles": 115,
-  "sources_checked": 61,
+  "last_updated": "2026-07-22T18:16:36.214893+00:00",
+  "total_articles": 116,
+  "sources_checked": 60,
   "articles": [
+    {
+      "id": "35f7b612d2bc",
+      "title": "First Look: Michael Jordan’s Air Jordan 3 Is Getting a New Christmas-themed Release This Holiday Season",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/air-jordan-3-retro-og-not-nice-release-date-if4396-001-1239079088/",
+      "original_publish_time": "2026-07-22T17:49:00+00:00",
+      "scraped_time": "2026-07-22T18:05:19.784357+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "Nike's holiday sneaker releases continue to pile up.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "9b33af87368f",
+      "title": "The Nike Air Liquid Max Explores Earth Tones In “Sequoia”",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/07/22/nike-air-liquid-max-sequoia-black-medium-olive-anthracite-iv6097-300/",
+      "original_publish_time": "2026-07-22T17:30:49+00:00",
+      "scraped_time": "2026-07-22T18:05:30.613683+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Nike",
+        "New Balance",
+        "ASICS"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "Does the modern consumer have an appetite for $200-plus Nike Air Max sneakers? That’s a real question worth asking, particularly as ASICS and New Balance... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Nike Air Liquid Max Explores Earth Tones In \"Sequoia\" appeared first on Sneaker News . The post The Nike Air Liquid Max Explores Earth Tones In “Sequoia” appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "8217e210e306",
+      "title": "PUMA and The Whitaker Group's New Platform Is Bigger Than Sneakers",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/7/puma-and-the-whitaker-group-announce-coda",
+      "original_publish_time": "2026-07-22T16:34:50+00:00",
+      "scraped_time": "2026-07-22T18:05:30.425271+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Puma"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "PUMA and The Whitaker Group are expanding their long-running partnership with the launch of CODA, a new multi-season storytelling platform that looks beyond product to explore how culture is inherited, reimagined and ultimately pushed forward.Named after the concluding passage of a musical composition, CODA reframes the term as the moment between an ending and a new beginning. It's that transitional space where ideas, movements, and cultural touchstones are passed from one generation to the next, only to be challenged, reshaped and transformed into something entirely new.The platform debuts with a teaser film establishing the tone for what PUMA and The Whitaker Group describe as an ongoing exploration of sport, style, design, and community. Future chapters will spotlight creators, artists ",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "cc2d31315fa5",
+      "title": "LK Bennett Teams Up With Titan for North American Footwear Relaunch",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/lk-bennett-shoe-collection-north-american-market-ffany-1239078287/",
+      "original_publish_time": "2026-07-22T15:32:58+00:00",
+      "scraped_time": "2026-07-22T18:05:19.787042+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "The first look at the new LK Bennett shoe collection for the North American market will be in August at FFANY Market Week Aug. 4-6.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "6ea15f1cf8ac",
+      "title": "Kate Spade taps Jonathan Saunders as executive creative director",
+      "source_name": "Retail Dive",
+      "source_domain": "retaildive.com",
+      "source_url": "https://www.retaildive.com/news/kate-spade-jonathan-saunders-executive-creative-director/825881/",
+      "original_publish_time": "2026-07-22T15:05:00+00:00",
+      "scraped_time": "2026-07-22T18:08:31.543371+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Alexander McQueen",
+        "Tapestry"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "The designer, who made his mark at labels like Calvin Klein and Alexander McQueen, is tasked with refreshing the struggling Tapestry-owned brand.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "fef24fd1b6b9",
+      "title": "Birkenstocks, Cowboy Boots and Metallics Are Breaking the Wedding Shoe Rules",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-trends/wedding-shoe-trends-birkenstocks-boots-metallics-1239009559/",
+      "original_publish_time": "2026-07-22T14:07:14+00:00",
+      "scraped_time": "2026-07-22T18:05:19.787660+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Louboutin"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 6,
+      "summary": "From Dua Lipa’s Louboutin pumps to Lainey Wilson’s custom boots, 2026 brides want pairs they can wear long after “I do.”",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "e81ffd8ac0b9",
+      "title": "How Start-Rite Shoes is preparing for peak school uniform season",
+      "source_name": "Drapers",
+      "source_domain": "drapersonline.com",
+      "source_url": "https://www.drapersonline.com/insight/comment/how-start-rite-shoes-is-preparing-for-peak-school-uniform-season",
+      "original_publish_time": "2026-07-22T11:29:00+00:00",
+      "scraped_time": "2026-07-22T18:08:43.002035+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "shoes"
+      ],
+      "relevance_score": 4,
+      "summary": "Drapers How Start-Rite Shoes is preparing for peak school uniform season It might be the height of summer but footwear retailers are already in the swing of school uniform. Jen Tyley, marketing and ecommerce director at Start-Rite Shoes tells Drapers how the business is preparing for its very own peak trading period. The post How Start-Rite Shoes is preparing for peak school uniform season appeared first on Drapers .",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "c3afb7fe497c",
       "title": "Randomevent x Timberland Reimagine the 3-Eye Classic Lug in Sand-Dune Yellow",
@@ -2254,132 +2398,6 @@
       ],
       "relevance_score": 5,
       "summary": "A trending texture meets a trending silhouette with Nike’s latest pack release. The tabi-toed Nike Air Rift, already in the midst of a renaissance thanks... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike Combines Footwear Trends With An Air Rift \"Pony Hair Pack\" appeared first on Sneaker News . The post Nike Combines Footwear Trends With An Air Rift “Pony Hair Pack” appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "c82b63a2e6d7",
-      "title": "The Bandana Craze Is Coming for Footwear, With Chaco and Nike Leading the Charge",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-trends/bandana-trend-shoes-chaco-nike-1239066942/",
-      "original_publish_time": "2026-07-15T18:03:53+00:00",
-      "scraped_time": "2026-07-16T00:00:54.172828+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "footwear",
-        "sandal"
-      ],
-      "relevance_score": 6,
-      "summary": "Chaco unveiled a bandana print lineup of sandals.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "6315d0c0152c",
-      "title": "New Balance Has Its Own Answer To The Jelly Sandal Trend",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/07/15/new-balance-jelly-sandals/",
-      "original_publish_time": "2026-07-15T18:00:17+00:00",
-      "scraped_time": "2026-07-15T18:02:50.284602+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "New Balance"
-      ],
-      "keywords_matched": [
-        "sandal"
-      ],
-      "relevance_score": 5,
-      "summary": "Low-rise jeans, bedazzled tees, and micro miniskirts have been out in force this summer, fueled by renewed appreciation for a Britney Spears, Ke$ha-esque era of... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post New Balance Has Its Own Answer To The Jelly Sandal Trend appeared first on Sneaker News . The post New Balance Has Its Own Answer To The Jelly Sandal Trend appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "55252d56bab9",
-      "title": "The Nike x Kith Linen Collection Unearths 25 Years of Sneaker History",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/7/kith-for-nike-linen-collection-2026-release-date-info",
-      "original_publish_time": "2026-07-15T17:34:50+00:00",
-      "scraped_time": "2026-07-15T18:02:50.078654+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "SUMMARYThe \"Un-Linen\" Air Force 1 flips the classic color blocking with a pink leather upper and brown SwooshA companion Air Max 95 stays true to the original palette by utilizing a brown upper with pink Air bubblesKith and Nike are unearthing 25 years of sneaker history with the upcoming release of the Kith x Nike \"Linen\" Collection. Scheduled for a Summer 2026 release, the two-shoe pack builds on Ronnie Fieg's decade-long obsession with the retro colorway, delivering a completely inverted take on the Air Force 1 alongside a new translation of the Air Max 95.Originally released in 2001 as a Japan-exclusive (CO.JP) Air Force 1, the soft brown and pink palette became a grail for collectors. In 2016, Kith cemented a deep connection to the colorway by launching its first-ever retro during Art",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "8ab4b05b24b7",
-      "title": "Germany's Weirdest Shoemaker Made Shoes Backwards on Purpose",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/trippen-shoes-interview/",
-      "original_publish_time": "2026-07-15T17:33:02+00:00",
-      "scraped_time": "2026-07-15T18:06:39.920156+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "There is no such thing as a normal Trippen shoe. But the Sisyphos, created with burgeoning Berlin designer Karl Valentin Gebhardt, is especially un-normal.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "4938caa447e7",
-      "title": "Official Images Of The Victor Solomon x Nike Air Foamposite One “Trophies”",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/07/15/victor-solomon-nike-air-foamposite-one-trophies-ir2077-001/",
-      "original_publish_time": "2026-07-15T15:30:18+00:00",
-      "scraped_time": "2026-07-15T18:02:50.288940+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "Victor Solomon’s run of “Trophies” sneakers was one of the star attractions of NBA All-Star Weekend back in February, the designer behind many of the... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Official Images Of The Victor Solomon x Nike Air Foamposite One “Trophies” appeared first on Sneaker News . The post Official Images Of The Victor Solomon x Nike Air Foamposite One “Trophies” appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "5664b2f4f7bb",
-      "title": "The Best Nike Sneakers Releasing This Week",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/best-nike-sneaker-releases-week-july-2/",
-      "original_publish_time": "2026-07-15T15:11:01+00:00",
-      "scraped_time": "2026-07-15T18:06:39.920931+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike",
-        "Jordan"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 6,
-      "summary": "Discover this week’s best Nike sneaker releases, featuring the Air Jordan 3 True Blue, Total 90 Shox Magia, Air Max 90 Premium, Air Force 1 ’07 LV8, Ava X, and more. Explore the latest drops, iconic retro designs, and must-have Nike sneakers before they sell out.",
       "ren_take": "",
       "image_url": ""
     }
