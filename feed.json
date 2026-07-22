@@ -1,8 +1,68 @@
 {
-  "last_updated": "2026-07-21T18:24:56.375576+00:00",
-  "total_articles": 120,
-  "sources_checked": 61,
+  "last_updated": "2026-07-22T00:12:58.329771+00:00",
+  "total_articles": 117,
+  "sources_checked": 62,
   "articles": [
+    {
+      "id": "65709b771bad",
+      "title": "Italian footwear turnover falls by 2.7% as exports weaken - World Footwear",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdTJidFhNTUgwcjJ4SFJRSTdfN0tPU2FhcU93QmpOeWQyaWxKYmxid3pxZXV3RGJIa2J2QUVYd3FzSnQ1Z2FVZGNDU3FYOG82a0l4TWphVEY1WEdobTdWSnp5cXZLcWpUQmVDd0VQcnNWQTZwSDJkWEZGRkppbXFCVjFLajJJNEFkaFN2S1M5bXJrcS1DOVhFNUQweHlZTWpKa2dR?oc=5",
+      "original_publish_time": "2026-07-21T23:04:01+00:00",
+      "scraped_time": "2026-07-21T23:57:42.263959+00:00",
+      "time_delta_mins": 0,
+      "category": "Trade Data",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Italian footwear turnover falls by 2.7% as exports weaken World Footwear",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "b104bf286f90",
+      "title": "Nike’s Suede Skate Slipper Is the Good Kind of Basic",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-sb-janoski-slip-black/",
+      "original_publish_time": "2026-07-21T21:28:52+00:00",
+      "scraped_time": "2026-07-22T00:05:46.551340+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "Nike SB's Janoski+ Slip sneaker is a master of the skate basics, making even simple \"Black/Gum\" suede designs look good.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "26161cae6762",
+      "title": "Confetti-Covered Soles Appear On The Kobe Bryant Nike Air Force 1 Low",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/07/21/kobe-bryant-nike-air-force-1-low-sail-hyper-purple-emerald-green-ib0018-014/",
+      "original_publish_time": "2026-07-21T20:00:20+00:00",
+      "scraped_time": "2026-07-21T23:57:31.455003+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sole",
+        "upper"
+      ],
+      "relevance_score": 6,
+      "summary": "Kobe Brand’s premier off-court series continues with a new Air Force 1 that poses more questions than answers, complete with mismatched upper accents and multi-colored... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Confetti-Covered Soles Appear On The Kobe Bryant Nike Air Force 1 Low appeared first on Sneaker News . The post Confetti-Covered Soles Appear On The Kobe Bryant Nike Air Force 1 Low appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "ed644803d5f8",
       "title": "McFarland Shoe Repair: Heart and sole - FOX 13 Tampa Bay",
@@ -862,6 +922,26 @@
       "keywords_matched": [],
       "relevance_score": 4,
       "summary": "Is it 2016 again? Could it have been possible in any other year that Vans could jump over the Jumpman like this? Well, we’d save any sweeping... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Vans Old Skool Souvenir, Jordan 4 \"Comic,\" And This Week's Best Releases appeared first on Sneaker News . The post Vans Old Skool Souvenir, Jordan 4 “Comic,” And This Week’s Best Releases appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "be919a970213",
+      "title": "Everything the footwear industry should know about new European textile waste regulations - Fashion United",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQN043MS1vQnpJRnlPS0ZLN0wtYzJaR0FaX0VhWmRXVWMxU05XMUl3WWNLbm93M1AwX0owM1VWZ2pKZGtNMV9oTGRrZlVTNkxEM3Z1dVJwZG1jVDg1bVpIeDlHN0R1MGhKS1dRdUZwSGEydmVGVkdrYnJWVmR6NlhXMHRpS0hlR3dWNVRrTTFtS1k0TkdEYmI3a3BvUnE3aHRwbnRVcmtjUFNMNHdKXzdlUFAxU3ZQTHlicG5GYlRMS2VSUUg5YmlsVFY4clN2TUlMOWItRkVtSmpwUQ?oc=5",
+      "original_publish_time": "2026-07-19T07:00:00+00:00",
+      "scraped_time": "2026-07-21T23:57:42.267167+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "footwear industry"
+      ],
+      "relevance_score": 6,
+      "summary": "Everything the footwear industry should know about new European textile waste regulations Fashion United",
       "ren_take": "",
       "image_url": ""
     },
@@ -2341,148 +2421,6 @@
       ],
       "relevance_score": 3,
       "summary": "Summary Indiana Fever guard Caitlin Clark has officially teased a brand-new colorway of her first signature sneakerThe newly revealed silhouette adopts a clean monochromatic white aesthetic nicknamed Snow WhiteThis latest design marks the fourth distinct colorway surfaced from the playmaker's upcoming footwear line Name: Nike Caitlin 1 \"Snow White\"Colorway: White/Racer BlueSKU: IH7423-100MSRP: $140 USDRelease Date: Holiday 2026Where to Buy: NikeNike and WNBA superstar Caitlin Clark are expanding her signature footwear portfolio with the reveal of the Nike Caitlin 1 \"Snow White\". The Indiana Fever guard took to social media to preview the clean monochromatic variation of her upcoming court-ready silhouette ahead of its formal debut.The \"Snow White\" edition trades the high-energy team colors",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "aaa5dd8e2d0b",
-      "title": "Walk This Way: Inside Spain’s Booming Footwear Industry - Monocle",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1XQW9QeURCWHY2UER3VHBNS0VRTkh2TUtMUXJiSUVZMTNlTGlxQmh4Tm9YaVo5RVVNT18zbG5LZTJ0ckhGQjlONC1tWk9pT1dSTHI1bkxmcV84T3FhNXR0N1ZvSF9PZ3M1cDNkcDU1Q3Y?oc=5",
-      "original_publish_time": "2026-07-14T23:42:22+00:00",
-      "scraped_time": "2026-07-16T00:01:15.562542+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "footwear industry"
-      ],
-      "relevance_score": 6,
-      "summary": "Walk This Way: Inside Spain’s Booming Footwear Industry Monocle",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "1cf687a67a65",
-      "title": "New Balance’s Miu Miu-Flavored Sneaker Gets Serious",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/new-balance-204l-triple-black/",
-      "original_publish_time": "2026-07-14T22:24:03+00:00",
-      "scraped_time": "2026-07-14T23:58:39.242970+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "New Balance"
-      ],
-      "keywords_matched": [
-        "sole"
-      ],
-      "relevance_score": 3,
-      "summary": "New Balance's 204L \"Triple Black\" sneaker sees the low-soled model dressed in a classic all-black suede look. Here's everything on the new release.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "f90fd4095214",
-      "title": "Victor Wembanyama Debuts the Nike Atelier Total 90 & Bespoke Team France Jacket",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/7/nike-atelier-total-90-victor-wembanyama-release-info",
-      "original_publish_time": "2026-07-14T20:15:41+00:00",
-      "scraped_time": "2026-07-14T23:55:05.917523+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 3,
-      "summary": "SummaryNike Atelier taps Victor Wembanyama for a bespoke capsule rooted in French craftsmanship and athletic heritageThe collection reimagines the legendary T90 Laser III football boot as a pure lifestyle silhouetteA tailored LenoWoven jacket crafted from an innovative cotton yarn adaptation completes the offeringAs the driving force behind the craft-forward initiative, Nike continues to invite world-class athletes into the fold of Nike Atelier. Following standout creations for athletes like Team France's Désiré Doué and Tennis star Jannik Sinner, the bespoke division is now rethinking a football staple through the streamlined Nike Atelier Total 90. Debuted by Doué's teammate Victor Wembanyama, Nike Atelier also revealed a bespoke creation made especially for \"Wemby.\"Shaped by precision an",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "575868960b35",
-      "title": "This World Cup Giveaway Includes the Summer’s Hottest Soccer Shoes",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/alias-world-cup-global-football-giveaway-1239065994/",
-      "original_publish_time": "2026-07-14T19:38:20+00:00",
-      "scraped_time": "2026-07-14T23:54:55.173232+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "Along with a Lionel Messi-signed soccer ball and other collectibles.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "04b761e7df3f",
-      "title": "EU Rules on Destruction of Unsold Apparel and Shoes Are About to Go into Effect: Here’s How It Could Benefit Small Shoe and Fashion Firms",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/deadstock-fabric-leather-luxury-houses-eu-textile-ban-1239065112/",
-      "original_publish_time": "2026-07-14T19:23:01+00:00",
-      "scraped_time": "2026-07-14T23:54:55.175719+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "The new EU rule curbing destruction of unsold fashion and shoes could see more deadstock fabric available for use in limited shoe runs.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "02fcdd497b6c",
-      "title": "EU Rules on Destruction of Unsold Apparel and Shoes Are in Effect Soon - WWD",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSlZDTTRudndXa1ZBd0pfQ2hTM0VsaFY4c0dQM1k0cVRYNWlFYkRtTnVwZ3pBYVY1aXU5R3ZVUGczRlpQQTRKU1RjUGpzZjkyV0RYM2dHN3BnN1FuaF9BUk9wWldGWHRUUTJGYzNVQzRXVUtCLVY3OXlIT1BraG5kMVl4LUpMMUtQaEJSOFo1bmt3QVVTTTh5dW1BajRCUEowMjFkb3lLZHM4M2Mtc2xkajFqS0I?oc=5",
-      "original_publish_time": "2026-07-14T19:13:16+00:00",
-      "scraped_time": "2026-07-14T23:55:17.155320+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "EU Rules on Destruction of Unsold Apparel and Shoes Are in Effect Soon WWD",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "4c325b27f1e7",
-      "title": "Shohei Ohtani's Game-Used New Balance Ohtani 1 Shoes Hits the Auction Block",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/7/shohei-ohtanis-game-used-new-balance-ohtani-1-shoes-mlb-tokyo-series-2025-the-realest-auction",
-      "original_publish_time": "2026-07-14T18:58:14+00:00",
-      "scraped_time": "2026-07-14T23:55:05.915759+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "New Balance"
-      ],
-      "keywords_matched": [
-        "footwear",
-        "shoes",
-        "sneakers"
-      ],
-      "relevance_score": 7,
-      "summary": "Summary The Realest has officially launched a live auction for Shohei Ohtani's game-used New Balance Ohtani 1 sneakersWorn during the historic 2025 MLB Tokyo Series, the one-of-one player exclusive pairs feature custom graphics of the athlete's dog and real infield dirtThe footwear artifact includes a rare personal Japanese Kanji signature and a game-used inscription from the four-time MVP New Balance and authentication platform The Realest have officially launched the live auction for Shohei Ohtani's game-used and signed New Balance Ohtani 1 shoes. Worn by the four-time MVP during the opening game of the 2025 MLB Tokyo Series, the historic sneakers represent an incredibly significant crossover of baseball legacy, Japanese sports history, and global sneaker culture.The one-of-one Player Ex",
       "ren_take": "",
       "image_url": ""
     }
