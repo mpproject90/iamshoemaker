@@ -1,8 +1,118 @@
 {
-  "last_updated": "2026-07-22T18:16:36.214893+00:00",
-  "total_articles": 116,
-  "sources_checked": 60,
+  "last_updated": "2026-07-23T00:13:23.178817+00:00",
+  "total_articles": 112,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "85ddc5e237e2",
+      "title": "The World’s Finest Grandpa Shoes Ain't Just Shoes Anymore",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/birkenstock-mephisto-paraboot-shoe-merch/",
+      "original_publish_time": "2026-07-22T21:22:01+00:00",
+      "scraped_time": "2026-07-23T00:06:12.420108+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Birkenstock",
+        "Mephisto"
+      ],
+      "keywords_matched": [
+        "boot",
+        "shoes"
+      ],
+      "relevance_score": 6,
+      "summary": "Grandpa shoes from Paraboot and Mephisto and Birkenstock already dominate the sneaker market. Now they've started doing merch.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "55db2c184cb6",
+      "title": "Surging imports put Brazil’s footwear industry under pressure - DatamarNews",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONEdXYzVJM3JYZFUzekUtYjdMcTdia3licUlkQWJvdVRYR0dtUldOZjUyWjc1bnhuSjhJbkQxVVVGZ1JEUklldGs5cUhwdzk3S3ZJdWJGdzBmdlRIZ1ZIQkRWal9ETFo4d1hoVzNicDhYUVVlQ0dnRU1wOGwxV2JyMVRuTEJFLVBvLUpBX0JKZFFmMnE2cHVRU1Bn?oc=5",
+      "original_publish_time": "2026-07-22T21:11:39+00:00",
+      "scraped_time": "2026-07-23T00:02:32.268714+00:00",
+      "time_delta_mins": 0,
+      "category": "Trade Data",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "footwear industry"
+      ],
+      "relevance_score": 6,
+      "summary": "Surging imports put Brazil’s footwear industry under pressure DatamarNews",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "5da49de2c058",
+      "title": "VANDYTHEPINK Serves Up ASICS' Gel-Kayano 12.1 in \"Chocolate\" & \"Vanilla\"",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/7/vandythepink-asics-gel-kayano-12-1-release-date-information",
+      "original_publish_time": "2026-07-22T20:42:08+00:00",
+      "scraped_time": "2026-07-23T00:02:21.262582+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [
+        "ASICS"
+      ],
+      "keywords_matched": [
+        "footwear",
+        "midsole",
+        "sneakers",
+        "sole",
+        "upper"
+      ],
+      "relevance_score": 7,
+      "summary": "SummaryVANDYTHEPINK and ASICS are launching the ice cream-inspired Gel-Kayano 12.1 in \"Chocolate\" and \"Vanilla\" on August 8.The sneakers feature custom branding, continuing the streetwear label's history of popular food-themed footwear collaborations.Virginia-born streetwear label VANDYTHEPINK has unveiled a second collaboration with ASICS, following up on its 2025 ASICS Gel-Nimbus 10.1 \"Banana Split\" and \"Strawberry\" variants with a running theme. The ice cream-inspired Gel-Kayano 12.1 is a two-pack release coming this August, arriving in \"Chocolate\" and \"Vanilla.\"\"Chocolate\" naturally carries a brown mesh upper, decorated with ASICS' classic overlays in silver and light yellow accents that extend to the midsole; meanwhile, \"Vanilla\" opts for a more expressive palette. With white mesh upp",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "03a5f3c342b6",
+      "title": "Vans Is Turning the Corner — And That’s Good News for VF",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/vf-vans-old-skool-authentic-dtc-timberland-revenue-growth-1239077895/",
+      "original_publish_time": "2026-07-22T18:27:24+00:00",
+      "scraped_time": "2026-07-23T00:02:10.728453+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Vans",
+        "Timberland"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "Vans updates to Old Skool and Authentic styles have momentum in its DTC channel, and outlook for Timberland's revenue growth is positive for 2026.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "d1a7f2f76f3b",
+      "title": "Puma Hires Former Adidas and Reebok Exec to Drive E-commerce Business",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/puma-dusan-hamlin-vice-president-e-commerce-business-1239079148/",
+      "original_publish_time": "2026-07-22T18:00:42+00:00",
+      "scraped_time": "2026-07-23T00:02:10.731451+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Nike",
+        "Adidas",
+        "Puma",
+        "Reebok"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 7,
+      "summary": "Hamlin’s appointment comes just one week after Puma hired Nike veteran Marcia Dos Santos as vice president of its core business unit.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "35f7b612d2bc",
       "title": "First Look: Michael Jordan’s Air Jordan 3 Is Getting a New Christmas-themed Release This Holiday Season",
@@ -2213,191 +2323,6 @@
       ],
       "relevance_score": 3,
       "summary": "These celebrity attendees shone bright on the red carpet, and so did their shoe choices.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "7d7431f48e46",
-      "title": "Phyllis Rein from FSNYE: business is built on relationships - World Footwear",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVnJPUzMwR3NuMkVJcklGLTBjZERNZmx6ZmFjNXZiZVlwOTV3bTVRYXRDZGVHZzNBMHFJMXgzVktjdFBHUTdLQmxkU3d5azhNbDktLUxFdGdlNDJZU1YyNzZ6UzN0c3NqVjdYanZYbDBNTTdBbDg2dE1hWmF0Zy02bWh4aHRiUDB4Sm5uU2Mtd2JLWTRkc1JzOEU0SERRY1REVGJRVUFMTQ?oc=5",
-      "original_publish_time": "2026-07-15T23:00:32+00:00",
-      "scraped_time": "2026-07-16T00:01:15.561841+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Phyllis Rein from FSNYE: business is built on relationships World Footwear",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "1374263f3f6b",
-      "title": "Kobe Bryant x Nike Air Force 1 Low \"Black/Purple Stardust\"",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/7/kobe-bryant-nike-air-force-1-low-black-purple-stardust-ib0018-007-release-info",
-      "original_publish_time": "2026-07-15T22:31:36+00:00",
-      "scraped_time": "2026-07-16T18:03:24.421615+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "Summary Nike is expanding its commemorative Kobe Bryant lineup with a fresh take on the classic Air Force 1 LowThe design features a premium black leather upper highlighted by vibrant Purple Stardust and Varsity Maize detailingKobe’s signature \"Sheath\" logo is elegantly embossed on the lateral heel and tongue tag to celebrate his enduring legacy Name: Kobe Bryant x Nike Air Force 1 Low \"Black/Purple Stardust\"Colorway: Black/White-Purple StardustSKU: IB0018-007MSRP: $125 USDRelease Date: Fall 2026Where to Buy: NikeNike is continuing to celebrate the legendary legacy of the Black Mamba with the upcoming release of the Air Force 1 Low in a striking \"Black/Purple Stardust\" colorway. The special-edition lifestyle sneaker seamlessly blends the timeless aesthetic of the Air Force 1 with signature",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "39bb438d2132",
-      "title": "Jacquemus and Timberland Unveil the \"Lagoon Blue\" Authentic Boat Shoe",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/7/jacquemus-timberland-authentic-boat-shoe-lagoon-blue-release-info",
-      "original_publish_time": "2026-07-15T21:39:21+00:00",
-      "scraped_time": "2026-07-16T18:03:24.430158+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Timberland"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 4,
-      "summary": "Summary Jacquemus and Timberland have announced their second collaborative footwear release for Summer 2026The limited-edition drop introduces the signature Authentic Boat Shoe in a vibrant Lagoon Blue huePremium materials like full-grain leather and bespoke metal hardware elevate the traditional design Timberland and French luxury label Jacquemus have officially unveiled their second collaborative footwear project, the Timberland® x Jacquemus Authentic Boat Shoe. Following their initial partnership in 2025, the brands have reunited to deliver a vibrant, high-fashion adaptation of the rugged lifestyle classic.The collaborative shoe is rendered in a striking \"Lagoon Blue\" colorway, a key hue from Jacquemus' Spring/Summer 2027 collection titled \"Le Bonheur.\" The vivid shade draws direct desi",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "e9c08763c076",
-      "title": "Vibram’s Little Yellow Tag Is the Main Character Now",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/hender-scheme-vibram/",
-      "original_publish_time": "2026-07-15T21:39:00+00:00",
-      "scraped_time": "2026-07-16T00:04:31.732961+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [
-        "Vibram"
-      ],
-      "keywords_matched": [
-        "footwear",
-        "sole"
-      ],
-      "relevance_score": 4,
-      "summary": "The Hender Scheme collab with footwear staple Vibram is more than a custom sole — it's a reflection of how fashionable the FiveFinger brand has become.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "d355674b4132",
-      "title": "Nike’s New Air Force 1 Is Being Compared to One of the Sneaker’s Most Notorious Bootlegs",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-air-force-1-07-game-day-iv5685-365-1239067386/",
-      "original_publish_time": "2026-07-15T21:04:18+00:00",
-      "scraped_time": "2026-07-16T00:00:54.168117+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 5,
-      "summary": "The \"Game Day\" Air Force 1 is available now.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "1d2736348e86",
-      "title": "Monica Barbaro Answers the Question of Which Heels Pair Well With Capris",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-trends/monica-barbaro-minimalist-sandal-capris-heels-1239067374/",
-      "original_publish_time": "2026-07-15T20:52:56+00:00",
-      "scraped_time": "2026-07-16T00:00:54.170996+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "sandal"
-      ],
-      "relevance_score": 3,
-      "summary": "The actress was out and about in New York City wearing a minimalist sandal.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "5f5c636f5938",
-      "title": "Timberland and Jacquemus Are Back Together Again on Blue Lug Sole Boat Shoes",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/jacquemus-timberland-lagoon-blue-lug-sole-boat-shoes-1239067544/",
-      "original_publish_time": "2026-07-15T20:32:32+00:00",
-      "scraped_time": "2026-07-16T00:00:54.171585+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Timberland"
-      ],
-      "keywords_matched": [
-        "shoes",
-        "sole"
-      ],
-      "relevance_score": 8,
-      "summary": "The shoe will be available from July 17.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "bb13437a3bcc",
-      "title": "Purple Brand, Best Known for Its Denim, Is Now Launching Shoes",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/purple-brand-sneakers-release-info-1239067454/",
-      "original_publish_time": "2026-07-15T20:31:02+00:00",
-      "scraped_time": "2026-07-16T00:00:54.172093+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "The new sneaker style is available in four colorways.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "21c82e6ed0b3",
-      "title": "Nike Combines Footwear Trends With An Air Rift “Pony Hair Pack”",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/07/15/nike-air-rift-pony-hair-pack/",
-      "original_publish_time": "2026-07-15T20:30:11+00:00",
-      "scraped_time": "2026-07-16T00:01:04.820703+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 5,
-      "summary": "A trending texture meets a trending silhouette with Nike’s latest pack release. The tabi-toed Nike Air Rift, already in the midst of a renaissance thanks... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike Combines Footwear Trends With An Air Rift \"Pony Hair Pack\" appeared first on Sneaker News . The post Nike Combines Footwear Trends With An Air Rift “Pony Hair Pack” appeared first on Sneaker News .",
       "ren_take": "",
       "image_url": ""
     }
