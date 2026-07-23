@@ -1,8 +1,110 @@
 {
-  "last_updated": "2026-07-23T07:36:15.675683+00:00",
-  "total_articles": 113,
-  "sources_checked": 61,
+  "last_updated": "2026-07-23T12:36:33.762627+00:00",
+  "total_articles": 112,
+  "sources_checked": 60,
   "articles": [
+    {
+      "id": "1918becc24cb",
+      "title": "6 Blokecore Collaborations We Loved During the 2026 FIFA World Cup",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/7/2026-fifa-world-cup-collaborations-best-releases-look-back",
+      "original_publish_time": "2026-07-23T12:03:51+00:00",
+      "scraped_time": "2026-07-23T12:24:18.731718+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "boot",
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "While the final whistle of the 2026 FIFA World Cup blew on July 19, the tournament’s impact is far from over. This year’s competition served as the ultimate catalyst for cross-sector collaborations that embraced blokecore, novelty, and nostalgia. Now that the games have ended, here is a look back at some of our favorite collaborations and releases timed for the event.Cactus Jack x Nike T90 JerseyTeased by La Flame himself, the Travis Scott and Nike x Cactus Jack T90 collection brought early-2000s football nostalgia into the modern streetwear fold. Centered around the revival of the iconic Nike Total 90 silhouette, the release delivered a full product range encompassing performance boots, lifestyle sneakers, and co-branded apparel. Key styles included the earth-toned T90 boots detailed with",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "fb82553a2788",
+      "title": "Yayoi Kusama Had Nothing to Do With These Nike Boots",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-air-max-goadome-low-polka-dot/",
+      "original_publish_time": "2026-07-23T10:09:00+00:00",
+      "scraped_time": "2026-07-23T12:27:51.035507+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 5,
+      "summary": "27 years after its launch and with a few holes in it, the Nike Air Max Goadome Low Polka Dot Pack ushers in a new era for the design.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "610989307ea3",
+      "title": "Puma appoints digital veteran to lead global ecommerce push",
+      "source_name": "Retail Gazette",
+      "source_domain": "retailgazette.co.uk",
+      "source_url": "https://www.retailgazette.co.uk/blog/2026/07/puma-appoints-digital-veteran-to-lead-global-ecommerce-push/",
+      "original_publish_time": "2026-07-23T10:02:14+00:00",
+      "scraped_time": "2026-07-23T12:27:19.501865+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Adidas",
+        "Puma",
+        "Reebok"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "Puma has appointed former Adidas and Reebok executive Dusan Hamlin to the newly created role of vice president of ecommerce as it looks to accelerate its digital growth. Hamlin, who takes up the position with immediate effect, will oversee the sportswear giant’s global digital and ecommerce strategy and report to chief commercial officer Matthias Bäumer....",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "b8ce444d52df",
+      "title": "YouTube debuts Shopping Affiliate programme with Boots, M&S and Next signing up",
+      "source_name": "Retail Gazette",
+      "source_domain": "retailgazette.co.uk",
+      "source_url": "https://www.retailgazette.co.uk/blog/2026/07/youtube-debuts-shopping-affiliate-programme-with-boots-ms-and-next-signing-up/",
+      "original_publish_time": "2026-07-23T09:30:58+00:00",
+      "scraped_time": "2026-07-23T12:27:19.502962+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 3,
+      "summary": "YouTube is launching its Shopping Affiliate programme in the UK, in a move that creates “an ecosystem where creators, retailers and viewers connect seamlessly”. Major UK retailers have already partnered with YouTube for this content tool, including Boots, Debenhams, Etsy, M&S, Next and Wayfair. The video platform, which is owned by Google’s parent company Alphabet, has rolled...",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "dace41170bdd",
+      "title": "Boots launches hygiene poverty campaign as research reveals impact on young jobseekers",
+      "source_name": "Retail Gazette",
+      "source_domain": "retailgazette.co.uk",
+      "source_url": "https://www.retailgazette.co.uk/blog/2026/07/boots-launches-hygiene-poverty-campaign-as-research-reveals-impact-on-young-jobseekers/",
+      "original_publish_time": "2026-07-23T09:02:54+00:00",
+      "scraped_time": "2026-07-23T12:27:19.503902+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 3,
+      "summary": "Boots has partnered with The Hygiene Bank and The King’s Trust to distribute 15,000 toiletry kits after new research found that a lack of access to hygiene essentials is preventing young people from pursuing job opportunities. Four in five 18-to-24-year-olds affected by hygiene poverty said they had delayed or missed a career opportunity because they...",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "a62f8cfeceed",
       "title": "Carnival and adidas Channel Retro Gaming on the Adizero EVO SL \"The Grey Console\"",
@@ -2222,127 +2324,6 @@
       ],
       "relevance_score": 3,
       "summary": "Summary Nike is preparing to expand Ja Morant's signature line with the upcoming Nike Ja 3 \"Garden\"The silhouette features a lively green color scheme accented by soft pink and black detailingThe performance-driven design incorporates a lightweight mesh upper and supportive TPU overlays Name: Nike Ja 3 \"Garden\"Colorway: Malachite/Black/WhiteSKU: IX5372-300MSRP: $135 USDRelease Date: Available NowWhere to Buy: NikeNike is expanding its signature basketball roster with the upcoming release of the Nike Ja 3 \"Garden\". The third iteration of Ja Morant’s signature line embraces a botanical aesthetic designed for both on-court performance and off-court style.The \"Garden\" colorway showcases a vibrant mix of vapor green and sublime hues across its breathable mesh upper. Providing structural support",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "7ce78a565d08",
-      "title": "What are the top running shoes & brands? A buyer's guide for runners - Savannah Morning News",
-      "source_name": "Google News - Sneaker Brand",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUHlQZVZiT0xndHkyelFrM0l5ZFRpeFhsUjNPMzFhVGNnSjNIMWlfLVJ0Tk9rYnF3djdVZDdfUnpSd0VlVGRNMGhCVXpuc2hEcmtRY2VkTkV0aDN2QnJZb3NTRUZadm95SWZYVlJ3TTd3eDJoUURmMDhrX2hQOGpKTk9Lb3F2cFlWWE42QjR3WW0zVWxRbmp0SlhoSkdfUnJXckFYd3g0dGdaOHFIanZIMHMzek95Q3c?oc=5",
-      "original_publish_time": "2026-07-16T12:02:00+00:00",
-      "scraped_time": "2026-07-16T12:20:23.075479+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "What are the top running shoes & brands? A buyer's guide for runners Savannah Morning News",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "b9e7829950ae",
-      "title": "Meridian Footwear Is Using 3D Technology to Fuel Interest in Made-in-America Shoe Production",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/meridian-footwear-factory-mississipi-reshoring-made-in-usa-1239067107/",
-      "original_publish_time": "2026-07-16T11:47:57+00:00",
-      "scraped_time": "2026-07-16T12:20:00.589296+00:00",
-      "time_delta_mins": 0,
-      "category": "Manufacturing",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "The company currently operates one factory in Mississippi and has plans to expand.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "daa27e07c576",
-      "title": "Salehe Bembury PUMA NITRO Velum 2 First Look",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/7/salehe-bembury-puma-nitro-velum-2-collaboration-first-look",
-      "original_publish_time": "2026-07-16T10:07:19+00:00",
-      "scraped_time": "2026-07-16T12:20:11.172204+00:00",
-      "time_delta_mins": 0,
-      "category": "Trade Data",
-      "brands_mentioned": [
-        "Puma"
-      ],
-      "keywords_matched": [
-        "midsole",
-        "sole",
-        "upper"
-      ],
-      "relevance_score": 5,
-      "summary": "Name: Salehe Bembury PUMA NITRO Velum 2SKU: TBCRelease Date: TBCSalehe Bembury has teased the upcoming PUMA NITRO Velum 2 on Instagram, offering a first look at the sequel to his debut Velum silhouette. The image highlights the sneaker’s sculptural upper, built with metallic silver synthetic overlays and breathable mesh windows arranged in fluid, wavy lines.The layered construction emphasizes movement while maintaining a futuristic edge, with black detailing along the lace panels and logos providing contrast. A textured yellow midsole anchors the design, adding energy and visual depth to the streamlined runner. While official release details remain unconfirmed, the previewed silhouette appears to be complete, which could mean that the launch is expected soon. Click here to view full galler",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "9cd7119233b7",
-      "title": "Take a First Look at the Nike Vomero Plus “Cheat Day”",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/7/nike-vomero-plus-cheat-day-first-look",
-      "original_publish_time": "2026-07-16T09:41:59+00:00",
-      "scraped_time": "2026-07-16T12:20:11.174196+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "Name: Nike Vomero Plus “Cheat Day”SKU: TBCRelease Date: TBCNike has unveiled the first look at the Vomero Plus “Cheat Day”, a playful reinterpretation of the performance‑driven runner. Inspired by the finger‑staining allure of Cheetos, the sneaker pairs humor with technical precision, positioning itself as both collectible and functional.The upper is constructed from lightweight, breathable mesh in cream and sail tones, serving as a neutral backdrop for the vibrant orange gradient that dominates the toe. Complementary details include orange lace tips and a matching heel tab, echoing the striking forefoot finish and reinforcing the snack‑inspired theme. Click here to view full gallery at Hypebeast",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "53183e953265",
-      "title": "Amfori launches review after fatal shoe factory fire",
-      "source_name": "Ecotextile News",
-      "source_domain": "ecotextile.com",
-      "source_url": "https://www.ecotextile.com/2026071664124/news/social-compliance-and-csr/amfori-launches-review-after-fatal-shoe-factory-fire/",
-      "original_publish_time": "2026-07-16T09:28:37+00:00",
-      "scraped_time": "2026-07-16T12:22:16.072373+00:00",
-      "time_delta_mins": 0,
-      "category": "Quality",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoe factory"
-      ],
-      "relevance_score": 3,
-      "summary": "Amfori has begun a formal review of its social auditing records after a deadly fire at a Chinese shoe factory […] The post Amfori launches review after fatal shoe factory fire appeared first on Ecotextile News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "68bb9e164029",
-      "title": "The Sony Playstation 6 Might Be a Handheld Digital Console",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/7/sony-playstation-6-rumored-as-handheld-digital-console",
-      "original_publish_time": "2026-07-16T07:37:52+00:00",
-      "scraped_time": "2026-07-16T12:20:11.178306+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "hide",
-        "sole"
-      ],
-      "relevance_score": 5,
-      "summary": "Summary Sony Interactive Entertainment CEO Hideaki Nishino signaled a major strategy shift during a recent investor meeting by emphasizing gaming \"beyond the living room\" and transitioning to a \"true digital platform business/\"The executive's comments coupled with a recent decision to phase out physical game discs suggest the upcoming PlayStation 6 will likely be designed as a handheld or hybrid device similar to the Nintendo Switch.Future hardware is expected to prioritize digital distribution through the PlayStation Store while maintaining backward compatibility for digital PS4 and PS5 libraries. Sony's hardware future is coming into sharp focus following remarks by CEO Hideaki Nishino at a recent business meeting. The executive positioned the PlayStation Portal as a precursor to a \"beyo",
       "ren_take": "",
       "image_url": ""
     }
