@@ -1,8 +1,52 @@
 {
-  "last_updated": "2026-07-24T00:14:48.145633+00:00",
-  "total_articles": 112,
+  "last_updated": "2026-07-24T07:34:32.843068+00:00",
+  "total_articles": 113,
   "sources_checked": 61,
   "articles": [
+    {
+      "id": "58a25c5b7360",
+      "title": "The Nike Air Liquid Max \"Sequoia\" Swaps Nanoprint for a Sculpted TPU Line Upper",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/7/nike-air-liquid-max-sequoia-iv6097-300-official-images",
+      "original_publish_time": "2026-07-24T07:11:50+00:00",
+      "scraped_time": "2026-07-24T07:23:45.014364+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "outsole",
+        "sole",
+        "upper"
+      ],
+      "relevance_score": 7,
+      "summary": "Name: Nike Air Liquid Max “Sequoia”Colorway: Sequoia/Black-Medium Olive-AnthraciteSKU: IV6097-300MSRP: $210 USDRelease Date: Fall 2026Nike's Air Liquid Max returns in a new \"Sequoia\" colorway that leans into darker, earth-toned territory for the fall season. The release layers deep green, black, and grey across the silhouette while reworking the upper's texture, giving the model a more sculpted profile than earlier iterations.Sequoia covers the mesh upper as the dominant shade, with Anthracite threading through the overlays, Swoosh, lining, and outsole for a low-contrast, tonal effect. Rather than mirror the textured nanoprint finish seen on previous versions, this pair introduces thin TPU lines that travel across the upper from toe to heel. The raised pattern builds visible dimension alon",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "141c111d7f29",
+      "title": "The Nike Vomero Plus \"Cheat Day\" Stains Its Khaki Upper With a Cheeto-Dusted Orange Fade",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/7/nike-vomero-plus-cheat-day-iv4522-200-official-images",
+      "original_publish_time": "2026-07-24T06:32:24+00:00",
+      "scraped_time": "2026-07-24T07:23:45.018634+00:00",
+      "time_delta_mins": 0,
+      "category": "Trade Data",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 5,
+      "summary": "Name: Nike Vomero Plus “Cheat Day”Colorway: Desert Camo/Ceramic-College Grey-Yukon BrownSKU: IV4522-200MSRP: $175 USDRelease Date: Summer 2026Nike's Vomero Plus \"Cheat Day\" takes an unlikely starting point for a running shoe, building its entire concept around the orange residue left behind after reaching into a snack bag. First unveiled through the SNKRS Verified program, the release trades clean color-blocking for something messier and more playful.Most of the upper holds a muted khaki tone before the color shifts around the front, where an uneven orange fade creeps across the toe and forefoot. The finish reportedly avoids a tidy gradient on purpose, landing closer to stained fingertips than a conventional design treatment. It is a small conceptual gag executed at the material level, and",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "b539674ef3fb",
       "title": "BREAKING: Nike Air Max 1 97 Will Return As Part Of Doernbecher Freestyle 2027 Collection",
@@ -2300,27 +2344,6 @@
       ],
       "relevance_score": 3,
       "summary": "Name: Kiko Kostadinov x ASICS US8-S GEL-SJ33Colorway: Black Coffee/Orange Lily, Roasted Coffee/BluebellSKU: 1203B116.200, 1203B116.201MSRP: ¥24,200 JPY (approx. $149 USD)Release Date: July 31Where to Buy: ASICSCurated by Kiko Kostadinov in partnership with ASICS, the newly unveiled US8-S GEL-SJ33 seamlessly bridges 2010s running heritage with avant-garde streetwear aesthetics. Drawing heavy inspiration from the archival GEL-SUPER J33, the updated silhouette features a highly intricate, seamless upper designed to conceptually mimic natural biological membranes. This technical, skin-like construction acts as a flexible second skin, delivering both lightweight support and natural biomechanical movement, which is further stabilized by a robust heel counter and a functional medial strap.The sne",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "4aea164aa39c",
-      "title": "Birkenstock launches new collection with Repetto",
-      "source_name": "Drapers",
-      "source_domain": "drapersonline.com",
-      "source_url": "https://www.drapersonline.com/news/birkenstock-launches-new-collection-with-repetto",
-      "original_publish_time": "2026-07-17T06:23:39+00:00",
-      "scraped_time": "2026-07-17T07:10:16.038199+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Birkenstock"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Drapers Birkenstock launches new collection with Repetto German comfort footwear brand Birkenstock and French women's premium footwear brand Repetto have collaborated on a collection combining ballet pumps and practicality. The post Birkenstock launches new collection with Repetto appeared first on Drapers .",
       "ren_take": "",
       "image_url": ""
     }
