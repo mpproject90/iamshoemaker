@@ -1,8 +1,87 @@
 {
-  "last_updated": "2026-07-24T18:26:47.706026+00:00",
-  "total_articles": 106,
-  "sources_checked": 62,
+  "last_updated": "2026-07-25T00:17:56.886058+00:00",
+  "total_articles": 104,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "ac31d67b4f85",
+      "title": "The Nike Pegasus Premium Continues To Dabble In Gradient Soles",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/07/24/nike-pegasus-premium-white-aluminum-sundial-mystic-navy-hq2593-107/",
+      "original_publish_time": "2026-07-24T21:00:59+00:00",
+      "scraped_time": "2026-07-25T00:07:15.352541+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sole"
+      ],
+      "relevance_score": 5,
+      "summary": "Run clubs around metro areas are as well attended as ever, as every fashion outlet, magazine, and blog continues reporting on the blurred lines between... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Nike Pegasus Premium Continues To Dabble In Gradient Soles appeared first on Sneaker News . The post The Nike Pegasus Premium Continues To Dabble In Gradient Soles appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "63865747f214",
+      "title": "US imposes 10% Section 301 tariff on Bangladesh apparel exports",
+      "source_name": "Textile Today",
+      "source_domain": "textiletoday.com.bd",
+      "source_url": "https://textiletoday.com.bd/us-imposes-10-section-301-tariff-on-bangladesh-apparel-exports",
+      "original_publish_time": "2026-07-24T18:45:00+00:00",
+      "scraped_time": "2026-07-25T00:10:58.195505+00:00",
+      "time_delta_mins": 0,
+      "category": "Trade Data",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "apparel exports"
+      ],
+      "relevance_score": 3,
+      "summary": "The United States has imposed a new 10% Section 301 tariff on textile and apparel imports from Bangladesh, adding fresh pressure on one of the country's largest export markets. The measure took effect...",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "379dfd90c143",
+      "title": "Footwear Firms Face New Tariffs, and More Could Be on the Way",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/tariffs-fdra-matt-priest-20-percent-footwear-shoes-imports-1239081383/",
+      "original_publish_time": "2026-07-24T18:33:52+00:00",
+      "scraped_time": "2026-07-25T00:07:04.441994+00:00",
+      "time_delta_mins": 0,
+      "category": "Trade Data",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "FDRA's Matt Priest is advising members that tariffs will \"get back to mainly 20 percent in some form or fashion for most of our producing countries.\"",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "0a0c0cc77bd4",
+      "title": "Why is Balletcore so Popular in Sneakers at the Moment? - The Sole Supplier",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTzg1Mi1kQ3N3Uk96S2pSakhnMHo3SFA4eU13U3EwWFowVnNnbnAwc29VUlQzR0xyWVJfZVdZRW5MYlYtc28tYVBzdkFmaEZQcXZLTjJmVkYtMFNRZ0U3Q09qYTY2MXF3T0lLTmJLVFhQWlJrcG9aV21Ldnl6LXVvNHhVZlVuUXIzVGltN3VKXzlzeHFVcUxF?oc=5",
+      "original_publish_time": "2026-07-24T17:54:00+00:00",
+      "scraped_time": "2026-07-25T00:07:26.718950+00:00",
+      "time_delta_mins": 0,
+      "category": "Manufacturing",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sneakers",
+        "sole"
+      ],
+      "relevance_score": 6,
+      "summary": "Why is Balletcore so Popular in Sneakers at the Moment? The Sole Supplier",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "1d75469aff06",
       "title": "The Nike Moon Shoe Issues Two Colorful Pairs For August",
@@ -2075,129 +2154,6 @@
       ],
       "relevance_score": 3,
       "summary": "Birkenstock’s Repetto Opéra puts a balletcore spin on the brand’s comfort-first DNA, with wraparound laces and a more graceful take on everyday footwear.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "c945e3b60a81",
-      "title": "DJ Khaled Talks Snipes’ Back-to-school Campaign, His Favorite Sneakers of 2026 and More",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-trends/dj-khaled-snipes-back-to-school-campaign-interview-1239074291/",
-      "original_publish_time": "2026-07-17T21:44:38+00:00",
-      "scraped_time": "2026-07-17T23:55:26.380688+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "DJ Khaled is the chief creative officer of sneaker and streetwear retailer Snipes.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "0bbde04fc48b",
-      "title": "How This ‘Shocked’ Designer Found Out Beyoncé Wore the Jimmy Choo x Timberland Boots She Helped Create",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-trends/shanel-campbell-beyonce-jimmy-choo-timberland-boots-1239069256/",
-      "original_publish_time": "2026-07-17T20:44:14+00:00",
-      "scraped_time": "2026-07-17T23:55:26.383532+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Timberland",
-        "Jimmy Choo"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 7,
-      "summary": "Shanel Campbell shares exclusive details with FN about designing the boots the singer wore on stage at Jay-Z's Yankees Stadium show.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "85f89d944eb0",
-      "title": "Low-profile Sneakers and Running-inspired Shoes to Dominate Back-to-school Shopping This Year",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/back-to-school-shopping-low-profile-sneakers-running-shoes-1239074310/",
-      "original_publish_time": "2026-07-17T20:29:10+00:00",
-      "scraped_time": "2026-07-17T23:55:26.384284+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "shoes",
-        "sneakers"
-      ],
-      "relevance_score": 7,
-      "summary": "Sneakers, including cleats, generate about two-thirds of footwear sales during July and August, new Circana data found.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "aabc1134b9ec",
-      "title": "This Air Jordan 1 Low Blends Two Iconic Colorways",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/07/17/air-jordan-1-low-black-true-blue-varsity-red-summit-white-553558-049/",
-      "original_publish_time": "2026-07-17T20:00:06+00:00",
-      "scraped_time": "2026-07-17T23:55:37.040188+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike",
-        "Jordan"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "Mashups and hybrids are all the rage now, as the Nike Cryoshot series, Foamposite crossovers, Atellier luxe reduxes, or the continuing “RestoMod’ series for Jordan... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post This Air Jordan 1 Low Blends Two Iconic Colorways appeared first on Sneaker News . The post This Air Jordan 1 Low Blends Two Iconic Colorways appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "95e4ba08fe89",
-      "title": "The Back-To-School Sneaker Guide: New Balance, adidas, & Nike At DICK’S Sporting Goods",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/07/17/dicks-sporting-goods-back-to-school-2026/",
-      "original_publish_time": "2026-07-17T19:45:43+00:00",
-      "scraped_time": "2026-07-17T23:55:37.067559+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Nike",
-        "Adidas",
-        "New Balance"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 6,
-      "summary": "SPONSORED BY Photography: Hailey Landin For sneaker enthusiasts, back-to-school shopping has always been about more than checking items off a list. The new semester is... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Back-To-School Sneaker Guide: New Balance, adidas, & Nike At DICK'S Sporting Goods appeared first on Sneaker News . The post The Back-To-School Sneaker Guide: New Balance, adidas, & Nike At DICK’S Sporting Goods appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "5e536c86f8d7",
-      "title": "Where To Buy The Air Jordan 3 “True Blue”",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/07/17/jordan-true-blue-3s/",
-      "original_publish_time": "2026-07-17T19:30:54+00:00",
-      "scraped_time": "2026-07-17T23:55:37.069378+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike",
-        "Jordan"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "The “True Blue” 3s release July 18th, 2026 via Nike SNKRS and select retailers in full family sizing: $230 for adults, $155 for grade schoolers,... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Where To Buy The Air Jordan 3 \"True Blue\" appeared first on Sneaker News . The post Where To Buy The Air Jordan 3 “True Blue” appeared first on Sneaker News .",
       "ren_take": "",
       "image_url": ""
     }
