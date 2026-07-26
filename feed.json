@@ -1,8 +1,51 @@
 {
-  "last_updated": "2026-07-26T12:14:09.970781+00:00",
-  "total_articles": 100,
-  "sources_checked": 61,
+  "last_updated": "2026-07-26T18:09:54.352984+00:00",
+  "total_articles": 99,
+  "sources_checked": 60,
   "articles": [
+    {
+      "id": "2e6a60ba38c7",
+      "title": "Nike's Got Its Own Techy \"Wallabee\" Sneaker",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-shox-tl-leather/",
+      "original_publish_time": "2026-07-26T16:41:09+00:00",
+      "scraped_time": "2026-07-26T18:02:45.149887+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "Nike introduces a new Shox TL sneaker featuring an all-leather upper, minimalist Swooshes, & a moccasin-style toe.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "cba1b5e72afc",
+      "title": "adidas Jellyfish, Air Jordan 13 “Flint,” And This Week’s Best Releases",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/07/26/sneaker-release-dates-july-26-august-1-2026/",
+      "original_publish_time": "2026-07-26T16:00:45+00:00",
+      "scraped_time": "2026-07-26T17:59:11.221886+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Adidas",
+        "Jordan"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 5,
+      "summary": "Wake up! The first of the month is no doubt the most action-packed in the coming days, delivering both the shoes mentioned and shown above,... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post adidas Jellyfish, Air Jordan 13 \"Flint,\" And This Week's Best Releases appeared first on Sneaker News . The post adidas Jellyfish, Air Jordan 13 “Flint,” And This Week’s Best Releases appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "e49a5c4f8f46",
       "title": "I Live in My Puma Ballet Sneakers—Obviously, I’m Buying This Newer (Chicer) Version Before It Sells Out - instyle.com",
@@ -2006,68 +2049,6 @@
       ],
       "relevance_score": 6,
       "summary": "US imposes 25% tariffs on Brazilian goods, raising concerns in the footwear industry World Footwear",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "6496ec1052af",
-      "title": "The ASICS GEL-Nimbus 10.1 Is Prepping For Fall Early",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/07/19/asics-gel-nimbus-10-1-cocoa-powder-1203a599-200/",
-      "original_publish_time": "2026-07-19T18:00:00+00:00",
-      "scraped_time": "2026-07-20T02:13:01.161289+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "ASICS"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "The further we get into the wave, the more it seems like we’ll look back at the 2020s in footwear as the era of the... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The ASICS GEL-Nimbus 10.1 Is Prepping For Fall Early appeared first on Sneaker News . The post The ASICS GEL-Nimbus 10.1 Is Prepping For Fall Early appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "97c1eaf24b53",
-      "title": "New Balance's Futuristic Gray Sneaker Topples the Dad Shoe Charts",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/new-balance-1954-sneaker-gray/",
-      "original_publish_time": "2026-07-19T17:54:00+00:00",
-      "scraped_time": "2026-07-19T17:59:22.438505+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "New Balance"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "New Balance's sleek gray new U1954 dad shoe is unlike any of NB's other class gray dad shoes.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "eb51c536766f",
-      "title": "Vans Old Skool Souvenir, Jordan 4 “Comic,” And This Week’s Best Releases",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/07/19/sneaker-releases-july-19-july-25-2026/",
-      "original_publish_time": "2026-07-19T16:00:52+00:00",
-      "scraped_time": "2026-07-19T17:55:23.810379+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Vans",
-        "Jordan"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 4,
-      "summary": "Is it 2016 again? Could it have been possible in any other year that Vans could jump over the Jumpman like this? Well, we’d save any sweeping... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Vans Old Skool Souvenir, Jordan 4 \"Comic,\" And This Week's Best Releases appeared first on Sneaker News . The post Vans Old Skool Souvenir, Jordan 4 “Comic,” And This Week’s Best Releases appeared first on Sneaker News .",
       "ren_take": "",
       "image_url": ""
     }
