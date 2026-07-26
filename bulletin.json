@@ -1,6 +1,107 @@
 {
-  "last_updated": "2026-07-19T09:54:23.262576+00:00",
+  "last_updated": "2026-07-26T10:03:05.305514+00:00",
   "bulletins": [
+    {
+      "id": "wk30-2026",
+      "week_number": 30,
+      "year": 2026,
+      "date_from": "2026-07-20",
+      "date_to": "2026-07-26",
+      "published": "2026-07-26T10:03:05.304934+00:00",
+      "intro": "Week 30 arrives with Brazil pulling in two directions at once, Puma quietly reshaping its executive bench, and the luxury aesthetic continuing its migration into commodity footwear categories. The through-line this week is pressure — on margins, on sourcing orthodoxy, and on brands still trying to define what premium means when rhinestones are on a $90 sneaker and handpainted florals are on a Desert Boot.",
+      "articles": [
+        {
+          "title": "The Nike Air Liquid Max \"Sequoia\" Swaps Nanoprint for a Sculpted TPU Line Upper",
+          "source_name": "Hypebeast",
+          "source_url": "https://hypebeast.com/2026/7/nike-air-liquid-max-sequoia-iv6097-300-official-images",
+          "category": "Sustainability",
+          "relevance_score": 7,
+          "original_publish_time": "2026-07-24T07:11:50+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "Gems and Embellishments Aren’t Just for Clothes — Jewelry Is Finding Its Way Onto Sneakers and Other Shoes",
+          "source_name": "Footwear News",
+          "source_url": "https://wwd.com/footwear-news/shoe-trends/bejeweled-sneakers-dua-lipa-sza-1239079330/",
+          "category": "Brand News",
+          "relevance_score": 7,
+          "original_publish_time": "2026-07-23T14:59:01+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "VANDYTHEPINK Serves Up ASICS' Gel-Kayano 12.1 in \"Chocolate\" & \"Vanilla\"",
+          "source_name": "Hypebeast",
+          "source_url": "https://hypebeast.com/2026/7/vandythepink-asics-gel-kayano-12-1-release-date-information",
+          "category": "Sustainability",
+          "relevance_score": 7,
+          "original_publish_time": "2026-07-22T20:42:08+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "Puma Hires Former Adidas and Reebok Exec to Drive E-commerce Business",
+          "source_name": "Footwear News",
+          "source_url": "https://wwd.com/footwear-news/shoe-industry-news/puma-dusan-hamlin-vice-president-e-commerce-business-1239079148/",
+          "category": "Brand News",
+          "relevance_score": 7,
+          "original_publish_time": "2026-07-22T18:00:42+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "From Nike to Vans, the Seven best Sneakers to Cop this Week",
+          "source_name": "Highsnobiety",
+          "source_url": "https://www.highsnobiety.com/p/sneaker-releases-2026-july-week-3/",
+          "category": "Retail",
+          "relevance_score": 7,
+          "original_publish_time": "2026-07-21T10:49:01+00:00",
+          "misaki_take": "Weekly drop roundups function as real-time demand-signal data for sourcing teams willing to read them that way — velocity on limited releases tells you which silhouettes are being positioned for general distribution restocks within two to three seasons. Vans appearing alongside Nike in curated premium drop editorial is a brand health indicator worth tracking, given where Vans sat in VF Corporation's portfolio pressure twelve months ago."
+        },
+        {
+          "title": "MASU and Clarks’ Collaborative Desert Boot Comes Adorned With Painted Florals",
+          "source_name": "Hypebeast",
+          "source_url": "https://hypebeast.com/2026/7/masu-clarks-desert-boot-collaboration-release-info",
+          "category": "Retail",
+          "relevance_score": 7,
+          "original_publish_time": "2026-07-21T07:43:13+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "Producing more than 930 million pairs and remaining stable, the Brazilian footwear industry maintained the 2025 level, exporting around 99 million pairs and allocating most of the production to the domestic market. - CPG Click Oil and Gas",
+          "source_name": "Google News - Footwear Industry",
+          "source_url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPeEc5MW5BYVJ4M2hKTnJYUnE0VUxhRWphQjJ6VmNYUTN3MGJMcmRwWENNS2s1MkFZdjl1enlpd05tMldRZUpDMVZ5WWMyQjZDRXRETDNVWDhVdDMxdktZV3dIalY2YkQzbmZUOVRWdUc0NlZ3VTlNZThwdlJIbE9KY3M1aWh2MDFYbUtwRVVWQmI5WHNmb1pHM0s4RFVZWVJGMW5xb2VWSndObE90UEo2WjJDMVE5TFhzMzYzRXg5TGZiR2ltUVczUGR2a211ZldRMFJkalNhV0NsSDhHSDJKNHp2TmxJdU5SdDRSY0tDbHVYRW92NUMtY1FvdTM4OW9XMnZOaEljSXRkUlFjSFgweA?oc=5",
+          "category": "Manufacturing",
+          "relevance_score": 6,
+          "original_publish_time": "2026-07-25T17:38:00+00:00",
+          "misaki_take": "Stability at 930 million pairs sounds like resilience, but flat output against a backdrop of rising domestic consumption means export capacity is being quietly absorbed at home — which matters for any brand sourcing Brazilian leather goods or finished footwear for international markets. If domestic demand continues to climb, FOB pricing from Brazilian suppliers will tighten before volume does."
+        },
+        {
+          "title": "Why is Balletcore so Popular in Sneakers at the Moment? - The Sole Supplier",
+          "source_name": "Google News - Sneaker Brand",
+          "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTzg1Mi1kQ3N3Uk96S2pSakhnMHo3SFA4eU13U3EwWFowVnNnbnAwc29VUlQzR0xyWVJfZVdZRW5MYlYtc28tYVBzdkFmaEZQcXZLTjJmVkYtMFNRZ0U3Q09qYTY2MXF3T0lLTmJLVFhQWlJrcG9aV21Ldnl6LXVvNHhVZlVuUXIzVGltN3VKXzlzeHFVcUxF?oc=5",
+          "category": "Manufacturing",
+          "relevance_score": 6,
+          "original_publish_time": "2026-07-24T17:54:00+00:00",
+          "misaki_take": "Balletcore in sneakers is a materials and construction signal as much as an aesthetic one — satin-adjacent fabrics, ribbon-style lacing hardware, and soft toe profiles all require different upper assembly processes than standard mesh or leather builds, and factories without apparel-adjacent sewing capability will struggle with consistency. Brands chasing this trend on fast timelines are likely absorbing fit and finish defect rates they have not fully costed."
+        },
+        {
+          "title": "The World’s Finest Grandpa Shoes Ain't Just Shoes Anymore",
+          "source_name": "Highsnobiety",
+          "source_url": "https://www.highsnobiety.com/p/birkenstock-mephisto-paraboot-shoe-merch/",
+          "category": "Brand News",
+          "relevance_score": 6,
+          "original_publish_time": "2026-07-22T21:22:01+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "Surging imports put Brazil’s footwear industry under pressure - DatamarNews",
+          "source_name": "Google News - Footwear Industry",
+          "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONEdXYzVJM3JYZFUzekUtYjdMcTdia3licUlkQWJvdVRYR0dtUldOZjUyWjc1bnhuSjhJbkQxVVVGZ1JEUklldGs5cUhwdzk3S3ZJdWJGdzBmdlRIZ1ZIQkRWal9ETFo4d1hoVzNicDhYUVVlQ0dnRU1wOGwxV2JyMVRuTEJFLVBvLUpBX0JKZFFmMnE2cHVRU1Bn?oc=5",
+          "category": "Trade Data",
+          "relevance_score": 6,
+          "original_publish_time": "2026-07-22T21:11:39+00:00",
+          "misaki_take": ""
+        }
+      ]
+    },
     {
       "id": "wk29-2026",
       "week_number": 29,
@@ -907,107 +1008,6 @@
           "relevance_score": 6,
           "original_publish_time": "2026-05-18T09:54:41+00:00",
           "misaki_take": "Crocs collaborating with a Korean streetwear label at ¥18,700–¥22,000 JPY is a market-specific premiumization strategy — they are using the Asian specialty retail channel to establish a price ceiling that their core Western mass-market positioning cannot reach alone. The EVA tooling cost on a Classic Clog does not change meaningfully between a standard release and a collab edition, which means the margin on these SKUs at that price point is exceptional and validates why Crocs continues to invest in this collaboration cadence."
-        }
-      ]
-    },
-    {
-      "id": "wk20-2026",
-      "week_number": 20,
-      "year": 2026,
-      "date_from": "2026-05-11",
-      "date_to": "2026-05-17",
-      "published": "2026-05-17T09:49:52.567178+00:00",
-      "intro": "Week 20 brought the usual product noise but buried underneath it were two signals worth watching closely: the leather and footwear industry's formal push for duty exemptions amid Middle East supply disruption, and Vietnam's FXPO event quietly repositioning itself as something more than a trade show. The consumer-facing story remains mules, retro runners, and Vibram collaborations — all of which have real sourcing implications if you read them correctly. This is a week where the gap between what brands are saying publicly and what they are doing operationally is worth examining.",
-      "articles": [
-        {
-          "title": "The ASICS GEL-1130 Mule Is a Retro Runner Built for People Who Are Done Untying Their Shoes",
-          "source_name": "Hypebeast",
-          "source_url": "https://hypebeast.com/2026/5/asics-gel-1130-mule-black-silver-silver-silver-brown-1203b048-001-1203b048-101-1203b048-020-official-images",
-          "category": "Trade Data",
-          "relevance_score": 8,
-          "original_publish_time": "2026-05-14T08:52:27+00:00",
-          "misaki_take": "The backless construction on a performance-derived last is not a simple pattern reduction — it requires significant lasting and counter engineering rework to maintain shape integrity at retail, which adds tooling cost that rarely gets absorbed quietly at the FOB level. The mule silhouette trend has now moved from fashion brands into performance heritage labels, which signals category longevity and will push sourcing teams to evaluate whether their Vietnamese or Indonesian development partners have the lasting equipment to handle open-heel construction at volume."
-        },
-        {
-          "title": "From adidas to Nike, the Seven Best Sneakers to Cop Right Now",
-          "source_name": "Highsnobiety",
-          "source_url": "https://www.highsnobiety.com/p/sneaker-releases-2026-may-week-3/",
-          "category": "Retail",
-          "relevance_score": 8,
-          "original_publish_time": "2026-05-12T14:41:12+00:00",
-          "misaki_take": "Curated 'best of open market' lists like this are a lagging indicator of which brands have successfully managed sell-through without relying on raffle scarcity — and right now the podium is still Nike, adidas, and New Balance, which tells you demand forecasting at those three has stabilized after two years of inventory correction. For sourcing directors, stable consumer demand at the top tier means those brands will defend FOB pricing discipline rather than chase volume discounts, so expect fewer concessions in H2 2026 negotiations."
-        },
-        {
-          "title": "Nike's Vibram-Soled Air Force 1 Looks Good Even When It's Feeling Grey",
-          "source_name": "Highsnobiety",
-          "source_url": "https://www.highsnobiety.com/p/nike-air-force-1-vibram-bomber-grey/",
-          "category": "Retail",
-          "relevance_score": 7,
-          "original_publish_time": "2026-05-15T21:34:36+00:00",
-          "misaki_take": "Vibram outsole integration on the AF1 is not a cosmetic upgrade — it requires a last modification, a different cement bonding protocol, and Vibram's own quality gate on compound hardness, all of which compress margin unless the factory has prior Vibram-approved production experience. The 'Bomber Grey' colorway extension tells you this series has cleared its production certification hurdles and Nike is now scaling with confidence, which is the real news here."
-        },
-        {
-          "title": "When Did a 100-Year-Old Bootmaker Get This Good at Sneakers?",
-          "source_name": "Highsnobiety",
-          "source_url": "https://www.highsnobiety.com/p/best-danner-sneakers-2026/",
-          "category": "Leather",
-          "relevance_score": 7,
-          "original_publish_time": "2026-05-14T13:45:00+00:00",
-          "misaki_take": "Danner's sneaker competency is not an accident — it is the direct output of decades of Goodyear welt and Vibram outsole discipline translating into superior lasting control and material selection instincts that most sneaker-native brands have to hire consultants to replicate. For brands considering heritage leather goods makers as development partners or acquisition targets, this is the case study that proves manufacturing DNA transfers across categories when the leadership holds the line on construction standards."
-        },
-        {
-          "title": "Nike’s Rugged Air Force 1 Vibram Series Adds “Bomber Grey”",
-          "source_name": "Sneaker News",
-          "source_url": "https://sneakernews.com/2026/05/13/nike-air-force-1-vibram-barely-grey-city-grey-bomber-grey-speed-yellow-ih1943-002/",
-          "category": "Trade Data",
-          "relevance_score": 7,
-          "original_publish_time": "2026-05-13T19:00:30+00:00",
-          "misaki_take": ""
-        },
-        {
-          "title": "Sneakers from New Balance, Adidas, and More Are on Sale at Amazon - People.com",
-          "source_name": "Google News - Sneaker Brand",
-          "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaG03X3hlM09WNFl0RzgxQWJLcFpZOGcxRmlhWHdDRlh5QXpyRndiSFBJSjZPTFR1SDdzT1VLcmdRRXlwVUd4aHdhczF4ak1FdjJ2emg0bVZaUTVZZGlLc3pONzhadnUyd0d1c0NTV1oweDZQc05kTElMU20wLU5pa2NIa2M?oc=5",
-          "category": "Retail",
-          "relevance_score": 7,
-          "original_publish_time": "2026-05-13T10:00:00+00:00",
-          "misaki_take": "Amazon promotional visibility for New Balance and adidas in the same editorial window is a quiet signal that both brands are using marketplace discounting to clear specific SKUs ahead of summer inventory resets, which puts downward pressure on ASP in mid-tier retail channels. If your brand competes in the $80–$130 FOB landed segment, this kind of promotional flush from two of the three largest players will compress your retail partner's open-to-buy tolerance for the next 60 days."
-        },
-        {
-          "title": "Jordan Brand's Tiempo Maestro Elite \"Sail/Infrared 23\" Trades the Loud First Chapter for Something More Considered",
-          "source_name": "Hypebeast",
-          "source_url": "https://hypebeast.com/2026/5/jordan-tiempo-maestro-elite-se-sail-infrared-23-if4126-100-official-images",
-          "category": "Trade Data",
-          "relevance_score": 6,
-          "original_publish_time": "2026-05-15T08:47:19+00:00",
-          "misaki_take": ""
-        },
-        {
-          "title": "Leather and footwear industry seek duty exemptions on critical inputs due to Middle East crisis - MSN",
-          "source_name": "Google News - Footwear Industry",
-          "source_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOMjBDN3pUSTYzamxOZEIwWDZGbUN2Mno4TU1xOEdMRFFaVWZZcmJUN19MZjhKUU5RbGE3WWp4QkZfX0pvUXFCMWRkaDNsM3NrelNKdnVXa3o4NWhYT0Y0OVp4WkJfUE5aeC1nNWV3ekRMME1oNmFoTmtOUG9HRHZmX0JoVEZkMHI1bG5ST1U0STJ6V24yMXNEc0xIdGg1SDgxWEJVYmgtRXQxS0Q5Mmx3aTJwNWVDX1dZbmlzVHkxenotOWZyRk0zOVBBVjkwWnAyTENpZFh5MVZuVndaVlBOb19WU1h2VU5Qa25iSnJ0RGtuTVJo?oc=5",
-          "category": "Leather",
-          "relevance_score": 6,
-          "original_publish_time": "2026-05-14T05:58:50+00:00",
-          "misaki_take": "When an industry formally petitions for duty exemptions on inputs, it means the cost pressure has already been absorbed for one or two quarters and the margin cushion is gone — this is not an early warning, it is a distress signal from factories that have been quietly eating the difference. Sourcing managers should audit their leather and chemical supply chain exposure to Middle East transit routes immediately, because if exemptions are not granted, FOB adjustments from South Asian suppliers — particularly in India, Bangladesh, and Pakistan — will hit within two seasonal cycles."
-        },
-        {
-          "title": "The Converse ONE STAR J Returns in a “Purple” Colorway",
-          "source_name": "Hypebeast",
-          "source_url": "https://hypebeast.com/2026/5/converse-timeline-one-star-j-vtg-purple-33702970-release-info",
-          "category": "Leather",
-          "relevance_score": 6,
-          "original_publish_time": "2026-05-13T12:28:14+00:00",
-          "misaki_take": ""
-        },
-        {
-          "title": "Why FXPO Felt Different From A Typical Footwear Industry Event - Vietcetera",
-          "source_name": "Google News - Footwear Industry",
-          "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOThwN25BLXI1RC1fN2dGS04zMGU2RnQyMEdiMkp5R3c3R1VWQ2gyLWRyS2k3UUc4SG9lam9oNVVSRUdPWVJOdmxJSlRFU2o4cUVDanZMQURVS2dGUEVHVXk4b1BnYUZJV2J1eTBGc2c3cmQ3WHo3bHdsV1ZzZUxVcVdlSlhycVAteWh5MUw3bEhUUQ?oc=5",
-          "category": "Retail",
-          "relevance_score": 6,
-          "original_publish_time": "2026-05-13T07:16:00+00:00",
-          "misaki_take": "When a sourcing-adjacent industry event starts generating editorial attention for its format rather than just its exhibitor list, it means the organizers have figured out that buyers and brands are fatigued with the traditional trade show model and are willing to engage differently — Vietnam is smart to cultivate this because soft influence on sourcing relationships matters enormously when FOB differentials between Vietnam and its competitors are narrowing. For any sourcing director who skipped FXPO this year, the question worth asking is whether you just missed the room where the next generation of Vietnamese factory leadership was building the relationships that will shape your 2028 capacity options."
         }
       ]
     }
