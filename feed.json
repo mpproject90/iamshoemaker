@@ -1,8 +1,197 @@
 {
-  "last_updated": "2026-07-27T08:30:25.226344+00:00",
-  "total_articles": 97,
-  "sources_checked": 61,
+  "last_updated": "2026-07-27T13:50:02.056330+00:00",
+  "total_articles": 100,
+  "sources_checked": 60,
   "articles": [
+    {
+      "id": "de257e5f8923",
+      "title": "Portugal unveils bio-shoe project results",
+      "source_name": "Ecotextile News",
+      "source_domain": "ecotextile.com",
+      "source_url": "https://www.ecotextile.com/2026072764413/news/materials-production-news/portugal-unveils-bio-shoe-project-results/",
+      "original_publish_time": "2026-07-27T11:19:29+00:00",
+      "scraped_time": "2026-07-27T13:41:21.762800+00:00",
+      "time_delta_mins": 0,
+      "category": "Manufacturing",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "footwear industry",
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "Four-year BioShoes4All project comes to an end as the country pushes lower-impact footwear production FELGUEIRAS – The Portuguese footwear industry […] The post Portugal unveils bio-shoe project results appeared first on Ecotextile News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "8f8c550d18c4",
+      "title": "Danner’s “MT RIDGEE – Chromexcel” Boot Is Releasing as a JOURNAL STANDARD-Exclusive",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/7/danners-mt-ridgee-chromexcel-boot-is-releasing-as-a-journal-standard-exclusive",
+      "original_publish_time": "2026-07-27T10:56:54+00:00",
+      "scraped_time": "2026-07-27T13:39:17.656549+00:00",
+      "time_delta_mins": 0,
+      "category": "Quality",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "boot",
+        "upper"
+      ],
+      "relevance_score": 4,
+      "summary": "Name: Danner “MT RIDGEE – Chromexcel” JOURNAL STANDARD ExclusiveColorway: BlackSKU: TBCMSRP: ¥69,300 JPY (approx. $424 USD)Release Date: September 2026Where to Buy: JOURNAL STANDARDDanner is set to release the MT RIDGEE – Chromexcel Shoe as an exclusive on JOURNAL STANDARD. Drawing inspiration from Danner’s iconic Mountain Light series, this model reimagines the classic hiking boot into a versatile, low-cut silhouette designed for everyday urban wear. The standout feature of this release is its premium upper, which marks the first time a Danner collaboration has utilized the renowned Chromexcel \"tea-core\" leather from the US-based Horween Leather Company.Out of the box, the shoe presents a sleek, deep black finish, but as the leather naturally wears and scuffs over time, the underlying bro",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "e0ce1f20d634",
+      "title": "BioShoes4All sets new benchmark for sustainable footwear innovation - World Footwear",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbDVrSFdPTEp2V3F2ODB1NDJUYWU1M012UlpYZHlmRUtMcHBHYTRPN2dTMGRGeENVVW43bDdyNHVrS2ZCQm12NkUyTERBdHVLbHpydHktTFBLeEtrS2JiVTNydWRIVGtZTVExd1BydS14WnF3SUl5TDZBVmg1U3hmR2NHRlJLOVV0UEVNM1NqYnBZZHRGNUJiNXNhUlVRdmptQmZUaW5EV0d0MWZ6SF9CbWNJNA?oc=5",
+      "original_publish_time": "2026-07-27T10:36:21+00:00",
+      "scraped_time": "2026-07-27T13:39:28.621070+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "shoes"
+      ],
+      "relevance_score": 6,
+      "summary": "BioShoes4All sets new benchmark for sustainable footwear innovation World Footwear",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "fe3fb9452e93",
+      "title": "Deckers Brands hits historic $1bn Q1 sales driven by HOKA, UGG",
+      "source_name": "Just Style",
+      "source_domain": "just-style.com",
+      "source_url": "https://www.just-style.com/news/deckers-q1-fy27-result/",
+      "original_publish_time": "2026-07-27T10:27:34+00:00",
+      "scraped_time": "2026-07-27T13:39:07.161439+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Hoka",
+        "UGG"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "Deckers Brands topped $1bn in first-quarter revenue for the first time, as strong HOKA and UGG growth offset lower sales from other lines.",
+      "ren_take": "",
+      "image_url": "https://www.just-style.com/wp-content/uploads/sites/27/2026/07/Deckers.jpg"
+    },
+    {
+      "id": "a5be0986e5d1",
+      "title": "Redundancies at Lacoste as footwear relocates to Paris",
+      "source_name": "Drapers",
+      "source_domain": "drapersonline.com",
+      "source_url": "https://www.drapersonline.com/news/redundancies-at-lacoste-as-footwear-relocates-to-paris",
+      "original_publish_time": "2026-07-27T10:20:43+00:00",
+      "scraped_time": "2026-07-27T13:42:19.877794+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Lacoste"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 5,
+      "summary": "Drapers Redundancies at Lacoste as footwear relocates to Paris A total of 56 employees at Lacoste have been made redundant, following the footwear arm's relocation to Paris, Drapers has learned. The post Redundancies at Lacoste as footwear relocates to Paris appeared first on Drapers .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "0db76b5dfa94",
+      "title": "Nike Goes Full Chanel on the Latest Court Staple",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-goes-full-chanel-on-the-latest-court-staple/",
+      "original_publish_time": "2026-07-27T10:14:01+00:00",
+      "scraped_time": "2026-07-27T13:42:52.896856+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "Jordan Brand’s most compelling releases often return to the roots, like in the case of the Chanel-esque Air Jordan 1 Low SE Off Noir/University Red/Game Royal",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "2cc4800f35c4",
+      "title": "The Nike Air Force 1 Low \"Family Reunion\" Etches North African Arabesques Into White Leather",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/7/nike-air-force-1-low-family-reunion-iv5754-100-official-images",
+      "original_publish_time": "2026-07-27T09:02:11+00:00",
+      "scraped_time": "2026-07-27T13:39:17.661069+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "hide"
+      ],
+      "relevance_score": 3,
+      "summary": "Name: Nike Air Force 1 Low “Family Reunion”Colorway: White/Marrakesh Orange-Passion Red-Light Orewood BrownSKU: IV5754-100MSRP: TBCRelease Date: Fall 2026Nike is bringing its \"Family Reunion\" theme to the Air Force 1 Low, launching a three-colorway series that assigns each pair a different regional influence. The first to surface builds on a white leather base and routes its entire story through laser-etched artwork, tying North African design to the region's role in the development of hip-hop.The heart of the design lives in the leather itself. Most of the detailing concentrates across the toe box and quarter panels, where arabesque patterns reference the repeating geometry found in Islamic art and architecture throughout North Africa. Because the artwork is lasered directly into the hide",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "ab80db154943",
+      "title": "Vans and Cocona Hiraki Return With the Whimsical Premium Old Skool in “Black”",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/7/cocona-hiraki-vans-old-skool-black-marshmallow-white-vn000egycrm-official-images-release-info",
+      "original_publish_time": "2026-07-27T08:59:11+00:00",
+      "scraped_time": "2026-07-27T13:39:17.664490+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Vans"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "Name: Vans Premium Old Skool Cocona Shoe “Black”Colorway: Black / Marshmallow WhiteSKU: VN000EGYCRMMSRP: $120 USDRelease Date: Available NowWhere to Buy: VansFollowing up on last year's \"Beige\" Premium Old Skool release - which originally debuted as a standout in Vans' expansive New Future Collection - Japanese Olympic skateboarder Cocona Hiraki and Vans have returned to deliver a darker, equally expressive sequel in \"Black\".Much like its predecessor, this new colorway acts as a canvas for Hiraki’s DIY-inspired creativity and off-board personality, translating her youthful energy into a tactile, premium design. Trading the original's soft, neutral tones for a monochromatic black corduroy upper, the sneaker is brought to life by a series of playful embellishments. Key details include beaded",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "58eb1056e938",
+      "title": "The Nike Moon Shoe Receives a New Summer Variant With “Chlorophyll” Swooshes",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/7/nike-moon-shoe-sail-chlorophyll-ii0407-102-official-images-release-info",
+      "original_publish_time": "2026-07-27T08:26:25+00:00",
+      "scraped_time": "2026-07-27T13:39:17.658171+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "insole",
+        "midsole",
+        "outsole",
+        "sole",
+        "upper"
+      ],
+      "relevance_score": 7,
+      "summary": "Name: Nike Moon Shoe “Chlorophyll”Colorway: Sail/ChlorophyllSKU: II0407-102MSRP: $105 USDRelease Date: August 5Where to Buy: NikeThe Nike Moon Shoe “Chlorophyll” continues the revival of Bill Bowerman’s earliest running prototype, offering a fresh color women's iteration this summer. The vibrant botanical green is predominantly featured across the prominent leather Swooshes as well as on the interior insole detailing, creating a striking contrast against its \"Sail\" nylon upper.Underfoot, the sneaker retains the iconic waffle outsole, a hallmark of Bowerman’s original innovation, paired with a clean midsole. The \"Chlorophyll\" colorway will be releasing alongside the previously revealed “Italy Blue” edition, both slated for an official launch in August. Click here to view full gallery at Hyp",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "54fc321eec01",
       "title": "Nike Gears for Summer With a Vibrant “Italy Blue” Moon Shoe Release",
@@ -1874,133 +2063,6 @@
       ],
       "relevance_score": 3,
       "summary": "Summary Kylian Mbappé won his second consecutive FIFA World Cup Golden Boot by finishing the 2026 tournament with 10 goalsLionel Messi finished second in the scoring race with eight goals after going goalless in Argentina's final loss to SpainThe French forward also established a new tournament record by reaching 22 all-time career World Cup goals FIFA has officially awarded the 2026 FIFA World Cup Golden Boot to French superstar Kylian Mbappé following the conclusion of the tournament. The 27-year-old forward secured his second consecutive scoring title by finishing with 10 goals, edging out rival Lionel Messi.Mbappé solidified his lead by netting two goals during France's 6-4 third-place playoff against England, bringing his total to 10 goals alongside four assists. The performance cemen",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "e100846ea375",
-      "title": "Deadly China shoe factory fire followed repeated safety warnings",
-      "source_name": "Apparel Insider",
-      "source_domain": "apparelinsider.com",
-      "source_url": "https://apparelinsider.com/deadly-china-shoe-factory-fire-followed-repeated-safety-warnings/",
-      "original_publish_time": "2026-07-20T13:11:25+00:00",
-      "scraped_time": "2026-07-21T18:16:50.618933+00:00",
-      "time_delta_mins": 0,
-      "category": "Quality",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "shoe factory"
-      ],
-      "relevance_score": 4,
-      "summary": "BEIJING – A footwear factory in China where 28 people died had been repeatedly ordered to address fire hazards and was warned about disorderly stockpiles just two days before the blaze, according to new reports from Chinese state media. The post Deadly China shoe factory fire followed repeated safety warnings appeared first on Apparel Insider .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "8cfbf2957e9c",
-      "title": "U.S. tariffs add to pressure on Brazil’s textile, footwear industries - Valor International",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVGZwaVg0cUI0a1lvQXE1R3dNREJuMDVzQUhRT3dHYzlERzhKZ3I3VUtKMjJhYkpmTXRlbU10V2NtLVdsbVJfR0tuaHpPLWVxTzFvVHE4SkZJcTVTZThwV0xfQTJhalVsSXhPTVhCdDhUNGdoOEo3M3pTNk5aYnl6c2RDeDlwQ1BsYUowaVJUYUpydV9HNWZERml5bmxNQ0lFNUozMF9BVkpLb2h6Vks5NzVtMkpYQzNZLVY1bW9rdkhOTjEzWFFSaGlzY2owZ9IB3AFBVV95cUxQTUt1ZFlXV1pFWk5hS3ppR1BoalF4SGVsX2dKcHlLdW9FUkF0ektUYWViUXdYOVZYZk5wYk8xby1DYmJtUnJ6QmJXdzlFNjMyb3pwbGhCMHdWbExlYVhobUYyMlRfSlBwdlF3eHVSVWtRblNvakF3eDRsVExERk1jNW9zZW9ETDJDU0N0MjRFRUJuNUdFZkE3c2NPWGI1alRqaEFvMnpRTjR0WnBQT0Z0VUtGbnd3NzV4dGFVb1RhTzg3bFVYWVVsUjBMdThGVzhROEFtYTVmZ0w5TDR2?oc=5",
-      "original_publish_time": "2026-07-20T12:42:30+00:00",
-      "scraped_time": "2026-07-21T12:23:57.173041+00:00",
-      "time_delta_mins": 0,
-      "category": "Trade Data",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "U.S. tariffs add to pressure on Brazil’s textile, footwear industries Valor International",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "43ba8caa536b",
-      "title": "The Nike Air Max Muse \"Floral Pack\" Wraps Metallic Petal Hardware Around a White Leather Build",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/7/nike-air-max-muse-floral-pack-ir8633-100-japan-release-info",
-      "original_publish_time": "2026-07-20T11:43:16+00:00",
-      "scraped_time": "2026-07-20T13:06:40.086579+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "Name: Nike Air Max Muse “Floral Pack”Colorway: White/University Red/Metallic Silver/Tough RedSKU: IR8633-100MSRP: ￥21,230 JPY (approx. $130 USD)Release Date: Available nowWhere to Buy: Nike JapanThe Nike Air Max Muse \"Floral Pack\" in White/University Red has launched in Japan, applying a metallic floral hardware detail to the women's-exclusive silhouette that first arrived in late 2024.The upper is built from a combination of synthetic leather and textile panels, layered to create the dimensional, multi-surface look that has defined the Muse since its debut. White serves as the dominant tone across the shell, with University Red and Tough Red appearing as accent hits that break up the neutral base. Metallic silver detailing runs through the shoe's branded elements, including the miniature ",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "74188ed422e3",
-      "title": "Official Look at the Nike Air Max Goadome Low in “Polka Dot/Light Orewood Brown”",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/7/nike-air-max-goadome-low-polka-dot-light-orewood-brown-ir2174-100-official-images-info",
-      "original_publish_time": "2026-07-20T10:24:18+00:00",
-      "scraped_time": "2026-07-20T13:06:40.091458+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "midsole",
-        "sole",
-        "upper"
-      ],
-      "relevance_score": 5,
-      "summary": "Name: Nike Air Max Goadome Low \"Polka Dot/Light Orewood Brown”Colorway: Light Orewood Brown/Black/BlackSKU: IR2174-100MSRP: TBCRelease Date: August 2026Building on the experimental Air Max Goadome in a stealthy “Polka Dot/Black,” Nike expands the silhouette with a contrasting \"Polka Dot/Light Orewood Brown\" variant. This edition carries forward the same experimental appeal, with circular cut‑outs across the leather upper revealing tonal underlays beneath. The shift from black to a soft, earthy brown palette gives the silhouette a softer appeal, with the polka-dot look being much more prominent.Underneath, the sneaker mirrors the “Polka Dot/Black” build with visible Air cushioning embedded in the midsole for comfort and shock absorption. Branding remains understated, with a small lateral Sw",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "12f0071b770b",
-      "title": "Nike Unveils a Triple Black Air Max Goadome Low “Polka Dot”",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/7/nike-air-max-goadome-low-polka-dot-black-ir2174-001-official-images-info",
-      "original_publish_time": "2026-07-20T09:35:03+00:00",
-      "scraped_time": "2026-07-20T13:06:40.093702+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "midsole",
-        "sole",
-        "upper"
-      ],
-      "relevance_score": 5,
-      "summary": "Name: Nike Air Max Goadome Low “Polka Dot/Black\"Colorway: Black/Black/BlackSKU: IR2174-001MSRP: TBCRelease Date: August 2026Nike has revealed a more aesthetically experimental design for the Air Max Goadome Low sneaker. Dubbed “Polka Dot/Black,” this new iteration moves away from the model’ usual heavy-duty aesthetic with a stripped back yet play design. The leather upper incorporates a series of playful circular, polka-dot-style cut-outs. In this near-tonal black colorway, the conceptual porthole-like openings reveal tonal underlays beneath the leather shell, adding striking visual depth and a highly sculptural finish across the sidewalls, toe and heel.Underfoot, the sneaker features visible Air cushioning embedded in the midsole, delivering comfort and shock absorption while retaining th",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "557b8659a58f",
-      "title": "New Balance 1890A Receives a “Dark Night” Variant",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/7/new-balance-1890a-5jk-dark-night-u18905jk-official-images-release-info",
-      "original_publish_time": "2026-07-20T09:14:45+00:00",
-      "scraped_time": "2026-07-20T13:06:40.095802+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "New Balance"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "Name: New Balance 1890A “Dark Night”Colorway: “Dark Night”SKU: U18905JKMSRP: $190 USDRelease Date: August 6Where to Buy: New BalanceNew Balance expands on its 1890A lineup with “Dark Night” colorway. This progressive silhouette stands out through its distinctive apron upper and bound-edge U-shape across the forefoot, offering an elevated, formal twist on a traditional athletic profile. A moody hue drapes the shoe in a vampy palette characterized by deep, stealthy purple and blue tones. Its upper is expertly constructed with ventilated mesh underlays for optimal breathability, reinforced by sleek, tonal synthetic overlays that provide a dynamic, textural finish. A classic lace-up closure ensures an adjustable fit, while subtle reflective accents and a minimalist \"N\" logo on the side panels ",
       "ren_take": "",
       "image_url": ""
     }
