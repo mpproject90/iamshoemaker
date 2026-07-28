@@ -1,8 +1,72 @@
 {
-  "last_updated": "2026-07-28T13:06:48.206306+00:00",
-  "total_articles": 96,
+  "last_updated": "2026-07-28T18:22:23.234830+00:00",
+  "total_articles": 95,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "edd0bee6ae8c",
+      "title": "We Can’t Stop Thinking About Zendaya’s Massive Collection of Christian Louboutin Shoes in Law Roach’s Office",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-trends/zendaya-christian-louboutin-shoe-collection-law-roach-1239084515/",
+      "original_publish_time": "2026-07-28T16:24:58+00:00",
+      "scraped_time": "2026-07-28T18:10:54.852397+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Louboutin"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 5,
+      "summary": "Law Roach revealed the rows of Louboutin heels kept on hand for Zendaya — and addressed the Miss Z speculation.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "a4d51fe5a816",
+      "title": "Sunrise Brands Sells Donald Pliner to Aquatalia Parent Vida Shoes",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/donald-pliner-acquistion-vida-shoes-details-1239085323/",
+      "original_publish_time": "2026-07-28T15:56:35+00:00",
+      "scraped_time": "2026-07-28T18:10:54.855035+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "Vida said its focus will remain on supporting and strengthening the existing Donald Pliner business.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "fb02abbc3735",
+      "title": "From Salomon to Nike, The Seven Best Sneakers to Cop this Week",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/sneaker-releases-2026-july-week-4/",
+      "original_publish_time": "2026-07-28T15:04:58+00:00",
+      "scraped_time": "2026-07-28T18:14:37.776881+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Nike",
+        "New Balance",
+        "Salomon",
+        "Jordan"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 9,
+      "summary": "This week’s selection sees the release of the brand new Salomon X-ALP Alpine Echoes, the Nike Air Jordan 1 OG 'Love Letter', & a polka-dotted New Balance 530.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "facffff7bf4b",
       "title": "Helinox x Crocs Quick Trail Clog Glows With “LUMINOUS SPLASH” Jibbitz",
@@ -127,6 +191,25 @@
       ],
       "relevance_score": 4,
       "summary": "Name: JJJJound x New Balance 740NColorway: BeigeSKU: TBCMSRP: TBCRelease Date: July 30Where to Buy: JJJJoundNew Balance and JJJJound have turned to the 740N, a returning archive silhouette, for their latest collaboration. The Montreal design studio takes a model that fuses early-2000s design cues with a cleaner, more angular treatment, reworking it into a streamlined runner with a distinct visual identity.The construction leads with a breathable mesh upper, layered with synthetic no-sew overlays that give the shoe its sharp, angular lines without the bulk of stitched paneling. Nubuck and rubber round out the material palette, adding a tactile contrast to the airy mesh base. Inside, a navy mesh lining carries the tonal story through to the footbed, while a contrasted off-white mesh tongue p",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "a220cb63ff03",
+      "title": "E28M Sigwe shoe factory set t.o boost manufactur­ing, jobs - PressReader",
+      "source_name": "Google News - Shoe Manufacturing",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNl9rSG9ISGw0MGhKZWRNY2NQYXlEWlpjSHU1TzB4TnY2TUJ1TkRBXzhDVS03b2hhWE0zVDgzQThvR2FZMzU3dXlDRVRSdWRQM3gxS0Q3QnhhY25nR0ozX1hzakhnY2VxR2Q1aElnSnZHUzZQbl9yWVNCVlZXNjBsTWMwcTZ4ZGdnU1BNWnFYYw?oc=5",
+      "original_publish_time": "2026-07-28T06:35:33+00:00",
+      "scraped_time": "2026-07-28T18:11:17.683274+00:00",
+      "time_delta_mins": 0,
+      "category": "Manufacturing",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoe factory"
+      ],
+      "relevance_score": 3,
+      "summary": "E28M Sigwe shoe factory set t.o boost manufactur­ing, jobs PressReader",
       "ren_take": "",
       "image_url": ""
     },
@@ -1889,106 +1972,6 @@
       ],
       "relevance_score": 6,
       "summary": "Kobe Brand’s premier off-court series continues with a new Air Force 1 that poses more questions than answers, complete with mismatched upper accents and multi-colored... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Confetti-Covered Soles Appear On The Kobe Bryant Nike Air Force 1 Low appeared first on Sneaker News . The post Confetti-Covered Soles Appear On The Kobe Bryant Nike Air Force 1 Low appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "ed644803d5f8",
-      "title": "McFarland Shoe Repair: Heart and sole - FOX 13 Tampa Bay",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQkU1VDdwbmhJTWZoWnR1Z25yTHZBdGdvR1ZHS3N4bjNoX3pmdk9MS0F3RkVUNzZ1bU8wNE5UYTBzdVlzLVV2TngtcHprWjZTaHhSYUNFM0dBMkFqUS1Dc2hsU0xGLTRDTVo1bjRTcDBXQnExTWdNc21UQlg0aXdXVm9wRFVaU2t6Y3djLW82aDAzdzlMU2Jmd0NzMkdQNXFodUHSAacBQVVfeXFMTUlLNlhBdE01WFRaTTNZVlQ0RlkwTjlfM0k1M3RQUXY0b1RnUk9lYzE0T1dOUGlPVTNKc1A0NHB5VHFnc0NUcFFUTnZyUVU3NS1wajRkOVQ1WmxmUVdUdHZRajkta09SV21iN0JjekdzU0RyZWZfamdOaWFzUGc5TTY4WTRyTmI0N1cwaU5fZmhESG9NaDdvdHVXNnVJZEstSlJmWjJvUk0?oc=5",
-      "original_publish_time": "2026-07-21T16:23:41+00:00",
-      "scraped_time": "2026-07-21T18:14:06.473857+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "sole"
-      ],
-      "relevance_score": 3,
-      "summary": "McFarland Shoe Repair: Heart and sole FOX 13 Tampa Bay",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "aaf80adf0216",
-      "title": "Hiking Shoes Are On Every Designer's Moodboard",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/hiking-approach-shoe-sneakers-trend/",
-      "original_publish_time": "2026-07-21T15:51:18+00:00",
-      "scraped_time": "2026-07-21T18:17:44.970974+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "In July 20's issue of Highsnobiety's Shopper newsletter, editor Max Migowski approaches approach shoes.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "2a566b04584a",
-      "title": "VandyThePink and Asics Are Serving Two Flavors of Ice Cream-themed Sneakers",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/vandythepink-asics-gel-kayano-12-1-release-date-1239077130/",
-      "original_publish_time": "2026-07-21T15:21:39+00:00",
-      "scraped_time": "2026-07-21T18:13:44.863257+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "ASICS"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 5,
-      "summary": "Chocolate and vanilla Gel-Kayano 12.1s are coming in August.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "774040b6d2e9",
-      "title": "Air Jordan 3 “Laser” Launching In August",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/07/21/air-jordan-3-laser-ja1369-001/",
-      "original_publish_time": "2026-07-21T14:30:59+00:00",
-      "scraped_time": "2026-07-21T18:13:55.674477+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Nike",
-        "Jordan"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "Two decades and change later, Mark Smith’s Laser Project is back in focus for Nike and Jordan Brand. Setting the table for next year’s Jordan... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Air Jordan 3 \"Laser\" Launching In August appeared first on Sneaker News . The post Air Jordan 3 “Laser” Launching In August appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "edcba8708cb3",
-      "title": "Adidas to Unveil New Concept Store at Mall of America in October",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/adidas-store-zones-footwear-integrated-digital-mall-america-1239076446/",
-      "original_publish_time": "2026-07-21T14:22:33+00:00",
-      "scraped_time": "2026-07-21T18:13:44.865624+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "The store is designed around four immersive retail zones: Footwear, Made For You, City Shop and a storefront with integrated digital touchpoints.",
       "ren_take": "",
       "image_url": ""
     }
