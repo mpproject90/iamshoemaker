@@ -1,8 +1,113 @@
 {
-  "last_updated": "2026-07-27T18:33:27.361244+00:00",
-  "total_articles": 97,
+  "last_updated": "2026-07-28T00:15:33.616082+00:00",
+  "total_articles": 100,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "c1d74281cdfe",
+      "title": "Converse’s Next Luxurious Vibram-Soled Sneaker Smiles Back",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/converse-first-string-jack-purcell/",
+      "original_publish_time": "2026-07-27T22:45:31+00:00",
+      "scraped_time": "2026-07-28T00:08:20.137339+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Nike",
+        "Converse",
+        "Vibram"
+      ],
+      "keywords_matched": [
+        "sole"
+      ],
+      "relevance_score": 8,
+      "summary": "Converse reveals its next First String sneaker: a redesigned Jack Purcell sneaker featuring fine leather, Vibram soles, & Nike Air.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "7919519854be",
+      "title": "No Levi's Here. Nike’s Air Max Is a Delicious “Denim” Dream on Its Own",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-air-max-95-smoke-grey/",
+      "original_publish_time": "2026-07-27T22:40:55+00:00",
+      "scraped_time": "2026-07-28T00:08:20.138181+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "Nike's Air Max 95 Big Bubble \"Smoke Grey\" sneakers surface with denim-like textures. Spoiler: it's really canvas.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "a234ea60aaa7",
+      "title": "Reebok Revives The Pump On Their Next-Gen Basketball Shoe",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/07/27/reebok-engine-a-pump-100277685/",
+      "original_publish_time": "2026-07-27T21:00:32+00:00",
+      "scraped_time": "2026-07-28T00:04:46.861264+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Reebok"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "Ever since their unveiling, there’s been a lot riding on Reebok’s new generation of hoops shoes. The first new products under the Reebok Basketball imprint... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Reebok Revives The Pump On Their Next-Gen Basketball Shoe appeared first on Sneaker News . The post Reebok Revives The Pump On Their Next-Gen Basketball Shoe appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "1ad1753f17bf",
+      "title": "Noah x Converse Go Green on the Louie Lopez 2 Pro",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/7/noah-converse-louie-lopez-2-pro-green-release-date-info",
+      "original_publish_time": "2026-07-27T20:37:35+00:00",
+      "scraped_time": "2026-07-28T00:04:46.711225+00:00",
+      "time_delta_mins": 0,
+      "category": "Quality",
+      "brands_mentioned": [
+        "Converse"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "SummaryThe collaborative Louie Lopez 2 Pro features a green full-grain suede upper and quiet brandingThe design builds on the duo's shared skate culture roots and their recent Spring 2026 capsuleThe sneaker officially releases on July 30 via Converse, Noah, and select retailersConverse and Noah are coming together once again to release a collaborative version of the beloved Louie Lopez 2 Pro. Built around Louie Lopez's energetic, effortless approach to skating, the reimagined signature skate shoe pairs premium materials with understated details for a pair that’s versatile both on and off the board.In minor updates to the signature silhouette, Noah delivers a succinct, pared-back palette grounded by a bright green, full-grain suede upper selected for durability and depth. Meanwhile, the Con",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "89613330e781",
+      "title": "Minister inspects Sigwe shoe factory site - Times of Eswatini",
+      "source_name": "Google News - Shoe Manufacturing",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4wemZrdWpuUE9KN3RHZ0ZsSVpneGphcmxha1dJM080aE14ZzlUY0U4Q3dIR2RGSXVFa0tGV0Rteng2SU9jdWFlZ0JMZXczZUdxUkhsU1Z5Q09JeFV4NzJTZ2xJaTdCQl82SjZDWUk1VHU3T2hfVXlwV1dMN1lYQQ?oc=5",
+      "original_publish_time": "2026-07-27T19:34:33+00:00",
+      "scraped_time": "2026-07-28T00:04:58.986999+00:00",
+      "time_delta_mins": 0,
+      "category": "Manufacturing",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoe factory"
+      ],
+      "relevance_score": 3,
+      "summary": "Minister inspects Sigwe shoe factory site Times of Eswatini",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "dd6e723ef9ac",
       "title": "Gap reboots 1990s fragrances this week",
@@ -499,6 +604,25 @@
       "image_url": ""
     },
     {
+      "id": "0c84a48e8e0c",
+      "title": "I Found 5 Shoe Deals From Oprah-Loved Vionic—Podiatrist-Approved Sneakers and Loafers Are Up to 68% Off - instyle.com",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeHBTZWs1WDY2bjN6UkpJX1BjRkwzVldzZDRqekxzcUpBaC1TdDRUZDB3QVp3RDZlaFZ5SVNsQWExMzJVRHpDT0NLaDAxTUpHNFNzS0JYbWxWU1hudEdlenhnU01TR1NuRnpvSjdZaGhqRGhPeWFsYjFZVmdGX2Q2bEhBM1A?oc=5",
+      "original_publish_time": "2026-07-25T13:30:00+00:00",
+      "scraped_time": "2026-07-28T00:04:58.398523+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "I Found 5 Shoe Deals From Oprah-Loved Vionic—Podiatrist-Approved Sneakers and Loafers Are Up to 68% Off instyle.com",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
       "id": "df50e5f0bac8",
       "title": "Unreleased Nike Air Force 1 Low \"PlayStation\" 2024 Sample Surfaces",
       "source_name": "Hypebeast",
@@ -616,6 +740,25 @@
       ],
       "relevance_score": 3,
       "summary": "Expect the unexpected when it comes to footwear. Could anyone have predicted that Oregon track stars, sporting a Bill Bowerman garage experimentation as they came... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Nike Moon Shoe Issues Two Colorful Pairs For August appeared first on Sneaker News . The post The Nike Moon Shoe Issues Two Colorful Pairs For August appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "8418bfa3fa0c",
+      "title": "U.S. imposes 25% tariff on Brazilian footwear and other imports - International Leather Maker",
+      "source_name": "Google News - Footwear Exports",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTU9ielg0eHNUOVNxZ0Q5N2RuVWxqTjdFblBNWTY2bTRWVTEtQUhESHdvdGFoVHR0cnk5aW9uaXUycGthNU9zSFQ3dW43R1RSRTI1VXZkX0s1TnNnSk1XVDZqNlIzWEdWY0dMYUU0bXQ1dWFHSWhBV1o4SjM2RWxKb1FQSkEzdG5NOExxUzNIVmJrbmJoUlQ3X3hTV2ViVzV1WGc?oc=5",
+      "original_publish_time": "2026-07-24T16:30:30+00:00",
+      "scraped_time": "2026-07-28T00:05:00.047025+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "U.S. imposes 25% tariff on Brazilian footwear and other imports International Leather Maker",
       "ren_take": "",
       "image_url": ""
     },
@@ -1924,85 +2067,6 @@
       ],
       "relevance_score": 6,
       "summary": "Helping our footwear industry fulfil its potential Dhaka Tribune",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "30cfecb3c6b9",
-      "title": "Zara Larsson wears boots crafted in Portugal by PC Footwear - World Footwear",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYnRxT3lpVV9JekdnQ0dtV280b3JpcUFHMl9MbmxDUGxyZEpBbVdTVm4tSDZhalBROFhFU3BkWThfUlJxSHIyTEdza3gzbm93cVJwQVpJdnBhbnRteDdqSDlSbDNMU0wxR0kwY3RNR1FvUXpzdXBkZGhJaERpZmM3Z1ZjUDFYNjlmQ0FWeHVKOVZubnBBdnM0NlQ5eGNXb2t2YkRXQ2NSZVI?oc=5",
-      "original_publish_time": "2026-07-20T23:02:34+00:00",
-      "scraped_time": "2026-07-20T23:59:17.868611+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "boot",
-        "footwear"
-      ],
-      "relevance_score": 6,
-      "summary": "Zara Larsson wears boots crafted in Portugal by PC Footwear World Footwear",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "d987fce18d82",
-      "title": "Footwear industry is backbone of India’s economy: Union Minister Giriraj Singh | Akashvani News - News On AIR",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ29UaXZQZHFWUm1nX2FHV3h5VGlhdFRaX01vcllPcGc2bU5fRFdmR282RjQ1ZnkyTE9Ic0drOHQ2SjM3NkI5ZFI3eEZsRHUyaTI0LW15clpXMnJYcS15QmN6Qy0xR1NEbVd0QVp6b0taVXVkZXVYNUxsdHdlX2JFUGtKLUFXenJ6eVdxU1I5NF9ud2tPVTFLM3hwbmNZdHl4cFFZdQ?oc=5",
-      "original_publish_time": "2026-07-20T22:47:53+00:00",
-      "scraped_time": "2026-07-21T07:25:48.503050+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "footwear industry"
-      ],
-      "relevance_score": 6,
-      "summary": "Footwear industry is backbone of India’s economy: Union Minister Giriraj Singh | Akashvani News News On AIR",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "9ac918b84a78",
-      "title": "This Freaky Loafer-Sandal Is Business In Front, Party In Back",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/bed-jw-ford-suicoke-loafer-sandal/",
-      "original_publish_time": "2026-07-20T21:33:00+00:00",
-      "scraped_time": "2026-07-21T00:02:59.527623+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "sandal"
-      ],
-      "relevance_score": 3,
-      "summary": "The hybrid shoe silhouette from the Tokyo-based labels Bed J.W. Ford and Suicoke blends elements of a loafer and a dad sandal for an entirely unique shoe.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "57f1f30cd0c4",
-      "title": "Adidas’ World Cup Win Sets the Stage for Bigger Battle with Nike in the U.S. Market",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/adidas-nike-world-cup-sales-business-impact-1239075510/",
-      "original_publish_time": "2026-07-20T18:43:43+00:00",
-      "scraped_time": "2026-07-20T18:50:32.028780+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike",
-        "Adidas"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 4,
-      "summary": "Though Nike might have won when it came to media exposure with its blockbuster campaign, Adidas reigned on the sales front, according to early data.",
       "ren_take": "",
       "image_url": ""
     }
