@@ -1,8 +1,96 @@
 {
-  "last_updated": "2026-07-29T07:46:05.878014+00:00",
-  "total_articles": 99,
-  "sources_checked": 61,
+  "last_updated": "2026-07-29T13:11:43.725667+00:00",
+  "total_articles": 98,
+  "sources_checked": 60,
   "articles": [
+    {
+      "id": "79bdb715a3a2",
+      "title": "The Best Nike Sneakers Releasing in August",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-sneaker-release-date-calendar-august-2026-1239084129/",
+      "original_publish_time": "2026-07-29T12:00:00+00:00",
+      "scraped_time": "2026-07-29T13:00:46.200417+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "Including the Air Foamposite Pro \"Camo\" and Ja Morant's Nike Ja 4.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "85f8b70944ba",
+      "title": "Official Look at the Brain Dead x adidas Originals Samba Bowling Animal Pack",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/7/brain-dead-adidas-originals-samba-bowling-animal-pack-cheetah-kh8143-kj0662-snakeskinrelease-info",
+      "original_publish_time": "2026-07-29T11:14:05+00:00",
+      "scraped_time": "2026-07-29T13:00:56.761853+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "footwear",
+        "upper"
+      ],
+      "relevance_score": 4,
+      "summary": "Name: Brain Dead x adidas Samba Bowling Animal PackColorway: “Cheetah,” “Snakeskin”SKU: KH8143, KJ0662MSRP: TBCRelease Date: August 1Where to Buy: adidasLA-based creative collective Brain Dead has once again joined forces with adidas, delivering an inventive yet animal-print-heavy spin on the Samba silhouette. Comprising two striking iterations, spanning “Cheetah” and “Snakeskin,” the collaboration reinvents the classic indoor football sneaker through the lens of archival bowling footwear and maximalist animal prints.Both pairs feature premium textile uppers with exaggerated bowling‑style overlays, blending adidas’ heritage silhouette with Brain Dead’s playful, disruptive design ethos. The “Cheetah” edition showcases a spotted pattern across the faux-hair upper, with cream-colored Three-St",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "f8faba576e38",
+      "title": "Official Images of Kevin Durant’s Nike KD 19 “Butter Candy”",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/7/nike-kd-19-butter-candy-solar-flare-stadium-greenih1117-700-official-images-release-info",
+      "original_publish_time": "2026-07-29T09:56:56+00:00",
+      "scraped_time": "2026-07-29T13:00:56.765313+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "footwear",
+        "midsole",
+        "outsole",
+        "sole",
+        "upper"
+      ],
+      "relevance_score": 7,
+      "summary": "Name: Nike KD 19 “Butter Candy”Colorway: Solar Flare/Stadium GreenSKU: IH1117-700MSRP: $155 USDRelease Date: August 19Where to Buy: NikeNike continues to expand Kevin Durant’s signature footwear lineage with the introduction of the Nike KD 19 \"Butter Candy,\" a colorway that merges high-performance basketball engineering with a smooth, confectionery-inspired aesthetic. Draped in a warm palette of creamy yellows, the upper arrives in a synthetic vinyl upper with a TPU exterior.Underfoot, the sneaker is equipped with a full‑length Zoom Air cushioning system housed within a sculpted midsole, ensuring responsiveness and comfort on the court. The outsole features a multidirectional traction pattern comprising lightning-bolt, scythe and jersey-number shapes as homage to Durant. Click here to view",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "1696e5452670",
+      "title": "A Brand New Survival-Horror Title Is Coming to the SEGA Dreamcast 25 Years After SEGA Left the Console Market",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/7/white-creek-brings-new-survival-horror-sega-dreamcast",
+      "original_publish_time": "2026-07-29T09:14:46+00:00",
+      "scraped_time": "2026-07-29T13:00:56.777098+00:00",
+      "time_delta_mins": 0,
+      "category": "Quality",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "boot",
+        "sole"
+      ],
+      "relevance_score": 4,
+      "summary": "Summary Independent developers continue to release original titles for the Sega Dreamcast more than 25 years after the console was officially discontinued in 2001The latest project is White Creek, a survival-horror game that utilizes the system's 3D capabilities to deliver a cinematic experience comparable to the NAOMI arcade eraThe console's enduring homebrew scene is supported by its lack of modern digital rights management and hardware that allows booting from standard CDs Twenty-five years after Sega exited the console market, the SEGA Dreamcast remains a viable platform for new software development. The recently announced White Creek, developed by Story Bird Studios and published by PixelHeart, arrives as a dedicated survival-horror title built specifically for the vintage hardware. I",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "a691eb0d32c1",
       "title": "Crocs and Famous Footwear Team Up Again to Show Their Charitable Side",
@@ -1951,111 +2039,6 @@
       ],
       "relevance_score": 6,
       "summary": "From Dua Lipa’s Louboutin pumps to Lainey Wilson’s custom boots, 2026 brides want pairs they can wear long after “I do.”",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "e81ffd8ac0b9",
-      "title": "How Start-Rite Shoes is preparing for peak school uniform season",
-      "source_name": "Drapers",
-      "source_domain": "drapersonline.com",
-      "source_url": "https://www.drapersonline.com/insight/comment/how-start-rite-shoes-is-preparing-for-peak-school-uniform-season",
-      "original_publish_time": "2026-07-22T11:29:00+00:00",
-      "scraped_time": "2026-07-22T18:08:43.002035+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "shoes"
-      ],
-      "relevance_score": 4,
-      "summary": "Drapers How Start-Rite Shoes is preparing for peak school uniform season It might be the height of summer but footwear retailers are already in the swing of school uniform. Jen Tyley, marketing and ecommerce director at Start-Rite Shoes tells Drapers how the business is preparing for its very own peak trading period. The post How Start-Rite Shoes is preparing for peak school uniform season appeared first on Drapers .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "c3afb7fe497c",
-      "title": "Randomevent x Timberland Reimagine the 3-Eye Classic Lug in Sand-Dune Yellow",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/7/randomevent-timberland-3-eye-boat-shoe-a6f6waha-collaboration-release-info",
-      "original_publish_time": "2026-07-22T09:34:02+00:00",
-      "scraped_time": "2026-07-22T12:25:16.853197+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Timberland"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 4,
-      "summary": "Name: Randomevent x Timberland 3-Eye Boat ShoeColorway: Light BeigeSKU: A6F6WAHAMSRP: ¥35,200 JPY, (approx. $215 USD)Release Date: July 24 (in-store), July 27 (online)Where to Buy: Timberland Boutique Tokyo, Timberland JapanTimberland and Randomevent are joining forces on the 3-Eye Classic Lug, reworking one of the brand's most enduring silhouettes with a palette drawn from the desert. The collaboration keeps the shoe's rugged foundation intact while introducing a warmer, more textural finish that leans into the natural world for its inspiration.The color story is where this version makes its case. A light tan leather upper serves as the base, joined by vivid yellow hair-on leather and suede overlays that give the design a sense of depth and presence. Timberland describes the palette as sa",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "ecd12d4f627d",
-      "title": "Every Piece in the Converse x ‘Dragon Ball Z’ Collection",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/7/converse-dragon-ball-z-collaboration-collection-release-info",
-      "original_publish_time": "2026-07-22T09:18:43+00:00",
-      "scraped_time": "2026-07-22T12:25:16.866190+00:00",
-      "time_delta_mins": 0,
-      "category": "Trade Data",
-      "brands_mentioned": [
-        "Converse"
-      ],
-      "keywords_matched": [
-        "footwear",
-        "shoes"
-      ],
-      "relevance_score": 4,
-      "summary": "Summary Converse pairs with Dragon Ball Z for a limited footwear and apparel drop.Seven Chuck Taylors highlight characters like Shenron, Goku, Vegeta, Cell, and Frieza.Launching July 23 in North America/China, the wider global release follows August 11. Converse has officially joined forces with one of anime's most defining franchises to launch the limited-edition Converse x Dragon Ball Z collection. Designed to \"power up\" everyday street style, the collaborative release transforms classic staples and signature Chuck Taylor silhouettes into a wearable homage to the show's characters.The footwear lineup is the centerpiece, with seven character-driven Chuck Taylor shoes. Highlights include the Shenron Chuck 70 that's crafted in premium canvas with full-length dragon graphics, as well as the ",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "dc11b85faa8e",
-      "title": "Take an Official Look at the Nike Dunk Low Retro “Snake/Soft Pearl”",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/7/nike-dunk-low-retro-snake-soft-pearl-mosswood-brown-io1616-002-official-images",
-      "original_publish_time": "2026-07-22T08:47:24+00:00",
-      "scraped_time": "2026-07-22T12:25:16.868184+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "Name: Nike Dunk Low Retro “Snake/Soft Pearl”Colorway: Snake/Soft Pearl/Mosswood BrownSKU: IO1616-002MSRP: $130 USDRelease Date: 2026Nike continues to refresh its timeless Dunk Low silhouette with the introduction of the Retro \"Snake/Soft Pearl\" colorway. This eye-catching iteration perfectly balances clean, neutral tones with exotic, high-end detailing. The upper is anchored by a crisp leather base rendered in a subtle \"Soft Pearl\" and \"Sail\" colorway, allowing the design's most compelling feature to take center stage: a striking snakeskin-inspired pattern that wraps seamlessly across the overlays. This intricate, mosswood brown reptile print adds an elevated, textured depth to the classic profile, beautifully blending the sneaker's heritage sportswear DNA with a highly stylized, luxurious",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "9706db66cd1b",
-      "title": "Salomon To Release the XA PRO 3D “Pearl Blue” as an URBAN RESEARCH-Exclusive",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/7/salomon-xa-pro-3d-pearl-blue-urban-research-exclusive-cu26310-1170220-release-info",
-      "original_publish_time": "2026-07-22T08:22:48+00:00",
-      "scraped_time": "2026-07-22T12:25:16.869752+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [
-        "Salomon"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 4,
-      "summary": "Name: Salomon XA PRO 3D “Pearl Blue” URBAN RESEARCH ExclusiveColorway: Pearl BlueSKU: CU26310-1170220MSRP: ¥19,800 JPY (approx. $121 USD)Release Date: August 21Where to Buy: URBAN RESEARCHSalomon has revealed a special XA PRO 3D variant exclusively for URBAN RESEARCH. Arriving in a \"Pearl Blue,\" the silhouette comes rendered in its titular hue, accented with subtle gray overlays that highlight the shoe’s technical construction. The upper is constructed from highly breathable 3D open mesh layered with durable synthetic overlays, providing optimal protection and a sleek, technical aesthetic.Grounded by Salomon's signature Quicklace system for a secure, one-pull custom fit and featuring subtle branding hits, the sneaker perfectly balances its rugged outdoor DNA with a refined, city-ready visu",
       "ren_take": "",
       "image_url": ""
     }
