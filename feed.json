@@ -1,8 +1,29 @@
 {
-  "last_updated": "2026-07-29T00:14:59.061579+00:00",
+  "last_updated": "2026-07-29T07:46:05.878014+00:00",
   "total_articles": 99,
-  "sources_checked": 60,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "a691eb0d32c1",
+      "title": "Crocs and Famous Footwear Team Up Again to Show Their Charitable Side",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/crocs-classic-clog-famous-footwear-ticket-to-dream-charity-1239085467/",
+      "original_publish_time": "2026-07-29T06:47:09+00:00",
+      "scraped_time": "2026-07-29T07:34:56.715777+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Crocs"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 5,
+      "summary": "The limited edition clog from Crocs and Famous Footwear will see a portion of sales benefiting foster youth through the Ticket to Dream Foundation.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "552ab08f1fe0",
       "title": "Ornamental Broguing Lands On The Air Jordan Mule",
@@ -2035,28 +2056,6 @@
       ],
       "relevance_score": 4,
       "summary": "Name: Salomon XA PRO 3D “Pearl Blue” URBAN RESEARCH ExclusiveColorway: Pearl BlueSKU: CU26310-1170220MSRP: ¥19,800 JPY (approx. $121 USD)Release Date: August 21Where to Buy: URBAN RESEARCHSalomon has revealed a special XA PRO 3D variant exclusively for URBAN RESEARCH. Arriving in a \"Pearl Blue,\" the silhouette comes rendered in its titular hue, accented with subtle gray overlays that highlight the shoe’s technical construction. The upper is constructed from highly breathable 3D open mesh layered with durable synthetic overlays, providing optimal protection and a sleek, technical aesthetic.Grounded by Salomon's signature Quicklace system for a secure, one-pull custom fit and featuring subtle branding hits, the sneaker perfectly balances its rugged outdoor DNA with a refined, city-ready visu",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "7d45bd8ba03b",
-      "title": "This Kobe Bryant Air Force 1 Low Pushes His Off-Court Line Into Confetti Territory",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/7/kobe-bryant-nike-air-force-1-low-multi-color-ib0018-014-official-images",
-      "original_publish_time": "2026-07-22T07:41:42+00:00",
-      "scraped_time": "2026-07-22T12:25:16.871463+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "footwear",
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "Name: Kobe Bryant Nike Air Force 1 Low “Multi-Color”Colorway: TBCSKU: IB0018-014MSRP: $120 USDRelease Date: Fall/Winter 2026The Kobe Bryant Nike Air Force 1 Low is back with a new multicolor treatment that continues Kobe Brand's push into off-court territory. Where Bryant's name once lived almost entirely on performance basketball models, the line has steadily grown into lifestyle silhouettes, and this latest Air Force 1 carries that evolution forward with a design that raises more questions than it answers.Retailer images show a Sail leather upper finished with a subtle snakeskin texture, a nod to the Black Mamba nickname that has run through Bryant's footwear for two decades. All the familiar Kobe Brand markers sit in their usual spots, including the sheath logo and Bryant's jersey numbe",
       "ren_take": "",
       "image_url": ""
     }
