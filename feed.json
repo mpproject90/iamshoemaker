@@ -1,8 +1,50 @@
 {
-  "last_updated": "2026-07-31T07:52:56.873124+00:00",
-  "total_articles": 101,
-  "sources_checked": 60,
+  "last_updated": "2026-07-31T13:06:59.817514+00:00",
+  "total_articles": 103,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "3e17ade40a1e",
+      "title": "Karol G on Her ‘Tropicoqueta’-inspired Reebok Campaign and the Classic Sneakers She Loves",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/karol-g-reebok-classics-campaign-tropicoqueta-1239088863/",
+      "original_publish_time": "2026-07-31T12:00:00+00:00",
+      "scraped_time": "2026-07-31T12:55:42.471209+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Reebok"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "The singer discusses her childhood connection to the Freestyle Hi and the community behind “Born Classic. Worn Together.”",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "e9636e65b4e6",
+      "title": "A Closer Look at ANT KAI’s Custom ASICS GEL-KAYANO 14 “MOSS”",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/7/ant-kai-custom-asics-gel-kayano-14-moss-images",
+      "original_publish_time": "2026-07-31T11:18:15+00:00",
+      "scraped_time": "2026-07-31T12:55:52.923176+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "ASICS"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 4,
+      "summary": "Name: ASICS GEL-KAYANO 14 “MOSS”Colorway: “MOSS”SKU: N/AMSRP: N/ARelease Date: N/ARenowned footwear artist ANT KAI has unveiled a custom take on the ASICS GEL-KAYANO 14, dubbed “MOSS.” This handcrafted design reimagines the runner’s aesthetic with a finish inspired by moss-covered rocks, blending organic textures with technical construction.The sneaker’s gray mesh base is layered with a burlap-like fabric, serving as the canvas for hand-stitched moss embroidery. ASICS’ iconic Tiger Stripes are reinterpreted in moss-textured material along the lateral sides, extending onto the toe to complete the botanical motif.To balance the lush, natural elements, metallic silver overlays are intentionally distressed with scuffed marks, adding a rugged layer of patina and wear to the design. The bespoke ",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "5633f98b584d",
       "title": "Kothari Industrial Corporation may infuse capital in Phoenix Kothari Footwear - scanx.trade",
@@ -40,6 +82,27 @@
       ],
       "relevance_score": 4,
       "summary": "Summary Supreme, Martine Rose, and Nike are reportedly teaming up on a Dunk Low featuring Mike Tyson graphicsThe three-way release features a black leather upper decorated with imagery from Tyson's 1986 championship victoryThe sneaker is expected to release in Fall 2026 for $150 USD via Supreme and select retailers Name: Supreme x Martine Rose x Nike Dunk Low \"Mike Tyson\"Colorway: Black/White/GoldSKU: JA1868-001Retail Price: $150 USDRelease Date: Fall 2026Where to Buy: SupremeSupreme, Martine Rose, and Nike are reportedly collaborating on the Supreme x Martine Rose x Nike Dunk Low \"Mike Tyson.\" Early imagery suggests the three-way partnership channels Supreme’s signature photo tee heritage onto Nike's classic low-top platform.The silhouette features a premium black leather upper serving as",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "9f98abb8feab",
+      "title": "Air Jordan 1 Mid TD Cleat Gets Hit With \"Electric Green\"",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/7/air-jordan-1-mid-td-cleat-electric-green-fj6805-300-release-info",
+      "original_publish_time": "2026-07-31T06:09:38+00:00",
+      "scraped_time": "2026-07-31T12:55:52.924901+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Jordan"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 4,
+      "summary": "Summary Jordan Brand has released the Air Jordan 1 TD Cleat in an eye-catching \"Electric Green\" colorwayThe football pack includes both Air Jordan 1 Mid TD and Low TD iterationsFeatures include synthetic leather uppers wide stud placement and external traction pods Name: Air Jordan 1 Mid TD Cleat \"Electric Green\"Colorway: Electric Green/WhiteSKU: FJ6805-300MSRP: $155 USDRelease Date: Available NowWhere to Buy: NikeJordan Brand has officially released the Air Jordan 1 TD Cleat \"Electric Green\" Pack, bringing high-voltage energy to the gridiron. The vibrant release translates the iconic AJ1 basketball silhouette into performance-ready Mid and Low football cleat options.Dressed in a striking Electric Green and White color palette, the cleats utilize a durable synthetic leather upper designed ",
       "ren_take": "",
       "image_url": ""
     },
@@ -105,6 +168,27 @@
       ],
       "relevance_score": 5,
       "summary": "Special editions of the Moon Shoe and ACG Moc.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "e6876531f20d",
+      "title": "Karol G's 'Tropicoqueta' Only Wears Reebok",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/7/karol-g-reebok-born-classic-worn-together-campaign-interview",
+      "original_publish_time": "2026-07-30T22:49:36+00:00",
+      "scraped_time": "2026-07-31T12:55:52.921101+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Reebok"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Karol G and Reebok are celebrating the power of Classics with \"Born Classic. Worn Together.\", the latest chapter in her sneaker-forward Tropicoqueta era. As she takes the \"Viajando Por El Mundo TropiTour\" across the globe, the Colombian artist is stepping on stage in classic Reebok silhouettes. \"La Bichota\" announced her footwear ambassadorship in January 2026 and awaits her first collaborative line set to launch next year. Now, Karol G and Reebok officially unveil the \"Born Classic. Worn Together.\" campaign, celebrating the power of music, style, and movement to bring communities together.Shot in Mexico City, the campaign captures the vibrant spirit of her Tropicoqueta era through warm sunset tones and timeless Reebok Classics. \"Tropicoqueta is about celebration, connection, and embracing",
       "ren_take": "",
       "image_url": ""
     },
@@ -812,6 +896,25 @@
       ],
       "relevance_score": 4,
       "summary": "Summary Independent developers continue to release original titles for the Sega Dreamcast more than 25 years after the console was officially discontinued in 2001The latest project is White Creek, a survival-horror game that utilizes the system's 3D capabilities to deliver a cinematic experience comparable to the NAOMI arcade eraThe console's enduring homebrew scene is supported by its lack of modern digital rights management and hardware that allows booting from standard CDs Twenty-five years after Sega exited the console market, the SEGA Dreamcast remains a viable platform for new software development. The recently announced White Creek, developed by Story Bird Studios and published by PixelHeart, arrives as a dedicated survival-horror title built specifically for the vintage hardware. I",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "ce857b5daa4e",
+      "title": "Global footwear production holds steady in 2025 - World Footwear",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOEZUVjZlM0lEZkxYTDlQaDNXdjRMVmZBcHFOQTEtQzdqRm14cThQdjlsaFZFaHRVSUpZdUJBdTZTc2JuUjhibUp2UExfemhJMU9XaHdkLXgxTmUtbXhxNEFJNko0SU9LRmZGNWhqMGhidU5OUnZaRlhTc25iUGluUWxERzlZNmZEa3RiNFpMQWswSzJfTnFfNQ?oc=5",
+      "original_publish_time": "2026-07-29T07:00:00+00:00",
+      "scraped_time": "2026-07-31T12:56:03.857278+00:00",
+      "time_delta_mins": 0,
+      "category": "Manufacturing",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Global footwear production holds steady in 2025 World Footwear",
       "ren_take": "",
       "image_url": ""
     },
@@ -2026,68 +2129,6 @@
       "keywords_matched": [],
       "relevance_score": 3,
       "summary": "Deckers Brands, which also runs Ugg, beat expectations for Q1, but some analysts wonder whether demand for its sneaker brand could wane.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "50f420c2878d",
-      "title": "Converse Unveils Three Bold Colorways of the SHAI 001 Lace Up",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/7/converse-shai-001-lace-up-three-colorways-cheetah-lime-berry-release-info",
-      "original_publish_time": "2026-07-24T11:28:18+00:00",
-      "scraped_time": "2026-07-24T12:18:57.612781+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike",
-        "Converse"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 4,
-      "summary": "Name: Converse SHAI 001 Lace UpMSRP: $120 USDRelease Date: August 14 (“Lime” 7 “Berry”), September 3 (“Cheetah”)Where to Buy: ConverseThe Converse SHAI 001 Lace Up returns in three bold new colorways - \"Cheetah,\" \"Lime\" and \"Berry\" - marking Shai Gilgeous-Alexander’s final chapter with Converse before his transition to Nike Basketball.Each pair blends performance-ready construction with expressive finishes that highlight SGA’s distinctive style. The \"Berry\" edition features a vibrant pink upper contrasted with beige collars, delivering a striking yet balanced look. The \"Lime\" colorway leans into volt and grey tones, creating a sharp two-tone aesthetic that reflects SGA’s eccentric tunnel-fit sensibility.Meanwhile, the \"Cheetah\" version stands out with a tri-tone layout of tan foundations a",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "a470c5759f48",
-      "title": "An Official Look at the Harris Tweed x Vans Old Skool Shoe",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/7/harris-tweed-vans-old-skool-vn000e8vbip-official-images",
-      "original_publish_time": "2026-07-24T11:00:27+00:00",
-      "scraped_time": "2026-07-24T12:18:57.617046+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Vans"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "Name: Harris Tweed x Vans Old SkoolColorway: TBCSKU: VN000E8VBIPMSRP: TBCRelease Date: Fall 2026Vans has partnered with Harris Tweed for an elevated, material-driven take on the classic Old Skool silhouette. Slated for a Fall 2026 release, this distinctive collaboration replaces the model's traditional canvas with authentic, handwoven Harris Tweed, crafted by islanders in the Outer Hebrides.The upper showcases a rich, blue-toned plaid textile that incorporates subtle hints of lilac, green and brown, bringing a refined, vintage tailoring aesthetic to the skate staple. This textured woven base is expertly contrasted by smooth, deep navy blue leather overlays wrapping around the toe box, eyestay and heel panel. The result is a highly tactile, premium foundation that perfectly bridges the gap ",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "d0ae5ad03926",
-      "title": "One Good Pair of Summer... Chelsea Boots?!",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/one-good-pair-of-boots/",
-      "original_publish_time": "2026-07-24T09:10:01+00:00",
-      "scraped_time": "2026-07-24T12:22:44.402707+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 3,
-      "summary": "Highsnobiety's \"One Good\" series explores editors' tried & trusted products. This round features a suede summer boot that's neither too heavy nor too hot, courtesy of Blundstone.",
       "ren_take": "",
       "image_url": ""
     }
