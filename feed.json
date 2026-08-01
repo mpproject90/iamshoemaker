@@ -1,8 +1,27 @@
 {
-  "last_updated": "2026-08-01T00:15:11.222372+00:00",
-  "total_articles": 104,
+  "last_updated": "2026-08-01T07:33:49.810905+00:00",
+  "total_articles": 105,
   "sources_checked": 61,
   "articles": [
+    {
+      "id": "1be1aaf5c144",
+      "title": "Karl Mayer expands jacquard spacer knitting for footwear innovation",
+      "source_name": "Textile Today",
+      "source_domain": "textiletoday.com.bd",
+      "source_url": "https://textiletoday.com.bd/karl-mayer-expands-jacquard-spacer-knitting-for-footwear-innovation",
+      "original_publish_time": "2026-08-01T04:08:00+00:00",
+      "scraped_time": "2026-08-01T07:26:42.251726+00:00",
+      "time_delta_mins": 0,
+      "category": "Manufacturing",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Karl Mayer has introduced the RDJ 7/3, a new double needle bar raschel knitting machine designed to expand jacquard spacer fabric production for athletic and casual footwear. The launch comes as footw...",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "1ceb138735ca",
       "title": "ASICS’ Latest Runner Is a Reminder That Dad Shoes Still Rule",
@@ -125,6 +144,25 @@
       ],
       "relevance_score": 6,
       "summary": "Following a 30th anniversary Pokémon x PUMA collaboration, Pokémon is keeping things moving with a huge project by the Big Cat’s German competitor in adidas.... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Pikachu, Charizard, And Gengar Appear In First Batch Of Pokémon x adidas Shoes appeared first on Sneaker News . The post Pikachu, Charizard, And Gengar Appear In First Batch Of Pokémon x adidas Shoes appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "40bda95d4450",
+      "title": "Sole Traders: Inside Montebelluna's Elite Shoe Industry - Monocle",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5TMmE3ZjRWUEF3YlVhdG9YQWlBdFJPbWt5SmVlYXVNVjBUVUdWVHFuWU9FWnV6RjFQY2lwSE9JQUpIRUFXUmFJMmlJR1NYVHFyeGR2QXZJcUZxajBrTXhIckU4T2toOVQwR2R6UmVNdUF5Z25ROTgw?oc=5",
+      "original_publish_time": "2026-07-31T17:25:56+00:00",
+      "scraped_time": "2026-08-01T07:22:00.716516+00:00",
+      "time_delta_mins": 0,
+      "category": "Trade Data",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sole"
+      ],
+      "relevance_score": 3,
+      "summary": "Sole Traders: Inside Montebelluna's Elite Shoe Industry Monocle",
       "ren_take": "",
       "image_url": ""
     },
@@ -2136,27 +2174,6 @@
       ],
       "relevance_score": 3,
       "summary": "I Found 5 Shoe Deals From Oprah-Loved Vionic—Podiatrist-Approved Sneakers and Loafers Are Up to 68% Off instyle.com",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "df50e5f0bac8",
-      "title": "Unreleased Nike Air Force 1 Low \"PlayStation\" 2024 Sample Surfaces",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/7/unreleased-nike-air-force-1-low-playstation-2024-sample-surfaces",
-      "original_publish_time": "2026-07-25T03:58:49+00:00",
-      "scraped_time": "2026-07-25T12:02:55.719926+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "Summary Images of an unreleased Nike Air Force 1 Low PlayStation 2024 sample have surfaced onlineThe pair features a faithful build to the original 2006 collaboration with full patent leather constructionProduced as an internal sample for a planned retro, the release was reportedly scrapped prior to retail Nike and PlayStation's legendary collaboration has surfaced in the form of a Nike Air Force 1 Low \"PlayStation\" 2024 Sample. The recently revealed detailed imagery shows a recreated version of the coveted 2006 grail produced as an internal sample.Surfaced imagery reveals a build faithful to the original 2006 iteration, featuring a full patent leather upper paired with glossy black front paneling. A signature blue gradient wraps around the heel section, leading directly to an embroidered ",
       "ren_take": "",
       "image_url": ""
     }
