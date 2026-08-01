@@ -1,8 +1,111 @@
 {
-  "last_updated": "2026-07-31T18:27:39.678161+00:00",
-  "total_articles": 101,
-  "sources_checked": 62,
+  "last_updated": "2026-08-01T00:15:11.222372+00:00",
+  "total_articles": 104,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "1ceb138735ca",
+      "title": "ASICS’ Latest Runner Is a Reminder That Dad Shoes Still Rule",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/asics-gel-nyc-20-clay-greycement-grey/",
+      "original_publish_time": "2026-07-31T21:59:02+00:00",
+      "scraped_time": "2026-08-01T00:07:39.522519+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "ASICS"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 5,
+      "summary": "The ASICS GEL-NYC 2 “Clay Grey” proves why nobody does the performance-driven dad shoe better, blending archival DNA with modern comfort and style.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "9f620fae07df",
+      "title": "Official Images Of The Air Jordan 1 Low OG “Laser”",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/07/31/air-jordan-1-low-og-laser-iv6750-001/",
+      "original_publish_time": "2026-07-31T20:40:29+00:00",
+      "scraped_time": "2026-08-01T00:03:48.927192+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Jordan"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "The shoes of yesterday are always a source of potential inspiration for Jordan Brand, but we’re used to the tried-and-true classics making repeat appearances. As... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Official Images Of The Air Jordan 1 Low OG \"Laser\" appeared first on Sneaker News . The post Official Images Of The Air Jordan 1 Low OG “Laser” appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "5476f356741c",
+      "title": "adidas’ Luxe Samba Bowling Shoe Suddenly Grew Fangs",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/brain-dead-adidas-samba-bowling-shoes-snakeskin/",
+      "original_publish_time": "2026-07-31T20:32:14+00:00",
+      "scraped_time": "2026-08-01T00:07:39.523850+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "Brain Dead designs new adidas Samba Bowling sneakers featuring animal prints, including snakeskin & leopard options.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "c6cd97f8668f",
+      "title": "Jordan Clarkson's Off-Court Rituals Go Overtime with LAB Series",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/jordan-clarksons-lab-series-event/",
+      "original_publish_time": "2026-07-31T20:23:01+00:00",
+      "scraped_time": "2026-08-01T00:07:39.523254+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "LAB Series transformed Brooklyn’s beloved listening bar into the backdrop for Game Face After Dark, an evening with Knicks point guard Jordan Clarkson that celebrated the rituals behind performance.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "d13bd363ec04",
+      "title": "The New Balance 1906W Toys With Distressed Metallics",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/07/31/new-balance-1906w-dark-silver-metallic-pack/",
+      "original_publish_time": "2026-07-31T20:00:20+00:00",
+      "scraped_time": "2026-08-01T00:03:48.929521+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "New Balance"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "It may be easy to forget given that shoes like the New Balance 204V or New Balance 1890A have taken tech runners and flung them... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The New Balance 1906W Toys With Distressed Metallics appeared first on Sneaker News . The post The New Balance 1906W Toys With Distressed Metallics appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "7254e8bde293",
       "title": "Pikachu, Charizard, And Gengar Appear In First Batch Of Pokémon x adidas Shoes",
@@ -253,6 +356,27 @@
       ],
       "relevance_score": 3,
       "summary": "Nike continues to expand Kobe Bryant’s lifestyle footwear legacy into the baseball diamond with another Los Angeles Dodgers-inspired release. Dropping alongside the Kobe 5 Protro... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post First Look At The Kobe Bryant x Nike Air Force 1 Low Protro \"Dodgers\" appeared first on Sneaker News . The post First Look At The Kobe Bryant x Nike Air Force 1 Low Protro “Dodgers” appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "b91b2bb5ac4d",
+      "title": "Air Jordan August 2026 Releases: Four Sneakers That Set the Tone for Fall - Men's Journal",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQTYtY2FOUDZxRl9aWnZBTkdPc0VpSWtibUthR1J6X2lWSnhXUG1IajZXU2F2SnNBVFdFMmdwUVNVZ0tWTUJVQlBTcXhGcVZKc2FmOXpsWmtVYlg0dnNZVFRfcmY4M3E5eDRmTEJPb0U1TzQ0OW5paDlaMUdBQm5nalhvOHg?oc=5",
+      "original_publish_time": "2026-07-30T21:03:06+00:00",
+      "scraped_time": "2026-08-01T00:04:00.628440+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Jordan"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "Air Jordan August 2026 Releases: Four Sneakers That Set the Tone for Fall Men's Journal",
       "ren_take": "",
       "image_url": ""
     },
@@ -2033,65 +2157,6 @@
       ],
       "relevance_score": 3,
       "summary": "Summary Images of an unreleased Nike Air Force 1 Low PlayStation 2024 sample have surfaced onlineThe pair features a faithful build to the original 2006 collaboration with full patent leather constructionProduced as an internal sample for a planned retro, the release was reportedly scrapped prior to retail Nike and PlayStation's legendary collaboration has surfaced in the form of a Nike Air Force 1 Low \"PlayStation\" 2024 Sample. The recently revealed detailed imagery shows a recreated version of the coveted 2006 grail produced as an internal sample.Surfaced imagery reveals a build faithful to the original 2006 iteration, featuring a full patent leather upper paired with glossy black front paneling. A signature blue gradient wraps around the heel section, leading directly to an embroidered ",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "ac31d67b4f85",
-      "title": "The Nike Pegasus Premium Continues To Dabble In Gradient Soles",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/07/24/nike-pegasus-premium-white-aluminum-sundial-mystic-navy-hq2593-107/",
-      "original_publish_time": "2026-07-24T21:00:59+00:00",
-      "scraped_time": "2026-07-25T00:07:15.352541+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "sole"
-      ],
-      "relevance_score": 5,
-      "summary": "Run clubs around metro areas are as well attended as ever, as every fashion outlet, magazine, and blog continues reporting on the blurred lines between... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Nike Pegasus Premium Continues To Dabble In Gradient Soles appeared first on Sneaker News . The post The Nike Pegasus Premium Continues To Dabble In Gradient Soles appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "63865747f214",
-      "title": "US imposes 10% Section 301 tariff on Bangladesh apparel exports",
-      "source_name": "Textile Today",
-      "source_domain": "textiletoday.com.bd",
-      "source_url": "https://textiletoday.com.bd/us-imposes-10-section-301-tariff-on-bangladesh-apparel-exports",
-      "original_publish_time": "2026-07-24T18:45:00+00:00",
-      "scraped_time": "2026-07-25T00:10:58.195505+00:00",
-      "time_delta_mins": 0,
-      "category": "Trade Data",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "apparel exports"
-      ],
-      "relevance_score": 3,
-      "summary": "The United States has imposed a new 10% Section 301 tariff on textile and apparel imports from Bangladesh, adding fresh pressure on one of the country's largest export markets. The measure took effect...",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "379dfd90c143",
-      "title": "Footwear Firms Face New Tariffs, and More Could Be on the Way",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/tariffs-fdra-matt-priest-20-percent-footwear-shoes-imports-1239081383/",
-      "original_publish_time": "2026-07-24T18:33:52+00:00",
-      "scraped_time": "2026-07-25T00:07:04.441994+00:00",
-      "time_delta_mins": 0,
-      "category": "Trade Data",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "FDRA's Matt Priest is advising members that tariffs will \"get back to mainly 20 percent in some form or fashion for most of our producing countries.\"",
       "ren_take": "",
       "image_url": ""
     }
