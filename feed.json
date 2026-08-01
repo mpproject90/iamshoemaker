@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-01T07:33:49.810905+00:00",
-  "total_articles": 105,
+  "last_updated": "2026-08-01T12:12:42.165509+00:00",
+  "total_articles": 107,
   "sources_checked": 61,
   "articles": [
     {
@@ -188,6 +188,27 @@
       "image_url": ""
     },
     {
+      "id": "4cabf4cbe0e6",
+      "title": "Sophie Cunningham's Adidas Shoes Skyrocket on Resale Market - Sports Illustrated",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWjZ5XzM0QnliWnJQcHg4M0VhV3dWSDM1cG4tTXVxTlU5RmhYVFBIVmlXUFBZLV9TNm1xbHdidk9ibGNkbEtRTjJtdUpkZnplMkNUa0htQ1RteExvMloxT1VjN0FhdnlldWk4bHNDVFFQUlJyeHhWdTN0QXVRTmU1UWhycW5OcFk4TXg2dHc0N09HSVpSMm9ZejZ6NzlpSVpfX2c?oc=5",
+      "original_publish_time": "2026-07-31T13:12:36+00:00",
+      "scraped_time": "2026-08-01T12:02:10.020148+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 5,
+      "summary": "Sophie Cunningham's Adidas Shoes Skyrocket on Resale Market Sports Illustrated",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
       "id": "3e17ade40a1e",
       "title": "Karol G on Her ‘Tropicoqueta’-inspired Reebok Campaign and the Classic Sneakers She Loves",
       "source_name": "Footwear News",
@@ -287,6 +308,31 @@
       ],
       "relevance_score": 4,
       "summary": "Summary Jordan Brand has released the Air Jordan 1 TD Cleat in an eye-catching \"Electric Green\" colorwayThe football pack includes both Air Jordan 1 Mid TD and Low TD iterationsFeatures include synthetic leather uppers wide stud placement and external traction pods Name: Air Jordan 1 Mid TD Cleat \"Electric Green\"Colorway: Electric Green/WhiteSKU: FJ6805-300MSRP: $155 USDRelease Date: Available NowWhere to Buy: NikeJordan Brand has officially released the Air Jordan 1 TD Cleat \"Electric Green\" Pack, bringing high-voltage energy to the gridiron. The vibrant release translates the iconic AJ1 basketball silhouette into performance-ready Mid and Low football cleat options.Dressed in a striking Electric Green and White color palette, the cleats utilize a durable synthetic leather upper designed ",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "f721053f5a9e",
+      "title": "Crocs Unveils the ROY in a New \"Elephant\" Colorway",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/8/crocs-the-roy-elephant-213756-1lm-release-info",
+      "original_publish_time": "2026-07-31T06:04:46+00:00",
+      "scraped_time": "2026-08-01T12:01:59.165312+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Crocs"
+      ],
+      "keywords_matched": [
+        "footwear",
+        "insole",
+        "outsole",
+        "sole",
+        "upper"
+      ],
+      "relevance_score": 7,
+      "summary": "Summary Crocs is releasing its futuristic ROY silhouette in a monochromatic \"Elephant\" colorwayDesigned by footwear legend Steven Smith and the Crocs Creative Innovation Team the model utilizes single-shot Mellow foam constructionThe molded slip-on features integrated flex grooves across the upper and outsole alongside embossed logo detailing on the heel and insole Name: Crocs The Roy \"Elephant\"Colorway: ElephantSKU: 213756-1LMRetail Price: $80 USDRelease Date: August 7, 2027Where to Buy: CrocsCrocs has officially revealed The Roy \"Elephant\", marking the latest colorway of its futuristic molded silhouette. The sculptural foam slip-on was developed by footwear design veteran Steven Smith alongside the Crocs Creative Innovation Team.Engineered with single-shot Mellow foam construction, the m",
       "ren_take": "",
       "image_url": ""
     },
