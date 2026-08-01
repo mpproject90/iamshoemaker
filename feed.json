@@ -1,8 +1,50 @@
 {
-  "last_updated": "2026-08-01T12:12:42.165509+00:00",
-  "total_articles": 107,
+  "last_updated": "2026-08-01T18:07:38.118030+00:00",
+  "total_articles": 106,
   "sources_checked": 61,
   "articles": [
+    {
+      "id": "6dfbe4a21fbe",
+      "title": "Travis Scott’s “Odyssey” Nikes Are Sneakers That Will Never Be",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/travis-scott-nike-moon-shoe-odyssey/",
+      "original_publish_time": "2026-08-01T17:21:21+00:00",
+      "scraped_time": "2026-08-01T18:00:28.546451+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "Travis Scott debuts a collaborative Nike Moon Shoe designed exclusively for the Odyssey's cast and crew. Here's everything on the never-to-release shoe.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "f3a866394b5b",
+      "title": "Crocs Is Doubling Down on Its Dorky, Gorpy Trail Sneakers",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/crocs-quick-trail-racer-orange-zing/",
+      "original_publish_time": "2026-08-01T13:50:00+00:00",
+      "scraped_time": "2026-08-01T18:00:28.547330+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Crocs"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 6,
+      "summary": "The Crocs Quick Trail Racer “Orange Zing” pushes the brand further into gorpcore territory with a rugged trail-inspired silhouette built for everyday wear.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "1be1aaf5c144",
       "title": "Karl Mayer expands jacquard spacer knitting for footwear innovation",
@@ -2161,65 +2203,6 @@
       ],
       "relevance_score": 3,
       "summary": "Name: Nike Shox TL “Flat Pewter/Black”Colorway: Flat Pewter/BlackSKU: IR2097-002MSRP: TBCRelease Date: TBCNike has reworked the Shox TL SE as a premium take on one of its most recognizable cushioning platforms. The special edition preserves the iconic silhouette that first defined the Shox TL in 2003, then layers in upgraded materials and construction to sharpen the technical detailing that has always set the model apart.The most immediate change is in the materials. The upper is built from full-grain leather, a choice that pairs durability with a more elevated, premium finish than the model's original execution. A molded overlay at the midfoot and a dimensional arrangement of paneling emphasize the mechanical design language unique to the Shox TL, keeping the technical, layered aesthetic ",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "9774695a5558",
-      "title": "Producing more than 930 million pairs and remaining stable, the Brazilian footwear industry maintained the 2025 level, exporting around 99 million pairs and allocating most of the production to the domestic market. - CPG Click Oil and Gas",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPeEc5MW5BYVJ4M2hKTnJYUnE0VUxhRWphQjJ6VmNYUTN3MGJMcmRwWENNS2s1MkFZdjl1enlpd05tMldRZUpDMVZ5WWMyQjZDRXRETDNVWDhVdDMxdktZV3dIalY2YkQzbmZUOVRWdUc0NlZ3VTlNZThwdlJIbE9KY3M1aWh2MDFYbUtwRVVWQmI5WHNmb1pHM0s4RFVZWVJGMW5xb2VWSndObE90UEo2WjJDMVE5TFhzMzYzRXg5TGZiR2ltUVczUGR2a211ZldRMFJkalNhV0NsSDhHSDJKNHp2TmxJdU5SdDRSY0tDbHVYRW92NUMtY1FvdTM4OW9XMnZOaEljSXRkUlFjSFgweA?oc=5",
-      "original_publish_time": "2026-07-25T17:38:00+00:00",
-      "scraped_time": "2026-07-25T17:56:15.313786+00:00",
-      "time_delta_mins": 0,
-      "category": "Manufacturing",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "footwear industry"
-      ],
-      "relevance_score": 6,
-      "summary": "Producing more than 930 million pairs and remaining stable, the Brazilian footwear industry maintained the 2025 level, exporting around 99 million pairs and allocating most of the production to the domestic market. CPG Click Oil and Gas",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "6dd23704efb4",
-      "title": "Cocona Hiraki Brings Charms And Corduroy To Her Vans Old Skool Sequel",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/07/25/cocona-hiraki-vans-old-skool-vn000egycrm-vn000egybpr/",
-      "original_publish_time": "2026-07-25T16:00:35+00:00",
-      "scraped_time": "2026-07-25T17:56:04.408079+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [
-        "Nike",
-        "Vans"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "In a similar way to Nike SB’s second apex during the 2020s, the collaborative efforts and special edition colorways can sometimes take away from the... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Cocona Hiraki Brings Charms And Corduroy To Her Vans Old Skool Sequel appeared first on Sneaker News . The post Cocona Hiraki Brings Charms And Corduroy To Her Vans Old Skool Sequel appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "0c84a48e8e0c",
-      "title": "I Found 5 Shoe Deals From Oprah-Loved Vionic—Podiatrist-Approved Sneakers and Loafers Are Up to 68% Off - instyle.com",
-      "source_name": "Google News - Sneaker Brand",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeHBTZWs1WDY2bjN6UkpJX1BjRkwzVldzZDRqekxzcUpBaC1TdDRUZDB3QVp3RDZlaFZ5SVNsQWExMzJVRHpDT0NLaDAxTUpHNFNzS0JYbWxWU1hudEdlenhnU01TR1NuRnpvSjdZaGhqRGhPeWFsYjFZVmdGX2Q2bEhBM1A?oc=5",
-      "original_publish_time": "2026-07-25T13:30:00+00:00",
-      "scraped_time": "2026-07-28T00:04:58.398523+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "I Found 5 Shoe Deals From Oprah-Loved Vionic—Podiatrist-Approved Sneakers and Loafers Are Up to 68% Off instyle.com",
       "ren_take": "",
       "image_url": ""
     }
