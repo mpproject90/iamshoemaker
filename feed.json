@@ -1,8 +1,51 @@
 {
-  "last_updated": "2026-08-02T07:45:38.960200+00:00",
-  "total_articles": 104,
-  "sources_checked": 76,
+  "last_updated": "2026-08-02T13:07:27.294174+00:00",
+  "total_articles": 107,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "78ac6bf5a55e",
+      "title": "A First Look at Nike and Zellerfeld’s 3D-Printed Air Works Prototype",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/8/a-first-look-at-nike-and-zellerfelds-3d-printed-air-works-prototype",
+      "original_publish_time": "2026-08-02T08:30:07+00:00",
+      "scraped_time": "2026-08-02T12:02:27.839960+00:00",
+      "time_delta_mins": 0,
+      "category": "Manufacturing",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "footwear",
+        "sneakers"
+      ],
+      "relevance_score": 4,
+      "summary": "Name: Motoi Hatsuki Air Works 3D-printed SneakerSKU: TBCRelease Date: TBCNike has officially taken its first public step into the future of footwear manufacturing with its 3D-printed sneaker from its innovative Air Works Program, developed in partnership with additive manufacturing specialist Zellerfeld.Revealed via social media by Blue Room's Motoi Hatsuki, the prototype silhouette showcases a sleek, monochromatic model. The sneaker features a one‑piece 3D‑printed construction, eliminating traditional stitching and overlays for a streamlined, slip‑on profile. Hatsuki’s design draws inspiration from the Air Max 1000 and Tailwind V, incorporating exaggerated heel and forefoot Air bubbles, including a glowing neon yellow unit at the rear. The side panels showcase a paisley‑style looping moti",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "1f6f2ddb431e",
+      "title": "Official Images of the Nike Air Rejuven8 \"Camo Pack\"",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/8/nike-air-rejuven8-camo-pack-black-camo-iu3167-002-barkroot-brown-camo-iu3167-001-official-images",
+      "original_publish_time": "2026-08-02T08:12:44+00:00",
+      "scraped_time": "2026-08-02T12:02:27.843305+00:00",
+      "time_delta_mins": 0,
+      "category": "Manufacturing",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 3,
+      "summary": "Name: Nike Air Rejuven8 “Camo Pack”Colorway: “Black Camo,” “Barkroot Brown Camo”SKU: IU3167-002, IU3167-001MSRP: TBCRelease Date: August 2026Nike expands on the Air Rejuven8 revival, unveiling a bold new “Camo Pack” featuring two women’s-exclusive colorways in \"Black Camo\" and \"Barkroot Brown.\" Originally introduced ahead of the 2008 Beijing Olympics as a post-performance recovery shoe for elite athletes, both new iterations retain the slip-on silhouette while introducing camouflage-inspired detailing across the molded, open-cell lattice cage.The \"Black Camo\" edition pairs a black knit bootie with tonal laces and foam tooling, contrasted by a semi-translucent shell patterned with smoky camouflage across its diamond cutouts. A crisp white Swoosh on the lateral side provides the only sharp b",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "09de6055508d",
       "title": "Classic sneaker brand closes 140 stores as brand reboot sputters - thestreet.com",
@@ -265,6 +308,25 @@
       ],
       "relevance_score": 3,
       "summary": "It's the first of eight sneakers from designers around the world.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "8764b6ff3976",
+      "title": "The Best Spider-Man Sneakers of All Time, Ranked - Complex",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbWlpUk1Na0ZsTVpudUJDSmF3TkJ4Nkd0SVlGRUphU2lOcjdDZXZKSWxvQ1dLeEY5cmtialloM3dOcjdsUlh4Y2hINjd1LV9hd3FvRGlfN3BwbUMtc3JfdXNiQ1VPUENxbG9fUGJ0VTltMk5kYzZzN2FSLTU5MUt3RmRsMmRHMEJGQ1hKNFdnMVQ3YXFlTTN2d1dR?oc=5",
+      "original_publish_time": "2026-07-31T14:00:00+00:00",
+      "scraped_time": "2026-08-02T12:02:39.321616+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "The Best Spider-Man Sneakers of All Time, Ranked Complex",
       "ren_take": "",
       "image_url": ""
     },
