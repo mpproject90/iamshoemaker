@@ -1,8 +1,47 @@
 {
-  "last_updated": "2026-08-01T18:07:38.118030+00:00",
-  "total_articles": 106,
+  "last_updated": "2026-08-02T00:09:56.876629+00:00",
+  "total_articles": 108,
   "sources_checked": 61,
   "articles": [
+    {
+      "id": "09de6055508d",
+      "title": "Classic sneaker brand closes 140 stores as brand reboot sputters - thestreet.com",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdDl4OHB3c2Y4Um0yT1JlOU5FbDd3dmt5SWFMN1I5Zk1YdjhfbWRhRnJMcXAzYnp0cDhrY0xYaUZJdDZtYThiNi1QTS1MTzZKU244TVhiNUYyMWFVd0NGd2ZVNXdLcm9QemMtWmhCeFRRUXE5N0RoVjFReXd2MlZ0aVozM25FSW41aU1rM3BZSDRkdUlMOGZRamYwTjRRYjZ6Rnc0?oc=5",
+      "original_publish_time": "2026-08-01T21:03:05+00:00",
+      "scraped_time": "2026-08-01T23:59:26.784472+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 3,
+      "summary": "Classic sneaker brand closes 140 stores as brand reboot sputters thestreet.com",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "7a431c62560d",
+      "title": "16 Years Later, Nike’s Oreo-Themed Air Jordans Still Hit the Spot",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/jordan-6-oreo-2026-sneakers/",
+      "original_publish_time": "2026-08-01T20:56:48+00:00",
+      "scraped_time": "2026-08-02T00:02:44.563129+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "The Air Jordan 6 \"Oreo\" sneaker gets a 2026 revival, dressed in its classic black-and-white colorway & tasty details.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "6dfbe4a21fbe",
       "title": "Travis Scott’s “Odyssey” Nikes Are Sneakers That Will Never Be",
