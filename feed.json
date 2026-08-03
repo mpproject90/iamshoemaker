@@ -1,8 +1,30 @@
 {
-  "last_updated": "2026-08-02T18:13:48.872500+00:00",
-  "total_articles": 105,
-  "sources_checked": 62,
+  "last_updated": "2026-08-03T00:12:04.776838+00:00",
+  "total_articles": 106,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "51cc03cc728d",
+      "title": "New Balance’s Elegant Dad Shoe Is a Rare Breed",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/new-balance-996-satin-shoelaces/",
+      "original_publish_time": "2026-08-02T20:40:09+00:00",
+      "scraped_time": "2026-08-03T00:04:41.266927+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "New Balance"
+      ],
+      "keywords_matched": [
+        "shoes",
+        "sneakers"
+      ],
+      "relevance_score": 4,
+      "summary": "New Balance's newest 996 sneakers appear with textural looks & satin shoelaces, a rare makeover for the brand's dad shoes.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "78ac6bf5a55e",
       "title": "A First Look at Nike and Zellerfeld’s 3D-Printed Air Works Prototype",
