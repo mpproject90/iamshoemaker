@@ -1,8 +1,112 @@
 {
-  "last_updated": "2026-08-03T13:52:34.724810+00:00",
-  "total_articles": 104,
+  "last_updated": "2026-08-03T18:58:49.516476+00:00",
+  "total_articles": 106,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "935cc9da68fb",
+      "title": "Nordstrom Hopes to Give 50,000 Kids New Sneakers in 16th Annual Shoes That Fit Campaign",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/nordstrom-shoes-that-fit-campaign-goal-details-2026-1239091910/",
+      "original_publish_time": "2026-08-03T18:32:28+00:00",
+      "scraped_time": "2026-08-03T18:47:55.002471+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoes",
+        "sneakers"
+      ],
+      "relevance_score": 6,
+      "summary": "The retailer said it will be hosting 20 shoe delivery events across 17 markets.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "56a6c02b3950",
+      "title": "Ye Reveals A First Look At The Yeezy 800 Sneaker",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/08/03/kanye-west-ye-yeezy-800-sneaker/",
+      "original_publish_time": "2026-08-03T18:30:34+00:00",
+      "scraped_time": "2026-08-03T18:48:05.806306+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Yeezy"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Following the huge news that Yeezy footwear will be sold in JD Sports stores, Ye’s independent Yeezy brand continues to take shape with the introduction... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Ye Reveals A First Look At The Yeezy 800 Sneaker appeared first on Sneaker News . The post Ye Reveals A First Look At The Yeezy 800 Sneaker appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "317a1a3e3a9c",
+      "title": "Nike Joins the Hyrox Craze",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/nike-hybrid-shoes-training-racing-hyrox-1239091568/",
+      "original_publish_time": "2026-08-03T17:35:04+00:00",
+      "scraped_time": "2026-08-03T18:47:55.004855+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "As popularity of the popular fitness race soars, Nike's Hybrid Fly and Hybrid RN are the newest shoes entering the fray.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "c45b1a75a93a",
+      "title": "Pokémon And adidas Have A Massive 30th Anniversary Collection Coming Soon",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/08/03/adidas-pokemon-30th-anniversary-collection/",
+      "original_publish_time": "2026-08-03T16:30:41+00:00",
+      "scraped_time": "2026-08-03T18:48:05.809953+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Adidas",
+        "Puma"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "The 30th anniversary for the biggest media franchise in human history only comes around once. Through various merchandising collaborations, including a link-up with PUMA earlier... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Pokémon And adidas Have A Massive 30th Anniversary Collection Coming Soon appeared first on Sneaker News . The post Pokémon And adidas Have A Massive 30th Anniversary Collection Coming Soon appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "7c6168b85d87",
+      "title": "Some Classics Never Graduate. Your Fall Footwear Rotation Should Take Notes",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/timberland-studied-classics-back-to-campus/",
+      "original_publish_time": "2026-08-03T15:06:34+00:00",
+      "scraped_time": "2026-08-03T18:51:35.120875+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Timberland"
+      ],
+      "keywords_matched": [
+        "boot",
+        "footwear"
+      ],
+      "relevance_score": 5,
+      "summary": "Step into the new semester with Timberland's \"Studied Classics\" collection, from the iconic 6-Inch Boot to everyday campus-ready essentials.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "3448aa8d4d8b",
       "title": "The ASICS GEL-Kayano 14 Receives a “Silver/ Gold” Treatment",
@@ -2099,64 +2203,6 @@
       ],
       "relevance_score": 3,
       "summary": "Minister inspects Sigwe shoe factory site Times of Eswatini",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "dd6e723ef9ac",
-      "title": "Gap reboots 1990s fragrances this week",
-      "source_name": "Retail Dive",
-      "source_domain": "retaildive.com",
-      "source_url": "https://www.retaildive.com/news/gap-reboots-1990s-fragrances-thursday-dream-grass-heaven-om-harmonym/826227/",
-      "original_publish_time": "2026-07-27T16:23:00+00:00",
-      "scraped_time": "2026-07-27T18:25:17.714226+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 3,
-      "summary": "Originals Dream, Grass, Heaven and Om, plus new entrant Harmony, will be available as of Thursday. Fans are excited — and nervous.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "847e15d58bcb",
-      "title": "Schnucks to shutter sole company-owned warehouse",
-      "source_name": "Supply Chain Dive",
-      "source_domain": "supplychaindive.com",
-      "source_url": "https://www.supplychaindive.com/news/schnucks-to-shutter-sole-company-owned-warehouse/825932/",
-      "original_publish_time": "2026-07-27T14:58:00+00:00",
-      "scraped_time": "2026-07-27T18:25:17.544207+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "sole"
-      ],
-      "relevance_score": 3,
-      "summary": "The regional grocer is moving away from self-operated facilities and is actively developing long-term plans for the Missouri site, set to close in 2027.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "d8cad5746b0a",
-      "title": "More Footwear M&A Activity Could Be on the Way",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/mergers-acquisitions-footwear-weight-loss-health-wardrobe-1239079807/",
-      "original_publish_time": "2026-07-27T14:54:09+00:00",
-      "scraped_time": "2026-07-27T18:22:00.633753+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "shoes"
-      ],
-      "relevance_score": 4,
-      "summary": "Capstone Partners said weight loss drug adoption, health and wellness and casual dress codes have resulted in wardrobe refreshes that include shoes.",
       "ren_take": "",
       "image_url": ""
     }
