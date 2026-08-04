@@ -1,8 +1,131 @@
 {
-  "last_updated": "2026-08-03T18:58:49.516476+00:00",
-  "total_articles": 106,
+  "last_updated": "2026-08-04T00:22:09.332812+00:00",
+  "total_articles": 107,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "5fadda3746ca",
+      "title": "Nike’s Laceless Two-Toed Sneaker Gets the Halle Berry Treatment",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-air-rift-2-yukon-tan/",
+      "original_publish_time": "2026-08-03T22:17:23+00:00",
+      "scraped_time": "2026-08-04T00:14:56.705964+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "Nike's Air Rift 2 \"Yukon Tan\" sneakers land in tan & orange design, calling back to Halle Berry's rare sneaker collaboration.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "bf041fa173c3",
+      "title": "Nike Debuts The Hybrid Family, Their First Dedicated Hyrox Sneakers",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/08/03/nike-hybrid-fly-rn/",
+      "original_publish_time": "2026-08-03T22:00:50+00:00",
+      "scraped_time": "2026-08-04T00:11:24.557993+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "Fitness’ latest sensation is Hyrox, a circuit-style competition in which athletes are pitted against each other not just in endurance, not just in strength, but in an unrelenting rotation... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike Debuts The Hybrid Family, Their First Dedicated Hyrox Sneakers appeared first on Sneaker News . The post Nike Debuts The Hybrid Family, Their First Dedicated Hyrox Sneakers appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "53d6dc3be5a8",
+      "title": "SureWerx Launches Its First Footwear Collection With Dickies - wwd.com",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeW9Lc0N5WWxha3l2UUZEMHBHVEpXeGswWi1BQjlDak9wNHliZ05FclZUbGVGazRwd3l1TDc5OXhwQktTSVhuZVZGZEZ1RmtBZ2FXMzBfU3UzODE4ZVk5dXN6MG9DNm1xWUFDSmNfRnJDQ0NkbHEzd0pCSm9hXzJBWEdPREs2VDVUSW1WQjFDdnJMbndMZ0VoOXdMOEMyeXlSRGxfdHZrSFA5dUJsWW9WTkhlZ0Q?oc=5",
+      "original_publish_time": "2026-08-03T22:00:36+00:00",
+      "scraped_time": "2026-08-04T00:11:35.354681+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "SureWerx Launches Its First Footwear Collection With Dickies wwd.com",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "19c43923793a",
+      "title": "Nike’s Miu Miu-Coded Jordan Sneaker Is Extra (in a Good Way)",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/jordan-3-sport-renaissance/",
+      "original_publish_time": "2026-08-03T21:02:23+00:00",
+      "scraped_time": "2026-08-04T00:14:56.706532+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "The new Air Jordan 3 \"Sport Renaissance\" sneaker has a lot going on, from mismatched details to Miu Miu-style shoelaces.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "8660053ec6db",
+      "title": "You Know a Shoe Is Peak When It's Snow Peak",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/snow-peak-shoe-collabs/",
+      "original_publish_time": "2026-08-03T20:45:01+00:00",
+      "scraped_time": "2026-08-04T00:14:56.706974+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Merrell",
+        "Keen",
+        "Birkenstock"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "With every color-focused collab, outdoor brand Snow Peak is improving on classic shoe silhouettes from Merrell, Birkenstock, Keen, and more.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "79ec04cd0314",
+      "title": "The Nike Air Rift 2 Serves Up Y2K Vibes With “Metallic Silver”",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/08/03/nike-air-rift-2-metallic-silver-vast-grey-iq8006-003/",
+      "original_publish_time": "2026-08-03T20:30:10+00:00",
+      "scraped_time": "2026-08-04T00:11:24.561915+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Assuredly, Nike’s innovation machine has gotten involved plenty in their female footwear vertical; just look at the Nike First Sight family in seeing how past... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Nike Air Rift 2 Serves Up Y2K Vibes With \"Metallic Silver\" appeared first on Sneaker News . The post The Nike Air Rift 2 Serves Up Y2K Vibes With “Metallic Silver” appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "935cc9da68fb",
       "title": "Nordstrom Hopes to Give 50,000 Kids New Sneakers in 16th Annual Shoes That Fit Campaign",
@@ -478,6 +601,27 @@
       ],
       "relevance_score": 3,
       "summary": "Karl Mayer has introduced the RDJ 7/3, a new double needle bar raschel knitting machine designed to expand jacquard spacer fabric production for athletic and casual footwear. The launch comes as footw...",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "2f92ecbbeab1",
+      "title": "Anne Hathaway, Michelle Obama, and Jennifer Aniston Agree: Adidas Sneakers Are Summer’s Cool-Girl Shoe - instyle.com",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSTgxbTdrd09lLV8xMS1tTkh3ZTNjamlYVlYyUnhON2g3UWpsb1ZxSzY3dzRmcUJjLS1tbU5DbVVwX0NQRU1mR24wWVhfQVlPVWN3bDNscFJGanNxakJvNk1FZFBYMkxaTHZ5TlVjMWI1V3BnLXFwRGFmY2ZrbHlVaVk3QQ?oc=5",
+      "original_publish_time": "2026-08-01T02:00:00+00:00",
+      "scraped_time": "2026-08-04T00:11:36.010423+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "Anne Hathaway, Michelle Obama, and Jennifer Aniston Agree: Adidas Sneakers Are Summer’s Cool-Girl Shoe instyle.com",
       "ren_take": "",
       "image_url": ""
     },
@@ -2079,130 +2223,6 @@
       ],
       "relevance_score": 3,
       "summary": "Name: Nike Air Zoom HyperslideColorway: Gray, BlackSKU: TBCMSRP: $250 USDRelease Date: September 29Where to Buy: Nike, HypericeNike and recovery technology brand Hyperice have joined forces once again to debut the Nike Air Zoom Hyperslide, a cutting-edge footwear innovation designed to elevate post-activity recovery. This highly practical slide features an adjustable, wide-coverage midfoot strap with a removable, magnetic Hyperslide Pod.This innovative pod is the core of the slide's recovery capability, engineered to deliver three levels of targeted heat - reaching up to 117°F (47°C) - and three distinct vibration modes that massage the top of the foot. Operating in seamless 15-minute cycles that can be customized via on-pod controls or the connected Hyperice App, the technology actively w",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "847107a2f84c",
-      "title": "Spain Retail: Fashion recovers amid mixed market signs - World Footwear",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQzdndWw2UnVCbXpkampSSkNPR3BCV1pzdkYwYTF6Ty11cHFYZ0tTVmpFZF9fQS1vSE5ZUndDUWhWaExoU0k5emVuS0ZDVWtXbW9YWXJpcnpvQzA1dzV3X3MxLVA0em5LMDNkc3NQaFRRYnZBRUFhTnFSd05zM3BYU0VvQjFZMWdXUjNnRHRSQVdiTHlXbXM3bTg5WElacDJt?oc=5",
-      "original_publish_time": "2026-07-27T23:01:21+00:00",
-      "scraped_time": "2026-07-28T07:28:49.144743+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Spain Retail: Fashion recovers amid mixed market signs World Footwear",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "c1d74281cdfe",
-      "title": "Converse’s Next Luxurious Vibram-Soled Sneaker Smiles Back",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/converse-first-string-jack-purcell/",
-      "original_publish_time": "2026-07-27T22:45:31+00:00",
-      "scraped_time": "2026-07-28T00:08:20.137339+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Nike",
-        "Converse",
-        "Vibram"
-      ],
-      "keywords_matched": [
-        "sole"
-      ],
-      "relevance_score": 8,
-      "summary": "Converse reveals its next First String sneaker: a redesigned Jack Purcell sneaker featuring fine leather, Vibram soles, & Nike Air.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "7919519854be",
-      "title": "No Levi's Here. Nike’s Air Max Is a Delicious “Denim” Dream on Its Own",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-air-max-95-smoke-grey/",
-      "original_publish_time": "2026-07-27T22:40:55+00:00",
-      "scraped_time": "2026-07-28T00:08:20.138181+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "Nike's Air Max 95 Big Bubble \"Smoke Grey\" sneakers surface with denim-like textures. Spoiler: it's really canvas.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "a234ea60aaa7",
-      "title": "Reebok Revives The Pump On Their Next-Gen Basketball Shoe",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/07/27/reebok-engine-a-pump-100277685/",
-      "original_publish_time": "2026-07-27T21:00:32+00:00",
-      "scraped_time": "2026-07-28T00:04:46.861264+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Reebok"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "Ever since their unveiling, there’s been a lot riding on Reebok’s new generation of hoops shoes. The first new products under the Reebok Basketball imprint... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Reebok Revives The Pump On Their Next-Gen Basketball Shoe appeared first on Sneaker News . The post Reebok Revives The Pump On Their Next-Gen Basketball Shoe appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "1ad1753f17bf",
-      "title": "Noah x Converse Go Green on the Louie Lopez 2 Pro",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/7/noah-converse-louie-lopez-2-pro-green-release-date-info",
-      "original_publish_time": "2026-07-27T20:37:35+00:00",
-      "scraped_time": "2026-07-28T00:04:46.711225+00:00",
-      "time_delta_mins": 0,
-      "category": "Quality",
-      "brands_mentioned": [
-        "Converse"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "SummaryThe collaborative Louie Lopez 2 Pro features a green full-grain suede upper and quiet brandingThe design builds on the duo's shared skate culture roots and their recent Spring 2026 capsuleThe sneaker officially releases on July 30 via Converse, Noah, and select retailersConverse and Noah are coming together once again to release a collaborative version of the beloved Louie Lopez 2 Pro. Built around Louie Lopez's energetic, effortless approach to skating, the reimagined signature skate shoe pairs premium materials with understated details for a pair that’s versatile both on and off the board.In minor updates to the signature silhouette, Noah delivers a succinct, pared-back palette grounded by a bright green, full-grain suede upper selected for durability and depth. Meanwhile, the Con",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "89613330e781",
-      "title": "Minister inspects Sigwe shoe factory site - Times of Eswatini",
-      "source_name": "Google News - Shoe Manufacturing",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4wemZrdWpuUE9KN3RHZ0ZsSVpneGphcmxha1dJM080aE14ZzlUY0U4Q3dIR2RGSXVFa0tGV0Rteng2SU9jdWFlZ0JMZXczZUdxUkhsU1Z5Q09JeFV4NzJTZ2xJaTdCQl82SjZDWUk1VHU3T2hfVXlwV1dMN1lYQQ?oc=5",
-      "original_publish_time": "2026-07-27T19:34:33+00:00",
-      "scraped_time": "2026-07-28T00:04:58.986999+00:00",
-      "time_delta_mins": 0,
-      "category": "Manufacturing",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoe factory"
-      ],
-      "relevance_score": 3,
-      "summary": "Minister inspects Sigwe shoe factory site Times of Eswatini",
       "ren_take": "",
       "image_url": ""
     }
