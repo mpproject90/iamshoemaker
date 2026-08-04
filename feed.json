@@ -1,8 +1,112 @@
 {
-  "last_updated": "2026-08-04T00:22:09.332812+00:00",
-  "total_articles": 107,
-  "sources_checked": 60,
+  "last_updated": "2026-08-04T07:39:58.944745+00:00",
+  "total_articles": 109,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "bed9717e2142",
+      "title": "ADERERROR and Birkenstock Reimagine the Classic Boston Clog",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/8/adererror-birkenstock-boston-cap-boston-flap-collaboration-release-info",
+      "original_publish_time": "2026-08-04T07:06:28+00:00",
+      "scraped_time": "2026-08-04T07:28:26.292483+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Birkenstock"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "Name: ADER ERROR x Birkenstock Boston Cap, Boston FlapMSRP: TBCRelease Date: August 6Where to Buy: adererror, BirkenstockSeoul-based fashion creative brand ADERERROR has reunited with Birkenstock for a second collaboration, reimagines the clog’s 50th‑anniversary Boston silhouette with a focus on threadwork and stitch detailing as a central design language.The collection introduces two models: the Boston Cap and the Boston Flap. The Boston Flap arrives in ADERERROR's signature Ultra Blue and an earthy Honey tone, structurally transforming the clog with an exaggerated upper flap held in place by contrasting white whipstitch detailing.Offered in sleek black and warm camel colorways, the Boston Cap features a dual-layer leather upper highlighted by a functional, utilitarian leather toe cap.Acr",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "9e53ef629550",
+      "title": "Boots rolls out Jo Malone London across 39 stores and online",
+      "source_name": "Retail Gazette",
+      "source_domain": "retailgazette.co.uk",
+      "source_url": "https://www.retailgazette.co.uk/blog/2026/08/boots-rolls-out-jo-malone-london-across-39-stores-and-online/",
+      "original_publish_time": "2026-08-04T07:01:28+00:00",
+      "scraped_time": "2026-08-04T07:32:02.218030+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 3,
+      "summary": "Boots has expanded its premium beauty offer by launching Jo Malone London in 39 stores nationwide and on Boots.com. It said the partnership gives shoppers greater access to the British luxury fragrance brand, which will be available through more UK locations than at any other retailer. The range launches on Tuesday 4 August and features...",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "3dc993c4fae8",
+      "title": "Nike Air Force 1 Low \"White Lotus\" Features Reptile Textures and Icy Soles",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/8/nike-air-force-1-low-white-lotus-iv4453-100-official-look-release-info",
+      "original_publish_time": "2026-08-04T04:52:37+00:00",
+      "scraped_time": "2026-08-04T07:28:26.291091+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "outsole",
+        "sole",
+        "upper"
+      ],
+      "relevance_score": 7,
+      "summary": "Summary ike has officially revealed the Air Force 1 Low \"White Lotus\"The silhouette pairs smooth white leather with reptile-textured Swooshes pink accents and an icy translucent outsoleThe sneaker drops in the coming weeks for $125 USD via Nike and select retailers Name: Nike Air Force 1 Low \"White Lotus\"Colorway: White/Lotus Pink-Grey Fog-WhiteSKU: IV4453-100MSRP: $125 USDRelease Date: Fall 2026Where to Buy: NikeNike has officially revealed the Air Force 1 Low \"White Lotus\", bringing subtle premium details and vibrant accents to the classic lifestyle silhouette. The upcoming iteration elevates the traditional all-white base with distinct textures and playful accessories.Constructed with a smooth white leather upper, the design incorporates reptile-textured Swooshes and matching heel tabs ",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "b6ee82ca74f2",
+      "title": "Duke + Dexter Names New Creative Director as the Shoe Brand Aims to Push Further Into Apparel",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/duke-dexter-creative-director-connor-boon-1239092338/",
+      "original_publish_time": "2026-08-04T04:01:00+00:00",
+      "scraped_time": "2026-08-04T07:28:15.060358+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoe brand"
+      ],
+      "relevance_score": 3,
+      "summary": "Connor Boon has been with Duke + Dexter since 2018, when he joined as an intern.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "14ec01bbff1f",
+      "title": "Ye Shares First Look at the YEEZY 800",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/8/ye-shares-first-look-at-yeezy-800-revealed",
+      "original_publish_time": "2026-08-03T23:23:51+00:00",
+      "scraped_time": "2026-08-04T07:28:26.294863+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Adidas",
+        "Yeezy"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 4,
+      "summary": "Summary Ye has revealed a first look at the new YEEZY 800 sneaker on InstagramThe silhouette features a retro running aesthetic dressed in an all-black finish with textured mesh and nubuck-like overlaysOfficial release dates and pricing details for the model currently remain unconfirmed YEEZY founder Ye has officially revealed a first look at the YEEZY 800, marking the latest independently produced sneaker from the brand. Following the reveal on Ye's Instagram post, fans are now eager to know more about the upcoming rollout of YEEZY as the brand continues expanding its footwear lineup beyond its previous partnership with adidas.The model's name brings back the numbered naming convention featured across many of Ye’s prominent adidas releases, setting the YEEZY 800 apart from recent offering",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "5fadda3746ca",
       "title": "Nike’s Laceless Two-Toed Sneaker Gets the Halle Berry Treatment",
@@ -2164,65 +2268,6 @@
       ],
       "relevance_score": 4,
       "summary": "Name: JJJJound x New Balance 740NColorway: BeigeSKU: TBCMSRP: TBCRelease Date: July 30Where to Buy: JJJJoundNew Balance and JJJJound have turned to the 740N, a returning archive silhouette, for their latest collaboration. The Montreal design studio takes a model that fuses early-2000s design cues with a cleaner, more angular treatment, reworking it into a streamlined runner with a distinct visual identity.The construction leads with a breathable mesh upper, layered with synthetic no-sew overlays that give the shoe its sharp, angular lines without the bulk of stitched paneling. Nubuck and rubber round out the material palette, adding a tactile contrast to the airy mesh base. Inside, a navy mesh lining carries the tonal story through to the footbed, while a contrasted off-white mesh tongue p",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "ab23fd86322d",
-      "title": "5 Sneakers to Grab in the Foot Locker 30% Off Sale - manofmany.com",
-      "source_name": "Google News - Sneaker Brand",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOUtMSjF0ZW9aOF93R1M4M0QtVmNOOGkzejF0SzRTUlVsTFg0enRfR1hZa1ZpanlDSjlhbjF0Y2lWd0xiYmI4eDB2dUNjYXhxdTRUWDBCTHJzam9TOXJjSktNaFhBLW5QOGJkbmlFcEhPUEdhQXl1WVRqVGJodEFJaHNmc0doajg?oc=5",
-      "original_publish_time": "2026-07-28T07:00:00+00:00",
-      "scraped_time": "2026-08-03T13:41:32.449797+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "5 Sneakers to Grab in the Foot Locker 30% Off Sale manofmany.com",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "a220cb63ff03",
-      "title": "E28M Sigwe shoe factory set t.o boost manufactur­ing, jobs - PressReader",
-      "source_name": "Google News - Shoe Manufacturing",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNl9rSG9ISGw0MGhKZWRNY2NQYXlEWlpjSHU1TzB4TnY2TUJ1TkRBXzhDVS03b2hhWE0zVDgzQThvR2FZMzU3dXlDRVRSdWRQM3gxS0Q3QnhhY25nR0ozX1hzakhnY2VxR2Q1aElnSnZHUzZQbl9yWVNCVlZXNjBsTWMwcTZ4ZGdnU1BNWnFYYw?oc=5",
-      "original_publish_time": "2026-07-28T06:35:33+00:00",
-      "scraped_time": "2026-07-28T18:11:17.683274+00:00",
-      "time_delta_mins": 0,
-      "category": "Manufacturing",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoe factory"
-      ],
-      "relevance_score": 3,
-      "summary": "E28M Sigwe shoe factory set t.o boost manufactur­ing, jobs PressReader",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "54a2443943c4",
-      "title": "The Nike Air Zoom Hyperslide Is a High-Tech Massaging Slip-On",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/7/nike-hyperice-air-zoom-hyperslide-release-info",
-      "original_publish_time": "2026-07-28T04:07:18+00:00",
-      "scraped_time": "2026-07-28T07:28:38.079929+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Name: Nike Air Zoom HyperslideColorway: Gray, BlackSKU: TBCMSRP: $250 USDRelease Date: September 29Where to Buy: Nike, HypericeNike and recovery technology brand Hyperice have joined forces once again to debut the Nike Air Zoom Hyperslide, a cutting-edge footwear innovation designed to elevate post-activity recovery. This highly practical slide features an adjustable, wide-coverage midfoot strap with a removable, magnetic Hyperslide Pod.This innovative pod is the core of the slide's recovery capability, engineered to deliver three levels of targeted heat - reaching up to 117°F (47°C) - and three distinct vibration modes that massage the top of the foot. Operating in seamless 15-minute cycles that can be customized via on-pod controls or the connected Hyperice App, the technology actively w",
       "ren_take": "",
       "image_url": ""
     }
