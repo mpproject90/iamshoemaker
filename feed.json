@@ -1,8 +1,87 @@
 {
-  "last_updated": "2026-08-04T13:13:57.364133+00:00",
-  "total_articles": 109,
+  "last_updated": "2026-08-04T18:36:33.892423+00:00",
+  "total_articles": 107,
   "sources_checked": 61,
   "articles": [
+    {
+      "id": "bb299f3fee2a",
+      "title": "Pressures Are Adding Up for China’s Footwear Producers Amid Fluctuating Global Demand",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/china-shoe-manufacturers-us-firms-sourcing-regional-1239091850/",
+      "original_publish_time": "2026-08-04T16:42:12+00:00",
+      "scraped_time": "2026-08-04T18:25:01.529596+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Geopolitical uncertainties are a concern for shoe manufacturers, while U.S. firms could shift sourcing back to China to rebalance regional exposure.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "3273571f4213",
+      "title": "Why Is Everyone Still Walking in Running Sneakers?",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-features/walking-sneakers-market-update-1239092680/",
+      "original_publish_time": "2026-08-04T15:13:33+00:00",
+      "scraped_time": "2026-08-04T18:25:01.532197+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoes",
+        "sneakers"
+      ],
+      "relevance_score": 4,
+      "summary": "Retailers explain the challenges of selling walking shoes, despite the fact that walking for fitness remains highly popular.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "d41360445596",
+      "title": "Allbirds’ New IP Owner Reveals First Details About the Brand’s Future in Footwear — Not AI",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/allbirds-future-american-exchange-group-ceo-interview-1239092593/",
+      "original_publish_time": "2026-08-04T14:32:08+00:00",
+      "scraped_time": "2026-08-04T18:25:01.532741+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Allbirds"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 5,
+      "summary": "In his first major interview since acquiring the Allbirds intellectual property, American Exchange Group CEO Alen Mamrout shares his plans for the footwear brand.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "11b9d01348cb",
+      "title": "Vans’ Rugged Trail Sneaker Doesn’t Mind a Detour",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/vans-crosspath-xc-gore-tex/",
+      "original_publish_time": "2026-08-04T13:20:07+00:00",
+      "scraped_time": "2026-08-04T18:29:04.924203+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Vans"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "The Vans Crosspath XC GORE-TEX brings trail-ready performance to the brand’s signature style, combining rugged detailing in a clean white colorway.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "646bd5decbd7",
       "title": "The Entertainer expects new Trafford Centre store to be sales juggernaut",
@@ -2146,128 +2225,6 @@
       ],
       "relevance_score": 7,
       "summary": "Vans’ Harbor Mule VR3 brings clog-inspired comfort to the skate world, blending the brand’s signature attitude with an easy slip-on silhouette.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "2a81d9f22fd5",
-      "title": "Portugal Exhibits New Biomaterials for Footwear in Sustainable Solutions Showcase - WWD",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZXpIRWtmb0lUUWFKMGhRdjgtbWJDeEQ3bWxjX1BBeUdHdGRxME5jbzl0NGhMakxsVUV6UlVJX3hDRmZfUXJWdVMtdWpwNGNCVkZBdGVxSFBVeVdmTnh5TUhTc1Z5OWVHOWJVejNQek80LXY0QTBMSXUwUnRmY1ZfX0NiOVdicFBNamZvR2JCbVlRTmZTd05uMV85QmZuMzhZeW8wQVJjUkw0by1RdHpBRjMzRllVLXVxcHBVb2pn?oc=5",
-      "original_publish_time": "2026-07-28T18:34:20+00:00",
-      "scraped_time": "2026-07-29T00:00:31.041494+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Portugal Exhibits New Biomaterials for Footwear in Sustainable Solutions Showcase WWD",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "ef0328d18ba3",
-      "title": "Shipt Inks First Footwear Retail Partnership With DSW",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/dsw-shipt-shoes-same-day-delivery-convenience-customers-bts-1239082075/",
-      "original_publish_time": "2026-07-28T18:29:10+00:00",
-      "scraped_time": "2026-07-29T00:00:02.474448+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "DSW's partnership with Shipt is the latest among shoe retailers working with same day delivery services to make convenience a priority for customers.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "6328aa9fb77f",
-      "title": "Guanajuato and Low Footwear Imports - MEXICONOW",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAxNC12Tmx6NWZ0MTU3QTZsaV9RdDRmcVZhWG01LVpCSHBqY29nT2pzTmNEXzJHNGR2QkszUEx0THBBc2htUW1KOUpIQVU4ZVViR3BkOXRnUlJhZWp2UkdPS1E0R2JGY1F4NDgw?oc=5",
-      "original_publish_time": "2026-07-28T18:23:03+00:00",
-      "scraped_time": "2026-07-29T00:00:31.039755+00:00",
-      "time_delta_mins": 0,
-      "category": "Trade Data",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "footwear imports"
-      ],
-      "relevance_score": 6,
-      "summary": "Guanajuato and Low Footwear Imports MEXICONOW",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "edd0bee6ae8c",
-      "title": "We Can’t Stop Thinking About Zendaya’s Massive Collection of Christian Louboutin Shoes in Law Roach’s Office",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-trends/zendaya-christian-louboutin-shoe-collection-law-roach-1239084515/",
-      "original_publish_time": "2026-07-28T16:24:58+00:00",
-      "scraped_time": "2026-07-28T18:10:54.852397+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Louboutin"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 5,
-      "summary": "Law Roach revealed the rows of Louboutin heels kept on hand for Zendaya — and addressed the Miss Z speculation.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "a4d51fe5a816",
-      "title": "Sunrise Brands Sells Donald Pliner to Aquatalia Parent Vida Shoes",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/donald-pliner-acquistion-vida-shoes-details-1239085323/",
-      "original_publish_time": "2026-07-28T15:56:35+00:00",
-      "scraped_time": "2026-07-28T18:10:54.855035+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "Vida said its focus will remain on supporting and strengthening the existing Donald Pliner business.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "fb02abbc3735",
-      "title": "From Salomon to Nike, The Seven Best Sneakers to Cop this Week",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/sneaker-releases-2026-july-week-4/",
-      "original_publish_time": "2026-07-28T15:04:58+00:00",
-      "scraped_time": "2026-07-28T18:14:37.776881+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Nike",
-        "New Balance",
-        "Salomon",
-        "Jordan"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 9,
-      "summary": "This week’s selection sees the release of the brand new Salomon X-ALP Alpine Echoes, the Nike Air Jordan 1 OG 'Love Letter', & a polka-dotted New Balance 530.",
       "ren_take": "",
       "image_url": ""
     }
