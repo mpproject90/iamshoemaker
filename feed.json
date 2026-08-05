@@ -1,8 +1,27 @@
 {
-  "last_updated": "2026-08-05T07:50:05.378959+00:00",
-  "total_articles": 112,
+  "last_updated": "2026-08-05T13:03:14.228357+00:00",
+  "total_articles": 111,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "ca5045df5cc0",
+      "title": "Anurag Pandey Steps Down as Arvind Fashions Footwear CEO",
+      "source_name": "Apparel Resources",
+      "source_domain": "apparelresources.com",
+      "source_url": "https://apparelresources.com/business-news/retail/anurag-pandey-steps-arvind-fashions-footwear-ceo/",
+      "original_publish_time": "2026-08-05T12:50:33+00:00",
+      "scraped_time": "2026-08-05T12:56:18.325644+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Arvind Fashions Ltd. has announced that Anurag Pandey, Chief Executive Officer (CEO) of its Footwear division, has resigned from his position due to personal reasons. According to the company’s regulatory filing, Pandey’s resignation will be effective from the close of business hours on September 30. The company has accepted his resignation but has not yet […] The post Anurag Pandey Steps Down as Arvind Fashions Footwear CEO appeared first on Apparel Resources .",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "a163f372443a",
       "title": "Microsoft's Next Xbox Could Run Games From Every Console Generation",
@@ -107,6 +126,30 @@
       ],
       "relevance_score": 5,
       "summary": "Summary Kith and Salomon have formally unveiled the all-new Salomon XT-EVO silhouette launching in two collaborative colorwaysThe hybrid design pairs the sole unit of the XT-6 with a newly constructed upper defined by protective TPU panelingBoth colorways drop on August 7 through Kith retail channels as part of the brand’s &Kin Fall 2026 collection Kith and Salomon have formally unveiled the XT-EVO, debuting the all-new footwear model across two collaborative colorways. Following teasers from Ronnie Fieg, the partnership launches the silhouette as part of Kith’s upcoming &Kin Fall 2026 collection.The Salomon XT-EVO marries the signature sole unit of the ubiquitous Salomon XT-6 with an entirely redesigned upper defined by substantial TPU reinforcements. A sizable protective shell wraps arou",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "8c90bcc15064",
+      "title": "Bad Bunny and adidas Unveil the F50 Ghost Sprint \"Charcoal\"",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/8/bad-bunny-adidas-f50-ghost-sprint-charcoal-hp4218-first-look-release-info",
+      "original_publish_time": "2026-08-05T02:14:47+00:00",
+      "scraped_time": "2026-08-05T12:52:36.289193+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Adidas",
+        "Off-White"
+      ],
+      "keywords_matched": [
+        "outsole",
+        "sole",
+        "upper"
+      ],
+      "relevance_score": 6,
+      "summary": "Summary Bad Bunny and adidas have revealed the F50 Ghost Sprint \"Charcoal\" to complete their collaborative seriesThe sneaker pairs a deep brown and charcoal mesh upper with a grey cage dark red branding and off-white outsole accentsThe model drops in Fall 2026 for $160 USD via adidas and select retailers Name: Bad Bunny x adidas F50 Ghost Sprint \"Charcoal\"Colorway: Core Black/Charcoal-Aurora BlackSKU: HP4218MSRP: $160 USDRelease Date: Fall 2026Where to Buy: adidasadidas and Bad Bunny have officially revealed the Bad Bunny x adidas F50 Ghost Sprint \"Charcoal\", wrapping up the collaborative silhouette's run with its most understated color palette yet. The dark iteration follows the previously released \"Dark Marine\" and \"Solar Slime\" colorways.The upper combines a deep brown and charcoal mesh",
       "ren_take": "",
       "image_url": ""
     },
@@ -1418,6 +1461,25 @@
       "image_url": ""
     },
     {
+      "id": "ce857b5daa4e",
+      "title": "Global footwear production holds steady in 2025 - World Footwear",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOEZUVjZlM0lEZkxYTDlQaDNXdjRMVmZBcHFOQTEtQzdqRm14cThQdjlsaFZFaHRVSUpZdUJBdTZTc2JuUjhibUp2UExfemhJMU9XaHdkLXgxTmUtbXhxNEFJNko0SU9LRmZGNWhqMGhidU5OUnZaRlhTc25iUGluUWxERzlZNmZEa3RiNFpMQWswSzJfTnFfNQ?oc=5",
+      "original_publish_time": "2026-07-31T09:18:09+00:00",
+      "scraped_time": "2026-08-05T12:52:47.603616+00:00",
+      "time_delta_mins": 0,
+      "category": "Manufacturing",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Global footwear production holds steady in 2025 World Footwear",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
       "id": "d90829000c15",
       "title": "I Have Wide Feet and These Are the Only Sneakers Worth Buying (Trust Me) - Cosmopolitan",
       "source_name": "Google News - Sneaker Brand",
@@ -2245,94 +2307,6 @@
       "keywords_matched": [],
       "relevance_score": 3,
       "summary": "From a fully-printed AIRMAX to the return of the Air Jordan Classics, and Zoom Skylon. Nike shows effortless cool.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "79bdb715a3a2",
-      "title": "The Best Nike Sneakers Releasing in August",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-sneaker-release-date-calendar-august-2026-1239084129/",
-      "original_publish_time": "2026-07-29T12:00:00+00:00",
-      "scraped_time": "2026-07-29T13:00:46.200417+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 5,
-      "summary": "Including the Air Foamposite Pro \"Camo\" and Ja Morant's Nike Ja 4.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "85f8b70944ba",
-      "title": "Official Look at the Brain Dead x adidas Originals Samba Bowling Animal Pack",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/7/brain-dead-adidas-originals-samba-bowling-animal-pack-cheetah-kh8143-kj0662-snakeskinrelease-info",
-      "original_publish_time": "2026-07-29T11:14:05+00:00",
-      "scraped_time": "2026-07-29T13:00:56.761853+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "footwear",
-        "upper"
-      ],
-      "relevance_score": 4,
-      "summary": "Name: Brain Dead x adidas Samba Bowling Animal PackColorway: “Cheetah,” “Snakeskin”SKU: KH8143, KJ0662MSRP: TBCRelease Date: August 1Where to Buy: adidasLA-based creative collective Brain Dead has once again joined forces with adidas, delivering an inventive yet animal-print-heavy spin on the Samba silhouette. Comprising two striking iterations, spanning “Cheetah” and “Snakeskin,” the collaboration reinvents the classic indoor football sneaker through the lens of archival bowling footwear and maximalist animal prints.Both pairs feature premium textile uppers with exaggerated bowling‑style overlays, blending adidas’ heritage silhouette with Brain Dead’s playful, disruptive design ethos. The “Cheetah” edition showcases a spotted pattern across the faux-hair upper, with cream-colored Three-St",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "f8faba576e38",
-      "title": "Official Images of Kevin Durant’s Nike KD 19 “Butter Candy”",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/7/nike-kd-19-butter-candy-solar-flare-stadium-greenih1117-700-official-images-release-info",
-      "original_publish_time": "2026-07-29T09:56:56+00:00",
-      "scraped_time": "2026-07-29T13:00:56.765313+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "footwear",
-        "midsole",
-        "outsole",
-        "sole",
-        "upper"
-      ],
-      "relevance_score": 7,
-      "summary": "Name: Nike KD 19 “Butter Candy”Colorway: Solar Flare/Stadium GreenSKU: IH1117-700MSRP: $155 USDRelease Date: August 19Where to Buy: NikeNike continues to expand Kevin Durant’s signature footwear lineage with the introduction of the Nike KD 19 \"Butter Candy,\" a colorway that merges high-performance basketball engineering with a smooth, confectionery-inspired aesthetic. Draped in a warm palette of creamy yellows, the upper arrives in a synthetic vinyl upper with a TPU exterior.Underfoot, the sneaker is equipped with a full‑length Zoom Air cushioning system housed within a sculpted midsole, ensuring responsiveness and comfort on the court. The outsole features a multidirectional traction pattern comprising lightning-bolt, scythe and jersey-number shapes as homage to Durant. Click here to view",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "1696e5452670",
-      "title": "A Brand New Survival-Horror Title Is Coming to the SEGA Dreamcast 25 Years After SEGA Left the Console Market",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/7/white-creek-brings-new-survival-horror-sega-dreamcast",
-      "original_publish_time": "2026-07-29T09:14:46+00:00",
-      "scraped_time": "2026-07-29T13:00:56.777098+00:00",
-      "time_delta_mins": 0,
-      "category": "Quality",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "boot",
-        "sole"
-      ],
-      "relevance_score": 4,
-      "summary": "Summary Independent developers continue to release original titles for the Sega Dreamcast more than 25 years after the console was officially discontinued in 2001The latest project is White Creek, a survival-horror game that utilizes the system's 3D capabilities to deliver a cinematic experience comparable to the NAOMI arcade eraThe console's enduring homebrew scene is supported by its lack of modern digital rights management and hardware that allows booting from standard CDs Twenty-five years after Sega exited the console market, the SEGA Dreamcast remains a viable platform for new software development. The recently announced White Creek, developed by Story Bird Studios and published by PixelHeart, arrives as a dedicated survival-horror title built specifically for the vintage hardware. I",
       "ren_take": "",
       "image_url": ""
     }
