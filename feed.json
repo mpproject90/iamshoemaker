@@ -1,8 +1,111 @@
 {
-  "last_updated": "2026-08-05T13:03:14.228357+00:00",
-  "total_articles": 111,
+  "last_updated": "2026-08-05T18:38:52.164359+00:00",
+  "total_articles": 110,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "e11ea22496c3",
+      "title": "Jelly Shoes and Thong Sandals Reign Supreme on the Lyst Index’s Hottest Products List for 2026 Q2",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-trends/lyst-index-q2-2026-hottest-shoes-1239094483/",
+      "original_publish_time": "2026-08-05T18:10:29+00:00",
+      "scraped_time": "2026-08-05T18:17:31.190024+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Gucci"
+      ],
+      "keywords_matched": [
+        "sandal",
+        "shoes"
+      ],
+      "relevance_score": 7,
+      "summary": "Shoe styles from Skims, Chloé, Gucci and Massimo Dutti made the list.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "191bbd3e5cb4",
+      "title": "The Seven Best Nike Sneakers Releasing This Week",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/best-nike-sneaker-releases-august-week-1/",
+      "original_publish_time": "2026-08-05T16:11:34+00:00",
+      "scraped_time": "2026-08-05T18:21:19.099477+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 6,
+      "summary": "This iteration of our our weekly lineup of Nike releases stars a pink Air Max Dolce, an alternate-reality Jordan DMSN 95, and the return of the classic Air Jordan 6",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "1eb78b5e529c",
+      "title": "Michael Kors a drag in Q1 as Jimmy Choo kicks revenue up 10%",
+      "source_name": "Retail Dive",
+      "source_domain": "retaildive.com",
+      "source_url": "https://www.retaildive.com/news/michael-kors-drag-capri-q1-jimmy-choo-kicks-revenue-up-10-percent/827055/",
+      "original_publish_time": "2026-08-05T15:57:00+00:00",
+      "scraped_time": "2026-08-05T18:20:26.222151+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Jimmy Choo",
+        "Capri"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "Owner Capri Holdings suffered from woes at its larger label, as total revenue fell more than 3% compared to last year, though margins and profits expanded.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "39dd8e0b9423",
+      "title": "Canada Goose Sells Baffin Footwear in Effort to ‘Focus’ Operations",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/canada-goose-baffin-royer-acquisition-details-1239094403/",
+      "original_publish_time": "2026-08-05T15:52:36+00:00",
+      "scraped_time": "2026-08-05T18:17:31.192949+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Canada Goose bought Baffin in 2018 for $32.5 million Canadian dollars.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "4861ae954af6",
+      "title": "A Majority of People Have Wider-Than-Average Feet — How Footwear Brands Are Responding",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-features/wide-width-shoes-opportunity-1239093491/",
+      "original_publish_time": "2026-08-05T14:01:45+00:00",
+      "scraped_time": "2026-08-05T18:17:31.193463+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "shoe brand"
+      ],
+      "relevance_score": 4,
+      "summary": "Surprising new information about foot widths offers an opportunity for shoe brands.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "ca5045df5cc0",
       "title": "Anurag Pandey Steps Down as Arvind Fashions Footwear CEO",
@@ -1419,6 +1522,25 @@
       "image_url": ""
     },
     {
+      "id": "64a2210024b9",
+      "title": "The Best Sneakers Releasing in August - WWD",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSE1qckFldnhHM3NhS3k1cWlyckxlYmdqVHNrZTFUQ3FWOHlKWUFoUXNDbFVCVC1zMXZVenYwY2UycjVyR3A2ZE1WeGRlRFlBb1hwanJmT1Y0Y28wZDRIMEhWZHVfOHJTWURkNkdKMjRBeER1OGhiZ0RwZENydXk0SVVERlhHSnUtSFJLWnI2RW92YW03Mnd5RE01Sl8?oc=5",
+      "original_publish_time": "2026-07-31T13:04:11+00:00",
+      "scraped_time": "2026-08-05T18:17:54.016569+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "The Best Sneakers Releasing in August WWD",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
       "id": "3e17ade40a1e",
       "title": "Karol G on Her ‘Tropicoqueta’-inspired Reebok Campaign and the Classic Sneakers She Loves",
       "source_name": "Footwear News",
@@ -2160,153 +2282,6 @@
       ],
       "relevance_score": 3,
       "summary": "SPONSORED BY Photography: Jared Moody No two wardrobes are exactly alike, and neither are the sneakers that complete them, and Nike’s lineup of lifestyle tech... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Three Nike Tech Runners, Three Different Personalities appeared first on Sneaker News . The post Three Nike Tech Runners, Three Different Personalities appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "44a258d83bee",
-      "title": "There’s Techy Throwback Sneakers & There’s Nike’s Red-Hot Runner",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-zoom-skylon-11/",
-      "original_publish_time": "2026-07-29T16:07:02+00:00",
-      "scraped_time": "2026-07-29T18:07:17.112056+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 5,
-      "summary": "Nike’s Zoom Skylon 11 returns from the archives in a bold red colorway, bringing back the streamlined Y2K runner with a fresh, techy twist.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "498b4f990ad7",
-      "title": "Noah Just Made One of Converse's Strongest Skate Shoes Even Stronger",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/converse-x-noah-louie-lopez-pro-2/",
-      "original_publish_time": "2026-07-29T16:03:43+00:00",
-      "scraped_time": "2026-07-29T18:07:17.112777+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Converse"
-      ],
-      "keywords_matched": [
-        "shoes",
-        "sole"
-      ],
-      "relevance_score": 6,
-      "summary": "Noah reunites with Converse for a premium take on the Louie Lopez Pro 2, dressing the skate silhouette in a rich suede, gum sole, and significant colorway.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "8ffc1e662e5d",
-      "title": "Vans needs a good back-to-school season more than ever",
-      "source_name": "Retail Dive",
-      "source_domain": "retaildive.com",
-      "source_url": "https://www.retaildive.com/news/vans-needs-strong-back-to-school-season-vf-corp/826444/",
-      "original_publish_time": "2026-07-29T15:59:00+00:00",
-      "scraped_time": "2026-07-29T18:06:33.476703+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Vans",
-        "Timberland"
-      ],
-      "keywords_matched": [
-        "shoe brand"
-      ],
-      "relevance_score": 4,
-      "summary": "With another quarter of declines at the skate-shoe brand, it was up to The North Face and Timberland to help owner VF Corp. beat Q1 expectations.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "44be14abb3d8",
-      "title": "This Manicure-inspired Air Jordan 1 Comes With Charms to Match Your Nails to Your Sneakers",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/air-jordan-1-nails-grails-release-date-fd2596-601-1239086643/",
-      "original_publish_time": "2026-07-29T15:57:43+00:00",
-      "scraped_time": "2026-07-29T18:03:35.589601+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Jordan"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 5,
-      "summary": "Dubbed \"Nails and Grails.\"",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "a8d853a4b875",
-      "title": "New Balance Has a New Exclusive Collection of Its Most Popular Sneakers Ready for Fall",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/new-balance-night-lights-9060r-abzorb-2000-740-fuelcell-rebel-v5-release-date-1239086734/",
-      "original_publish_time": "2026-07-29T15:51:39+00:00",
-      "scraped_time": "2026-07-29T18:03:35.591936+00:00",
-      "time_delta_mins": 0,
-      "category": "Trade Data",
-      "brands_mentioned": [
-        "New Balance"
-      ],
-      "keywords_matched": [
-        "shoes",
-        "sneakers"
-      ],
-      "relevance_score": 6,
-      "summary": "The upcoming Night Lights pack includes three everyday lifestyle shoes and a performance running sneaker.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "7719cfc90e28",
-      "title": "What the Chinese shoe factory fire may signal for safety",
-      "source_name": "Ecotextile News",
-      "source_domain": "ecotextile.com",
-      "source_url": "https://www.ecotextile.com/2026072964528/opinion/what-the-chinese-shoe-factory-fire-may-signal-for-safety/",
-      "original_publish_time": "2026-07-29T13:54:03+00:00",
-      "scraped_time": "2026-07-29T18:05:47.756675+00:00",
-      "time_delta_mins": 0,
-      "category": "Quality",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoe factory"
-      ],
-      "relevance_score": 3,
-      "summary": "How the response to the Fujian Huiteng factory fire – including cluster-wide inspections, tougher enforcement and new AI-assisted monitoring – […] The post What the Chinese shoe factory fire may signal for safety appeared first on Ecotextile News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "c53f8511c84b",
-      "title": "This Week's Best Nike Sneaker Releases",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/best-nike-sneaker-releases-week-july-4/",
-      "original_publish_time": "2026-07-29T13:33:12+00:00",
-      "scraped_time": "2026-07-29T18:07:17.113699+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike",
-        "Jordan"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "From a fully-printed AIRMAX to the return of the Air Jordan Classics, and Zoom Skylon. Nike shows effortless cool.",
       "ren_take": "",
       "image_url": ""
     }
