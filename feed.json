@@ -1,8 +1,136 @@
 {
-  "last_updated": "2026-08-07T06:13:33.158321+00:00",
-  "total_articles": 96,
-  "sources_checked": 61,
+  "last_updated": "2026-08-07T12:01:40.422632+00:00",
+  "total_articles": 98,
+  "sources_checked": 60,
   "articles": [
+    {
+      "id": "1c6cbc1be8ac",
+      "title": "Giriraj Singh Calls For Greater Adoption Of Technical Textiles To Drive Footwear Industry Growth - IFAB MEDIA",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5oQXF6ZTZjS3RhQ1FmaDV0akdjX0x6UF9TM3lNYzB4WjZhOTRYZUJ0MnUwRmUtQVhEWlV3ZjMtWmFlcnVZWllLVWJPdl9TSElnem4waXBDZW5MSEx3bEdGTldKRUE?oc=5",
+      "original_publish_time": "2026-08-07T10:33:51+00:00",
+      "scraped_time": "2026-08-07T11:45:31.398717+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "footwear industry"
+      ],
+      "relevance_score": 6,
+      "summary": "Giriraj Singh Calls For Greater Adoption Of Technical Textiles To Drive Footwear Industry Growth IFAB MEDIA",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "19b9561d05c4",
+      "title": "Timberland Put Its Best Boot to Work",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/timberland-gore-tex-6-inch-work-boot/",
+      "original_publish_time": "2026-08-07T09:34:00+00:00",
+      "scraped_time": "2026-08-07T11:48:58.837972+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Timberland"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 6,
+      "summary": "Timberland took its rugged GORE-TEX 6-inch Work Boot through the luxe leather trenches.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "7f5e26cda0c8",
+      "title": "Converse Channels '90s Nostalgia With the One Star Aged Suede AG",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/8/converse-one-star-aged-suede-ag-burgundy-33703200-black-33703201-release-info",
+      "original_publish_time": "2026-08-07T09:20:00+00:00",
+      "scraped_time": "2026-08-07T11:45:20.455263+00:00",
+      "time_delta_mins": 0,
+      "category": "Quality",
+      "brands_mentioned": [
+        "Converse"
+      ],
+      "keywords_matched": [
+        "outsole",
+        "sole",
+        "upper"
+      ],
+      "relevance_score": 5,
+      "summary": "Name: Converse One Star Aged Suede AGColorway: Burgundy, BlackSKU: 33703200/33703201MSRP: ¥17,600 JPY (approx. $111 USD)Release Date: Available NowWhere to Buy: Converse JapanThe Converse One Star Aged Suede AG reinterprets the classic One Star with a vintage-inspired finish, combining premium suede uppers with aged detailing for a crafted, heritage look. Offered in \"Burgundy\" and \"Black\" colorways, the sneaker features long-nap suede uppers that deliver a rich, tactile feel, paired with an 8mm cotton shoelace for a retro touch.Its construction nods to 1990s One Star models, incorporating star-shaped toe guards and textured tape overlays that enhance durability and visual depth. The outsole is finished with a deeply colored, aged sole treatment, creating a worn-in aesthetic that contrasts ",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "8cf5b8b6bd02",
+      "title": "Nike Wraps the Mind 002 Slip-On in Cooling “Work Blue”",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/8/nike-mind-002-work-blue-hq4308-401-official-images",
+      "original_publish_time": "2026-08-07T08:11:42+00:00",
+      "scraped_time": "2026-08-07T11:45:20.461245+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "Nike has revealed a \"Work Blue\" colorway of the Mind 002, dressing its neuroscience-minded slip-on in a cooler palette for Fall/Winter. The makeover reworks the model's established look rather than reshaping the shoe itself, pairing a blue-forward upper with a bright accent.The colorway sticks to the blueprint the Mind 002 debuted with. Its two-tone blocking carries over, but this run fills that structure with cooler shades across the upper, giving the slip-on a calmer, more subdued read. The lead tone is a Horizon Blue that sets the mood for the whole makeup.Against those cool shades, the shoe reworks its high-visibility detailing through a Light Lemon Twist trim. It functions as the makeup's one jolt of contrast, a fresh take on the hi-vis accenting that keeps the pair from reading as en",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "af73f45eb5d7",
+      "title": "The P.A.M. x ASICS GEL-Stratus MC Comes Adorned With Star-Shaped Motifs",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/8/p-a-m-perks-and-mini-asics-crafts-for-minds-gel-stratus-mc-graphite-grey-black-cream-pure-silver-pamasicfm002-release-info",
+      "original_publish_time": "2026-08-07T07:37:57+00:00",
+      "scraped_time": "2026-08-07T11:45:20.464438+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "ASICS"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "Name: P.A.M. x ASICS “Crafts For Minds” GEL-STRATUS MCColorway: Graphite Grey/Black, Cream/Pure SilverSKU: PAMASICFM002MSRP: $182 AUD (approx. $128 USD)Release Date: Available NowWhere to Buy: Perks And MiniMelbourne-founded creative studio P.A.M. (Perks and Mini) and ASICS have reunited for a striking \"Crafts For Minds\" iteration of the GEL-Stratus MC. Bridging the gap between 2010s technical running aesthetics and modern streetwear, the silhouette's upper is constructed from breathable air mesh underlays fortified by complex synthetic leather overlays. P.A.M.'s graphic-forward DNA is immediately evident through stylized, star-shaped circular graphics that resemble bullet-hole accents, stamped boldly across the toebox, heel and lateral panels.The classic ASICS Tiger Stripes are highlighte",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "4232b5eea51b",
+      "title": "Air Jordan 9 Low \"What The Kilroy\" Merges Six Fictional Alter Egos",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/8/air-jordan-9-low-what-the-kilroy-iv6476-010-official-look-release-info",
+      "original_publish_time": "2026-08-07T04:49:15+00:00",
+      "scraped_time": "2026-08-07T11:45:20.443026+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 4,
+      "summary": "Summary Jordan Brand is reviving its 2012 Kilroy Pack through a singular mismatched Air Jordan 9 Low \"What The Kilroy\"The left and right shoes feature distinct color blockings and details representing Michael Jordan's six fictional alter egosThe pair is expected to release on August 14 for $180 USD via Nike and select retailer Name: Air Jordan 9 Low \"What The Kilroy\"Colorway: Black/Deep Royal Blue-White-Challenge RedSKU: IV6476-010MSRP: $180 USDRelease Date: August 14, 2026Where to Buy: NikeJordan Brand is revisiting a unique piece of Michael Jordan lore with the upcoming release of the Air Jordan 9 Low \"What The Kilroy.\" The new release takes the memorable 2012 \"Kilroy Pack\" and creatively folds it into a single mismatched low-top silhouette.Rather than reissuing all six original pairs—de",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "23473a98bb5b",
       "title": "Textile minister urges footwear industry to leverage govt initiatives, enhance innovation - BusinessLine",
@@ -20,6 +148,29 @@
       ],
       "relevance_score": 6,
       "summary": "Textile minister urges footwear industry to leverage govt initiatives, enhance innovation BusinessLine",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "515d918b7127",
+      "title": "Nike Ja 4 Brings the Thermal Heat Map to the \"Radar\" Colorway",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/8/nike-ja-4-radar-ja9745-400-first-look-release-info",
+      "original_publish_time": "2026-08-07T04:12:12+00:00",
+      "scraped_time": "2026-08-07T11:45:20.459690+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "midsole",
+        "sole",
+        "upper"
+      ],
+      "relevance_score": 5,
+      "summary": "Summary Nike has introduced the Ja 4 \"Radar\" featuring a vibrant thermal heat map graphic across the upperThe silhouette incorporates bright orange oversized Swooshes angular midsole supports and signature 12 branding detailsThe pair is expected to launch in October 2026 for $140 USD in men’s sizing and $115 USD in grade school sizing Name: Nike Ja 4 \"Radar\"Colorway: Obsidian/Total Orange-Laser Orange-Black-Racer Blue-Cobalt BlissSKU: JA9745-400MSRP: $140 USDRelease Date: October 2026Where to Buy: NikeNike has officially revealed the Nike Ja 4 \"Radar,\" delivering a vibrant graphic interpretation of Ja Morant's fourth signature basketball silhouette. The upcoming colorway introduces a thermal heat map treatment paired with bold structural overlays.The upper is constructed with a deep purple",
       "ren_take": "",
       "image_url": ""
     },
@@ -1886,105 +2037,6 @@
       ],
       "relevance_score": 3,
       "summary": "The Best Sneakers Releasing in August WWD",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "3e17ade40a1e",
-      "title": "Karol G on Her ‘Tropicoqueta’-inspired Reebok Campaign and the Classic Sneakers She Loves",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/karol-g-reebok-classics-campaign-tropicoqueta-1239088863/",
-      "original_publish_time": "2026-07-31T12:00:00+00:00",
-      "scraped_time": "2026-07-31T12:55:42.471209+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Reebok"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 5,
-      "summary": "The singer discusses her childhood connection to the Freestyle Hi and the community behind “Born Classic. Worn Together.”",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "e9636e65b4e6",
-      "title": "A Closer Look at ANT KAI’s Custom ASICS GEL-KAYANO 14 “MOSS”",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/7/ant-kai-custom-asics-gel-kayano-14-moss-images",
-      "original_publish_time": "2026-07-31T11:18:15+00:00",
-      "scraped_time": "2026-07-31T12:55:52.923176+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "ASICS"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 4,
-      "summary": "Name: ASICS GEL-KAYANO 14 “MOSS”Colorway: “MOSS”SKU: N/AMSRP: N/ARelease Date: N/ARenowned footwear artist ANT KAI has unveiled a custom take on the ASICS GEL-KAYANO 14, dubbed “MOSS.” This handcrafted design reimagines the runner’s aesthetic with a finish inspired by moss-covered rocks, blending organic textures with technical construction.The sneaker’s gray mesh base is layered with a burlap-like fabric, serving as the canvas for hand-stitched moss embroidery. ASICS’ iconic Tiger Stripes are reinterpreted in moss-textured material along the lateral sides, extending onto the toe to complete the botanical motif.To balance the lush, natural elements, metallic silver overlays are intentionally distressed with scuffed marks, adding a rugged layer of patina and wear to the design. The bespoke ",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "ce857b5daa4e",
-      "title": "Global footwear production holds steady in 2025 - World Footwear",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOEZUVjZlM0lEZkxYTDlQaDNXdjRMVmZBcHFOQTEtQzdqRm14cThQdjlsaFZFaHRVSUpZdUJBdTZTc2JuUjhibUp2UExfemhJMU9XaHdkLXgxTmUtbXhxNEFJNko0SU9LRmZGNWhqMGhidU5OUnZaRlhTc25iUGluUWxERzlZNmZEa3RiNFpMQWswSzJfTnFfNQ?oc=5",
-      "original_publish_time": "2026-07-31T09:18:09+00:00",
-      "scraped_time": "2026-08-05T12:52:47.603616+00:00",
-      "time_delta_mins": 0,
-      "category": "Manufacturing",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Global footwear production holds steady in 2025 World Footwear",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "d90829000c15",
-      "title": "I Have Wide Feet and These Are the Only Sneakers Worth Buying (Trust Me) - Cosmopolitan",
-      "source_name": "Google News - Sneaker Brand",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQakVTRXUwcXQ1cHVpeS0zMWF4WnBzaENPb3YxUEN0YTNmZWk1Q2NPTXBLYVhQT3RlQmFaelZ4eFpYTFRuR2J0Ukd3d2draF9qYk9Bd3g5Qk4tYVBQaUV6MXd4VU5RNkdEM0FHM3otVEp5ZDJLYmhfb21yMTFGeC04WjdNeDRxdw?oc=5",
-      "original_publish_time": "2026-07-31T07:00:00+00:00",
-      "scraped_time": "2026-08-03T13:41:32.448363+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "I Have Wide Feet and These Are the Only Sneakers Worth Buying (Trust Me) Cosmopolitan",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "5633f98b584d",
-      "title": "Kothari Industrial Corporation may infuse capital in Phoenix Kothari Footwear - scanx.trade",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbEJsa21tem93anloMFB1RFZ4d0hKeks3QjJwNGl2ZlpWb0lwclp1c25rdmtNVHJKRGhnREdoWDdrUWN5c0NVQWR5R2o3eHVNLU9VU1psNTVQU29ETjBpOHhGN0p0aVkxVnZ6VFBVQl9jSGpnLTFjVGE1NUZhMXpIMkRBaTdrdEVVeThhUTBROEN0VDIwRWhWSzFFMkRZOTVPalB6V2hiVHpkVVdSN2Jnd2JyR3dfMmZKRk1tMUh1X3l5bDFZQWNfQ2hVVFVOa0k?oc=5",
-      "original_publish_time": "2026-07-31T06:42:41+00:00",
-      "scraped_time": "2026-07-31T07:42:22.262000+00:00",
-      "time_delta_mins": 0,
-      "category": "Trade Data",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Kothari Industrial Corporation may infuse capital in Phoenix Kothari Footwear scanx.trade",
       "ren_take": "",
       "image_url": ""
     }
