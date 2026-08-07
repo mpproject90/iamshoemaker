@@ -1,8 +1,231 @@
 {
-  "last_updated": "2026-08-07T12:01:40.422632+00:00",
-  "total_articles": 98,
+  "last_updated": "2026-08-07T17:56:05.221664+00:00",
+  "total_articles": 104,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "da74695804ef",
+      "title": "Aimé Leon Dore’s New Balance Running Pack Drops August 14th",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/08/07/aime-leon-dore-new-balance-running-release-date/",
+      "original_publish_time": "2026-08-07T17:30:59+00:00",
+      "scraped_time": "2026-08-07T17:44:58.075214+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "New Balance"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "The rise of running as both a hobby and full-fledged personality has had a major impact on performance footwear. Brands are now expected to deliver... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Aimé Leon Dore’s New Balance Running Pack Drops August 14th appeared first on Sneaker News . The post Aimé Leon Dore’s New Balance Running Pack Drops August 14th appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "00f39138699e",
+      "title": "The Nike Caitlin 1 Lights Up In “Hot Punch”",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/08/07/nike-caitlin-1-hot-punch-neo-pink-ih7423-600/",
+      "original_publish_time": "2026-08-07T17:00:11+00:00",
+      "scraped_time": "2026-08-07T17:44:58.076580+00:00",
+      "time_delta_mins": 0,
+      "category": "Trade Data",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "Nike isn’t leaving much to chance when it comes to Caitlin Clark shoes, avoiding leaks at all costs by letting Clark herself deliver first looks... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Nike Caitlin 1 Lights Up In \"Hot Punch\" appeared first on Sneaker News . The post The Nike Caitlin 1 Lights Up In “Hot Punch” appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "ab6be49aa3d1",
+      "title": "How Shoes Shaped 250 Years of American Style",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-features/american-shoe-history-style-eras-1239084555/",
+      "original_publish_time": "2026-08-07T16:59:33+00:00",
+      "scraped_time": "2026-08-07T17:44:47.298771+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "From high heels to flip-flops, shoes have moved with fashion and culture, shaping decades of style.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "8c2c9f76d9e0",
+      "title": "Nike’s Glossy Air Jordan 1 Is Made to Match Your Mani",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nikes-glossy-air-jordan-1-is-made-to-match-your-mani/",
+      "original_publish_time": "2026-08-07T16:55:00+00:00",
+      "scraped_time": "2026-08-07T17:48:51.255579+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "Nike just made a glossy polished Air Jordan 1 sneaker that mimics a super fresh manicure.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "9cc8c312a94a",
+      "title": "The Adidas Samba’s Journey Through the Animal Kingdom Now Leads It to Deer Print",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/adidas-samba-deer-print-release-date-kj7447-1239097883/",
+      "original_publish_time": "2026-08-07T16:38:16+00:00",
+      "scraped_time": "2026-08-07T17:44:47.300572+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "Taking over with a pony hair upper.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "64e277ff8d45",
+      "title": "Timberland, New Era, And The MLB Bring Seven Teams To Wheat Boots And Fitteds",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/08/07/timberland-6-inch-boot-mlb-new-era-release-date/",
+      "original_publish_time": "2026-08-07T16:30:17+00:00",
+      "scraped_time": "2026-08-07T17:44:58.077755+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Timberland"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 5,
+      "summary": "Few combinations are as deeply embedded in American street style as a pair of Wheat Timbs and a fitted. Now, two brands synonymous with those... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Timberland, New Era, And The MLB Bring Seven Teams To Wheat Boots And Fitteds appeared first on Sneaker News . The post Timberland, New Era, And The MLB Bring Seven Teams To Wheat Boots And Fitteds appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "fe6bb97a2af4",
+      "title": "Blundstone’s New Premium Boots for Fall Are Handcrafted by 34 People",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/blundstone-heritage-series-premium-boots-details-1239097945/",
+      "original_publish_time": "2026-08-07T16:23:26+00:00",
+      "scraped_time": "2026-08-07T17:44:47.300950+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 3,
+      "summary": "The new collection comes in men's and women's sizes.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "d16d74cc64de",
+      "title": "Ye’s YEEZY Footwear Launching At JD Sports On August 13th",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/08/07/yeezy-jd-sports-release-date/",
+      "original_publish_time": "2026-08-07T15:30:55+00:00",
+      "scraped_time": "2026-08-07T17:44:58.079839+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Yeezy"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 5,
+      "summary": "It’s officially official. YEEZY footwear has found a new home at JD Sports, giving Ye’s independent brand access to physical retail, broader distribution, and the... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Ye’s YEEZY Footwear Launching At JD Sports On August 13th appeared first on Sneaker News . The post Ye’s YEEZY Footwear Launching At JD Sports On August 13th appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "7168b8a7a3ea",
+      "title": "These Are the Best New Sneakers of 2026 (So Far) - GQ",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sOHExblZRZFlwS21pS1lRcU9jXzVMTnIydGpUYXJMTWVFV0s5NklpTW9sMkYtNzdWNmxkMC1vZl9neDFuS2xYY0ZVcTczVXFTYW5oeHVfemtEZw?oc=5",
+      "original_publish_time": "2026-08-07T13:00:00+00:00",
+      "scraped_time": "2026-08-07T17:45:09.575491+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "These Are the Best New Sneakers of 2026 (So Far) GQ",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "8c896a35e199",
+      "title": "Life in Focus: Anupam Bansal Executive Director, Liberty Shoes",
+      "source_name": "Apparel Resources",
+      "source_domain": "apparelresources.com",
+      "source_url": "https://apparelresources.com/business-news/retail/life-in-focus-anupam-bansal-executive-director-liberty-shoes/",
+      "original_publish_time": "2026-08-07T12:51:50+00:00",
+      "scraped_time": "2026-08-07T17:49:02.790977+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "shoes"
+      ],
+      "relevance_score": 4,
+      "summary": "Three decades in footwear, and I would not have it any other way. Liberty has grown into one of India’s most recognised footwear conglomerates with an annual turnover crossing Rs. 800 crore and a presence in over 30 countries. 450+ exclusive stores, 5,000+ multibrand outlets, e-commerce across Myntra, Flipkart, Nykaa Fashion and our own site. […] The post Life in Focus: Anupam Bansal Executive Director, Liberty Shoes appeared first on Apparel Resources .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "2cf30590f7bf",
+      "title": "Timberland's Canary Yellow Boat Shoe Is a Work Boot For the Sea",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/randomevents-timberland-3-eye-lug-boat-shoe/",
+      "original_publish_time": "2026-08-07T11:51:12+00:00",
+      "scraped_time": "2026-08-07T17:48:51.256380+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Timberland"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 5,
+      "summary": "Timberland & Randomevent's furry & fun 3-Eye Lug Boat Shoe is a hairy good time.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "1c6cbc1be8ac",
       "title": "Giriraj Singh Calls For Greater Adoption Of Technical Textiles To Drive Footwear Industry Growth - IFAB MEDIA",
@@ -85,6 +308,27 @@
       ],
       "relevance_score": 3,
       "summary": "Nike has revealed a \"Work Blue\" colorway of the Mind 002, dressing its neuroscience-minded slip-on in a cooler palette for Fall/Winter. The makeover reworks the model's established look rather than reshaping the shoe itself, pairing a blue-forward upper with a bright accent.The colorway sticks to the blueprint the Mind 002 debuted with. Its two-tone blocking carries over, but this run fills that structure with cooler shades across the upper, giving the slip-on a calmer, more subdued read. The lead tone is a Horizon Blue that sets the mood for the whole makeup.Against those cool shades, the shoe reworks its high-visibility detailing through a Light Lemon Twist trim. It functions as the makeup's one jolt of contrast, a fresh take on the hi-vis accenting that keeps the pair from reading as en",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "476517f53206",
+      "title": "Timberland and New Era Team Up for a Limited-Edition MLB Collection",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/8/timberland-new-era-limited-edition-mlb-collection-release-info",
+      "original_publish_time": "2026-08-07T07:58:39+00:00",
+      "scraped_time": "2026-08-07T17:44:57.894196+00:00",
+      "time_delta_mins": 0,
+      "category": "Trade Data",
+      "brands_mentioned": [
+        "Timberland"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 3,
+      "summary": "Summary Timberland and New Era partner for an MLB collection.Seven MLB clubs, blending insignia with Timberland’s wheat finish across the Premium 6-Inch Boot, 59FIFTY® fitted cap and 19TWENTY® adjustable cap.Launches August 15 via all three brands. The Timberland x New Era Limited-Edition MLB Collection brings together two iconic American brands to celebrate the intersection of sport, style and culture.The collaboration spotlights three signature silhouettes: the Timberland® Premium 6-Inch Waterproof Boot, the New Era 59FIFTY® fitted cap and the 19TWENTY® adjustable cap. Seven Major League Baseball clubs are represented, from Atlanta Braves, Boston Red Sox, Chicago White Sox, Houston Astros, Los Angeles Dodgers to New York Mets and New York Yankees, each piece pairs team insignia and color",
       "ren_take": "",
       "image_url": ""
     },
@@ -1916,127 +2160,6 @@
       ],
       "relevance_score": 3,
       "summary": "It may be easy to forget given that shoes like the New Balance 204V or New Balance 1890A have taken tech runners and flung them... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The New Balance 1906W Toys With Distressed Metallics appeared first on Sneaker News . The post The New Balance 1906W Toys With Distressed Metallics appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "7254e8bde293",
-      "title": "Pikachu, Charizard, And Gengar Appear In First Batch Of Pokémon x adidas Shoes",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/07/31/pokemon-adidas-pikachu-charizard-gengar/",
-      "original_publish_time": "2026-07-31T17:27:36+00:00",
-      "scraped_time": "2026-07-31T18:16:40.506500+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Adidas",
-        "Puma"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 6,
-      "summary": "Following a 30th anniversary Pokémon x PUMA collaboration, Pokémon is keeping things moving with a huge project by the Big Cat’s German competitor in adidas.... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Pikachu, Charizard, And Gengar Appear In First Batch Of Pokémon x adidas Shoes appeared first on Sneaker News . The post Pikachu, Charizard, And Gengar Appear In First Batch Of Pokémon x adidas Shoes appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "40bda95d4450",
-      "title": "Sole Traders: Inside Montebelluna's Elite Shoe Industry - Monocle",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5TMmE3ZjRWUEF3YlVhdG9YQWlBdFJPbWt5SmVlYXVNVjBUVUdWVHFuWU9FWnV6RjFQY2lwSE9JQUpIRUFXUmFJMmlJR1NYVHFyeGR2QXZJcUZxajBrTXhIckU4T2toOVQwR2R6UmVNdUF5Z25ROTgw?oc=5",
-      "original_publish_time": "2026-07-31T17:25:56+00:00",
-      "scraped_time": "2026-08-01T07:22:00.716516+00:00",
-      "time_delta_mins": 0,
-      "category": "Trade Data",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "sole"
-      ],
-      "relevance_score": 3,
-      "summary": "Sole Traders: Inside Montebelluna's Elite Shoe Industry Monocle",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "73e756426441",
-      "title": "Nike’s 3D-printed Sneaker Series Continues With a New Model From a Japanese Designer",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-air-max-3d-printed-sneaker-air-works-program-tokyo-1239089707/",
-      "original_publish_time": "2026-07-31T16:34:00+00:00",
-      "scraped_time": "2026-07-31T18:16:29.664710+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "It's the first of eight sneakers from designers around the world.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "8764b6ff3976",
-      "title": "The Best Spider-Man Sneakers of All Time, Ranked - Complex",
-      "source_name": "Google News - Sneaker Brand",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbWlpUk1Na0ZsTVpudUJDSmF3TkJ4Nkd0SVlGRUphU2lOcjdDZXZKSWxvQ1dLeEY5cmtialloM3dOcjdsUlh4Y2hINjd1LV9hd3FvRGlfN3BwbUMtc3JfdXNiQ1VPUENxbG9fUGJ0VTltMk5kYzZzN2FSLTU5MUt3RmRsMmRHMEJGQ1hKNFdnMVQ3YXFlTTN2d1dR?oc=5",
-      "original_publish_time": "2026-07-31T14:00:00+00:00",
-      "scraped_time": "2026-08-02T12:02:39.321616+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "The Best Spider-Man Sneakers of All Time, Ranked Complex",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "4cabf4cbe0e6",
-      "title": "Sophie Cunningham's Adidas Shoes Skyrocket on Resale Market - Sports Illustrated",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWjZ5XzM0QnliWnJQcHg4M0VhV3dWSDM1cG4tTXVxTlU5RmhYVFBIVmlXUFBZLV9TNm1xbHdidk9ibGNkbEtRTjJtdUpkZnplMkNUa0htQ1RteExvMloxT1VjN0FhdnlldWk4bHNDVFFQUlJyeHhWdTN0QXVRTmU1UWhycW5OcFk4TXg2dHc0N09HSVpSMm9ZejZ6NzlpSVpfX2c?oc=5",
-      "original_publish_time": "2026-07-31T13:12:36+00:00",
-      "scraped_time": "2026-08-01T12:02:10.020148+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 5,
-      "summary": "Sophie Cunningham's Adidas Shoes Skyrocket on Resale Market Sports Illustrated",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "64a2210024b9",
-      "title": "The Best Sneakers Releasing in August - WWD",
-      "source_name": "Google News - Sneaker Brand",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSE1qckFldnhHM3NhS3k1cWlyckxlYmdqVHNrZTFUQ3FWOHlKWUFoUXNDbFVCVC1zMXZVenYwY2UycjVyR3A2ZE1WeGRlRFlBb1hwanJmT1Y0Y28wZDRIMEhWZHVfOHJTWURkNkdKMjRBeER1OGhiZ0RwZENydXk0SVVERlhHSnUtSFJLWnI2RW92YW03Mnd5RE01Sl8?oc=5",
-      "original_publish_time": "2026-07-31T13:04:11+00:00",
-      "scraped_time": "2026-08-05T18:17:54.016569+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "The Best Sneakers Releasing in August WWD",
       "ren_take": "",
       "image_url": ""
     }
