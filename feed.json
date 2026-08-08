@@ -1,8 +1,27 @@
 {
-  "last_updated": "2026-08-07T23:47:32.330970+00:00",
-  "total_articles": 102,
-  "sources_checked": 61,
+  "last_updated": "2026-08-08T05:53:00.953874+00:00",
+  "total_articles": 101,
+  "sources_checked": 62,
   "articles": [
+    {
+      "id": "53639067b826",
+      "title": "The 29 Best Sneakers of 2026 (So Far) - Esquire",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1FSWVORm96dFZWS1VlY3B6TE9DM05faDg2QW9pbVpjaUczTXJQYUVPUkpkaHRnQmh2NUhMZHA2cVFreHc0VlJkenppMnJOU09iajVhZS1iUE5TdW92b09veVJZTmNxakRjczJHdElBT3ZKQjBacC1OR2xkMXg?oc=5",
+      "original_publish_time": "2026-08-07T22:13:22+00:00",
+      "scraped_time": "2026-08-08T05:32:57.320965+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "The 29 Best Sneakers of 2026 (So Far) Esquire",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "b68b7392a38a",
       "title": "Nike ACG Gears Up For Fall With Five Models",
@@ -2080,46 +2099,6 @@
       ],
       "relevance_score": 6,
       "summary": "The Crocs Quick Trail Racer “Orange Zing” pushes the brand further into gorpcore territory with a rugged trail-inspired silhouette built for everyday wear.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "1be1aaf5c144",
-      "title": "Karl Mayer expands jacquard spacer knitting for footwear innovation",
-      "source_name": "Textile Today",
-      "source_domain": "textiletoday.com.bd",
-      "source_url": "https://textiletoday.com.bd/karl-mayer-expands-jacquard-spacer-knitting-for-footwear-innovation",
-      "original_publish_time": "2026-08-01T04:08:00+00:00",
-      "scraped_time": "2026-08-01T07:26:42.251726+00:00",
-      "time_delta_mins": 0,
-      "category": "Manufacturing",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Karl Mayer has introduced the RDJ 7/3, a new double needle bar raschel knitting machine designed to expand jacquard spacer fabric production for athletic and casual footwear. The launch comes as footw...",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "2f92ecbbeab1",
-      "title": "Anne Hathaway, Michelle Obama, and Jennifer Aniston Agree: Adidas Sneakers Are Summer’s Cool-Girl Shoe - instyle.com",
-      "source_name": "Google News - Sneaker Brand",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSTgxbTdrd09lLV8xMS1tTkh3ZTNjamlYVlYyUnhON2g3UWpsb1ZxSzY3dzRmcUJjLS1tbU5DbVVwX0NQRU1mR24wWVhfQVlPVWN3bDNscFJGanNxakJvNk1FZFBYMkxaTHZ5TlVjMWI1V3BnLXFwRGFmY2ZrbHlVaVk3QQ?oc=5",
-      "original_publish_time": "2026-08-01T02:00:00+00:00",
-      "scraped_time": "2026-08-04T00:11:36.010423+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 5,
-      "summary": "Anne Hathaway, Michelle Obama, and Jennifer Aniston Agree: Adidas Sneakers Are Summer’s Cool-Girl Shoe instyle.com",
       "ren_take": "",
       "image_url": ""
     }
