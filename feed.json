@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-08T11:40:51.830381+00:00",
-  "total_articles": 102,
+  "last_updated": "2026-08-08T17:36:12.145669+00:00",
+  "total_articles": 100,
   "sources_checked": 62,
   "articles": [
     {
@@ -2078,48 +2078,6 @@
       "keywords_matched": [],
       "relevance_score": 4,
       "summary": "The Air Jordan 6 \"Oreo\" sneaker gets a 2026 revival, dressed in its classic black-and-white colorway & tasty details.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "6dfbe4a21fbe",
-      "title": "Travis Scott’s “Odyssey” Nikes Are Sneakers That Will Never Be",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/travis-scott-nike-moon-shoe-odyssey/",
-      "original_publish_time": "2026-08-01T17:21:21+00:00",
-      "scraped_time": "2026-08-01T18:00:28.546451+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 5,
-      "summary": "Travis Scott debuts a collaborative Nike Moon Shoe designed exclusively for the Odyssey's cast and crew. Here's everything on the never-to-release shoe.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "f3a866394b5b",
-      "title": "Crocs Is Doubling Down on Its Dorky, Gorpy Trail Sneakers",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/crocs-quick-trail-racer-orange-zing/",
-      "original_publish_time": "2026-08-01T13:50:00+00:00",
-      "scraped_time": "2026-08-01T18:00:28.547330+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Crocs"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 6,
-      "summary": "The Crocs Quick Trail Racer “Orange Zing” pushes the brand further into gorpcore territory with a rugged trail-inspired silhouette built for everyday wear.",
       "ren_take": "",
       "image_url": ""
     }
