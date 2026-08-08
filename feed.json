@@ -1,8 +1,92 @@
 {
-  "last_updated": "2026-08-08T17:36:12.145669+00:00",
-  "total_articles": 100,
+  "last_updated": "2026-08-08T23:47:41.333442+00:00",
+  "total_articles": 102,
   "sources_checked": 62,
   "articles": [
+    {
+      "id": "a37d962e3ebe",
+      "title": "Think It’s Cool to Wear Fancy Sneakers to Work? You Might Be Old. - The New York Times",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaDBOVkFqYU9iY2EtNjE0MUdDRkhFSUFpbG5MNXVfSXd6QWVudURpY0hXYzVKNnIwT19qMGpOZTFKTE5YY1J3QUlBdlJENjZlYlA3T3hha2loSzhQSWNHRHlXNUJGN29ENTZWOFViZFNzRUNGY2Znd0VDNWowYzV0RHZxRUpLdw?oc=5",
+      "original_publish_time": "2026-08-08T22:12:21+00:00",
+      "scraped_time": "2026-08-08T23:32:08.314996+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "Think It’s Cool to Wear Fancy Sneakers to Work? You Might Be Old. The New York Times",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "a752e959989d",
+      "title": "Nike’s Techy Jelly Sneakers Is Dadcore Gone Delicious",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-p-6000-pink-foam/",
+      "original_publish_time": "2026-08-08T21:06:46+00:00",
+      "scraped_time": "2026-08-08T23:40:22.406195+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "Nike releases a jelly-style P-6000 sneaker, making a true summer treat out of its classic dad shoe model.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "30688973255c",
+      "title": "Nike Built a Genuinely Handsome Hiking Boot Out of Its Best Trail Runner",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-acg-zegama-hike-cream/",
+      "original_publish_time": "2026-08-08T21:00:07+00:00",
+      "scraped_time": "2026-08-08T23:40:22.406717+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Vibram"
+      ],
+      "keywords_matched": [
+        "boot",
+        "sole"
+      ],
+      "relevance_score": 7,
+      "summary": "Nike's Vibram-soled ACG Zegama Hike sneaker continues its debut journey with the release of a clean \"Cream II\" colorway.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "8525f42250b7",
+      "title": "These adidas Pokémon Sneakers Aren't Just Good — They're Spezial",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/pokemon-adidas-handball-spezial-mewtwo/",
+      "original_publish_time": "2026-08-08T20:56:15+00:00",
+      "scraped_time": "2026-08-08T23:40:22.405314+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "The adidas x Pokémon Handball Spezial lands as pretty purple-pink sneaker inspired by Mewtwo. Poké ball also included.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "53639067b826",
       "title": "The 29 Best Sneakers of 2026 (So Far) - Esquire",
@@ -2039,45 +2123,6 @@
       ],
       "relevance_score": 3,
       "summary": "Name: Nike Air Rejuven8 “Camo Pack”Colorway: “Black Camo,” “Barkroot Brown Camo”SKU: IU3167-002, IU3167-001MSRP: TBCRelease Date: August 2026Nike expands on the Air Rejuven8 revival, unveiling a bold new “Camo Pack” featuring two women’s-exclusive colorways in \"Black Camo\" and \"Barkroot Brown.\" Originally introduced ahead of the 2008 Beijing Olympics as a post-performance recovery shoe for elite athletes, both new iterations retain the slip-on silhouette while introducing camouflage-inspired detailing across the molded, open-cell lattice cage.The \"Black Camo\" edition pairs a black knit bootie with tonal laces and foam tooling, contrasted by a semi-translucent shell patterned with smoky camouflage across its diamond cutouts. A crisp white Swoosh on the lateral side provides the only sharp b",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "09de6055508d",
-      "title": "Classic sneaker brand closes 140 stores as brand reboot sputters - thestreet.com",
-      "source_name": "Google News - Sneaker Brand",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdDl4OHB3c2Y4Um0yT1JlOU5FbDd3dmt5SWFMN1I5Zk1YdjhfbWRhRnJMcXAzYnp0cDhrY0xYaUZJdDZtYThiNi1QTS1MTzZKU244TVhiNUYyMWFVd0NGd2ZVNXdLcm9QemMtWmhCeFRRUXE5N0RoVjFReXd2MlZ0aVozM25FSW41aU1rM3BZSDRkdUlMOGZRamYwTjRRYjZ6Rnc0?oc=5",
-      "original_publish_time": "2026-08-01T21:03:05+00:00",
-      "scraped_time": "2026-08-01T23:59:26.784472+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 3,
-      "summary": "Classic sneaker brand closes 140 stores as brand reboot sputters thestreet.com",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "7a431c62560d",
-      "title": "16 Years Later, Nike’s Oreo-Themed Air Jordans Still Hit the Spot",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/jordan-6-oreo-2026-sneakers/",
-      "original_publish_time": "2026-08-01T20:56:48+00:00",
-      "scraped_time": "2026-08-02T00:02:44.563129+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike",
-        "Jordan"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 4,
-      "summary": "The Air Jordan 6 \"Oreo\" sneaker gets a 2026 revival, dressed in its classic black-and-white colorway & tasty details.",
       "ren_take": "",
       "image_url": ""
     }
