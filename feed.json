@@ -1,8 +1,28 @@
 {
-  "last_updated": "2026-08-09T17:38:15.168057+00:00",
+  "last_updated": "2026-08-09T23:50:11.313724+00:00",
   "total_articles": 103,
-  "sources_checked": 61,
+  "sources_checked": 62,
   "articles": [
+    {
+      "id": "35fafe4c2153",
+      "title": "New Generation: João Mendes, ISI Soles - World Footwear",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZ0hUUEZYaWRLdmtJUllUOWx2Z2dzWVdFXzlHRi1FWU54Uy1NNmVua01sdnRXemd2dGdtNm9tOVZyN2F4VkNhb2N1aWo2SzN0NDFVMlpoZ0tNaUpfc1doMmNOdEZWX2VndFVlRmtCVExXZlpoQlp0RlJQOV8wMWFWTDRKRFVfYmgwNEE?oc=5",
+      "original_publish_time": "2026-08-09T23:01:21+00:00",
+      "scraped_time": "2026-08-09T23:34:32.642376+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "sole"
+      ],
+      "relevance_score": 6,
+      "summary": "New Generation: João Mendes, ISI Soles World Footwear",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "ea8785c3bb26",
       "title": "Some of Kobe Bryant’s Most Sought-after Sneakers Are Dropping Again for Kobe Bryant Day",
@@ -2118,28 +2138,6 @@
       ],
       "relevance_score": 3,
       "summary": "Summary Pharrell Williams and adidas are set to release a new \"Crystal Sand\" colorway of the Jellyfish sneakerThe design shifts from earlier monochrome iterations to a layered combination of sandy beige and soft blueThe silhouette serves as a central footwear offering within Pharrell’s ongoing VIRGINIA line Name: adidas Jellyfish \"Crystal Sand\"Colorway: Crystal Sand/Trace Brown-Core BlackSKU: KH6729MSRP: $300 USDRelease Date: August 2026Where to Buy: adidasadidas and Pharrell Williams are expanding their collaborative footprint with official images of the Pharrell x adidas Jellyfish \"Crystal Sand\". The upcoming release shifts the bold silhouette toward a softer beige and light blue color palette.The \"Crystal Sand\" edition departs from earlier, predominantly white colorways. Most of the sig",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "51cc03cc728d",
-      "title": "New Balance’s Elegant Dad Shoe Is a Rare Breed",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/new-balance-996-satin-shoelaces/",
-      "original_publish_time": "2026-08-02T20:40:09+00:00",
-      "scraped_time": "2026-08-03T00:04:41.266927+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "New Balance"
-      ],
-      "keywords_matched": [
-        "shoes",
-        "sneakers"
-      ],
-      "relevance_score": 4,
-      "summary": "New Balance's newest 996 sneakers appear with textural looks & satin shoelaces, a rare makeover for the brand's dad shoes.",
       "ren_take": "",
       "image_url": ""
     }
