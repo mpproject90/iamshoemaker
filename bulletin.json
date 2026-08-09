@@ -1,6 +1,107 @@
 {
-  "last_updated": "2026-08-02T10:00:07.913124+00:00",
+  "last_updated": "2026-08-09T08:46:19.693820+00:00",
   "bulletins": [
+    {
+      "id": "wk32-2026",
+      "week_number": 32,
+      "year": 2026,
+      "date_from": "2026-08-03",
+      "date_to": "2026-08-09",
+      "published": "2026-08-09T08:46:19.693250+00:00",
+      "intro": "Week 32 brings no single seismic shift — instead, a constellation of signals that, read together, tell a coherent story: premium materials are back at the center of product strategy, India is making noise it intends to be heard, and the casualwear-to-technical crossover continues to compress category boundaries. The brands moving quietly this week are the ones worth watching.",
+      "articles": [
+        {
+          "title": "EXCLUSIVE: Rains Enters Footwear, Building New Growth Pillar With Boot Range",
+          "source_name": "Footwear News",
+          "source_url": "https://wwd.com/footwear-news/shoe-industry-news/rains-footwear-launch-dry-boot-new-growth-pillar-1239092516/",
+          "category": "Brand News",
+          "relevance_score": 8,
+          "original_publish_time": "2026-08-05T04:01:00+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "From Nike to Willy Chavarria's adidas, the Seven best Sneakers to Cop this Week",
+          "source_name": "Highsnobiety",
+          "source_url": "https://www.highsnobiety.com/p/sneaker-releases-2026-august-week-1/",
+          "category": "Trade Data",
+          "relevance_score": 8,
+          "original_publish_time": "2026-08-04T09:55:11+00:00",
+          "misaki_take": "Collaboration velocity at this level — adidas, New Balance, JJJJound all in a single weekly drop cycle — signals that the limited-release model has become a permanent production planning discipline, not a marketing anomaly, requiring factories to hold short-run flexibility alongside bulk programs. For sourcing managers at these brands, the hidden cost is the premium paid per unit on sub-5,000 pair runs, which routinely runs 15–22% above standard FOB when you account for setup, colorway changeovers, and QC sampling on bespoke materials."
+        },
+        {
+          "title": "Nike Built a Genuinely Handsome Hiking Boot Out of Its Best Trail Runner",
+          "source_name": "Highsnobiety",
+          "source_url": "https://www.highsnobiety.com/p/nike-acg-zegama-hike-cream/",
+          "category": "Retail",
+          "relevance_score": 7,
+          "original_publish_time": "2026-08-08T21:00:07+00:00",
+          "misaki_take": "The Vibram outsole partnership embedded in a Nike ACG platform is a deliberate category-blurring move that puts pressure on heritage outdoor brands at the construction level — Vibram licensing adds real BOM cost but it also closes the credibility gap with Salomon and Hoka in technical retail. The 'Cream II' colorway release cadence on a hike-specific silhouette suggests Nike is testing demand depth in outdoor before committing to deeper SKU expansion, which is the operationally conservative play after ACG's historically inconsistent sell-through."
+        },
+        {
+          "title": "Alysa Liu Fronts Nike Studio Fleece Campaign & Rains Steps Into Footwear in This Week's Top Fashion News",
+          "source_name": "Hypebeast",
+          "source_url": "https://hypebeast.com/2026/8/alysa-liu-nike-studio-fleece-rains-shoe-devil-wears-prada-nigel-cabourn-anderson-bell-burberry-info",
+          "category": "Trade Data",
+          "relevance_score": 7,
+          "original_publish_time": "2026-08-07T15:54:06+00:00",
+          "misaki_take": "Nigel Cabourn and Andersson Bell opening flagships in Japan simultaneously is a reminder that Tokyo remains the single highest-signal retail validation market for premium heritage and technical product — brands that can sustain a Japan flagship without markdown pressure have genuine product credibility, not just hype. For sourcing directors, the Christie's auction of Devil Wears Prada 2 wardrobe is a footnote, but Rains footwear appearing in the same breath as Olympic athlete campaigns suggests the brand is executing a coordinated category launch, not a quiet test."
+        },
+        {
+          "title": "Jelly Shoes and Thong Sandals Reign Supreme on the Lyst Index’s Hottest Products List for 2026 Q2",
+          "source_name": "Footwear News",
+          "source_url": "https://wwd.com/footwear-news/shoe-trends/lyst-index-q2-2026-hottest-shoes-1239094483/",
+          "category": "Retail",
+          "relevance_score": 7,
+          "original_publish_time": "2026-08-05T18:10:29+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "America 250: From Classics to Work Boots, Men’s Footwear Stands the Test of Time",
+          "source_name": "Footwear News",
+          "source_url": "https://wwd.com/footwear-news/shoe-features/mens-footwear-classics-america-250-history-1239094559/",
+          "category": "Retail",
+          "relevance_score": 7,
+          "original_publish_time": "2026-08-05T16:43:02+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "Nike Air Force 1 Low \"White Lotus\" Features Reptile Textures and Icy Soles",
+          "source_name": "Hypebeast",
+          "source_url": "https://hypebeast.com/2026/8/nike-air-force-1-low-white-lotus-iv4453-100-official-look-release-info",
+          "category": "Leather",
+          "relevance_score": 7,
+          "original_publish_time": "2026-08-04T04:52:37+00:00",
+          "misaki_take": "Embossed reptile texture on a Swoosh overlay is a surface-treatment move — it adds $0.80–1.40 to the leather cutting BOM depending on sourcing origin and emboss complexity, a negligible cost on a $125 MSRP that buys significant visual differentiation at retail. The translucent icy outsole is a TPU compound specification that requires specific mold temperature control; it is not a difficult execution, but it does signal that Nike's materials team is iterating on the AF1 platform with genuine specificity rather than relying purely on colorway rotation to sustain the silhouette's commercial longevity."
+        },
+        {
+          "title": "Giriraj Singh Calls For Greater Adoption Of Technical Textiles To Drive Footwear Industry Growth - IFAB MEDIA",
+          "source_name": "Google News - Footwear Industry",
+          "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5oQXF6ZTZjS3RhQ1FmaDV0akdjX0x6UF9TM3lNYzB4WjZhOTRYZUJ0MnUwRmUtQVhEWlV3ZjMtWmFlcnVZWllLVWJPdl9TSElnem4waXBDZW5MSEx3bEdGTldKRUE?oc=5",
+          "category": "Retail",
+          "relevance_score": 6,
+          "original_publish_time": "2026-08-07T10:33:51+00:00",
+          "misaki_take": "India's textile ministry pushing technical textiles into footwear manufacturing is strategically sound — knit uppers, nonwoven linings, and performance meshes are where the margin and the modernity are — but the gap between ministerial ambition and factory-floor capability in the Indian footwear cluster is still measured in years, not quarters. Sourcing managers evaluating India as a Bangladesh or Vietnam alternative should note that technical textile integration requires both machinery investment and process engineering talent that most Agra and Chennai factories are only beginning to build."
+        },
+        {
+          "title": "Timberland Put Its Best Boot to Work",
+          "source_name": "Highsnobiety",
+          "source_url": "https://www.highsnobiety.com/p/timberland-gore-tex-6-inch-work-boot/",
+          "category": "Leather",
+          "relevance_score": 6,
+          "original_publish_time": "2026-08-07T09:34:00+00:00",
+          "misaki_take": "Pairing GORE-TEX waterproofing with a luxury leather upper execution on a work boot platform is a materials positioning play that repositions Timberland's PRO line upward without abandoning its functional credibility — this is difficult to do well because the construction disciplines for luxury leather finishing and GORE-TEX membrane integrity are genuinely different, and most factories optimize for one or the other. If Timberland is sourcing this at a tier-one factory with both competencies, the FOB is likely in the $55–70 range, which requires retail around $200–240 to maintain brand margin targets, a price point that puts it squarely against Danner and White's work-heritage product."
+        },
+        {
+          "title": "Textile minister urges footwear industry to leverage govt initiatives, enhance innovation - BusinessLine",
+          "source_name": "Google News - Footwear Industry",
+          "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMzk5RnpKcFB5c2xmSW1za0xuU2ItbF9oVk9XZlFCUE9HZm9uMjF5T2xrTExPeWgyTU1XT3VUSFpLc0x2TDg1V3JnRVdQSmt2QjdCaEN0NWRFN0NTNmlyOHJyWDh2MTZfMzJUckctQWV0SG5ZQ25BUWl5alFDU2Z3aHI1S3htZmNrMzAtMW9HM1BwN2tncEJlT05MTkhrVGdPNjRoSmo1U3dtS1E5Y3FfNkhxN0JtQy13bjdNZEJ2RWN2QlRIMWM2RWtYalE0c2gxbGFhOU81LTFoQmNTaVh5OGlSSXc5cHJf0gHvAUFVX3lxTE1OVE9hMnREbHVVcllnTkxuX1JqMF90Q1ZrYmdVeXV4aEdXYWo2aHNxUEJ2SmVHNFZqNEtLSVAtRFB4eTdlRHNLbVQ0dWVlanFSWWxZdlVMcUU0X1RDNlFMcnNibVlPTzFMMUdoLWtyOWxtcEpLaHRrRnV1OWJWcTBWZDJ1RDYxNFVDdEdQWWRkMmJwZGo5eE1HMndPQ0plQ3NEaVVBbkZ2VW1PWnhIMVR0eHE3dU1MU3JVVWlub0MxZDd1VXJGcUZXZWhvQWhiLWxvdWdMbVg1ZGRCNlZndlFhb01OVTM3S0hXWGNUaE1j?oc=5",
+          "category": "Retail",
+          "relevance_score": 6,
+          "original_publish_time": "2026-08-07T04:39:11+00:00",
+          "misaki_take": "The repetition of this message from Indian ministerial channels — seen again here after similar statements earlier in the year — is itself a data point: government incentive frameworks are in place but uptake in the footwear sector remains below target, which suggests the industry is either unaware of the mechanisms or unconvinced of their durability. Brands conducting India sourcing assessments in 2026 should engage directly with the LFXI and Council for Leather Exports structures now, because the factories that are accessing these programs will have a cost and capability advantage that will be visible in FOB quotes within 18 months."
+        }
+      ]
+    },
     {
       "id": "wk31-2026",
       "week_number": 31,
@@ -907,107 +1008,6 @@
           "relevance_score": 6,
           "original_publish_time": "2026-06-03T10:00:36+00:00",
           "misaki_take": "Vans' 60th anniversary collaboration slate is a deliberate exercise in proving the Authentic silhouette's design surface is not exhausted, which matters for the brand's long-term SKU rationalization argument to retail buyers. For Paura, the production reality is that Vans' established factory network in China and Vietnam handles the manufacturing with no incremental risk, meaning the designer captures creative equity at essentially zero supply chain exposure — which is the model every emerging footwear label should study."
-        }
-      ]
-    },
-    {
-      "id": "wk22-2026",
-      "week_number": 22,
-      "year": 2026,
-      "date_from": "2026-05-25",
-      "date_to": "2026-05-31",
-      "published": "2026-05-31T10:18:51.972611+00:00",
-      "intro": "Week 22 brings a familiar tension: lifestyle footwear continues to outperform expectations while the brands built on performance heritage scramble to redefine what casual means for their factories, their margins, and their retail partners. Vietnam's upstream positioning is quietly becoming the decade's most important sourcing story. And Capri Holdings is reminding everyone that brand equity without category discipline is just inventory waiting to be marked down.",
-      "articles": [
-        {
-          "title": "Nike's Air Rift Mesh Is a Breathable Update to One of the Brand's Most Distinctive Silhouettes",
-          "source_name": "Hypebeast",
-          "source_url": "https://hypebeast.com/2026/5/nike-air-rift-mesh-black-white-iw8074-001-japan-release-info",
-          "category": "Quality",
-          "relevance_score": 8,
-          "original_publish_time": "2026-05-27T11:56:01+00:00",
-          "misaki_take": "A Japan-exclusive mesh iteration at ¥12,100 tells you this is a demand-test, not a global rollout — Nike is using the Japanese market as a controlled environment to gauge appetite before committing mesh tooling and upper sourcing at scale. The split-toe construction has always carried a premium cut-and-sew cost; moving to mesh reduces upper complexity but demands tighter QC on the toe box separation seam, which is where this silhouette historically fails first."
-        },
-        {
-          "title": "I Tried Walking Shoes From Hoka and New Balance for a Month to Determine Which Brand Is Best - Prevention",
-          "source_name": "Google News - Sneaker Brand",
-          "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNEx4VFExZmlpLUZDNDhLRW5ITUNVbzVZZlN0cWtEd250aXZ0QnU4OFF1ajNNNFFsYXltTFBVN0pJWktqMC0xS1ptSV9RVTR1LWJmQjdKZl81LUQ0TzVRNG5hbW1DQUFuOFNiaFBFd3NWY0xsU0thandwWVg0LWxJd21qVXYtZFVqdmgyZ3FzT29TWmVPM0dB?oc=5",
-          "category": "Brand News",
-          "relevance_score": 7,
-          "original_publish_time": "2026-05-29T07:00:00+00:00",
-          "misaki_take": "Consumer-media comparative testing in the wellness press is now a meaningful brand signal — when Prevention is running month-long wear trials, the walking category has officially crossed into mainstream health purchasing, not specialty retail. Both Hoka and New Balance should be watching their retail door mix carefully here, because mass-wellness distribution and performance-specialty distribution require completely different last specifications and cushioning tune decisions at the development stage."
-        },
-        {
-          "title": "From Nike to Salomon, the Seven Best Sneakers to Cop Right Now",
-          "source_name": "Highsnobiety",
-          "source_url": "https://www.highsnobiety.com/p/sneaker-releases-2026-may-week-5/",
-          "category": "Retail",
-          "relevance_score": 7,
-          "original_publish_time": "2026-05-27T15:50:49+00:00",
-          "misaki_take": "Salomon appearing in the same editorial breath as Nike in a general-interest roundup marks a structural shift in the outdoor-to-lifestyle crossover pipeline that brands like Merrell and Keen have been trying to execute for fifteen years without the same traction. The implication for sourcing is that Salomon's chassis construction — traditionally built for controlled-compression alpine performance — is now being valued aesthetically, which puts pressure on their factories to hold cosmetic tolerances that were never the original design priority."
-        },
-        {
-          "title": "Nike’s ACG Air Max Boot Is Good. The Rugged Sneaker Spin-Off Is Even Better",
-          "source_name": "Highsnobiety",
-          "source_url": "https://www.highsnobiety.com/p/nike-air-max-goadome-low-black-shoes/",
-          "category": "Retail",
-          "relevance_score": 7,
-          "original_publish_time": "2026-05-24T18:09:41+00:00",
-          "misaki_take": ""
-        },
-        {
-          "title": "What's Wilder Than adidas Dress Shoes? Mickey Mouse adidas Dress Shoes",
-          "source_name": "Highsnobiety",
-          "source_url": "https://www.highsnobiety.com/p/adidas-disney-brain-dead-predator/",
-          "category": "Retail",
-          "relevance_score": 6,
-          "original_publish_time": "2026-05-29T21:22:00+00:00",
-          "misaki_take": "A three-way collab involving Brain Dead, adidas, and Disney on a Predator-derived dress shoe is a licensing complexity exercise as much as a creative one — each rights holder has approval authority at different stages of the development calendar, which routinely adds six to ten weeks to the sampling timeline and compresses the factory's production window. The real story here is not the aesthetic but whether adidas Originals has built a collab operational model that can absorb that friction without pushing delivery past the relevance window."
-        },
-        {
-          "title": "Does HOKA's Five-Year Plan Include Flat Sneakers? Never Say Never",
-          "source_name": "Highsnobiety",
-          "source_url": "https://www.highsnobiety.com/p/hoka-design-director-interview/",
-          "category": "Retail",
-          "relevance_score": 6,
-          "original_publish_time": "2026-05-29T15:15:19+00:00",
-          "misaki_take": "Hoka's design director publicly leaving the door open on flat silhouettes is a capacity signal as much as a creative one — entering the flat sneaker category means new lasts, new sole tooling, and factory partners with different skill sets than the maximal-cushioning houses Hoka has built its production relationships around. The five-year planning horizon is the right frame, because transitioning your manufacturing base to hold a credible lifestyle low-profile alongside your existing platform geometry takes at minimum three development cycles to execute without quality regression."
-        },
-        {
-          "title": "Viet Nam’s leather and footwear industry builds stronger position in global supply chain - Nhan Dan Online",
-          "source_name": "Google News - Footwear Industry",
-          "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVkhxaG1pTl83bW1NWmJyTmJkNl9xdzBTMm5FOE96RVJUVGNLNVBETWdjZnB4QTFOQU83NndaWHhSWF80SG9oQ2VjMmFUNlNSa2Y0UTZoZFhDdWgyWUR5VDFRMFNIblktT1F1azdBOWcyVFZqV1U4SEVLZmZLV09TSHpkQVE4cVFsWm9iWmRHNkxpNmp3U0p4bUlxMHlLQUpUVTRxSmhmbGRVb3JyRllyMER6VTNRV0NqQkR3YlU1ZHdxeXc?oc=5",
-          "category": "Leather",
-          "relevance_score": 6,
-          "original_publish_time": "2026-05-29T07:36:59+00:00",
-          "misaki_take": ""
-        },
-        {
-          "title": "BEAUTY&YOUTH x PUMA’s H-Street Strap Boasts a Stealthy Look",
-          "source_name": "Hypebeast",
-          "source_url": "https://hypebeast.com/2026/5/beauty-youth-puma-h-street-strap-black-release-info",
-          "category": "Quality",
-          "relevance_score": 6,
-          "original_publish_time": "2026-05-29T06:38:01+00:00",
-          "misaki_take": ""
-        },
-        {
-          "title": "Capri Holdings’ ‘biggest issue’ is footwear",
-          "source_name": "Retail Dive",
-          "source_url": "https://www.retaildive.com/news/capri-q4-earnings-footwear-strategy-Michael-Kors/821331/",
-          "category": "Brand News",
-          "relevance_score": 6,
-          "original_publish_time": "2026-05-28T20:32:00+00:00",
-          "misaki_take": ""
-        },
-        {
-          "title": "Danish Shoe Influencer Lars Byrresen Petersen Steps Into the Footwear Industry With Artful Heel Covers",
-          "source_name": "Footwear News",
-          "source_url": "https://wwd.com/footwear-news/shoe-trends/so-lars-lala-shoe-accessory-lars-byrresen-petersen-1238982065/",
-          "category": "Quality",
-          "relevance_score": 6,
-          "original_publish_time": "2026-05-27T21:14:16+00:00",
-          "misaki_take": ""
         }
       ]
     }
