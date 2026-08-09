@@ -1,8 +1,68 @@
 {
-  "last_updated": "2026-08-09T05:49:36.453976+00:00",
-  "total_articles": 102,
-  "sources_checked": 62,
+  "last_updated": "2026-08-09T17:38:15.168057+00:00",
+  "total_articles": 103,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "ea8785c3bb26",
+      "title": "Some of Kobe Bryant’s Most Sought-after Sneakers Are Dropping Again for Kobe Bryant Day",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/kobe-bryant-day-flight-club-sneaker-drawing-1239098968/",
+      "original_publish_time": "2026-08-09T15:37:45+00:00",
+      "scraped_time": "2026-08-09T17:26:58.082028+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "Featuring coveted PE pairs, past Protro releases and more.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "d987fce18d82",
+      "title": "Footwear industry is backbone of India’s economy: Union Minister Giriraj Singh | Akashvani News - News On AIR",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ29UaXZQZHFWUm1nX2FHV3h5VGlhdFRaX01vcllPcGc2bU5fRFdmR282RjQ1ZnkyTE9Ic0drOHQ2SjM3NkI5ZFI3eEZsRHUyaTI0LW15clpXMnJYcS15QmN6Qy0xR1NEbVd0QVp6b0taVXVkZXVYNUxsdHdlX2JFUGtKLUFXenJ6eVdxU1I5NF9ud2tPVTFLM3hwbmNZdHl4cFFZdQ?oc=5",
+      "original_publish_time": "2026-08-09T10:34:00+00:00",
+      "scraped_time": "2026-08-09T17:27:19.662193+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "footwear industry"
+      ],
+      "relevance_score": 6,
+      "summary": "Footwear industry is backbone of India’s economy: Union Minister Giriraj Singh | Akashvani News News On AIR",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "fc9741bf2efc",
+      "title": "Nike Sends the Vomero Plus to the Pasture With Cow Print and Sail Pony-Hair Swooshes",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/8/nike-vomero-plus-cow-print-ir0035-100-official-images",
+      "original_publish_time": "2026-08-09T02:54:39+00:00",
+      "scraped_time": "2026-08-09T17:27:08.639207+00:00",
+      "time_delta_mins": 0,
+      "category": "Quality",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "Name: Nike Vomero Plus “Cow Print”Colorway: Sail/Black-University Red-Light Orewood Brown-PhantomSKU: IR0035-100MSRP: $190 USDRelease Date: TBCNike has taken the Vomero Plus in an unexpected direction with a \"Cow Print\" colorway, dropping a barnyard-inspired graphic onto one of its hottest road-running models. The women's makeup runs the print across the upper while keeping the shoe's performance build largely unchanged.For all its offbeat styling, the colorway barely deviates from the standard Vomero Plus construction. The one real departure lands on the Swooshes, which are executed in Sail pony hair, a faux-textured finish that adds tactile contrast without dialing back the shoe's running credentials.The rest of the makeup builds around the theme. Black cow print blankets nearly the whol",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "a37d962e3ebe",
       "title": "Think It’s Cool to Wear Fancy Sneakers to Work? You Might Be Old. - The New York Times",
@@ -2080,49 +2140,6 @@
       ],
       "relevance_score": 4,
       "summary": "New Balance's newest 996 sneakers appear with textural looks & satin shoelaces, a rare makeover for the brand's dad shoes.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "78ac6bf5a55e",
-      "title": "A First Look at Nike and Zellerfeld’s 3D-Printed Air Works Prototype",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/8/a-first-look-at-nike-and-zellerfelds-3d-printed-air-works-prototype",
-      "original_publish_time": "2026-08-02T08:30:07+00:00",
-      "scraped_time": "2026-08-02T12:02:27.839960+00:00",
-      "time_delta_mins": 0,
-      "category": "Manufacturing",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "footwear",
-        "sneakers"
-      ],
-      "relevance_score": 4,
-      "summary": "Name: Motoi Hatsuki Air Works 3D-printed SneakerSKU: TBCRelease Date: TBCNike has officially taken its first public step into the future of footwear manufacturing with its 3D-printed sneaker from its innovative Air Works Program, developed in partnership with additive manufacturing specialist Zellerfeld.Revealed via social media by Blue Room's Motoi Hatsuki, the prototype silhouette showcases a sleek, monochromatic model. The sneaker features a one‑piece 3D‑printed construction, eliminating traditional stitching and overlays for a streamlined, slip‑on profile. Hatsuki’s design draws inspiration from the Air Max 1000 and Tailwind V, incorporating exaggerated heel and forefoot Air bubbles, including a glowing neon yellow unit at the rear. The side panels showcase a paisley‑style looping moti",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "1f6f2ddb431e",
-      "title": "Official Images of the Nike Air Rejuven8 \"Camo Pack\"",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/8/nike-air-rejuven8-camo-pack-black-camo-iu3167-002-barkroot-brown-camo-iu3167-001-official-images",
-      "original_publish_time": "2026-08-02T08:12:44+00:00",
-      "scraped_time": "2026-08-02T12:02:27.843305+00:00",
-      "time_delta_mins": 0,
-      "category": "Manufacturing",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 3,
-      "summary": "Name: Nike Air Rejuven8 “Camo Pack”Colorway: “Black Camo,” “Barkroot Brown Camo”SKU: IU3167-002, IU3167-001MSRP: TBCRelease Date: August 2026Nike expands on the Air Rejuven8 revival, unveiling a bold new “Camo Pack” featuring two women’s-exclusive colorways in \"Black Camo\" and \"Barkroot Brown.\" Originally introduced ahead of the 2008 Beijing Olympics as a post-performance recovery shoe for elite athletes, both new iterations retain the slip-on silhouette while introducing camouflage-inspired detailing across the molded, open-cell lattice cage.The \"Black Camo\" edition pairs a black knit bootie with tonal laces and foam tooling, contrasted by a semi-translucent shell patterned with smoky camouflage across its diamond cutouts. A crisp white Swoosh on the lateral side provides the only sharp b",
       "ren_take": "",
       "image_url": ""
     }
