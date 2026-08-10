@@ -1,8 +1,110 @@
 {
-  "last_updated": "2026-08-10T11:57:52.521495+00:00",
-  "total_articles": 103,
+  "last_updated": "2026-08-10T17:59:31.827580+00:00",
+  "total_articles": 105,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "e66fd0b0f3e2",
+      "title": "Lack of Demand for High-Heat Sneaker Styles Could Spark Concern for Jordan and More Big Brands",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/sneakerhead-market-summer-2026-demand-falling-1239099260/",
+      "original_publish_time": "2026-08-10T17:40:35+00:00",
+      "scraped_time": "2026-08-10T17:48:12.465650+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "Some discounts on new Jordan Brand retros in the resale market suggest a demand issue, with eyes now on \"high heat\" launches in August for back-to-school.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "fbbb4081e397",
+      "title": "Nike Kobe 10 Protro PE Revealed In Crimson And Purple Gradients",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/08/10/nike-kobe-10-protro-purple-red-mamba-invitational-pe/",
+      "original_publish_time": "2026-08-10T16:00:07+00:00",
+      "scraped_time": "2026-08-10T17:48:23.079132+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Though the Mamba Invitational has already wrapped, the LA tournament has left us with plenty to discuss on the footwear front. On top of flexing... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike Kobe 10 Protro PE Revealed In Crimson And Purple Gradients appeared first on Sneaker News . The post Nike Kobe 10 Protro PE Revealed In Crimson And Purple Gradients appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "de7ba4f13db3",
+      "title": "Brooklyn’s Aya Brown Crafts An Exclusive Brown And Neon Nike Air Max 95",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/08/10/aya-brown-nike-air-max-95/",
+      "original_publish_time": "2026-08-10T15:00:03+00:00",
+      "scraped_time": "2026-08-10T17:48:23.081975+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "Look at Nike, Inc.’s recent plays and you’ll see that expanding their rolodex is a clear focus. From Easy Otabor’s Infinite Archives Jordan 17 to... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Brooklyn's Aya Brown Crafts An Exclusive Brown And Neon Nike Air Max 95 appeared first on Sneaker News . The post Brooklyn’s Aya Brown Crafts An Exclusive Brown And Neon Nike Air Max 95 appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "d819e9c24207",
+      "title": "Joe Ulloa breaks down why its Back to School campaign is so important to Clarks",
+      "source_name": "Retail Gazette",
+      "source_domain": "retailgazette.co.uk",
+      "source_url": "https://www.retailgazette.co.uk/blog/2026/08/joe-ulloa-breaks-down-why-its-back-to-school-campaign-is-so-important-to-clarks/",
+      "original_publish_time": "2026-08-10T14:32:55+00:00",
+      "scraped_time": "2026-08-10T17:51:42.802805+00:00",
+      "time_delta_mins": 0,
+      "category": "Trade Data",
+      "brands_mentioned": [
+        "Clarks"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "British footwear retailer Clarks unveiled their Back to School summer campaign last week, aimed at capturing the excitement of returning back to school. Titled ‘Jump into Clarks’, the marketing drive highlighted the brands promotional offers for the Back to School season. Joe Ulloa, Clarks’ UK and EU president explains that the Back to School season...",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "b31124d5e487",
+      "title": "ASICS Adds an Earthy “Olive Green” Variant to the GEL-Kinetic 2.0 Series",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/8/asics-gel-kinetic-2-0-olive-green-obsidian-grey-olive-canvas-1203a678-025-official-images-release-info",
+      "original_publish_time": "2026-08-10T11:58:38+00:00",
+      "scraped_time": "2026-08-10T17:48:22.911656+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "ASICS"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "Name: ASICS GEL-Kinetic 2.0 “Olive Green”Colorway: Obsidian Grey/Olive CanvasSKU: 1203A678-025MSRP: $250 USDRelease Date: Available NowWhere to Buy: ASICSASICS gears up for the autumnal season with an earth-tone GEL-Kinetic 2.0 iteration. Dubbed “Olive Green,” the new colorway is rendered in \"Obsidian Grey\" and \"Olive Canvas,\" while touches of \"Black\" amplify its understated yet multilayered aesthetic.Drawing technical design cues from early 2000s performance franchises like the original GEL-KINETIC and GEL-FRANTIC series, the sneaker boasts a highly structured, layered construction. The breathable fine mesh upper serves as a lightweight foundation, intricately fortified by synthetic leather and PU overlays that are molded into place to give the silhouette its aggressive, defined shape.The",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "7f62b6e8dce6",
       "title": "New Balance Douses the 204L in a Denim-Like “Heron Blue”",
@@ -2080,69 +2182,6 @@
       ],
       "relevance_score": 3,
       "summary": "Following the huge news that Yeezy footwear will be sold in JD Sports stores, Ye’s independent Yeezy brand continues to take shape with the introduction... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Ye Reveals A First Look At The Yeezy 800 Sneaker appeared first on Sneaker News . The post Ye Reveals A First Look At The Yeezy 800 Sneaker appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "317a1a3e3a9c",
-      "title": "Nike Joins the Hyrox Craze",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/nike-hybrid-shoes-training-racing-hyrox-1239091568/",
-      "original_publish_time": "2026-08-03T17:35:04+00:00",
-      "scraped_time": "2026-08-03T18:47:55.004855+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "As popularity of the popular fitness race soars, Nike's Hybrid Fly and Hybrid RN are the newest shoes entering the fray.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "c45b1a75a93a",
-      "title": "Pokémon And adidas Have A Massive 30th Anniversary Collection Coming Soon",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/08/03/adidas-pokemon-30th-anniversary-collection/",
-      "original_publish_time": "2026-08-03T16:30:41+00:00",
-      "scraped_time": "2026-08-03T18:48:05.809953+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Adidas",
-        "Puma"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "The 30th anniversary for the biggest media franchise in human history only comes around once. Through various merchandising collaborations, including a link-up with PUMA earlier... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Pokémon And adidas Have A Massive 30th Anniversary Collection Coming Soon appeared first on Sneaker News . The post Pokémon And adidas Have A Massive 30th Anniversary Collection Coming Soon appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "7c6168b85d87",
-      "title": "Some Classics Never Graduate. Your Fall Footwear Rotation Should Take Notes",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/timberland-studied-classics-back-to-campus/",
-      "original_publish_time": "2026-08-03T15:06:34+00:00",
-      "scraped_time": "2026-08-03T18:51:35.120875+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Timberland"
-      ],
-      "keywords_matched": [
-        "boot",
-        "footwear"
-      ],
-      "relevance_score": 5,
-      "summary": "Step into the new semester with Timberland's \"Studied Classics\" collection, from the iconic 6-Inch Boot to everyday campus-ready essentials.",
       "ren_take": "",
       "image_url": ""
     }
