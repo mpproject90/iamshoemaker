@@ -1,8 +1,119 @@
 {
-  "last_updated": "2026-08-11T05:55:48.571429+00:00",
+  "last_updated": "2026-08-11T11:53:55.839839+00:00",
   "total_articles": 99,
-  "sources_checked": 61,
+  "sources_checked": 60,
   "articles": [
+    {
+      "id": "69f78c709831",
+      "title": "Madden NYC Enters India with Women’s Footwear",
+      "source_name": "Apparel Resources",
+      "source_domain": "apparelresources.com",
+      "source_url": "https://apparelresources.com/business-news/retail/madden-nyc-enters-india-womens-footwear/",
+      "original_publish_time": "2026-08-11T11:30:41+00:00",
+      "scraped_time": "2026-08-11T11:46:50.476336+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Steve Madden"
+      ],
+      "keywords_matched": [
+        "footwear",
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "Madden NYC, the accessible fashion brand from Steve Madden, an American fashion designer and businessman, has entered India with a women’s footwear collection. The brand will be available online and through select retail outlets across the country. The collection includes sneakers, slides, heels and other everyday footwear styles, with designs featuring metallic finishes, woven textures, […] The post Madden NYC Enters India with Women’s Footwear appeared first on Apparel Resources .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "b40dcbca44ae",
+      "title": "New Balance Just Built a Gray Dad Shoe For the Future",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/new-balance-abzorb-2000s-gray/",
+      "original_publish_time": "2026-08-11T09:09:18+00:00",
+      "scraped_time": "2026-08-11T11:46:38.651321+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "New Balance"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "New Balance's ABZORB 2000S sneaker is what we imagine all dad shoes will look like 1,000 years from now.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "7967be78d258",
+      "title": "The Mizuno Wave Prophecy LS Arrives in Two KICKS LAB-Exclusive Colorways",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/8/mizuno-wave-prophecy-ls-light-gray-black-lime-green-d1ga333711-charcoal-silver-blue-d1ga333712-kicks-lab-exclusive-release-info",
+      "original_publish_time": "2026-08-11T08:48:20+00:00",
+      "scraped_time": "2026-08-11T11:43:05.759565+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [
+        "Mizuno"
+      ],
+      "keywords_matched": [
+        "midsole",
+        "sole",
+        "upper"
+      ],
+      "relevance_score": 5,
+      "summary": "Name: Mizuno Wave Prophecy LS “Light Grey” & “Charcoal”Colorway: Light Gray/Black/Lime Green, Charcoal/Silver/BlueSKU: D1GA333711, D1GA333712MSRP: ¥27,500 JPY (approx. $173 USD)Release Date: August 14Where to Buy: KICKS LAB.Tokyo-based sneaker boutique KICKS LAB receives an exclusive Mizuno release featuring the Wave Prophecy LS in two striking colorways: \"Light Grey\" and \"Charcoal.\" Both pairs feature the Prophecy’s signature full-length Infinity Wave midsole, a sculptural cushioning system designed for stability and impact absorption. The uppers are built from layered mesh and synthetic panels, delivering breathability and structure while emphasizing the futuristic aesthetic that defines the Prophecy line.The uppers are constructed from a breathable, fine-tuned mesh base that is strategi",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "2aa4878adb67",
+      "title": "Timberland Revives an Archival '90s Hue for the “Concrete” Collection",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/8/timberland-concrete-collection-release-info",
+      "original_publish_time": "2026-08-11T08:36:08+00:00",
+      "scraped_time": "2026-08-11T11:43:05.764206+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Timberland"
+      ],
+      "keywords_matched": [
+        "boot",
+        "footwear",
+        "upper"
+      ],
+      "relevance_score": 6,
+      "summary": "Name: Timberland Concrete CollectionMSRP: $140 - $220 USDRelease Date: Available NowWhere to Buy: TimberlandTimberland's Concrete Collection revives the brand’s archival “Concrete” colorway. This timeless, nuanced finish is designed to live at the intersection of work, nature and city life, capturing the uncompromising rhythm of the streets while maintaining the rugged aesthetic Timberland is known for. Spanning several iconic silhouettes, the collection adapts this industrial-yet-natural hue across both men’s and women’s footwear, delivering a cohesive, street-ready look.Leading the men's offerings is the Heritage 6-Inch Waterproof Boot, which proudly revives the classic '90s \"Concrete\" tone across its premium upper. This iconic workwear staple retains its signature robust construction an",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "940330ed782c",
+      "title": "The New Balance 1890A Hybrid Gets a \"Cow Print\" Makeover Built on a 2002 Sole",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/8/new-balance-1890a-cow-print-official-images",
+      "original_publish_time": "2026-08-11T07:31:29+00:00",
+      "scraped_time": "2026-08-11T11:43:05.770031+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "New Balance"
+      ],
+      "keywords_matched": [
+        "sole",
+        "upper"
+      ],
+      "relevance_score": 6,
+      "summary": "Name: New Balance 1890A “Cow Print”Colorway: TBCSKU: TBCMSRP: TBCRelease Date: Holiday 2026The New Balance 1890A is back in a \"Cow Print\" colorway that leans fully into the silhouette's fashion-forward side. A Wallabee-adjacent hybrid at its core, this version reworks the model's material palette to land squarely in lifestyle territory, trading technical detailing for a richer, more tactile mix.Construction is where the 1890A earns its unusual reputation. The model fuses a moc-toe upper with the sole unit pulled from the New Balance 2002, an odd-couple pairing that splits the difference between a casual slip-on shape and a cushioned runner base. It's a deliberately hybrid build, and this makeup pushes that identity toward the dressier end of the spectrum.To get there, New Balance stripped ",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "fae85e5f6432",
       "title": "New Balance Officially Reveals Release Date for Tyrese Maxey's Debut Signature Maxey V1",
@@ -23,6 +134,27 @@
       ],
       "relevance_score": 5,
       "summary": "Summary Tyrese Maxey's debut signature sneaker with New Balance is officially set for a retail releaseThe low-cut silhouette incorporates design language from the 9060 and 2002 alongside a two-piece plate systemThe debut black and blue colorway will launch on October 2 for $130 USD New Balance has officially unveiled the Maxey V1, marking the debut signature performance basketball sneaker for Philadelphia 76ers star Tyrese Maxey. The model transitions from its initial on-court debut during the 2026 NBA Playoffs to a full commercial release.The Maxey V1 integrates performance technology with New Balance's lifestyle aesthetic. Drawing structural cues from the 9060, the low-cut silhouette incorporates wavy paneling across the upper, a sculpted midsole, and a contoured heel shape. The lacing s",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "2990e2bbce93",
+      "title": "Pokémon and Crocs Unveil the Classic Clog \"Poké Ball\" for 30th Anniversary",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/8/pokemon-crocs-classic-clog-poke-ball-212064-90h-release-info",
+      "original_publish_time": "2026-08-10T22:58:44+00:00",
+      "scraped_time": "2026-08-11T11:43:05.767435+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Crocs"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Summary Crocs and Pokémon have partnered to release a Classic Clog inspired by the iconic \"Poké Ball\"The footwear features custom Jibbitz charms of Pikachu Eevee and Psyduck alongside a metallic logo heel strapThe collection drops on August 28 in full family sizing with prices ranging from $50 to $70 USD Name: Pokémon x Crocs Classic Clog \"Poké Ball\"Colorway: White/RedSKU: 212064-90HRetail Price: $70 USDRelease Date: August 28, 2026Where to Buy: CrocsCrocs and Pokémon have officially partnered to unveil the Classic Clog \"Poké Ball\" as part of the franchise’s 30th-anniversary celebration. The joint footwear offering translates the iconic red-and-white sphere into a wearable silhouette releasing in full family sizing.The design borrows directly from the Poké Ball's signature color blocking, ",
       "ren_take": "",
       "image_url": ""
     },
@@ -1935,133 +2067,6 @@
       ],
       "relevance_score": 3,
       "summary": "The Entertainer is now set to open a new store at Manchester’s Trafford Centre in September. The toy retailer will take a unit on Upper Regent Crescent, bringing a full-range specialist toy shop back to the shopping centre for the first time since 2018. The Entertainer expects the branch to compete with its Bluewater flagship...",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "9e156a9033f9",
-      "title": "Official Look at the adidas Originals x Hellstar MEGARIDE S2",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/8/adidas-originals-hellstar-megaride-s2-white-black-kh8086-official-campaign-images-release-info",
-      "original_publish_time": "2026-08-04T10:36:05+00:00",
-      "scraped_time": "2026-08-04T13:02:43.263347+00:00",
-      "time_delta_mins": 0,
-      "category": "Quality",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "outsole",
-        "sole",
-        "upper"
-      ],
-      "relevance_score": 5,
-      "summary": "Name: adidas Originals x Hellstar MEGARIDE S2Colorway: White/BlackSKU: KH8086MSRP: $200 USDRelease Date: August 8Where to Buy: adidasThe adidas Originals x Hellstar MEGARIDE S2 represents the boldest chapter yet in the partnership, fusing adidas’ sport-inspired design with Hellstar’s disruptive creative identity. The sneaker’s upper is built from a custom RPU mold with exposed mesh, layered with debossed detailing that adds depth and texture. A white-to-black flame gradient wraps the silhouette, embodying Hellstar’s signature motif of “shining bright in a dark world.” Chrome-finished tooling and a translucent outsole enhance the futuristic aesthetic, while the overall construction balances durability with visual impact.Beneath the upper, the MEGARIDE S2 is anchored by gleaming chrome-finis",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "42f362e414cb",
-      "title": "Closer Look at the OTW by Vans x NEIGHBORHOOD Authentic 44",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/8/neighborhood-vans-authentic-44-pack-vn000xvj7vj-vn000xvjbla-closer-look-wider-release-info",
-      "original_publish_time": "2026-08-04T10:18:06+00:00",
-      "scraped_time": "2026-08-04T13:02:43.268081+00:00",
-      "time_delta_mins": 0,
-      "category": "Quality",
-      "brands_mentioned": [
-        "Vans"
-      ],
-      "keywords_matched": [
-        "shoes",
-        "upper"
-      ],
-      "relevance_score": 4,
-      "summary": "Name: OTW by Vans x NEIGHBORHOOD Authentic 44Colorway: Black, WhiteSKU: VN000XVJ7VJ, VN000XVJBLAMSRP: $120 USDRelease Date: August 7Where to Buy: VansFollowing up on the recent unveiling, an official wider release for the OTW by Vans x NEIGHBORHOOD Authentic 44 is now confirmed via Vans. Coninciding with this new info, Vans also revealed a set of new images that offers a closer look at the collaborative skate shoes.Merging modern streetwear sensibilities with elevated material quality, the iconic low-top silhouette is completely reconstructed using a premium cow suede upper that delivers a soft, textured finish. The design embraces a strict monochrome aesthetic, omitting contrasting panels in favor of seamless, tonal stitching that gives the shoe an exceptionally clean and refined profile.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "bb55667f73ac",
-      "title": "From Nike to Willy Chavarria's adidas, the Seven best Sneakers to Cop this Week",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/sneaker-releases-2026-august-week-1/",
-      "original_publish_time": "2026-08-04T09:55:11+00:00",
-      "scraped_time": "2026-08-04T13:06:46.653265+00:00",
-      "time_delta_mins": 0,
-      "category": "Trade Data",
-      "brands_mentioned": [
-        "Nike",
-        "Adidas",
-        "New Balance"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 8,
-      "summary": "This week’s selection sees the release of a brand new adidas x Willy Chavarria, the continuation of New Balance x JJJJound, and its \"Night Lights\" pack.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "3c8267248215",
-      "title": "24.6 billion pairs: global footwear production in 2025 - World Footwear",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQc2dQTTBhbWNwbVpMWGxpam5RVW56WDRVZUctTUFyZzF5djBta3lfNjZNS2xHVlVhenJPbkJXTS1OQWtTVEI1ZzJZMERtSUpSeld6MlJfdXlSS2dXMExGT2ZwNm0xS0xXVXJhZmtlMW44VE5uRVlRemROcFdtdktEU2ZnSDRQdWJ6WGRIRk55akdEU09zbnRibmd0STd2NUk?oc=5",
-      "original_publish_time": "2026-08-04T09:50:44+00:00",
-      "scraped_time": "2026-08-04T13:02:54.119281+00:00",
-      "time_delta_mins": 0,
-      "category": "Manufacturing",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "24.6 billion pairs: global footwear production in 2025 World Footwear",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "bed9717e2142",
-      "title": "ADERERROR and Birkenstock Reimagine the Classic Boston Clog",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/8/adererror-birkenstock-boston-cap-boston-flap-collaboration-release-info",
-      "original_publish_time": "2026-08-04T07:06:28+00:00",
-      "scraped_time": "2026-08-04T07:28:26.292483+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Birkenstock"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "Name: ADER ERROR x Birkenstock Boston Cap, Boston FlapMSRP: TBCRelease Date: August 6Where to Buy: adererror, BirkenstockSeoul-based fashion creative brand ADERERROR has reunited with Birkenstock for a second collaboration, reimagines the clog’s 50th‑anniversary Boston silhouette with a focus on threadwork and stitch detailing as a central design language.The collection introduces two models: the Boston Cap and the Boston Flap. The Boston Flap arrives in ADERERROR's signature Ultra Blue and an earthy Honey tone, structurally transforming the clog with an exaggerated upper flap held in place by contrasting white whipstitch detailing.Offered in sleek black and warm camel colorways, the Boston Cap features a dual-layer leather upper highlighted by a functional, utilitarian leather toe cap.Acr",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "9e53ef629550",
-      "title": "Boots rolls out Jo Malone London across 39 stores and online",
-      "source_name": "Retail Gazette",
-      "source_domain": "retailgazette.co.uk",
-      "source_url": "https://www.retailgazette.co.uk/blog/2026/08/boots-rolls-out-jo-malone-london-across-39-stores-and-online/",
-      "original_publish_time": "2026-08-04T07:01:28+00:00",
-      "scraped_time": "2026-08-04T07:32:02.218030+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 3,
-      "summary": "Boots has expanded its premium beauty offer by launching Jo Malone London in 39 stores nationwide and on Boots.com. It said the partnership gives shoppers greater access to the British luxury fragrance brand, which will be available through more UK locations than at any other retailer. The range launches on Tuesday 4 August and features...",
       "ren_take": "",
       "image_url": ""
     }
