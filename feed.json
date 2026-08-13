@@ -1,8 +1,29 @@
 {
-  "last_updated": "2026-08-12T23:56:33.081917+00:00",
-  "total_articles": 83,
+  "last_updated": "2026-08-13T06:18:58.068092+00:00",
+  "total_articles": 84,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "a01fa6da91cc",
+      "title": "LeBron James Officially Unveils the Nike LeBron 24",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/8/lebron-james-unveils-nike-lebron-24-io8204-400-release-info",
+      "original_publish_time": "2026-08-12T22:38:13+00:00",
+      "scraped_time": "2026-08-13T06:08:16.162332+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "Summary LeBron James has officially unveiled his upcoming Nike LeBron 24 signature shoeEngineered with an all-new KingKnit upper the sneaker marks the lightest signature design in James’ franchise historyThe debut blue Shooting Star colorway is expected to release on November 17 for $200 USD Name: Nike LeBron 24 \"Shooting Star\"Colorway: Polarized Blue/Multi-Color-Black-Racer Blue-Blue GlowSKU: IO8204-400MSRP: $200 USDRelease Date: November 17, 2026Where to Buy: NikeNike and LeBron James have officially revealed the Nike LeBron 24, introducing the latest signature basketball silhouette as the superstar embarks on a new chapter with the Philadelphia 76ers. The first look provides a comprehensive overview of the sneaker's technical upgrades following weeks of blacked-out sample workouts.The c",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "a8f2361330f8",
       "title": "Nike Air Force 1 Mid GTX Vibram Returns For Holiday 2026",
