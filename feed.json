@@ -1,8 +1,110 @@
 {
-  "last_updated": "2026-08-13T11:57:27.128876+00:00",
-  "total_articles": 83,
+  "last_updated": "2026-08-13T18:05:11.522067+00:00",
+  "total_articles": 87,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "71507e29c795",
+      "title": "Kylie Jenner says footwear launch is an 'organic evolution' - Yahoo Life UK",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQY3QyZVVRTy0wQlNodVFFSldaR3BadmNCbVRYWXJFN1JtYWdzY0l3RHBZcEZUVkw1MGdtU2RudTZTdk1lQTZ5UWVZamdoYUJaQTY2ZGswWXZaR1k5VWpMZmMtRnpXM2lfNnI4VWpiRGhpbWJ1Q0luSklzTUc4MWd0dQ?oc=5",
+      "original_publish_time": "2026-08-13T15:15:00+00:00",
+      "scraped_time": "2026-08-13T17:54:32.300867+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Kylie Jenner says footwear launch is an 'organic evolution' Yahoo Life UK",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "38f5eb4fd36e",
+      "title": "Crocs inks AI tech deal",
+      "source_name": "Retail Dive",
+      "source_domain": "retaildive.com",
+      "source_url": "https://www.retaildive.com/news/crocs-digital-upgrade-AI/827438/",
+      "original_publish_time": "2026-08-13T14:33:00+00:00",
+      "scraped_time": "2026-08-13T17:57:16.009100+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Crocs"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "The footwear company is working to modernize its core business and IT systems in order to simplify operations and reduce costs.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "1246595433d2",
+      "title": "Wolverine growth meets margin pressure",
+      "source_name": "Ecotextile News",
+      "source_domain": "ecotextile.com",
+      "source_url": "https://www.ecotextile.com/2026081364873/radar/wolverine-growth-meets-margin-pressure/",
+      "original_publish_time": "2026-08-13T13:32:46+00:00",
+      "scraped_time": "2026-08-13T17:56:30.123650+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Merrell",
+        "Wolverine",
+        "Wolverine Worldwide"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "Wolverine Worldwide, which owns brands including Merrell and Saucony, reported second-quarter revenue of $506.4 million, up 6.8%, and diluted earnings per […] The post Wolverine growth meets margin pressure appeared first on Ecotextile News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "72b638311d22",
+      "title": "Bata India Q1 FY ’27 Profit Rises 23% to Rs 64 Crore",
+      "source_name": "Apparel Resources",
+      "source_domain": "apparelresources.com",
+      "source_url": "https://apparelresources.com/business-news/retail/bata-india-q1-fy-27-profit-rises-23-rs-64-crore/",
+      "original_publish_time": "2026-08-13T13:25:55+00:00",
+      "scraped_time": "2026-08-13T17:58:12.025222+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Bata"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Footwear retailer Bata India reported a 23 % year-on-year increase in consolidated net profit to Rs 63.98 crore (US $6.69 million) for the quarter ended June 30, compared with Rs 52 crore (US $5.44 million) in Q1 FY ’26. Revenue from operations increased 4% to Rs 978.95 crore (US $102.42 million), driven by premiumisation and […] The post Bata India Q1 FY ’27 Profit Rises 23% to Rs 64 Crore appeared first on Apparel Resources .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "9043fac10c72",
+      "title": "Wolverine Posts Q2 Beat and Raises 2026 Outlook",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/wolverine-world-wide-www-q2-earnings-merrell-saucony-1239123199/",
+      "original_publish_time": "2026-08-13T12:24:57+00:00",
+      "scraped_time": "2026-08-13T17:54:10.488441+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [
+        "Merrell",
+        "Wolverine"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "Merrell and Saucony continued to lead revenue gains in the second quarter.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "a01fa6da91cc",
       "title": "LeBron James Officially Unveils the Nike LeBron 24",
@@ -1721,26 +1823,6 @@
       ],
       "relevance_score": 3,
       "summary": "Saucony's new ProGrid V2 Mule is a sneaker-mule with an athletic spirit that's shockingly stylish. Suede runner clogs have no business being this stylish.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "4fb886280f04",
-      "title": "America 250: Cowboy Boots & Indigenous Footwear Remain Symbols of an Ideal",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-features/america-250-cowboy-boots-indigenous-footwear-1239096418/",
-      "original_publish_time": "2026-08-06T17:10:39+00:00",
-      "scraped_time": "2026-08-07T01:42:10.970001+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "boot",
-        "footwear"
-      ],
-      "relevance_score": 6,
-      "summary": "Old Hollywood's vision of the American West continues to influence fashion choices.",
       "ren_take": "",
       "image_url": ""
     }
