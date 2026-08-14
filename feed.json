@@ -1,8 +1,148 @@
 {
-  "last_updated": "2026-08-14T18:00:08.842213+00:00",
-  "total_articles": 79,
+  "last_updated": "2026-08-14T23:36:07.482873+00:00",
+  "total_articles": 83,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "9f608b9a17cd",
+      "title": "Brooks, Hoka and Saucony Have Big Plans to Conquer the European Running Market",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/hoka-brooks-saucony-expansion-european-market-growth-1239124385/",
+      "original_publish_time": "2026-08-14T20:54:53+00:00",
+      "scraped_time": "2026-08-14T23:24:54.117980+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Brooks",
+        "Hoka"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "Hoka, Brooks Running and Saucony see expansion plans across the European market as a key component of future growth.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "ad01181e5fd6",
+      "title": "An AI Bama Rush Hopeful Is Going Viral in ‘Nike’ Sneakers That Technically Don’t Exist",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-features/ai-bama-rushtok-nike-sneakers-1239125514/",
+      "original_publish_time": "2026-08-14T20:53:37+00:00",
+      "scraped_time": "2026-08-14T23:24:54.120741+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "shoes",
+        "sneakers"
+      ],
+      "relevance_score": 6,
+      "summary": "“Janie B” named Nike in her first OOTD, but the shoes, along with the rest of her look, seem to be AI. Meanwhile, Nike staged a very real Studio Fleece activation at a University of Alabama sorority house.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "55a157a6b532",
+      "title": "Nike’s Spotted Tennis Sneakers Literally Have That Dawg in ‘Em",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-tennis-classic-chew-dog/",
+      "original_publish_time": "2026-08-14T18:56:09+00:00",
+      "scraped_time": "2026-08-14T23:28:45.218716+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "Nike's Tennis Classic get a paw-fect makeover for the newest \"Chew Dog\" collection, resulting a furry Dalmatian-inspired take on the model.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "5d94cd9530cd",
+      "title": "U.S. Consumers Bought More Running Shoes in the First Half of 2026",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/consumer-spending-trends-running-shoes-1239125374/",
+      "original_publish_time": "2026-08-14T18:43:09+00:00",
+      "scraped_time": "2026-08-14T23:24:54.121539+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "Volleyball, cross training and golf shoes saw solid performance.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "a506781322a9",
+      "title": "Lucette Holland Wants to Challenge Mainstream Shoemaking - WWD",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbWVZTlU1QjB0SGpZN0hTbFF3X18yQ0Zhb1ExLWJEUWl3ckFkS3A1NVRsNXZzSVFCMUxDMTNoSlJCRFV1Q25UN1g2dUJIQll2X1dudzhEZ2lvaW5uR0N6U3FlU0xnOGgyZU5rNERxS2lkZ0J3T2dCcHpVWHR2bkUzSXdZVGt4aHlXV1BWemlQTWdJY0YyRlRWUE4yMUl5eGpqVDJZZnNVaW1XX2VKX1E?oc=5",
+      "original_publish_time": "2026-08-14T18:26:25+00:00",
+      "scraped_time": "2026-08-14T23:25:15.475413+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoemaking"
+      ],
+      "relevance_score": 3,
+      "summary": "Lucette Holland Wants to Challenge Mainstream Shoemaking WWD",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "c3051fba3af5",
+      "title": "Veteran Footwear Designer Lucette Holland Wants to Challenge Mainstream Shoemaking With Sustainable Brand Ceecee",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-trends/ceecee-sustainable-shoe-brand-interview-lucette-holland-1239100517/",
+      "original_publish_time": "2026-08-14T18:22:52+00:00",
+      "scraped_time": "2026-08-14T23:24:54.121999+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "shoemaking"
+      ],
+      "relevance_score": 6,
+      "summary": "Ceecee drops small batch artisanal collections made in Dakar, Senegal, from reclaimed and local materials.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "b86027d03935",
+      "title": "Premium Running Sneakers - Trend Hunter",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LOXdKY1gzeFNiaFg4bXM4OUdTVG5nZl9oc3VJNnQ2bk9PS2xqZENweHp6Y1lSLWhzbUZfa1dKOE1SSHlSdlFPRnJTOGU0bTE5N09z0gFYQVVfeXFMUFdCOVdQV3JZb3ItTk5mX21LanRMM0pkM0xUb2pBdmEwR3NSOEoxbnRTZjh4SVVhTmxnWGw1SlR6ajMwVHlPX3pJd3U4Nk5MMG9jdkNtcVBIdg?oc=5",
+      "original_publish_time": "2026-08-14T18:00:59+00:00",
+      "scraped_time": "2026-08-14T23:25:16.384708+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "Premium Running Sneakers Trend Hunter",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "4c152e924616",
       "title": "O. Files Made Wearable Origami Art Out of adidas' Military Trainer (EXCLUSIVE)",
@@ -1607,67 +1747,6 @@
       ],
       "relevance_score": 5,
       "summary": "The adidas x Pokémon Handball Spezial lands as pretty purple-pink sneaker inspired by Mewtwo. Poké ball also included.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "53639067b826",
-      "title": "The 29 Best Sneakers of 2026 (So Far) - Esquire",
-      "source_name": "Google News - Sneaker Brand",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1FSWVORm96dFZWS1VlY3B6TE9DM05faDg2QW9pbVpjaUczTXJQYUVPUkpkaHRnQmh2NUhMZHA2cVFreHc0VlJkenppMnJOU09iajVhZS1iUE5TdW92b09veVJZTmNxakRjczJHdElBT3ZKQjBacC1OR2xkMXg?oc=5",
-      "original_publish_time": "2026-08-07T22:13:22+00:00",
-      "scraped_time": "2026-08-08T05:32:57.320965+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "The 29 Best Sneakers of 2026 (So Far) Esquire",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "499faabf573e",
-      "title": "Ye Unveils Four Pastel Colorways for the Upcoming Yeezy 800",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/8/ye-unveils-four-new-pastel-colorways-for-upcoming-yeezy-800",
-      "original_publish_time": "2026-08-07T21:02:46+00:00",
-      "scraped_time": "2026-08-08T11:28:58.277997+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Yeezy"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "Summary Ye has revealed four new pastel colorways of the independent Yeezy 800 silhouetteThe retro running design combines ballistic mesh nubuck overlays and textured synthetic panelsThe model is expected to release during Fall/Winter 2026 via Yeezy YEEZY founder Ye has revealed new pastel iterations of the upcoming YEEZY 800 silhouette. The updated previe, which the artist posted to his Instagram Stories, expands upon the initial all-black edition of the independent runner, introducing a vibrant shift from the brand's traditional muted earth tones.The Yeezy 800 leans into a retro running shape, featuring a complex layered construction across the upper. Ballistic mesh forms the tongue, while textured panels reinforce the toe and heel sections. Nubuck-like overlays frame the eyestays and fo",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "b68b7392a38a",
-      "title": "Nike ACG Gears Up For Fall With Five Models",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/08/07/nike-acg-hiking-collection-fall-2026/",
-      "original_publish_time": "2026-08-07T19:00:32+00:00",
-      "scraped_time": "2026-08-07T23:36:15.130665+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Following a rebrand earlier this year, Nike ACG has gone about rebuilding its performance footwear lineup from the ground up, taking an approach comparable to... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike ACG Gears Up For Fall With Five Models appeared first on Sneaker News . The post Nike ACG Gears Up For Fall With Five Models appeared first on Sneaker News .",
       "ren_take": "",
       "image_url": ""
     }
