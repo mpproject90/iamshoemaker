@@ -1,8 +1,133 @@
 {
-  "last_updated": "2026-08-14T11:54:26.398536+00:00",
-  "total_articles": 84,
+  "last_updated": "2026-08-14T18:00:08.842213+00:00",
+  "total_articles": 79,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "4c152e924616",
+      "title": "O. Files Made Wearable Origami Art Out of adidas' Military Trainer (EXCLUSIVE)",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/ofiles-adidas-sneakers/",
+      "original_publish_time": "2026-08-14T17:49:07+00:00",
+      "scraped_time": "2026-08-14T17:52:59.624790+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "O. Files debuts its adidas Origiami BW Army sneaker featuring pleated leather uppers. Here's how to score a pair.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "331744b636ee",
+      "title": "mfpen Strips The Logo Off The New Balance 992 For Its First Sneaker Collaboration",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/08/14/mfpen-new-balance-992/",
+      "original_publish_time": "2026-08-14T16:30:59+00:00",
+      "scraped_time": "2026-08-14T17:49:17.493355+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "New Balance"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "If you’re as equally invested in fashion in general as you are with footwear, New Balance is dropping the collaboration for you. Sigurd Bank’s mfpen,... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post mfpen Strips The Logo Off The New Balance 992 For Its First Sneaker Collaboration appeared first on Sneaker News . The post mfpen Strips The Logo Off The New Balance 992 For Its First Sneaker Collaboration appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "5205e2860123",
+      "title": "LaMelo Ball’s PUMA MB.06 Forecasts A “Shooting Star”",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/08/14/puma-mb-06-shooting-star-313624-01/",
+      "original_publish_time": "2026-08-14T14:30:51+00:00",
+      "scraped_time": "2026-08-14T17:49:17.497233+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Puma"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "New team, new sneakers. LaMelo Ball’s Minnesota Timberwolves era begins with the PUMA MB.06, his sixth shoe in seven years set to roll out in... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post LaMelo Ball's PUMA MB.06 Forecasts A \"Shooting Star\" appeared first on Sneaker News . The post LaMelo Ball’s PUMA MB.06 Forecasts A “Shooting Star” appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "dc49e17c0b67",
+      "title": "Zendaya’s 12-year-old Gladiator Sandals Took a Last-minute Instagram Search to Find",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-trends/zendaya-sophia-webster-gladiator-sandals-instagram-search-1239124577/",
+      "original_publish_time": "2026-08-14T14:18:43+00:00",
+      "scraped_time": "2026-08-14T17:49:06.961625+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sandal"
+      ],
+      "relevance_score": 3,
+      "summary": "With no time to make a new pair for “The Odyssey” press tour, designer Sophia Webster asked her followers to help fulfill Law Roach’s request.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "d82e866c3cc1",
+      "title": "Phoenix Kothari Plans Rs 1,000-Cr Footwear Plant in Tamil Nadu",
+      "source_name": "Apparel Resources",
+      "source_domain": "apparelresources.com",
+      "source_url": "https://apparelresources.com/business-news/manufacturing/phoenix-kothari-plans-rs-1000-cr-footwear-plant-tamil-nadu/",
+      "original_publish_time": "2026-08-14T13:36:48+00:00",
+      "scraped_time": "2026-08-14T17:53:11.314525+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Kothari Industrial Corporation Ltd, through its associate company Phoenix Kothari Footwear Ltd, has proposed an investment of approximately Rs 1,000 crore (US $104.79 million) to establish a non-leather footwear manufacturing facility in Mananthapuram District, Tamil Nadu. The company intends to execute a Memorandum of Understanding (MoU) with Guidance, Government of Tamil Nadu, for the project. […] The post Phoenix Kothari Plans Rs 1,000-Cr Footwear Plant in Tamil Nadu appeared first on Apparel Resources .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "f665ca129795",
+      "title": "Take a First Look at the mfpen x New Balance 992 Sneaker",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/8/mfpen-new-balance-992-first-look-info",
+      "original_publish_time": "2026-08-14T13:19:50+00:00",
+      "scraped_time": "2026-08-14T17:49:17.341455+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "New Balance",
+        "Off-White"
+      ],
+      "keywords_matched": [
+        "midsole",
+        "sole",
+        "upper"
+      ],
+      "relevance_score": 6,
+      "summary": "Name: mfpen x New Balance 992SKU: TBCRelease Date: March 2027Making its first appearance during Copenhagen Fashion Week, the mfpen x New Balance 992 sneaker was unveiled as part of the Danish label’s Spring/Summer 2027 runway presentation.Rooted in the classic Made in USA 992 silhouette originally launched in 2006, the collaborative sneaker merges mfpen's penchant for minimalist, subverted tailoring with New Balance's heritage craftsmanship and advanced ABZORB SBS cushioning technology. The upper features a muted palette of grey suede and mesh, accented with tonal overlays that emphasize the silhouette’s layered construction. A subtle contrast is introduced through off-white midsoles and reflective detailing, balancing understated luxury with functional performance. Expected to launch in M",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "766f3df11690",
       "title": "The Nike Air Tech Challenge 2 “Mag” Arrives Earlier Than Expected",
@@ -1543,231 +1668,6 @@
       ],
       "relevance_score": 3,
       "summary": "Following a rebrand earlier this year, Nike ACG has gone about rebuilding its performance footwear lineup from the ground up, taking an approach comparable to... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike ACG Gears Up For Fall With Five Models appeared first on Sneaker News . The post Nike ACG Gears Up For Fall With Five Models appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "da74695804ef",
-      "title": "Aimé Leon Dore’s New Balance Running Pack Drops August 14th",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/08/07/aime-leon-dore-new-balance-running-release-date/",
-      "original_publish_time": "2026-08-07T17:30:59+00:00",
-      "scraped_time": "2026-08-07T17:44:58.075214+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "New Balance"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "The rise of running as both a hobby and full-fledged personality has had a major impact on performance footwear. Brands are now expected to deliver... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Aimé Leon Dore’s New Balance Running Pack Drops August 14th appeared first on Sneaker News . The post Aimé Leon Dore’s New Balance Running Pack Drops August 14th appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "00f39138699e",
-      "title": "The Nike Caitlin 1 Lights Up In “Hot Punch”",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/08/07/nike-caitlin-1-hot-punch-neo-pink-ih7423-600/",
-      "original_publish_time": "2026-08-07T17:00:11+00:00",
-      "scraped_time": "2026-08-07T17:44:58.076580+00:00",
-      "time_delta_mins": 0,
-      "category": "Trade Data",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "Nike isn’t leaving much to chance when it comes to Caitlin Clark shoes, avoiding leaks at all costs by letting Clark herself deliver first looks... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Nike Caitlin 1 Lights Up In \"Hot Punch\" appeared first on Sneaker News . The post The Nike Caitlin 1 Lights Up In “Hot Punch” appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "ab6be49aa3d1",
-      "title": "How Shoes Shaped 250 Years of American Style",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-features/american-shoe-history-style-eras-1239084555/",
-      "original_publish_time": "2026-08-07T16:59:33+00:00",
-      "scraped_time": "2026-08-07T17:44:47.298771+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "From high heels to flip-flops, shoes have moved with fashion and culture, shaping decades of style.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "8c2c9f76d9e0",
-      "title": "Nike’s Glossy Air Jordan 1 Is Made to Match Your Mani",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nikes-glossy-air-jordan-1-is-made-to-match-your-mani/",
-      "original_publish_time": "2026-08-07T16:55:00+00:00",
-      "scraped_time": "2026-08-07T17:48:51.255579+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike",
-        "Jordan"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 4,
-      "summary": "Nike just made a glossy polished Air Jordan 1 sneaker that mimics a super fresh manicure.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "9cc8c312a94a",
-      "title": "The Adidas Samba’s Journey Through the Animal Kingdom Now Leads It to Deer Print",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/adidas-samba-deer-print-release-date-kj7447-1239097883/",
-      "original_publish_time": "2026-08-07T16:38:16+00:00",
-      "scraped_time": "2026-08-07T17:44:47.300572+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "Taking over with a pony hair upper.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "64e277ff8d45",
-      "title": "Timberland, New Era, And The MLB Bring Seven Teams To Wheat Boots And Fitteds",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/08/07/timberland-6-inch-boot-mlb-new-era-release-date/",
-      "original_publish_time": "2026-08-07T16:30:17+00:00",
-      "scraped_time": "2026-08-07T17:44:58.077755+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Timberland"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 5,
-      "summary": "Few combinations are as deeply embedded in American street style as a pair of Wheat Timbs and a fitted. Now, two brands synonymous with those... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Timberland, New Era, And The MLB Bring Seven Teams To Wheat Boots And Fitteds appeared first on Sneaker News . The post Timberland, New Era, And The MLB Bring Seven Teams To Wheat Boots And Fitteds appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "fe6bb97a2af4",
-      "title": "Blundstone’s New Premium Boots for Fall Are Handcrafted by 34 People",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/blundstone-heritage-series-premium-boots-details-1239097945/",
-      "original_publish_time": "2026-08-07T16:23:26+00:00",
-      "scraped_time": "2026-08-07T17:44:47.300950+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 3,
-      "summary": "The new collection comes in men's and women's sizes.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "f408244d31b2",
-      "title": "Alysa Liu Fronts Nike Studio Fleece Campaign & Rains Steps Into Footwear in This Week's Top Fashion News",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/8/alysa-liu-nike-studio-fleece-rains-shoe-devil-wears-prada-nigel-cabourn-anderson-bell-burberry-info",
-      "original_publish_time": "2026-08-07T15:54:06+00:00",
-      "scraped_time": "2026-08-07T23:36:14.937118+00:00",
-      "time_delta_mins": 0,
-      "category": "Trade Data",
-      "brands_mentioned": [
-        "Nike",
-        "Prada"
-      ],
-      "keywords_matched": [
-        "boot",
-        "footwear"
-      ],
-      "relevance_score": 7,
-      "summary": "SummaryNigel Cabourn and Andersson Bell opened distinct new flagship boutiques in Japan.Christie’s is auctioning off The Devil Wears Prada 2 wardrobe; the V&A highlighted Burberry’s trench history.RAINS launched its first waterproof boots, while Olympian Alysa Liu fronted Nike's latest fleece campaign.What Alysa Liu Wears When She's Not on the IceFresh off securing a historic gold medal at the Milan Winter Olympics, figure skating champion Alysa Liu stepped out of the rink to front Nike's vibrant Studio Fleece campaign. Known for injecting Gen-Z energy and alt aesthetics into her sport, Liu showcased her off-duty style in a surrealist pastel salon setting. In an exclusive interview for Hypebeast, the 20-year-old athlete explained how growing up in Oakland, California, shaped her eclectic, ",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "d16d74cc64de",
-      "title": "Ye’s YEEZY Footwear Launching At JD Sports On August 13th",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/08/07/yeezy-jd-sports-release-date/",
-      "original_publish_time": "2026-08-07T15:30:55+00:00",
-      "scraped_time": "2026-08-07T17:44:58.079839+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Yeezy"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 5,
-      "summary": "It’s officially official. YEEZY footwear has found a new home at JD Sports, giving Ye’s independent brand access to physical retail, broader distribution, and the... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Ye’s YEEZY Footwear Launching At JD Sports On August 13th appeared first on Sneaker News . The post Ye’s YEEZY Footwear Launching At JD Sports On August 13th appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "7168b8a7a3ea",
-      "title": "These Are the Best New Sneakers of 2026 (So Far) - GQ",
-      "source_name": "Google News - Sneaker Brand",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sOHExblZRZFlwS21pS1lRcU9jXzVMTnIydGpUYXJMTWVFV0s5NklpTW9sMkYtNzdWNmxkMC1vZl9neDFuS2xYY0ZVcTczVXFTYW5oeHVfemtEZw?oc=5",
-      "original_publish_time": "2026-08-07T13:00:00+00:00",
-      "scraped_time": "2026-08-07T17:45:09.575491+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "These Are the Best New Sneakers of 2026 (So Far) GQ",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "8c896a35e199",
-      "title": "Life in Focus: Anupam Bansal Executive Director, Liberty Shoes",
-      "source_name": "Apparel Resources",
-      "source_domain": "apparelresources.com",
-      "source_url": "https://apparelresources.com/business-news/retail/life-in-focus-anupam-bansal-executive-director-liberty-shoes/",
-      "original_publish_time": "2026-08-07T12:51:50+00:00",
-      "scraped_time": "2026-08-07T17:49:02.790977+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "shoes"
-      ],
-      "relevance_score": 4,
-      "summary": "Three decades in footwear, and I would not have it any other way. Liberty has grown into one of India’s most recognised footwear conglomerates with an annual turnover crossing Rs. 800 crore and a presence in over 30 countries. 450+ exclusive stores, 5,000+ multibrand outlets, e-commerce across Myntra, Flipkart, Nykaa Fashion and our own site. […] The post Life in Focus: Anupam Bansal Executive Director, Liberty Shoes appeared first on Apparel Resources .",
       "ren_take": "",
       "image_url": ""
     }
