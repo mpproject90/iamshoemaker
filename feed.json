@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-15T11:30:44.598255+00:00",
-  "total_articles": 85,
+  "last_updated": "2026-08-15T17:27:35.806657+00:00",
+  "total_articles": 86,
   "sources_checked": 60,
   "articles": [
     {
@@ -1263,6 +1263,27 @@
       ],
       "relevance_score": 4,
       "summary": "Nike's First Sight Noir \"Bright Crimson\" is a hot ride with black uppers & bright red soles packing plenty of tread.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "20db10cd46e9",
+      "title": "The Best New Balance Sneakers of 2026 (So Far) - Gear Patrol",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcUtSYkFKaVhLTDBYLVRMeGloU3lidU5YejRvVGhmZWdSRkdod0ZJZTl3UzN3N09IYWxyOUhJZ0M3ekU0LVpjaW9oU2RIN2pKYVZmal9PcWkxeDltMXdsbDNFRXJIbmg2UERURTNEUEFSeHBrVWpTUXM1S0JSbkxHY1JBY2xTa2FQZVRJcQ?oc=5",
+      "original_publish_time": "2026-08-10T21:06:25+00:00",
+      "scraped_time": "2026-08-15T17:16:54.974016+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "New Balance"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "The Best New Balance Sneakers of 2026 (So Far) Gear Patrol",
       "ren_take": "",
       "image_url": ""
     },
