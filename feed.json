@@ -1,8 +1,27 @@
 {
-  "last_updated": "2026-08-15T05:24:35.335390+00:00",
-  "total_articles": 83,
+  "last_updated": "2026-08-15T11:30:44.598255+00:00",
+  "total_articles": 85,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "86e585b9485d",
+      "title": "Brazil footwear trade deficit emerges for first time as imports rise - DatamarNews",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQzNieHNhbjljWXFHaHEwd0xQbXMwTzl6a2dVYUs4dGF0R01OS0h2NzdKYXNFeGxfZ3ZTRVhRcUhLMFhuLXA2cGVTZDZHMW1rQVVhWjJTMHRZZVFhTmVyVF92NXlUUl9Wd1pKczNfZktrY254a0E3MFhhS1ZsNXpUeVluV2RSbTBiNEptdHp0NDFCSGRGNW9qRWlsdHVPNWM1MjNOeA?oc=5",
+      "original_publish_time": "2026-08-15T05:32:17+00:00",
+      "scraped_time": "2026-08-15T11:20:15.057964+00:00",
+      "time_delta_mins": 0,
+      "category": "Trade Data",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Brazil footwear trade deficit emerges for first time as imports rise DatamarNews",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "9f608b9a17cd",
       "title": "Brooks, Hoka and Saucony Have Big Plans to Conquer the European Running Market",
@@ -562,6 +581,27 @@
       ],
       "relevance_score": 3,
       "summary": "Footwear retailer Bata India reported a 23 % year-on-year increase in consolidated net profit to Rs 63.98 crore (US $6.69 million) for the quarter ended June 30, compared with Rs 52 crore (US $5.44 million) in Q1 FY ’26. Revenue from operations increased 4% to Rs 978.95 crore (US $102.42 million), driven by premiumisation and […] The post Bata India Q1 FY ’27 Profit Rises 23% to Rs 64 Crore appeared first on Apparel Resources .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "0b044e3c641f",
+      "title": "Noah Reimagines the Converse Jack Purcell 1935 in Plaid",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/8/noah-converse-jack-purcell-1935-release-info",
+      "original_publish_time": "2026-08-13T12:31:53+00:00",
+      "scraped_time": "2026-08-15T11:20:03.828075+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Converse"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "Name: Noah x Converse Jack Purcell 1935Colorway: TBCSKU: TBCMSRP: ¥18,700 JPY (approx. $117 USD)Release Date: August 21Where to Buy: Noah, ConverseNoah has teamed up with Converse for a Japan-exclusive iteration of the iconic Jack Purcell. In celebrating the Jack Purcell 1935’s 90th anniversary, the sneaker incorporates distinctive features such as four-stitch toe caps, asymmetrical toe guards and vintage-inspired proportions.Noah adds its own identity through an original plaid pattern on the upper, embroidered cross motifs at the heel, and special heel labels. The design is completed with two sets of shoelaces in white and red, allowing for versatile styling. Crafted with refined materials and subtle branding, the collaboration balances authenticity with contemporary flair.The sneaker is ",
       "ren_take": "",
       "image_url": ""
     },
