@@ -1,8 +1,114 @@
 {
-  "last_updated": "2026-08-16T17:27:11.098080+00:00",
-  "total_articles": 88,
+  "last_updated": "2026-08-16T23:34:03.553860+00:00",
+  "total_articles": 91,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "c3fb703630fa",
+      "title": "Nike’s Mighty Hiking Sneaker Brings “Linen” to the Trails",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-acg-zegama-trail-gore-tex-linen/",
+      "original_publish_time": "2026-08-16T20:01:11+00:00",
+      "scraped_time": "2026-08-16T23:26:38.208453+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Vibram"
+      ],
+      "keywords_matched": [
+        "sole"
+      ],
+      "relevance_score": 4,
+      "summary": "Nike's ACG Zegama Trail GORE-TEX \"Linen\" sneaker takes the classic colorway to the great outdoors via a high-performance Vibram-soled ride.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "34d19a4bc80a",
+      "title": "Careful, Nike’s Sweet Signature Skate Shoe Might Cause a Sugar Rush",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-sb-janoski-baroque-brown/",
+      "original_publish_time": "2026-08-16T19:54:34+00:00",
+      "scraped_time": "2026-08-16T23:26:38.209161+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "Nike SB's Janoski OG+ \"Baroque Brown\" features chocolate brown suede uppers, resulting in a simple yet sweet take on the classic skate model.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "b9b81e1b0077",
+      "title": "adidas’ Croc Sneaker Is Too Fly for the Swamp",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/adidas-stan-smith-croc/",
+      "original_publish_time": "2026-08-16T19:49:49+00:00",
+      "scraped_time": "2026-08-16T23:26:38.207134+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "sneakers",
+        "upper"
+      ],
+      "relevance_score": 4,
+      "summary": "adidas drops croc-skin Stan Smith sneakers featuring scaly leather uppers & other luxe details. Here's everything on the classic with a bite.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "d987fce18d82",
+      "title": "Footwear industry is backbone of India’s economy: Union Minister Giriraj Singh | Akashvani News - News On AIR",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ29UaXZQZHFWUm1nX2FHV3h5VGlhdFRaX01vcllPcGc2bU5fRFdmR282RjQ1ZnkyTE9Ic0drOHQ2SjM3NkI5ZFI3eEZsRHUyaTI0LW15clpXMnJYcS15QmN6Qy0xR1NEbVd0QVp6b0taVXVkZXVYNUxsdHdlX2JFUGtKLUFXenJ6eVdxU1I5NF9ud2tPVTFLM3hwbmNZdHl4cFFZdQ?oc=5",
+      "original_publish_time": "2026-08-16T19:32:46+00:00",
+      "scraped_time": "2026-08-16T23:23:00.280345+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "footwear industry"
+      ],
+      "relevance_score": 6,
+      "summary": "Footwear industry is backbone of India’s economy: Union Minister Giriraj Singh | Akashvani News News On AIR",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "0b82f32223ed",
+      "title": "Salomon’s Beautiful Brown Mary Jane Is the Finest of Them All",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/salomon-rx-marie-jeanne-alpine-echoes/",
+      "original_publish_time": "2026-08-16T19:17:27+00:00",
+      "scraped_time": "2026-08-16T23:26:38.207748+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Salomon"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "Salomon drops an \"Alpine Echoes\" collection featuring luxe leather Marie Jeanne sneakers. Dare we say, it's the brand's best Mary Janes yet.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "c8d8611ff7fd",
       "title": "adidas Jellyfish “Crystal Sand,” Vans Old Skool Souvenir, And This Week’s Best Releases",
@@ -513,6 +619,25 @@
       "summary": "Wolverine Worldwide has lifted its FY26 outlook after a stronger-than-expected Q2, with Merrell and Saucony driving sales gains.",
       "ren_take": "",
       "image_url": "https://www.just-style.com/wp-content/uploads/sites/27/2026/08/Wolverine-Worldwids.jpg"
+    },
+    {
+      "id": "81c27163fe29",
+      "title": "I Asked 3 Podiatrists for Their Favorite Comfy Walking Shoes—and They All Said the Same Brand - travelandleisure.com",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPalBWUHlQcGtLRUdJQkVUSnY1MHRxQWtGaURrdUYtT0dWQjNMWmxFQ1NubmhSa2VmMm9zc2JkNnVUaEpnN3hONDd2WDJuTHcxUFMxS1FsNHAxVFA4UXRHSkVWb1diUklOYi1iVVRoVE1fdkZCT3BHVVFpY21BdHN3bDVRUS1hT2ppQ1pqd2JXOXVCOFBDT3JuNzZtckE?oc=5",
+      "original_publish_time": "2026-08-14T09:30:00+00:00",
+      "scraped_time": "2026-08-16T23:23:00.943042+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "I Asked 3 Podiatrists for Their Favorite Comfy Walking Shoes—and They All Said the Same Brand travelandleisure.com",
+      "ren_take": "",
+      "image_url": ""
     },
     {
       "id": "eabb99a99c5e",
@@ -1788,66 +1913,6 @@
       ],
       "relevance_score": 6,
       "summary": "Summary Early reports indicate an upcoming Nike Air Force 1 Low Sport in an Old Royal and White color schemeThe pair features classic two-tone color blocking anchored by a sport-inspired paletteOfficial release dates pricing and full availability details remain unconfirmed Name: Nike Air Force 1 '07 LV8 \"Old Royal\"Colorway: Old Royal/White/Metallic Silver/BlackSKU: IM5752-400MSRP: $125 USDRelease Date: Available NowWhere to Buy: NikeNike is reportedly expanding its footwear lineup with the Air Force 1 '07 LV8 \"Old Royal/White.\" The model applies a bold two-tone arrangement to the classic low-top silhouette. The Swoosh is highlighted in all-black to matching the piping on the overlay as well as the outsole. The perforated white upper is complemented with the old royal overlay tumbled leathe",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "35fafe4c2153",
-      "title": "New Generation: João Mendes, ISI Soles - World Footwear",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZ0hUUEZYaWRLdmtJUllUOWx2Z2dzWVdFXzlHRi1FWU54Uy1NNmVua01sdnRXemd2dGdtNm9tOVZyN2F4VkNhb2N1aWo2SzN0NDFVMlpoZ0tNaUpfc1doMmNOdEZWX2VndFVlRmtCVExXZlpoQlp0RlJQOV8wMWFWTDRKRFVfYmgwNEE?oc=5",
-      "original_publish_time": "2026-08-09T23:01:21+00:00",
-      "scraped_time": "2026-08-09T23:34:32.642376+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "sole"
-      ],
-      "relevance_score": 6,
-      "summary": "New Generation: João Mendes, ISI Soles World Footwear",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "f0986607a4c9",
-      "title": "Nike Teases Major 'One Piece' Collaboration Is on the Way",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/8/nike-japan-teases-one-piece-collaboration",
-      "original_publish_time": "2026-08-09T22:28:52+00:00",
-      "scraped_time": "2026-08-10T06:04:52.421378+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "sole"
-      ],
-      "relevance_score": 3,
-      "summary": "Summary Nike Japan has officially teased an upcoming collaboration with the anime and manga franchise 'One Piece'A teaser image shared on social media depicts a Poneglyph engraved with a Nike Swoosh alongside the caption 'ROMANCE DAWN'Product details release dates and global availability remain unconfirmed by the brand Nike Japan has officially teased an upcoming partnership with the iconic anime and manga series One Piece. The sportswear brand shared an initial teaser image across its official social media channels, signaling a major crossover between the Swoosh and Eiichiro Oda's long-running pirate epic.The teaser image depicts a legendary Poneglyph engraved with a Nike Swoosh, accompanied solely by the caption \"ROMANCE DAWN\"—a direct reference to the introductory story arc of One Piece",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "fee4283b50fc",
-      "title": "PM Modi Shares Minister Giriraj Singh’s Article on Technical Textiles in Footwear Sector | Akashvani News - News On AIR",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNlJpWmxSSHJhZ0lkbEh5Zk5meVdiYnM0dVlNMlJzRC1Oa1VoWjNVQ1NfUGwwS1lHeUVHY1dhTVo5U2VxSGVIeS1kWnQwLTFIRDQ0dGd5cUNZa2JHU2VwLVVfSHpZRkhNSmVTUVk0eUMybEgzcW9maEt4d0tYazhQaXgzZS02ZVk4cGhqX1hZNW9UbThVNVBnQ0ZxamMwcVpsbXZMY1Zraw?oc=5",
-      "original_publish_time": "2026-08-09T19:20:47+00:00",
-      "scraped_time": "2026-08-10T11:47:15.918643+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "PM Modi Shares Minister Giriraj Singh’s Article on Technical Textiles in Footwear Sector | Akashvani News News On AIR",
       "ren_take": "",
       "image_url": ""
     }
