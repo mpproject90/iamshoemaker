@@ -1,6 +1,107 @@
 {
-  "last_updated": "2026-08-09T08:46:19.693820+00:00",
+  "last_updated": "2026-08-16T08:32:21.941187+00:00",
   "bulletins": [
+    {
+      "id": "wk33-2026",
+      "week_number": 33,
+      "year": 2026,
+      "date_from": "2026-08-10",
+      "date_to": "2026-08-16",
+      "published": "2026-08-16T08:32:21.940582+00:00",
+      "intro": "Week 33 arrives with the industry in a familiar late-summer posture: brands are previewing deep into 2027, collabs are being used as margin management tools, and sustainability narratives are quietly moving from PR to production. The thread connecting this week's news is the ongoing tension between craft and scale — who gets to make what, where, and at what cost.",
+      "articles": [
+        {
+          "title": "HOKA Reissues the Tor Ultra Lo in Four Tonal Colorways",
+          "source_name": "Hypebeast",
+          "source_url": "https://hypebeast.com/2026/8/hoka-tor-ultra-lo-reissue-first-look-antique-olive-black-varsity-navy-archival-taupe-info",
+          "category": "Leather",
+          "relevance_score": 9,
+          "original_publish_time": "2026-08-10T08:51:50+00:00",
+          "misaki_take": "Staggered release windows across August through December are a deliberate inventory velocity play — HOKA is managing sell-through risk by drip-feeding supply rather than absorbing a full-season write-down on a heritage reissue. Premium nubuck with GORE-TEX construction at a $243 MSRP signals a FOB target that will stress-test Vietnamese factories already running tight on waterproof bootie capacity heading into Q4."
+        },
+        {
+          "title": "norda’s FW26 Lineup Highlights Marbled Midsoles and Iridescent Accents",
+          "source_name": "Hypebeast",
+          "source_url": "https://hypebeast.com/2026/8/norda-fall-winter-2026-footwear-collection-001a-002-005-008-055-055-g-release-info",
+          "category": "Trade Data",
+          "relevance_score": 8,
+          "original_publish_time": "2026-08-11T11:53:44+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "An AI Bama Rush Hopeful Is Going Viral in ‘Nike’ Sneakers That Technically Don’t Exist",
+          "source_name": "Footwear News",
+          "source_url": "https://wwd.com/footwear-news/shoe-features/ai-bama-rushtok-nike-sneakers-1239125514/",
+          "category": "Retail",
+          "relevance_score": 6,
+          "original_publish_time": "2026-08-14T20:53:37+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "Veteran Footwear Designer Lucette Holland Wants to Challenge Mainstream Shoemaking With Sustainable Brand Ceecee",
+          "source_name": "Footwear News",
+          "source_url": "https://wwd.com/footwear-news/shoe-trends/ceecee-sustainable-shoe-brand-interview-lucette-holland-1239100517/",
+          "category": "Sustainability",
+          "relevance_score": 6,
+          "original_publish_time": "2026-08-14T18:22:52+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "Take a First Look at the mfpen x New Balance 992 Sneaker",
+          "source_name": "Hypebeast",
+          "source_url": "https://hypebeast.com/2026/8/mfpen-new-balance-992-first-look-info",
+          "category": "Leather",
+          "relevance_score": 6,
+          "original_publish_time": "2026-08-14T13:19:50+00:00",
+          "misaki_take": "Revealing a March 2027 collab on a Copenhagen runway in August 2026 is a seven-month lead time signal that Made in USA production slots are being locked well in advance, confirming that New Balance's Flimby and Lawrence facilities have meaningful forward demand pressure. For sourcing managers benchmarking domestic versus offshore cost differentials, that demand signal matters more than the aesthetic."
+        },
+        {
+          "title": "Born X Raised and Vans Unveil the Authentic 44 Collection for SS27",
+          "source_name": "Hypebeast",
+          "source_url": "https://hypebeast.com/2026/8/born-x-raised-vans-authentic-44-collection-mexico-city-ss27-revealed",
+          "category": "Retail",
+          "relevance_score": 6,
+          "original_publish_time": "2026-08-13T19:00:08+00:00",
+          "misaki_take": "The House of Vans Mexico City community drop — 50 pairs, friends and family only — is a controlled scarcity mechanism that shifts brand equity work from marketing budget to production planning, keeping SKU counts low while generating disproportionate social surface area. Vans is using its collab infrastructure as a margin-preserving alternative to broad seasonal discounting, and the Authentic 44 canvas construction keeps FOB exposure minimal while the storytelling does the heavy lifting."
+        },
+        {
+          "title": "Kylie Jenner Channels Her Longtime Love of Shoes With Khy’s First Footwear Collection",
+          "source_name": "Footwear News",
+          "source_url": "https://wwd.com/footwear-news/shoe-trends/kylie-jenner-khy-gia-borghini-shoe-collection-1239117647/",
+          "category": "Retail",
+          "relevance_score": 6,
+          "original_publish_time": "2026-08-12T18:06:00+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "UP THERE and ASICS Go Fluo With the GEL-KAYANO 20 “Safety Yellow”",
+          "source_name": "Hypebeast",
+          "source_url": "https://hypebeast.com/2026/8/up-there-asics-gel-kayano-20-safety-yellow-pure-silver-1203b288-750-release-info",
+          "category": "Retail",
+          "relevance_score": 6,
+          "original_publish_time": "2026-08-12T10:35:15+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "HI-TEC HTS74 Unveils FW26 “Sierra ’78” Collection Inspired by Heritage Hiking",
+          "source_name": "Hypebeast",
+          "source_url": "https://hypebeast.com/2026/8/hi-tec-hts74-fw26-collection-release-info",
+          "category": "Trade Data",
+          "relevance_score": 6,
+          "original_publish_time": "2026-08-12T09:45:06+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "Moncler Gears up for FW26 With an Extensive Footwear Collection",
+          "source_name": "Hypebeast",
+          "source_url": "https://hypebeast.com/2026/8/moncler-fall-winter-2026-footwear-collection-info",
+          "category": "Brand News",
+          "relevance_score": 6,
+          "original_publish_time": "2026-08-12T09:13:02+00:00",
+          "misaki_take": "The Clarks, Moon Boot, and Rick Owens collaboration roster in a single season collection is a capital-intensive bet on collab velocity that only works at Moncler's retail price floor — each partnership carries design, legal, and production coordination costs that erode quickly below a certain ASP threshold. Expanding the in-house Trailgrip franchise in parallel is the smart hedge: proprietary tooling amortization and margin structure that collaborative product structurally cannot match."
+        }
+      ]
+    },
     {
       "id": "wk32-2026",
       "week_number": 32,
@@ -907,107 +1008,6 @@
           "relevance_score": 6,
           "original_publish_time": "2026-06-10T13:36:44+00:00",
           "misaki_take": ""
-        }
-      ]
-    },
-    {
-      "id": "wk23-2026",
-      "week_number": 23,
-      "year": 2026,
-      "date_from": "2026-06-01",
-      "date_to": "2026-06-07",
-      "published": "2026-06-07T10:31:41.726459+00:00",
-      "intro": "Week 23 brings a familiar tension into focus: the gravitational pull of low-cost Chinese imports compressing margins at the manufacturing base, while premium collaborations and athlete marketing dominate the brand conversation at the top. The BOOTS Act failure in the House closes one policy door that U.S. domestic producers were watching closely. Meanwhile, Skechers is doing what Skechers has always done — moving fast, spending smart, and taking shelf space that other brands left unguarded.",
-      "articles": [
-        {
-          "title": "Kids’ Shoes and ‘Elevated’ Brands Help Recovering Famous Footwear in Q1",
-          "source_name": "Footwear News",
-          "source_url": "https://wwd.com/footwear-news/shoe-industry-news/famous-footwear-kids-shoes-elevated-brands-q1-2026-1238995869/",
-          "category": "Sustainability",
-          "relevance_score": 11,
-          "original_publish_time": "2026-06-04T21:04:49+00:00",
-          "misaki_take": ""
-        },
-        {
-          "title": "Skechers Has New NBA Finals Sneakers That Look Like Timberland’s 6-Inch Work Boots",
-          "source_name": "Footwear News",
-          "source_url": "https://wwd.com/footwear-news/sneaker-news/skechers-skx-reign-foreman-timberland-boot-og-anunoby-1238998415/",
-          "category": "Retail",
-          "relevance_score": 10,
-          "original_publish_time": "2026-06-06T15:25:30+00:00",
-          "misaki_take": ""
-        },
-        {
-          "title": "New Balance’s Vibram-Soled Trail Sandal Is the King of Versatility",
-          "source_name": "Highsnobiety",
-          "source_url": "https://www.highsnobiety.com/p/new-balance-hiesv1-shoes/",
-          "category": "Retail",
-          "relevance_score": 10,
-          "original_publish_time": "2026-06-05T21:57:39+00:00",
-          "misaki_take": ""
-        },
-        {
-          "title": "From ASICS to adidas, the Seven Best Sneakers to Cop Right Now",
-          "source_name": "Highsnobiety",
-          "source_url": "https://www.highsnobiety.com/p/sneaker-releases-2026-june-week-1/",
-          "category": "Retail",
-          "relevance_score": 9,
-          "original_publish_time": "2026-06-03T11:27:34+00:00",
-          "misaki_take": "Editorial roundups like this are a lagging indicator of where marketing spend already landed, not a leading one — by the time a product earns consensus placement across open-market lists, the production run is largely locked and the sourcing decision is 12 to 18 months old. What is worth tracking here is which brands are consistently present week over week, because that frequency maps directly to which factories are running at or above plan."
-        },
-        {
-          "title": "How US$4.50 Chinese shoes are putting pressure on Brazil’s footwear industry - DatamarNews",
-          "source_name": "Google News - Footwear Industry",
-          "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUDhFbEJaekF4aHhpS0cyNS1iSHJyaWR1LXNPMFh5MndDT3IteDBqdXVLcWRXdGQ3WXRIQnlWTkNLYVc3MlpmVDBZemtqdl9pQUNIbVV5eEhFZm5aZjNGQTllbTdvTF9Ib0dxcTZhbjNMSTdyLUt0cktkNFdoNUs1cFZmbG91MmNyZVJYZHB4WmVuOGlsMWwyazVOUE03MFJnT3JlRjNNYlR1elBB?oc=5",
-          "category": "Retail",
-          "relevance_score": 9,
-          "original_publish_time": "2026-06-02T19:42:15+00:00",
-          "misaki_take": ""
-        },
-        {
-          "title": "OG Anunoby Gets A Skechers PE Inspired By Timberland Boots",
-          "source_name": "Sneaker News",
-          "source_url": "https://sneakernews.com/2026/06/05/og-anunoby-skechers-skx-reign-foreman-pe-nba-finals/",
-          "category": "Supply Chain",
-          "relevance_score": 7,
-          "original_publish_time": "2026-06-05T17:33:17+00:00",
-          "misaki_take": "A player-exclusive built on a culturally legible silhouette during a Finals run is as efficient as athlete marketing gets — limited production, maximum earned media, no need for a new last or new tooling investment. For Skechers' operations team, the real discipline is keeping PE volumes tight enough to protect scarcity while having the factory allocation ready to scale the commercial colorway the moment the cultural moment peaks."
-        },
-        {
-          "title": "Dolce & Gabbana x Diadora Rebuild the Brasil in Leopard-Print Pony Hair for a Football Boot and a Street Sneaker",
-          "source_name": "Hypebeast",
-          "source_url": "https://hypebeast.com/2026/6/dolce-gabbana-diadora-brasil-brasil-id-collaboration-collection-release-info",
-          "category": "Leather",
-          "relevance_score": 7,
-          "original_publish_time": "2026-06-04T07:58:14+00:00",
-          "misaki_take": "Pony hair on a football-heritage silhouette is a material specification that immediately bifurcates the supply chain — the Brasil's existing production line in Italy can handle the nappa upper with minimal retooling, but pony hair cutting, matching, and waste management require a specialist leather goods operator, not a standard footwear upper supplier. At the volumes a D&G collaboration commands, the unit economics are defensible, but any brand attempting to replicate this at higher quantities will encounter both tannery allocation constraints and a sharp BOM escalation."
-        },
-        {
-          "title": "House Lawmakers Fail to Pass BOOTS Act to Strengthen US Footwear Production - WWD",
-          "source_name": "Google News - Footwear Industry",
-          "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTGdUVG1RV1VHRWN2RkZfV0cyYkpqa2hfUUpjRjNoRV9aa2UxMUJNblYzdnQ1SzZKdFhUc2g3Z0QtcU1hRjhsVXhRYnFhVXFKN3BmeG52NlZRcnByWFF4ZmpyRVJUcG56Z2xzQXNhMV83VDY0cHdHOE56czI1X1IyZ2k5QW9mZ0R6TmlVbnJRVThtYzI4RjZJVkhsUnYxcTZGbVRrQ2Z6TTM1T2tmT1dWVmQ4Nmg?oc=5",
-          "category": "Manufacturing",
-          "relevance_score": 6,
-          "original_publish_time": "2026-06-05T21:52:06+00:00",
-          "misaki_take": "The BOOTS Act failure removes the one near-term policy mechanism that could have shifted domestic investment calculus for brands considering U.S. assembly or finishing operations, and the window for that conversation will not reopen quickly in this legislative environment. Brands that were using the bill as a justification to explore nearshore or domestic capacity should now treat that rationale as closed and redirect that capital planning energy toward Vietnam, Mexico, or Dominican Republic configurations that do not depend on Washington."
-        },
-        {
-          "title": "This beloved boot brand just launched a ballet sneaker that’s redefining summer footwear - MLive.com",
-          "source_name": "Google News - Sneaker Brand",
-          "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcFpZbDU5TnNBQ0d3bzg4TEhXZHphOHlsS2EyTHROXzFPeW5hanBzQklwaWZPczQ2alRQWEFWOTZYcmY3UnZiYklka01TVEE2aGVLWmpxX0hnN2ZVZVFiaVFKMzFVc3lkQmltdzBCc1FrQ2gwbU5YYnpRSzNmcWYtdTVrQTc0Z3M5UXVCV1o4WUh6Wi1WcXhpSVNtRUJsc05FWEhydm1fanU4UHVnV1RtdWdKTFdNekczUG5MWmptclM0UTJIRzkyUXp1QQ?oc=5",
-          "category": "Brand News",
-          "relevance_score": 6,
-          "original_publish_time": "2026-06-03T20:30:00+00:00",
-          "misaki_take": ""
-        },
-        {
-          "title": "The Paura x Vans Authentic Collab Boasts a Fresh Yet Rebellious Punk Appeal",
-          "source_name": "Hypebeast",
-          "source_url": "https://hypebeast.com/2026/6/paura-vans-authentic-collaboration-collection-release-info",
-          "category": "Brand News",
-          "relevance_score": 6,
-          "original_publish_time": "2026-06-03T10:00:36+00:00",
-          "misaki_take": "Vans' 60th anniversary collaboration slate is a deliberate exercise in proving the Authentic silhouette's design surface is not exhausted, which matters for the brand's long-term SKU rationalization argument to retail buyers. For Paura, the production reality is that Vans' established factory network in China and Vietnam handles the manufacturing with no incremental risk, meaning the designer captures creative equity at essentially zero supply chain exposure — which is the model every emerging footwear label should study."
         }
       ]
     }
