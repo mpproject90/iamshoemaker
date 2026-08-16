@@ -1,8 +1,52 @@
 {
-  "last_updated": "2026-08-16T05:27:12.985180+00:00",
-  "total_articles": 85,
+  "last_updated": "2026-08-16T11:35:36.512394+00:00",
+  "total_articles": 86,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "b359f6c9d1fa",
+      "title": "Vans’ Signature Skate Shoe Doesn’t Need To Reinvent The Wheel",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/vans-skate-rowan-z3/",
+      "original_publish_time": "2026-08-16T10:00:01+00:00",
+      "scraped_time": "2026-08-16T11:28:26.024482+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Vans"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "Vans’ Skate Rowan Z3 proves skate shoes still have plenty of room to evolve, combining skate-ready details with the effortless style of an everyday sneaker.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "6ae12f6dec98",
+      "title": "Air Jordan 8 \"Chrome\" Officially Set to Return for Fall 2026",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/8/air-jordan-8-chrome-305381-007-release-info",
+      "original_publish_time": "2026-08-15T23:21:28+00:00",
+      "scraped_time": "2026-08-16T11:20:18.607465+00:00",
+      "time_delta_mins": 0,
+      "category": "Quality",
+      "brands_mentioned": [
+        "Jordan"
+      ],
+      "keywords_matched": [
+        "midsole",
+        "sole",
+        "upper"
+      ],
+      "relevance_score": 6,
+      "summary": "Summary Jordan Brand is officially bringing back the beloved Air Jordan 8 \"Chrome\" more than a decade after its last retro runThe non-OG colorway features a high-quality black nubuck upper paired with chrome hardware on the strap buckles and midsoleThe silhouette officially arrives on August 29 for $215 USD at select retailers and SNKRS Name: Air Jordan 8 \"Chrome\"Colorway: Black/ChromeSKU: 305381-007MSRP: $215 USDRelease Date: August 29, 2026Where to Buy: NikeJordan Brand has officially announced the return of the Air Jordan 8 \"Chrome\" as part of its Fall 2026 lineup. The non-original colorway makes its long-awaited comeback more than ten years after its last reissue in 2015.Originally debuting in 2003, the \"Chrome\" colorway quickly built a dedicated cult following for its clean, versatile",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "58d8f615f911",
       "title": "With GORE-TEX & Vibram, Clarks' Slickest Sneaker Is an Unstoppable Force",
@@ -1763,26 +1807,6 @@
       ],
       "relevance_score": 3,
       "summary": "Featuring coveted PE pairs, past Protro releases and more.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "d987fce18d82",
-      "title": "Footwear industry is backbone of India’s economy: Union Minister Giriraj Singh | Akashvani News - News On AIR",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ29UaXZQZHFWUm1nX2FHV3h5VGlhdFRaX01vcllPcGc2bU5fRFdmR282RjQ1ZnkyTE9Ic0drOHQ2SjM3NkI5ZFI3eEZsRHUyaTI0LW15clpXMnJYcS15QmN6Qy0xR1NEbVd0QVp6b0taVXVkZXVYNUxsdHdlX2JFUGtKLUFXenJ6eVdxU1I5NF9ud2tPVTFLM3hwbmNZdHl4cFFZdQ?oc=5",
-      "original_publish_time": "2026-08-09T10:34:00+00:00",
-      "scraped_time": "2026-08-09T17:27:19.662193+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "footwear industry"
-      ],
-      "relevance_score": 6,
-      "summary": "Footwear industry is backbone of India’s economy: Union Minister Giriraj Singh | Akashvani News News On AIR",
       "ren_take": "",
       "image_url": ""
     }
