@@ -1,8 +1,90 @@
 {
-  "last_updated": "2026-08-17T05:31:15.308902+00:00",
-  "total_articles": 88,
+  "last_updated": "2026-08-17T11:36:54.251329+00:00",
+  "total_articles": 87,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "8c1f0a65e45d",
+      "title": "Lacoste highlights tennis heritage with new trainer campaign",
+      "source_name": "Retail Gazette",
+      "source_domain": "retailgazette.co.uk",
+      "source_url": "https://www.retailgazette.co.uk/blog/2026/08/lacoste-campaign/",
+      "original_publish_time": "2026-08-17T10:57:06+00:00",
+      "scraped_time": "2026-08-17T11:29:09.041979+00:00",
+      "time_delta_mins": 0,
+      "category": "Trade Data",
+      "brands_mentioned": [
+        "Lacoste"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Lacoste has unveiled a new campaign celebrating its tennis heritage. The marketing drive leads on from its Slam Break Premium campaign, which starred tennis player Arthur Fils. Showcasing the brand’s ‘Slam Break’ trainers , the spot swaps between the firm’s footwear atelier and the tennis court. It aims to highlight the retailer’s “creative approach to...",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "2a2908abc8b7",
+      "title": "Mothercare swings to FY loss as Middle East crisis, Boots exit weigh",
+      "source_name": "Just Style",
+      "source_domain": "just-style.com",
+      "source_url": "https://www.just-style.com/news/mothercare-2026-result-loss/",
+      "original_publish_time": "2026-08-17T09:35:11+00:00",
+      "scraped_time": "2026-08-17T11:25:55.723628+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 3,
+      "summary": "Mothercare has reported a sharp fall in FY26 sales after its Boots exit and disruption in its Middle Eastern markets.",
+      "ren_take": "",
+      "image_url": "https://www.just-style.com/wp-content/uploads/sites/27/2026/08/Mothercare-1.jpg"
+    },
+    {
+      "id": "e71cff3166c8",
+      "title": "Diana Taurasi x Nike LeBron 9 PE Set for First Public Release in 2027",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/8/diana-taurasi-nike-lebron-9-pe-jf7374-001-release-info",
+      "original_publish_time": "2026-08-17T06:56:40+00:00",
+      "scraped_time": "2026-08-17T11:26:06.427896+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "Summary Nike is releasing the Diana Taurasi LeBron 9 PE to the public for the first timeThe black and purple colorway honors Taurasi’s career with the Phoenix Mercury following her jersey retirementThe sneaker is expected to drop on February 19 2027 during NBA All-Star Weekend for $250 USD Name: Diana Taurasi x Nike LeBron 9 PEColorway: Black/Court Purple-StarfishSKU: JF7374-001MSRP: $130 USDRelease Date: February 19, 2027Where to Buy: NikeNike is digging back into its archives to officially release the LeBron 9 PE \"Diana Taurasi\" to the public for the first time. The player-exclusive colorway originally created for WNBA icon Diana Taurasi is set to make its retail debut during NBA All-Star Weekend in Phoenix.Dressed in a predominantly black upper, the silhouette incorporates purple accent",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "263a23518cd1",
+      "title": "adidas Debuts the Anthony Edwards 3 \"Bliss Blue\"",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/8/adidas-anthony-edwards-3-bliss-blue-kh8537-release-info",
+      "original_publish_time": "2026-08-17T06:50:33+00:00",
+      "scraped_time": "2026-08-17T11:26:06.426222+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "Summary adidas and Anthony Edwards have unveiled the upcoming Anthony Edwards 3 in a \"Bliss Blue\" colorwayThe third signature model features a breathable mesh upper paired with molded TPU side overlays and Hyperboost cushioningThe basketball silhouette is scheduled to launch on September 15 for a retail price of $130 USD Name: adidas Anthony Edwards 3 \"Bliss Blue\"Colorway: Bliss Blue/Sky Tint-Tech Grey MetallicSKU: KH8537MSRP: $130 USDRelease Date: September 15, 2026Where to Buy: adidasadidas has officially revealed the Anthony Edwards 3 \"Bliss Blue\", marking an early look at the guard’s third signature basketball sneaker.The model debuted on-foot during Edwards’ \"Believe That\" Tour stop in Manila ahead of its upcoming autumn launch.Constructed primarily with a lightweight mesh upper, the ",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "c3fb703630fa",
       "title": "Nike’s Mighty Hiking Sneaker Brings “Linen” to the Trails",
@@ -1739,112 +1821,6 @@
       ],
       "relevance_score": 5,
       "summary": "Name: New Balance 204L “Heron Blue”Colorway: Heron Blue/Vintage IndigoSKU: U204LSECMSRP: $120 USDRelease Date: 2026New Balance welcomes a two-tone “Heron Blue” colorway into its 204L series. The new variant gives the already retro-inspiredlifestyle sneaker an added touch of calm and nostalgia.Doused in a denim-like \"Heron Blue\" and \"Vintage Indigo\" palette, the sneaker is anchored by a breathable mesh foundation layered with premium suede and synthetic overlays. The titular “Heron Blue” colorway washes over the upper in a cool, muted aquatic tone, providing a refreshing yet understated visual effect.This vibrant but balanced blue is elegantly contrasted by crisp white \"N\" logo, complete with a plum-esque brown outsole that's reminiscent of the acid-washed, faded purple tint that’s often se",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "ccc472cfc522",
-      "title": "bPr BEAMS and SUBU Reunite for a Double-Anniversary Slipper Collection",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/8/subu-bpr-beams-50th-anniversary-cotton-duck-animal-sandals-fake-moutin-sandals-pre-order-release-info",
-      "original_publish_time": "2026-08-10T10:37:54+00:00",
-      "scraped_time": "2026-08-11T05:44:39.097583+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "insole",
-        "sandal",
-        "sole",
-        "upper"
-      ],
-      "relevance_score": 6,
-      "summary": "Name: SUBU x bPr BEAMS Cotton Duck Animal Sandals, Fake Mouton SlippersMSRP: ￥8,800 JPY (approx. $56 USD)Release Date: September 2026Where to Buy: BEAMSCelebrating a double milestone - SUBU’s 10th anniversary and BEAMS’ 50th anniversary - the two brands have reunited to launch a special commemorative footwear drop under the bPr BEAMS label. Scheduled to drop during the September 2026 release window, this first Animal Pattern lineup features a rugged cotton duck fabric upper, offered in three distinct prints: Leopard, Python and Tiger.The celebration continues with the Fake Mouton slippers, which draw inspiration from authentic winter mouton jackets. Slated for an October release, this silhouette features a padded and quilted upper, complemented by fluffy faux fur that envelops the insole o",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "9edab345ea8e",
-      "title": "A Complete Look at Suicoke’s FW26 “FIELD TEST” Footwear Collection",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/8/suicoke-fall-winter-2026-collection-field-test-lookbook-info",
-      "original_publish_time": "2026-08-10T09:31:06+00:00",
-      "scraped_time": "2026-08-10T11:47:04.549079+00:00",
-      "time_delta_mins": 0,
-      "category": "Quality",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 4,
-      "summary": "Name: Suicoke FW26 Collection “FIELD TEST”MSRP: ¥24,200 - ¥31,900 JPY (approx. $155 - $205 USD)Release Date: Available NowWhere to Buy: SuicokeFor Fall/Winter 2026, Suicoke revealed an array of footwear offerings with “FIELD TEST” as its guiding theme. True to its name, the campaign functions as an active stress test for the latest collection, showcasing how the utilitarian designs transition seamlessly between different real-world conditions. The lookbook captures the footwear in action, emphasizing a blend of rugged capability and refined street-style aesthetics, perfectly setting the stage for the brand's expansive autumn and winter rollout.Leading the collection’s initial drop is an elevated leather iteration of Suicoke’s classic MOTO silhouette, which replaces standard materials with ",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "18478bd13275",
-      "title": "Superdrug’s COO on its beauty playground “built solely around exploration”",
-      "source_name": "Retail Gazette",
-      "source_domain": "retailgazette.co.uk",
-      "source_url": "https://www.retailgazette.co.uk/blog/2026/08/superdrug-coo-beauty-playground/",
-      "original_publish_time": "2026-08-10T09:25:26+00:00",
-      "scraped_time": "2026-08-10T11:50:09.279881+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "sole"
-      ],
-      "relevance_score": 3,
-      "summary": "Superdrug recently celebrated the first birthday of its beauty playground concept by launching a series of new brands and products. The concept, which launched in July 2025 at the brand’s flagship Westfield Stratford London store, now forms a permanent feature in its leading destination stores and online. The concept serves as “a hub of beauty discovery”...",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "aa78c66d90bc",
-      "title": "HOKA Reissues the Tor Ultra Lo in Four Tonal Colorways",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/8/hoka-tor-ultra-lo-reissue-first-look-antique-olive-black-varsity-navy-archival-taupe-info",
-      "original_publish_time": "2026-08-10T08:51:50+00:00",
-      "scraped_time": "2026-08-10T11:47:04.551635+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Hoka",
-        "Vibram"
-      ],
-      "keywords_matched": [
-        "boot",
-        "midsole",
-        "outsole",
-        "sole",
-        "upper"
-      ],
-      "relevance_score": 9,
-      "summary": "Name: HOKA Tor Ultra LoMSRP: ¥38,500 JPY (approx. $243 USD)Release Date: 2026The HOKA Tor Ultra Lo is making its highly anticipated return, reissued in multiple colorways across staggered release windows from August through December 2026. The reissue features premium nubuck leather uppers, reinforced with durable nylon detailing and a GORE-TEX bootie structure for waterproof protection.A Vibram® Megagrip outsole ensures superior traction across urban and outdoor terrains, while the shoe’s robust midsole delivers comfort and stability. The Tor Ultra Lo retains its original rugged silhouette but is updated to fit seamlessly into modern lifestyle styling, balancing utilitarian function with design-forward aesthetics.Four confirmed colorways anchor the rollout. \"Antique Olive\" will be availabl",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "ddbc83e04af1",
-      "title": "Driving performance footwear Innovation - Knitting Industry",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5yZG40Z2MtOGh2TDlBU3VEUTVzd2hZbDR6Wl9Jc0V5dWc4bGljcUF6cDdkeEd5MnV6WDFaV292R19xSTh2TkZqQWtWSU8zbG5zbHg1YjY2WEItc1JHSFhGUTExZmdNVks1S2JwcmhPaFhiLWNScTZDeg?oc=5",
-      "original_publish_time": "2026-08-10T08:44:17+00:00",
-      "scraped_time": "2026-08-10T11:47:15.914106+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Driving performance footwear Innovation Knitting Industry",
       "ren_take": "",
       "image_url": ""
     }
