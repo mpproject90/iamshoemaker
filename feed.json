@@ -1,8 +1,132 @@
 {
-  "last_updated": "2026-08-17T17:33:26.591380+00:00",
+  "last_updated": "2026-08-17T23:36:39.736172+00:00",
   "total_articles": 87,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "dbf14ecf4523",
+      "title": "Asia accounts for 56% of global footwear consumption - World Footwear",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZk1ZTkl4RXB1OE9KY3RlenhVWXdKRjFJSko2WUt5eDNiNGFhbjM3S0JTc1VXTERkbDlTNDE0QVhMOW5CcjUyX1l3dUh1eW1TdXRPUU5FN2szLV84cGMwcmpycDM3TjE0dEZPdFJtVWRCS0Fqd0dUNjVKOXIwb0xnMWQzMVlLYUdNckZZTXNlSkwtcDk5ckR5dXU1V0loZw?oc=5",
+      "original_publish_time": "2026-08-17T23:00:44+00:00",
+      "scraped_time": "2026-08-17T23:26:09.148232+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Asia accounts for 56% of global footwear consumption World Footwear",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "c9dd50443002",
+      "title": "This Running Brand’s Final PUMA Drop Is HR-Approved",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/saysky-puma-collab/",
+      "original_publish_time": "2026-08-17T22:00:03+00:00",
+      "scraped_time": "2026-08-17T23:29:29.853150+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Puma"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "SAYSKY reveals its final PUMA collaboration featuring office-approved sneakers & clothes for around-the-clock runners.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "4b7a18139ec0",
+      "title": "Timberland Lopped the Top Off of Its Iconic 6-inch Boot to Make a Clog",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/timberland-6-inch-boot-clog-heritage-release-date-1239127266/",
+      "original_publish_time": "2026-08-17T20:32:06+00:00",
+      "scraped_time": "2026-08-17T23:25:47.254027+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Timberland"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 5,
+      "summary": "Four colorways include the essential \"Wheat\" treatment.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "0fde09eb8b56",
+      "title": "The Jordan Design Studio Searches For the Next LA Legend",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/the-jordan-design-studio-searches-for-the-next-la-legend/",
+      "original_publish_time": "2026-08-17T18:36:48+00:00",
+      "scraped_time": "2026-08-17T23:29:29.852374+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Jordan"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "In the pursuit for the next great footwear visionary, Jordan tapped six emerging creatives across Los Angeles, the city that known for legends, for the last stop on the U.S. leg of its exclusive workshop circuit.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "284f2b5e01fc",
+      "title": "Barefoot Brand Xero Shoes Taps Deckers, Allbirds Execs to Fuel Growth",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/xero-shoes-female-executive-hires-growth-1239127140/",
+      "original_publish_time": "2026-08-17T18:25:50+00:00",
+      "scraped_time": "2026-08-17T23:25:47.256963+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Allbirds"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 5,
+      "summary": "The hires come as the company continues to build global momentum across direct-to-consumer, wholesale and distributors.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "b320f72dbad3",
+      "title": "How a Cancelled Fugazi x Vans Collab Led to $5 USD Shoes",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/8/fugazi-vans-5-dollar-shoe-drop-release-info",
+      "original_publish_time": "2026-08-17T17:39:50+00:00",
+      "scraped_time": "2026-08-17T23:25:57.883874+00:00",
+      "time_delta_mins": 0,
+      "category": "Quality",
+      "brands_mentioned": [
+        "Vans"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 5,
+      "summary": "SummaryVans canceled its Fugazi streetwear collaboration following backlash from fans of the anti-consumerist punk band of the same name.Despite the cancellation, the clothing label discreetly released the controversial shoes for $5 at its stores, drawing massive crowds.When Fugazi x Vans was first teased at Paris Fashion Week in June, it drummed up major excitement from the streetwear label's dedicated fans. However, it wasn't long until people began to draw comparisons between the brand name and the famous punk band Fugazi, ultimately leading to the partnership's cancellation.The controversy peaked in July when the band's drummer, Brendan Canty, publicly criticized the clothing brand as \"horrendous\" and called the collaboration \"tone deaf\". In response to the uproar, Vans executive Steve",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "edfae7aaf961",
       "title": "Air Jordan 12 “Sumo” Releasing Exclusively In Japan",
@@ -84,6 +208,25 @@
       ],
       "relevance_score": 4,
       "summary": "Name: Margaret Howell x Mizuno V2 GORE-TEX Hiking ShoesColorway: Light GraySKU: TBCMSRP: ¥33,000 JPY (approx. $207 USD)Release Date: Available NowWhere to Buy: Margaret HowellThe ongoing collaboration between Margaret Howell and Mizuno continues to merge elevated, modern aesthetics with high-performance sportswear, introducing an updated iteration of the V2 GORE-TEX Hiking Shoes. For Fall 2026, the minimalist sneaker is refreshed in a beautifully nuanced \"Light Grey\" colorway, offering a sleek, sophisticated finish that effortlessly complements a variety of wardrobes.Designed to tackle unpredictable elements, the upper is constructed with advanced GORE-TEX fabric. This functional material provides exceptional waterproof protection to keep rain out, while maintaining high breathability by a",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "46b0c60582a7",
+      "title": "EXEC: Running Still Remains Footwear’s Hot Category This Year - SGB Media Online",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPODZuUWpuVWxhWHZtdUhPX0NSVXN6TGtfSml2c1ZJcVJnbVIwZzFCRGxScG5fQjVvc01vUXNwLVZnSVhzNTdkQ1VKNGVUN0w0ZVJmY1E0SC15bTN6SWg5X3E1bm1YMzFnMUxEbElCT2szQjJ3Y3dxRENySmpnRzVWdGFGS19wQlRQWVMwTXZ0b0M3UDg?oc=5",
+      "original_publish_time": "2026-08-17T11:30:23+00:00",
+      "scraped_time": "2026-08-17T23:26:09.149220+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "EXEC: Running Still Remains Footwear’s Hot Category This Year SGB Media Online",
       "ren_take": "",
       "image_url": ""
     },
@@ -1679,150 +1822,6 @@
       ],
       "relevance_score": 5,
       "summary": "Summary Tyrese Maxey's debut signature sneaker with New Balance is officially set for a retail releaseThe low-cut silhouette incorporates design language from the 9060 and 2002 alongside a two-piece plate systemThe debut black and blue colorway will launch on October 2 for $130 USD New Balance has officially unveiled the Maxey V1, marking the debut signature performance basketball sneaker for Philadelphia 76ers star Tyrese Maxey. The model transitions from its initial on-court debut during the 2026 NBA Playoffs to a full commercial release.The Maxey V1 integrates performance technology with New Balance's lifestyle aesthetic. Drawing structural cues from the 9060, the low-cut silhouette incorporates wavy paneling across the upper, a sculpted midsole, and a contoured heel shape. The lacing s",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "2990e2bbce93",
-      "title": "Pokémon and Crocs Unveil the Classic Clog \"Poké Ball\" for 30th Anniversary",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/8/pokemon-crocs-classic-clog-poke-ball-212064-90h-release-info",
-      "original_publish_time": "2026-08-10T22:58:44+00:00",
-      "scraped_time": "2026-08-11T11:43:05.767435+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Crocs"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Summary Crocs and Pokémon have partnered to release a Classic Clog inspired by the iconic \"Poké Ball\"The footwear features custom Jibbitz charms of Pikachu Eevee and Psyduck alongside a metallic logo heel strapThe collection drops on August 28 in full family sizing with prices ranging from $50 to $70 USD Name: Pokémon x Crocs Classic Clog \"Poké Ball\"Colorway: White/RedSKU: 212064-90HRetail Price: $70 USDRelease Date: August 28, 2026Where to Buy: CrocsCrocs and Pokémon have officially partnered to unveil the Classic Clog \"Poké Ball\" as part of the franchise’s 30th-anniversary celebration. The joint footwear offering translates the iconic red-and-white sphere into a wearable silhouette releasing in full family sizing.The design borrows directly from the Poké Ball's signature color blocking, ",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "74cc044e4981",
-      "title": "Aimé Leon Dore and New Balance’s First Performance Running Shoes Are Getting a Restock",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/aime-leon-dore-new-balance-rebel-super-comp-elite-v5-1239100167/",
-      "original_publish_time": "2026-08-10T21:32:34+00:00",
-      "scraped_time": "2026-08-10T23:37:46.071919+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "New Balance"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 5,
-      "summary": "Tasteful takes for training and racing.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "d00f00a85bfe",
-      "title": "Four Takeaways From Footwear Earnings Season So Far",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/fashion-cycle-footwear-sneaker-sales-under-armour-adidas-1239100097/",
-      "original_publish_time": "2026-08-10T21:23:59+00:00",
-      "scraped_time": "2026-08-10T23:37:46.074725+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "A new fashion cycle's buzzy for footwear, but that could hurt sneaker sales.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "a666c8d998d3",
-      "title": "Nike's Sleekest Sneaker Has Its Own Sport Tires",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-first-sight-noir-bright-crimson/",
-      "original_publish_time": "2026-08-10T21:20:25+00:00",
-      "scraped_time": "2026-08-10T23:41:30.431417+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "sole",
-        "upper"
-      ],
-      "relevance_score": 4,
-      "summary": "Nike's First Sight Noir \"Bright Crimson\" is a hot ride with black uppers & bright red soles packing plenty of tread.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "20db10cd46e9",
-      "title": "The Best New Balance Sneakers of 2026 (So Far) - Gear Patrol",
-      "source_name": "Google News - Sneaker Brand",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcUtSYkFKaVhLTDBYLVRMeGloU3lidU5YejRvVGhmZWdSRkdod0ZJZTl3UzN3N09IYWxyOUhJZ0M3ekU0LVpjaW9oU2RIN2pKYVZmal9PcWkxeDltMXdsbDNFRXJIbmg2UERURTNEUEFSeHBrVWpTUXM1S0JSbkxHY1JBY2xTa2FQZVRJcQ?oc=5",
-      "original_publish_time": "2026-08-10T21:06:25+00:00",
-      "scraped_time": "2026-08-15T17:16:54.974016+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "New Balance"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 5,
-      "summary": "The Best New Balance Sneakers of 2026 (So Far) Gear Patrol",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "aadbf0d91b9c",
-      "title": "The New Balance 1890 Embraces Calm White And Black",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/08/10/new-balance-1890-white-black-u189032l/",
-      "original_publish_time": "2026-08-10T20:30:37+00:00",
-      "scraped_time": "2026-08-10T23:37:56.642118+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "New Balance"
-      ],
-      "keywords_matched": [
-        "sole"
-      ],
-      "relevance_score": 3,
-      "summary": "Much the same way that the 860v2 sole unit became a defining piece of tech for New Balance’s resurgence, boosting the 2002R and 1906R to... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The New Balance 1890 Embraces Calm White And Black appeared first on Sneaker News . The post The New Balance 1890 Embraces Calm White And Black appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "e66fd0b0f3e2",
-      "title": "Lack of Demand for High-Heat Sneaker Styles Could Spark Concern for Jordan and More Big Brands",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/sneakerhead-market-summer-2026-demand-falling-1239099260/",
-      "original_publish_time": "2026-08-10T17:40:35+00:00",
-      "scraped_time": "2026-08-10T17:48:12.465650+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Jordan"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "Some discounts on new Jordan Brand retros in the resale market suggest a demand issue, with eyes now on \"high heat\" launches in August for back-to-school.",
       "ren_take": "",
       "image_url": ""
     }
