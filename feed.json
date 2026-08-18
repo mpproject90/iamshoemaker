@@ -1,8 +1,112 @@
 {
-  "last_updated": "2026-08-18T17:32:24.843710+00:00",
-  "total_articles": 94,
-  "sources_checked": 54,
+  "last_updated": "2026-08-18T23:35:39.117638+00:00",
+  "total_articles": 96,
+  "sources_checked": 60,
   "articles": [
+    {
+      "id": "0817b267a12b",
+      "title": "Even Nike’s Beautifully Beefy Hiking Shoe Has Its Grey Days",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-acg-zegama-hike-photon-dust/",
+      "original_publish_time": "2026-08-18T21:22:51+00:00",
+      "scraped_time": "2026-08-18T23:28:29.902942+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 3,
+      "summary": "Nike's ACG Zegema Hike lands in a new \"Photon Dust\" colorway, resulting in a clean grey version of the extra-tough sneaker-boot.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "59d81d2c5f4f",
+      "title": "A$AP Rocky Put Vibram Tires on His All-New PUMA Ride",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/asap-rocky-puma-straycat-sneakers/",
+      "original_publish_time": "2026-08-18T21:18:59+00:00",
+      "scraped_time": "2026-08-18T23:28:29.903793+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Puma",
+        "Vibram"
+      ],
+      "keywords_matched": [
+        "sole"
+      ],
+      "relevance_score": 5,
+      "summary": "After casual on-stage teases, A$AP Rocky's PUMA Vibram-soled Straycat sneaker officially lands. Here's everything on the debut.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "a546b6821734",
+      "title": "Nike’s Eccentric Foamposite Tennis Crossover Is Ready to Serve Again",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-vapor-x-posite-sneakers/",
+      "original_publish_time": "2026-08-18T21:14:30+00:00",
+      "scraped_time": "2026-08-18T23:28:29.904503+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "Nike revives the Vapor x Posite sneaker, a tennis model with the Foamposite's futuristic upper. Here's everything on the reborn crossover.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "0880f6579b28",
+      "title": "The New Balance 1890A Softens Up In Pink",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/08/18/new-balance-1890a-loafer-pink-u18901t0/",
+      "original_publish_time": "2026-08-18T20:30:27+00:00",
+      "scraped_time": "2026-08-18T23:24:55.956501+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "New Balance"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "The instigators of the sneaker-loafer trend have done it again with the New Balance 1890A, another experimental hybrid featuring a moc toe upper built on... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The New Balance 1890A Softens Up In Pink appeared first on Sneaker News . The post The New Balance 1890A Softens Up In Pink appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "284202444b9b",
+      "title": "The Atlanta Shoe Market Trend Report: Spring 2027 Will Be All About Mary Janes, Mules & Ballet Sneakers",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-trends/spring-2027-trend-preview-atlanta-shoe-market-1239128306/",
+      "original_publish_time": "2026-08-18T18:39:15+00:00",
+      "scraped_time": "2026-08-18T23:24:45.050137+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "There was an unmissable emphasis on comfort and femininity in the women’s collections.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "0efac7e21ece",
       "title": "The Minty Samba Mary Jane Is adidas’ Late-Summer Crochet Hit",
@@ -1906,65 +2010,6 @@
       ],
       "relevance_score": 5,
       "summary": "Name: NEIGHBORHOOD x Sanders Brit Chukka BootColorway: Black, BrownSKU: 261GLSDN-FW01SMSRP: $808 USDRelease Date: August 15Where to Buy: NEIGHBORHOODNEIGHBORHOOD and Sanders have reunited for their third collaborative offering. Based on Sanders’ classic Brit Chukka silhouette, this new iteration is crafted from premium cow leather, waxed for durability, complete with a polished finish. It comes with a protective mudguard construction that reinforces its utilitarian edge, while the robust sole unit ensures long-lasting wear.Releasing in classic black and brown colorways, the design maintains a refined profile but introduces subtle streetwear cues that distinguish it from the original heritage model. Branding is understated yet intentional. The toe is stamped with NEIGHBORHOOD’s signature “F",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "8443b1fca805",
-      "title": "Fall 2026 Boots Are Going Full Reptile",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-trends/fall-2026-reptilian-boot-trend-1239106164/",
-      "original_publish_time": "2026-08-11T20:35:41+00:00",
-      "scraped_time": "2026-08-11T23:43:08.028819+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 3,
-      "summary": "From luxury runway presentations to celebrity red carpets, snakeskin, croc and other wild textures are poised to slither into the spotlight this fall.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "c2fbedc665d8",
-      "title": "Size? Teases Checkered New Balance 204L Collaboration",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/08/11/size-new-balance-204l/",
-      "original_publish_time": "2026-08-11T19:30:37+00:00",
-      "scraped_time": "2026-08-11T23:43:18.647289+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "New Balance",
-        "Keen"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "Boho-chic is the “it” aesthetic of the summer, anchored by thrifted Coach bags, animal print everything, patchwork jeans, and much, much more. Demonstrating a keen... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Size? Teases Checkered New Balance 204L Collaboration appeared first on Sneaker News . The post Size? Teases Checkered New Balance 204L Collaboration appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "9fd337173053",
-      "title": "Up There Looks To The ASICS GEL-Kayano 20 For Fifth Chapter In Partnership",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/08/11/up-there-asics-gel-kayano-20-1203b288-750/",
-      "original_publish_time": "2026-08-11T18:30:19+00:00",
-      "scraped_time": "2026-08-11T23:43:18.649095+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "New Balance",
-        "ASICS"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "Up There has established itself as one of the more reliable collaborators out of Oceania, working out stunners like their blue/pink New Balance 860v2 and... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Up There Looks To The ASICS GEL-Kayano 20 For Fifth Chapter In Partnership appeared first on Sneaker News . The post Up There Looks To The ASICS GEL-Kayano 20 For Fifth Chapter In Partnership appeared first on Sneaker News .",
       "ren_take": "",
       "image_url": ""
     }
