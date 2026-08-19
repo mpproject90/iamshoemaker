@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T23:35:39.117638+00:00",
+  "last_updated": "2026-08-19T05:28:57.377291+00:00",
   "total_articles": 96,
   "sources_checked": 60,
   "articles": [
@@ -316,6 +316,30 @@
       "keywords_matched": [],
       "relevance_score": 3,
       "summary": "Nike has created a full-fledged weatherproofed tank with the arrival of the Nike Air Force 1 Mid '07 GORE-TEX Vibram Black/Smoke Grey.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "cb852ab6451a",
+      "title": "Carnan and ASICS Reunite for a Purple-Draped GEL-CUMULUS 16",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/8/carnan-asics-gel-cumulus-16-path-ii-release-info",
+      "original_publish_time": "2026-08-18T11:42:29+00:00",
+      "scraped_time": "2026-08-19T05:18:08.842976+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [
+        "ASICS"
+      ],
+      "keywords_matched": [
+        "insole",
+        "outsole",
+        "sole",
+        "upper"
+      ],
+      "relevance_score": 6,
+      "summary": "Name: Carnan x ASICS GEL-CUMULUS 16 “Path II”Colorway: “Path II”SKU: TBCMSRP: TBCRelease Date: August 19Where to Buy: Carnan, ASICS BrazilFollowing up on the success of their inaugural partnership back in 2024, Brazilian label Carnan and ASICS have reunited to unveil the second chapter of their collaborative \"Path\" project.The Carnan x ASICS GEL-CUMULUS 16 “Path II” sneaker retains the black base and outsole from the original “Path” silhouette to symbolize stability, while introducing new layers of meaning through its core color palette. A deep, muted purple hue now dominates the upper, representing the flourishing of the partnership and echoing Carnan’s creative DNA, while green accents highlight ongoing transformation. A brown insole connects back to the roots of the collaboration, reinf",
       "ren_take": "",
       "image_url": ""
     },
@@ -1989,27 +2013,6 @@
       ],
       "relevance_score": 4,
       "summary": "Crocs pony hair clog comes with a full cowhide upper & a GOATed Odessa A'zion co-sign. Holy cow.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "5ff625b7a99d",
-      "title": "NEIGHBORHOOD Brings Attitude to Sanders’ Classic Brit Chukka Boots",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/8/neighborhood-sanders-brit-chukka-brown-black-261glsdn-fw01s-collaboration-release-info",
-      "original_publish_time": "2026-08-12T04:50:18+00:00",
-      "scraped_time": "2026-08-12T06:06:12.821475+00:00",
-      "time_delta_mins": 0,
-      "category": "Quality",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "boot",
-        "lasting",
-        "sole"
-      ],
-      "relevance_score": 5,
-      "summary": "Name: NEIGHBORHOOD x Sanders Brit Chukka BootColorway: Black, BrownSKU: 261GLSDN-FW01SMSRP: $808 USDRelease Date: August 15Where to Buy: NEIGHBORHOODNEIGHBORHOOD and Sanders have reunited for their third collaborative offering. Based on Sanders’ classic Brit Chukka silhouette, this new iteration is crafted from premium cow leather, waxed for durability, complete with a polished finish. It comes with a protective mudguard construction that reinforces its utilitarian edge, while the robust sole unit ensures long-lasting wear.Releasing in classic black and brown colorways, the design maintains a refined profile but introduces subtle streetwear cues that distinguish it from the original heritage model. Branding is understated yet intentional. The toe is stamped with NEIGHBORHOOD’s signature “F",
       "ren_take": "",
       "image_url": ""
     }
