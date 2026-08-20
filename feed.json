@@ -1,8 +1,27 @@
 {
-  "last_updated": "2026-08-20T17:36:08.192756+00:00",
-  "total_articles": 99,
-  "sources_checked": 60,
+  "last_updated": "2026-08-20T23:38:50.009012+00:00",
+  "total_articles": 96,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "cd53ff906ccf",
+      "title": "Brazil posts first trade deficit in footwear since 1997 - World Footwear",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeWc3cG5HVU00UHlhMDQ1SHkxS3hEbTFCN2Z2NGVSS0N3bGN3TGJaVVNkRUNuUGt5X29SWGp5QlE2MEpwQnRJaThhQ3V5TkN4VnBKWEFSRHl6aDBPdGljOWwtaS1Dekd3WFlMaTZBLVhpbXBOXzZQT2tieEt0WkxZZUdRU0doZUdYNWZtTjBkXzlQMmFvbkI1WkdFbHZUUmZKSUFB?oc=5",
+      "original_publish_time": "2026-08-20T23:03:41+00:00",
+      "scraped_time": "2026-08-20T23:28:10.378482+00:00",
+      "time_delta_mins": 0,
+      "category": "Trade Data",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Brazil posts first trade deficit in footwear since 1997 World Footwear",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "907abc50d7e1",
       "title": "Nike And Taller De Rafa Step Into The Body Shop With The Goadome Low",
@@ -1972,92 +1991,6 @@
       ],
       "relevance_score": 5,
       "summary": "The Nike Dunk Low Retro \"Soft Pearl Cream\" dazzles with a clean, minimalist look built for everyday, in an all-white premium leather with subtle grey details.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "3c1cd9ec0d79",
-      "title": "The Jordan Design Studio Reimagines an Icon in the Windy City",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/jordan-design-studio-chi/",
-      "original_publish_time": "2026-08-13T21:40:19+00:00",
-      "scraped_time": "2026-08-13T23:52:48.982384+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Jordan"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Searching for the next great footwear storyteller, Jordan tapped six emerging creatives in Chicago, the city that helped start it all, for the first stop on the U.S. leg of its exclusive workshop circuit.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "005ba41ff5aa",
-      "title": "The Nike Tennis Classic Alludes To Being A Pet Favorite With The “Chew Dog” Pack",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/08/13/nike-tennis-classic-chew-dog-pack/",
-      "original_publish_time": "2026-08-13T20:00:09+00:00",
-      "scraped_time": "2026-08-13T23:44:28.440557+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "The “dog ate my homework” routine is the oldest trick in the book. The “dog ate my shoes” incident is one you’ll see nearly every... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Nike Tennis Classic Alludes To Being A Pet Favorite With The “Chew Dog” Pack appeared first on Sneaker News . The post The Nike Tennis Classic Alludes To Being A Pet Favorite With The “Chew Dog” Pack appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "59dd3ca03686",
-      "title": "How Wolverine CEO Chris Hufnagel Plans to Keep the Good Times Rolling at Merrell and Saucony",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/wolverine-outdoor-lifestyle-merrell-saucony-global-growth-1239123499/",
-      "original_publish_time": "2026-08-13T19:33:25+00:00",
-      "scraped_time": "2026-08-13T23:44:17.385389+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Merrell",
-        "Wolverine"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 4,
-      "summary": "Outdoor lifestyle is one area of growth for the Merrell brand, while Saucony is a \"global growth story.\"",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "422ff6d64d5c",
-      "title": "Born X Raised and Vans Unveil the Authentic 44 Collection for SS27",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/8/born-x-raised-vans-authentic-44-collection-mexico-city-ss27-revealed",
-      "original_publish_time": "2026-08-13T19:00:08+00:00",
-      "scraped_time": "2026-08-14T11:43:12.406357+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Vans"
-      ],
-      "keywords_matched": [
-        "midsole",
-        "shoes",
-        "sole",
-        "upper"
-      ],
-      "relevance_score": 6,
-      "summary": "Born X Raised and Vans have officially previewed their upcoming Born X Raised x Vans Authentic 44 collection. The forthcoming collaborative pack follows an exclusive community event at House of Vans Mexico City where a 50-pair Friends and Family edition was initially revealed.Designed by Born X Raised co-founder Alex “2Tone” Erdmann, the upcoming retail iteration translates the hand-sketched aesthetic seen on the Mexico City exclusive across white, black, and blue colorways previewed during Paris Fashion Week. The shoes feature distressed canvas, scuffed edges, and yellowed midsoles to achieve a worn-in appearance. Pen-style illustrations cover the uppers, detailing brick wall patterns around the toe and heel alongside spiders, webs, teardrops, \"OFF THE WALL\" typography, and paint splatter",
       "ren_take": "",
       "image_url": ""
     }
