@@ -1,8 +1,92 @@
 {
-  "last_updated": "2026-08-21T11:37:22.283171+00:00",
+  "last_updated": "2026-08-21T17:34:48.624396+00:00",
   "total_articles": 92,
-  "sources_checked": 61,
+  "sources_checked": 60,
   "articles": [
+    {
+      "id": "33e7bd50da36",
+      "title": "Your Next Rain-Ready Footwear Favorite Has Finally Arrived With the SOREL Ambler Mule",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/8/sorel-ambler-mule",
+      "original_publish_time": "2026-08-21T15:33:31+00:00",
+      "scraped_time": "2026-08-21T17:23:58.747103+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "boot",
+        "footwear",
+        "upper"
+      ],
+      "relevance_score": 5,
+      "summary": "The slip-on culture has fully taken over modern footwear, but SOREL just stepped into the arena with a move that feels equal parts heritage flex and tactical upgrade. Enter the Ambler—a low-profile mule that takes the unmistakable design DNA of SOREL’s legendary Canadian Caribou boot and transforms it into a lightweight, year-round staple. Debuting for Fall ’26 at an accessible $130 price point, the silhouette bridges the gap between heavy-duty utility and clean, high-street design. It’s a category-defying release that proves heavyweight, winter-ready protection can seamlessly translate into a sleek, daily mule.Don't let the open-back entry fool you; the Ambler is built to handle the elements with serious authority. Constructed with a premium waterproof nubuck upper and a protective leathe",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "9360f37ab519",
+      "title": "Hoka Revamps One of Its Most Democratic Running Shoes as an Out-and-out Lifestyle Sneaker",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/hoka-clifton-utl-lifestyle-sneaker-1239145238/",
+      "original_publish_time": "2026-08-21T14:59:54+00:00",
+      "scraped_time": "2026-08-21T17:23:48.225139+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Hoka"
+      ],
+      "keywords_matched": [
+        "shoes",
+        "sole",
+        "upper"
+      ],
+      "relevance_score": 7,
+      "summary": "The Clifton Utl features an exoskleton upper and a sole unit from earlier in the series.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "b8cbb57a5c27",
+      "title": "Meet Homies, the Independent Portugal Based Shoe Brand Finding Its Footing in the U.S.",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-features/homies-independent-footwear-rapid-growth-u-s-1239145494/",
+      "original_publish_time": "2026-08-21T14:07:16+00:00",
+      "scraped_time": "2026-08-21T17:23:48.227511+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoe brand"
+      ],
+      "relevance_score": 3,
+      "summary": "The label has established U.S. fulfillment as America becomes its largest market, with sales expected to approach half of its total business by year-end.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "6d92f2bc5dcf",
+      "title": "Birkenstock production network capacity expansion on track to meet 2027 target",
+      "source_name": "Supply Chain Dive",
+      "source_domain": "supplychaindive.com",
+      "source_url": "https://www.supplychaindive.com/news/birkenstock-production-network-capacity-expansion-on-track-to-meet-2027-tar/828290/",
+      "original_publish_time": "2026-08-21T11:26:00+00:00",
+      "scraped_time": "2026-08-21T17:26:53.417905+00:00",
+      "time_delta_mins": 0,
+      "category": "Manufacturing",
+      "brands_mentioned": [
+        "Birkenstock"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "The footwear maker’s plans include enlarging and refitting plants in Germany while also extending a factory in Portugal.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "cd53ff906ccf",
       "title": "Brazil posts first trade deficit in footwear since 1997 - World Footwear",
@@ -19,6 +103,25 @@
       ],
       "relevance_score": 3,
       "summary": "Brazil posts first trade deficit in footwear since 1997 World Footwear",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "1f2bcb5e517b",
+      "title": "I Write About Sneakers for a Living — These Are My Favorite Pairs of 2026 - TODAY.com",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBrTnk3bmNGS2FRSmJIaF9aeHptSEI3V1R2RGllS3BOdm8ycUxiTFpIQ2lRSUFUOTRlWVB1UWY4ekowQ2tHNGpmd29jaW95Mm81eXJISkw2Ym5MbkR5OTZ3SUN0dTZScjA?oc=5",
+      "original_publish_time": "2026-08-20T19:22:31+00:00",
+      "scraped_time": "2026-08-21T17:24:10.279492+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "I Write About Sneakers for a Living — These Are My Favorite Pairs of 2026 TODAY.com",
       "ren_take": "",
       "image_url": ""
     },
@@ -1804,110 +1907,6 @@
       ],
       "relevance_score": 3,
       "summary": "O. Files debuts its adidas Origiami BW Army sneaker featuring pleated leather uppers. Here's how to score a pair.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "331744b636ee",
-      "title": "mfpen Strips The Logo Off The New Balance 992 For Its First Sneaker Collaboration",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/08/14/mfpen-new-balance-992/",
-      "original_publish_time": "2026-08-14T16:30:59+00:00",
-      "scraped_time": "2026-08-14T17:49:17.493355+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "New Balance"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "If you’re as equally invested in fashion in general as you are with footwear, New Balance is dropping the collaboration for you. Sigurd Bank’s mfpen,... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post mfpen Strips The Logo Off The New Balance 992 For Its First Sneaker Collaboration appeared first on Sneaker News . The post mfpen Strips The Logo Off The New Balance 992 For Its First Sneaker Collaboration appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "5205e2860123",
-      "title": "LaMelo Ball’s PUMA MB.06 Forecasts A “Shooting Star”",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/08/14/puma-mb-06-shooting-star-313624-01/",
-      "original_publish_time": "2026-08-14T14:30:51+00:00",
-      "scraped_time": "2026-08-14T17:49:17.497233+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Puma"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "New team, new sneakers. LaMelo Ball’s Minnesota Timberwolves era begins with the PUMA MB.06, his sixth shoe in seven years set to roll out in... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post LaMelo Ball's PUMA MB.06 Forecasts A \"Shooting Star\" appeared first on Sneaker News . The post LaMelo Ball’s PUMA MB.06 Forecasts A “Shooting Star” appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "dc49e17c0b67",
-      "title": "Zendaya’s 12-year-old Gladiator Sandals Took a Last-minute Instagram Search to Find",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-trends/zendaya-sophia-webster-gladiator-sandals-instagram-search-1239124577/",
-      "original_publish_time": "2026-08-14T14:18:43+00:00",
-      "scraped_time": "2026-08-14T17:49:06.961625+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "sandal"
-      ],
-      "relevance_score": 3,
-      "summary": "With no time to make a new pair for “The Odyssey” press tour, designer Sophia Webster asked her followers to help fulfill Law Roach’s request.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "d82e866c3cc1",
-      "title": "Phoenix Kothari Plans Rs 1,000-Cr Footwear Plant in Tamil Nadu",
-      "source_name": "Apparel Resources",
-      "source_domain": "apparelresources.com",
-      "source_url": "https://apparelresources.com/business-news/manufacturing/phoenix-kothari-plans-rs-1000-cr-footwear-plant-tamil-nadu/",
-      "original_publish_time": "2026-08-14T13:36:48+00:00",
-      "scraped_time": "2026-08-14T17:53:11.314525+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Kothari Industrial Corporation Ltd, through its associate company Phoenix Kothari Footwear Ltd, has proposed an investment of approximately Rs 1,000 crore (US $104.79 million) to establish a non-leather footwear manufacturing facility in Mananthapuram District, Tamil Nadu. The company intends to execute a Memorandum of Understanding (MoU) with Guidance, Government of Tamil Nadu, for the project. […] The post Phoenix Kothari Plans Rs 1,000-Cr Footwear Plant in Tamil Nadu appeared first on Apparel Resources .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "f665ca129795",
-      "title": "Take a First Look at the mfpen x New Balance 992 Sneaker",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/8/mfpen-new-balance-992-first-look-info",
-      "original_publish_time": "2026-08-14T13:19:50+00:00",
-      "scraped_time": "2026-08-14T17:49:17.341455+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "New Balance",
-        "Off-White"
-      ],
-      "keywords_matched": [
-        "midsole",
-        "sole",
-        "upper"
-      ],
-      "relevance_score": 6,
-      "summary": "Name: mfpen x New Balance 992SKU: TBCRelease Date: March 2027Making its first appearance during Copenhagen Fashion Week, the mfpen x New Balance 992 sneaker was unveiled as part of the Danish label’s Spring/Summer 2027 runway presentation.Rooted in the classic Made in USA 992 silhouette originally launched in 2006, the collaborative sneaker merges mfpen's penchant for minimalist, subverted tailoring with New Balance's heritage craftsmanship and advanced ABZORB SBS cushioning technology. The upper features a muted palette of grey suede and mesh, accented with tonal overlays that emphasize the silhouette’s layered construction. A subtle contrast is introduced through off-white midsoles and reflective detailing, balancing understated luxury with functional performance. Expected to launch in M",
       "ren_take": "",
       "image_url": ""
     }
