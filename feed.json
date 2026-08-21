@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-20T23:38:50.009012+00:00",
+  "last_updated": "2026-08-21T05:32:24.930796+00:00",
   "total_articles": 96,
-  "sources_checked": 61,
+  "sources_checked": 60,
   "articles": [
     {
       "id": "cd53ff906ccf",
@@ -80,6 +80,27 @@
       ],
       "relevance_score": 3,
       "summary": "Drapers Ecco appoints chief commercial and chief product officers Denmark-based footwear brand Ecco has made two appointments to its senior leadership team. The post Ecco appoints chief commercial and chief product officers appeared first on Drapers .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "9ffc3cf3826b",
+      "title": "ASICS Debuts the GEL-KINETIC FR in a Duo of Two-Tone Colorways",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/8/asics-gel-kinetic-fr-debut-cocoa-powder-champagne-1203b051-200-black-pure-silver-1203b051-001-release-info",
+      "original_publish_time": "2026-08-20T11:01:14+00:00",
+      "scraped_time": "2026-08-21T05:20:27.502466+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "ASICS"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "Name: ASICS GEL-KINETIC FR “Cocoa Powder” & “Black”Colorway: Cocoa Powder/Champagne, Black/Pure SilverSKU: 1203B051-200, 1203B051-001MSRP: TBCRelease Date: August 21Where to Buy: ASICSASICS is debuting the GEL-KINETIC FR sneaker, a progressive new everyday model that draws heavily from the brand's early-2000s running archive. Coming in two colorways - \"Cocoa Powder/Champagne\" and \"Black/Pure Silver\" - the silhouette features a feather-light construction that wraps closer to the foot, creating a streamlined, fluid profile. A reworked synthetic quarter panel gives the layered, technical upper a cleaner look.Underfoot, the shoe features an evolved cushioning system inspired by the GEL-KINETIC 2.0, incorporating Scutoid GEL technology with pods positioned directly beneath the heel for enhanced",
       "ren_take": "",
       "image_url": ""
     },
@@ -1970,27 +1991,6 @@
       ],
       "relevance_score": 3,
       "summary": "Drapers Birkenstock sales accelerate in third quarter German footwear company Birkenstock has reported a 13% rise in revenue to €720m (£615m) during the third quarter to 30 June 2026. The post Birkenstock sales accelerate in third quarter appeared first on Drapers .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "4c363a87ef95",
-      "title": "These Pearl-Hued Nike Dunks Are the Unassuming Jewels of Footwear",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-dunk-low-retro-soft-pearl-cream/",
-      "original_publish_time": "2026-08-14T03:34:00+00:00",
-      "scraped_time": "2026-08-14T06:14:41.387273+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 5,
-      "summary": "The Nike Dunk Low Retro \"Soft Pearl Cream\" dazzles with a clean, minimalist look built for everyday, in an all-white premium leather with subtle grey details.",
       "ren_take": "",
       "image_url": ""
     }
