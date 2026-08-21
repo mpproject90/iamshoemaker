@@ -1,8 +1,177 @@
 {
-  "last_updated": "2026-08-21T17:34:48.624396+00:00",
+  "last_updated": "2026-08-21T23:37:13.080346+00:00",
   "total_articles": 92,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "ec1c220639cc",
+      "title": "Nike's Nostalgic Leather Air Forces Cracked the Code",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-air-force-1-cracked-leather/",
+      "original_publish_time": "2026-08-21T20:56:34+00:00",
+      "scraped_time": "2026-08-21T23:30:02.327560+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "Nike's latest Air Force 1 Low marries a 2001 shape with cracked leather uppers for a seriously nostalgic version of the world-famous sneaker.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "94b2e31fbca9",
+      "title": "New Balance’s Colorful \"Dunk\" Skate Shoes Took the Scenic Route",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/35th-north-new-balance-numeric-480/",
+      "original_publish_time": "2026-08-21T20:51:58+00:00",
+      "scraped_time": "2026-08-21T23:30:02.326248+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "New Balance"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 5,
+      "summary": "35th North Skateshop debuts its first-ever New Balance sneaker collab, a colorful & textural 480 skate shoe inspired by the Pacific Northwest's scenes.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "f842d094ab2a",
+      "title": "Nike’s Army-Toned Air Jordans Deserve a Salute",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/jordan-4-light-army/",
+      "original_publish_time": "2026-08-21T20:49:48+00:00",
+      "scraped_time": "2026-08-21T23:30:02.326969+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "The Air Jordan 4 Retro sneaker lands in the familiar \"Light Army\" colorway. The results? A tonal military-coded take on the signature model.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "a052ac050d6d",
+      "title": "A Bronx Brand Gives Nike’s Nicest ACG Boot a Beautiful Tune-Up",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/taller-de-rafa-nike-air-max-goadome-low/",
+      "original_publish_time": "2026-08-21T20:46:51+00:00",
+      "scraped_time": "2026-08-21T23:30:02.328423+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 5,
+      "summary": "Taller de Rafa takes Nike's Air Max Goadome Low boot for a spin, resulting in an vintage-flavored brown take with automotive-coded details.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "d67853ff5997",
+      "title": "Michael Jordan’s Air Jordan 5 Gets a Little Taste of Miami From This Solefly Collaboration",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/solefly-air-jordan-5-release-date-iu0734-001-1239146414/",
+      "original_publish_time": "2026-08-21T20:40:10+00:00",
+      "scraped_time": "2026-08-21T23:26:20.982526+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Jordan"
+      ],
+      "keywords_matched": [
+        "sole"
+      ],
+      "relevance_score": 5,
+      "summary": "The sneaker features teal accents tied to South Beach.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "28445f4185bd",
+      "title": "Where To Buy The Air Jordan 1 Low OG “Laser”",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/08/21/air-jordan-1-low-og-laser-release-date/",
+      "original_publish_time": "2026-08-21T20:00:36+00:00",
+      "scraped_time": "2026-08-21T23:26:31.689333+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "The Air Jordan 1 Low OG “Laser” drops August 22nd, 2026 for $165 alongside the “Laser” 3s. Pairs will be available via Nike SNKRS and... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Where To Buy The Air Jordan 1 Low OG \"Laser\" appeared first on Sneaker News . The post Where To Buy The Air Jordan 1 Low OG “Laser” appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "8681446184bd",
+      "title": "Nike Isn’t Done Dropping Boot-Inspired Air Maxes",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/08/21/nike-air-max-premium-boot-pack-iq7129-001-iq7127-001/",
+      "original_publish_time": "2026-08-21T19:30:20+00:00",
+      "scraped_time": "2026-08-21T23:26:31.690872+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 5,
+      "summary": "But wait, there’s more. Nike is adding to its Air Max Mad 90 Pack, one of the best lifestyle collections created around the 2026 FIFA... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike Isn’t Done Dropping Boot-Inspired Air Maxes appeared first on Sneaker News . The post Nike Isn’t Done Dropping Boot-Inspired Air Maxes appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "c43195567a5e",
+      "title": "Fugazi Draws Crowds for $5 Shoes & Supreme Chief Creative Steps Down in This Week's Top Fashion News",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/8/fugazi-reese-cooper-palace-supreme-reebok-info",
+      "original_publish_time": "2026-08-21T16:59:58+00:00",
+      "scraped_time": "2026-08-21T23:26:31.484313+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Reebok",
+        "Vans",
+        "Jordan"
+      ],
+      "keywords_matched": [
+        "boot",
+        "shoes"
+      ],
+      "relevance_score": 7,
+      "summary": "SummarySupreme’s CCO departed after 22 years, while Palace Skateboards and Reese Cooper expanded with new retail spaces.Fugazi dropped a canceled collaboration with Vans for just $5.Reebok debuted 3D-printed kicks, and Awake NY delivered bootleg-inspired luxury Air Jordan 6s.How a Cancelled Fugazi x Vans Collab Led to $5 USD ShoesWhen Vans canceled its highly anticipated collaboration with streetwear label Fugazi, the brand took matters into its own hands with a bold move. The initial partnership drew heavy backlash from fans of the anti-consumerist punk band also named Fugazi, who deemed the project tone-deaf. Vans executives quickly terminated the deal to respect the band's ethos. Unfazed, the clothing brand launched a discreet, cash-only drop from a branded van in New York and Los Angel",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "33e7bd50da36",
       "title": "Your Next Rain-Ready Footwear Favorite Has Finally Arrived With the SOREL Ambler Mule",
@@ -1746,167 +1915,6 @@
       ],
       "relevance_score": 3,
       "summary": "Brazil footwear trade deficit emerges for first time as imports rise DatamarNews",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "9f608b9a17cd",
-      "title": "Brooks, Hoka and Saucony Have Big Plans to Conquer the European Running Market",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/hoka-brooks-saucony-expansion-european-market-growth-1239124385/",
-      "original_publish_time": "2026-08-14T20:54:53+00:00",
-      "scraped_time": "2026-08-14T23:24:54.117980+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Brooks",
-        "Hoka"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 4,
-      "summary": "Hoka, Brooks Running and Saucony see expansion plans across the European market as a key component of future growth.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "ad01181e5fd6",
-      "title": "An AI Bama Rush Hopeful Is Going Viral in ‘Nike’ Sneakers That Technically Don’t Exist",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-features/ai-bama-rushtok-nike-sneakers-1239125514/",
-      "original_publish_time": "2026-08-14T20:53:37+00:00",
-      "scraped_time": "2026-08-14T23:24:54.120741+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "shoes",
-        "sneakers"
-      ],
-      "relevance_score": 6,
-      "summary": "“Janie B” named Nike in her first OOTD, but the shoes, along with the rest of her look, seem to be AI. Meanwhile, Nike staged a very real Studio Fleece activation at a University of Alabama sorority house.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "55a157a6b532",
-      "title": "Nike’s Spotted Tennis Sneakers Literally Have That Dawg in ‘Em",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-tennis-classic-chew-dog/",
-      "original_publish_time": "2026-08-14T18:56:09+00:00",
-      "scraped_time": "2026-08-14T23:28:45.218716+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 5,
-      "summary": "Nike's Tennis Classic get a paw-fect makeover for the newest \"Chew Dog\" collection, resulting a furry Dalmatian-inspired take on the model.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "5d94cd9530cd",
-      "title": "U.S. Consumers Bought More Running Shoes in the First Half of 2026",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/consumer-spending-trends-running-shoes-1239125374/",
-      "original_publish_time": "2026-08-14T18:43:09+00:00",
-      "scraped_time": "2026-08-14T23:24:54.121539+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "Volleyball, cross training and golf shoes saw solid performance.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "a506781322a9",
-      "title": "Lucette Holland Wants to Challenge Mainstream Shoemaking - WWD",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbWVZTlU1QjB0SGpZN0hTbFF3X18yQ0Zhb1ExLWJEUWl3ckFkS3A1NVRsNXZzSVFCMUxDMTNoSlJCRFV1Q25UN1g2dUJIQll2X1dudzhEZ2lvaW5uR0N6U3FlU0xnOGgyZU5rNERxS2lkZ0J3T2dCcHpVWHR2bkUzSXdZVGt4aHlXV1BWemlQTWdJY0YyRlRWUE4yMUl5eGpqVDJZZnNVaW1XX2VKX1E?oc=5",
-      "original_publish_time": "2026-08-14T18:26:25+00:00",
-      "scraped_time": "2026-08-14T23:25:15.475413+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoemaking"
-      ],
-      "relevance_score": 3,
-      "summary": "Lucette Holland Wants to Challenge Mainstream Shoemaking WWD",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "c3051fba3af5",
-      "title": "Veteran Footwear Designer Lucette Holland Wants to Challenge Mainstream Shoemaking With Sustainable Brand Ceecee",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-trends/ceecee-sustainable-shoe-brand-interview-lucette-holland-1239100517/",
-      "original_publish_time": "2026-08-14T18:22:52+00:00",
-      "scraped_time": "2026-08-14T23:24:54.121999+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "shoemaking"
-      ],
-      "relevance_score": 6,
-      "summary": "Ceecee drops small batch artisanal collections made in Dakar, Senegal, from reclaimed and local materials.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "b86027d03935",
-      "title": "Premium Running Sneakers - Trend Hunter",
-      "source_name": "Google News - Sneaker Brand",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LOXdKY1gzeFNiaFg4bXM4OUdTVG5nZl9oc3VJNnQ2bk9PS2xqZENweHp6Y1lSLWhzbUZfa1dKOE1SSHlSdlFPRnJTOGU0bTE5N09z0gFYQVVfeXFMUFdCOVdQV3JZb3ItTk5mX21LanRMM0pkM0xUb2pBdmEwR3NSOEoxbnRTZjh4SVVhTmxnWGw1SlR6ajMwVHlPX3pJd3U4Nk5MMG9jdkNtcVBIdg?oc=5",
-      "original_publish_time": "2026-08-14T18:00:59+00:00",
-      "scraped_time": "2026-08-14T23:25:16.384708+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "Premium Running Sneakers Trend Hunter",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "4c152e924616",
-      "title": "O. Files Made Wearable Origami Art Out of adidas' Military Trainer (EXCLUSIVE)",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/ofiles-adidas-sneakers/",
-      "original_publish_time": "2026-08-14T17:49:07+00:00",
-      "scraped_time": "2026-08-14T17:52:59.624790+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "O. Files debuts its adidas Origiami BW Army sneaker featuring pleated leather uppers. Here's how to score a pair.",
       "ren_take": "",
       "image_url": ""
     }
