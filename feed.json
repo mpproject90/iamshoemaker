@@ -1,8 +1,49 @@
 {
-  "last_updated": "2026-08-22T11:31:33.761835+00:00",
-  "total_articles": 91,
-  "sources_checked": 61,
+  "last_updated": "2026-08-22T17:27:50.039962+00:00",
+  "total_articles": 93,
+  "sources_checked": 60,
   "articles": [
+    {
+      "id": "eb6ccfd70f97",
+      "title": "Nike’s Cinnamon Leather Forces Has a Sweet Sole",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-air-force-1-black-cinnamon/",
+      "original_publish_time": "2026-08-22T16:44:45+00:00",
+      "scraped_time": "2026-08-22T17:20:35.862353+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sole",
+        "upper"
+      ],
+      "relevance_score": 6,
+      "summary": "Nike's Air Force 1 '07 Low sneaker lands with \"Cinnamon\" leather uppers & black soles, resulting in a delicious & surprisingly textural spin.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "9217018675ba",
+      "title": "Nike’s Blacked-Out OG Has Future Classic Written All Over It",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-air-max-95-big-bubble-premium-black-gum-volt/",
+      "original_publish_time": "2026-08-22T12:50:00+00:00",
+      "scraped_time": "2026-08-22T17:20:35.862855+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "The Nike Air Max 95 Big Bubble Premium Black/Gum/Volt combines enlarged OG cushioning specs with a rugged, stealthy material treatment.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "ec1c220639cc",
       "title": "Nike's Nostalgic Leather Air Forces Cracked the Code",
@@ -253,6 +294,30 @@
       ],
       "relevance_score": 3,
       "summary": "The footwear maker’s plans include enlarging and refitting plants in Germany while also extending a factory in Portugal.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "c90df839edea",
+      "title": "Sole Searching? Shop These Podiatrist-Approved Sneakers from Asics, Brooks, New Balance, and More from $45 - People.com",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTU9pU1JONnYxOEJFeUJkaHdXTGE0cHZPREg5NmlyckV4VlVadVpkc3g2cG51emZISlVwSTFLcUozTkRSd3RMMksyd3ZwazJWNHBkZzFEVmtKa1lvelpYVHBjb21YTUY3VGtkT3djVGhkdGFnYzlocnk3MXhqMzY0bg?oc=5",
+      "original_publish_time": "2026-08-21T06:45:00+00:00",
+      "scraped_time": "2026-08-22T17:17:08.727692+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "New Balance",
+        "ASICS",
+        "Brooks"
+      ],
+      "keywords_matched": [
+        "sneakers",
+        "sole"
+      ],
+      "relevance_score": 12,
+      "summary": "Sole Searching? Shop These Podiatrist-Approved Sneakers from Asics, Brooks, New Balance, and More from $45 People.com",
       "ren_take": "",
       "image_url": ""
     },
@@ -1877,25 +1942,6 @@
       "keywords_matched": [],
       "relevance_score": 3,
       "summary": "Am I the only one who can’t get enough of Khakis? The vintage-obsessed clothing brand from JKND Co. Ltd., the same Seoul-based creative group that brought us thisisneverthat, has been on a tear for a few seasons now. Beyond making some of the best washed and naturally aged military- and workwear-inspired garbs around, Khakis has racked up a string of banger collaborations with Merrell, New Balance, Reebok, and even nonnative. Its Seoul flagship has also quietly become a destination of its own, hosting several pop-ups with everyone, one of Japan’s latest understated, yet increasingly influential, fashion brands.For Fall/Winter 2026, Khakis is sticking with what got it here in the first place, once again digging through decades of military, workwear, and outdoor references to create clothes ",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "34be957e7fb9",
-      "title": "Marvel Studios Reveals Next-Gen Mutant Cast for 'X-Men' Reboot at D23",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/8/marvel-studios-reveals-next-gen-mutant-cast-x-men-reboot-d23-sadie-sink-adam-driver-kit-connor",
-      "original_publish_time": "2026-08-15T15:41:35+00:00",
-      "scraped_time": "2026-08-16T05:16:18.423326+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 3,
-      "summary": "Summary Marvel Studios officially revealed the new ensemble cast for its upcoming 'X-Men' reboot at the D23 ExpoSadie Sink Kit Connor Samara Weaving Christopher Abbott and Adam Driver star in the team-up featureDirected by Jake Schreier the film is scheduled to release in theaters following 2027's Avengers Secret Wars This post may contain spoilers for Spider-Man: Brand New Day.Marvel Studios has officially unveiled the core cast for its upcoming X-Men reboot on stage at Disney's D23 Expo. The grand presentation confirmed the new generation of actors stepping into the iconic mutant roles under the direction of Thunderbolts* filmmaker Jake Schreier.The official roster introduces Sadie Sink reprising her role as telepath Jean Grey following her debut in Spider-Man: Brand New Day, alongside K",
       "ren_take": "",
       "image_url": ""
     }
