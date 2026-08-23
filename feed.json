@@ -1,8 +1,30 @@
 {
-  "last_updated": "2026-08-23T17:27:10.432175+00:00",
-  "total_articles": 85,
+  "last_updated": "2026-08-23T23:39:14.430941+00:00",
+  "total_articles": 82,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "ff4c255a9f9e",
+      "title": "This Vibram Crocs Sneaker Secretly Flexes Patagonia-Level Fleece",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/crocs-tembo-ii-ro/",
+      "original_publish_time": "2026-08-23T19:51:51+00:00",
+      "scraped_time": "2026-08-23T23:32:00.613600+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Crocs",
+        "Vibram"
+      ],
+      "keywords_matched": [
+        "sole"
+      ],
+      "relevance_score": 5,
+      "summary": "Crocs debuts the Tembo II RO sneaker-clog, essentially an updated archival winter model featuring Vibram soles & Polartec fleece.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "4b65ab4f94be",
       "title": "Rihanna Does Momma Duties in Snakeskin Sandal Heels in New York with A$AP Rocky",
@@ -19,6 +41,25 @@
       ],
       "relevance_score": 3,
       "summary": "The mother of three went for a causal look, punctuated by wild heels.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "fee4283b50fc",
+      "title": "PM Modi Shares Minister Giriraj Singh’s Article on Technical Textiles in Footwear Sector - News On AIR",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNlJpWmxSSHJhZ0lkbEh5Zk5meVdiYnM0dVlNMlJzRC1Oa1VoWjNVQ1NfUGwwS1lHeUVHY1dhTVo5U2VxSGVIeS1kWnQwLTFIRDQ0dGd5cUNZa2JHU2VwLVVfSHpZRkhNSmVTUVk0eUMybEgzcW9maEt4d0tYazhQaXgzZS02ZVk4cGhqX1hZNW9UbThVNVBnQ0ZxamMwcVpsbXZMY1Zraw?oc=5",
+      "original_publish_time": "2026-08-23T11:27:15+00:00",
+      "scraped_time": "2026-08-23T23:24:03.943338+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "PM Modi Shares Minister Giriraj Singh’s Article on Technical Textiles in Footwear Sector News On AIR",
       "ren_take": "",
       "image_url": ""
     },
@@ -1666,112 +1707,6 @@
       ],
       "relevance_score": 3,
       "summary": "Summary adidas and Anthony Edwards have unveiled the upcoming Anthony Edwards 3 in a \"Bliss Blue\" colorwayThe third signature model features a breathable mesh upper paired with molded TPU side overlays and Hyperboost cushioningThe basketball silhouette is scheduled to launch on September 15 for a retail price of $130 USD Name: adidas Anthony Edwards 3 \"Bliss Blue\"Colorway: Bliss Blue/Sky Tint-Tech Grey MetallicSKU: KH8537MSRP: $130 USDRelease Date: September 15, 2026Where to Buy: adidasadidas has officially revealed the Anthony Edwards 3 \"Bliss Blue\", marking an early look at the guard’s third signature basketball sneaker.The model debuted on-foot during Edwards’ \"Believe That\" Tour stop in Manila ahead of its upcoming autumn launch.Constructed primarily with a lightweight mesh upper, the ",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "c3fb703630fa",
-      "title": "Nike’s Mighty Hiking Sneaker Brings “Linen” to the Trails",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-acg-zegama-trail-gore-tex-linen/",
-      "original_publish_time": "2026-08-16T20:01:11+00:00",
-      "scraped_time": "2026-08-16T23:26:38.208453+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike",
-        "Vibram"
-      ],
-      "keywords_matched": [
-        "sole"
-      ],
-      "relevance_score": 4,
-      "summary": "Nike's ACG Zegama Trail GORE-TEX \"Linen\" sneaker takes the classic colorway to the great outdoors via a high-performance Vibram-soled ride.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "34d19a4bc80a",
-      "title": "Careful, Nike’s Sweet Signature Skate Shoe Might Cause a Sugar Rush",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-sb-janoski-baroque-brown/",
-      "original_publish_time": "2026-08-16T19:54:34+00:00",
-      "scraped_time": "2026-08-16T23:26:38.209161+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "Nike SB's Janoski OG+ \"Baroque Brown\" features chocolate brown suede uppers, resulting in a simple yet sweet take on the classic skate model.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "b9b81e1b0077",
-      "title": "adidas’ Croc Sneaker Is Too Fly for the Swamp",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/adidas-stan-smith-croc/",
-      "original_publish_time": "2026-08-16T19:49:49+00:00",
-      "scraped_time": "2026-08-16T23:26:38.207134+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "sneakers",
-        "upper"
-      ],
-      "relevance_score": 4,
-      "summary": "adidas drops croc-skin Stan Smith sneakers featuring scaly leather uppers & other luxe details. Here's everything on the classic with a bite.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "d987fce18d82",
-      "title": "Footwear industry is backbone of India’s economy: Union Minister Giriraj Singh | Akashvani News - News On AIR",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ29UaXZQZHFWUm1nX2FHV3h5VGlhdFRaX01vcllPcGc2bU5fRFdmR282RjQ1ZnkyTE9Ic0drOHQ2SjM3NkI5ZFI3eEZsRHUyaTI0LW15clpXMnJYcS15QmN6Qy0xR1NEbVd0QVp6b0taVXVkZXVYNUxsdHdlX2JFUGtKLUFXenJ6eVdxU1I5NF9ud2tPVTFLM3hwbmNZdHl4cFFZdQ?oc=5",
-      "original_publish_time": "2026-08-16T19:32:46+00:00",
-      "scraped_time": "2026-08-16T23:23:00.280345+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "footwear industry"
-      ],
-      "relevance_score": 6,
-      "summary": "Footwear industry is backbone of India’s economy: Union Minister Giriraj Singh | Akashvani News News On AIR",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "0b82f32223ed",
-      "title": "Salomon’s Beautiful Brown Mary Jane Is the Finest of Them All",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/salomon-rx-marie-jeanne-alpine-echoes/",
-      "original_publish_time": "2026-08-16T19:17:27+00:00",
-      "scraped_time": "2026-08-16T23:26:38.207748+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Salomon"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "Salomon drops an \"Alpine Echoes\" collection featuring luxe leather Marie Jeanne sneakers. Dare we say, it's the brand's best Mary Janes yet.",
       "ren_take": "",
       "image_url": ""
     }
