@@ -1,8 +1,27 @@
 {
-  "last_updated": "2026-08-23T11:31:52.776928+00:00",
-  "total_articles": 87,
+  "last_updated": "2026-08-23T17:27:10.432175+00:00",
+  "total_articles": 85,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "4b65ab4f94be",
+      "title": "Rihanna Does Momma Duties in Snakeskin Sandal Heels in New York with A$AP Rocky",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-trends/rihanna-snakeskin-sandal-heels-new-york-asap-rocky-1239147195/",
+      "original_publish_time": "2026-08-23T16:03:18+00:00",
+      "scraped_time": "2026-08-23T17:16:14.769112+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sandal"
+      ],
+      "relevance_score": 3,
+      "summary": "The mother of three went for a causal look, punctuated by wild heels.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "eb6ccfd70f97",
       "title": "Nike’s Cinnamon Leather Forces Has a Sweet Sole",
@@ -1753,66 +1772,6 @@
       ],
       "relevance_score": 3,
       "summary": "Salomon drops an \"Alpine Echoes\" collection featuring luxe leather Marie Jeanne sneakers. Dare we say, it's the brand's best Mary Janes yet.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "c8d8611ff7fd",
-      "title": "adidas Jellyfish “Crystal Sand,” Vans Old Skool Souvenir, And This Week’s Best Releases",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/08/16/sneaker-releases-august-16-august-22-2026/",
-      "original_publish_time": "2026-08-16T16:00:54+00:00",
-      "scraped_time": "2026-08-16T17:15:41.693595+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Adidas",
-        "Vans"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 4,
-      "summary": "It’s not often in these breakdowns where every single day has something to pay attention to, but there’s indeed something to watch from end to... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post adidas Jellyfish \"Crystal Sand,\" Vans Old Skool Souvenir, And This Week's Best Releases appeared first on Sneaker News . The post adidas Jellyfish “Crystal Sand,” Vans Old Skool Souvenir, And This Week’s Best Releases appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "d15bd35fe01b",
-      "title": "Nike’s Air Force 1 Mid Is Getting a Winterized Upgrade With Waterproof Gore-Tex and Vibram",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-air-force-1-mid-gore-tex-vibram-release-date-io1875-001-1239126220/",
-      "original_publish_time": "2026-08-16T15:35:08+00:00",
-      "scraped_time": "2026-08-16T17:15:30.954603+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike",
-        "Vibram"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 4,
-      "summary": "Nike called on the experts to update the classic sneaker for winter.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "02eca01df9ea",
-      "title": "How One District One Product is breathing new life into Agra's footwear industry - indiatoday.in",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ0ZkU1NVRkVVbnBWOHJlSUxtbWRVZUx2NXg4bDRPa0s1d3JtNWdKcE1YWVBEelRCNkZKbkRqYWtaNUZlNmFqM29CdVFWNU5kdVFTQjdOazRtVnFSemQxQUdUeTMxRXRwaE9ycDd3R0RTZWZYelY4MTY1TEtVNjM5bGRtZnpweWMtc09NdWU1dUJNV0F0Y01VdXRUa3NPbmZCcE9UZmFaTXM4UmV4WF8zS2oyOU5pM0JPSXJSWTdDQWQ5ZnpCNXJ1Nzhn0gHPAUFVX3lxTFA4NVBVNjBvNDVmVmFOYWJwLTlTaHllSlJ5YlVWNFFoUUotWldsRGdFRWFBRGRXbkRFMTlYTU9NeE5vQ3BRWmdER2k5SkYxOUhiMEJYWE9LVHhXd1paQXp5UmFld25UbTBwNV9mNno5bnZyaFBLQWFaazFUc2FiWmhkaE16R3JFV1lxYjNtM0pUOGNoZXJMTGh3eVVoeWM1ZGY5eVVfLXZlOS1BYW1qUi0wMmFQcFVIQ0JrUHU3N0JWV3dJNlk1ZGh3bU51RVYxVQ?oc=5",
-      "original_publish_time": "2026-08-16T14:15:21+00:00",
-      "scraped_time": "2026-08-16T17:15:52.442731+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "footwear industry"
-      ],
-      "relevance_score": 6,
-      "summary": "How One District One Product is breathing new life into Agra's footwear industry indiatoday.in",
       "ren_take": "",
       "image_url": ""
     }
