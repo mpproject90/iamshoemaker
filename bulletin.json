@@ -1,6 +1,107 @@
 {
-  "last_updated": "2026-08-16T08:32:21.941187+00:00",
+  "last_updated": "2026-08-23T08:33:00.254231+00:00",
   "bulletins": [
+    {
+      "id": "wk34-2026",
+      "week_number": 34,
+      "year": 2026,
+      "date_from": "2026-08-17",
+      "date_to": "2026-08-23",
+      "published": "2026-08-23T08:33:00.253640+00:00",
+      "intro": "Week 34 arrives with a quiet but telling mix: heritage brands leaning into lifestyle pivots, Central Asian leather supply chains drawing fresh attention, and a lawsuit dismissal that says more about consumer expectation drift than product failure. Underneath the sneaker drops and editorial noise, the structural questions — where leather comes from, how brands manage product integrity risk, and who controls creative direction — are doing most of the heavy lifting this week.",
+      "articles": [
+        {
+          "title": "Sole Searching? Shop These Podiatrist-Approved Sneakers from Asics, Brooks, New Balance, and More from $45 - People.com",
+          "source_name": "Google News - Sneaker Brand",
+          "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTU9pU1JONnYxOEJFeUJkaHdXTGE0cHZPREg5NmlyckV4VlVadVpkc3g2cG51emZISlVwSTFLcUozTkRSd3RMMksyd3ZwazJWNHBkZzFEVmtKa1lvelpYVHBjb21YTUY3VGtkT3djVGhkdGFnYzlocnk3MXhqMzY0bg?oc=5",
+          "category": "Retail",
+          "relevance_score": 12,
+          "original_publish_time": "2026-08-21T06:45:00+00:00",
+          "misaki_take": "The 'podiatrist-approved' editorial category has become a reliable traffic vehicle for mid-tier performance brands, and it reliably lifts unit velocity on SKUs sitting in the $45–$90 FOB band. For sourcing teams at Brooks and Asics, this kind of organic placement is a demand signal worth tracking — it compresses reorder windows and tests allocation between DTC and wholesale channels without a dollar of marketing spend."
+        },
+        {
+          "title": "From New Balance to Nike, the Seven Best Sneakers to Cop This Week",
+          "source_name": "Highsnobiety",
+          "source_url": "https://www.highsnobiety.com/p/sneaker-releases-2026-august-week-3/",
+          "category": "Leather",
+          "relevance_score": 8,
+          "original_publish_time": "2026-08-18T12:11:47+00:00",
+          "misaki_take": "The New Balance Made In USA 2040v5 sitting alongside a mass-market Nike Air Max in the same editorial frame is a quiet tension worth noting — one justifies its premium through domestic craft, the other through cultural cachet, and buyers are being asked to evaluate them on the same shelf. Brands leaning on 'Made In USA' positioning need to ensure their domestic supply chain can actually sustain the volumes that editorial coverage like this generates."
+        },
+        {
+          "title": "Fugazi Draws Crowds for $5 Shoes & Supreme Chief Creative Steps Down in This Week's Top Fashion News",
+          "source_name": "Hypebeast",
+          "source_url": "https://hypebeast.com/2026/8/fugazi-reese-cooper-palace-supreme-reebok-info",
+          "category": "Brand News",
+          "relevance_score": 7,
+          "original_publish_time": "2026-08-21T16:59:58+00:00",
+          "misaki_take": "When a CCO with 22 years of tenure exits a brand like Supreme, the creative supply chain — meaning the vendor and material relationships built around a very specific aesthetic vision — is as much at risk as the design direction itself. The Fugazi $5 shoe moment is more operationally interesting than it looks: someone absorbed the landed cost on a dead collaboration, which means a factory somewhere ate margin or minimum order exposure on a deal that never closed."
+        },
+        {
+          "title": "Hoka Revamps One of Its Most Democratic Running Shoes as an Out-and-out Lifestyle Sneaker",
+          "source_name": "Footwear News",
+          "source_url": "https://wwd.com/footwear-news/sneaker-news/hoka-clifton-utl-lifestyle-sneaker-1239145238/",
+          "category": "Retail",
+          "relevance_score": 7,
+          "original_publish_time": "2026-08-21T14:59:54+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "Inside Lili Curia, the Vintage-inspired Shoe Brand Making Custom Boots for Suki Waterhouse",
+          "source_name": "Footwear News",
+          "source_url": "https://wwd.com/footwear-news/shoe-features/lili-curia-footwear-brand-chili-palmer-interview-1239125440/",
+          "category": "Brand News",
+          "relevance_score": 7,
+          "original_publish_time": "2026-08-19T17:33:14+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "24 Podiatrist-recommended Shoes for High Arches—Shop Supportive, Stylish Picks From Brooks, Hoka, and More - Travel + Leisure",
+          "source_name": "Google News - Sneaker Brand",
+          "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUFRhM0d5MnhzRmZ4RkJqWW12cTFQQi1FaTVqMThNYlNyTFNidG9yaXRLdzVnOGM1VHF0LW1OUWE1SXE1S0FSMWx6czBqTTdSUThmZ3lrUy1ZcWVqWlFIYXlZWXBrQjR2TndQbzN5WDhIRk1mTDAyY1NpcUhGNlhaZ1RzUFlRUXc5M05ibmcybUt4REk2R1dwektKSzUzZ2xkUWc?oc=5",
+          "category": "Supply Chain",
+          "relevance_score": 7,
+          "original_publish_time": "2026-08-19T11:30:00+00:00",
+          "misaki_take": "A second podiatrist-approval editorial hit in the same week for Brooks and Hoka confirms this is a sustained content category, not a one-off — demand planning teams should be mapping these placements against inventory positions in real time. For sourcing managers, overlapping editorial spikes on the same SKUs across multiple publications is precisely when buffer stock calculations matter most."
+        },
+        {
+          "title": "Nike’s Cinnamon Leather Forces Has a Sweet Sole",
+          "source_name": "Highsnobiety",
+          "source_url": "https://www.highsnobiety.com/p/nike-air-force-1-black-cinnamon/",
+          "category": "Leather",
+          "relevance_score": 6,
+          "original_publish_time": "2026-08-22T16:44:45+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "Development of the Leather and Footwear Industry in Central Asian Countries in the First Half of 2026 - Review.uz",
+          "source_name": "Google News - Footwear Industry",
+          "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY0h6ZWppVFZFbEN5NHVINVQ5NVZ0NDl3TTF1UHRiNzRENEpXV3c2N2U3dEtOR2NPU2RlcVYxTmRzcjhKVC1WcXhycTZXRExzdVlNaW5CSDBuSEdHakxCTjVvYmhURnZVQmlCZGVrMXBPYW1HTWdrenpMNDFvSUQ1MW9lU1BSbWlzLWE0MHNodWh6S0NTQnZoS3VrV2w2R2RyOFBNV3hn?oc=5",
+          "category": "Leather",
+          "relevance_score": 6,
+          "original_publish_time": "2026-08-19T14:22:15+00:00",
+          "misaki_take": "Central Asian leather and footwear capacity has been developing quietly for years, and H1 2026 performance data emerging now will inform where diversification-minded brands allocate development trips in Q1 2027. The region's cost structure and improving raw hide access make it worth watching, but anyone who has been to Tashkent or Almaty knows that lead time predictability and finishing quality consistency are still the variables that will determine whether it becomes a real sourcing tier or stays a footnote."
+        },
+        {
+          "title": "UNDEFEATED & Jordan Brand Level-up With the Air Jordan 5",
+          "source_name": "Hypebeast",
+          "source_url": "https://hypebeast.com/2026/8/undefeated-air-jordan-5-moon-fossil-2027-release-date-info",
+          "category": "Sustainability",
+          "relevance_score": 6,
+          "original_publish_time": "2026-08-18T16:26:52+00:00",
+          "misaki_take": "A February 2027 release date announced in August 2026 tells you the production calendar on high-profile Jordan collabs is running at least 18 months out, which has implications for any brand trying to insert itself into the premium collaboration space on shorter timelines. Canvas uppers with olive co-branding are operationally straightforward, but the allocation and authentication logistics on a drop of this profile cost more to execute than most people outside Nike's supply chain would estimate."
+        },
+        {
+          "title": "Court Dismisses Class Action Suit Against On for ‘Squeaky’ and ‘Embarrassing’ Cloudmonster Sneakers",
+          "source_name": "Footwear News",
+          "source_url": "https://wwd.com/footwear-news/shoe-industry-news/on-class-action-lawsuit-squeaky-cloudmonster-sneakers-1238299434/",
+          "category": "Brand News",
+          "relevance_score": 6,
+          "original_publish_time": "2026-08-18T16:12:44+00:00",
+          "misaki_take": ""
+        }
+      ]
+    },
     {
       "id": "wk33-2026",
       "week_number": 33,
@@ -907,107 +1008,6 @@
           "relevance_score": 6,
           "original_publish_time": "2026-06-16T07:04:03+00:00",
           "misaki_take": "The extension to July 2027 is the second or third such deferral depending on how you count the previous phase-ins, and each one signals that the BIS certification infrastructure — lab capacity, testing turnaround, auditor availability — cannot yet handle the volume of SKUs the industry needs to certify at commercially viable speed. Brands sourcing finished footwear from India for domestic market sale should use this window to get ahead of the queue, because the July 2027 deadline will create a certification bottleneck regardless of whether it holds."
-        }
-      ]
-    },
-    {
-      "id": "wk24-2026",
-      "week_number": 24,
-      "year": 2026,
-      "date_from": "2026-06-08",
-      "date_to": "2026-06-14",
-      "published": "2026-06-14T10:50:47.108113+00:00",
-      "intro": "Week 24 arrives against a backdrop of tariff anxiety, leather spectacle, and quiet but consequential material shifts. Indonesia's manufacturers are bracing, India's government is positioning, and the brands are doing what they always do in uncertain times — lean into storytelling. The underlying tension between sourcing cost pressure and premium product investment is the thread running through everything this week.",
-      "articles": [
-        {
-          "title": "From Nike to Salomon, the Seven Best Sneakers to Cop Right Now",
-          "source_name": "Highsnobiety",
-          "source_url": "https://www.highsnobiety.com/p/sneaker-releases-2026-june-week-2/",
-          "category": "Retail",
-          "relevance_score": 9,
-          "original_publish_time": "2026-06-10T07:50:00+00:00",
-          "misaki_take": "When editorial roundups span Nike, adidas, Salomon, and New Balance in a single breath, it signals a market where no single silhouette dominates and consumer attention is genuinely fragmented. For sourcing teams, that fragmentation means smaller batch runs, more SKU complexity, and less leverage on unit economics — plan accordingly."
-        },
-        {
-          "title": "Natalie Portman’s Hoka Sneakers Might Be the Coolest Walking Shoes You Can Own - instyle.com",
-          "source_name": "Google News - Sneaker Brand",
-          "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTUTIxcWczTzIwQ0FRc0NxZTFMdzZIN2dUZng5Rkt3enhsN2hEbFE1VkpqLUNJUHpyQ0dOcDFJbnlCQUZQTDlFWWdyVWNiRjFqdVlIR2pkUDVScG02VHFYS2hsenhHd19yMVVUdUJ5SQ?oc=5",
-          "category": "Supply Chain",
-          "relevance_score": 8,
-          "original_publish_time": "2026-06-12T01:30:00+00:00",
-          "misaki_take": ""
-        },
-        {
-          "title": "One of New Balance’s Biggest Shoes of the Decade Is Getting a Massive Change for Its Upper",
-          "source_name": "Footwear News",
-          "source_url": "https://wwd.com/footwear-news/sneaker-news/new-balance-1906e-release-date-1239002892/",
-          "category": "Retail",
-          "relevance_score": 8,
-          "original_publish_time": "2026-06-09T17:01:19+00:00",
-          "misaki_take": ""
-        },
-        {
-          "title": "Nike Experiments With Gradient Midsoles On The Vomero Premium “Aluminum”",
-          "source_name": "Sneaker News",
-          "source_url": "https://sneakernews.com/2026/06/07/nike-vomero-premium-aluminum-hm5973-401/",
-          "category": "Retail",
-          "relevance_score": 8,
-          "original_publish_time": "2026-06-07T18:00:34+00:00",
-          "misaki_take": ""
-        },
-        {
-          "title": "New Balance's Easy Breezy Mary Jane Sneaker Is One Rugged Sandal",
-          "source_name": "Highsnobiety",
-          "source_url": "https://www.highsnobiety.com/p/new-balance-breeze-mary-jane/",
-          "category": "Leather",
-          "relevance_score": 7,
-          "original_publish_time": "2026-06-12T15:26:00+00:00",
-          "misaki_take": "Gray suede on a hybrid sandal-sneaker construction is a deliberate materials choice that keeps upper costs contained while delivering a premium hand feel at retail — suede finishing remains more forgiving on split leather grades than full-grain work. New Balance continues to show it understands how to engineer perceived luxury without the full-grain price tag, which is a sourcing discipline as much as a design one."
-        },
-        {
-          "title": "Kith Readies a Summer-Ready Footwear Capsule With Birkenstock",
-          "source_name": "Hypebeast",
-          "source_url": "https://hypebeast.com/2026/6/kith-readies-a-summer-ready-footwear-capsule-with-birkenstock",
-          "category": "Leather",
-          "relevance_score": 7,
-          "original_publish_time": "2026-06-12T08:39:16+00:00",
-          "misaki_take": "Premium suede with brass and steel hardware at the $200–$250 price point reflects Birkenstock's continued confidence in its German manufacturing cost structure as a brand asset rather than a liability. For brands considering whether to reshore or maintain European production for prestige positioning, Birkenstock's consistent commercial success with that model is the clearest data point available."
-        },
-        {
-          "title": "J Balvin Takes the World Cup Stage to Debut His Air Jordan 4 “Lemonade”",
-          "source_name": "Hypebeast",
-          "source_url": "https://hypebeast.com/2026/6/j-balvin-air-jordan-4-lemonade-fifa-world-cup-2026-opening-ceremony-kick-off-performance-first-look",
-          "category": "Leather",
-          "relevance_score": 7,
-          "original_publish_time": "2026-06-12T04:54:23+00:00",
-          "misaki_take": ""
-        },
-        {
-          "title": "US Tariff Uncertainties Haunt Indonesia’s Footwear Industry - Jakarta Globe",
-          "source_name": "Google News - Footwear Industry",
-          "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOR3UtTlRzVVMySmJnUUhPTTNJaC1DQ25hVEVEZDFIQU9XaWdMQWFHUkE0MXFjWG1TZmRDUnZwbEJVdFUwNEdDY3JHZWJoRVY3SG5acUtoOGhicDNNclIxSGxBaDhPaS1JMDdiM0tnRmVkZUd5am8yTzlfUENTdjJTZWEtNGpHekV1YjdPUEd1Z2VIbkE0ZGc?oc=5",
-          "category": "Trade Data",
-          "relevance_score": 6,
-          "original_publish_time": "2026-06-12T09:54:00+00:00",
-          "misaki_take": ""
-        },
-        {
-          "title": "ASICS x Setinn Serve Up a GEL‑CHALLENGER 15 Tennis Shoe Duo",
-          "source_name": "Hypebeast",
-          "source_url": "https://hypebeast.com/2026/6/asics-setinn-gel-challenger-15-white-peacoat-1043a034-100-black-white-1043a034-001-release-info",
-          "category": "Leather",
-          "relevance_score": 6,
-          "original_publish_time": "2026-06-12T08:52:39+00:00",
-          "misaki_take": ""
-        },
-        {
-          "title": "Footwear industry is backbone of India’s economy: Union Minister Giriraj Singh - News On AIR",
-          "source_name": "Google News - Footwear Industry",
-          "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ29UaXZQZHFWUm1nX2FHV3h5VGlhdFRaX01vcllPcGc2bU5fRFdmR282RjQ1ZnkyTE9Ic0drOHQ2SjM3NkI5ZFI3eEZsRHUyaTI0LW15clpXMnJYcS15QmN6Qy0xR1NEbVd0QVp6b0taVXVkZXVYNUxsdHdlX2JFUGtKLUFXenJ6eVdxU1I5NF9ud2tPVTFLM3hwbmNZdHl4cFFZdQ?oc=5",
-          "category": "Sustainability",
-          "relevance_score": 6,
-          "original_publish_time": "2026-06-10T13:36:44+00:00",
-          "misaki_take": ""
         }
       ]
     }
