@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-23T05:37:29.159007+00:00",
-  "total_articles": 88,
-  "sources_checked": 76,
+  "last_updated": "2026-08-23T11:31:52.776928+00:00",
+  "total_articles": 87,
+  "sources_checked": 60,
   "articles": [
     {
       "id": "eb6ccfd70f97",
@@ -1813,27 +1813,6 @@
       ],
       "relevance_score": 6,
       "summary": "How One District One Product is breathing new life into Agra's footwear industry indiatoday.in",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "b359f6c9d1fa",
-      "title": "Vans’ Signature Skate Shoe Doesn’t Need To Reinvent The Wheel",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/vans-skate-rowan-z3/",
-      "original_publish_time": "2026-08-16T10:00:01+00:00",
-      "scraped_time": "2026-08-16T11:28:26.024482+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Vans"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "Vans’ Skate Rowan Z3 proves skate shoes still have plenty of room to evolve, combining skate-ready details with the effortless style of an everyday sneaker.",
       "ren_take": "",
       "image_url": ""
     }
