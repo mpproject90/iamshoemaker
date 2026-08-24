@@ -1,8 +1,30 @@
 {
-  "last_updated": "2026-08-23T23:39:14.430941+00:00",
-  "total_articles": 82,
+  "last_updated": "2026-08-24T05:40:06.302892+00:00",
+  "total_articles": 84,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "50d0e66cc21e",
+      "title": "Nike Unveils Official 'One Piece' Footwear and Apparel Collection",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/8/nike-one-piece-footwear-apparel-air-max-plus-devil-fruits-collection-collaboration-release-info",
+      "original_publish_time": "2026-08-23T23:32:34+00:00",
+      "scraped_time": "2026-08-24T05:27:14.057015+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "footwear",
+        "upper"
+      ],
+      "relevance_score": 6,
+      "summary": "Summary Nike has partnered with the 'One Piece' manga franchise for an extensive footwear and apparel capsuleThe collection features three Devil Fruit-inspired expressions of the Nike Air Max Plus alongside co-branded jerseys t-shirts caps and a vestThe release debuts through regional pop-ups in Tokyo on September 4 followed by a global launch on September 25 Nike has officially announced an upcoming footwear and apparel collection inspired by the world-renowned manga franchise One Piece. Blending sportswear heritage with global pop culture, the partnership translates key lore from the storyline into specialized footwear executions and co-branded apparel.At the center of the collection are three distinct colorways of the Nike Air Max Plus featuring completely retooled uppers exclusive to t",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "ff4c255a9f9e",
       "title": "This Vibram Crocs Sneaker Secretly Flexes Patagonia-Level Fleece",
@@ -41,6 +63,26 @@
       ],
       "relevance_score": 3,
       "summary": "The mother of three went for a causal look, punctuated by wild heels.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "d987fce18d82",
+      "title": "Footwear industry is backbone of India’s economy: Union Minister Giriraj Singh | Akashvani News - News On AIR",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ29UaXZQZHFWUm1nX2FHV3h5VGlhdFRaX01vcllPcGc2bU5fRFdmR282RjQ1ZnkyTE9Ic0drOHQ2SjM3NkI5ZFI3eEZsRHUyaTI0LW15clpXMnJYcS15QmN6Qy0xR1NEbVd0QVp6b0taVXVkZXVYNUxsdHdlX2JFUGtKLUFXenJ6eVdxU1I5NF9ud2tPVTFLM3hwbmNZdHl4cFFZdQ?oc=5",
+      "original_publish_time": "2026-08-23T13:22:55+00:00",
+      "scraped_time": "2026-08-24T05:27:25.101908+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "footwear industry"
+      ],
+      "relevance_score": 6,
+      "summary": "Footwear industry is backbone of India’s economy: Union Minister Giriraj Singh | Akashvani News News On AIR",
       "ren_take": "",
       "image_url": ""
     },
