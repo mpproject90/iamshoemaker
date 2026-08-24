@@ -1,8 +1,194 @@
 {
-  "last_updated": "2026-08-24T17:37:37.071322+00:00",
-  "total_articles": 87,
-  "sources_checked": 60,
+  "last_updated": "2026-08-24T23:34:33.555459+00:00",
+  "total_articles": 90,
+  "sources_checked": 54,
   "articles": [
+    {
+      "id": "158d4626f0d1",
+      "title": "Global footwear exports remain stable despite slight contraction - World Footwear",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPb1dIV05CbUEzOEtuUEZRRTY1NUt4VmlfcXhERkVZLXNKaDRnaWtaNVJDakM2OGRjcjVyTHpJclRRdlY2ejUycnJrREVYT1JvcUdDWEozYVNYWjdOZmM5cWN5cE1hLUhTWl9wb3VjRTdYdkVNX3BYREFnQXgtZnpoaWtEMExVcVFfVWY2dldxX3lxcTFxblhMdlpnWEdrcUh0WVRPck8zMndJeFhNQk9Z?oc=5",
+      "original_publish_time": "2026-08-24T23:04:41+00:00",
+      "scraped_time": "2026-08-24T23:24:52.172523+00:00",
+      "time_delta_mins": 0,
+      "category": "Trade Data",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "footwear exports"
+      ],
+      "relevance_score": 6,
+      "summary": "Global footwear exports remain stable despite slight contraction World Footwear",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "3b5198cbf2a0",
+      "title": "James Harden's adidas Harden Vol. 10 Is Recast in \"HarDenim\"",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/8/james-harden-adidas-harden-vol-10-hardenim-release-date-info",
+      "original_publish_time": "2026-08-24T22:42:03+00:00",
+      "scraped_time": "2026-08-24T23:24:41.151312+00:00",
+      "time_delta_mins": 0,
+      "category": "Trade Data",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "sneakers",
+        "upper"
+      ],
+      "relevance_score": 4,
+      "summary": "SummaryThe adidas Harden Vol. 10 \"HarDenim\" trades its usual futuristic look for a vintage, black denim and Japanese sashiko patchwork design.Expected in late 2026 for $160, the shoe highlights a rising trend of denim-infused aesthetics in performance sneakers.After appearing in a range of bright colorways like “Cyan” and “Supernova,” the adidas Harden Vol. 10 is moving in a completely different direction. adidas has unveiled an official look at the next iteration of the Cleveland Cavaliers player’s signature shoe, departing from the original design for a vintage denim-inspired variant. Expected for a Fall 2026 roll-out, James Harden’s shoe leaves behind its sculptural upper for a black denim makeup rendered with an upcycled aesthetic. Resembling Japanese denim patchwork traditions and sas",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "a2dd08f30d5e",
+      "title": "It Took Time Travel to Make a Nike Air Force 1 This Good",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-air-force-1-low-01-college-navy/",
+      "original_publish_time": "2026-08-24T21:59:37+00:00",
+      "scraped_time": "2026-08-24T23:28:18.196069+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "Nike's Air Force 1 '01 sneakers are officially back in the game & looking good as ever in clean colorways like \"College Navy.\"",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "dd72d24288f8",
+      "title": "Nike’s Halloween Air Jordans Are the Calmest Spooky Flex",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/jordan-5-halloween-2026/",
+      "original_publish_time": "2026-08-24T21:54:37+00:00",
+      "scraped_time": "2026-08-24T23:28:18.195291+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "Official images of the Air Jordan 5 \"Halloween\" sneakers reveal a dark spin with glow-in-the-dark details.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "0a1f2914d365",
+      "title": "Nike’s Mind-altering Shoes Are Getting a Restock in Three Sold-out Colorways",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-mind-001-october-2026-restock-1239148317/",
+      "original_publish_time": "2026-08-24T21:31:43+00:00",
+      "scraped_time": "2026-08-24T23:24:30.536581+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 5,
+      "summary": "A brand-new women's colorway will also debut alongside the three existing variants.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "9bd5fa127256",
+      "title": "Gunna Unveils The Under Armour P-Star Performance Line, Including His First Footwear Collab",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/08/24/gunna-under-armour-p-star/",
+      "original_publish_time": "2026-08-24T20:40:13+00:00",
+      "scraped_time": "2026-08-24T23:24:41.344669+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Under Armour"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 5,
+      "summary": "Through many of their recent advances, Under Armour has looked to sponsored artist Gunna to add some A-list shine to their announcements. It’s why he... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Gunna Unveils The Under Armour P-Star Performance Line, Including His First Footwear Collab appeared first on Sneaker News . The post Gunna Unveils The Under Armour P-Star Performance Line, Including His First Footwear Collab appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "bb2c645f1395",
+      "title": "Dephy Expands Sidekick’s Personal Bionic Footwear Line to Assist in Powered Walking",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/dephy-sidekick-ankle-powered-walking-shoe-adaptive-1239147690/",
+      "original_publish_time": "2026-08-24T19:15:40+00:00",
+      "scraped_time": "2026-08-24T23:24:30.539416+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Dephy's Sidekick line offers two different foot shapes built around a carbon plate, transferring power from an ankle device to enable powered walking.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "417ba90c10f4",
+      "title": "SOREL’s New Ambler is the Cool Younger Sibling of the Iconic Caribou Boot",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/sorels-caribou-boot-walked-so-the-ambler-clog-could-run/",
+      "original_publish_time": "2026-08-24T17:38:51+00:00",
+      "scraped_time": "2026-08-24T23:28:18.197015+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 3,
+      "summary": "Repackaging all of the DNA of the original fan-favorite Caribou, the adventure apparel brand has launched an innovative silhouette for the next generation: the Ambler.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "ad1c86ef38a9",
+      "title": "Madhappy and Puma Are Back With Updates to the Speedcat Plus, H-Street and Suede Sneakers",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/madhappy-puma-speedcat-plus-h-street-suede-release-date-1239147964/",
+      "original_publish_time": "2026-08-24T17:23:09+00:00",
+      "scraped_time": "2026-08-24T23:24:30.540127+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Puma"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "Completing the capsule is a cropped knitted T7 jacket and flared pants.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "7b31b1570cf6",
       "title": "COSTS Brings Chinese Bamboo Weaving To The Vans Authentic And Slip-On",
@@ -1704,130 +1890,6 @@
       ],
       "relevance_score": 5,
       "summary": "Summary Supreme and Nike have revealed the collaborative Air Max 2000 as part of Supreme's Fall/Winter 2026 previewThe retro silhouette officially introduces a name change to the Air Max Ecstasy Plus alongside custom TPU letteringThe pair features Supreme's signature matte red upper paired with a yellow midsole and silver Air bubbles Supreme and Nike have officially revealed their upcoming Air Max 2001, now officially dubbed the Air Max Ecstasy, as part of the brand's Fall/Winter 2026 preview. The collaboration revives the long-lost Alpha Project silhouette for its first-ever retro release.Continuing Supreme’s ongoing strategy of bringing obscure Nike archive models back into rotation, the sneaker arrives with a bold color scheme and altered structural accents. The upper is constructed in ",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "dbf14ecf4523",
-      "title": "Asia accounts for 56% of global footwear consumption - World Footwear",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZk1ZTkl4RXB1OE9KY3RlenhVWXdKRjFJSko2WUt5eDNiNGFhbjM3S0JTc1VXTERkbDlTNDE0QVhMOW5CcjUyX1l3dUh1eW1TdXRPUU5FN2szLV84cGMwcmpycDM3TjE0dEZPdFJtVWRCS0Fqd0dUNjVKOXIwb0xnMWQzMVlLYUdNckZZTXNlSkwtcDk5ckR5dXU1V0loZw?oc=5",
-      "original_publish_time": "2026-08-17T23:00:44+00:00",
-      "scraped_time": "2026-08-17T23:26:09.148232+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Asia accounts for 56% of global footwear consumption World Footwear",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "c9dd50443002",
-      "title": "This Running Brand’s Final PUMA Drop Is HR-Approved",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/saysky-puma-collab/",
-      "original_publish_time": "2026-08-17T22:00:03+00:00",
-      "scraped_time": "2026-08-17T23:29:29.853150+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Puma"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "SAYSKY reveals its final PUMA collaboration featuring office-approved sneakers & clothes for around-the-clock runners.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "4b7a18139ec0",
-      "title": "Timberland Lopped the Top Off of Its Iconic 6-inch Boot to Make a Clog",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/timberland-6-inch-boot-clog-heritage-release-date-1239127266/",
-      "original_publish_time": "2026-08-17T20:32:06+00:00",
-      "scraped_time": "2026-08-17T23:25:47.254027+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Timberland"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 5,
-      "summary": "Four colorways include the essential \"Wheat\" treatment.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "0fde09eb8b56",
-      "title": "The Jordan Design Studio Searches For the Next LA Legend",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/the-jordan-design-studio-searches-for-the-next-la-legend/",
-      "original_publish_time": "2026-08-17T18:36:48+00:00",
-      "scraped_time": "2026-08-17T23:29:29.852374+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Jordan"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "In the pursuit for the next great footwear visionary, Jordan tapped six emerging creatives across Los Angeles, the city that known for legends, for the last stop on the U.S. leg of its exclusive workshop circuit.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "284f2b5e01fc",
-      "title": "Barefoot Brand Xero Shoes Taps Deckers, Allbirds Execs to Fuel Growth",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/xero-shoes-female-executive-hires-growth-1239127140/",
-      "original_publish_time": "2026-08-17T18:25:50+00:00",
-      "scraped_time": "2026-08-17T23:25:47.256963+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Allbirds"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 5,
-      "summary": "The hires come as the company continues to build global momentum across direct-to-consumer, wholesale and distributors.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "b320f72dbad3",
-      "title": "How a Cancelled Fugazi x Vans Collab Led to $5 USD Shoes",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/8/fugazi-vans-5-dollar-shoe-drop-release-info",
-      "original_publish_time": "2026-08-17T17:39:50+00:00",
-      "scraped_time": "2026-08-17T23:25:57.883874+00:00",
-      "time_delta_mins": 0,
-      "category": "Quality",
-      "brands_mentioned": [
-        "Vans"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 5,
-      "summary": "SummaryVans canceled its Fugazi streetwear collaboration following backlash from fans of the anti-consumerist punk band of the same name.Despite the cancellation, the clothing label discreetly released the controversial shoes for $5 at its stores, drawing massive crowds.When Fugazi x Vans was first teased at Paris Fashion Week in June, it drummed up major excitement from the streetwear label's dedicated fans. However, it wasn't long until people began to draw comparisons between the brand name and the famous punk band Fugazi, ultimately leading to the partnership's cancellation.The controversy peaked in July when the band's drummer, Brendan Canty, publicly criticized the clothing brand as \"horrendous\" and called the collaboration \"tone deaf\". In response to the uproar, Vans executive Steve",
       "ren_take": "",
       "image_url": ""
     }
