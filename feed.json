@@ -1,8 +1,174 @@
 {
-  "last_updated": "2026-08-25T17:37:41.018250+00:00",
-  "total_articles": 90,
-  "sources_checked": 52,
+  "last_updated": "2026-08-25T23:37:46.113121+00:00",
+  "total_articles": 94,
+  "sources_checked": 60,
   "articles": [
+    {
+      "id": "9a316c8a8735",
+      "title": "Reebok’s “Birks” Are Actually Good",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/reebok-classic-mules/",
+      "original_publish_time": "2026-08-25T23:11:57+00:00",
+      "scraped_time": "2026-08-25T23:30:26.813902+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Reebok",
+        "Birkenstock"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "Reebok debuts its Classic Mules, a Birkenstock-flavored suede slip-on model with sporty touches. Here's everything on the new slipper.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "0919ab84b51d",
+      "title": "Anthony Edwards Knows He Made Basketball Sneakers Cool Again",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/anthony-edwards-adidas-interview/",
+      "original_publish_time": "2026-08-25T23:10:55+00:00",
+      "scraped_time": "2026-08-25T23:30:26.812635+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "shoes",
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "Anthony Edwards is responsible for the coolest basketball sneaker in modern memory. We spoke to Ant Man in Manila about the legacy of his adidas AE shoes.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "ac9994fcf98b",
+      "title": "One Last Ride? Nike Has More Ja 3 Releases Coming",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/08/25/nike-ja-3-team-bank-midnight-navy-iv4426-107/",
+      "original_publish_time": "2026-08-25T22:00:20+00:00",
+      "scraped_time": "2026-08-25T23:26:59.230381+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "Typically, signature shoes don’t come with a post-credits scene. With Ja Morant so heavily involved in the leaks and previews of his product line as... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post One Last Ride? Nike Has More Ja 3 Releases Coming appeared first on Sneaker News . The post One Last Ride? Nike Has More Ja 3 Releases Coming appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "148669f50d6d",
+      "title": "Nike’s Weird Tabi Sneaker Lets Its Hair Down",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-air-rift-pony-hair-sneakers/",
+      "original_publish_time": "2026-08-25T21:34:38+00:00",
+      "scraped_time": "2026-08-25T23:30:26.814435+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "Nike's putting pony hair Air Rift sneakers back on the map, releasing new fur-covered versions in three colorways.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "1f09fe8591c3",
+      "title": "KITH Outfits The adidas Samba In Denim For Autumn",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/08/25/kith-adidas-samba-denim/",
+      "original_publish_time": "2026-08-25T21:30:05+00:00",
+      "scraped_time": "2026-08-25T23:26:59.231946+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Nike",
+        "Adidas",
+        "New Balance",
+        "Salomon"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 5,
+      "summary": "There’s never a break in the KITH newswire. After teaming up with Salomon and with New Balance for brand new silhouettes, with Nike for a... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post KITH Outfits The adidas Samba In Denim For Autumn appeared first on Sneaker News . The post KITH Outfits The adidas Samba In Denim For Autumn appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "0e3d3ec9d5c0",
+      "title": "A New Balance Dad Shoe So Cold, It's \"Arctic\" Grey",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/new-balance-992-light-arctic-grey/",
+      "original_publish_time": "2026-08-25T21:20:39+00:00",
+      "scraped_time": "2026-08-25T23:30:26.813339+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "New Balance"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "New Balance's 992 sneaker lands in \"Light Arctic Grey,\" resulting in the iciest version of the dad shoes yet.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "dc46ade4f9cf",
+      "title": "Dick’s and Foot Locker Are in a Footwear ‘Hangover’ as Stock Tumbles 30 Percent",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/dicks-sporting-goods-stock-price-drop-explained-1239149903/",
+      "original_publish_time": "2026-08-25T20:57:57+00:00",
+      "scraped_time": "2026-08-25T23:26:48.417080+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "But it’s not all bad news, according to executive chairman Ed Stack.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "9f31f9365570",
+      "title": "Yu-Gi-Oh Crocs Collection Revealed Early At World Championships",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/08/25/yu-gi-oh-crocs-fall-2026/",
+      "original_publish_time": "2026-08-25T20:00:19+00:00",
+      "scraped_time": "2026-08-25T23:26:59.234046+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Adidas",
+        "Crocs"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "The One Piece Air Max Plus collection, as well as the adidas Pokemon effort for the 30th anniversary, has all of a sudden made anime... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Yu-Gi-Oh Crocs Collection Revealed Early At World Championships appeared first on Sneaker News . The post Yu-Gi-Oh Crocs Collection Revealed Early At World Championships appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "b76c6b0a07f2",
       "title": "Dick's Sporting Goods says it's 'still early in the Foot Locker turnaround' as it cites footwear challenges - Modern Retail",
@@ -374,6 +540,27 @@
       ],
       "relevance_score": 3,
       "summary": "Name: Cecilie Bahnsen x ASICS GEL-KINETIC FRColorway: Piedmont Gray, Black CoffeeSKU: TBCMSRP: £175 GBP (approx. $238 USD)Release Date: August 28 (Cecilie Bahnsen), September 12 (ASICS)Where to Buy: Cecilie Bahnsen, ASICSCecilie Bahnsen and ASICS have re-partnered to introduce the GEL-KINETIC FR sneaker, available in two core colorways: \"Piedmont Grey Silver\" and \"Black Coffee\". Inspired by the kinetic energy of flowers in motion, the silhouette seamlessly marries ASICS' technical performance heritage with Bahnsen's couture-infused language of modern femininity.The shoe is constructed on a fine, micro-textured base with a softly semi-matte appearance that catches the light with a subtle, strobe-like highlight. Across the upper, debossed, embossed and high-frequency floral motifs create ric",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "999e29924d81",
+      "title": "From Saucony to adidas, the Seven Best Sneakers to Cop This Week",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/sneaker-releases-2026-august-week-4/",
+      "original_publish_time": "2026-08-25T10:00:19+00:00",
+      "scraped_time": "2026-08-25T23:30:26.815732+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "Whether you're shopping for a new dad shoe or a tried-and-true icon, this week's range of releases has all types of sneakerheads covered.",
       "ren_take": "",
       "image_url": ""
     },
@@ -1775,110 +1962,6 @@
       ],
       "relevance_score": 3,
       "summary": "The season’s hero motif, the rose, appeared as precision-perforated leather, hand-appliquéd detailing, and sculpted floral relief soles.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "0817b267a12b",
-      "title": "Even Nike’s Beautifully Beefy Hiking Shoe Has Its Grey Days",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-acg-zegama-hike-photon-dust/",
-      "original_publish_time": "2026-08-18T21:22:51+00:00",
-      "scraped_time": "2026-08-18T23:28:29.902942+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 3,
-      "summary": "Nike's ACG Zegema Hike lands in a new \"Photon Dust\" colorway, resulting in a clean grey version of the extra-tough sneaker-boot.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "59d81d2c5f4f",
-      "title": "A$AP Rocky Put Vibram Tires on His All-New PUMA Ride",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/asap-rocky-puma-straycat-sneakers/",
-      "original_publish_time": "2026-08-18T21:18:59+00:00",
-      "scraped_time": "2026-08-18T23:28:29.903793+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Puma",
-        "Vibram"
-      ],
-      "keywords_matched": [
-        "sole"
-      ],
-      "relevance_score": 5,
-      "summary": "After casual on-stage teases, A$AP Rocky's PUMA Vibram-soled Straycat sneaker officially lands. Here's everything on the debut.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "a546b6821734",
-      "title": "Nike’s Eccentric Foamposite Tennis Crossover Is Ready to Serve Again",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-vapor-x-posite-sneakers/",
-      "original_publish_time": "2026-08-18T21:14:30+00:00",
-      "scraped_time": "2026-08-18T23:28:29.904503+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "Nike revives the Vapor x Posite sneaker, a tennis model with the Foamposite's futuristic upper. Here's everything on the reborn crossover.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "0880f6579b28",
-      "title": "The New Balance 1890A Softens Up In Pink",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/08/18/new-balance-1890a-loafer-pink-u18901t0/",
-      "original_publish_time": "2026-08-18T20:30:27+00:00",
-      "scraped_time": "2026-08-18T23:24:55.956501+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "New Balance"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "The instigators of the sneaker-loafer trend have done it again with the New Balance 1890A, another experimental hybrid featuring a moc toe upper built on... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The New Balance 1890A Softens Up In Pink appeared first on Sneaker News . The post The New Balance 1890A Softens Up In Pink appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "284202444b9b",
-      "title": "The Atlanta Shoe Market Trend Report: Spring 2027 Will Be All About Mary Janes, Mules & Ballet Sneakers",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-trends/spring-2027-trend-preview-atlanta-shoe-market-1239128306/",
-      "original_publish_time": "2026-08-18T18:39:15+00:00",
-      "scraped_time": "2026-08-18T23:24:45.050137+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "There was an unmissable emphasis on comfort and femininity in the women’s collections.",
       "ren_take": "",
       "image_url": ""
     }
