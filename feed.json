@@ -1,8 +1,27 @@
 {
-  "last_updated": "2026-08-26T11:40:57.504731+00:00",
-  "total_articles": 90,
-  "sources_checked": 61,
+  "last_updated": "2026-08-26T19:07:18.312250+00:00",
+  "total_articles": 86,
+  "sources_checked": 60,
   "articles": [
+    {
+      "id": "32b9dfc6a2dd",
+      "title": "How to Wear Dancing Shoes to Harry Styles’ MSG Shows Without Sacrificing Your Feet, According to Podiatrists",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-trends/harry-styles-dancing-shoes-podiatrist-concert-advice-1239148548/",
+      "original_publish_time": "2026-08-26T18:47:11+00:00",
+      "scraped_time": "2026-08-26T18:56:02.018373+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "Podiatrists Dr. Anne Sharkey and Dr. Bobby Pourziaee offered their best advice for concert-ready shoes.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "6e9b2453fe0d",
       "title": "Nike Air Force 1 Pays Homage to Its Heritage With New \"Air Soul\" Colorway",
@@ -1777,110 +1796,6 @@
       ],
       "relevance_score": 5,
       "summary": "The Vans Old Skool 36 Souvenir Navy Blue will be released Thursday.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "e7db12812772",
-      "title": "Inside Lili Curia, the Vintage-inspired Shoe Brand Making Custom Boots for Suki Waterhouse",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-features/lili-curia-footwear-brand-chili-palmer-interview-1239125440/",
-      "original_publish_time": "2026-08-19T17:33:14+00:00",
-      "scraped_time": "2026-08-19T23:25:23.060853+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "boot",
-        "shoe brand",
-        "shoemaking"
-      ],
-      "relevance_score": 7,
-      "summary": "Founder Chili Palmer talked to FN about how she draws on three generations of shoemaking as her London label approaches its first anniversary.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "d1e653ffa9bd",
-      "title": "The Nike Kobe 3 Low Lets Loose A Mismatched Kids’ Pair",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/08/19/nike-kobe-3-low-protro-mismatch-blue-green-iz7934-900/",
-      "original_publish_time": "2026-08-19T17:30:29+00:00",
-      "scraped_time": "2026-08-19T23:25:33.713345+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "There are countless examples of NBA athletes suiting up in shoes that differ from left to right. Tracy McGrady has arguably had the most iconic... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Nike Kobe 3 Low Lets Loose A Mismatched Kids' Pair appeared first on Sneaker News . The post The Nike Kobe 3 Low Lets Loose A Mismatched Kids’ Pair appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "492aaf925844",
-      "title": "The Pokémon x Crocs Classic Clogs Collection Adds Pikachu And Gengar",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/08/19/pokemon-crocs-pikachu-gengar-clogs/",
-      "original_publish_time": "2026-08-19T17:00:46+00:00",
-      "scraped_time": "2026-08-19T17:22:22.371427+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Adidas",
-        "Puma",
-        "Crocs"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 4,
-      "summary": "From PUMA to adidas, it feels like no brand that we cover on a regular basis has been spared from Pokémon’s 30th anniversary push. Even... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Pokémon x Crocs Classic Clogs Collection Adds Pikachu And Gengar appeared first on Sneaker News . The post The Pokémon x Crocs Classic Clogs Collection Adds Pikachu And Gengar appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "1b9a71156cd8",
-      "title": "Development of the Leather and Footwear Industry in Central Asian Countries in the First Half of 2026 - Review.uz",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY0h6ZWppVFZFbEN5NHVINVQ5NVZ0NDl3TTF1UHRiNzRENEpXV3c2N2U3dEtOR2NPU2RlcVYxTmRzcjhKVC1WcXhycTZXRExzdVlNaW5CSDBuSEdHakxCTjVvYmhURnZVQmlCZGVrMXBPYW1HTWdrenpMNDFvSUQ1MW9lU1BSbWlzLWE0MHNodWh6S0NTQnZoS3VrV2w2R2RyOFBNV3hn?oc=5",
-      "original_publish_time": "2026-08-19T14:22:15+00:00",
-      "scraped_time": "2026-08-20T05:19:25.091636+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "footwear industry"
-      ],
-      "relevance_score": 6,
-      "summary": "Development of the Leather and Footwear Industry in Central Asian Countries in the First Half of 2026 Review.uz",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "1581380269ba",
-      "title": "EXCLUSIVE: Channel Tres Surprises Young L.A. Musicians With Ugg Shoes and Advice on Making It",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-features/channel-tres-ugg-harmony-project-students-1239142817/",
-      "original_publish_time": "2026-08-19T13:56:54+00:00",
-      "scraped_time": "2026-08-19T17:22:11.386502+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "UGG"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 5,
-      "summary": "The Compton-raised artist, who has a partnership with Ugg, visited Harmony Project and reflected on the teacher who first taught him to believe in himself.",
       "ren_take": "",
       "image_url": ""
     }
