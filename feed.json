@@ -1,8 +1,30 @@
 {
-  "last_updated": "2026-08-25T23:37:46.113121+00:00",
-  "total_articles": 94,
-  "sources_checked": 60,
+  "last_updated": "2026-08-26T05:45:40.211781+00:00",
+  "total_articles": 95,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "6e9b2453fe0d",
+      "title": "Nike Air Force 1 Pays Homage to Its Heritage With New \"Air Soul\" Colorway",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/8/nike-air-force-1-low-07-air-soul-iw2353-001-release-info",
+      "original_publish_time": "2026-08-26T04:42:04+00:00",
+      "scraped_time": "2026-08-26T05:20:56.936233+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "insole",
+        "sole"
+      ],
+      "relevance_score": 4,
+      "summary": "Summary Nike is introducing the Air Force 1 \"Air Soul\" to celebrate the silhouette's storied historyThe design pairs black patent leather exteriors with eye-catching fuzzy oversized lacesGraphics on the insoles and tongues highlight the Original Six athletes and the model's initial product code Name: Nike Air Force 1 Low '07 \"Air Soul\"Colorway: Black/Black/Cinnamon/BlackSKU: IW2353-001MSRP: $125 USDRelease Date: August 28, 2026Where to Buy: NikeNike is expanding its classic basketball lineup with the upcoming Air Force 1 Low \"Air Soul.\" The release pays direct tribute to the iconic silhouette’s lineage through metatextual graphics and archival details.The design makes an immediate visual statement with its sleek black patent leather exterior offset by fuzzy, oversized laces. Beyond the dis",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "9a316c8a8735",
       "title": "Reebok’s “Birks” Are Actually Good",
