@@ -1,8 +1,48 @@
 {
-  "last_updated": "2026-08-27T16:07:04.830679+00:00",
-  "total_articles": 86,
-  "sources_checked": 60,
+  "last_updated": "2026-08-27T21:06:36.032360+00:00",
+  "total_articles": 87,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "8919b278393a",
+      "title": "Taylor Swift, Katie Holmes and More Show How to Rethink Loafers, Oxfords and Derby Shoes for Fall",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-trends/how-to-style-fall-loafers-oxfords-derby-shoes-taylor-swift-1239165978/",
+      "original_publish_time": "2026-08-27T19:24:18+00:00",
+      "scraped_time": "2026-08-27T20:54:55.941858+00:00",
+      "time_delta_mins": 0,
+      "category": "Trade Data",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "From tortoise patent to white socks over black tights, five celebrity looks take the classic work shoes beyond the weekday uniform.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "ef01a30a3a41",
+      "title": "Timberland and Telfar’s Hit Boot Collaboration Just Came Back — and Styles Are Already Selling Out",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/telfar-timberland-boots-2026-restock-1239168255/",
+      "original_publish_time": "2026-08-27T17:19:06+00:00",
+      "scraped_time": "2026-08-27T20:54:55.944460+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Timberland"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 5,
+      "summary": "The Telfar x Timberland styles are available now for preorder, but they won't last long.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "d6fda14e6f95",
       "title": "UGG and Willy Chavarria Announce Debut Capsule Collection",
@@ -1778,25 +1818,6 @@
       ],
       "relevance_score": 3,
       "summary": "Brazil posts first trade deficit in footwear since 1997 World Footwear",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "1f2bcb5e517b",
-      "title": "I Write About Sneakers for a Living — These Are My Favorite Pairs of 2026 - TODAY.com",
-      "source_name": "Google News - Sneaker Brand",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBrTnk3bmNGS2FRSmJIaF9aeHptSEI3V1R2RGllS3BOdm8ycUxiTFpIQ2lRSUFUOTRlWVB1UWY4ekowQ2tHNGpmd29jaW95Mm81eXJISkw2Ym5MbkR5OTZ3SUN0dTZScjA?oc=5",
-      "original_publish_time": "2026-08-20T19:22:31+00:00",
-      "scraped_time": "2026-08-21T17:24:10.279492+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "I Write About Sneakers for a Living — These Are My Favorite Pairs of 2026 TODAY.com",
       "ren_take": "",
       "image_url": ""
     }
