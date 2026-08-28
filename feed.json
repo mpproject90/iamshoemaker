@@ -1,8 +1,53 @@
 {
-  "last_updated": "2026-08-28T01:26:46.770435+00:00",
-  "total_articles": 89,
+  "last_updated": "2026-08-28T07:00:13.903081+00:00",
+  "total_articles": 90,
   "sources_checked": 61,
   "articles": [
+    {
+      "id": "4c8ad94b178f",
+      "title": "Hiroshi Fujiwara Teases Unreleased Fragment x Nike Book 2 Sample",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/8/hiroshi-fujiwara-devin-booker-teases-unreleased-fragment-nike-book-2-sample",
+      "original_publish_time": "2026-08-28T04:18:38+00:00",
+      "scraped_time": "2026-08-28T06:49:02.276516+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "midsole",
+        "sole",
+        "upper"
+      ],
+      "relevance_score": 5,
+      "summary": "Summary Hiroshi Fujiwara has shared a look at an unreleased Fragment x Nike Book 2 on InstagramThe sample features a white upper paired with light tan accents and pink SwooshesAn official retail launch for the colorway has not been announced Nike and fragment design have surfaced in a new sample preview featuring the Nike Book 2. Fragment founder Hiroshi Fujiwara took to Instagram to reveal a previously unseen colorway of Devin Booker’s signature sneaker.Taking a lighter design approach than the black Fragment x Nike Book 2 released earlier in the year, this sample pairs a mostly white upper with subtle light tan accents. Vibrant pink Swooshes provide the primary contrast across the side panels. Most of the original collaborative details remain intact, with the midsole featuring stamped bl",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "6b4e2984c29b",
+      "title": "Nike Unveils the Caitlin 1 \"Friendship Bracelet\" Signature Sneaker",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/8/nike-unveils-the-caitlin-1-friendship-bracelet-signature-sneaker",
+      "original_publish_time": "2026-08-28T03:38:06+00:00",
+      "scraped_time": "2026-08-28T06:49:02.279294+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "footwear",
+        "upper"
+      ],
+      "relevance_score": 4,
+      "summary": "Summary Nike and Caitlin Clark are introducing a Taylor Swift-inspired \"Friendship Bracelet\" colorway of the Nike Caitlin 1The silhouette features custom lace charms spelling out Clark's jersey number 22 alongside an iridescent OptiCast upperThe release is expected to drop on February 24, 2027 for a retail price of $150 USD Name: Nike Caitlin 1 \"Friendship Bracelet\"Colorway: Pearl Pink/Summit White-Metallic Silver-Racer BlueSKU: IH7423-300MSRP: $150 USDRelease Date: February 24, 2027Where to Buy: NikeNike has officially revealed the Caitlin 1 \"Friendship Bracelet\", bringing Caitlin Clark’s appreciation for Taylor Swift to her signature sneaker line. The colorway expands on Clark's signature footwear rotation with design elements inspired by Swift's Eras Tour.The design centers around custo",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "d960abba31aa",
       "title": "Salehe Bembury x PUMA's New Fusion: the Velum 2",
@@ -1836,30 +1881,6 @@
       ],
       "relevance_score": 3,
       "summary": "The footwear maker’s plans include enlarging and refitting plants in Germany while also extending a factory in Portugal.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "c90df839edea",
-      "title": "Sole Searching? Shop These Podiatrist-Approved Sneakers from Asics, Brooks, New Balance, and More from $45 - People.com",
-      "source_name": "Google News - Sneaker Brand",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTU9pU1JONnYxOEJFeUJkaHdXTGE0cHZPREg5NmlyckV4VlVadVpkc3g2cG51emZISlVwSTFLcUozTkRSd3RMMksyd3ZwazJWNHBkZzFEVmtKa1lvelpYVHBjb21YTUY3VGtkT3djVGhkdGFnYzlocnk3MXhqMzY0bg?oc=5",
-      "original_publish_time": "2026-08-21T06:45:00+00:00",
-      "scraped_time": "2026-08-22T17:17:08.727692+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "New Balance",
-        "ASICS",
-        "Brooks"
-      ],
-      "keywords_matched": [
-        "sneakers",
-        "sole"
-      ],
-      "relevance_score": 12,
-      "summary": "Sole Searching? Shop These Podiatrist-Approved Sneakers from Asics, Brooks, New Balance, and More from $45 People.com",
       "ren_take": "",
       "image_url": ""
     }
