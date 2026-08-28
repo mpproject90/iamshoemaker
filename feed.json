@@ -1,8 +1,219 @@
 {
-  "last_updated": "2026-08-28T17:09:11.236736+00:00",
-  "total_articles": 90,
-  "sources_checked": 61,
+  "last_updated": "2026-08-28T21:30:59.331275+00:00",
+  "total_articles": 94,
+  "sources_checked": 60,
   "articles": [
+    {
+      "id": "2d44c8fc8d70",
+      "title": "Vans’ Baddest Winter Boot Is Even Better as a Sneaker",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/vans-standard-low-shoe/",
+      "original_publish_time": "2026-08-28T21:18:40+00:00",
+      "scraped_time": "2026-08-28T21:23:26.569441+00:00",
+      "time_delta_mins": 0,
+      "category": "Quality",
+      "brands_mentioned": [
+        "Vans"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 5,
+      "summary": "Vans releases the Standard Low, a low-top sneaker-ish version of its toughest MTE winter boots.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "c612914e21e3",
+      "title": "49ers Superstar Christian McCaffrey Teams Up with Indie Sneaker while on earth for The CMC - Sole Retriever",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWXJiTks3aUdJLWk5amZOM1Y5cXZleGNCR1FiVjRuZjV1OW5VeFhqVU5yRE5XYXV1ZUYtcjYyNjg0aE9lWk41TmE1N2tvdUFmY2tqVmlpTWYweXBfZnpfcW12MFc5WUttcnVZNlhrWW5yU2ZSekw4M0FfR1k2OUdhYWdaVWhDM1NXREsyZUlUYVBwVEhHbFMzaDB3?oc=5",
+      "original_publish_time": "2026-08-28T21:15:36+00:00",
+      "scraped_time": "2026-08-28T21:20:06.506062+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sole"
+      ],
+      "relevance_score": 3,
+      "summary": "49ers Superstar Christian McCaffrey Teams Up with Indie Sneaker while on earth for The CMC Sole Retriever",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "eab1f92e789c",
+      "title": "Nike's Crisp Black Denim Air Maxes Are Only Part \"Jeaker\"",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-air-max-90-black-denim/",
+      "original_publish_time": "2026-08-28T21:11:03+00:00",
+      "scraped_time": "2026-08-28T21:23:26.570179+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "Nike's latest Air Max 90 sneakers feature black denim moments, as well as other nice textures. So, don't call them \"jeakers\" just yet.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "793479d87002",
+      "title": "Nike’s Iced-Out Snakeskin Air Forces Are Seriously Cold (Blooded)",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-kobe-air-force-1-armory-blue/",
+      "original_publish_time": "2026-08-28T21:09:44+00:00",
+      "scraped_time": "2026-08-28T21:23:26.570654+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sneakers",
+        "upper"
+      ],
+      "relevance_score": 4,
+      "summary": "Nike's Kobe Air Force 1 \"Armory Blue\" sneakers marry crisp snakeskin uppers with icy blue accents for the coldest release yet.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "34b2f0068d30",
+      "title": "Nike's British Air Jordans Are as Handsome as They Are Hairy",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/jordan-4-london/",
+      "original_publish_time": "2026-08-28T21:08:14+00:00",
+      "scraped_time": "2026-08-28T21:23:26.571171+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 5,
+      "summary": "The Air Jordan 4 \"London\" sneaker lands as a city-themed spin complete with faded fuzzy suede uppers & vintage-style details.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "cb905a15ba4d",
+      "title": "SKIMS Enlists Supreme Veteran & Lemaire Designer Duo Exits Uniqlo U in This Week's Top Fashion News",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/8/skims-supreme-uniqlo-u-ugg-willy-chavarria-gunna-under-armour-ovo-drake-info",
+      "original_publish_time": "2026-08-28T20:30:21+00:00",
+      "scraped_time": "2026-08-28T21:19:55.066351+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Under Armour",
+        "UGG",
+        "Gucci",
+        "Authentic Brands"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "SummarySKIMS names a Supreme veteran as design chief, Authentic Brands Group acquires a majority stake in Drake’s OVO, and Uniqlo U says farewell to Christophe Lemaire and Sarah-Linh Tran.UGG debuts a capsule with Willy Chavarria, while Gunna leads Under Armour’s new P-Star collection.Gucci taps global stars, like BTS's Jin, EsDeeKid, Rico Nasty, and Shawn Mendes, for its Primavera push.SKIMS' New Chief Design Officer Spent 22 Years at SupremeKim Kardashian’s SKIMS shifted its creative strategy this week, appointing Erin Magee as the brand’s first-ever Chief Design Officer. The move followed Magee’s recent departure from legendary streetwear label Supreme, where she spent 22 years shaping its cultural dominance and visual identity. Magee, who also founded the women’s streetwear brand Madem",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "f3794512ed44",
+      "title": "Where To Buy The Air Jordan 8 “Chrome”",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/08/28/air-jordan-8-chrome-release-date/",
+      "original_publish_time": "2026-08-28T19:00:42+00:00",
+      "scraped_time": "2026-08-28T21:19:55.255925+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "The Air Jordan 8 “Chrome” releases August 29th, 2026 via Nike SNKRS and select retailers. Full family sizing will be available, with adult pairs priced... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Where To Buy The Air Jordan 8 \"Chrome\" appeared first on Sneaker News . The post Where To Buy The Air Jordan 8 “Chrome” appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "8a34e2916da0",
+      "title": "Eva Longoria, Danny Trejo, And More Star In Willy Chavarria’s UGG Campaign",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/08/28/willy-chavarria-uggs/",
+      "original_publish_time": "2026-08-28T17:30:10+00:00",
+      "scraped_time": "2026-08-28T21:19:55.258340+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Adidas",
+        "UGG"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 4,
+      "summary": "Known throughout the footwear world for his skyrocketing partnership with adidas, Willy Chavarria is expanding his sphere of influence with a somewhat surprising new partner:... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Eva Longoria, Danny Trejo, And More Star In Willy Chavarria's UGG Campaign appeared first on Sneaker News . The post Eva Longoria, Danny Trejo, And More Star In Willy Chavarria’s UGG Campaign appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "7caa85a4df35",
+      "title": "New Balance Previews Fall Slate of Made in USA Sneakers Dropping Through the Rest of 2026",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/new-balance-made-usa-fall-2026-sneaker-collection-1239173704/",
+      "original_publish_time": "2026-08-28T17:15:57+00:00",
+      "scraped_time": "2026-08-28T21:19:44.643038+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "New Balance"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "Nine sneakers will release across seven drops from September to December.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "0865265112e0",
+      "title": "adidas Flexes Its 3D-Printed Range With The Futurecool Sneaker",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/08/28/adidas-futurecool-sneaker-ln3078/",
+      "original_publish_time": "2026-08-28T17:00:06+00:00",
+      "scraped_time": "2026-08-28T21:19:55.259569+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "3D-printed footwear has become a bustling category, represented by nearly every major player in the marketplace. For the Three Stripes, their Climacool initiative remains the... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post adidas Flexes Its 3D-Printed Range With The Futurecool Sneaker appeared first on Sneaker News . The post adidas Flexes Its 3D-Printed Range With The Futurecool Sneaker appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "c57a12bf8c91",
       "title": "An Iridescent Air Jordan 9 Boot Is Dropping This Holiday Season",
@@ -21,6 +232,27 @@
       ],
       "relevance_score": 5,
       "summary": "Despite many regarding it in the lower echelons of the Retro catalog, no doubt owing to it lacking the iconic on-court moments from His Airness,... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post An Iridescent Air Jordan 9 Boot Is Dropping This Holiday Season appeared first on Sneaker News . The post An Iridescent Air Jordan 9 Boot Is Dropping This Holiday Season appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "7d543da03304",
+      "title": "Jennie Remixes the Superstar Sneaker With Pointe Shoe Details in First Adidas Originals Collaboration",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/jennie-adidas-originals-superstar-sq-ballet-sneaker-collab-1239173514/",
+      "original_publish_time": "2026-08-28T14:44:09+00:00",
+      "scraped_time": "2026-08-28T21:19:44.644923+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "The Superstar SQ Ballet borrows its squared toe and ribbon detailing from dance footwear.",
       "ren_take": "",
       "image_url": ""
     },
@@ -1736,151 +1968,6 @@
       "keywords_matched": [],
       "relevance_score": 3,
       "summary": "The Nike Air Max 95 Big Bubble Premium Black/Gum/Volt combines enlarged OG cushioning specs with a rugged, stealthy material treatment.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "ec1c220639cc",
-      "title": "Nike's Nostalgic Leather Air Forces Cracked the Code",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-air-force-1-cracked-leather/",
-      "original_publish_time": "2026-08-21T20:56:34+00:00",
-      "scraped_time": "2026-08-21T23:30:02.327560+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "Nike's latest Air Force 1 Low marries a 2001 shape with cracked leather uppers for a seriously nostalgic version of the world-famous sneaker.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "94b2e31fbca9",
-      "title": "New Balance’s Colorful \"Dunk\" Skate Shoes Took the Scenic Route",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/35th-north-new-balance-numeric-480/",
-      "original_publish_time": "2026-08-21T20:51:58+00:00",
-      "scraped_time": "2026-08-21T23:30:02.326248+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "New Balance"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 5,
-      "summary": "35th North Skateshop debuts its first-ever New Balance sneaker collab, a colorful & textural 480 skate shoe inspired by the Pacific Northwest's scenes.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "f842d094ab2a",
-      "title": "Nike’s Army-Toned Air Jordans Deserve a Salute",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/jordan-4-light-army/",
-      "original_publish_time": "2026-08-21T20:49:48+00:00",
-      "scraped_time": "2026-08-21T23:30:02.326969+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike",
-        "Jordan"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 4,
-      "summary": "The Air Jordan 4 Retro sneaker lands in the familiar \"Light Army\" colorway. The results? A tonal military-coded take on the signature model.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "a052ac050d6d",
-      "title": "A Bronx Brand Gives Nike’s Nicest ACG Boot a Beautiful Tune-Up",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/taller-de-rafa-nike-air-max-goadome-low/",
-      "original_publish_time": "2026-08-21T20:46:51+00:00",
-      "scraped_time": "2026-08-21T23:30:02.328423+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 5,
-      "summary": "Taller de Rafa takes Nike's Air Max Goadome Low boot for a spin, resulting in an vintage-flavored brown take with automotive-coded details.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "d67853ff5997",
-      "title": "Michael Jordan’s Air Jordan 5 Gets a Little Taste of Miami From This Solefly Collaboration",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/solefly-air-jordan-5-release-date-iu0734-001-1239146414/",
-      "original_publish_time": "2026-08-21T20:40:10+00:00",
-      "scraped_time": "2026-08-21T23:26:20.982526+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Jordan"
-      ],
-      "keywords_matched": [
-        "sole"
-      ],
-      "relevance_score": 5,
-      "summary": "The sneaker features teal accents tied to South Beach.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "28445f4185bd",
-      "title": "Where To Buy The Air Jordan 1 Low OG “Laser”",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/08/21/air-jordan-1-low-og-laser-release-date/",
-      "original_publish_time": "2026-08-21T20:00:36+00:00",
-      "scraped_time": "2026-08-21T23:26:31.689333+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike",
-        "Jordan"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "The Air Jordan 1 Low OG “Laser” drops August 22nd, 2026 for $165 alongside the “Laser” 3s. Pairs will be available via Nike SNKRS and... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Where To Buy The Air Jordan 1 Low OG \"Laser\" appeared first on Sneaker News . The post Where To Buy The Air Jordan 1 Low OG “Laser” appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "8681446184bd",
-      "title": "Nike Isn’t Done Dropping Boot-Inspired Air Maxes",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/08/21/nike-air-max-premium-boot-pack-iq7129-001-iq7127-001/",
-      "original_publish_time": "2026-08-21T19:30:20+00:00",
-      "scraped_time": "2026-08-21T23:26:31.690872+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 5,
-      "summary": "But wait, there’s more. Nike is adding to its Air Max Mad 90 Pack, one of the best lifestyle collections created around the 2026 FIFA... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike Isn’t Done Dropping Boot-Inspired Air Maxes appeared first on Sneaker News . The post Nike Isn’t Done Dropping Boot-Inspired Air Maxes appeared first on Sneaker News .",
       "ren_take": "",
       "image_url": ""
     }
