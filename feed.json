@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-29T01:03:14.656851+00:00",
-  "total_articles": 96,
+  "last_updated": "2026-08-29T04:14:48.982366+00:00",
+  "total_articles": 97,
   "sources_checked": 61,
   "articles": [
     {
@@ -508,6 +508,25 @@
       ],
       "relevance_score": 5,
       "summary": "The Telfar x Timberland styles are available now for preorder, but they won't last long.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "a6c771635c4a",
+      "title": "The Best New On Sneakers of 2026 (So Far) - Gear Patrol",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBybDJEcGhFR1hxMnp0WUY4U2tMM2psQl8wYTB6aGs5MXhtb3BIZ0lUamliQkkxODNKTUxLU3Z3V0p0M0hzVldXdm9iOXBpNlZGR04weVhsRnBJUzdwYnRKUnVONnRNVXFxdHc?oc=5",
+      "original_publish_time": "2026-08-27T15:22:25+00:00",
+      "scraped_time": "2026-08-29T04:04:07.839786+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "The Best New On Sneakers of 2026 (So Far) Gear Patrol",
       "ren_take": "",
       "image_url": ""
     },
