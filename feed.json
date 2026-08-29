@@ -1,8 +1,49 @@
 {
-  "last_updated": "2026-08-29T15:46:16.416762+00:00",
-  "total_articles": 97,
-  "sources_checked": 61,
+  "last_updated": "2026-08-29T19:46:20.555080+00:00",
+  "total_articles": 98,
+  "sources_checked": 60,
   "articles": [
+    {
+      "id": "0ee82440f7c1",
+      "title": "Timberland Brought Back a Heritage 6-Inch Waterproof Boot From the ’90s and It’s Available Right Now",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/timberland-heritage-6-inch-waterproof-boot-concrete-gray-1239174783/",
+      "original_publish_time": "2026-08-29T17:53:17+00:00",
+      "scraped_time": "2026-08-29T19:35:34.116073+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Timberland"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 5,
+      "summary": "The Timberland Heritage 6-inch Waterproof Boot returns in Concrete Gray.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "d33ddb53a7e4",
+      "title": "Nike Installs Former Foot Locker Supply Chain Chief as Converse COO",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/converse-names-kristin-bauer-coo-1239174680/",
+      "original_publish_time": "2026-08-29T16:37:00+00:00",
+      "scraped_time": "2026-08-29T19:35:34.118398+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Nike",
+        "Converse"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 5,
+      "summary": "Kristin Bauer will begin work at the struggling brand on Sept. 14.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "2cd4b6787e9f",
       "title": "Inside the FN Archive: Dolly Parton’s Legendary Shoes and the Bespoke Designers Who Made Them",
@@ -2006,28 +2047,6 @@
       ],
       "relevance_score": 3,
       "summary": "PM Modi Shares Minister Giriraj Singh’s Article on Technical Textiles in Footwear Sector News On AIR",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "eb6ccfd70f97",
-      "title": "Nike’s Cinnamon Leather Forces Has a Sweet Sole",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-air-force-1-black-cinnamon/",
-      "original_publish_time": "2026-08-22T16:44:45+00:00",
-      "scraped_time": "2026-08-22T17:20:35.862353+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "sole",
-        "upper"
-      ],
-      "relevance_score": 6,
-      "summary": "Nike's Air Force 1 '07 Low sneaker lands with \"Cinnamon\" leather uppers & black soles, resulting in a delicious & surprisingly textural spin.",
       "ren_take": "",
       "image_url": ""
     }
