@@ -1,8 +1,29 @@
 {
-  "last_updated": "2026-08-28T21:30:59.331275+00:00",
-  "total_articles": 94,
-  "sources_checked": 60,
+  "last_updated": "2026-08-29T01:03:14.656851+00:00",
+  "total_articles": 96,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "98d54bbf0b46",
+      "title": "Foot Locker And Converse Got Lite In The Bronx With The Chuck Taylor Throwback",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/08/28/foot-locker-converse-chuck-taylor-throwback-litefeet/",
+      "original_publish_time": "2026-08-28T21:45:53+00:00",
+      "scraped_time": "2026-08-29T00:51:14.221714+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Converse"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "Anyone who’s been invested in sneakers knows that regionality can be a controversial topic. What’s far less controversial are local dance scenes, unabashed points of... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Foot Locker And Converse Got Lite In The Bronx With The Chuck Taylor Throwback appeared first on Sneaker News . The post Foot Locker And Converse Got Lite In The Bronx With The Chuck Taylor Throwback appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "2d44c8fc8d70",
       "title": "Vans’ Baddest Winter Boot Is Even Better as a Sneaker",
@@ -211,6 +232,26 @@
       ],
       "relevance_score": 3,
       "summary": "3D-printed footwear has become a bustling category, represented by nearly every major player in the marketplace. For the Three Stripes, their Climacool initiative remains the... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post adidas Flexes Its 3D-Printed Range With The Futurecool Sneaker appeared first on Sneaker News . The post adidas Flexes Its 3D-Printed Range With The Futurecool Sneaker appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "c3057a3be859",
+      "title": "Is the Ballet Pointe Shoe the Biggest Inspiration for Footwear Designers Right Now?",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-trends/ballet-pointe-shoe-trend-adidas-louboutin-repetto-1239173778/",
+      "original_publish_time": "2026-08-28T16:13:32+00:00",
+      "scraped_time": "2026-08-29T00:51:02.744374+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "shoes"
+      ],
+      "relevance_score": 4,
+      "summary": "Hybrid shoe styles inspired by ballet pointe shoes are on the rise, from sporty to formal takes.",
       "ren_take": "",
       "image_url": ""
     },
