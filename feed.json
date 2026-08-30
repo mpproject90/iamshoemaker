@@ -1,8 +1,28 @@
 {
-  "last_updated": "2026-08-30T15:21:44.154101+00:00",
-  "total_articles": 105,
-  "sources_checked": 61,
+  "last_updated": "2026-08-30T19:57:34.828147+00:00",
+  "total_articles": 104,
+  "sources_checked": 76,
   "articles": [
+    {
+      "id": "c7791a344224",
+      "title": "adidas Jellyfish “Timber,” Jordan 4 “Tour,” And This Week’s Best Releases",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/08/30/sneaker-releases-august-30-september-5-2026/",
+      "original_publish_time": "2026-08-30T16:00:14+00:00",
+      "scraped_time": "2026-08-30T19:37:29.399853+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Adidas",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "The Three Stripes and the Jumpman’s cash cows go head-to-head. Yes, while the Air Jordan 4 has been the apple of many sneakerheads’ eyes in... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post adidas Jellyfish \"Timber,\" Jordan 4 \"Tour,\" And This Week's Best Releases appeared first on Sneaker News . The post adidas Jellyfish “Timber,” Jordan 4 “Tour,” And This Week’s Best Releases appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "3d3ea3c658ca",
       "title": "Jordan Brand Honors the U.K. Hoop Scene With the Air Jordan 4 \"London\"",
@@ -2156,47 +2176,6 @@
       ],
       "relevance_score": 6,
       "summary": "Summary Nike has partnered with the 'One Piece' manga franchise for an extensive footwear and apparel capsuleThe collection features three Devil Fruit-inspired expressions of the Nike Air Max Plus alongside co-branded jerseys t-shirts caps and a vestThe release debuts through regional pop-ups in Tokyo on September 4 followed by a global launch on September 25 Nike has officially announced an upcoming footwear and apparel collection inspired by the world-renowned manga franchise One Piece. Blending sportswear heritage with global pop culture, the partnership translates key lore from the storyline into specialized footwear executions and co-branded apparel.At the center of the collection are three distinct colorways of the Nike Air Max Plus featuring completely retooled uppers exclusive to t",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "ff4c255a9f9e",
-      "title": "This Vibram Crocs Sneaker Secretly Flexes Patagonia-Level Fleece",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/crocs-tembo-ii-ro/",
-      "original_publish_time": "2026-08-23T19:51:51+00:00",
-      "scraped_time": "2026-08-23T23:32:00.613600+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Crocs",
-        "Vibram"
-      ],
-      "keywords_matched": [
-        "sole"
-      ],
-      "relevance_score": 5,
-      "summary": "Crocs debuts the Tembo II RO sneaker-clog, essentially an updated archival winter model featuring Vibram soles & Polartec fleece.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "4b65ab4f94be",
-      "title": "Rihanna Does Momma Duties in Snakeskin Sandal Heels in New York with A$AP Rocky",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-trends/rihanna-snakeskin-sandal-heels-new-york-asap-rocky-1239147195/",
-      "original_publish_time": "2026-08-23T16:03:18+00:00",
-      "scraped_time": "2026-08-23T17:16:14.769112+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "sandal"
-      ],
-      "relevance_score": 3,
-      "summary": "The mother of three went for a causal look, punctuated by wild heels.",
       "ren_take": "",
       "image_url": ""
     }
