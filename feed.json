@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-30T10:24:37.787070+00:00",
-  "total_articles": 106,
-  "sources_checked": 60,
+  "last_updated": "2026-08-30T15:21:44.154101+00:00",
+  "total_articles": 105,
+  "sources_checked": 61,
   "articles": [
     {
       "id": "3d3ea3c658ca",
@@ -21,6 +21,27 @@
       ],
       "relevance_score": 4,
       "summary": "Summary Jordan Brand is releasing the Air Jordan 4 \"London\" colorwayThe sneaker trades standard nubuck for shaggy gray suede with rust-colored accents and a transparent mustache layerThe silhouette officially launches on September 12 2026 for $220 USD Name: Air Jordan 4 \"London\"Colorway: Black/Red Bark/Dark Smoke Grey/Smoke Grey/HempSKU: IV6048-001MSRP: $230 USDRelease Date: September 12, 2026Where to Buy: NikeJordan Brand has officially revealed a regional exclusive with the Air Jordan 4 \"London\". The sneaker commitment follows the announcement of the London Lions becoming the first British basketball team outfitted by the brand.The regional design shifts away from the silhouette's traditional nubuck upper, opting for a textured shaggy gray suede construction. Monochromatic styling carrie",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "8a709672006e",
+      "title": "adidas Put the Superstar On Ozempic",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/adidas-put-the-superstar-on-ozempic/",
+      "original_publish_time": "2026-08-30T08:19:01+00:00",
+      "scraped_time": "2026-08-30T15:14:34.320604+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "sole"
+      ],
+      "relevance_score": 3,
+      "summary": "The adidas Originals Superstar Lo Pro Aurora Coffee/Cream White strips away the 1970s cupsole in favor of an ultra-flat, low-profile footprint.",
       "ren_take": "",
       "image_url": ""
     },
@@ -2176,45 +2197,6 @@
       ],
       "relevance_score": 3,
       "summary": "The mother of three went for a causal look, punctuated by wild heels.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "d987fce18d82",
-      "title": "Footwear industry is backbone of India’s economy: Union Minister Giriraj Singh | Akashvani News - News On AIR",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ29UaXZQZHFWUm1nX2FHV3h5VGlhdFRaX01vcllPcGc2bU5fRFdmR282RjQ1ZnkyTE9Ic0drOHQ2SjM3NkI5ZFI3eEZsRHUyaTI0LW15clpXMnJYcS15QmN6Qy0xR1NEbVd0QVp6b0taVXVkZXVYNUxsdHdlX2JFUGtKLUFXenJ6eVdxU1I5NF9ud2tPVTFLM3hwbmNZdHl4cFFZdQ?oc=5",
-      "original_publish_time": "2026-08-23T13:22:55+00:00",
-      "scraped_time": "2026-08-24T05:27:25.101908+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "footwear industry"
-      ],
-      "relevance_score": 6,
-      "summary": "Footwear industry is backbone of India’s economy: Union Minister Giriraj Singh | Akashvani News News On AIR",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "fee4283b50fc",
-      "title": "PM Modi Shares Minister Giriraj Singh’s Article on Technical Textiles in Footwear Sector - News On AIR",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNlJpWmxSSHJhZ0lkbEh5Zk5meVdiYnM0dVlNMlJzRC1Oa1VoWjNVQ1NfUGwwS1lHeUVHY1dhTVo5U2VxSGVIeS1kWnQwLTFIRDQ0dGd5cUNZa2JHU2VwLVVfSHpZRkhNSmVTUVk0eUMybEgzcW9maEt4d0tYazhQaXgzZS02ZVk4cGhqX1hZNW9UbThVNVBnQ0ZxamMwcVpsbXZMY1Zraw?oc=5",
-      "original_publish_time": "2026-08-23T11:27:15+00:00",
-      "scraped_time": "2026-08-23T23:24:03.943338+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "PM Modi Shares Minister Giriraj Singh’s Article on Technical Textiles in Footwear Sector News On AIR",
       "ren_take": "",
       "image_url": ""
     }
