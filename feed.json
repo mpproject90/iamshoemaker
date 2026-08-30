@@ -1,8 +1,49 @@
 {
-  "last_updated": "2026-08-29T19:46:20.555080+00:00",
-  "total_articles": 98,
+  "last_updated": "2026-08-30T01:21:29.654886+00:00",
+  "total_articles": 101,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "d9e15d619654",
+      "title": "The Nike Pegasus Plus 2 Checks Off “White/Volt”",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/08/29/nike-pegasus-plus-2-white-volt-iz5682-100/",
+      "original_publish_time": "2026-08-29T22:00:37+00:00",
+      "scraped_time": "2026-08-30T01:09:32.110308+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "Much like black and red for every new Jordan silhouette, bright Volt accents are something of a rite of passage for Nike Running, having become... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Nike Pegasus Plus 2 Checks Off \"White/Volt\" appeared first on Sneaker News . The post The Nike Pegasus Plus 2 Checks Off “White/Volt” appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "d36666dbda00",
+      "title": "An Iconic Air Jordan Sneaker Takes Its Rightful Throne (Again)",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/jordan-1-royal-sneakers-2026/",
+      "original_publish_time": "2026-08-29T20:47:38+00:00",
+      "scraped_time": "2026-08-30T01:14:16.088671+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Jordan"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "The Air Jordan 1 \"Royal\" sneaker returns for 2026 with classic leather uppers & the iconic regal color scheme. Here's everything on the relaunch.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "0ee82440f7c1",
       "title": "Timberland Brought Back a Heritage 6-Inch Waterproof Boot From the ’90s and It’s Available Right Now",
@@ -1060,6 +1101,25 @@
       "keywords_matched": [],
       "relevance_score": 3,
       "summary": "The One Piece Air Max Plus collection, as well as the adidas Pokemon effort for the 30th anniversary, has all of a sudden made anime... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Yu-Gi-Oh Crocs Collection Revealed Early At World Championships appeared first on Sneaker News . The post Yu-Gi-Oh Crocs Collection Revealed Early At World Championships appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "d8bbde5497dd",
+      "title": "New Boot Sneaker From Sneaker Brand \"b/m\" Combines Volume With a Light, Streamlined Fit - haveagood-holiday.com",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9odl9nOXFsSkdvLU5rUTNyU3VxWFd4LUN2VFh3azBhX1FaRmZVSXNRNlhCZTFTMnZxcVAzMFNXY2ZWNENsVy15MkoxQ19ITi00Yzk3RUFRQmFMYzdhR2paNG85WHJRNFlqeDgxdkJIbUpTbm4zaF9v?oc=5",
+      "original_publish_time": "2026-08-25T19:41:59+00:00",
+      "scraped_time": "2026-08-30T01:09:43.955654+00:00",
+      "time_delta_mins": 0,
+      "category": "Trade Data",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 3,
+      "summary": "New Boot Sneaker From Sneaker Brand \"b/m\" Combines Volume With a Light, Streamlined Fit haveagood-holiday.com",
       "ren_take": "",
       "image_url": ""
     },
