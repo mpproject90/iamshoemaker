@@ -1,8 +1,92 @@
 {
-  "last_updated": "2026-08-31T18:07:01.857514+00:00",
-  "total_articles": 97,
+  "last_updated": "2026-08-31T21:54:19.319158+00:00",
+  "total_articles": 98,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "3388b5ea3a29",
+      "title": "Harry Styles, King of Flat Shoes, Laces Up Celine Sneakers in NYC",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/harry-styles-celine-sneakers-nyc-msg-residency-1239175816/",
+      "original_publish_time": "2026-08-31T20:06:32+00:00",
+      "scraped_time": "2026-08-31T21:43:23.593858+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Prada"
+      ],
+      "keywords_matched": [
+        "shoes",
+        "sneakers"
+      ],
+      "relevance_score": 7,
+      "summary": "The singer continued his slim shoe streak after outings in Prada boat shoes, Collapse sneakers and Chanel ballet flats.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "cfb6bf6a5a91",
+      "title": "This Nike Noughties Revival Is an Optical Illusion",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-air-jordan-8-chrome/",
+      "original_publish_time": "2026-08-31T19:02:00+00:00",
+      "scraped_time": "2026-08-31T21:47:04.038740+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "The Nike Air Jordan 8 Chrome revives Tinker Hatfield’s strap-laden 1993 silhouette for a new generation.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "efbf617019a8",
+      "title": "Travis Scott And Nike Unveil Cactus Court Collection For US Open",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/08/31/travis-scott-x-nike-air-force-1-low-releasing-today-at-47-chrystie/",
+      "original_publish_time": "2026-08-31T18:53:29+00:00",
+      "scraped_time": "2026-08-31T21:43:34.629076+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "UPDATE: Nike and Travis Scott have officially unveiled the Cactus Court collection for the US Open. The capsule includes footwear — Air Force 1 Low... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Travis Scott And Nike Unveil Cactus Court Collection For US Open appeared first on Sneaker News . The post Travis Scott And Nike Unveil Cactus Court Collection For US Open appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "d7d92d5e10d0",
+      "title": "Pharrell and Adidas’ Water Shoes Will Help You Put Off the End of Summer",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/pharrell-adidas-virginia-watermoc-release-date-1239175767/",
+      "original_publish_time": "2026-08-31T17:57:00+00:00",
+      "scraped_time": "2026-08-31T21:43:23.596025+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 5,
+      "summary": "The Virginia Watermoc will release in three colorways this week.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "615fe3b70694",
       "title": "From Table to Foot, Gohar World Does Ballet Sneakers Now",
@@ -1957,67 +2041,6 @@
       ],
       "relevance_score": 5,
       "summary": "Official images of the Air Jordan 5 \"Halloween\" sneakers reveal a dark spin with glow-in-the-dark details.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "0a1f2914d365",
-      "title": "Nike’s Mind-altering Shoes Are Getting a Restock in Three Sold-out Colorways",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-mind-001-october-2026-restock-1239148317/",
-      "original_publish_time": "2026-08-24T21:31:43+00:00",
-      "scraped_time": "2026-08-24T23:24:30.536581+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 5,
-      "summary": "A brand-new women's colorway will also debut alongside the three existing variants.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "9bd5fa127256",
-      "title": "Gunna Unveils The Under Armour P-Star Performance Line, Including His First Footwear Collab",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/08/24/gunna-under-armour-p-star/",
-      "original_publish_time": "2026-08-24T20:40:13+00:00",
-      "scraped_time": "2026-08-24T23:24:41.344669+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Under Armour"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 5,
-      "summary": "Through many of their recent advances, Under Armour has looked to sponsored artist Gunna to add some A-list shine to their announcements. It’s why he... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Gunna Unveils The Under Armour P-Star Performance Line, Including His First Footwear Collab appeared first on Sneaker News . The post Gunna Unveils The Under Armour P-Star Performance Line, Including His First Footwear Collab appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "bb2c645f1395",
-      "title": "Dephy Expands Sidekick’s Personal Bionic Footwear Line to Assist in Powered Walking",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/dephy-sidekick-ankle-powered-walking-shoe-adaptive-1239147690/",
-      "original_publish_time": "2026-08-24T19:15:40+00:00",
-      "scraped_time": "2026-08-24T23:24:30.539416+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Dephy's Sidekick line offers two different foot shapes built around a carbon plate, transferring power from an ankle device to enable powered walking.",
       "ren_take": "",
       "image_url": ""
     }
