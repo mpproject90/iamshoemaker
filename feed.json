@@ -1,8 +1,89 @@
 {
-  "last_updated": "2026-08-31T11:22:13.946949+00:00",
-  "total_articles": 102,
+  "last_updated": "2026-08-31T18:07:01.857514+00:00",
+  "total_articles": 97,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "615fe3b70694",
+      "title": "From Table to Foot, Gohar World Does Ballet Sneakers Now",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/gohar-world-asics-gel-ds-trainer/",
+      "original_publish_time": "2026-08-31T17:03:00+00:00",
+      "scraped_time": "2026-08-31T17:59:38.935495+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "ASICS"
+      ],
+      "keywords_matched": [
+        "footwear",
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "Translating a theatrical lens into footwear, the Gohar World x ASICS GEL-DS Trainer SP Ballet is a head-turning ballet sneaker.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "5cdd71c20406",
+      "title": "Hong Kong eyes investment in Bangladesh footwear industry - The Business Standard",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNXlTTzE2TTlIVDZuUngweURqUkpkZHc4QWthR3NaemlmVWlwN1F3X3ZicU40a0xvZzZ0UndlaW9nal9VWl9GSGJvV2hrejZfQlZrTWpmczB2eHRQd1Zja0FYcFNGZXYtWWZsZ1YzdTg2bENIU1d2bnV2dkhoTjREelFtczZ2WnB4MEQyZjJGaW1Ub0hRSlZZTTNCSUM5cks5MTg4YWpmaXdfekXSAasBQVVfeXFMTTV5U08xNk05SFQ2blJ4MHlEalJKZGR3OEFrYUdzWnppZlVpcDdRd192YnFONGtMb2c2dFJ3ZWlvZ2pfVVpfRkhib1doa3o2X0JWa01qZnMwdnh0UHdWY2tBWHBTRmV2LVlmbGdWM3U4NmxDSFNXdm51dnZIaE40RHpRbXM2dlpweDBEMmYyRmltVG9IUUpWWU0zQklDOXJLOTE4OGFqZml3X3pF?oc=5",
+      "original_publish_time": "2026-08-31T14:10:00+00:00",
+      "scraped_time": "2026-08-31T17:56:02.881920+00:00",
+      "time_delta_mins": 0,
+      "category": "Quality",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "footwear industry"
+      ],
+      "relevance_score": 6,
+      "summary": "Hong Kong eyes investment in Bangladesh footwear industry The Business Standard",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "d987fce18d82",
+      "title": "Footwear industry is backbone of India’s economy: Union Minister Giriraj Singh | Akashvani News - News On AIR",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ29UaXZQZHFWUm1nX2FHV3h5VGlhdFRaX01vcllPcGc2bU5fRFdmR282RjQ1ZnkyTE9Ic0drOHQ2SjM3NkI5ZFI3eEZsRHUyaTI0LW15clpXMnJYcS15QmN6Qy0xR1NEbVd0QVp6b0taVXVkZXVYNUxsdHdlX2JFUGtKLUFXenJ6eVdxU1I5NF9ud2tPVTFLM3hwbmNZdHl4cFFZdQ?oc=5",
+      "original_publish_time": "2026-08-31T13:09:50+00:00",
+      "scraped_time": "2026-08-31T17:56:02.885022+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "footwear industry"
+      ],
+      "relevance_score": 6,
+      "summary": "Footwear industry is backbone of India’s economy: Union Minister Giriraj Singh | Akashvani News News On AIR",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "426a903ac2bb",
+      "title": "Bid to enhance traceability in Brazil’s leather industry",
+      "source_name": "Ecotextile News",
+      "source_domain": "ecotextile.com",
+      "source_url": "https://www.ecotextile.com/2026083165243/news/shows-events/bid-to-enhance-traceability-in-brazils-leather-industry/",
+      "original_publish_time": "2026-08-31T12:00:44+00:00",
+      "scraped_time": "2026-08-31T17:57:50.478644+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "leather industry"
+      ],
+      "relevance_score": 3,
+      "summary": "Brazilian fashion groups use private and public blockchain networks to make leather supply chain evidence independently verifiable SÃO PAULO — […] The post Bid to enhance traceability in Brazil’s leather industry appeared first on Ecotextile News .",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "db8f263276b5",
       "title": "KEEN Launches the “Nocturnal Pack” Starring Two Limited-Edition Silhouettes",
@@ -1937,195 +2018,6 @@
       ],
       "relevance_score": 3,
       "summary": "Dephy's Sidekick line offers two different foot shapes built around a carbon plate, transferring power from an ankle device to enable powered walking.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "417ba90c10f4",
-      "title": "SOREL’s New Ambler is the Cool Younger Sibling of the Iconic Caribou Boot",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/sorels-caribou-boot-walked-so-the-ambler-clog-could-run/",
-      "original_publish_time": "2026-08-24T17:38:51+00:00",
-      "scraped_time": "2026-08-24T23:28:18.197015+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 3,
-      "summary": "Repackaging all of the DNA of the original fan-favorite Caribou, the adventure apparel brand has launched an innovative silhouette for the next generation: the Ambler.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "ad1c86ef38a9",
-      "title": "Madhappy and Puma Are Back With Updates to the Speedcat Plus, H-Street and Suede Sneakers",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/madhappy-puma-speedcat-plus-h-street-suede-release-date-1239147964/",
-      "original_publish_time": "2026-08-24T17:23:09+00:00",
-      "scraped_time": "2026-08-24T23:24:30.540127+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Puma"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 5,
-      "summary": "Completing the capsule is a cropped knitted T7 jacket and flared pants.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "7b31b1570cf6",
-      "title": "COSTS Brings Chinese Bamboo Weaving To The Vans Authentic And Slip-On",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/08/24/costs-vans-slip-on-authentic-dragon-boat/",
-      "original_publish_time": "2026-08-24T17:00:53+00:00",
-      "scraped_time": "2026-08-24T17:26:48.882731+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [
-        "ASICS",
-        "Vans"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 4,
-      "summary": "Chinese retailer COSTS is reconnecting with Vans for a collaboration rooted in traditional craft. Following a growing catalog of footwear projects with brands including ASICS,... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post COSTS Brings Chinese Bamboo Weaving To The Vans Authentic And Slip-On appeared first on Sneaker News . The post COSTS Brings Chinese Bamboo Weaving To The Vans Authentic And Slip-On appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "77ef59d2b262",
-      "title": "PUMA Hoops x LaMelo Ball Unveil the All-New MB.06 \"Shooting Star\"",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/8/puma-hoops-lamelo-ball-mb-06-shooting-star-dark-amethyst-lavender-alert-release-info",
-      "original_publish_time": "2026-08-24T16:42:03+00:00",
-      "scraped_time": "2026-08-24T17:26:48.682184+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Puma"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Name: PUMA Hoops LaMelo Ball MB.06 “Shooting Star”Colorway: Dark Amethyst/Lavender AlertSKU: TBCMSRP: $130 USDRelease Date: September 25Where to Buy: PUMAPUMA Hoops and LaMelo Ball have officially introduced the MB.06 \"Shooting Star,\" representing the latest chapter in the dynamic point guard's signature footwear franchise. Engineered for athletes who thrive under pressure and embrace the biggest moments, the performance-driven silhouette delivers enhanced speed, support, and an exceptional court feel.Boasting a faster, more streamlined design and a redesigned stance, the MB.06 provides a lower-to-the-court feel to help players move with unparalleled confidence and control. Visually, the MB.06 \"Shooting Star\" immediately captures attention with a striking, pastel-heavy colorway dominated b",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "4353c9b1977c",
-      "title": "Mizuno Revives the Flagship WAVE PROPHECY 1in a Stealthy “Black” Look",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/8/mizuno-wave-prophecy-1-black-d1ga265102-release-info",
-      "original_publish_time": "2026-08-24T16:42:03+00:00",
-      "scraped_time": "2026-08-24T17:26:48.685917+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [
-        "Mizuno"
-      ],
-      "keywords_matched": [
-        "footwear",
-        "midsole",
-        "sole"
-      ],
-      "relevance_score": 5,
-      "summary": "Name: Mizuno WAVE PROPHECY 1 “Black”Colorway: BlackSKU: D1GA265102MSRP: ￥35,200 JPY (approx. $222 USD)Release Date: August 28Where to Buy: MizunoMizuno continues to delve into its archives to deliver modern reimaginings of some of its most iconic silhouettes. The latest to be unveiled is the WAVE PROPHECY 1 model, rendered in a sleek \"Black\" colorway with subtle tonal detailing.First debuted in 2011 as the brand's flagship running model, this silhouette has been meticulously reconstructed using modern footwear technology. At the core of its highly sculptural design is the revolutionary full-length INFINITY WAVE midsole structure, a defining feature that pushes functional boundaries and redefines conventional cushioning concepts. While the sneaker retains the unique aesthetic balance and ge",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "4cedb763be66",
-      "title": "size? and New Balance Reimagine the 204L With Picnic-Inspired Gingham",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/8/new-balance-204l-size-exclusive-brown-release-info-u204l3t0-release-info",
-      "original_publish_time": "2026-08-24T16:42:03+00:00",
-      "scraped_time": "2026-08-24T17:26:48.697973+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "New Balance"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "Name: New Balance 204L Size? ExclusiveColorway: BrownSKU: U204L3T0MSRP: £120 GBP (approx. $164 USD)Release Date: Available NowWhere to Buy: Size?New Balance has partnered up with size? for an exclusive iteration of the 204L, reimagining the sneaker's usual mesh upper with a green gingham textile upper. The gingham pattern nods to classic picnic blankets, while suede overlays in brown evoke muddy grounds and tree trunks. Rounding out the design, the collaboration includes two distinct lace options, empowering wearers to personalize their look with either a clean, traditional finish or a more expressive, layered approach. Click here to view full gallery at Hypebeast",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "e3b3c91b78d8",
-      "title": "Sole Food: ASICS Sneakers Go Hard. ASICS Clothes Go Harder",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/asics-collabs-clothes/",
-      "original_publish_time": "2026-08-24T16:37:52+00:00",
-      "scraped_time": "2026-08-24T17:30:26.871025+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "ASICS"
-      ],
-      "keywords_matched": [
-        "sneakers",
-        "sole"
-      ],
-      "relevance_score": 8,
-      "summary": "ASICS' sneakers have been hot for a while but ASICS' clothes are suddenly as good as any shoe if not even better, thanks to some fashionable collabs.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "e0af2f1c3512",
-      "title": "Nike And Foot Locker Launch Kobe 3 Low Protro And Book 2 “The Shaw” In Crenshaw",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/08/24/nike-kobe-3-low-protro-book-2-the-shaw/",
-      "original_publish_time": "2026-08-24T15:30:12+00:00",
-      "scraped_time": "2026-08-24T17:26:48.886234+00:00",
-      "time_delta_mins": 0,
-      "category": "Trade Data",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "It feels like the regionality of sneakers has never been in sharper focus. Geographic exclusives both increase in volume and spread out into new territories... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike And Foot Locker Launch Kobe 3 Low Protro And Book 2 “The Shaw” In Crenshaw appeared first on Sneaker News . The post Nike And Foot Locker Launch Kobe 3 Low Protro And Book 2 “The Shaw” In Crenshaw appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "1f2bcb5e517b",
-      "title": "I Write About Sneakers for a Living — These Are My Favorite Pairs of 2026 - TODAY.com",
-      "source_name": "Google News - Sneaker Brand",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBrTnk3bmNGS2FRSmJIaF9aeHptSEI3V1R2RGllS3BOdm8ycUxiTFpIQ2lRSUFUOTRlWVB1UWY4ekowQ2tHNGpmd29jaW95Mm81eXJISkw2Ym5MbkR5OTZ3SUN0dTZScjA?oc=5",
-      "original_publish_time": "2026-08-24T15:02:25+00:00",
-      "scraped_time": "2026-08-28T01:15:25.156059+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "I Write About Sneakers for a Living — These Are My Favorite Pairs of 2026 TODAY.com",
       "ren_take": "",
       "image_url": ""
     }
