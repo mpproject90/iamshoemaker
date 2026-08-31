@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-30T19:57:34.828147+00:00",
+  "last_updated": "2026-08-31T01:24:10.490811+00:00",
   "total_articles": 104,
-  "sources_checked": 76,
+  "sources_checked": 61,
   "articles": [
     {
       "id": "c7791a344224",
@@ -128,6 +128,30 @@
       ],
       "relevance_score": 3,
       "summary": "Summary adidas and Pharrell Williams are expanding their collaborative VIRGINIA project with a new red Adistar Jellyfish colorwayThe sneaker features a two-tone red upper paired with contrasting black Three Stripes and subtle grey detailsThe Pharrell x adidas Adistar Jellyfish Red is expected to launch on October 24 2026 for $300 USD Name: Pharrell x adidas Adistar Jellyfish \"Red\"Colorway: Red/Core BlackSKU: KK0633MSRP: $300 USDRelease Date: October 24, 2026Where to Buy: adidasadidas and Pharrell Williams have revealed their latest collaborative colorway, the Pharrell x adidas Adistar Jellyfish \"Red\". The upcoming release expands the duo's ongoing VIRGINIA project lineup for Fall 2026.The silhouette is constructed using two distinct shades of red across its upper. A brighter red hue coats ",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "5a87015c7e31",
+      "title": "23 New Sneakers Released This Week from Nike, Crocs, Salomon, Adidas and More - Gear Patrol",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPM280eGIxcVQzWUdPaGN3Vl9McHJBWVhZcnllNWlfYXczZzRIb29rb0hKOUdwN0hHQU04N0hHaktZMzRpajMzOGswSk11WFZKS3hrNUY2c2UwM3Y3YkFMZkZ0Zmh3d3NhTHlRSjV6MTdSU1NWMHRLQ3FZNjNEYkRqWlFEcw?oc=5",
+      "original_publish_time": "2026-08-29T23:51:31+00:00",
+      "scraped_time": "2026-08-31T01:12:34.124823+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Adidas",
+        "Salomon",
+        "Crocs"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 11,
+      "summary": "23 New Sneakers Released This Week from Nike, Crocs, Salomon, Adidas and More Gear Patrol",
       "ren_take": "",
       "image_url": ""
     },
@@ -2154,28 +2178,6 @@
       ],
       "relevance_score": 9,
       "summary": "GRS-Certified Recycled Insoles: Setting a New Standard for Sustainable Footwear EIN News",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "50d0e66cc21e",
-      "title": "Nike Unveils Official 'One Piece' Footwear and Apparel Collection",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/8/nike-one-piece-footwear-apparel-air-max-plus-devil-fruits-collection-collaboration-release-info",
-      "original_publish_time": "2026-08-23T23:32:34+00:00",
-      "scraped_time": "2026-08-24T05:27:14.057015+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "footwear",
-        "upper"
-      ],
-      "relevance_score": 6,
-      "summary": "Summary Nike has partnered with the 'One Piece' manga franchise for an extensive footwear and apparel capsuleThe collection features three Devil Fruit-inspired expressions of the Nike Air Max Plus alongside co-branded jerseys t-shirts caps and a vestThe release debuts through regional pop-ups in Tokyo on September 4 followed by a global launch on September 25 Nike has officially announced an upcoming footwear and apparel collection inspired by the world-renowned manga franchise One Piece. Blending sportswear heritage with global pop culture, the partnership translates key lore from the storyline into specialized footwear executions and co-branded apparel.At the center of the collection are three distinct colorways of the Nike Air Max Plus featuring completely retooled uppers exclusive to t",
       "ren_take": "",
       "image_url": ""
     }
