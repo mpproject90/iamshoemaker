@@ -1,8 +1,191 @@
 {
-  "last_updated": "2026-09-01T15:36:03.454609+00:00",
-  "total_articles": 89,
-  "sources_checked": 60,
+  "last_updated": "2026-09-01T19:53:50.797762+00:00",
+  "total_articles": 92,
+  "sources_checked": 54,
   "articles": [
+    {
+      "id": "1cdb7829c6d4",
+      "title": "The Nike “Crocs” Were Already Good. Now, They’re Art",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/the-whitaker-group-nike-reactx-rejuven8-splatter/",
+      "original_publish_time": "2026-09-01T19:35:57+00:00",
+      "scraped_time": "2026-09-01T19:47:27.267067+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [
+        "Nike",
+        "Crocs"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 5,
+      "summary": "The Whitaker Group unveils its paint-splattered Nike ReactX Rejuven8 collaboration. Here's everything on the release of the artful recovery shoes.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "5b35794b5d4e",
+      "title": "How the shoe factory found its feet - thedailystar.net",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWmw0RXpFN1YxOG5FVVhiQjQ1R3VmNDBQc2QzZUYwYi00Mm44TFJIaDNxek9ydlg1VDR3RFlTS0VWdzJyYmxsYzNNbGVkMHl0bXRfdGhZM21TQXF6SEVnWkVNUms2eWV5WXJfN0VSSTZ4WUZ2Sm4tZS0zb09nUEY3TGdOYW53ZTBTMjg0WGNtYW9FZFBIR0ZPWHJvSmNqQnVNUUNSb014MA?oc=5",
+      "original_publish_time": "2026-09-01T19:19:05+00:00",
+      "scraped_time": "2026-09-01T19:43:57.515956+00:00",
+      "time_delta_mins": 0,
+      "category": "Manufacturing",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoe factory"
+      ],
+      "relevance_score": 3,
+      "summary": "How the shoe factory found its feet thedailystar.net",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "9a5456baef2c",
+      "title": "LOEWE's Contorted Buckle Sandal Spells It Out for You",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/loewe-type-fussbett-sandal/",
+      "original_publish_time": "2026-09-01T19:05:00+00:00",
+      "scraped_time": "2026-09-01T19:47:27.267764+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sandal"
+      ],
+      "relevance_score": 3,
+      "summary": "LOEWE's contorted metal buckle sandal is a statement piece that literally spells it out for you.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "f7ce110a8654",
+      "title": "Vans’ Designer-coded Sneakers Are Available Now in New Premium Slip-on Styles",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/vans-premium-classic-slip-on-patchwork-stripe-1239177744/",
+      "original_publish_time": "2026-09-01T18:39:26+00:00",
+      "scraped_time": "2026-09-01T19:43:36.002923+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Vans"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "The Vans Premium Classic Slip-on has been released in two patchwork stripe styles.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "532e5cd4f5ce",
+      "title": "GORE-TEX Uppers Return On The Nike Air Force 1 Low",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/09/01/nike-air-force-1-low-gtx-baroque-brown-speed-yellow-university-red-hv5953-200/",
+      "original_publish_time": "2026-09-01T18:30:11+00:00",
+      "scraped_time": "2026-09-01T19:43:46.744487+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 5,
+      "summary": "With autumn right around the corner, Nike is reviving an age-old tradition with another round of seasonal GORE-TEX makeups for the quintessential Air Force 1... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post GORE-TEX Uppers Return On The Nike Air Force 1 Low appeared first on Sneaker News . The post GORE-TEX Uppers Return On The Nike Air Force 1 Low appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "6bbe8fbfcc7d",
+      "title": "Taking Bangladeshi footwear up the value chain - thedailystar.net",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTHM0aWhpbk1PTlphOGVZX2pTSEZMa2JoaTdwVHJoQmNFRmttSU5yRjlSQ1hrTzJvRlF3VGlyaWFpX3dOYlVZNk1xUTFLaW5faVp5cDdwelNYRkphS1ZJTVRGNVN1OUVZVk02bWZJQnVNcXlzMEdqVEdZTWFJbnJTOU9XM0Fxci03VUZwTXA1Tl9BYmZ4bmJpT0dzMzV0eGNYRllRbmFjQkdjSXJJdllrRDJ3?oc=5",
+      "original_publish_time": "2026-09-01T18:19:07+00:00",
+      "scraped_time": "2026-09-01T19:43:57.520331+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Taking Bangladeshi footwear up the value chain thedailystar.net",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "9df9062555e5",
+      "title": "From New Balance to Salomon, the Seven Best Sneakers to Cop This Week",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/sneaker-releases-2026-september-week-1/",
+      "original_publish_time": "2026-09-01T15:45:42+00:00",
+      "scraped_time": "2026-09-01T19:47:27.268709+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Puma",
+        "New Balance",
+        "Salomon"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 8,
+      "summary": "Be it a gothic Salomon XT-EVO, the '80s-inspired New Balance T5000 x Jack Harlow, or Salehe Bembury's PUMA shoe, this week's sneakers are... out there.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "2211ff285d3e",
+      "title": "KidSuper x Havaianas Merge Art and Football Across a Bold Four-Piece Footwear Collection",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/9/kidsuper-havaianas-top-turf-pitch-collaboration-collection-release-info",
+      "original_publish_time": "2026-09-01T15:31:22+00:00",
+      "scraped_time": "2026-09-01T19:43:46.528094+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "sandal"
+      ],
+      "relevance_score": 4,
+      "summary": "Brazilian footwear icon Havaianas and Brooklyn-based label KidSuper have officially unveiled their collaborative four-piece footwear collection. Building on an ongoing creative partnership, the latest capsule bridges the gap between traditional athletic inspiration and avant-garde street style. KidSuper founder Colm Dillane applies his distinct design language directly to the renowned Havaianas footwear frame to merge art and sport.The unquestionable centerpiece of the release is the Havaianas x KidSuper \"Top Turf Pitch\" sandal. Originally previewed during KidSuper's FW26 runway presentation at Paris Men's Fashion Week, the model features an unorthodox material overhaul. The entire silhouette is wrapped in lush green velvet designed to recreate the visual and tactile sensation of a footbal",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "5a971f302c71",
+      "title": "Made in Europe: The future of shoe manufacturing - Siemens",
+      "source_name": "Google News - Shoe Manufacturing",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcXZ5VjJRWWYtZ3N0N0NzN250RXFOWm9rcmhYMVNkS0xqRDB3S0xTWm1nZE9iWVlkZWdyVEw1QkhUbENUS09kb09paU1VOVpRYjhHQ0hhUXlMbzNQYVhWSXVWR1hlb0U4bmsyYXRtUHlYcDNLNXdGRTlwUmhNNWFBd2pxY1NzYTZaMVE?oc=5",
+      "original_publish_time": "2026-09-01T14:54:41+00:00",
+      "scraped_time": "2026-09-01T19:43:58.813151+00:00",
+      "time_delta_mins": 0,
+      "category": "Manufacturing",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoe manufacturing"
+      ],
+      "relevance_score": 3,
+      "summary": "Made in Europe: The future of shoe manufacturing Siemens",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "f9b513fc781f",
       "title": "mfpen Remakes the New Balance 991v1 in \"Surplus Leathers\"",
@@ -1732,125 +1915,6 @@
       "keywords_matched": [],
       "relevance_score": 3,
       "summary": "The One Piece Air Max Plus collection, as well as the adidas Pokemon effort for the 30th anniversary, has all of a sudden made anime... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Yu-Gi-Oh Crocs Collection Revealed Early At World Championships appeared first on Sneaker News . The post Yu-Gi-Oh Crocs Collection Revealed Early At World Championships appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "d8bbde5497dd",
-      "title": "New Boot Sneaker From Sneaker Brand \"b/m\" Combines Volume With a Light, Streamlined Fit - haveagood-holiday.com",
-      "source_name": "Google News - Sneaker Brand",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9odl9nOXFsSkdvLU5rUTNyU3VxWFd4LUN2VFh3azBhX1FaRmZVSXNRNlhCZTFTMnZxcVAzMFNXY2ZWNENsVy15MkoxQ19ITi00Yzk3RUFRQmFMYzdhR2paNG85WHJRNFlqeDgxdkJIbUpTbm4zaF9v?oc=5",
-      "original_publish_time": "2026-08-25T19:41:59+00:00",
-      "scraped_time": "2026-08-30T01:09:43.955654+00:00",
-      "time_delta_mins": 0,
-      "category": "Trade Data",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 3,
-      "summary": "New Boot Sneaker From Sneaker Brand \"b/m\" Combines Volume With a Light, Streamlined Fit haveagood-holiday.com",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "b76c6b0a07f2",
-      "title": "Dick's Sporting Goods says it's 'still early in the Foot Locker turnaround' as it cites footwear challenges - Modern Retail",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSFpmbnRwTW9FaVA4RjZzX284SmJBaW9DUzBza2lHTERCTEE1Mm1oRnp1bFJNdThyS09MVjRlQjBSRkItVFY1NnJETURSUVNIcmhjemI0OUYyWUNMOEV5aGNIX1NWRVg5UUxrdWJKNEUzS2pyRmE3aE5vSUJwMjJYcHU5SGZPZW1JRDNzUjNVaVJjOVZaRkk1MlNiMklEOUpnOVZoN193d01YNlRhUlJrVTUtX0pLVnppNlIzMWZuNXcxeWJtRXBMdmFoS0pGOXNIRUxqRk5QczR6WG8?oc=5",
-      "original_publish_time": "2026-08-25T17:18:46+00:00",
-      "scraped_time": "2026-08-25T17:28:01.286825+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Dick's Sporting Goods says it's 'still early in the Foot Locker turnaround' as it cites footwear challenges Modern Retail",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "4f254b7e0f70",
-      "title": "Jack Harlow's Shoes Are Made For Walkin' (EXCLUSIVE)",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/jack-harlow-new-balance-interview/",
-      "original_publish_time": "2026-08-25T17:15:00+00:00",
-      "scraped_time": "2026-08-25T17:31:23.142999+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "New Balance"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 4,
-      "summary": "Jack Harlow redesigned a New Balance tennis sneaker as the ultimate all-day, any-occasion walking shoe, inspired by parks but meant for strolls.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "b5e2d6114365",
-      "title": "Rocky Brands leads U.S. footwear stocks as sector faces retail pressure (XLY:NYSEARCA) - Seeking Alpha",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWWVJMk9GVS1fTVJUcHVWNVZTSVE1SVoyUnVpNnUxTUJLQUloNDRhbUJJNjF5S3cwa2lMbzdmVTVYd3IzclVoTG8tMXZpTzNaekNRLXVGVWxSeTE2cjQ1SkZhOFNzbFZQbWNqQUhCNVZXdkxRS0hTRklKRHRFZkc4VHFkM3R3eFRjdEFXYnY0SnhCSzQxSDFIQ0RtOVVwVnphU0dSSkNtQ1JaLU0?oc=5",
-      "original_publish_time": "2026-08-25T17:03:29+00:00",
-      "scraped_time": "2026-08-25T17:28:01.287874+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Rocky Brands leads U.S. footwear stocks as sector faces retail pressure (XLY:NYSEARCA) Seeking Alpha",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "15c1786a9e27",
-      "title": "20 Years Later and Skechers D'Lites® Shine Brighter Than Ever Before",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/8/skechers-dlites-20th-anniversary-capsule-release-info",
-      "original_publish_time": "2026-08-25T16:57:39+00:00",
-      "scraped_time": "2026-08-25T17:27:49.865199+00:00",
-      "time_delta_mins": 0,
-      "category": "Quality",
-      "brands_mentioned": [
-        "Skechers"
-      ],
-      "keywords_matched": [
-        "footwear",
-        "sneakers"
-      ],
-      "relevance_score": 4,
-      "summary": "Before the Y2K revival turned chunky sneakers into fashion's biggest comeback story, Skechers D'Lites® had already secured its place as one of the era's defining silhouettes.It’s been two decades, and D'Lites is still holding it down. The footwear imprint has cemented its place in sneaker culture, balancing heritage with reinvention through standout collaborations, fresh interpretations, and an expanding lineup of designs. Hypebeast has followed that journey along the way, and the latest chapter unfolds with the celebration of the special-edition D'Lites 20th Anniversary Capsule – a collection that pays tribute to its origin while looking toward the future through a bold new lens.Rather than a standard classic reissue, the commemorative Anniversary Capsule reimagines one of Skechers' most ",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "d91570bffe45",
-      "title": "Running Shoes Have Never Looked Better",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/running-shoes-have-never-looked-better/",
-      "original_publish_time": "2026-08-25T16:22:24+00:00",
-      "scraped_time": "2026-08-25T17:31:23.143720+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "The new breed of running shoes is both technically advanced and cool enough to wear anywhere.",
       "ren_take": "",
       "image_url": ""
     }
