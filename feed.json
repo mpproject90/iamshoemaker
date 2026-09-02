@@ -1,8 +1,131 @@
 {
-  "last_updated": "2026-09-01T19:53:50.797762+00:00",
-  "total_articles": 92,
-  "sources_checked": 54,
+  "last_updated": "2026-09-02T01:04:19.568404+00:00",
+  "total_articles": 90,
+  "sources_checked": 60,
   "articles": [
+    {
+      "id": "e04ecd6ebcc4",
+      "title": "Coco Gauff Kicks Off US Open Run in Custom Navy New Balance Look and a New Colorway of Her CG2 Signature Shoes",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/coco-gauff-us-open-custom-new-balance-dress-shoes-details-1239178455/",
+      "original_publish_time": "2026-09-01T23:32:31+00:00",
+      "scraped_time": "2026-09-02T00:53:25.896725+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "New Balance"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 5,
+      "summary": "The 2023 tournament champion is looking to reclaim her title in her home Grand Slam.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "f50cd0ac4fd8",
+      "title": "US footwear sales rise slightly in the first half - World Footwear",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNY09hR2lDd3lZU0UzLXo1c3AxZ0E4SEVmd2kxWURyTmNnb0ozZVBPTXd0SDFuS1NibDRISi1sc3JOTFh2cHZTa0k3V1ByeXdvNnFTakt5b2h1QTNUdjJ5THQzb3UxOWJYeWNtRTg2RHRyWHhmNkJMLUtQTEhoMGJhb2R4UV9Cc21LOVU5SGRvZ0tlOEJFcWlQWlJhTQ?oc=5",
+      "original_publish_time": "2026-09-01T23:01:24+00:00",
+      "scraped_time": "2026-09-02T00:53:47.821201+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "US footwear sales rise slightly in the first half World Footwear",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "44e98de9b8bb",
+      "title": "Nike Is Bringing Back This Baltoro From 1990",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/09/01/nike-baltoro-cave-stone-mystic-hibiscus-mountain-blue-io4556-202/",
+      "original_publish_time": "2026-09-01T22:00:43+00:00",
+      "scraped_time": "2026-09-02T00:53:36.922315+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 3,
+      "summary": "If Wale’s “Nike Boots” has seen an uptick in streams lately, you can squarely assign credit to the Air Max Goadome, a hot topic as... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike Is Bringing Back This Baltoro From 1990 appeared first on Sneaker News . The post Nike Is Bringing Back This Baltoro From 1990 appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "19a7d6d5a123",
+      "title": "These Ostrich-Leather Nike Air Forces Are Carlos Alcaraz-Approved",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/travis-scott-nike-air-force-1-ice-blue/",
+      "original_publish_time": "2026-09-01T21:53:30+00:00",
+      "scraped_time": "2026-09-02T00:57:07.910110+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "Travis Scott releases ice-blue ostrich-leather Air Force 1 Low sneakers as part of his new \"Cactus Court\" collection, all co-signed by Carlos Alcaraz.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "5fc91d542bd7",
+      "title": "This 91-Year-Old Stool Got Hender Scheme Shoes",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/arteks-furniture-hender-scheme-collaboration/",
+      "original_publish_time": "2026-09-01T20:00:00+00:00",
+      "scraped_time": "2026-09-02T00:57:07.910758+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "shoes"
+      ],
+      "relevance_score": 4,
+      "summary": "Legacy Finnish furniture company Artek and Japanese footwear designer Hender Scheme are releasing a collaboration that makes perfect sense.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "8a3941dce872",
+      "title": "Pharrell’s adidas Water Moc Might Be The Perfect Vacation Shoe",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/09/01/pharrell-adidas-water-moc/",
+      "original_publish_time": "2026-09-01T19:47:44+00:00",
+      "scraped_time": "2026-09-02T00:53:37.036429+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Pharrell Williams’ adidas VIRGINIA universe is officially getting its third footwear silhouette. Following the breakout adidas Jellyfish and the low-profile Vario Flat Earther, adidas and... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Pharrell's adidas Water Moc Might Be The Perfect Vacation Shoe appeared first on Sneaker News . The post Pharrell’s adidas Water Moc Might Be The Perfect Vacation Shoe appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "1cdb7829c6d4",
       "title": "The Nike “Crocs” Were Already Good. Now, They’re Art",
@@ -1749,172 +1872,6 @@
       ],
       "relevance_score": 4,
       "summary": "Summary Nike is introducing the Air Force 1 \"Air Soul\" to celebrate the silhouette's storied historyThe design pairs black patent leather exteriors with eye-catching fuzzy oversized lacesGraphics on the insoles and tongues highlight the Original Six athletes and the model's initial product code Name: Nike Air Force 1 Low '07 \"Air Soul\"Colorway: Black/Black/Cinnamon/BlackSKU: IW2353-001MSRP: $125 USDRelease Date: August 28, 2026Where to Buy: NikeNike is expanding its classic basketball lineup with the upcoming Air Force 1 Low \"Air Soul.\" The release pays direct tribute to the iconic silhouette’s lineage through metatextual graphics and archival details.The design makes an immediate visual statement with its sleek black patent leather exterior offset by fuzzy, oversized laces. Beyond the dis",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "9a316c8a8735",
-      "title": "Reebok’s “Birks” Are Actually Good",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/reebok-classic-mules/",
-      "original_publish_time": "2026-08-25T23:11:57+00:00",
-      "scraped_time": "2026-08-25T23:30:26.813902+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Reebok",
-        "Birkenstock"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "Reebok debuts its Classic Mules, a Birkenstock-flavored suede slip-on model with sporty touches. Here's everything on the new slipper.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "0919ab84b51d",
-      "title": "Anthony Edwards Knows He Made Basketball Sneakers Cool Again",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/anthony-edwards-adidas-interview/",
-      "original_publish_time": "2026-08-25T23:10:55+00:00",
-      "scraped_time": "2026-08-25T23:30:26.812635+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "shoes",
-        "sneakers"
-      ],
-      "relevance_score": 5,
-      "summary": "Anthony Edwards is responsible for the coolest basketball sneaker in modern memory. We spoke to Ant Man in Manila about the legacy of his adidas AE shoes.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "ac9994fcf98b",
-      "title": "One Last Ride? Nike Has More Ja 3 Releases Coming",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/08/25/nike-ja-3-team-bank-midnight-navy-iv4426-107/",
-      "original_publish_time": "2026-08-25T22:00:20+00:00",
-      "scraped_time": "2026-08-25T23:26:59.230381+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "Typically, signature shoes don’t come with a post-credits scene. With Ja Morant so heavily involved in the leaks and previews of his product line as... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post One Last Ride? Nike Has More Ja 3 Releases Coming appeared first on Sneaker News . The post One Last Ride? Nike Has More Ja 3 Releases Coming appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "148669f50d6d",
-      "title": "Nike’s Weird Tabi Sneaker Lets Its Hair Down",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-air-rift-pony-hair-sneakers/",
-      "original_publish_time": "2026-08-25T21:34:38+00:00",
-      "scraped_time": "2026-08-25T23:30:26.814435+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "Nike's putting pony hair Air Rift sneakers back on the map, releasing new fur-covered versions in three colorways.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "1f09fe8591c3",
-      "title": "KITH Outfits The adidas Samba In Denim For Autumn",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/08/25/kith-adidas-samba-denim/",
-      "original_publish_time": "2026-08-25T21:30:05+00:00",
-      "scraped_time": "2026-08-25T23:26:59.231946+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Nike",
-        "Adidas",
-        "New Balance",
-        "Salomon"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 5,
-      "summary": "There’s never a break in the KITH newswire. After teaming up with Salomon and with New Balance for brand new silhouettes, with Nike for a... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post KITH Outfits The adidas Samba In Denim For Autumn appeared first on Sneaker News . The post KITH Outfits The adidas Samba In Denim For Autumn appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "0e3d3ec9d5c0",
-      "title": "A New Balance Dad Shoe So Cold, It's \"Arctic\" Grey",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/new-balance-992-light-arctic-grey/",
-      "original_publish_time": "2026-08-25T21:20:39+00:00",
-      "scraped_time": "2026-08-25T23:30:26.813339+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "New Balance"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "New Balance's 992 sneaker lands in \"Light Arctic Grey,\" resulting in the iciest version of the dad shoes yet.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "dc46ade4f9cf",
-      "title": "Dick’s and Foot Locker Are in a Footwear ‘Hangover’ as Stock Tumbles 30 Percent",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/dicks-sporting-goods-stock-price-drop-explained-1239149903/",
-      "original_publish_time": "2026-08-25T20:57:57+00:00",
-      "scraped_time": "2026-08-25T23:26:48.417080+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "But it’s not all bad news, according to executive chairman Ed Stack.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "9f31f9365570",
-      "title": "Yu-Gi-Oh Crocs Collection Revealed Early At World Championships",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/08/25/yu-gi-oh-crocs-fall-2026/",
-      "original_publish_time": "2026-08-25T20:00:19+00:00",
-      "scraped_time": "2026-08-25T23:26:59.234046+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Adidas",
-        "Crocs"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "The One Piece Air Max Plus collection, as well as the adidas Pokemon effort for the 30th anniversary, has all of a sudden made anime... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Yu-Gi-Oh Crocs Collection Revealed Early At World Championships appeared first on Sneaker News . The post Yu-Gi-Oh Crocs Collection Revealed Early At World Championships appeared first on Sneaker News .",
       "ren_take": "",
       "image_url": ""
     }
