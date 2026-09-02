@@ -1,8 +1,88 @@
 {
-  "last_updated": "2026-09-02T09:20:09.277177+00:00",
-  "total_articles": 96,
-  "sources_checked": 60,
+  "last_updated": "2026-09-02T15:10:27.560038+00:00",
+  "total_articles": 100,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "8be943faeb31",
+      "title": "8 Drops You Don't Want to Miss This Week",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/9/best-drops-september-week-1-supreme-palace-skateboards-jennie-adidas-originals",
+      "original_publish_time": "2026-09-02T12:30:16+00:00",
+      "scraped_time": "2026-09-02T14:59:23.741868+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Nike",
+        "Adidas"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "With another week upon us, we have yet another installment of our product drops series.This week’s lineup of drops kicks off with Supreme honoring Larry Clark’s legendary Tulsa archive through a photography-driven Fall 2026 collaboration, while Palace Skateboards balances stormproof GORE-TEX outerwear with pitch-ready sportswear for its fifth seasonal delivery. Global pop icon JENNIE makes her official co-design debut with adidas Originals on the ballet-infused \"FUNCTIONAL GRACE\" collection, just as Travis Scott’s Cactus Jack and Nike serve up the rebellious, tennis-themed \"Cactus Court\" capsule following its US Open debut. Parisian label côte&ciel blurs the line between luggage and wearable garments with its origami-like FW26 collection, while sacai stages an immersive \"sacai TO GO\" pop-u",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "621fa14cf0c6",
+      "title": "Dr. Martens Beefs Up Global Product Team, Hiring Talent from Marc Jacobs, Adidas",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/dr-martens-global-product-team-hires-marc-jacobs-adidas-1239194142/",
+      "original_publish_time": "2026-09-02T11:28:42+00:00",
+      "scraped_time": "2026-09-02T14:59:12.878637+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Adidas",
+        "Dr. Martens"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "Isadora Versiani has been named global product design director, while Nadia Svensson joins as global merchandising and product director from Adidas. Both will take up their new roles in November, and report to chief brand officer Carla Murphy.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "72e503b215b2",
+      "title": "Albino & Preto x atmos x ASICS Charge the GEL-Kayano 12.1 With Volt-Inspired Energy",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/9/albino-preto-atmos-asics-gel-kayano-12-black-white-safety-yellow-1203b227-100-1203b227-001-release-info",
+      "original_publish_time": "2026-09-02T09:34:52+00:00",
+      "scraped_time": "2026-09-02T14:59:23.746227+00:00",
+      "time_delta_mins": 0,
+      "category": "Trade Data",
+      "brands_mentioned": [
+        "ASICS"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Name: Albino & Preto x atmos x ASICS GEL-Kayano 12Colorway: Black/Safety Yellow, White/Safety YellowSKU: 1203B227-100, 1203B227-001MSRP: TBCRelease Date: September 4, September 6 (online)Where to Buy: JJCON, Albino & PretoAlbino & Preto, ASICS and atmos have linked on a three-way collaboration anchored by the GEL-Kayano 12.1, the retro-lifestyle runner reworked here with a distinctly athletic edge. Drawing on the energy of the Volt colorway, the project leans into a vibrant, performance-minded color story rather than a subdued lifestyle palette.The footwear arrives in two distinct colorways, each built around the same design logic. Fluorescent highlights supply the high-visibility punch that ties the look back to its Volt inspiration, while reflective overlays add a technical, light-catchi",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "8e074d6b4340",
+      "title": "Von Holzhausen claims footwear foam first",
+      "source_name": "Ecotextile News",
+      "source_domain": "ecotextile.com",
+      "source_url": "https://www.ecotextile.com/2026090265319/news/materials-production-news/von-holzhausen-claims-footwear-foam-first/",
+      "original_publish_time": "2026-09-02T09:07:44+00:00",
+      "scraped_time": "2026-09-02T15:01:27.749003+00:00",
+      "time_delta_mins": 0,
+      "category": "Manufacturing",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Plant-based performance foam will debut at the NW Materials Show as footwear brands pursue alternatives to fossil-derived materials LOS ANGELES […] The post Von Holzhausen claims footwear foam first appeared first on Ecotextile News .",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "54b7cf553475",
       "title": "Nike Revives the Baltoro High in a \"Cave Stone/Mystic Hibiscus\" Colorway",
