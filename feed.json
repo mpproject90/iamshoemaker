@@ -1,8 +1,114 @@
 {
-  "last_updated": "2026-09-02T15:10:27.560038+00:00",
-  "total_articles": 100,
-  "sources_checked": 61,
+  "last_updated": "2026-09-02T19:48:38.661015+00:00",
+  "total_articles": 103,
+  "sources_checked": 60,
   "articles": [
+    {
+      "id": "63a526b155fe",
+      "title": "Gore-Tex and Vibram Make This the Best Nike Air Force 1 You Can Get for Winter",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-air-force-1-gore-tex-vibram-baroque-brown-release-date-1239195101/",
+      "original_publish_time": "2026-09-02T19:19:58+00:00",
+      "scraped_time": "2026-09-02T19:37:03.265829+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Vibram"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 5,
+      "summary": "The winterized AF1 Low gets a new boot-like brown treatment.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "1ad3128c6900",
+      "title": "Salomon Releases The XT-EVO After KITH Debut",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/09/02/salomon-xt-evo-release-date/",
+      "original_publish_time": "2026-09-02T19:00:42+00:00",
+      "scraped_time": "2026-09-02T19:37:14.456629+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "New Balance",
+        "ASICS",
+        "Salomon"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 5,
+      "summary": "Perhaps it’s their work with New Balance and ASICS that takes up the most headlines, but quiet as kept, KITH is keenly aware of Salomon’s... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Salomon Releases The XT-EVO After KITH Debut appeared first on Sneaker News . The post Salomon Releases The XT-EVO After KITH Debut appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "cb2c7d5d17d5",
+      "title": "MoMA Is Turning Nike’s Trendy Tabi Sneakers Into Pop Art",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/moma-nike-air-rift-2-release-date-ir8669-001-ir8669-300-1239194606/",
+      "original_publish_time": "2026-09-02T16:47:23+00:00",
+      "scraped_time": "2026-09-02T19:37:03.268342+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "Co-branded tabi socks will also release alongside the Air Rift 2.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "5132c11a56ca",
+      "title": "The Jordan Spiz’ike Low Preps For Fall In “Fauna Brown”",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/09/02/jordan-spizike-low-fauna-brown-black-fq1759-200/",
+      "original_publish_time": "2026-09-02T16:00:30+00:00",
+      "scraped_time": "2026-09-02T19:37:14.535618+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Jordan"
+      ],
+      "keywords_matched": [
+        "boot",
+        "footwear"
+      ],
+      "relevance_score": 4,
+      "summary": "The sneaker loafer may have taken the spot of the sneaker boot as the footwear hybrid de jour in 2026, but brands aren’t shying away... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Jordan Spiz'ike Low Preps For Fall In \"Fauna Brown\" appeared first on Sneaker News . The post The Jordan Spiz’ike Low Preps For Fall In “Fauna Brown” appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "d0af4bf92d44",
+      "title": "African Fashion Hub Streetsouk Gets A Nike Air Force 1 Low Collab",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/09/02/streetsouk-nike-air-force-1-low-io4366-300/",
+      "original_publish_time": "2026-09-02T15:00:17+00:00",
+      "scraped_time": "2026-09-02T19:37:14.537850+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "Bringing in first-time collaborators Beaverton’s orbit has been a major plotline over the past few years. More specifically, both Jordan Brand and Nike have looked... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post African Fashion Hub Streetsouk Gets A Nike Air Force 1 Low Collab appeared first on Sneaker News . The post African Fashion Hub Streetsouk Gets A Nike Air Force 1 Low Collab appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "8be943faeb31",
       "title": "8 Drops You Don't Want to Miss This Week",
@@ -2035,46 +2141,6 @@
       ],
       "relevance_score": 6,
       "summary": "Nike’s got countless colorways that started as one-offs that were later subsumed into tried-and-true formulas for deployment anywhere in the roster. The Air Jordan 4... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Nike Vomero Premium Adds \"Oreo\" Soles appeared first on Sneaker News . The post The Nike Vomero Premium Adds “Oreo” Soles appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "c19dbadc09ac",
-      "title": "Timberland and ‘One Piece’ Team Up for a New Limited-edition 6-inch Boot Collaboration",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/one-piece-timberland-premium-6-inch-waterproof-boots-luffy-zoro-release-date-1239165133/",
-      "original_publish_time": "2026-08-26T19:44:18+00:00",
-      "scraped_time": "2026-08-27T04:24:12.735714+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Timberland"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 5,
-      "summary": "All the details on the upcoming One Piece x Timberland Premium 6-inch waterproof boots release.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "32b9dfc6a2dd",
-      "title": "How to Wear Dancing Shoes to Harry Styles’ MSG Shows Without Sacrificing Your Feet, According to Podiatrists",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-trends/harry-styles-dancing-shoes-podiatrist-concert-advice-1239148548/",
-      "original_publish_time": "2026-08-26T18:47:11+00:00",
-      "scraped_time": "2026-08-26T18:56:02.018373+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "Podiatrists Dr. Anne Sharkey and Dr. Bobby Pourziaee offered their best advice for concert-ready shoes.",
       "ren_take": "",
       "image_url": ""
     }
