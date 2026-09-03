@@ -1,8 +1,52 @@
 {
-  "last_updated": "2026-09-02T19:48:38.661015+00:00",
-  "total_articles": 103,
+  "last_updated": "2026-09-03T01:11:31.713566+00:00",
+  "total_articles": 102,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "1d0c5772b288",
+      "title": "The Air Jordan 1 Low Element GTX Returns In “Cream II”",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/09/02/air-jordan-1-low-element-gtx-cream-ii-light-orewood-brown-coconut-milk-fv4227-202/",
+      "original_publish_time": "2026-09-02T21:00:21+00:00",
+      "scraped_time": "2026-09-03T01:00:38.538480+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "Originally introduced around this time last year, the Air Jordan 1 Low Element GTX is back in syndication for the colder months. The rugged, Nike... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Air Jordan 1 Low Element GTX Returns In \"Cream II\" appeared first on Sneaker News . The post The Air Jordan 1 Low Element GTX Returns In “Cream II” appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "7fe78c4c4dcb",
+      "title": "Analyst Says Nike’s No Longer the Industry Bellwether as Athletic Performance Continues to Be a Bright Spot for Many",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/performance-footwear-on-deckers-amer-wolverine-under-armour-1239194487/",
+      "original_publish_time": "2026-09-02T20:28:15+00:00",
+      "scraped_time": "2026-09-03T01:00:27.297901+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Nike",
+        "Under Armour",
+        "Wolverine",
+        "Wolverine Worldwide"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 6,
+      "summary": "In athletic performance footwear, UBS is bullish on the On Holding, Deckers Outdoor, Amer Sports, Wolverine Worldwide and Under Armour brands.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "63a526b155fe",
       "title": "Gore-Tex and Vibram Make This the Best Nike Air Force 1 You Can Get for Winter",
@@ -333,6 +377,25 @@
       ],
       "relevance_score": 5,
       "summary": "The 2023 tournament champion is looking to reclaim her title in her home Grand Slam.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "dd76ab5ee43c",
+      "title": "2026 US Open: Naomi Osaka, Serena Williams, Carlos Alcaraz and More On Court Sneakers [PHOTOS] - WWD",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVENYaTBvTHZXYjdSSFhReTRuTjgtM0pnZ2hUTTRqUUloZ2tyQUZjN1lpV0NmdTEtUU94RXhVRGJtUDBvRS1BSTVXdWJjTEdicXdxaTRrOXhKVmN5ZE9QUWd2MjROOFNobXNxS2d1TGF1d1U5Y0JLdDJzYUY1Y3ZsYTJKWG5JNXJrT2dkY2ZTS2p5dk5wTWhtZ0t1MnhWZw?oc=5",
+      "original_publish_time": "2026-09-01T23:20:33+00:00",
+      "scraped_time": "2026-09-03T01:00:50.201339+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "2026 US Open: Naomi Osaka, Serena Williams, Carlos Alcaraz and More On Court Sneakers [PHOTOS] WWD",
       "ren_take": "",
       "image_url": ""
     },
@@ -2059,88 +2122,6 @@
       ],
       "relevance_score": 3,
       "summary": "Summary Under Armour has appointed Grammy-nominated artist Gunna as Global Brand Ambassador and Creative Director of P-StarThe partnership debuts with a 14-piece apparel collection inspired by training travel and everyday performanceThe launch introduces the brand-new UA Scorpio sneaker debuting in a hyper-limited Gunna colorway Under Armour has officially appointed multi-platinum artist Gunna as Global Brand Ambassador and Creative Director of P-Star, a new creative platform spanning apparel, footwear, and community-driven storytelling. The partnership marks the next evolution of the brand’s relationship with the artist, debuting alongside an inaugural 14-piece collection and a new footwear silhouette.The debut P-Star range draws design inspiration from the rhythm of Gunna’s daily life, t",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "537f1243305d",
-      "title": "Average worldwide footwear export price reached $11.65 per pair - World Footwear",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZHY2cEU0LUZQSHlQT1N2WlROSkZaVTBqSUJoOUZuSHk1YnlwclFqSTZCenNpMjVHLTdYY2FUYmp4bXAwd1E2dkVST1dHWWRTQkhxbTZtWHFXelVqU1VpUGhPS3NuMTlxQXBvYzIxeTZDVWpIYUJfTDJNbVZLQ1ZGeGlPbjNoVkhkdWpHUkxOWG9RckdOUWdqZ0NkZHFPTmZIcnhnMW9WTFJ2RHpE?oc=5",
-      "original_publish_time": "2026-08-26T23:00:33+00:00",
-      "scraped_time": "2026-08-27T04:24:34.188562+00:00",
-      "time_delta_mins": 0,
-      "category": "Trade Data",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Average worldwide footwear export price reached $11.65 per pair World Footwear",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "71db9b3f1993",
-      "title": "The Lack of Newness in Sneakers Is Actually Creating Opportunity for One Brand",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/stifel-few-new-sneaker-styles-asics-traction-teens-bts-1239163831/",
-      "original_publish_time": "2026-08-26T20:48:59+00:00",
-      "scraped_time": "2026-08-27T04:24:12.732322+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "ASICS",
-        "Hoka"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 5,
-      "summary": "A new Stifel survey noted that Asics and its Gel 1130 are gaining traction among teens, while the On and Hoka brands are a \"tough sell\" for the younger consumer.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "fa558b5dd866",
-      "title": "Dick’s Joins Barrage of Footwear Companies Grappling With Dramatic Stock Reactions",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/dicks-investors-shares-new-lows-opportunity-drop-price-1239164853/",
-      "original_publish_time": "2026-08-26T20:47:50+00:00",
-      "scraped_time": "2026-08-27T04:24:12.735160+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "But long-term investors might view shares of Dick's at new lows as a buying opportunity after a 30.7 percent drop Tuesday.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "9bbc2d672364",
-      "title": "The Nike Vomero Premium Adds “Oreo” Soles",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/08/26/nike-vomero-premium-oreo-iu2827-001/",
-      "original_publish_time": "2026-08-26T20:00:25+00:00",
-      "scraped_time": "2026-08-27T04:24:23.407566+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike",
-        "Jordan"
-      ],
-      "keywords_matched": [
-        "sole"
-      ],
-      "relevance_score": 6,
-      "summary": "Nike’s got countless colorways that started as one-offs that were later subsumed into tried-and-true formulas for deployment anywhere in the roster. The Air Jordan 4... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Nike Vomero Premium Adds \"Oreo\" Soles appeared first on Sneaker News . The post The Nike Vomero Premium Adds “Oreo” Soles appeared first on Sneaker News .",
       "ren_take": "",
       "image_url": ""
     }
