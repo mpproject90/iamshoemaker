@@ -1,8 +1,109 @@
 {
-  "last_updated": "2026-09-03T01:11:31.713566+00:00",
-  "total_articles": 102,
+  "last_updated": "2026-09-03T09:25:59.763929+00:00",
+  "total_articles": 105,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "2143355bc302",
+      "title": "The J.Crew x Vans Premium Authentic Laces Up for a Second Run",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/9/j-crew-vans-premium-authentic-ck973-re-release-info",
+      "original_publish_time": "2026-09-03T07:47:07+00:00",
+      "scraped_time": "2026-09-03T09:15:26.585556+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [
+        "Vans"
+      ],
+      "keywords_matched": [
+        "outsole",
+        "sole",
+        "upper"
+      ],
+      "relevance_score": 5,
+      "summary": "Name: J.Crew x Vans Premium AuthenticColorway: Classic WhiteSKU: CK973MSRP: $75 USDRelease Date: Available nowWhere to Buy: J.CrewJ.Crew and Vans have reissued the Premium Authentic, the exclusive canvas sneaker the two first released in 2025. The return gives a collaboration that proved hard to find a second life, keeping the low-top's clean, everyday build intact for a new round of buyers.The shoe is built on the Authentic, the model that started it all for Vans. Originally sold as the #44 Deck Shoe, it was the brand's first sneaker and remains the blueprint the rest of the catalog grew from. This version pushes the classic into premium territory: durable eight-ounce cotton canvas uppers sit over waffle-rubber outsoles, finished with the signature Vans heel tab, while anti-fatigue Sola F",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "209321ee39ad",
+      "title": "Artek’s Stool 60 Receives Handcrafted Leather “Shoes” From Hender Scheme",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/9/hender-scheme-artek-shoes-for-stools-collaboration-info",
+      "original_publish_time": "2026-09-03T06:15:07+00:00",
+      "scraped_time": "2026-09-03T09:15:26.588966+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "shoes"
+      ],
+      "relevance_score": 4,
+      "summary": "Summary Hender Scheme and Artek introduce raw leather \"shoes\" for Alvar Aalto’s Stool 60 legs.The capsule includes leather-wrapped trays, baskets, and custom furniture that patinas over time.Releasing October 10 at Sukima, Artek Tokyo, Artek Helsinki and select retailers. Japanese leather artisan brand Hender Scheme has partnered with renowned Finnish furniture house Artek to launch a highly imaginative collaborative collection. Centered around Alvar Aalto’s iconic Stool 60, the project playfully bridges the gap between footwear and homeware by introducing bespoke leather \"shoes\" specifically tailored for the stool's signature L-shaped legs. This whimsical yet deeply artisanal concept reflects both brands' shared dedication to enduring craftsmanship and material honesty. By outfitting a le",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "dd496208149f",
+      "title": "Best Shoe Brands in India Leading the Comfort-First and Sneaker Trend - indianretailer.com",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeTFMNkVvY0stLWxWY0JQNW9yLXZ3Y0ZZa1BuMnNkc2ptWFJpSEZTUDA0RFdWNkZJWkROTUM5alFCSUdiUkRhNUNZcFdQV0lfbmVxcHJHRjdqdGJla3ExY3RadUxkNVV3cWdFaFM5QjBiX3NWZ05DaS1IV2JDTl9ZMnktRnRPUVg0bHpuNUpFTXNSMGh6R29Vd2ZfYWljS2JtTE9wbkpNMnpSeHJzOWlMQjhWVnh6TU1lY2VpTDNxYzNYNUk?oc=5",
+      "original_publish_time": "2026-09-03T05:34:13+00:00",
+      "scraped_time": "2026-09-03T09:15:38.225654+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoe brand"
+      ],
+      "relevance_score": 3,
+      "summary": "Best Shoe Brands in India Leading the Comfort-First and Sneaker Trend indianretailer.com",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "0e5e7d8a618f",
+      "title": "Sarah Burton’s Givenchy Shark Pinch Boot Is Poised to Be One of Fall’s Must-have Shoes",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-trends/givenchy-sarah-burton-shark-pinch-boot-1239194591/",
+      "original_publish_time": "2026-09-03T05:00:00+00:00",
+      "scraped_time": "2026-09-03T09:15:16.093647+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "boot",
+        "shoes"
+      ],
+      "relevance_score": 6,
+      "summary": "The Shark Pinch boot, an evolution of a fan favorite, was seen on the fall 2026 runway in six variations.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "07363932786e",
+      "title": "Mandatory footwear labelling deadline draws near in Brazil - World Footwear",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeVZJV0ItTVJBM3hyYmdqX0FQdHVyWUJZekZvY2VocV9EOXhMcllFLVRFYXc4c2RpT2hzMkFtUlA3Mmp2Y2NsMVBqWWRnM0ZjVDM4S1pranVIWW5hU3drNWFEQTVsVXdrN0FVSXlYN20xUnp6QXp1Zzh1aGg3ZzA0ckJhemtaNlVQVV9NWDh6QXdFdG1nV3JtX052LVphX3BnTEVkRmFPOA?oc=5",
+      "original_publish_time": "2026-09-03T00:35:31+00:00",
+      "scraped_time": "2026-09-03T09:15:37.634695+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Mandatory footwear labelling deadline draws near in Brazil World Footwear",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "1d0c5772b288",
       "title": "The Air Jordan 1 Low Element GTX Returns In “Cream II”",
@@ -251,6 +352,25 @@
       ],
       "relevance_score": 3,
       "summary": "Name: Nike Baltoro “Cave Stone/Mystic Hibiscus”Colorway: Cave Stone/Mystic Hibiscus-Black-Mountain BlueSKU: IO4556-202MSRP: $145 USDRelease Date: September 2026Nike is revisiting the Baltoro High with a new “Cave Stone/Mystic Hibiscus” colorway that trades reinvention for nostalgia. Rather than reworking the silhouette, the release reaches back toward the darker, outdoor-leaning palettes that defined the model in its earlier years.Cave Stone covers the majority of the upper, setting a muted, earthy base that gets broken up by Mystic Hibiscus and blue in select spots. Royal blue branding and burgundy accents fill out the rest of the palette, giving the largely subdued shoe a handful of deliberate color pops rather than a single dominant contrast.That restrained-with-accents approach tracks ",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "25580ac659c0",
+      "title": "2026 Footwear & Apparel Industry K-Shaped Differentiation: Sports & Outdoor Sector Hot, Mass Casualwear Sector Cold - 36 Kr",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBIWENoaFEtWkZOSnMyZ0JpYTFlWUtRMkZoYmtxTUdKeFdVVWNYeXZ0d0ZGcmFtWFBIbGlnNWhGUUdycGR1Mksya0NEWTFMVE91R2xN?oc=5",
+      "original_publish_time": "2026-09-02T08:22:13+00:00",
+      "scraped_time": "2026-09-03T09:15:37.636220+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "2026 Footwear & Apparel Industry K-Shaped Differentiation: Sports & Outdoor Sector Hot, Mass Casualwear Sector Cold 36 Kr",
       "ren_take": "",
       "image_url": ""
     },
@@ -2061,67 +2181,6 @@
       ],
       "relevance_score": 6,
       "summary": "Search4Fun Recognized as a Global Leading High Quality Shoes Manufacturer Driving Footwear Innovation EIN News",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "90a5761ab5a4",
-      "title": "Hailey Bieber, Jennifer Aniston, and Podiatrists Agree: New Balance Sneakers Are Key to Comfort - instyle.com",
-      "source_name": "Google News - Sneaker Brand",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZU0wQ1RhdXVoNzMxa2NwaTZDcmJPQWFoMHZvZlhEX3JQTjVXb1F2X2xTcU83bEVMQ3drQnhEYS1jVEZNTXd1UU1ZOGlKVXN1d0tYVVNjR2lNLXFpZDJ4UXJkNzl3MXVpMmhGODhEWi1NMXVJbE80R0hVbTA2a2ZQcUNFMTF2eFNjVE1GUHhiemk?oc=5",
-      "original_publish_time": "2026-08-27T05:30:00+00:00",
-      "scraped_time": "2026-08-30T10:09:15.588501+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "New Balance"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 5,
-      "summary": "Hailey Bieber, Jennifer Aniston, and Podiatrists Agree: New Balance Sneakers Are Key to Comfort instyle.com",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "64ca1334766f",
-      "title": "Nearly 30 Chinese Footwear Companies Exhibit at Sourcing at MAGIC in Las Vegas - EIN Presswire",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWHRGTy1jd3V3TWVuWVBUeWFPdE5pdmNubUsxSnZiU25tNlJkb3M0VXdJeGxZWEtSS1VnQjIxblRNWWtIMHowa0YxaG1ZemRiMm44RTB4RHZsaml0SWhqZWtKYWVzUWM2aXhlX0dNalNxdHJCYi16TXZOUmREODh4VXF4TUVsVFY3VkZLdHpWZWVNUFpROExDbmlhemJXdVRKeFU1V3pNakl2ZndDc0RhTEY2Q0JrVUtXTzBpSURUZkkwdGM?oc=5",
-      "original_publish_time": "2026-08-27T05:09:00+00:00",
-      "scraped_time": "2026-08-27T15:56:39.527501+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Nearly 30 Chinese Footwear Companies Exhibit at Sourcing at MAGIC in Las Vegas EIN Presswire",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "e3e4afacfe02",
-      "title": "Under Armour Names Gunna Global Brand Ambassador and Creative Director of P-Star",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/8/under-armour-names-gunna-global-brand-ambassador-creative-director-p-star-announcement",
-      "original_publish_time": "2026-08-27T03:42:01+00:00",
-      "scraped_time": "2026-08-27T04:24:23.170554+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Under Armour"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Summary Under Armour has appointed Grammy-nominated artist Gunna as Global Brand Ambassador and Creative Director of P-StarThe partnership debuts with a 14-piece apparel collection inspired by training travel and everyday performanceThe launch introduces the brand-new UA Scorpio sneaker debuting in a hyper-limited Gunna colorway Under Armour has officially appointed multi-platinum artist Gunna as Global Brand Ambassador and Creative Director of P-Star, a new creative platform spanning apparel, footwear, and community-driven storytelling. The partnership marks the next evolution of the brand’s relationship with the artist, debuting alongside an inaugural 14-piece collection and a new footwear silhouette.The debut P-Star range draws design inspiration from the rhythm of Gunna’s daily life, t",
       "ren_take": "",
       "image_url": ""
     }
