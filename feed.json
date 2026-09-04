@@ -1,8 +1,70 @@
 {
-  "last_updated": "2026-09-03T19:47:48.481636+00:00",
-  "total_articles": 106,
+  "last_updated": "2026-09-04T01:02:35.131442+00:00",
+  "total_articles": 110,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "9236b0abad6d",
+      "title": "Laura Dern Pairs a Floral Dress With Low-profile Vivaia Sneakers in Venice",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-trends/laura-dern-vivaia-lexi-sneakers-venice-film-festival-2026-1239197338/",
+      "original_publish_time": "2026-09-03T22:17:16+00:00",
+      "scraped_time": "2026-09-04T00:51:14.249103+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "The actress wore a style that retails for $159.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "549ea02019ba",
+      "title": "Civil’s New Balance Numeric 480 Comes Straight From The Clam Shack",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/09/03/civil-new-balance-numeric-480-un480cvl/",
+      "original_publish_time": "2026-09-03T21:30:36+00:00",
+      "scraped_time": "2026-09-04T00:51:25.312503+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "New Balance"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "New Balance’s Numeric division is back in full swing. On top of their signature shoes dedicated to the likes of Tiago Lemos and Andrew Reynolds,... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Civil's New Balance Numeric 480 Comes Straight From The Clam Shack appeared first on Sneaker News . The post Civil’s New Balance Numeric 480 Comes Straight From The Clam Shack appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "7f848292bd3f",
+      "title": "All These Woven Shoes Are Bottega at Its Best",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/bottega-veneta-klog/",
+      "original_publish_time": "2026-09-03T21:11:01+00:00",
+      "scraped_time": "2026-09-04T00:55:14.637411+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Converse"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 5,
+      "summary": "Everything from Nike to Converse may be Botega-fying their shoes, but a new Intrecciato-woven Bottega Veneta Klog Mule proves nobody does it like the OG.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "e3faaabbccd0",
       "title": "COMME des GARÇONS Homme Plus Made the Air Jordan 11 Feel Like a Dress Shoe",
@@ -110,6 +172,47 @@
       "image_url": ""
     },
     {
+      "id": "8edcae2d3548",
+      "title": "Vivobarefoot- how the British brand aims to convert the world to barefoot footwear - ww.fashionnetwork.com",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTGF2Rl9zZXp4Qzh1RVpSOXZVdU1ScG5Mc2RmOXR2NUNhZGRMRFpKSGd5YWRIWDJPNm9CM3BGa25VTnFrRUtaRUVKYXNET20yZlZvMndOV21INkhXZF9PbTJaZm1SUHNzaEl4aU1McjZrWEJHbWxEaElUbDZJYnA1OXJmRDJVX1diYXQ0amN1LWllVjl1T3NsOHBvYmczTklkVkNzbTlDRjl5QjJQOEpIUllnNF9JMHFsZERQLXJlQU9hMjVlNGJnMw?oc=5",
+      "original_publish_time": "2026-09-03T15:27:31+00:00",
+      "scraped_time": "2026-09-04T00:51:36.193952+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Vivobarefoot- how the British brand aims to convert the world to barefoot footwear ww.fashionnetwork.com",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "44eee3eea010",
+      "title": "Brooks vs. Hoka: How Do the Two Running Shoe Brands Compare? - Women's Health",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOE5xRjhMY0hhMzctQWZHX3F1UWNIR0txcDNKeUdnaWVwWko4YUVHa21hbjNzSEF1MlpyY21sbF9LMUlhVF8wa21FbmxqM2NrR2duRV9jcWl3a3RGb2pFVlBKZktnakI5dUhkTDZ0N29TWXhXWUo1Vm9ZeUhHeVJSbXdOMjVRdw?oc=5",
+      "original_publish_time": "2026-09-03T14:21:00+00:00",
+      "scraped_time": "2026-09-04T00:51:36.978382+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Brooks",
+        "Hoka"
+      ],
+      "keywords_matched": [
+        "shoe brand"
+      ],
+      "relevance_score": 7,
+      "summary": "Brooks vs. Hoka: How Do the Two Running Shoe Brands Compare? Women's Health",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
       "id": "7e724eb617fc",
       "title": "Merrell Reimagines Outdoor Footwear With a Duo of All-Black “Metro” Sneakers",
       "source_name": "Hypebeast",
@@ -152,6 +255,27 @@
       ],
       "relevance_score": 5,
       "summary": "UGG's Ondira boot is a snug-fitting mix between a classic winter boot and a winter-ready sneaker.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "fdc8367c5d95",
+      "title": "How two young entrepreneurs revolutionised the ‘Made in Italy’ footwear industry through e-commerce - Il Sole 24 ORE",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWFhZbzA0bHMwNF93N3FHYm9oX0Z2Wlo5YlUtbG8wcU1Kd21QU1B2d0RXSm1lVksyd1pnVVNNQjBYRzdxckwtajBWV0taU29UZWVUeXBBMjUteG0wXzNoSVRXemlIMkxuM084RkNTWFU4dmdjbDN5dVVweDVRRmpSOTBVblBzTEtFWUhla1NvSm9fQW5VLUFOdzZRU1BRT1NPRUJIRXFqTWRSenJLNmZjaTBKbXJwREdPVms0?oc=5",
+      "original_publish_time": "2026-09-03T08:05:03+00:00",
+      "scraped_time": "2026-09-04T00:51:36.194955+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "footwear industry",
+        "sole"
+      ],
+      "relevance_score": 9,
+      "summary": "How two young entrepreneurs revolutionised the ‘Made in Italy’ footwear industry through e-commerce Il Sole 24 ORE",
       "ren_take": "",
       "image_url": ""
     },
@@ -2166,48 +2290,6 @@
       ],
       "relevance_score": 4,
       "summary": "Summary Nike and Caitlin Clark are introducing a Taylor Swift-inspired \"Friendship Bracelet\" colorway of the Nike Caitlin 1The silhouette features custom lace charms spelling out Clark's jersey number 22 alongside an iridescent OptiCast upperThe release is expected to drop on February 24, 2027 for a retail price of $150 USD Name: Nike Caitlin 1 \"Friendship Bracelet\"Colorway: Pearl Pink/Summit White-Metallic Silver-Racer BlueSKU: IH7423-300MSRP: $150 USDRelease Date: February 24, 2027Where to Buy: NikeNike has officially revealed the Caitlin 1 \"Friendship Bracelet\", bringing Caitlin Clark’s appreciation for Taylor Swift to her signature sneaker line. The colorway expands on Clark's signature footwear rotation with design elements inspired by Swift's Eras Tour.The design centers around custo",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "d960abba31aa",
-      "title": "Salehe Bembury x PUMA's New Fusion: the Velum 2",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/8/salehe-bembury-puma-velum-2-release-date-info",
-      "original_publish_time": "2026-08-28T00:42:01+00:00",
-      "scraped_time": "2026-08-28T01:15:13.574339+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Puma"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "SummarySalehe Bembury’s PUMA Velum 2 evolves the original design, featuring a layered upper with fingerprint textures and NITROFOAM cushioning.Dropping September 3 in \"Terracotta\" and \"Alloy\" colorways, this lightweight sneaker balances bold style with performance.After debuting their debut Velum 1 silhouette in Summer 2025, Salehe Bembury x PUMA have returned to the lab for an updated fusion of their distinct identities. The latest model from the Salehe Bembury x PUMA partnership turns Bembury’s fingerprint up a notch, for a pair that is as design-forward as it is performance-ready.In an exclusive interview with Hypebeast, Bembury walked through his approach to the Velum 2: \"The first version establishes a design language, and the next gives you an opportunity to refine that language, exa",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "329c75154837",
-      "title": "How Nike’s Rough Ride and Dick’s New Challenges Mirror a Wider Industry Problem",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/nike-dicks-foot-locker-inventory-footwear-lifestyle-1239168926/",
-      "original_publish_time": "2026-08-27T21:18:27+00:00",
-      "scraped_time": "2026-08-28T01:15:02.884383+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Sports brands still have too much inventory in legacy footwear lifestyle models that need to be cleared out.",
       "ren_take": "",
       "image_url": ""
     }
