@@ -1,8 +1,89 @@
 {
-  "last_updated": "2026-09-05T13:52:57.301647+00:00",
-  "total_articles": 113,
-  "sources_checked": 61,
+  "last_updated": "2026-09-05T18:56:54.595187+00:00",
+  "total_articles": 115,
+  "sources_checked": 60,
   "articles": [
+    {
+      "id": "5d60f85a9585",
+      "title": "The Nike V5 RNR Sharpens “Pencil Point” And “College Grey”",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/09/05/nike-v5-rnr-pencil-point-college-grey-medium-ash-thunder-grey-iu3884-002/",
+      "original_publish_time": "2026-09-05T18:00:41+00:00",
+      "scraped_time": "2026-09-05T18:46:12.205556+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Nike",
+        "New Balance"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "Dominance in the tech runner wave of this decade hasn’t kept any brand from iterating on their offerings. New Balance is still printing money with... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Nike V5 RNR Sharpens \"Pencil Point\" And \"College Grey\" appeared first on Sneaker News . The post The Nike V5 RNR Sharpens “Pencil Point” And “College Grey” appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "fe73bb963b95",
+      "title": "NBA 2K27 Introduces New Brands, Sneakers and First-ever Co-ed City Mode",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/nba-2k27-new-sneakers-brands-1239199455/",
+      "original_publish_time": "2026-09-05T17:48:12+00:00",
+      "scraped_time": "2026-09-05T18:46:01.481026+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "The latest installment of the hit basketball video game franchise is available now.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "8e5e9a07c5f9",
+      "title": "Crocs Penny Loafers? Solebox Did That",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/09/05/solebox-crocs-echo-ii-clog-loafer/",
+      "original_publish_time": "2026-09-05T16:00:01+00:00",
+      "scraped_time": "2026-09-05T18:46:12.207231+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Crocs"
+      ],
+      "keywords_matched": [
+        "footwear",
+        "sole"
+      ],
+      "relevance_score": 6,
+      "summary": "Weird has never been cooler, something true in culture at large as much as in the footwear world. Nothing epitomizes that better than the rise... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Crocs Penny Loafers? Solebox Did That appeared first on Sneaker News . The post Crocs Penny Loafers? Solebox Did That appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "dca5a60f9ac8",
+      "title": "Michael Jordan’s Classic Air Jordan 6 Is Coming Back in a Rare Colorway With Original Details for the First Time Ever",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/air-jordan-6-retro-og-sport-blue-2027-release-date-1239199410/",
+      "original_publish_time": "2026-09-05T15:51:31+00:00",
+      "scraped_time": "2026-09-05T18:46:01.483845+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "The Air Jordan 6 Retro OG Sport Blue returns with Nike Air branding in 2027.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "c0d7f244fe86",
       "title": "Nike Wraps the Air Force 1 in GORE-TEX and Vibram for a Winterized \"Baroque Brown\" Build",
@@ -2302,47 +2383,6 @@
       ],
       "relevance_score": 3,
       "summary": "The Air Jordan 1 \"Royal\" sneaker returns for 2026 with classic leather uppers & the iconic regal color scheme. Here's everything on the relaunch.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "0ee82440f7c1",
-      "title": "Timberland Brought Back a Heritage 6-Inch Waterproof Boot From the ’90s and It’s Available Right Now",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/timberland-heritage-6-inch-waterproof-boot-concrete-gray-1239174783/",
-      "original_publish_time": "2026-08-29T17:53:17+00:00",
-      "scraped_time": "2026-08-29T19:35:34.116073+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Timberland"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 5,
-      "summary": "The Timberland Heritage 6-inch Waterproof Boot returns in Concrete Gray.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "d33ddb53a7e4",
-      "title": "Nike Installs Former Foot Locker Supply Chain Chief as Converse COO",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/converse-names-kristin-bauer-coo-1239174680/",
-      "original_publish_time": "2026-08-29T16:37:00+00:00",
-      "scraped_time": "2026-08-29T19:35:34.118398+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Nike",
-        "Converse"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 5,
-      "summary": "Kristin Bauer will begin work at the struggling brand on Sept. 14.",
       "ren_take": "",
       "image_url": ""
     }
