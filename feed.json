@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-05T08:51:12.191197+00:00",
-  "total_articles": 114,
-  "sources_checked": 60,
+  "last_updated": "2026-09-05T13:52:57.301647+00:00",
+  "total_articles": 113,
+  "sources_checked": 61,
   "articles": [
     {
       "id": "c0d7f244fe86",
@@ -2343,25 +2343,6 @@
       "keywords_matched": [],
       "relevance_score": 5,
       "summary": "Kristin Bauer will begin work at the struggling brand on Sept. 14.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "2cd4b6787e9f",
-      "title": "Inside the FN Archive: Dolly Parton’s Legendary Shoes and the Bespoke Designers Who Made Them",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-features/dolly-parton-platforms-bespoke-shoes-1239174048/",
-      "original_publish_time": "2026-08-29T13:00:00+00:00",
-      "scraped_time": "2026-08-29T15:30:45.116860+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "How two bespoke shoe designers helped create Dolly Parton's iconic head-to-toe style.",
       "ren_take": "",
       "image_url": ""
     }
