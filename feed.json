@@ -1,8 +1,95 @@
 {
-  "last_updated": "2026-09-05T00:54:07.378729+00:00",
-  "total_articles": 110,
+  "last_updated": "2026-09-05T08:51:12.191197+00:00",
+  "total_articles": 114,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "c0d7f244fe86",
+      "title": "Nike Wraps the Air Force 1 in GORE-TEX and Vibram for a Winterized \"Baroque Brown\" Build",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/9/nike-air-force-1-low-gore-tex-baroque-brown-hv5953-200-official-images",
+      "original_publish_time": "2026-09-05T08:00:11+00:00",
+      "scraped_time": "2026-09-05T08:40:35.346109+00:00",
+      "time_delta_mins": 0,
+      "category": "Quality",
+      "brands_mentioned": [
+        "Nike",
+        "Vibram"
+      ],
+      "keywords_matched": [
+        "midsole",
+        "outsole",
+        "sole",
+        "upper"
+      ],
+      "relevance_score": 8,
+      "summary": "Name: Nike Air Force 1 Low GORE-TEX “Baroque Brown”Colorway: Baroque Brown/Speed Yellow-University Red-Shadow BrownSKU: HV5953-200MSRP: $150 USDRelease Date: TBC 2026The Nike Air Force 1 Low GORE-TEX \"Baroque Brown\" takes one of Nike's most familiar silhouettes and reworks it for colder, wetter days. Set for a 2026 release, the shoe layers weatherproofing and a grippier outsole onto the standard AF1, turning an all-year staple into a purpose-built winter option.The upper is where the seasonal intent shows first. Most of it is finished in Baroque Brown leather, with black Swooshes, heel tabs, lining, and midsole cutting through the tone. GORE-TEX is built into the leather for weather protection, and the product images show the material beading water rather than soaking it in. Brown rope lac",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "957b9493f3b9",
+      "title": "Govt plans new CETP at Savar Tannery Estate to address environmental concerns",
+      "source_name": "Textile Today",
+      "source_domain": "textiletoday.com.bd",
+      "source_url": "https://textiletoday.com.bd/govt-plans-new-cetp-at-savar-tannery-estate-to-address-environmental-concerns",
+      "original_publish_time": "2026-09-05T07:37:00+00:00",
+      "scraped_time": "2026-09-05T08:44:17.203891+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "leather industry",
+        "tannery"
+      ],
+      "relevance_score": 4,
+      "summary": "The government plans to build a world‑class Central Effluent Treatment Plant (CETP) at Savar Tannery Estate while rehabilitating the existing facility. The move aims to resolve the leather industry’s...",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "22b8d16f0c0f",
+      "title": "Nike’s Leopard AF1 Is King of the Simple Shoe Jungle",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-air-force-1-black-leopard/",
+      "original_publish_time": "2026-09-05T05:05:01+00:00",
+      "scraped_time": "2026-09-05T08:44:04.481058+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "Nike's loud leopard Air Force 1 sneaker is changing the narrative around black Air Force 1 sneakers.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "06b6a823c1d1",
+      "title": "nonnative Reinterprets Paraboot’s Archival Briac Silhouette in Premium Suede",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/9/nonnative-paraboot-moccasin-briac-cow-leather-shoes-collaboration-release-info",
+      "original_publish_time": "2026-09-05T04:00:01+00:00",
+      "scraped_time": "2026-09-05T08:40:35.360737+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "boot",
+        "sole",
+        "upper"
+      ],
+      "relevance_score": 5,
+      "summary": "Name: nonnative x Paraboot Moccasin “Briac Cow Leather”Colorway: Charcoal GraySKU: TBCMSRP: ¥82,500 JPY (approx. $528 USD)Release Date: September 5Where to Buy: nonnativeContinuing their partnership, nonnative and Paraboot have reunited to deliver a refined take on the classic deck-style moccasin. For this latest collaboration, the duo selected the Paraboot Briac — a popular 1990s silhouette that recently saw a highly anticipated revival.Crafted with premium suede uppers, the moccasins are dressed in \"Charcoal Gray.\" Maintaining the traditional McKay construction that gives the shoe its signature flexible comfort, the design is heavily anchored by the voluminous black JANNU SOLE, which provides robust traction and support for active movement. External branding is intentionally omitted, wit",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "d81bb8f35224",
       "title": "GORE-TEX Uppers Shelter A Punchy New Balance 2010 “Neon Green”",
