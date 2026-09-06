@@ -1,8 +1,49 @@
 {
-  "last_updated": "2026-09-06T09:10:21.478159+00:00",
-  "total_articles": 110,
+  "last_updated": "2026-09-06T14:14:11.117271+00:00",
+  "total_articles": 114,
   "sources_checked": 61,
   "articles": [
+    {
+      "id": "4ab678fbc4b1",
+      "title": "Amal Clooney and Jennifer Aniston Confirmed Adidas Sneakers Are Still a Cool-Girl Staple—and They’re on Sale - instyle.com",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQS09EYXM0c0NlZ2FKVlRzdE8zWlh5YXc2UjZOa0tHcVdvQUxNUzNXZ0FZWVlrN0o3WkZuQnlfMUtLbkd1UmpBUFh6R2tZdm1IOU51Tk82NnRmU0pTOWRoQ0wxcmxBbjhGemdqckRDRW9EYWtKeHlDbmFfRWZBeDZaN3ZkRVdVaWpMZERyTFBhOGg1bFlu?oc=5",
+      "original_publish_time": "2026-09-06T08:00:00+00:00",
+      "scraped_time": "2026-09-06T13:58:55.502098+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "Amal Clooney and Jennifer Aniston Confirmed Adidas Sneakers Are Still a Cool-Girl Staple—and They’re on Sale instyle.com",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "7d047f4b1bfe",
+      "title": "Nike’s Rugged Air Force 1 Is a Chocolate-Covered Raspberry — In a Raincoat",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-air-force-1-goretex-brown/",
+      "original_publish_time": "2026-09-06T05:07:01+00:00",
+      "scraped_time": "2026-09-06T14:06:59.680019+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Vibram"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 5,
+      "summary": "Nike's GORE-TEX Vibram Air Force 1 sneaker is a chocolate-coated raspberry with a raincoat on.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "6e42edb1b43c",
       "title": "The FC Barcelona x Nike Kobe 3 Low Protro \"Electro Purple\" Is Available Now",
@@ -167,6 +208,47 @@
       "keywords_matched": [],
       "relevance_score": 3,
       "summary": "The Air Jordan 6 Retro OG Sport Blue returns with Nike Air branding in 2027.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "4c2b3b2c1b1e",
+      "title": "Fire kills at least 28 at shoe factory in China's global athletic footwear manufacturing hub - VnExpress International",
+      "source_name": "Google News - Shoe Manufacturing",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMllSR2Q1TzRaVTdoQkN1UDNzRXo1OXZCYzEzR21GWmp5Nzc2emtScy1mYXQ4alhJVm1pVEd5Z25qTjNTS3NkbXJSN09RTkNfM01hMi11WFEtZUMxaXVETXh0a255ZnhhWkJCbGFrbHVyU1FUc04xeE8zQ3BPRG5NN3NfcjZnSGRyX19YZE9DcUNWZUhQNUg1aEI1TnpGV3QyZDdCSDJyVVZreHd3Ukg4N085YzBIVWxqV3cwaHB3UlpXcGt1WndJd0c0VnhsbUdrU2lTNWx3?oc=5",
+      "original_publish_time": "2026-09-05T13:35:12+00:00",
+      "scraped_time": "2026-09-06T13:58:56.109302+00:00",
+      "time_delta_mins": 0,
+      "category": "Manufacturing",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "athletic footwear",
+        "footwear",
+        "shoe factory"
+      ],
+      "relevance_score": 9,
+      "summary": "Fire kills at least 28 at shoe factory in China's global athletic footwear manufacturing hub VnExpress International",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "a35539a25926",
+      "title": "Ballet Flat Sneakers Are the Shoes All the Cool Girls Are Wearing for Fall—and They Start at $35 - instyle.com",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1USmdSOFRVMDdDS0JpQm4yRnNIVUx6X0xsaVpmU0I4MktyQlJOX0t6bUx1MWlGYVp5eFlnQXVTRlc3cmFaZUR0R0VLbjR3OFJRWlJKZEVENkE1aGlOUGJIMHo5TkRDWlNVbnFULUF4RXc?oc=5",
+      "original_publish_time": "2026-09-05T12:00:00+00:00",
+      "scraped_time": "2026-09-06T13:58:55.505843+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoes",
+        "sneakers"
+      ],
+      "relevance_score": 6,
+      "summary": "Ballet Flat Sneakers Are the Shoes All the Cool Girls Are Wearing for Fall—and They Start at $35 instyle.com",
       "ren_take": "",
       "image_url": ""
     },
