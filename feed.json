@@ -1,8 +1,70 @@
 {
-  "last_updated": "2026-09-06T14:14:11.117271+00:00",
-  "total_articles": 114,
+  "last_updated": "2026-09-06T19:00:20.271395+00:00",
+  "total_articles": 115,
   "sources_checked": 61,
   "articles": [
+    {
+      "id": "106f9919e986",
+      "title": "Crocs Turned Its Classic Clog Into a New Limited-edition Loafer That Will Be Released This Month",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/solebox-crocs-echo-2-loafer-release-date-1239199657/",
+      "original_publish_time": "2026-09-06T18:11:18+00:00",
+      "scraped_time": "2026-09-06T18:49:22.334220+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Crocs"
+      ],
+      "keywords_matched": [
+        "sole"
+      ],
+      "relevance_score": 3,
+      "summary": "The Solebox x Crocs Echo 2 Loafer will be released Sept. 12.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "0e61eb32f974",
+      "title": "The $95 Nike V5 RNR Checks Off An Easygoing Black Colorway",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/09/06/nike-v5-rnr-womens-black-white-hq7901-010/",
+      "original_publish_time": "2026-09-06T18:00:54+00:00",
+      "scraped_time": "2026-09-06T18:49:33.118315+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "At a time when consumers are becoming more frugal with their footwear choices, the $95 Nike V5 RNR has emerged as a clear win for... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The $95 Nike V5 RNR Checks Off An Easygoing Black Colorway appeared first on Sneaker News . The post The $95 Nike V5 RNR Checks Off An Easygoing Black Colorway appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "a1a4798d14ad",
+      "title": "Jordan 12 “Bucks,” Yu-Gi-Oh Crocs, And This Week’s Best Releases",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/09/06/sneaker-releases-september-6-12-2026/",
+      "original_publish_time": "2026-09-06T16:00:37+00:00",
+      "scraped_time": "2026-09-06T18:49:33.130623+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Crocs",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "It’s not often that two grails drop in the same week. With the Air Jordan 12 “Bucks” reimagining a Ray Allen PE and Fat Joe’s... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Jordan 12 \"Bucks,\" Yu-Gi-Oh Crocs, And This Week's Best Releases appeared first on Sneaker News . The post Jordan 12 “Bucks,” Yu-Gi-Oh Crocs, And This Week’s Best Releases appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "4ab678fbc4b1",
       "title": "Amal Clooney and Jennifer Aniston Confirmed Adidas Sneakers Are Still a Cool-Girl Staple—and They’re on Sale - instyle.com",
@@ -2320,45 +2382,6 @@
       ],
       "relevance_score": 3,
       "summary": "Sole Food: Saucony Quietly Became the Reseller’s Favorite Sneaker Highsnobiety",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "c7791a344224",
-      "title": "adidas Jellyfish “Timber,” Jordan 4 “Tour,” And This Week’s Best Releases",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/08/30/sneaker-releases-august-30-september-5-2026/",
-      "original_publish_time": "2026-08-30T16:00:14+00:00",
-      "scraped_time": "2026-08-30T19:37:29.399853+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Adidas",
-        "Jordan"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 4,
-      "summary": "The Three Stripes and the Jumpman’s cash cows go head-to-head. Yes, while the Air Jordan 4 has been the apple of many sneakerheads’ eyes in... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post adidas Jellyfish \"Timber,\" Jordan 4 \"Tour,\" And This Week's Best Releases appeared first on Sneaker News . The post adidas Jellyfish “Timber,” Jordan 4 “Tour,” And This Week’s Best Releases appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "756a6b5fe42f",
-      "title": "An Orthopedic Surgeon Says These Fashion Sneakers Could Be Hurting Your Feet— Here Are 8 Pairs to Wear Instead - Real Simple",
-      "source_name": "Google News - Sneaker Brand",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUU9QSWFSQlBiNFJ5LVB1cHI0RVBSbmQyclJJNnV5WXgwTHFPZXdMNGdMR1RJZU04TUxfTWVfV2doRFgwc2RiVmNHTTVKT0I1WmhYWXBwVG1HaU1yVGNxLTRYajc5ZFBzU29lWDkyZHVYT3ZuQUgzOFBjYWU0WE94cDdDb19zU2JhcHViX1dqMVBVUnhiUlE?oc=5",
-      "original_publish_time": "2026-08-30T15:30:00+00:00",
-      "scraped_time": "2026-08-31T11:11:37.679159+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "An Orthopedic Surgeon Says These Fashion Sneakers Could Be Hurting Your Feet— Here Are 8 Pairs to Wear Instead Real Simple",
       "ren_take": "",
       "image_url": ""
     }
