@@ -1,8 +1,158 @@
 {
-  "last_updated": "2026-09-07T00:57:50.815957+00:00",
-  "total_articles": 114,
-  "sources_checked": 61,
+  "last_updated": "2026-09-07T09:59:18.968105+00:00",
+  "total_articles": 122,
+  "sources_checked": 60,
   "articles": [
+    {
+      "id": "c4daf441c74e",
+      "title": "Northern sole: shoe manufacturer LANX is a British success story - The Manufacturer",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd2xLNWRVai1laHh4dXlfclBhdVQxQmh0WUE5cTRLRFFmcWpROUZCWEcyQk9sTWNkU080ZVpZMy1rSlBpUFZ0MG5YdGVtT0ZEeHZuSDdkRkEybVE4bEpyVDFQdFZ2eDQ5bHhRZ2loMFBEc0xyRDlyOTI2TGxhSFBjbFhBaDRyUWRjdWFYMkdDWHMyaW5NdnZLUkRTM2R4ZHBabEl5U1FWR1U?oc=5",
+      "original_publish_time": "2026-09-07T09:21:30+00:00",
+      "scraped_time": "2026-09-07T09:48:37.469475+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sole"
+      ],
+      "relevance_score": 3,
+      "summary": "Northern sole: shoe manufacturer LANX is a British success story The Manufacturer",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "52ff15e8fb13",
+      "title": "The Nike First Sight Shadow Closes the Trilogy With Sculptural Slip-On Build in \"Light Crimson/Metallic Silver\"",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/9/nike-first-sight-shadow-light-crimson-metallic-silver-hq2410-600-release-info",
+      "original_publish_time": "2026-09-07T08:51:07+00:00",
+      "scraped_time": "2026-09-07T09:48:26.382906+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "Name: Nike First Sight Shadow “Light Crimson and Metallic Silver”Colorway: Light Crimson/Metallic SilverSKU: HQ2410-600MSRP: $145 USDRelease Date: September 15Where to Buy: NikeNike has unveiled the Women's First Sight Shadow in a \"Light Crimson and Metallic Silver\" colorway, positioning the model as the closing chapter of the brand's First Sight collection. The Shadow arrives as a slip-on silhouette that pulls its cues from early-2000s design while grounding itself in Nike's basketball lineage.Construction is where the Shadow makes its case. The model is built as a futuristic slip-on, doing away with traditional lacing in favor of an easy step-in entry, and it is topped by a sculptural upper that gives the shoe its molded, forward-leaning shape. That upper is the defining visual element, ",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "0781794e0100",
+      "title": "Etro Leads the Birkenstock Boston and Gizeh With Paisley Outsoles and Pegaso Rivets",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/9/etro-birkenstock-boston-gizeh-fall-winter-2026-fw-26-collaboration-release-info",
+      "original_publish_time": "2026-09-07T08:30:27+00:00",
+      "scraped_time": "2026-09-07T09:48:26.387249+00:00",
+      "time_delta_mins": 0,
+      "category": "Quality",
+      "brands_mentioned": [
+        "Birkenstock"
+      ],
+      "keywords_matched": [
+        "footwear",
+        "outsole",
+        "sole"
+      ],
+      "relevance_score": 9,
+      "summary": "Name: Etro x Birkenstock Boston, Etro x Birkenstock GizehColorway: TBCSKU: TBCMSRP: TBCRelease Date: September 10Where to Buy: Birkenstock, EtroBirkenstock and Etro have released their collaborative footwear, opening with the Boston and the Gizeh as the first pairs in the partnership. The two styles graft Etro's decorative language onto Birkenstock's most recognizable silhouettes while leaving the brand's core footbed engineering intact.The ornamentation is where the collaboration concentrates its detailing. Both silhouettes are worked with a paisley motif and dense material treatments, then dressed with embroidered accents and long fringe for movement and texture. A Western-inspired buckle reshapes the closure hardware away from Birkenstock's standard fittings, while special rivets carry ",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "e4fe86a70b45",
+      "title": "Crocs' 2026 Horror Pack Loads Two Classic Clogs With ‘Halloween’ and ‘Saw’ Props and Blood Splatter",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/9/halloween-saw-crocs-classic-clog-michael-myers-jigsaw-213831-90h-213832-90h-release-info",
+      "original_publish_time": "2026-09-07T07:44:44+00:00",
+      "scraped_time": "2026-09-07T09:48:26.391662+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Crocs",
+        "Off-White"
+      ],
+      "keywords_matched": [
+        "midsole",
+        "sole",
+        "upper"
+      ],
+      "relevance_score": 6,
+      "summary": "Name: ‘Halloween’ x Crocs Classic Clog “Michael Myers”, ‘Saw’ x Crocs Classic Clog “Jigsaw”Colorway: MultiSKU: 213831-90H, 213832-90HMSRP: $70 USDRelease Date: September 24Where to Buy: CrocsCrocs is bringing its Horror Pack back for 2026 with two Classic Clogs built around Halloween and Saw. The set hands the spotlight to Michael Myers and Jigsaw, with each clog taking a distinct approach to its source film rather than running the same template in two colorways.The Michael Myers pair goes the comic route. Its upper carries a black and off-white graphic of the character, cut through with orange panels and red blood splatter, and that splatter carries onto the gray midsole. An olive heel strap and black hardware close out the back. Up front, a set of themed Jibbitz includes a knife and Hall",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "db9a6fa2394d",
+      "title": "SUBU Warms Its ORIGINALS F-LINE Sandal With New \"Lavender\" and \"Matcha\" Colorways",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/9/subu-originals-f-line-matcha-lavender-release-info",
+      "original_publish_time": "2026-09-07T07:04:59+00:00",
+      "scraped_time": "2026-09-07T09:48:26.396597+00:00",
+      "time_delta_mins": 0,
+      "category": "Quality",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "insole",
+        "sandal",
+        "sole"
+      ],
+      "relevance_score": 6,
+      "summary": "Name: SUBU Originals F-LineColorway: Matcha, MatchaSKU: N/AMSRP: ¥5,280 JPY (approx. $35 USD)Release Date: Available nowWhere to Buy: SUBUSUBU has introduced two new colorways of its ORIGINALS F-LINE sandal, \"Lavender\" and \"Matcha,\" for the 2026 fall and winter season. Rather than a warm-weather slide, the F-LINE is engineered as a cold-season sandal that can be worn on bare feet, using its layered construction to trap heat where conventional open footwear leaves it exposed.The heart of the design is a four-layer insole that gives the sandal its cushioning and thermal payoff. Underfoot, those stacked layers are tuned to deliver a plush, settled feel that the brand positions as more comfortable than standard house footwear, while the structure hugs the whole foot for a secure fit. It is the",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "2631733f4921",
+      "title": "BEAMS BOY and Birkenstock Rebuild the Boston in Three-Tone Asymmetric Suede Patchwork",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/9/beams-boy-birkenstock-boston-patch-work-13330193271-release-info",
+      "original_publish_time": "2026-09-07T07:04:57+00:00",
+      "scraped_time": "2026-09-07T09:48:26.398311+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Birkenstock"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "Name: BEAMS BOY x Birkenstock Boston Patch WorkColorway: Brown PatchworkSKU: 13330193271MSRP: ¥36,300 JPY (approx. $230 USD)Release Date: September 12Where to Buy: BEAMSBEAMS BOY and Birkenstock have reworked the Boston clog for a special-order collaboration, executed in a \"Brown Patchwork\" colorway assembled from three tones of suede. The project reworks one of Birkenstock’s most recognizable shapes with a paneled, craft-forward upper rather than a single continuous material.The build starts with the Boston’s clog construction and reworks the upper into an asymmetric patchwork. Three suede leathers, in Birkenstock’s Taupe, Mink and Mocha tones, are pieced together in a deliberately mismatched crazy pattern, so each shoe reads as a mix of distinct leather surfaces rather than one uniform p",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "7a85b2fd39e2",
+      "title": "The Sole Of A City: Inside Marikina’s Shoemaking Revival - lifestyleasia-onemega.com",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPejN1N0Q0Wjd3WFJkYTFvSnJFTnpfN2pLWTlYdUN6bWpZdU4zSVFGWXlsN1dEOThjS1FYTm9OZzBzNEdTT0ZDOC04d01LQ0c4UjhJNjBwX1ZYemRjWWpuWjZ0R2FNUmFiLWtFdk0xUExBV3pqMG52WkFKekhXNlVtNHBWS01YQQ?oc=5",
+      "original_publish_time": "2026-09-07T03:01:28+00:00",
+      "scraped_time": "2026-09-07T09:48:37.471343+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoemaking",
+        "sole"
+      ],
+      "relevance_score": 6,
+      "summary": "The Sole Of A City: Inside Marikina’s Shoemaking Revival lifestyleasia-onemega.com",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "106f9919e986",
       "title": "Crocs Turned Its Classic Clog Into a New Limited-edition Loafer That Will Be Released This Month",
@@ -794,6 +944,25 @@
       "image_url": ""
     },
     {
+      "id": "fc47fe338f7c",
+      "title": "Government’s comprehensive reform plan to revive leather industry: Commerce Minister - businessinbangladesh.com.bd",
+      "source_name": "Google News - Leather Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUldwenk3dkRzUXVGZkdKeHIyNW1sbmJjbGcyLTYyNm1ocHFkNGZHMm1CeDUtOVVrUHZIbVNuYVVPdzhuel9uanhZR0M5WjZadDVyenNmS05lWnBkM0h6VTJwZmVHYU1OREZJOXRiQWRYbE1aMl8tVWhwc0NIQzQwdDhlNXk3YnRiejVidk13ak1wQU8tNzd0cW9SVGp5dzBDeHF6N0lXSHBhRDFxVUFaR3h1Q1NqNkZ5T1p3?oc=5",
+      "original_publish_time": "2026-09-04T04:28:54+00:00",
+      "scraped_time": "2026-09-07T09:48:39.362713+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "leather industry"
+      ],
+      "relevance_score": 3,
+      "summary": "Government’s comprehensive reform plan to revive leather industry: Commerce Minister businessinbangladesh.com.bd",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
       "id": "9236b0abad6d",
       "title": "Laura Dern Pairs a Floral Dress With Low-profile Vivaia Sneakers in Venice",
       "source_name": "Footwear News",
@@ -852,6 +1021,25 @@
       ],
       "relevance_score": 5,
       "summary": "Everything from Nike to Converse may be Botega-fying their shoes, but a new Intrecciato-woven Bottega Veneta Klog Mule proves nobody does it like the OG.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "70bbe9e64338",
+      "title": "I test dozens of women’s walking shoes every year — these are the best ones for every foot type - nbcnews.com",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOamw4TTQtMXMzdFAwXzR2UlBlaTZEbUUtTHdOTXRxREpqWDJ1MEhMUmpsU3F3cG1zZy1MSm1MbS1odGhFcXdzV3N4LXVBSTItUUlCZUxTd1Y1RUtaOXZBQmVoREs2MWxoU2lScGIyYVJDalB5d19XOXFER3RDc0NqTTRB?oc=5",
+      "original_publish_time": "2026-09-03T20:58:51+00:00",
+      "scraped_time": "2026-09-07T09:48:38.094153+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "I test dozens of women’s walking shoes every year — these are the best ones for every foot type nbcnews.com",
       "ren_take": "",
       "image_url": ""
     },
@@ -2118,6 +2306,25 @@
       "image_url": ""
     },
     {
+      "id": "0a2df8d24658",
+      "title": "Sole Food: Saucony Quietly Became the Reseller’s Favorite Sneaker",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/saucony-stockx-report/",
+      "original_publish_time": "2026-08-31T23:26:16+00:00",
+      "scraped_time": "2026-09-07T09:52:11.339614+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sole"
+      ],
+      "relevance_score": 3,
+      "summary": "StockX names Saucony its fastest-growing sneaker brand in the August 2026 Big Facts report. Here, we unpack the secrets to the label's resale success.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
       "id": "cd0b620d28e3",
       "title": "ASICS Turns The GEL-DS Trainer Into A Ballet Shoe",
       "source_name": "Sneaker News",
@@ -2324,45 +2531,6 @@
       ],
       "relevance_score": 6,
       "summary": "Name: KEEN \"Nocturnal Pack\"Colorway: “Nocturnal Black\"SKU: TBCMSRP: $190 - $200 USDRelease Date: Available NowWhere to Buy: KEENThe KEEN “Nocturnal Pack” introduces a limited-edition collection that reimagines two of the brand’s most recognizable silhouettes - the UNEEK Loafer and the Newport Oxford - for life beyond the trail. Both models arrive in a \"Nocturnal Black\" colorway, aligning with the current cultural embrace of all-black aesthetics.The UNEEK Loafer transforms KEEN’s original two-cord sneaker into a premium leather loafer, hand-stitched and woven using traditional shoemaking techniques. It features a leather upper, lining, and insole sourced from Leather Working Group-certified tanneries, paired with a new hybrid rubber sole for versatile grip and a lighter feel underfoot.The N",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "bece80fdd71d",
-      "title": "Xbox CEO Confirms Project Helix Is a Family of Devices, Not Just a Single Next-Gen Console",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/8/xbox-project-helix-becomes-next-gen-family-of-devices",
-      "original_publish_time": "2026-08-31T06:33:00+00:00",
-      "scraped_time": "2026-08-31T11:11:25.804359+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "sole"
-      ],
-      "relevance_score": 3,
-      "summary": "Summary Xbox CEO Asha Sharma clarified that the upcoming Project Helix hardware platform will consist of a comprehensive family of devices rather than a single standalone consoleDeveloped through a strategic multi-year partnership with AMD the upcoming hardware suite is expected to natively support both traditional console gaming and PC titlesAlpha hardware kits are projected to reach developers starting in 2027 as Microsoft pushes for greater hardware affordability and efficiency The next generation of Xbox hardware is officially taking a multifaceted approach to the market. During a recent interview with BBC News at gamescom, Xbox CEO Asha Sharma confirmed that the upcoming initiative known as Project Helix is being designed as a versatile family of devices. The clarification marks a not",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "ded7fafceb38",
-      "title": "Low-profile Sneakers and Loafers Will Continue to Dominate the Men’s Shoe Market, Retailers Say",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-features/mens-shoe-trends-fall-2026-sneakers-loafers-retail-analysis-1239149391/",
-      "original_publish_time": "2026-08-31T04:01:00+00:00",
-      "scraped_time": "2026-08-31T11:11:15.357923+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoes",
-        "sneakers"
-      ],
-      "relevance_score": 4,
-      "summary": "Executives from Bergdorf Goodman, Urban Outfitters, Nordstrom, Macy’s, Mr Porter and more on what’s hot in men’s shoes.",
       "ren_take": "",
       "image_url": ""
     }
