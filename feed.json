@@ -1,8 +1,88 @@
 {
-  "last_updated": "2026-09-08T09:23:00.648845+00:00",
-  "total_articles": 116,
+  "last_updated": "2026-09-08T15:07:14.121544+00:00",
+  "total_articles": 115,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "6b8cc99eb3f9",
+      "title": "New Beginnings & Retro Sneakers: Stray Kids’ Seo Changbin is Autry’s First Ever Global Brand Ambassador - clashmusic.com",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9vRjYtZ1RxcjQ3NXdWQThTWEFkRUtid29NVGxENU9sMlJ5T2k5aS00SFBnc2pBVEgyRk9td3pyaTVubDRydmhPVnozX3hhSkV5ZzJkazJKcjFIZGZlMm92UVBQUWE5eVduQjFyQ2kxbTY4dw?oc=5",
+      "original_publish_time": "2026-09-08T14:17:39+00:00",
+      "scraped_time": "2026-09-08T14:56:27.113828+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "New Beginnings & Retro Sneakers: Stray Kids’ Seo Changbin is Autry’s First Ever Global Brand Ambassador clashmusic.com",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "c2de545aeb3b",
+      "title": "FENC unveils single-material recycled shoes",
+      "source_name": "Ecotextile News",
+      "source_domain": "ecotextile.com",
+      "source_url": "https://www.ecotextile.com/2026090865426/news/materials-production-news/fenc-unveils-single-material-recycled-shoes/",
+      "original_publish_time": "2026-09-08T12:02:21+00:00",
+      "scraped_time": "2026-09-08T14:58:24.879452+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "FENC says its polyester-based elastomer enables single-material shoes that are easier to recycle and produce fewer carbon emissions than TPU […] The post FENC unveils single-material recycled shoes appeared first on Ecotextile News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "286b05461fd5",
+      "title": "Official Look at the sunlovetour x New Balance Minimus Sneakers",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/9/sunlovetour-new-balance-soft-utility-collaboration-release-info",
+      "original_publish_time": "2026-09-08T09:38:11+00:00",
+      "scraped_time": "2026-09-08T14:56:15.531747+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "New Balance"
+      ],
+      "keywords_matched": [
+        "sneakers",
+        "upper"
+      ],
+      "relevance_score": 6,
+      "summary": "Name: sunlovetour x New Balance Minimus MT10 & MT2Colorway: TBCSKU: MT10O1ND, MT298HMSRP: TBCRelease Date: September 11Where to Buy: sunlovetourContinuing their efforts to redefine traditional golf culture through a distinct lifestyle lens, Seoul-based casualwear imprint sunlove has reunited with New Balance for an all-new capsule titled \"SOFT UTILITY : MINIMUS.\" Following the success of their previous collaborative efforts, this sophomore joint venture taps New Balance's iconic barefoot-feel runner - the Minimus - as its foundation.Arriving in two distinct, season-ready colorways characterized by sharp material blocking, the MT10 sneaker features a classic upper constructed from rich suede and breathable mesh in a burgundy red hue -- striking an unexpected visual balance with its contrast",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "f6fb4f2596c1",
+      "title": "Take a First Look at the ROA x fragment design’s Andreas Boot",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/9/roa-fragment-design-andreas-boot-collaboration-first-look-info",
+      "original_publish_time": "2026-09-08T09:08:43+00:00",
+      "scraped_time": "2026-09-08T14:56:15.535196+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "boot",
+        "upper"
+      ],
+      "relevance_score": 5,
+      "summary": "Name: ROA x fragment design Andreas BootSKU: TBCRelease Date: TBCFirst-look images of ROA and fragment design's collaborative Andreas boot have surfaced. Arriving as a rugged reinterpretation of ROA’s technical outdoor silhouette through Hiroshi Fujiwara’s minimalist lens, the boots feature a leather upper with a heel counter that's partially composed of suede. Serving as a reunion following their 2017 three-way project with 1017 ALYX 9SM, this newly revealed silhouette appears to be equipped with added protection and longevity; a robust black rubber reinforcement wraps around the toe box, cementing the shoe's outdoor roots while maintaining a sleek, stealthy profile.Breaking up the monochromatic upper, the boot incorporates metallic lace hooks that introduce a slight industrial edge to th",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "9edcc52d2037",
       "title": "The Air Jordan 1 Low Pairs Shaggy Suede And Boot Laces",
@@ -2289,110 +2369,6 @@
       ],
       "relevance_score": 4,
       "summary": "Brazilian footwear icon Havaianas and Brooklyn-based label KidSuper have officially unveiled their collaborative four-piece footwear collection. Building on an ongoing creative partnership, the latest capsule bridges the gap between traditional athletic inspiration and avant-garde street style. KidSuper founder Colm Dillane applies his distinct design language directly to the renowned Havaianas footwear frame to merge art and sport.The unquestionable centerpiece of the release is the Havaianas x KidSuper \"Top Turf Pitch\" sandal. Originally previewed during KidSuper's FW26 runway presentation at Paris Men's Fashion Week, the model features an unorthodox material overhaul. The entire silhouette is wrapped in lush green velvet designed to recreate the visual and tactile sensation of a footbal",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "5a971f302c71",
-      "title": "Made in Europe: The future of shoe manufacturing - Siemens",
-      "source_name": "Google News - Shoe Manufacturing",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcXZ5VjJRWWYtZ3N0N0NzN250RXFOWm9rcmhYMVNkS0xqRDB3S0xTWm1nZE9iWVlkZWdyVEw1QkhUbENUS09kb09paU1VOVpRYjhHQ0hhUXlMbzNQYVhWSXVWR1hlb0U4bmsyYXRtUHlYcDNLNXdGRTlwUmhNNWFBd2pxY1NzYTZaMVE?oc=5",
-      "original_publish_time": "2026-09-01T14:54:41+00:00",
-      "scraped_time": "2026-09-01T19:43:58.813151+00:00",
-      "time_delta_mins": 0,
-      "category": "Manufacturing",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoe manufacturing"
-      ],
-      "relevance_score": 3,
-      "summary": "Made in Europe: The future of shoe manufacturing Siemens",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "f9b513fc781f",
-      "title": "mfpen Remakes the New Balance 991v1 in \"Surplus Leathers\"",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/9/mfpen-new-balance-made-in-uk-991v1-surplus-leathers",
-      "original_publish_time": "2026-09-01T14:54:28+00:00",
-      "scraped_time": "2026-09-01T15:23:55.808971+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "New Balance"
-      ],
-      "keywords_matched": [
-        "footwear",
-        "sneakers"
-      ],
-      "relevance_score": 4,
-      "summary": "SummaryThe mfpen x New Balance Made in UK 991v1 uses upcycled surplus materials for a limited 90-pair release on September 3.It features a hand-debossed \"N\" logo, blending New Balance’s Flimby factory heritage with mfpen’s minimalist aesthetic.mfpen and New Balance give excess materials new life with their first-ever collaboration, which reimagines the Made in UK 991v1 in “Surplus Leathers.” The debut silhouette from mfpen x New Balance embraces the footwear brand’s archival history, while staying true to mfpen’s design philosophy and lived-in feel.mfpen founder Sigurd Bank offered Hypebeast exclusive insights on the partnership, sharing, “New Balance has always felt somehow connected to mfpen. I remember styling the first collections with my own thrashed New Balance sneakers. I’ve always ",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "e9c2a2bad84d",
-      "title": "What Michael Jordan’s Legendary Air Jordan Line Can Learn From Kobe Bryant’s Nike Protros",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/air-jordan-protro-kobe-1239176425/",
-      "original_publish_time": "2026-09-01T13:54:43+00:00",
-      "scraped_time": "2026-09-01T15:23:45.356907+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike",
-        "Jordan"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 4,
-      "summary": "Inside the pros and cons of a potential Air Jordan Protro line.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "313b80735ac2",
-      "title": "Mckenna Grace Talks Talks Purple Crocs, Her Uncomfortable ‘Hunger Games’ Boots and Embracing Feminine Fashion",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-trends/mckenna-grace-crocs-scooby-doo-hunger-games-interview-1239176076/",
-      "original_publish_time": "2026-09-01T13:19:00+00:00",
-      "scraped_time": "2026-09-01T15:23:45.359661+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Crocs"
-      ],
-      "keywords_matched": [
-        "boot",
-        "footwear"
-      ],
-      "relevance_score": 6,
-      "summary": "The Crocs campaign star discusses method dressing as Daphne Blake, President Snow's impractical footwear and reclaiming her feminine style.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "7eb60033aa0e",
-      "title": "PUMA Taps Graphpaper for an Earthy H-STREET Colorway",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/9/graphpaper-puma-h-street-collaboration-release-info",
-      "original_publish_time": "2026-09-01T09:49:53+00:00",
-      "scraped_time": "2026-09-01T15:23:55.813813+00:00",
-      "time_delta_mins": 0,
-      "category": "Quality",
-      "brands_mentioned": [
-        "Puma"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "Name: Graphpaper x PUMA H-STREETColorway: BrownSKU: TBCMSRP: ¥16,500 JPY (approx. $103 USD)Release Date: September 5Where to Buy: PUMA, GraphpaperGraphpaper has partnered with PUMA for a refined take on the H-STREET, a silhouette originally rooted in 2000s track running spikes. Ditching the standard inline model's breathable mesh upper, the collaborative pair is reconstructed using an elevated combination of smooth nylon and supple nubuck paneling.Offered exclusively in a unified, monochromatic \"Brown\" - a key seasonal color for Graphpaper’s Fall/Winter 2026 line - the design relies on the subtle textural interplay between matte nubuck overlays and sleek nylon bases to highlight its fluid, racing-inspired lines. The muted aesthetic is further enhanced by tonal embroidered branding on the t",
       "ren_take": "",
       "image_url": ""
     }
