@@ -1,8 +1,197 @@
 {
-  "last_updated": "2026-09-09T09:27:25.761393+00:00",
-  "total_articles": 108,
+  "last_updated": "2026-09-09T15:12:20.917660+00:00",
+  "total_articles": 113,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "1e2922241271",
+      "title": "The Journeys Formula as Explained by Leaders from Dr. Martens, Timberland, New Balance, Adidas, Birkenstock and More",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-features/journeys-brand-partners-adidas-vans-ugg-1239203042/",
+      "original_publish_time": "2026-09-09T14:30:00+00:00",
+      "scraped_time": "2026-09-09T15:01:20.551264+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Adidas",
+        "New Balance",
+        "Timberland",
+        "Dr. Martens",
+        "Birkenstock"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 10,
+      "summary": "Brand partners discuss their powerful partnerships with the retailer.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "026b0d1b7d36",
+      "title": "‘The Bear’ Star Ayo Edebiri Joins New Balance as Brand Ambassador",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/ayo-edebiri-new-balance-brand-ambassador-details-1239203029/",
+      "original_publish_time": "2026-09-09T12:54:49+00:00",
+      "scraped_time": "2026-09-09T15:01:20.554369+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "New Balance"
+      ],
+      "keywords_matched": [
+        "shoe brand"
+      ],
+      "relevance_score": 3,
+      "summary": "A Boston native, Edebiri returns to the city she grew up in for her debut campaign for the shoe brand.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "1c25692019c2",
+      "title": "Buy 5 Apparel & Shoes Stocks Striding Ahead in 2026 for Steady Returns - TradingView",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZ3NiMERlaXNnV25HUC1xY3lNWHJJNmVUaTVRS2NWR0tiQ1Y2Q1AwZWF2NVNGY19NUlBoeDdGb3F6V2VFVTA5ZFl4cWlVSlgxWkhLUjI5MXRvaWJ4RUF1QjRfdnk5MVo1UWhWQVQ2UzFjLVI2N0NUNzZFcHIxcDJXdWNteHFUVHMtZWtGbGdwbVZNLXowb0s4S1VYQVlMWnNfa3NZdE5lMlBaWndnQ1l6VE1oM1Y4Mnd0UWFuMVNJR0pBdw?oc=5",
+      "original_publish_time": "2026-09-09T12:38:00+00:00",
+      "scraped_time": "2026-09-09T15:01:42.262925+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "Buy 5 Apparel & Shoes Stocks Striding Ahead in 2026 for Steady Returns TradingView",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "e5a37703d8fd",
+      "title": "Former NFL Quarterback Matt Leinart Tests Out Rockport’s Shoes in Fall Campaign",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/matt-leinart-rockport-shoes-fall-2026-campaign-nfl-1239202956/",
+      "original_publish_time": "2026-09-09T12:00:00+00:00",
+      "scraped_time": "2026-09-09T15:01:20.555053+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Rockport"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 5,
+      "summary": "The new spot launches on the first day of the 2026 NFL regular season.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "6897a121ccce",
+      "title": "Converse Japan's All Star Yunomi Hi Pours a Teacup's Fish Kanji Print Onto a High-Top",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/9/converse-japan-all-star-yunomi-hi-teacup-inspired-fish-kanji-31319350210-release-info",
+      "original_publish_time": "2026-09-09T10:28:47+00:00",
+      "scraped_time": "2026-09-09T15:01:31.052049+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [
+        "Converse"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "Name: Converse Japan All Star Yunomi HiColorway: White/NavySKU: 31319350210MSRP: ¥11,000 JPY (approx. $70 USD)Release Date: September 25Where to Buy: Converse JapanConverse Japan's All Star Yunomi Hi turns a piece of everyday tableware into a full-coverage sneaker graphic, printing the motif of the yunomi teacup across a canvas high-top. The release lands on a renewed version of the All Star spec and treats the upper as a canvas for a densely detailed, distinctly Japanese print.The graphic is the whole story here. Converse Japan draws on the yunomi, the style of teacup familiar to anyone who has browsed a Japanese souvenir shop, and translates its imagery onto the shoe. Teacups of this kind are frequently decorated with kanji built on the fish radical, and the print leans into that traditi",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "e84173dfd847",
+      "title": "From Saucony to adidas, the Seven Best Sneakers to Cop This Week",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/sneaker-releases-2026-september-week-2/",
+      "original_publish_time": "2026-09-09T10:27:33+00:00",
+      "scraped_time": "2026-09-09T15:05:06.372656+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "This weeks packed full of funky collaborations and crazy colorways, before we all go back to muter winter sneakers.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "9626e91e6b44",
+      "title": "HYKE Reimagines Heritage Military Codes Across a Dual Gender Runway for SS27",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/9/hyke-spring-summer-2027-runway-collection-info",
+      "original_publish_time": "2026-09-09T10:25:29+00:00",
+      "scraped_time": "2026-09-09T15:01:31.053997+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "hide",
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "Summary HYKE SS27 debuts its first full menswear line alongside its latest womenswear collection.The range comprises tailored silhouettes, military-inspired outerwear and sheer layering.Collaborations include Baracuta jackets, BRIEFING modular totes, and footwear with FOOT THE COACHER, BEAUTIFUL SHOES, and Marbot. HYKE’s Spring/Summer 2027 runway collection continues Hideaki Yoshihara and Yukiko Ode’s exploration of modernized vintage uniforms and workwear, this time marking the debut of a fully developed menswear line alongside womenswear. Distinctly engineered rather than simply upsized from womenswear, both lines share cohesive silhouettes and thematic codes while maintaining distinct tailoring and fits.The season strikes a balance between sharp, elegant tailoring, voluminous drapes, ut",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "99517e64a5bd",
+      "title": "Puma names ex-Nike exec as senior vice president sports marketing",
+      "source_name": "Retail Gazette",
+      "source_domain": "retailgazette.co.uk",
+      "source_url": "https://www.retailgazette.co.uk/blog/2026/09/puma-marketing-appointment/",
+      "original_publish_time": "2026-09-09T09:26:19+00:00",
+      "scraped_time": "2026-09-09T15:04:34.418442+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Nike",
+        "Puma"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "Puma has named Steve Cecchini as its new senior vice president for sports marketing. He joins the firm from Nike, where he was general manager, global football clubs, federations, leagues and partnership. He has also previously held roles in strategy and business development at PVH Corp and Nike. Cecchini will be responsible for managing and...",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "9ce793c93441",
+      "title": "Official Look at the PUMA CELL GEO 1 CAGE JL-AL",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/9/puma-j-la-l-cell-geo-1-cage-jl-al-official-images-release-info",
+      "original_publish_time": "2026-09-09T09:25:53+00:00",
+      "scraped_time": "2026-09-09T15:01:31.055543+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Puma"
+      ],
+      "keywords_matched": [
+        "footwear",
+        "upper"
+      ],
+      "relevance_score": 4,
+      "summary": "Name: PUMA x _J.L‑A.L CELL GEO 1 CAGE JL-ALColorway: TBCSKU: TBCMSRP: ¥33,000 JPY (approx. $215 USD)Release Date: September 12Where to Buy: PUMAPUMA and London-based apparel brand _J.L-A.L, helmed by designer Jean-Luc Ambridge Lavelle, have unveiled their latest collaborative footwear model, the CELL GEO 1 CAGE J.L-A.L. Evolving from their previous sold-out CELL GEO, this new silhouette introduces a striking geometric design inspired by the geodesic dome structures of architect Buckminster Fuller.The performance-driven sneaker features a seamless, laceless mesh upper enveloped by a 3D TPU cage system, delivering both structural beauty and a fluid, futuristic form. Offered in stark, monochromatic dark brown and white colorways, the CELL GEO 1 CAGE J.L-A.L embraces a minimalist aesthetic wit",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "190cb739cfab",
       "title": "JJJJound and Diemme Return the Movida in a \"Brown\" Suede Build With Italian Leather and Vibram",
@@ -63,6 +252,25 @@
       ],
       "relevance_score": 5,
       "summary": "Name: N.HOOLYWOOD COMPILE x KEEN UNEEK 360Colorway: Steel GraySKU: 1032697MSRP: ¥25,300 JPY (approx. $165 USD)Release Date: September 12Where to Buy: N.HOOLYWOOD, KEEN JapanN.HOOLYWOOD COMPILE and KEEN have built their first collaboration on the UNEEK 360, the newest model in KEEN's open-air UNEEK series. The dress-leaning N.HOOLYWOOD line reconstructs the sneaker on its own terms, keeping the model's stripped-back engineering front and center while pulling it toward a more refined finish.The starting point is the UNEEK concept of a shoe made from little more than cords and a sole. For this version, KEEN adopts a build that uses no adhesive, reconstructing the silhouette around that minimal-waste logic. Recycled-plastic bungee cord and a lace toggle lock the foot in place quickly, while th",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "51db465010cf",
+      "title": "Worldwide Footwear Output Breaks the 24 Billion-Pair Mark - Modaes",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbjQzcFFDSm9ORV9vOXZDaEc4TkdqbGtFSGczWUZxUmtlNHZJQ0hvS0hic2hvbDliQW1tNXlyYzI1bk1PMTQ2VVhEc3ZILURvb00wd2IwWWVuZHZkZlotZmxNLTRfTk5yR2c0dkxGeXl4QllhRUxtYW9sRlgzSTIwYVFudXJxb2VWcXZ2eVJ2WFAyZnF1aHJ3MDdQeXU?oc=5",
+      "original_publish_time": "2026-09-09T04:00:00+00:00",
+      "scraped_time": "2026-09-09T15:01:42.263846+00:00",
+      "time_delta_mins": 0,
+      "category": "Manufacturing",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Worldwide Footwear Output Breaks the 24 Billion-Pair Mark Modaes",
       "ren_take": "",
       "image_url": ""
     },
@@ -2127,106 +2335,6 @@
       ],
       "relevance_score": 4,
       "summary": "The sneaker loafer may have taken the spot of the sneaker boot as the footwear hybrid de jour in 2026, but brands aren’t shying away... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Jordan Spiz'ike Low Preps For Fall In \"Fauna Brown\" appeared first on Sneaker News . The post The Jordan Spiz’ike Low Preps For Fall In “Fauna Brown” appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "d0af4bf92d44",
-      "title": "African Fashion Hub Streetsouk Gets A Nike Air Force 1 Low Collab",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/09/02/streetsouk-nike-air-force-1-low-io4366-300/",
-      "original_publish_time": "2026-09-02T15:00:17+00:00",
-      "scraped_time": "2026-09-02T19:37:14.537850+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Nike",
-        "Jordan"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "Bringing in first-time collaborators Beaverton’s orbit has been a major plotline over the past few years. More specifically, both Jordan Brand and Nike have looked... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post African Fashion Hub Streetsouk Gets A Nike Air Force 1 Low Collab appeared first on Sneaker News . The post African Fashion Hub Streetsouk Gets A Nike Air Force 1 Low Collab appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "8be943faeb31",
-      "title": "8 Drops You Don't Want to Miss This Week",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/9/best-drops-september-week-1-supreme-palace-skateboards-jennie-adidas-originals",
-      "original_publish_time": "2026-09-02T12:30:16+00:00",
-      "scraped_time": "2026-09-02T14:59:23.741868+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Nike",
-        "Adidas"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "With another week upon us, we have yet another installment of our product drops series.This week’s lineup of drops kicks off with Supreme honoring Larry Clark’s legendary Tulsa archive through a photography-driven Fall 2026 collaboration, while Palace Skateboards balances stormproof GORE-TEX outerwear with pitch-ready sportswear for its fifth seasonal delivery. Global pop icon JENNIE makes her official co-design debut with adidas Originals on the ballet-infused \"FUNCTIONAL GRACE\" collection, just as Travis Scott’s Cactus Jack and Nike serve up the rebellious, tennis-themed \"Cactus Court\" capsule following its US Open debut. Parisian label côte&ciel blurs the line between luggage and wearable garments with its origami-like FW26 collection, while sacai stages an immersive \"sacai TO GO\" pop-u",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "621fa14cf0c6",
-      "title": "Dr. Martens Beefs Up Global Product Team, Hiring Talent from Marc Jacobs, Adidas",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/dr-martens-global-product-team-hires-marc-jacobs-adidas-1239194142/",
-      "original_publish_time": "2026-09-02T11:28:42+00:00",
-      "scraped_time": "2026-09-02T14:59:12.878637+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Adidas",
-        "Dr. Martens"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 4,
-      "summary": "Isadora Versiani has been named global product design director, while Nadia Svensson joins as global merchandising and product director from Adidas. Both will take up their new roles in November, and report to chief brand officer Carla Murphy.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "fa65832b4728",
-      "title": "Martha Stewart, Oprah, and I Wear These Supportive Podiatrist-Approved Sneakers Going for 37% Off - instyle.com",
-      "source_name": "Google News - Sneaker Brand",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPc2dYcURaUjJwZE12OThMYkY5eWZnaEJUZXI5SFZCTWJkRGduQjNZdklRcTh5d3FWaEJhdnBvdE0yWDk4TjhwSWMyRWVRRjJ1aktrb0ZOOUlmblZNLTI1SXRDeUlGblQxcExOT1dTdVRVYkVSNG8xRTB0ekFuUmdSbXZIMnlUMWphOV8wa0w3b2IzRHc?oc=5",
-      "original_publish_time": "2026-09-02T10:30:00+00:00",
-      "scraped_time": "2026-09-04T14:50:32.716281+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "Martha Stewart, Oprah, and I Wear These Supportive Podiatrist-Approved Sneakers Going for 37% Off instyle.com",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "72e503b215b2",
-      "title": "Albino & Preto x atmos x ASICS Charge the GEL-Kayano 12.1 With Volt-Inspired Energy",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/9/albino-preto-atmos-asics-gel-kayano-12-black-white-safety-yellow-1203b227-100-1203b227-001-release-info",
-      "original_publish_time": "2026-09-02T09:34:52+00:00",
-      "scraped_time": "2026-09-02T14:59:23.746227+00:00",
-      "time_delta_mins": 0,
-      "category": "Trade Data",
-      "brands_mentioned": [
-        "ASICS"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Name: Albino & Preto x atmos x ASICS GEL-Kayano 12Colorway: Black/Safety Yellow, White/Safety YellowSKU: 1203B227-100, 1203B227-001MSRP: TBCRelease Date: September 4, September 6 (online)Where to Buy: JJCON, Albino & PretoAlbino & Preto, ASICS and atmos have linked on a three-way collaboration anchored by the GEL-Kayano 12.1, the retro-lifestyle runner reworked here with a distinctly athletic edge. Drawing on the energy of the Volt colorway, the project leans into a vibrant, performance-minded color story rather than a subdued lifestyle palette.The footwear arrives in two distinct colorways, each built around the same design logic. Fluorescent highlights supply the high-visibility punch that ties the look back to its Volt inspiration, while reflective overlays add a technical, light-catchi",
       "ren_take": "",
       "image_url": ""
     }
