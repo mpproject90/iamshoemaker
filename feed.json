@@ -1,8 +1,137 @@
 {
-  "last_updated": "2026-09-09T15:12:20.917660+00:00",
-  "total_articles": 113,
+  "last_updated": "2026-09-09T19:46:16.925066+00:00",
+  "total_articles": 114,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "a83e9d3361bc",
+      "title": "Week 1 Jawns: The Reebok Brutus Lo Sports “Philadelphia Eagles” Colors",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/09/09/reebok-brutus-lo-philadelphia-eagles-100263449/",
+      "original_publish_time": "2026-09-09T18:30:55+00:00",
+      "scraped_time": "2026-09-09T19:35:24.615977+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Reebok",
+        "Jordan"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 4,
+      "summary": "While Jordan Brand has the Philadelphia Eagles’ on-field footwear headlines locked down via the feats of Jalen Hurts, it’s open season as far as team-adjacent... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Week 1 Jawns: The Reebok Brutus Lo Sports \"Philadelphia Eagles\" Colors appeared first on Sneaker News . The post Week 1 Jawns: The Reebok Brutus Lo Sports “Philadelphia Eagles” Colors appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "13f0b4f92d10",
+      "title": "Hoka Launches at Academy, While Bright Spots Emerge Within Nike and Jordan Businesses",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/academy-hoka-nike-work-boots-jordan-brand-running-1239203401/",
+      "original_publish_time": "2026-09-09T18:30:33+00:00",
+      "scraped_time": "2026-09-09T19:35:13.936422+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Nike",
+        "Hoka",
+        "Jordan"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 7,
+      "summary": "Academy's launching Hoka in select stores and online this fall, while Nike continues to resonate and work boots remain a strong shoe category.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "4b462bc3ba0f",
+      "title": "This Classic-yet-Overlooked Timberland Boot Is Getting a Special Release Designed by a Footwear Industry Veteran",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/timberland-euro-hiker-gtx-curated-by-victor-kan-release-date-1239204190/",
+      "original_publish_time": "2026-09-09T18:02:53+00:00",
+      "scraped_time": "2026-09-09T19:35:13.939275+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Timberland"
+      ],
+      "keywords_matched": [
+        "boot",
+        "footwear",
+        "footwear industry"
+      ],
+      "relevance_score": 11,
+      "summary": "The Timberland Euro Hiker GTX curated by Victor Kan is inspired by a famous designer sneaker.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "f4da73728742",
+      "title": "Printemps’ New Exhibition Features More Than 200 Pairs of Memorable Shoes",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/printemps-pas-a-pas-shoe-history-exhibition-1239203568/",
+      "original_publish_time": "2026-09-09T17:33:11+00:00",
+      "scraped_time": "2026-09-09T19:35:13.939910+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "The Paris department store is continuing to boost its cultural street credibility with its latest free exhibition.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "fe0d2017e335",
+      "title": "Mossy Greens Wrap The New Balance 983",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/09/09/new-balance-983-green-yellow-red-u9834ev0/",
+      "original_publish_time": "2026-09-09T17:00:59+00:00",
+      "scraped_time": "2026-09-09T19:35:24.619466+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [
+        "New Balance"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "For New Balance, the title of “newest lifestyle model” might have the highest turnover rate in the footwear world. The Boston brand has kept its... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Mossy Greens Wrap The New Balance 983 appeared first on Sneaker News . The post Mossy Greens Wrap The New Balance 983 appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "e28d48dab3fc",
+      "title": "Nike’s Dad Shoe Is Getting New Special-edition Suede Styles for Fall",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-air-monarch-4-se-black-gum-cocoa-wow-release-date-1239203475/",
+      "original_publish_time": "2026-09-09T16:18:55+00:00",
+      "scraped_time": "2026-09-09T19:35:13.940641+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sole"
+      ],
+      "relevance_score": 3,
+      "summary": "The Air Monarch 4 SE will be released in new suede and gum-sole looks.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "1e2922241271",
       "title": "The Journeys Formula as Explained by Leaders from Dr. Martens, Timberland, New Balance, Adidas, Birkenstock and More",
@@ -2230,111 +2359,6 @@
       ],
       "relevance_score": 6,
       "summary": "In athletic performance footwear, UBS is bullish on the On Holding, Deckers Outdoor, Amer Sports, Wolverine Worldwide and Under Armour brands.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "63a526b155fe",
-      "title": "Gore-Tex and Vibram Make This the Best Nike Air Force 1 You Can Get for Winter",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-air-force-1-gore-tex-vibram-baroque-brown-release-date-1239195101/",
-      "original_publish_time": "2026-09-02T19:19:58+00:00",
-      "scraped_time": "2026-09-02T19:37:03.265829+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike",
-        "Vibram"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 5,
-      "summary": "The winterized AF1 Low gets a new boot-like brown treatment.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "b9b004618c19",
-      "title": "Noida shoe factory gutted in fire, short circuit suspected - The Times of India",
-      "source_name": "Google News - Shoe Manufacturing",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWmE3TGN0UjFVYXlkN3RfbUJRRVEyeUZleGsxVFU1VWpKN0xhYUl2dUpnellCZURoQVFpNjktMG9rMEc5RFIwYUZKWWwxaVJ1MEx6Y3B0djhuVEN5VW5IQkoyTTVIbjV6YWw3TW4tdndxSWlnLWR1ejEyZnprbVVrTmhhWEdzNnRCbTNwQWtkMFNQZWhwZWM0eXBBd1Jhd3JpRHdMY0tOS0FaTlpfY2JqTi1rakZycUlfTDlKemdsa21tM05fMnpEZFln0gHPAUFVX3lxTE1qYXdWc3NSTDJydUFaOWhEMHNiVjFGWndKcGllR2kzc0ZaeG5zdTdQejJrMjFvMEF1YWFzOTF6S3p2anVxUFFKckUxZkh0b2dSMXphZGJ3a0sxel8zNWJWMGZlWmVLZndQa2J6eGF3WUotcHBiUDh3ZlF2bHVpWHRhTHdralM1Ti1nZWRvRmhYZGdGX0g5M3VuZFpuUWdzV093WnJ1a2ZYcTZLT1B0cmxDcjJQWVRkbFE4Q3RMUjQ3UDNKQ0h6TmtBcU5rM0lxdw?oc=5",
-      "original_publish_time": "2026-09-02T19:15:00+00:00",
-      "scraped_time": "2026-09-03T19:37:05.647459+00:00",
-      "time_delta_mins": 0,
-      "category": "Manufacturing",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoe factory"
-      ],
-      "relevance_score": 3,
-      "summary": "Noida shoe factory gutted in fire, short circuit suspected The Times of India",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "1ad3128c6900",
-      "title": "Salomon Releases The XT-EVO After KITH Debut",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/09/02/salomon-xt-evo-release-date/",
-      "original_publish_time": "2026-09-02T19:00:42+00:00",
-      "scraped_time": "2026-09-02T19:37:14.456629+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "New Balance",
-        "ASICS",
-        "Salomon"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 5,
-      "summary": "Perhaps it’s their work with New Balance and ASICS that takes up the most headlines, but quiet as kept, KITH is keenly aware of Salomon’s... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Salomon Releases The XT-EVO After KITH Debut appeared first on Sneaker News . The post Salomon Releases The XT-EVO After KITH Debut appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "cb2c7d5d17d5",
-      "title": "MoMA Is Turning Nike’s Trendy Tabi Sneakers Into Pop Art",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/moma-nike-air-rift-2-release-date-ir8669-001-ir8669-300-1239194606/",
-      "original_publish_time": "2026-09-02T16:47:23+00:00",
-      "scraped_time": "2026-09-02T19:37:03.268342+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 5,
-      "summary": "Co-branded tabi socks will also release alongside the Air Rift 2.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "5132c11a56ca",
-      "title": "The Jordan Spiz’ike Low Preps For Fall In “Fauna Brown”",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/09/02/jordan-spizike-low-fauna-brown-black-fq1759-200/",
-      "original_publish_time": "2026-09-02T16:00:30+00:00",
-      "scraped_time": "2026-09-02T19:37:14.535618+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Jordan"
-      ],
-      "keywords_matched": [
-        "boot",
-        "footwear"
-      ],
-      "relevance_score": 4,
-      "summary": "The sneaker loafer may have taken the spot of the sneaker boot as the footwear hybrid de jour in 2026, but brands aren’t shying away... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Jordan Spiz'ike Low Preps For Fall In \"Fauna Brown\" appeared first on Sneaker News . The post The Jordan Spiz’ike Low Preps For Fall In “Fauna Brown” appeared first on Sneaker News .",
       "ren_take": "",
       "image_url": ""
     }
