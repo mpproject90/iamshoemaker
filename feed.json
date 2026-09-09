@@ -1,8 +1,130 @@
 {
-  "last_updated": "2026-09-08T19:52:58.806594+00:00",
+  "last_updated": "2026-09-09T01:17:00.732818+00:00",
   "total_articles": 112,
-  "sources_checked": 54,
+  "sources_checked": 60,
   "articles": [
+    {
+      "id": "8b43fb924959",
+      "title": "Boots’ Charlotte Lock: New campaign celebrates “beautiful and brutal” moments of life",
+      "source_name": "Retail Gazette",
+      "source_domain": "retailgazette.co.uk",
+      "source_url": "https://www.retailgazette.co.uk/blog/2026/09/boots-charlotte-lock/",
+      "original_publish_time": "2026-09-08T23:05:46+00:00",
+      "scraped_time": "2026-09-09T01:09:15.610402+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 3,
+      "summary": "Health, beauty and wellness retailer Boots has unveiled a new brand platform, which celebrates the “realities of life”. Titled ‘Give It Some Boots’, the campaign aims to show the role the retailer plays in giving support to its consumers during the “beautiful and brutal” moments of life. It pays tribute to Boots’ heritage but also...",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "2fbff9e75f65",
+      "title": "Nike’s Winter-Ready Air Jordans Are Extra Swaggy The Second Time Around",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/jordan-1-element-low-sneakers-2026/",
+      "original_publish_time": "2026-09-08T21:51:18+00:00",
+      "scraped_time": "2026-09-09T01:09:47.595401+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "The Air Jordan 1 Element Low returns with its signature trail-ready GORE-TEX construction plus fresh colorways like \"Black/Dark Concord.\"",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "7cf58e3bab20",
+      "title": "Thank Simone Rocha for This Pretty Pony-Hair adidas Slipper",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/simone-rocha-adidas-japan-slip-on/",
+      "original_publish_time": "2026-09-08T21:46:48+00:00",
+      "scraped_time": "2026-09-09T01:09:47.594329+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "Simone Rocha's adidas era kicks off with a hairy Japan slip-on, as well as other ballet-style shoes & ruffled sportswear.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "48ae1b96b9f1",
+      "title": "The Jordan Son Of Mars Low Reaches For “Fire Red”",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/09/08/jordan-son-of-mars-low-fire-red-580603-103/",
+      "original_publish_time": "2026-09-08T21:30:09+00:00",
+      "scraped_time": "2026-09-09T01:06:06.735529+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "“When they go Hi, we go Lo.” That’s been a reliable strategy for Nike, Inc. over the past few years, retrofitting many of its classic... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Jordan Son Of Mars Low Reaches For \"Fire Red\" appeared first on Sneaker News . The post The Jordan Son Of Mars Low Reaches For “Fire Red” appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "fe0d8997a478",
+      "title": "The Converse Jack Purcell Is Already Entering Its Collab Phase",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/09/08/palmes-converse-jack-purcell/",
+      "original_publish_time": "2026-09-08T20:30:30+00:00",
+      "scraped_time": "2026-09-09T01:06:06.741239+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Converse"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "In the wake of Shai Gilgeous-Alexander’s internal shift over to Nike, Converse has signaled its intentions to stick firmly in the lifestyle lane. To their... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Converse Jack Purcell Is Already Entering Its Collab Phase appeared first on Sneaker News . The post The Converse Jack Purcell Is Already Entering Its Collab Phase appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "db84a1aec4f6",
+      "title": "EXEC: UBS Issues ‘Bullish’ Note on Running Footwear Despite Nike’s Woes - SGB Media Online",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONVNFdERMazVUZ2F6b0NENUI1a3lidndTTEZRT2xyRUlwUnRmVnFfbkRYTVFQVUZhMWtWZlVOdkNnRlo4bEp6dU4tdWxqRXF5U2xDRVFLZ3dKZlVyc0ZkeUlyNWczQ25lV1hKTHAwQ3U1SVFOcmZ3MlYtMTUxODcwQTNYSG4yemRVNzUzM2xRcXZheDVz?oc=5",
+      "original_publish_time": "2026-09-08T20:18:05+00:00",
+      "scraped_time": "2026-09-09T01:06:17.677871+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "On Running"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 7,
+      "summary": "EXEC: UBS Issues ‘Bullish’ Note on Running Footwear Despite Nike’s Woes SGB Media Online",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "6d9f73ced3ce",
       "title": "Patta Reveals Upcoming Crocs Classic Clog Collab With Vibram Soles",
@@ -2185,127 +2307,6 @@
       ],
       "relevance_score": 4,
       "summary": "To beat inflation, parents are focusing less on bts promotions and more on footwear that can take their kids from one activity to another.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "e04ecd6ebcc4",
-      "title": "Coco Gauff Kicks Off US Open Run in Custom Navy New Balance Look and a New Colorway of Her CG2 Signature Shoes",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/coco-gauff-us-open-custom-new-balance-dress-shoes-details-1239178455/",
-      "original_publish_time": "2026-09-01T23:32:31+00:00",
-      "scraped_time": "2026-09-02T00:53:25.896725+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "New Balance"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 5,
-      "summary": "The 2023 tournament champion is looking to reclaim her title in her home Grand Slam.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "dd76ab5ee43c",
-      "title": "2026 US Open: Naomi Osaka, Serena Williams, Carlos Alcaraz and More On Court Sneakers [PHOTOS] - WWD",
-      "source_name": "Google News - Sneaker Brand",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVENYaTBvTHZXYjdSSFhReTRuTjgtM0pnZ2hUTTRqUUloZ2tyQUZjN1lpV0NmdTEtUU94RXhVRGJtUDBvRS1BSTVXdWJjTEdicXdxaTRrOXhKVmN5ZE9QUWd2MjROOFNobXNxS2d1TGF1d1U5Y0JLdDJzYUY1Y3ZsYTJKWG5JNXJrT2dkY2ZTS2p5dk5wTWhtZ0t1MnhWZw?oc=5",
-      "original_publish_time": "2026-09-01T23:20:33+00:00",
-      "scraped_time": "2026-09-03T01:00:50.201339+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "2026 US Open: Naomi Osaka, Serena Williams, Carlos Alcaraz and More On Court Sneakers [PHOTOS] WWD",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "f50cd0ac4fd8",
-      "title": "US footwear sales rise slightly in the first half - World Footwear",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNY09hR2lDd3lZU0UzLXo1c3AxZ0E4SEVmd2kxWURyTmNnb0ozZVBPTXd0SDFuS1NibDRISi1sc3JOTFh2cHZTa0k3V1ByeXdvNnFTakt5b2h1QTNUdjJ5THQzb3UxOWJYeWNtRTg2RHRyWHhmNkJMLUtQTEhoMGJhb2R4UV9Cc21LOVU5SGRvZ0tlOEJFcWlQWlJhTQ?oc=5",
-      "original_publish_time": "2026-09-01T23:01:24+00:00",
-      "scraped_time": "2026-09-02T00:53:47.821201+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "US footwear sales rise slightly in the first half World Footwear",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "44e98de9b8bb",
-      "title": "Nike Is Bringing Back This Baltoro From 1990",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/09/01/nike-baltoro-cave-stone-mystic-hibiscus-mountain-blue-io4556-202/",
-      "original_publish_time": "2026-09-01T22:00:43+00:00",
-      "scraped_time": "2026-09-02T00:53:36.922315+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 3,
-      "summary": "If Wale’s “Nike Boots” has seen an uptick in streams lately, you can squarely assign credit to the Air Max Goadome, a hot topic as... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike Is Bringing Back This Baltoro From 1990 appeared first on Sneaker News . The post Nike Is Bringing Back This Baltoro From 1990 appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "19a7d6d5a123",
-      "title": "These Ostrich-Leather Nike Air Forces Are Carlos Alcaraz-Approved",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/travis-scott-nike-air-force-1-ice-blue/",
-      "original_publish_time": "2026-09-01T21:53:30+00:00",
-      "scraped_time": "2026-09-02T00:57:07.910110+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "Travis Scott releases ice-blue ostrich-leather Air Force 1 Low sneakers as part of his new \"Cactus Court\" collection, all co-signed by Carlos Alcaraz.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "5fc91d542bd7",
-      "title": "This 91-Year-Old Stool Got Hender Scheme Shoes",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/arteks-furniture-hender-scheme-collaboration/",
-      "original_publish_time": "2026-09-01T20:00:00+00:00",
-      "scraped_time": "2026-09-02T00:57:07.910758+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "shoes"
-      ],
-      "relevance_score": 4,
-      "summary": "Legacy Finnish furniture company Artek and Japanese footwear designer Hender Scheme are releasing a collaboration that makes perfect sense.",
       "ren_take": "",
       "image_url": ""
     }
