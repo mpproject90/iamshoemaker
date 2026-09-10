@@ -1,8 +1,31 @@
 {
-  "last_updated": "2026-09-10T09:25:23.111728+00:00",
+  "last_updated": "2026-09-10T15:06:16.812974+00:00",
   "total_articles": 110,
-  "sources_checked": 60,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "0e5e9f250299",
+      "title": "The Barefoot-Inspired KEEN Jasper Merko Arrives in Three Understated Colorways",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/9/keen-jasper-merko-shoe-three-colorways-release-info",
+      "original_publish_time": "2026-09-10T11:16:59+00:00",
+      "scraped_time": "2026-09-10T14:53:24.256364+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Keen"
+      ],
+      "keywords_matched": [
+        "shoemaking",
+        "sole",
+        "upper"
+      ],
+      "relevance_score": 5,
+      "summary": "Name: KEEN Jasper MerkoMSRP: $135 USDRelease Date: September 3Where to Buy: KEENKEEN is reimagining its iconic climbing-inspired sneaker with the bold, ultra-minimal Jasper Merko. Designed to deliver a barefoot-inspired experience with a lighter environmental footprint, the shoe combines tried-and-true shoemaking techniques with groundbreaking sustainable solutions.Arriving in a stealthy black, muted grey and beige colorways, the upper is constructed from premium, responsibly sourced suede, utilizing a stitch-and-turn construction that creates a seamless, flexible fit that feels tailored directly to the foot. This heavily textured, low-profile sole wraps dynamically around the shoe's sidewalls, promoting natural movement and a more connected sensory experience. Staying true to its crag-cul",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "65a0295fe703",
       "title": "Vans and SZA’s Debut “Vansza” Collaboration Adds a Split-Toe “Tabi Hiker” To the Lineup",
@@ -951,6 +974,25 @@
       ],
       "relevance_score": 3,
       "summary": "The pandemic, like in all areas of our world, was a tide-shifting moment in sneakers. Among other effects, it made comfort cool again, still seen... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Comfort And Performance Combine On This Air Jordan 1 Low Golf Mule appeared first on Sneaker News . The post Comfort And Performance Combine On This Air Jordan 1 Low Golf Mule appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "00182653eeb2",
+      "title": "The World Can’t Get Enough of These Japanese Sneakers - WSJ",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeFI4SmNtV18wWjVpdU9DYm5TWThJYUJLTThFVmkwMXhOYXh5a3dkMXpwbHMyT1h2VTRwOFJ4M2FlaEdTb0lrT1JQRFJWVTg0MnNaclVWRmhjaGFxUHlqeEF5dHZXWFFYdGR4bEJkZVRyaVNMU3NHMVhGMF9jNGRNMkFuaGNLc0szYnZKUG1UZ1lXWXpF?oc=5",
+      "original_publish_time": "2026-09-07T16:00:00+00:00",
+      "scraped_time": "2026-09-10T14:53:36.103941+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "The World Can’t Get Enough of These Japanese Sneakers WSJ",
       "ren_take": "",
       "image_url": ""
     },
@@ -2234,53 +2276,6 @@
       ],
       "relevance_score": 3,
       "summary": "Vivobarefoot- how the British brand aims to convert the world to barefoot footwear ww.fashionnetwork.com",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "44eee3eea010",
-      "title": "Brooks vs. Hoka: How Do the Two Running Shoe Brands Compare? - Women's Health",
-      "source_name": "Google News - Sneaker Brand",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOE5xRjhMY0hhMzctQWZHX3F1UWNIR0txcDNKeUdnaWVwWko4YUVHa21hbjNzSEF1MlpyY21sbF9LMUlhVF8wa21FbmxqM2NrR2duRV9jcWl3a3RGb2pFVlBKZktnakI5dUhkTDZ0N29TWXhXWUo1Vm9ZeUhHeVJSbXdOMjVRdw?oc=5",
-      "original_publish_time": "2026-09-03T14:21:00+00:00",
-      "scraped_time": "2026-09-04T00:51:36.978382+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Brooks",
-        "Hoka"
-      ],
-      "keywords_matched": [
-        "shoe brand"
-      ],
-      "relevance_score": 7,
-      "summary": "Brooks vs. Hoka: How Do the Two Running Shoe Brands Compare? Women's Health",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "7e724eb617fc",
-      "title": "Merrell Reimagines Outdoor Footwear With a Duo of All-Black “Metro” Sneakers",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/9/merrell-cham-redux-ghost-metro-moab-speed-2k-metro-official-images-release-info",
-      "original_publish_time": "2026-09-03T10:54:48+00:00",
-      "scraped_time": "2026-09-03T14:53:27.144609+00:00",
-      "time_delta_mins": 0,
-      "category": "Quality",
-      "brands_mentioned": [
-        "Merrell"
-      ],
-      "keywords_matched": [
-        "footwear",
-        "midsole",
-        "sneakers",
-        "sole",
-        "upper"
-      ],
-      "relevance_score": 12,
-      "summary": "Name: Merrell CHAM REDUX GHOST METRO, MOAB SPEED 2K METROColorway: BlackSKU: TBCMSRP: ¥22,000 JPY (approx. $140 USD)Release Date: September 4Where to Buy: MerrellMerrell has introduced two new models under its Metro Collection, designed to merge outdoor performance with urban style: the CHAM REDUX GHOST METRO and the MOAB SPEED 2K METRO.Both silhouettes are unified by an all‑black, stealth‑inspired aesthetic that draws from the rhythms of city life, shifting seamlessly from day to night. The CHAM REDUX GHOST METRO features a synthetic and TPU upper reinforced with 3D print overlays for durability, while its voluminous FloatMax™ foam midsole delivers a smooth, cushioned ride. The design emphasizes a modern silhouette that balances rugged outdoor heritage with sleek metropolitan appeal.As fo",
       "ren_take": "",
       "image_url": ""
     }
