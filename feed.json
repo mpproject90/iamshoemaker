@@ -1,8 +1,73 @@
 {
-  "last_updated": "2026-09-09T19:46:16.925066+00:00",
+  "last_updated": "2026-09-10T01:05:33.944256+00:00",
   "total_articles": 114,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "146950dbeadc",
+      "title": "Famous Footwear Sees Sales Gains From Jordan, Birkenstock, Brooks and More as Lifestyle Athletic Shoes Disappoint",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/famous-footwear-jordan-birkenstock-brooks-sales-growth-1239204777/",
+      "original_publish_time": "2026-09-09T21:20:02+00:00",
+      "scraped_time": "2026-09-10T00:54:36.924995+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Brooks",
+        "Birkenstock",
+        "Jordan"
+      ],
+      "keywords_matched": [
+        "footwear",
+        "shoes"
+      ],
+      "relevance_score": 12,
+      "summary": "The CEO noted that these brands saw more interest due to its fashion footwear business strengthening in the quarter.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "e04ecd6ebcc4",
+      "title": "Coco Gauff Comes Back to Reach US Open Semifinals in Custom New Balance Dresses and New Colorway of Her CG2 Signature Shoes",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/coco-gauff-us-open-custom-new-balance-dress-shoes-details-1239178455/",
+      "original_publish_time": "2026-09-09T21:11:11+00:00",
+      "scraped_time": "2026-09-10T00:54:36.927500+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "New Balance"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 5,
+      "summary": "The 2023 tournament champion is looking to reclaim the title in her home Grand Slam.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "8364ce653118",
+      "title": "SGA’s Converse Era Winds Down With Huge SHAI 001 Apparel Collection",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/09/09/converse-shai-001-black-white-a23975c-a23976c/",
+      "original_publish_time": "2026-09-09T20:30:46+00:00",
+      "scraped_time": "2026-09-10T00:54:47.811037+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Converse"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "SGA’s Converse era will soon be in the rear-view as the two-time NBA MVP prepares to make the move to Nike Basketball for his next... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post SGA's Converse Era Winds Down With Huge SHAI 001 Apparel Collection appeared first on Sneaker News . The post SGA’s Converse Era Winds Down With Huge SHAI 001 Apparel Collection appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "a83e9d3361bc",
       "title": "Week 1 Jawns: The Reebok Brutus Lo Sports “Philadelphia Eagles” Colors",
@@ -2296,69 +2361,6 @@
       ],
       "relevance_score": 3,
       "summary": "Made in Europe: The future of shoe manufacturing Siemens",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "07363932786e",
-      "title": "Mandatory footwear labelling deadline draws near in Brazil - World Footwear",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeVZJV0ItTVJBM3hyYmdqX0FQdHVyWUJZekZvY2VocV9EOXhMcllFLVRFYXc4c2RpT2hzMkFtUlA3Mmp2Y2NsMVBqWWRnM0ZjVDM4S1pranVIWW5hU3drNWFEQTVsVXdrN0FVSXlYN20xUnp6QXp1Zzh1aGg3ZzA0ckJhemtaNlVQVV9NWDh6QXdFdG1nV3JtX052LVphX3BnTEVkRmFPOA?oc=5",
-      "original_publish_time": "2026-09-03T00:35:31+00:00",
-      "scraped_time": "2026-09-03T09:15:37.634695+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Mandatory footwear labelling deadline draws near in Brazil World Footwear",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "1d0c5772b288",
-      "title": "The Air Jordan 1 Low Element GTX Returns In “Cream II”",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/09/02/air-jordan-1-low-element-gtx-cream-ii-light-orewood-brown-coconut-milk-fv4227-202/",
-      "original_publish_time": "2026-09-02T21:00:21+00:00",
-      "scraped_time": "2026-09-03T01:00:38.538480+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike",
-        "Jordan"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 4,
-      "summary": "Originally introduced around this time last year, the Air Jordan 1 Low Element GTX is back in syndication for the colder months. The rugged, Nike... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Air Jordan 1 Low Element GTX Returns In \"Cream II\" appeared first on Sneaker News . The post The Air Jordan 1 Low Element GTX Returns In “Cream II” appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "7fe78c4c4dcb",
-      "title": "Analyst Says Nike’s No Longer the Industry Bellwether as Athletic Performance Continues to Be a Bright Spot for Many",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/performance-footwear-on-deckers-amer-wolverine-under-armour-1239194487/",
-      "original_publish_time": "2026-09-02T20:28:15+00:00",
-      "scraped_time": "2026-09-03T01:00:27.297901+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Nike",
-        "Under Armour",
-        "Wolverine",
-        "Wolverine Worldwide"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 6,
-      "summary": "In athletic performance footwear, UBS is bullish on the On Holding, Deckers Outdoor, Amer Sports, Wolverine Worldwide and Under Armour brands.",
       "ren_take": "",
       "image_url": ""
     }
