@@ -1,8 +1,155 @@
 {
-  "last_updated": "2026-09-10T15:06:16.812974+00:00",
-  "total_articles": 110,
-  "sources_checked": 61,
+  "last_updated": "2026-09-10T19:37:31.744845+00:00",
+  "total_articles": 112,
+  "sources_checked": 60,
   "articles": [
+    {
+      "id": "4c8924b2b164",
+      "title": "The Best adidas Sneaker Releases This Week",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/adidas-sneaker-releases-september-week-2/",
+      "original_publish_time": "2026-09-10T19:21:00+00:00",
+      "scraped_time": "2026-09-10T19:30:18.329182+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "shoes",
+        "sneakers"
+      ],
+      "relevance_score": 4,
+      "summary": "In this iteration of our weekly round-up of adidas' best releases, find boat shoes, water shoes, and ballet shoes. Oh, and some regular sneakers, too.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "c6a26a43420c",
+      "title": "Sabrina Carpenter Channels Jonathan Anderson in Salomon Sneakers for Dior x A24 Collaboration",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/sabrina-carpenter-jonathan-anderson-dior-salomon-a24-1239207270/",
+      "original_publish_time": "2026-09-10T17:57:36+00:00",
+      "scraped_time": "2026-09-10T19:26:33.396831+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Salomon"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "The French fashion house and indie film studio announced a two-year creative partnership.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "f29177c83889",
+      "title": "Adidas Extends Footwear, Apparel Sponsorship of Overtime Elite High School Basketball Leagues",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/adidas-overtime-elite-high-school-basketball-footwear-deal-1239207594/",
+      "original_publish_time": "2026-09-10T17:55:59+00:00",
+      "scraped_time": "2026-09-10T19:26:33.398458+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 5,
+      "summary": "Adidas will also offer athletes access to a range of professional development opportunities to help them navigate NIL deals.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "dc854f020343",
+      "title": "Inside Salomon’s Major New Five-Year Deal With Ironman",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/salomon-ironman-partnership-details-triathlons-1239207486/",
+      "original_publish_time": "2026-09-10T17:29:43+00:00",
+      "scraped_time": "2026-09-10T19:26:33.399023+00:00",
+      "time_delta_mins": 0,
+      "category": "Trade Data",
+      "brands_mentioned": [
+        "Salomon"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "The deal includes exclusive rights across performance footwear, apparel and technical bags within the Ironman ecosystem.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "3965add8ac6a",
+      "title": "Bam Margera’s Fallen Footwear Collab Sells Out In Hours",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/09/10/bam-margera-fallen-footwear-skate-shoes/",
+      "original_publish_time": "2026-09-10T16:35:51+00:00",
+      "scraped_time": "2026-09-10T19:26:44.619899+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "For skaters, “Jackass” fans, and “Viva La Bam” binge watchers, the Bam Margera redemption arc is simply beautiful. The youth skate phenom turned MTV celebrity... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Bam Margera's Fallen Footwear Collab Sells Out In Hours appeared first on Sneaker News . The post Bam Margera’s Fallen Footwear Collab Sells Out In Hours appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "6953009e9821",
+      "title": "Pharrell Williams & adidas Are Coming for Your Water Shoes",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/adidas-pw-water-moc-lucid-ray-blue/",
+      "original_publish_time": "2026-09-10T16:09:00+00:00",
+      "scraped_time": "2026-09-10T19:30:18.329839+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 5,
+      "summary": "The adidas Originals x Pharrell Williams PW Water Moc transforms the humble water shoe into a major statement piece.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "709b5d66a904",
+      "title": "adidas' GSG9 Sandal Gets in the Field",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/adidas-gsg9-sandal-gets-in-the-field/",
+      "original_publish_time": "2026-09-10T12:47:49+00:00",
+      "scraped_time": "2026-09-10T19:30:18.330365+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "boot",
+        "sandal"
+      ],
+      "relevance_score": 6,
+      "summary": "Y-3’s sturdy GSG9 sandal is basically a full-on combat boot that's gone on vacation.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "0e5e9f250299",
       "title": "The Barefoot-Inspired KEEN Jasper Merko Arrives in Three Understated Colorways",
@@ -276,6 +423,28 @@
       ],
       "relevance_score": 3,
       "summary": "The Paris department store is continuing to boost its cultural street credibility with its latest free exhibition.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "c6fd5c1a2978",
+      "title": "Nike forgot that Republicans buy sneakers, too, and now it's getting booted from the S&P 100 - Fox News",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ1VZRnM2M0VXZ29NY2cxYWMwVFp0aWo4enVTOXByX0NoZjFUdU1jWUo4SDByR1o0aVVMc3o4Zkl6cjZCM1E0VVJ1ZU93VXAtRmxab1M5X0lYTURWTmkyODdIWmtUZWxwZGtFZlBsWkt1UnBKUGtLaXVJNjZoVUJKWmJzZm9CS0hTUG5uUmZkelZDeDlncG9NMGIwT1Myb2pxbl9N?oc=5",
+      "original_publish_time": "2026-09-09T17:18:56+00:00",
+      "scraped_time": "2026-09-10T19:26:56.484698+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "boot",
+        "sneakers"
+      ],
+      "relevance_score": 8,
+      "summary": "Nike forgot that Republicans buy sneakers, too, and now it's getting booted from the S&P 100 Fox News",
       "ren_take": "",
       "image_url": ""
     },
@@ -2151,131 +2320,6 @@
       ],
       "relevance_score": 3,
       "summary": "I test dozens of women’s walking shoes every year — these are the best ones for every foot type nbcnews.com",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "e3faaabbccd0",
-      "title": "COMME des GARÇONS Homme Plus Made the Air Jordan 11 Feel Like a Dress Shoe",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/9/comme-des-garcons-homme-plus-air-jordan-11-release-info",
-      "original_publish_time": "2026-09-03T18:45:52+00:00",
-      "scraped_time": "2026-09-03T19:36:51.305311+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Jordan"
-      ],
-      "keywords_matched": [
-        "midsole",
-        "sole",
-        "upper"
-      ],
-      "relevance_score": 5,
-      "summary": "SummaryCDG Homme Plus reimagines the Air Jordan 11 with a minimalist, premium leather monochromatic design.Dropping September 5, 2026, at Dover Street Market, the collaboration officially retails for $358 USD.COMME des GARÇONS Homme Plus and Jordan Brand have come together to inject the Air Jordan 11 with the high minimalism of Rei Kawakubo’s Paris-based label. The beloved Air Jordan silhouette, known for its streamlined expression, is even further refined with a monochromatic makeup and focus on luxurious materials.Reimagining Tinker Hatfield's original design, the new release most notably features a gloss-finished midsole that continues the signature patent leather of the original uppers. The slight tweak has a strong impact on the design, giving it a more noticeable, extended shine. Fur",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "5cee1acbf652",
-      "title": "China’s A FEW GOOD KIDS Has A Nike Air Force 1 Collaboration Dropping In 2026",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/09/03/a-few-good-kids-nike-air-force-1-jj9852-300/",
-      "original_publish_time": "2026-09-03T17:30:02+00:00",
-      "scraped_time": "2026-09-03T19:36:51.626663+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Chinese streetwear brand A FEW GOOD KIDS (AFGK), founded by Masiwei of hip-hop group Higher Brothers and designer Zhang Chi, is leaping into the footwear... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post China’s A FEW GOOD KIDS Has A Nike Air Force 1 Collaboration Dropping In 2026 appeared first on Sneaker News . The post China’s A FEW GOOD KIDS Has A Nike Air Force 1 Collaboration Dropping In 2026 appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "c08672b1a6f4",
-      "title": "Simone Rocha’s First Adidas Collection Offers Ballerinas, Mary Jane Sneakers and Mules",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/simone-rocha-adidas-ballerina-climacool-release-date-1239196805/",
-      "original_publish_time": "2026-09-03T16:59:10+00:00",
-      "scraped_time": "2026-09-03T19:36:40.308630+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 5,
-      "summary": "The collaboration will be released on Sept. 10.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "1451c5f1fcc0",
-      "title": "COMME des GARÇONS Found the Air Jordan 11's Purest Form",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/cdg-homme-plus-aj11/",
-      "original_publish_time": "2026-09-03T16:15:52+00:00",
-      "scraped_time": "2026-09-03T19:40:29.889945+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike",
-        "Jordan"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "The first-ever collaborative release of the Nike Air Jordan 11 sees COMME des GARÇONS HOMME PLUS cut straight to the soul of the iconic sneaker.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "49a8ace188d1",
-      "title": "COMME des GARÇONS Announces Air Jordan 11 Collaboration",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/09/03/comme-des-garcons-air-jordan-11-release-date/",
-      "original_publish_time": "2026-09-03T16:00:15+00:00",
-      "scraped_time": "2026-09-03T19:36:51.630390+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Jordan"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "For nearly three decades, COMME des GARÇONS has played an outsized role in collapsing the boundaries between sneakers, streetwear, and high fashion. Its longstanding relationship... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post COMME des GARÇONS Announces Air Jordan 11 Collaboration appeared first on Sneaker News . The post COMME des GARÇONS Announces Air Jordan 11 Collaboration appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "8edcae2d3548",
-      "title": "Vivobarefoot- how the British brand aims to convert the world to barefoot footwear - ww.fashionnetwork.com",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTGF2Rl9zZXp4Qzh1RVpSOXZVdU1ScG5Mc2RmOXR2NUNhZGRMRFpKSGd5YWRIWDJPNm9CM3BGa25VTnFrRUtaRUVKYXNET20yZlZvMndOV21INkhXZF9PbTJaZm1SUHNzaEl4aU1McjZrWEJHbWxEaElUbDZJYnA1OXJmRDJVX1diYXQ0amN1LWllVjl1T3NsOHBvYmczTklkVkNzbTlDRjl5QjJQOEpIUllnNF9JMHFsZERQLXJlQU9hMjVlNGJnMw?oc=5",
-      "original_publish_time": "2026-09-03T15:27:31+00:00",
-      "scraped_time": "2026-09-04T00:51:36.193952+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Vivobarefoot- how the British brand aims to convert the world to barefoot footwear ww.fashionnetwork.com",
       "ren_take": "",
       "image_url": ""
     }
