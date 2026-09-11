@@ -1,8 +1,57 @@
 {
-  "last_updated": "2026-09-11T09:23:49.828451+00:00",
-  "total_articles": 112,
-  "sources_checked": 60,
+  "last_updated": "2026-09-11T15:02:33.534399+00:00",
+  "total_articles": 109,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "58f4fa8e68a2",
+      "title": "Merrell and YMC Reunite for the Moab 2 Slide",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/9/ymc-merrell-moab-2-slide-dark-walnut-black-collaboration-release-info",
+      "original_publish_time": "2026-09-11T13:33:54+00:00",
+      "scraped_time": "2026-09-11T14:51:48.865821+00:00",
+      "time_delta_mins": 0,
+      "category": "Quality",
+      "brands_mentioned": [
+        "Merrell",
+        "Vibram"
+      ],
+      "keywords_matched": [
+        "outsole",
+        "sole",
+        "upper"
+      ],
+      "relevance_score": 6,
+      "summary": "Name: YMC x Merrell Moab 2 SlideColorway: Dark Walnut, BlackSKU: TBCMSRP: $150 USDRelease Date: Available NowWhere to Buy: YMCMerrell has once again joined forces with YMC (You Must Create) for a collaboration. This time, the two brands unveil the Moab 2 Slide, coming in Dark Walnut and Black colorways. Defined by its tactile, high-grade hairy suede upper that adds a plush, organic finish to the upper.For enhanced durability across varied environments, a protective black rubber toe cap wraps the front of the shoe, complemented by a smooth leather footbed cover that delivers a premium underfoot feel. The silhouette comes equipped with Merrell's Air Cushion in the heel, which absorbs shock and adds stability, while a Vibram Ecostep Recycle outsole - constructed with 30% recycled rubber - pro",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "530024de03cd",
+      "title": "Suicoke Readies More Boots and Mules for FW26",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/9/suicoke-fw26-boots-mules-vibram-beetle-lo-strike-fl-moc-poton-release-info",
+      "original_publish_time": "2026-09-11T09:50:04+00:00",
+      "scraped_time": "2026-09-11T14:51:48.870296+00:00",
+      "time_delta_mins": 0,
+      "category": "Quality",
+      "brands_mentioned": [
+        "Vibram"
+      ],
+      "keywords_matched": [
+        "boot",
+        "insole",
+        "outsole",
+        "sole",
+        "upper"
+      ],
+      "relevance_score": 9,
+      "summary": "Name: SUICOKE FW26 Boots & MulesMSRP: ¥36,300 - ¥39,600 JPY (approx. $236 - $257 USD)Release Date: Available NowWhere to Buy: SUICOKEHighlighted from Suicoke's FW26 offerings is a selection of rugged boots and cozy mules, designed to balance utilitarian construction with everyday comfort. The lineup includes the STRIKE and BEETLE‑LO boots, both offered in Black, featuring waterproof leather uppers, Suicoke SHERPA lining, and SOFTSTEP cushioned insoles. Each boot is finished with a Vibram MEGAGRIP outsole, ensuring reliable traction across wet and dry terrain. These models emphasize durability and protection while maintaining a sleek, minimal profile suited for urban and outdoor wear.Complementing the boots are two mule silhouettes: the FL‑MOC in Black and the POTON in Dark Taupe. The FL‑MO",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "95d7b01ee7f5",
       "title": "Aminé and New Balance Unveil the 992 \"Outdoor School\"",
@@ -2224,111 +2273,6 @@
       ],
       "relevance_score": 3,
       "summary": "The collection features two colorways of the Boston clog and Gizeh sandal.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "cc37b31746fc",
-      "title": "adidas Put One of Its Slimmest Sneakers on Double-Lace Duty",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/adidas-tokyo-brown-laces/",
-      "original_publish_time": "2026-09-04T14:29:00+00:00",
-      "scraped_time": "2026-09-04T14:53:52.771341+00:00",
-      "time_delta_mins": 0,
-      "category": "Trade Data",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 5,
-      "summary": "adidas’ slim Tokyo sneaker gets a playful update with a rich brown colorway and double-lace detailing, adding a fresh twist to the ’70s-inspired silhouette.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "120695e1e364",
-      "title": "Le Monde Béryl Blends Art, History and Fall Shoes for New Museum-focused Campaign",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-trends/le-monde-beryl-kunsthistorisches-museum-vienna-1239197123/",
-      "original_publish_time": "2026-09-04T13:54:32+00:00",
-      "scraped_time": "2026-09-04T14:50:10.772598+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "The brand went to the Kunsthistorisches Museum in Vienna for its \"Le Monde at the Museum\" campaign.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "fa3d178f45a1",
-      "title": "Sneaker brand Comet raises Rs 100 crore to expand retail network and develop new footwear - Indian Startup News",
-      "source_name": "Google News - Sneaker Brand",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQR1VWTnZnWHpGNUlmNTRSN3FRV3YwWHl3RENFMjVwVkFFNFJJYndWWDJCQmQtRmhoR0pkamRiaDZLblhUZHhOc250cVAybDBCNnBURS1OQzE2dzJMWTl0VU1wQjhicUpGMzZvcHNWU1BSbDg3RjdXcnZjV0lWcDBHbkF1QXF3OVVNQ2N2cEhvb2NnaU55Z1N4UTkzSF84UllFYnAta0NETGFkak4yVGZMaE1QOE54TEJEY2VnZDhvSTBzVkNBMUQyMnZVczk2V1pEZHfSAdIBQVVfeXFMUEdVVk52Z1h6RjVJZjU0UjdxUVd2MFh5d0RDRTI1cFZBRTRSSWJ3VlgyQkJkLUZoaEdKZGpkYmg2S25YVGR4TnNudHFQMmwwQjZwVEUtTkMxNncyTFk5dFVNcEI4YnFKRjM2b3BzVlNQUmw4N0Y3V3J2Y1dJVnAwR25BdUFxdzlVTUNjdnBIb29jZ2lOeWdTeFE5M0hfOFJZRWJwLWtDRExhZGpOMlRmTGhNUDhOeExCRGNlZ2Q4b0kwc1ZDQTFEMjJ2VXM5NldaRGR3?oc=5",
-      "original_publish_time": "2026-09-04T13:53:29+00:00",
-      "scraped_time": "2026-09-04T14:50:32.714911+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Sneaker brand Comet raises Rs 100 crore to expand retail network and develop new footwear Indian Startup News",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "c133f15b8047",
-      "title": "These adidas Originals Handball Spezial Loafers Are Releasing as a BILLY's-Exclusive",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/9/adidas-originals-handball-spezial-loafer-sneakers-billys-exclusive-release-info",
-      "original_publish_time": "2026-09-04T11:24:32+00:00",
-      "scraped_time": "2026-09-04T14:50:21.220671+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "midsole",
-        "outsole",
-        "sole",
-        "upper"
-      ],
-      "relevance_score": 6,
-      "summary": "Name: adidas Originals Handball Spezial LoaferColorway: Black, Brown/GreenSKU: TBCMSRP: ¥17,600 JPY (approx. $113 USD)Release Date: Available NowWhere to Buy: BILLY’sadidas Originals has unveiled the Handball Spezial Loafer, which is exclusively released in Japan via BILLY'S. Reimagining the classic \"HANDBALL SPEZIAL\" - a beloved silhouette originally introduced in 1979 for indoor sports = this new iteration merges vintage sportswear DNA with elevated, everyday elegance.Available in Black and Brown/Green, the design features smooth leather uppers paired with adidas’ signature Three Stripes branding in tonal execution. The low-profile construction emphasizes a sleek, minimal aesthetic, while subtle stitching and embossed detailing add refinement. A cushioned midsole and tonal rubber outsole",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "95ecf6ea4aef",
-      "title": "Converse Elevates the First String Jack Purcell With Premium Canvas",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/9/converse-first-string-jack-purcell-mountain-view-marshmallow-chestnut-premium-white-marshmallow-black-official-images-release-info",
-      "original_publish_time": "2026-09-04T10:02:31+00:00",
-      "scraped_time": "2026-09-04T14:50:21.225889+00:00",
-      "time_delta_mins": 0,
-      "category": "Trade Data",
-      "brands_mentioned": [
-        "Converse"
-      ],
-      "keywords_matched": [
-        "sneakers",
-        "upper"
-      ],
-      "relevance_score": 4,
-      "summary": "Name: Converse First String Jack PurcellColorway: Mountain View/Marshmallow/Chestnut, Premium White/Marshmallow/BlackSKU: TBCMSRP: $250 USDRelease Date: Available NowWhere to Buy: Select RetailersThe Converse First String Jack Purcell returns with a premium update that underscores the franchise’s heritage while introducing elevated material choices. Available in \"Mountain View/Marshmallow/Chestnut\" and \"Premium White/Marshmallow/Black,\" the sneakers feature canvas uppers paired with refined detailing that highlights the Jack Purcell’s iconic low-profile silhouette.Honoring its vintage roots, the sneaker features upper stitching inspired by mid-1970s models, a slightly raised collar top line mirroring its 1980s iterations, and a tonal molded heel license plate complete with the era-accurate",
       "ren_take": "",
       "image_url": ""
     }
