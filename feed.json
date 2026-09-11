@@ -1,8 +1,88 @@
 {
-  "last_updated": "2026-09-11T15:02:33.534399+00:00",
+  "last_updated": "2026-09-11T19:36:06.545062+00:00",
   "total_articles": 109,
-  "sources_checked": 61,
+  "sources_checked": 60,
   "articles": [
+    {
+      "id": "d2de8f710c9d",
+      "title": "Too Much of a Good Thing: Are Collabs Dead? - Sole Retriever",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWl9PSTNXUS05R2J5UTB6WGlsZ3hxNFczQUFZLUtkajh3TU9UWjI0ejdJanRwcXBlSDVwRjNoYUN4N3hEZ1FJRmVyVFJCYV8zc3pCXzBBc1ZjbGNfRzV1TlI3OEQwekE2UWhHY2lGQTlhSXZsQ2tZWUZNNVptSUZ5c0U5YjM1YktHZW1jWFZn?oc=5",
+      "original_publish_time": "2026-09-11T19:00:46+00:00",
+      "scraped_time": "2026-09-11T19:25:19.948577+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sole"
+      ],
+      "relevance_score": 3,
+      "summary": "Too Much of a Good Thing: Are Collabs Dead? Sole Retriever",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "6f4efac8e0fc",
+      "title": "Where To Buy The Air Jordan 12 “Bucks”",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/09/11/air-jordan-12-bucks-store-list/",
+      "original_publish_time": "2026-09-11T18:00:39+00:00",
+      "scraped_time": "2026-09-11T19:25:08.163368+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "The Air Jordan 12 continues its 30th anniversary year with the Jordan 12 “Bucks” on September 12th, arriving in full family sizes via Nike SNKRS... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Where To Buy The Air Jordan 12 “Bucks” appeared first on Sneaker News . The post Where To Buy The Air Jordan 12 “Bucks” appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "7ecc0676a9b1",
+      "title": "The Air Jordan 1 Low Gets Spooky With A “Halloween” Colorway",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/09/11/air-jordan-1-low-halloween-black-green-iq5494-001/",
+      "original_publish_time": "2026-09-11T15:00:16+00:00",
+      "scraped_time": "2026-09-11T19:25:08.223546+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "If you’ve been among the vocal members of the Nike, Inc. fanbase that bemoaned the company’s poor timing around Halloween in the past few years,... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Air Jordan 1 Low Gets Spooky With A \"Halloween\" Colorway appeared first on Sneaker News . The post The Air Jordan 1 Low Gets Spooky With A “Halloween” Colorway appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "da2797ccb1de",
+      "title": "In pictures: Clarks opens new Marble Arch store",
+      "source_name": "Drapers",
+      "source_domain": "drapersonline.com",
+      "source_url": "https://www.drapersonline.com/news/in-pictures-clarks-opens-new-marble-arch-store",
+      "original_publish_time": "2026-09-11T14:40:33+00:00",
+      "scraped_time": "2026-09-11T19:28:19.385494+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Clarks"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Drapers In pictures: Clarks opens new Marble Arch store British footwear brand Clarks has opened a new store at Marble Arch, London, as it continues to invest in its UK retail estate. The post In pictures: Clarks opens new Marble Arch store appeared first on Drapers .",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "58f4fa8e68a2",
       "title": "Merrell and YMC Reunite for the Moab 2 Slide",
@@ -466,6 +546,25 @@
       ],
       "relevance_score": 3,
       "summary": "Boots has launched a new brand platform, ‘Give it Some Boots’, as it aims to sharpen its positioning and showcase the breadth of its offer. The campaign is designed to highlight the retailer’s role across different stages of customers’ lives, spanning pharmacy, healthcare, beauty and wellness. Boots said the platform will focus on the “beautiful...",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "8bf7ecc799f1",
+      "title": "Q2 Earnings Outperformers: Deckers (NYSE:DECK) And The Rest Of The Consumer Discretionary - Footwear Stocks - StockStory",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOS3c1R1d1WkUzUEp1NUVUY1oyQV91ZnpVQjZybWFYSGhmVkltNDNWZXlUeE01N25rc0RXOF9iS0lqejhGLUpsY3lieWxRS2MzRHN5bGhyOWNlRWR4bjUzQklaelNPQVREczlMNkZ2cjlmLTc5NFNwcFczaGxOOW9RWlRvQ254OHE2VVJoTEpJeDJLOXQ1QnRFNjhPc3NKZmZyQS1pbkFfNG80bW94OF9KUUU3YWIyaEZHODhpcXdKcFVoR1ZOalZGVFMwZ3p0WWl4REhRN2NkdUpWZmxJOG4yR0F1RDFoVUhpUHpHY3lzbw?oc=5",
+      "original_publish_time": "2026-09-10T07:00:00+00:00",
+      "scraped_time": "2026-09-11T19:25:19.237633+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Q2 Earnings Outperformers: Deckers (NYSE:DECK) And The Rest Of The Consumer Discretionary - Footwear Stocks StockStory",
       "ren_take": "",
       "image_url": ""
     },
@@ -2168,111 +2267,6 @@
       "keywords_matched": [],
       "relevance_score": 3,
       "summary": "SummaryIb Kamara mutually steps down from his creative director role at Off-White™, while The Met officially cancels its controversial Spring 2026 John Galliano exhibition.Stone Island taps cultural fixtures like fakemink for its latest campaign, and a Beijing-based designer transforms the Air Jordan 1 for women.YOSHIDA & Co. brings a five-day PORTER limited store to New York, and Sandy Liang reflects on a decade of design in her new monograph.Ib Kamara Exits Off-White™Ib Kamara and Off-White™ mutually parted ways, concluding the designer's tenure as creative director. Kamara, a close collaborator of the late Virgil Abloh, formally took the helm in Spring 2022. The CEO of Bluestar Alliance, Joey Gabbay, thanked Kamara in an official statement: \"We are deeply grateful for Ib’s vision, creat",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "07b5b59550b4",
-      "title": "The New Balance 991v1 Takes A Dip In “Coffee Suede”",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/09/04/new-balance-991v1-coffee-suede/",
-      "original_publish_time": "2026-09-04T19:30:46+00:00",
-      "scraped_time": "2026-09-05T00:43:24.347084+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "New Balance"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 3,
-      "summary": "If you subscribe to the “boots theory,” where what may seem like cost-conscious purchases in the moment end up more expensive in the long run,... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The New Balance 991v1 Takes A Dip In \"Coffee Suede\" appeared first on Sneaker News . The post The New Balance 991v1 Takes A Dip In “Coffee Suede” appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "0249ee8169c8",
-      "title": "Helly Hansen Sees Big Opportunity in Work Footwear, Plots Move Into Outdoor",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/helly-hansen-work-outdoor-footwear-strategy-1239198574/",
-      "original_publish_time": "2026-09-04T18:16:43+00:00",
-      "scraped_time": "2026-09-04T19:16:12.693575+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Footwear already composes about 20 percent of the business in the work segment.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "304283a92118",
-      "title": "A First Look at the Melitta Baumeister x Nike Rift Rocker",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/9/melitta-baumeister-nike-rift-rocker-release-info",
-      "original_publish_time": "2026-09-04T16:12:16+00:00",
-      "scraped_time": "2026-09-04T19:16:23.283675+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "footwear",
-        "sole",
-        "upper"
-      ],
-      "relevance_score": 5,
-      "summary": "SummaryMelitta Baumeister officially unveiled her latest Nike collaboration at Seoul Art WeekThe heavily modified tabi-toe sneaker features a crackled upper and extra-chunky rocker solesA special viewing experience will be open to the public on September 5 and 6 in Jongno-guMelitta Baumeister has officially unveiled her latest footwear collaboration with Nike, debuting the Nike Rift Rocker, at Seoul Art Week. Following up on her distinct spins on the Nike Vomero Premium and Nike Pegasus Premium, the NYC designer is now bringing her signature surreal, amorphous aesthetic to the beloved tabi-toe sneaker.Designed to turn heads, the NikeRift Rocker demands immediate attention with its heavily modified, extra-chunky rocker soles, complete with a debossed Nike Swoosh. On the uppers, the silhouet",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "db12b67b7458",
-      "title": "How To Buy The One Piece Nike Air Max Plus",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/09/04/one-piece-air-max-plus/",
-      "original_publish_time": "2026-09-04T16:00:40+00:00",
-      "scraped_time": "2026-09-04T19:16:23.517262+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "For the millions upon millions of footwear fans who moonlight as anime diehards, the One Piece x Nike Air Max Plus collection is one of... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post How To Buy The One Piece Nike Air Max Plus appeared first on Sneaker News . The post How To Buy The One Piece Nike Air Max Plus appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "21ed19d67d6c",
-      "title": "EXCLUSIVE: Birkenstock’s Western-inspired Etro Collab Is Here After Runway Debut Earlier This Year",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/birkenstock-etro-collaboration-details-boston-clogs-gizeh-1239198167/",
-      "original_publish_time": "2026-09-04T15:23:14+00:00",
-      "scraped_time": "2026-09-04T19:16:12.696048+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Birkenstock"
-      ],
-      "keywords_matched": [
-        "sandal"
-      ],
-      "relevance_score": 3,
-      "summary": "The collection features two colorways of the Boston clog and Gizeh sandal.",
       "ren_take": "",
       "image_url": ""
     }
