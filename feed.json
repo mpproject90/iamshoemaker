@@ -1,8 +1,51 @@
 {
-  "last_updated": "2026-09-12T09:04:53.080958+00:00",
+  "last_updated": "2026-09-12T14:04:53.062292+00:00",
   "total_articles": 108,
   "sources_checked": 61,
   "articles": [
+    {
+      "id": "b3d02435c5e6",
+      "title": "The Nike Air Monarch Trades Leather for Suede in Two Gum-Soled Holiday Colorways",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/9/nike-air-monarch-suede-pack-ib2281-200-ib2281-001-official-images",
+      "original_publish_time": "2026-09-12T10:00:33+00:00",
+      "scraped_time": "2026-09-12T13:53:59.952428+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "boot",
+        "outsole",
+        "sole",
+        "upper"
+      ],
+      "relevance_score": 8,
+      "summary": "Name: Nike Air Monarch Suede PackColorway: Cacao Wow/Gum Medium Brown, Black/Gum Medium BrownSKU: IB2281-200, IB2281-001MSRP: $100 USDRelease Date: Holiday 2026Nike is giving the Air Monarch a material rework for Holiday 2026, rolling out a two-pair pack that moves the trainer from leather onto suede. The pack pairs a tonal brown “Cacao Wow” build with a “Black” version, and both sit on gum outsoles rather than the model's more familiar white tooling.Suede covers the majority of both uppers, which changes how the Monarch reads more than any panel reshuffle would. Where leather gives the shoe its slick, uniform sheen, the nap here absorbs light and softens the overlays, pushing a trainer built for function toward something closer to a seasonal boot finish.Colour is handled differently acros",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "e16d63fc9f8c",
+      "title": "I Walked 12,000+ Steps in Sneakers From Oprah’s Favorite Podiatrist-Approved Brand—and Now I Get the Hype - instyle.com",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBVZVpnUk9IZFJOdHV0aS1TeTVVSzlyMVdta1JiVk40NlUyemtUTUQ3eGIweUlkcThhNEl5RTZVWjEteW5ZVHdaUldpUk9BZHRSUDZnNHNpQ2s3UDhjQ1dGWExmM1VUUXhKdmhvM1dtY05BcmxSZTJr?oc=5",
+      "original_publish_time": "2026-09-12T07:00:00+00:00",
+      "scraped_time": "2026-09-12T13:54:13.180536+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "I Walked 12,000+ Steps in Sneakers From Oprah’s Favorite Podiatrist-Approved Brand—and Now I Get the Hype instyle.com",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "f8e8f2a6bb87",
       "title": "Why This Nike-Affiliated Artist Built a Bootleg Chanel Store",
@@ -2201,47 +2244,6 @@
       "keywords_matched": [],
       "relevance_score": 3,
       "summary": "The Air Jordan 6 Retro OG Sport Blue returns with Nike Air branding in 2027.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "4c2b3b2c1b1e",
-      "title": "Fire kills at least 28 at shoe factory in China's global athletic footwear manufacturing hub - VnExpress International",
-      "source_name": "Google News - Shoe Manufacturing",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMllSR2Q1TzRaVTdoQkN1UDNzRXo1OXZCYzEzR21GWmp5Nzc2emtScy1mYXQ4alhJVm1pVEd5Z25qTjNTS3NkbXJSN09RTkNfM01hMi11WFEtZUMxaXVETXh0a255ZnhhWkJCbGFrbHVyU1FUc04xeE8zQ3BPRG5NN3NfcjZnSGRyX19YZE9DcUNWZUhQNUg1aEI1TnpGV3QyZDdCSDJyVVZreHd3Ukg4N085YzBIVWxqV3cwaHB3UlpXcGt1WndJd0c0VnhsbUdrU2lTNWx3?oc=5",
-      "original_publish_time": "2026-09-05T13:35:12+00:00",
-      "scraped_time": "2026-09-06T13:58:56.109302+00:00",
-      "time_delta_mins": 0,
-      "category": "Manufacturing",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "athletic footwear",
-        "footwear",
-        "shoe factory"
-      ],
-      "relevance_score": 9,
-      "summary": "Fire kills at least 28 at shoe factory in China's global athletic footwear manufacturing hub VnExpress International",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "a35539a25926",
-      "title": "Ballet Flat Sneakers Are the Shoes All the Cool Girls Are Wearing for Fall—and They Start at $35 - instyle.com",
-      "source_name": "Google News - Sneaker Brand",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1USmdSOFRVMDdDS0JpQm4yRnNIVUx6X0xsaVpmU0I4MktyQlJOX0t6bUx1MWlGYVp5eFlnQXVTRlc3cmFaZUR0R0VLbjR3OFJRWlJKZEVENkE1aGlOUGJIMHo5TkRDWlNVbnFULUF4RXc?oc=5",
-      "original_publish_time": "2026-09-05T12:00:00+00:00",
-      "scraped_time": "2026-09-06T13:58:55.505843+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoes",
-        "sneakers"
-      ],
-      "relevance_score": 6,
-      "summary": "Ballet Flat Sneakers Are the Shoes All the Cool Girls Are Wearing for Fall—and They Start at $35 instyle.com",
       "ren_take": "",
       "image_url": ""
     }
