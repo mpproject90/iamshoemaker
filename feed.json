@@ -1,8 +1,30 @@
 {
-  "last_updated": "2026-09-12T14:04:53.062292+00:00",
-  "total_articles": 108,
+  "last_updated": "2026-09-12T19:05:36.610232+00:00",
+  "total_articles": 105,
   "sources_checked": 61,
   "articles": [
+    {
+      "id": "d16de4cc35cd",
+      "title": "The Nike Air Max Plus Serves Up The “Joker” Color Combo",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/09/12/the-nike-air-max-plus-serves-up-the-joker-color-combo/",
+      "original_publish_time": "2026-09-12T16:00:50+00:00",
+      "scraped_time": "2026-09-12T18:54:53.958746+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 4,
+      "summary": "The Joker may not have anything rivaling Batman’s Air Jordan 6 boots, but the Clown Prince Of Crime’s name still rings out in Beaverton all... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Nike Air Max Plus Serves Up The \"Joker\" Color Combo appeared first on Sneaker News . The post The Nike Air Max Plus Serves Up The “Joker” Color Combo appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "b3d02435c5e6",
       "title": "The Nike Air Monarch Trades Leather for Suede in Two Gum-Soled Holiday Colorways",
@@ -2163,87 +2185,6 @@
       ],
       "relevance_score": 3,
       "summary": "The sun setting earlier, a chill in the air, GORE-Tex sneakers. For the folks in the Sneaker News office, these are the (three) horseman of... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Nike Air Force 1 GORE-Tex Glistens In White And Blue appeared first on Sneaker News . The post The Nike Air Force 1 GORE-Tex Glistens In White And Blue appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "5d60f85a9585",
-      "title": "The Nike V5 RNR Sharpens “Pencil Point” And “College Grey”",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/09/05/nike-v5-rnr-pencil-point-college-grey-medium-ash-thunder-grey-iu3884-002/",
-      "original_publish_time": "2026-09-05T18:00:41+00:00",
-      "scraped_time": "2026-09-05T18:46:12.205556+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Nike",
-        "New Balance"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "Dominance in the tech runner wave of this decade hasn’t kept any brand from iterating on their offerings. New Balance is still printing money with... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Nike V5 RNR Sharpens \"Pencil Point\" And \"College Grey\" appeared first on Sneaker News . The post The Nike V5 RNR Sharpens “Pencil Point” And “College Grey” appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "fe73bb963b95",
-      "title": "NBA 2K27 Introduces New Brands, Sneakers and First-ever Co-ed City Mode",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/nba-2k27-new-sneakers-brands-1239199455/",
-      "original_publish_time": "2026-09-05T17:48:12+00:00",
-      "scraped_time": "2026-09-05T18:46:01.481026+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "The latest installment of the hit basketball video game franchise is available now.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "8e5e9a07c5f9",
-      "title": "Crocs Penny Loafers? Solebox Did That",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/09/05/solebox-crocs-echo-ii-clog-loafer/",
-      "original_publish_time": "2026-09-05T16:00:01+00:00",
-      "scraped_time": "2026-09-05T18:46:12.207231+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Crocs"
-      ],
-      "keywords_matched": [
-        "footwear",
-        "sole"
-      ],
-      "relevance_score": 6,
-      "summary": "Weird has never been cooler, something true in culture at large as much as in the footwear world. Nothing epitomizes that better than the rise... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Crocs Penny Loafers? Solebox Did That appeared first on Sneaker News . The post Crocs Penny Loafers? Solebox Did That appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "dca5a60f9ac8",
-      "title": "Michael Jordan’s Classic Air Jordan 6 Is Coming Back in a Rare Colorway With Original Details for the First Time Ever",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/air-jordan-6-retro-og-sport-blue-2027-release-date-1239199410/",
-      "original_publish_time": "2026-09-05T15:51:31+00:00",
-      "scraped_time": "2026-09-05T18:46:01.483845+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Nike",
-        "Jordan"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "The Air Jordan 6 Retro OG Sport Blue returns with Nike Air branding in 2027.",
       "ren_take": "",
       "image_url": ""
     }
