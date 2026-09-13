@@ -1,6 +1,107 @@
 {
-  "last_updated": "2026-08-30T13:40:14.554574+00:00",
+  "last_updated": "2026-09-13T13:11:24.139781+00:00",
   "bulletins": [
+    {
+      "id": "wk37-2026",
+      "week_number": 37,
+      "year": 2026,
+      "date_from": "2026-09-07",
+      "date_to": "2026-09-13",
+      "published": "2026-09-13T13:11:24.139221+00:00",
+      "intro": "Week 37 arrives with a familiar tension: premium collaborations and heritage revivals are pulling volume upward while Nike's structural noise continues to dominate the macro conversation. The signals this week are less about any single product and more about where the industry is quietly repositioning itself — on materials, on retail partnerships, and on who consumers are choosing to trust with their dollars. Read carefully; the patterns are compounding.",
+      "articles": [
+        {
+          "title": "Famous Footwear Sees Sales Gains From Jordan, Birkenstock, Brooks and More as Lifestyle Athletic Shoes Disappoint",
+          "source_name": "Footwear News",
+          "source_url": "https://wwd.com/footwear-news/shoe-industry-news/famous-footwear-jordan-birkenstock-brooks-sales-growth-1239204777/",
+          "category": "Brand News",
+          "relevance_score": 12,
+          "original_publish_time": "2026-09-09T21:20:02+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "This Classic-yet-Overlooked Timberland Boot Is Getting a Special Release Designed by a Footwear Industry Veteran",
+          "source_name": "Footwear News",
+          "source_url": "https://wwd.com/footwear-news/sneaker-news/timberland-euro-hiker-gtx-curated-by-victor-kan-release-date-1239204190/",
+          "category": "Retail",
+          "relevance_score": 11,
+          "original_publish_time": "2026-09-09T18:02:53+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "The Journeys Formula as Explained by Leaders from Dr. Martens, Timberland, New Balance, Adidas, Birkenstock and More",
+          "source_name": "Footwear News",
+          "source_url": "https://wwd.com/footwear-news/shoe-features/journeys-brand-partners-adidas-vans-ugg-1239203042/",
+          "category": "Brand News",
+          "relevance_score": 10,
+          "original_publish_time": "2026-09-09T14:30:00+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "Hit Your Fall Step Goals with These Deals on New Balance, Adidas, Reebok, and More Lightweight Sneakers from $20 - People.com",
+          "source_name": "Google News - Sneaker Brand",
+          "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZTVVWVoyRVdJU2lfMG9PVlFzY0NNdVlSUDN1cDdVU2JPd3RKTGFRVWZMNVZFc1Q1MjJvc2IyUE1oNFMzZ3F2Q0R4QTNkS0xPbVBuSG5ZZUZlaFkybHRPVlVDZ2wzVzRvRFlaTHJPbVNsaXEzRW9aamJpSmhhLXY3Xw?oc=5",
+          "category": "Retail",
+          "relevance_score": 9,
+          "original_publish_time": "2026-09-13T07:15:00+00:00",
+          "misaki_take": "Consumer press running $20 entry-point roundups for New Balance and Adidas simultaneously tells you exactly where clearance inventory is sitting heading into Q4 — this is the downstream consequence of over-indexed production in the lightweight running and training categories that played out across 2025. Sourcing managers at competing brands should read this as a floor-price signal and adjust FOB negotiations for similar constructions accordingly, because the market is currently discounting the category hard."
+        },
+        {
+          "title": "Suicoke Readies More Boots and Mules for FW26",
+          "source_name": "Hypebeast",
+          "source_url": "https://hypebeast.com/2026/9/suicoke-fw26-boots-mules-vibram-beetle-lo-strike-fl-moc-poton-release-info",
+          "category": "Quality",
+          "relevance_score": 9,
+          "original_publish_time": "2026-09-11T09:50:04+00:00",
+          "misaki_take": "Suicoke's consistent expansion into waterproof leather boots at the ¥36,000–¥40,000 price band demonstrates that the brand is deliberately migrating its equity upward from sandal-season dependency into a year-round premium positioning — a structurally sound move, but one that requires significant factory partner development in lasted construction, which is a different capability than EVA molding. The STRIKE and BEETLE-LO execution will be the real test of whether their manufacturing base can hold quality tolerances at that price point across a full FW run."
+        },
+        {
+          "title": "Etro Leads the Birkenstock Boston and Gizeh With Paisley Outsoles and Pegaso Rivets",
+          "source_name": "Hypebeast",
+          "source_url": "https://hypebeast.com/2026/9/etro-birkenstock-boston-gizeh-fall-winter-2026-fw-26-collaboration-release-info",
+          "category": "Quality",
+          "relevance_score": 9,
+          "original_publish_time": "2026-09-07T08:30:27+00:00",
+          "misaki_take": "Birkenstock continues to demonstrate exceptional discipline in selecting collaborators who add decorative value without compromising the silhouette or the footbed IP — Etro's paisley outsoles and rivet hardware are surface-level interventions that protect the brand's functional narrative while accessing luxury fashion traffic. From a manufacturing standpoint, outsole decoration at this level requires close coordination between Birkenstock's cork compound lines and Etro's trim suppliers, and getting that handoff right is where most luxury collab production timelines slip."
+        },
+        {
+          "title": "The Nike Air Monarch Trades Leather for Suede in Two Gum-Soled Holiday Colorways",
+          "source_name": "Hypebeast",
+          "source_url": "https://hypebeast.com/2026/9/nike-air-monarch-suede-pack-ib2281-200-ib2281-001-official-images",
+          "category": "Leather",
+          "relevance_score": 8,
+          "original_publish_time": "2026-09-12T10:00:33+00:00",
+          "misaki_take": "Moving the Air Monarch from full-grain leather to suede is a cost-structure decision dressed in a materials storytelling wrapper — suede BOM at volume is friendlier on FOB, particularly given where bovine leather pricing has been trending through 2026. The gum outsole pivot is smart commercial positioning for holiday gifting, but sourcing teams should note that suede finish consistency across a high-volume SKU remains one of the harder quality variables to control, especially if production is split across multiple factory lines."
+        },
+        {
+          "title": "Rick Owens and Dr. Martens Link Up Again for a Brutalist Quad Sole Collection",
+          "source_name": "Hypebeast",
+          "source_url": "https://hypebeast.com/2026/9/rick-owens-and-dr-martens-link-up-again-for-a-brutalist-quad-sole-collection",
+          "category": "Sustainability",
+          "relevance_score": 8,
+          "original_publish_time": "2026-09-10T20:42:28+00:00",
+          "misaki_take": "The longevity of this collaboration — now producing Pull-On, Steel Toe, and Mule variations under a consistent brutalist language — signals that both parties have resolved the operational friction that typically kills multi-season collab programs, including last construction sharing and finish approval timelines. For Dr. Martens' manufacturing partners, maintaining quad-sole tooling across limited SKUs while keeping core Bouncing Soles lines running concurrently is a capacity balancing act that does not get enough credit in the brand conversation."
+        },
+        {
+          "title": "Nike forgot that Republicans buy sneakers, too, and now it's getting booted from the S&P 100 - Fox News",
+          "source_name": "Google News - Sneaker Brand",
+          "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ1VZRnM2M0VXZ29NY2cxYWMwVFp0aWo4enVTOXByX0NoZjFUdU1jWUo4SDByR1o0aVVMc3o4Zkl6cjZCM1E0VVJ1ZU93VXAtRmxab1M5X0lYTURWTmkyODdIWmtUZWxwZGtFZlBsWkt1UnBKUGtLaXVJNjZoVUJKWmJzZm9CS0hTUG5uUmZkelZDeDlncG9NMGIwT1Myb2pxbl9N?oc=5",
+          "category": "Retail",
+          "relevance_score": 8,
+          "original_publish_time": "2026-09-09T17:18:56+00:00",
+          "misaki_take": "S&P 100 removal is an index rebalancing reflecting sustained market cap erosion — it is a lagging indicator of operational and brand strategy failures that people in this industry have been watching compound since 2023, not a political story. The more consequential read for sourcing executives is that Nike's ongoing restructuring continues to create capacity availability in Vietnam and Indonesia that competing brands can access, and the factory relationship dynamics in those countries are actively shifting as a result."
+        },
+        {
+          "title": "Patta Reveals Upcoming Crocs Classic Clog Collab With Vibram Soles",
+          "source_name": "Sneaker News",
+          "source_url": "https://sneakernews.com/2026/09/08/patta-crocs-classic-clog-vibram/",
+          "category": "Supply Chain",
+          "relevance_score": 8,
+          "original_publish_time": "2026-09-08T19:30:51+00:00",
+          "misaki_take": "Placing Vibram's outsole technology onto a Crocs Classic Clog is a technically interesting brief — it requires bonding a traditional rubber compound to Croslite EVA foam, which has well-documented adhesion challenges that any experienced sole supplier will immediately recognize. The commercial logic is clear — Patta brings credibility and Vibram brings performance legitimacy — but the production execution on this bonding interface will determine whether this collab becomes a quality reference point or a cautionary one."
+        }
+      ]
+    },
     {
       "id": "wk35-2026",
       "week_number": 35,
@@ -907,107 +1008,6 @@
           "relevance_score": 6,
           "original_publish_time": "2026-07-03T08:40:09+00:00",
           "misaki_take": "MICAM repositioning around a 'Shoes First' platform is a direct response to the ongoing encroachment of accessories and apparel content in what was historically a pure footwear trade event — when an industry fair has to assert its primary category, it is a signal that exhibitor and buyer attention has already been fragmenting. For sourcing managers deciding which trade events justify travel budgets in 2026 and 2027, MICAM's ability to execute this campaign in buyer attendance numbers will be the real proof point."
-        }
-      ]
-    },
-    {
-      "id": "wk26-2026",
-      "week_number": 26,
-      "year": 2026,
-      "date_from": "2026-06-22",
-      "date_to": "2026-06-28",
-      "published": "2026-06-28T10:30:25.147344+00:00",
-      "intro": "Week 26 arrives with a structural tension that has been building for years: the premium-casual hybrid is now the dominant product brief across every tier, from Nike's Air Max loafer to PUMA's Vibram Suede, while the manufacturing base that makes it all possible is quietly fracturing — Spain losing 1,100 companies, Davao's artisans aging out, Pakistan's leather segment softening. The decorative layer of collaboration announcements sits on top of a supply chain that is being asked to do more with less. Watch the gap between what brands are designing and what the production ecosystem can actually sustain.",
-      "articles": [
-        {
-          "title": "Willy Chavarria Dives Deeper Into Shoes With a Debut Ugg Collab, New Luxury Footwear Partner + More Adidas Styles on the Way",
-          "source_name": "Footwear News",
-          "source_url": "https://wwd.com/footwear-news/shoe-industry-news/willy-chavarria-ugg-adidas-stan-smith-paris-interview-1239042147/",
-          "category": "Retail",
-          "relevance_score": 10,
-          "original_publish_time": "2026-06-27T22:44:56+00:00",
-          "misaki_take": ""
-        },
-        {
-          "title": "Shoes to fill: Leather, labor, legacy in Davao’s local footwear industry - Atenews",
-          "source_name": "Google News - Footwear Industry",
-          "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObWxUZ2tOSVM4aHRNcWhPSmdJMWJkTUxnNU5KNm5XWDE1WHpZdFZ3cFFjdzN1YzBST3RmdDNpTXNZU0dyeHR5VXVNLTR3WG9OY0lOTHFlOTJwOVpxWTR6c1F1NUUwM0hvOWNCTno2YjhZcmhGUVFEWUg5bUNKM3BDamt2LThRUUx1VDYyMHdJQjE?oc=5",
-          "category": "Leather",
-          "relevance_score": 9,
-          "original_publish_time": "2026-06-24T04:36:21+00:00",
-          "misaki_take": ""
-        },
-        {
-          "title": "The Nike Air Max Phenomena \"Cacao Wow/Metallic Silver\" Applies a Loafer Silhouette to the Air Max SNDR Sole",
-          "source_name": "Hypebeast",
-          "source_url": "https://hypebeast.com/2026/6/nike-air-max-phenomena-cacao-wow-metallic-silver-im8814-200-official-images",
-          "category": "Manufacturing",
-          "relevance_score": 7,
-          "original_publish_time": "2026-06-26T11:58:42+00:00",
-          "misaki_take": "The Air Max Phenomena is a manufacturing brief as much as a design brief — bonding a dress shoe last profile to a chunky cushioning platform requires precise lasting tension management, and the material transition between the leather-look upper and the foam carrier is where quality failures will surface at scale. Nike's SWDC has done the concept work, but the real test is whether their Tier 1 partners can hold tolerance on that silhouette junction across a volume run."
-        },
-        {
-          "title": "PUMA's Most Classic Sneaker Is a Dapper Vibram-Soled Dress Shoe Now",
-          "source_name": "Highsnobiety",
-          "source_url": "https://www.highsnobiety.com/p/puma-suede-vibram-sneakers/",
-          "category": "Leather",
-          "relevance_score": 7,
-          "original_publish_time": "2026-06-23T21:07:38+00:00",
-          "misaki_take": "Specifying Vibram is a deliberate signal to a trade buyer audience as much as a consumer one — it communicates a floor on outsole quality and shifts part of the brand-building cost to a supplier with its own equity, which is an efficient move when your own heritage sole unit is already commoditized. The FOB impact of a Vibram spec on a volume sneaker is non-trivial, typically adding $2.50–$4.00 per pair, so watch whether this stays a limited SKU or tests into mainline."
-        },
-        {
-          "title": "Footwear industry is backbone of India’s economy: Union Minister Giriraj Singh - News On AIR",
-          "source_name": "Google News - Footwear Industry",
-          "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ29UaXZQZHFWUm1nX2FHV3h5VGlhdFRaX01vcllPcGc2bU5fRFdmR282RjQ1ZnkyTE9Ic0drOHQ2SjM3NkI5ZFI3eEZsRHUyaTI0LW15clpXMnJYcS15QmN6Qy0xR1NEbVd0QVp6b0taVXVkZXVYNUxsdHdlX2JFUGtKLUFXenJ6eVdxU1I5NF9ud2tPVTFLM3hwbmNZdHl4cFFZdQ?oc=5",
-          "category": "Sustainability",
-          "relevance_score": 6,
-          "original_publish_time": "2026-06-25T19:16:39+00:00",
-          "misaki_take": ""
-        },
-        {
-          "title": "Official Look at the Vans x FTMD Premium LX Old Skool “Migratory Patterns”",
-          "source_name": "Hypebeast",
-          "source_url": "https://hypebeast.com/2026/6/vans-ftmd-premium-lx-old-skool-migratory-patterns-release-info",
-          "category": "Leather",
-          "relevance_score": 6,
-          "original_publish_time": "2026-06-24T09:53:22+00:00",
-          "misaki_take": ""
-        },
-        {
-          "title": "EU footwear imports generate over 1.2 million tonnes of potential waste each year - FashionNetwork France",
-          "source_name": "Google News - Footwear Industry",
-          "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOXzQ5ZTR0N0pBTjZfcjh2d2hhbEhsak93UUROYnhIZTMwLVJycE5ud01zdE81MWd3Y293Z3FrNjBRODl1bkJUaEhiUG9VcHRuSlI1MC12VzJtWlBNX3Q1VndXVGFmWFJpOHdSMC1JM0x6UkxpTm92emdQalVOWmw4OUV1WDk2bEZYa1FWR081Y1loMk5KS2pUV0EyNlVISkUweUpLZThhOGZXbEtaNHByb1NSaEdlc2xyaVlUa3c2VU9Dd1U5Q2tQOA?oc=5",
-          "category": "Trade Data",
-          "relevance_score": 6,
-          "original_publish_time": "2026-06-23T11:51:47+00:00",
-          "misaki_take": "1.2 million tonnes is not a sustainability talking point — it is a number that will be written into the EU's Extended Producer Responsibility framework revisions, and brands exporting into the EU market need to be building end-of-life cost assumptions into their product costing models now rather than after the legislation lands. Sourcing teams that have not already mapped their EU-bound SKUs against material recyclability classifications are behind this curve."
-        },
-        {
-          "title": "Pakistan footwear exports rise despite weakness in the leather segment - World Footwear",
-          "source_name": "Google News - Footwear Industry",
-          "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRWwteUI5UnNPUW9FM0loNlhVZUNNV0ozWE5vOHljODZEXzA4UkpJb3YzeExYV2ZlTE1lbHNFZkVWMHI1REZoME1iU2hwUEQ5NE1pcWh6VWIzT3g4MWRRVkROZ09wSWFaNGE2b2xCWl9YSHJDdExmNGJPbF8zcFRjWE9aSXFuVk9tS3VqeGkyVWFQQjNDczNpcjN0Mm9XQ0d6OC00SlpIdUppNWEyTE5jbDAtZ2lJam8?oc=5",
-          "category": "Leather",
-          "relevance_score": 6,
-          "original_publish_time": "2026-06-22T23:04:34+00:00",
-          "misaki_take": "The divergence — export growth with leather segment softness — almost always means the volume growth is being carried by synthetic and textile upper constructions, which is a structural shift in Pakistan's manufacturing identity that has long-term implications for tannery investment and skilled cutting labor retention. Buyers relying on Pakistan for full-grain leather product at competitive FOB should be stress-testing those supplier relationships, because the factory floor incentive is moving toward the easier margin."
-        },
-        {
-          "title": "Spanish footwear industry lost over 1,100 companies since 2020: AEC calls for urgent action plan - fashionunited.uk",
-          "source_name": "Google News - Footwear Industry",
-          "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOT1Bsd3VNTzBkZUgzY0tsazRQamotT3U1dEsyT2ptSDRjeU5SV2RqNjkzaThMZVZqRTRpSkIyc1l1RDdjbVJFb2NRRzR2MS14MzdaeERVQzFseUIwWER4eUU3M1RwWkU0RTNIYXhheXA1cTBPbGpMNEM3TXJVY1liSEhhWmptcVhMSGxJakFyZ1hiNk1YbXBzaFlZZ19OT3ZkVXI3OU55Xy1teE53X0U4cEFyS2d2a3ptcnBZVnloMnFkRzlwNTZVSGlpVDZPeUZ6NU9MR1IyMFIxcURUMWVMQlZR?oc=5",
-          "category": "Retail",
-          "relevance_score": 6,
-          "original_publish_time": "2026-06-22T08:37:53+00:00",
-          "misaki_take": "Losing 1,100 companies in five years is not a cyclical contraction — it is a structural liquidation of the mid-tier production base, and the companies that remain are either at the artisan luxury end with defensible positioning or large enough to have automated and absorbed the cost pressure. For brands that built European-made credentials on Spanish factory relationships, this is a supplier concentration risk moment that requires an honest audit of which partners can actually survive another five years."
-        },
-        {
-          "title": "Portuguese footwear industry received at the United Nations - World Footwear",
-          "source_name": "Google News - Footwear Industry",
-          "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVWxOS29ta2RsNU04VnBrU2drZXdtNm4xZ1lkZTMyU29vdWpmcGpYN2tGTmxfQlJlMTBEMGdPZE1yalo3MzVRek5hTXZ3Uk1RZGVaTmNWUmF3b21ienNSN2h3NGh0MlFOd19VSjhJLWhGR2tNU1M3MXk2WGxlWDBwLUJDTVdaSXNGeng3Uk10SnpTYWVsUENNbTloUFhXVmpKU01GZURRUXA?oc=5",
-          "category": "Supply Chain",
-          "relevance_score": 6,
-          "original_publish_time": "2026-06-21T23:03:39+00:00",
-          "misaki_take": "UN-level recognition is a validation of APICCAPS's long-running strategy of positioning Portuguese manufacturing as the global benchmark for responsible, traceable, high-value footwear production — and it strengthens the hand of Portuguese factories in FOB negotiations with brands that need credible sustainability provenance for their European consumers. The practical sourcing implication is that capacity in Portugal will remain constrained and premium-priced, and brands not already in the queue will find lead times, not price, to be the limiting factor."
         }
       ]
     }
