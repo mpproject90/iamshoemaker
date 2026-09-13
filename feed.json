@@ -1,8 +1,49 @@
 {
-  "last_updated": "2026-09-13T14:59:58.290765+00:00",
-  "total_articles": 108,
+  "last_updated": "2026-09-13T19:21:38.547515+00:00",
+  "total_articles": 107,
   "sources_checked": 61,
   "articles": [
+    {
+      "id": "637bc3e86499",
+      "title": "Nike’s Cult-favorite Air Max Boot Is Getting a Subtle New Makeover This Year",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-acg-air-max-goadome-black-volt-release-date-iq7198-001-1239228190/",
+      "original_publish_time": "2026-09-13T17:43:44+00:00",
+      "scraped_time": "2026-09-13T19:10:35.183464+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 5,
+      "summary": "Distressed details and discreet coloring appear on the Nike ACG Air Max Goadome.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "e9f6fb3c85dc",
+      "title": "Jordan 9 “Space Jam,” adidas AE3, And This Week’s Best Releases",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/09/13/sneaker-releases-september-13-september-19-2026/",
+      "original_publish_time": "2026-09-13T16:00:12+00:00",
+      "scraped_time": "2026-09-13T19:10:46.327559+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Adidas",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "It’s looking to be a hot week for the Jumpman enthusiasts. A storyline throughout this year, the “Space Jam” celebration earnestly begins as the Air... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Jordan 9 \"Space Jam,\" adidas AE3, And This Week's Best Releases appeared first on Sneaker News . The post Jordan 9 “Space Jam,” adidas AE3, And This Week’s Best Releases appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "a18f1af4afe9",
       "title": "adidas Made Slippers for Your Next Winter Hike",
@@ -2187,68 +2228,6 @@
       ],
       "relevance_score": 6,
       "summary": "The Sole Of A City: Inside Marikina’s Shoemaking Revival lifestyleasia-onemega.com",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "106f9919e986",
-      "title": "Crocs Turned Its Classic Clog Into a New Limited-edition Loafer That Will Be Released This Month",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/solebox-crocs-echo-2-loafer-release-date-1239199657/",
-      "original_publish_time": "2026-09-06T18:11:18+00:00",
-      "scraped_time": "2026-09-06T18:49:22.334220+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Crocs"
-      ],
-      "keywords_matched": [
-        "sole"
-      ],
-      "relevance_score": 3,
-      "summary": "The Solebox x Crocs Echo 2 Loafer will be released Sept. 12.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "0e61eb32f974",
-      "title": "The $95 Nike V5 RNR Checks Off An Easygoing Black Colorway",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/09/06/nike-v5-rnr-womens-black-white-hq7901-010/",
-      "original_publish_time": "2026-09-06T18:00:54+00:00",
-      "scraped_time": "2026-09-06T18:49:33.118315+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "At a time when consumers are becoming more frugal with their footwear choices, the $95 Nike V5 RNR has emerged as a clear win for... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The $95 Nike V5 RNR Checks Off An Easygoing Black Colorway appeared first on Sneaker News . The post The $95 Nike V5 RNR Checks Off An Easygoing Black Colorway appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "a1a4798d14ad",
-      "title": "Jordan 12 “Bucks,” Yu-Gi-Oh Crocs, And This Week’s Best Releases",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/09/06/sneaker-releases-september-6-12-2026/",
-      "original_publish_time": "2026-09-06T16:00:37+00:00",
-      "scraped_time": "2026-09-06T18:49:33.130623+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Crocs",
-        "Jordan"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 4,
-      "summary": "It’s not often that two grails drop in the same week. With the Air Jordan 12 “Bucks” reimagining a Ray Allen PE and Fat Joe’s... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Jordan 12 \"Bucks,\" Yu-Gi-Oh Crocs, And This Week's Best Releases appeared first on Sneaker News . The post Jordan 12 “Bucks,” Yu-Gi-Oh Crocs, And This Week’s Best Releases appeared first on Sneaker News .",
       "ren_take": "",
       "image_url": ""
     }
