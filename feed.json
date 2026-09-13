@@ -1,8 +1,29 @@
 {
-  "last_updated": "2026-09-13T09:58:58.043422+00:00",
-  "total_articles": 107,
-  "sources_checked": 60,
+  "last_updated": "2026-09-13T14:59:58.290765+00:00",
+  "total_articles": 108,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "a18f1af4afe9",
+      "title": "adidas Made Slippers for Your Next Winter Hike",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/adidas-terrex-winter-slip-on-cold-rdy-boots/",
+      "original_publish_time": "2026-09-13T09:54:00+00:00",
+      "scraped_time": "2026-09-13T14:52:46.032583+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 3,
+      "summary": "Engineered to tackle freezing conditions without sacrificing aesthetics, the outdoor division presents the adidas Terrex Winter Slip-On COLD.RDY Boots.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "a51226b7e741",
       "title": "Take a First Look at Patta and Crocs’ Classic Clog Collab",
