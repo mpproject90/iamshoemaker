@@ -1,8 +1,67 @@
 {
-  "last_updated": "2026-09-14T16:58:06.418682+00:00",
-  "total_articles": 114,
-  "sources_checked": 54,
+  "last_updated": "2026-09-14T20:54:06.151231+00:00",
+  "total_articles": 117,
+  "sources_checked": 60,
   "articles": [
+    {
+      "id": "4cb988fac8dd",
+      "title": "Sorel’s Ambler Clog and Chukka Boot Get a Purple Upgrade From Needles",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/sorel-needles-ambler-clog-chukka-boot-release-date-1239231460/",
+      "original_publish_time": "2026-09-14T18:04:07+00:00",
+      "scraped_time": "2026-09-14T20:43:22.784591+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "boot",
+        "shoes"
+      ],
+      "relevance_score": 4,
+      "summary": "The shoes will release on Sept. 25.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "8249ec6d0d3b",
+      "title": "Sharon Stone Wears Pointed-toe Ankle Boots to Cos Show Disrupted by PETA Protesters",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-trends/sharon-stone-flat-pointed-boots-cos-peta-protest-nyfw-1239230633/",
+      "original_publish_time": "2026-09-14T17:13:37+00:00",
+      "scraped_time": "2026-09-14T20:43:22.787532+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 3,
+      "summary": "The actress paired the elongated black boots with cream separates and a camel trench at Sunday’s fall 2026 show.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "044116d2eb43",
+      "title": "HDS/L: Footwear industry remains under pressure in the first half of the year - shoez.biz",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPXzZ4cWQxRUpNQUlabnpFQ1NRcmo0VVlTMVdZU2pqV25WRHFySHFBZ2dodkprV0VYS0tEUnVBQ1dwX0VKd0xzZUVfY2ZZam9CaGdVT0tqLUhrRGNDNzNVenA0UTZiNEpCVFE3bVc2TEdHREhpMkQ4V3dDd1JrRjU5bldMVzhnMEU?oc=5",
+      "original_publish_time": "2026-09-14T16:56:52+00:00",
+      "scraped_time": "2026-09-14T20:43:44.311595+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "footwear industry"
+      ],
+      "relevance_score": 6,
+      "summary": "HDS/L: Footwear industry remains under pressure in the first half of the year shoez.biz",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "b9ff1e00fe2a",
       "title": "Another Look At The Union x Nike Dunk Low",
