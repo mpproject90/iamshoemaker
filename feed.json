@@ -1,8 +1,29 @@
 {
-  "last_updated": "2026-09-13T19:21:38.547515+00:00",
-  "total_articles": 107,
+  "last_updated": "2026-09-14T01:00:38.866297+00:00",
+  "total_articles": 108,
   "sources_checked": 61,
   "articles": [
+    {
+      "id": "fe1adca939e8",
+      "title": "Even With Cracked Leather, adidas’ Stan Smith Remains Timeless",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/adidas-stan-smith-white-orange/",
+      "original_publish_time": "2026-09-13T19:41:23+00:00",
+      "scraped_time": "2026-09-14T00:53:26.268414+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "adidas' famous Stan Smith sneaker is forever timeless, even with \"aged\" cracked leather uppers.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "637bc3e86499",
       "title": "Nike’s Cult-favorite Air Max Boot Is Getting a Subtle New Makeover This Year",
