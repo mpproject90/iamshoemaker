@@ -1,8 +1,113 @@
 {
-  "last_updated": "2026-09-15T15:38:24.230618+00:00",
+  "last_updated": "2026-09-15T20:08:49.991385+00:00",
   "total_articles": 125,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "5f90f62e3e23",
+      "title": "adidas Made A Samba Climbing Shoe",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/09/15/adidas-samba-climbing-shoes/",
+      "original_publish_time": "2026-09-15T18:30:26+00:00",
+      "scraped_time": "2026-09-15T19:57:51.805348+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "Climbing shoes are in, not necessarily for climbing alone, but increasingly for lifestyle wear and other genres. Look no further than Village PM, Loewe, and... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post adidas Made A Samba Climbing Shoe appeared first on Sneaker News . The post adidas Made A Samba Climbing Shoe appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "1d88c5061a15",
+      "title": "Timberland’s Premium 6-inch Waterproof Boot Is Getting a New Limited-edition Release With Cow Print and Gator",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/politics-timberland-premium-6-inch-waterproof-boot-outlaw-rodeo-release-date-1239236381/",
+      "original_publish_time": "2026-09-15T18:14:19+00:00",
+      "scraped_time": "2026-09-15T19:57:40.832272+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Timberland"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 5,
+      "summary": "The cowboy boot-inspired project will be released this month in two styles.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "c587b2db3d4a",
+      "title": "The Nike Air Max 90 Keeps It Lowkey In “Cool Grey”",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/09/15/nike-air-max-90-cool-grey-light-army-black-ix7926-001/",
+      "original_publish_time": "2026-09-15T18:00:42+00:00",
+      "scraped_time": "2026-09-15T19:57:51.807082+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Adidas",
+        "ASICS"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "Before models like the ASICS GEL-1130 and adidas Samba became go-to everyday sneakers, that distinction belonged in part to the Nike Air Max 90, a... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Nike Air Max 90 Keeps It Lowkey In \"Cool Grey\" appeared first on Sneaker News . The post The Nike Air Max 90 Keeps It Lowkey In “Cool Grey” appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "d24aaf076a24",
+      "title": "Sneaker Politics Turns Timberlands Into Cowboy Boots",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/09/15/sneaker-politics-timberland-ranch-outlaw/",
+      "original_publish_time": "2026-09-15T17:00:39+00:00",
+      "scraped_time": "2026-09-15T19:57:51.809808+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 5,
+      "summary": "Sneaker Politics has grown from just one Louisiana storefront into a Southern empire, now boasting half a dozen locations in both LA and now, TX.... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Sneaker Politics Turns Timberlands Into Cowboy Boots appeared first on Sneaker News . The post Sneaker Politics Turns Timberlands Into Cowboy Boots appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "793d0648e30b",
+      "title": "Timberland and Supreme’s Fan-favorite Premium 6-inch Waterproof Boot Collaboration Back This Week",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/supreme-timberland-diamond-plate-premium-6-inch-waterproof-boot-1239234734/",
+      "original_publish_time": "2026-09-15T15:39:53+00:00",
+      "scraped_time": "2026-09-15T19:57:40.835279+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Timberland"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 5,
+      "summary": "It's the return of the Supreme x Timberland Diamond Plate collaboration, which was released in 2023.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "3f8b54c9bd53",
       "title": "Supreme Is Bringing Back Diamond Plate Timberland Boots",
@@ -765,6 +870,27 @@
       ],
       "relevance_score": 3,
       "summary": "Laura Dern Just Joined Nicole Kidman in Wearing the Chic Fall Shoe Trend Replacing Regular Sneakers instyle.com",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "c6a506667057",
+      "title": "We Found Jessica Alba’s Exact Adidas Sneakers on Sale — Plus Styles Inspired by Jennifer Aniston and Anne Hathaway - People.com",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1zdUV6bkJNX1QyTnM1UTNNTW1OY1RETXVuRVJzd3FOYkZvR1ZQQ3lMdkNMUDEwYlZneGVLbXRDS1JQQm1WbEQ2TUFsMnJMTGJHeVBTYjl0cV84Q0J5Y0pzRlMwamhCbFExNVVzOEVCbDRzTWRETGNOQmxn?oc=5",
+      "original_publish_time": "2026-09-14T01:15:00+00:00",
+      "scraped_time": "2026-09-15T19:58:03.464808+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "We Found Jessica Alba’s Exact Adidas Sneakers on Sale — Plus Styles Inspired by Jennifer Aniston and Anne Hathaway People.com",
       "ren_take": "",
       "image_url": ""
     },
@@ -2483,128 +2609,6 @@
       ],
       "relevance_score": 7,
       "summary": "EXEC: UBS Issues ‘Bullish’ Note on Running Footwear Despite Nike’s Woes SGB Media Online",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "6d9f73ced3ce",
-      "title": "Patta Reveals Upcoming Crocs Classic Clog Collab With Vibram Soles",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/09/08/patta-crocs-classic-clog-vibram/",
-      "original_publish_time": "2026-09-08T19:30:51+00:00",
-      "scraped_time": "2026-09-08T19:42:59.874499+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Nike",
-        "Crocs",
-        "Vibram"
-      ],
-      "keywords_matched": [
-        "sole"
-      ],
-      "relevance_score": 8,
-      "summary": "Iconic in the sneaker world for its vast portfolio of Nike collaborations, Amsterdam’s Patta is taking its talents over to Crocs with a unique take... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Patta Reveals Upcoming Crocs Classic Clog Collab With Vibram Soles appeared first on Sneaker News . The post Patta Reveals Upcoming Crocs Classic Clog Collab With Vibram Soles appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "32d61e3bfba5",
-      "title": "Air Jordan 11 “DMP” aka “Gratitude” Cleats Returning Soon",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/09/08/air-jordan-11-mcs-cleats-dmp-fv5415-107/",
-      "original_publish_time": "2026-09-08T19:00:23+00:00",
-      "scraped_time": "2026-09-08T19:42:59.875762+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike",
-        "Jordan"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "“Heat for your cleats” is very much back on the menu. A jaunt through the NCAA is underway in that regard, as Nike pens pairs... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Air Jordan 11 “DMP” aka “Gratitude” Cleats Returning Soon appeared first on Sneaker News . The post Air Jordan 11 “DMP” aka “Gratitude” Cleats Returning Soon appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "4a2ebe7e87e6",
-      "title": "The British Royal Family Members Follow These Guidelines When It Comes to Shoes",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-trends/british-royal-family-shoe-guidelines-style-1239201168/",
-      "original_publish_time": "2026-09-08T18:32:00+00:00",
-      "scraped_time": "2026-09-08T19:42:49.269287+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "Classic pumps and Oxfords are key styles in the sartorial images of the British royals.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "e97e5bbaf879",
-      "title": "The Florida Gators’ Air Jordan 11 PE Comes Drenched In Orange",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/09/08/air-jordan-11-florida-gators-pe-cleats/",
-      "original_publish_time": "2026-09-08T18:30:07+00:00",
-      "scraped_time": "2026-09-08T19:42:59.899927+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Nike",
-        "Jordan"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "While Nike Football hooks its sponsored NCAA programs up with Vaporposite Pro PEs, Jordan Brand is shipping out monochrome Jordan 11 cleats for the 2026... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Florida Gators' Air Jordan 11 PE Comes Drenched In Orange appeared first on Sneaker News . The post The Florida Gators’ Air Jordan 11 PE Comes Drenched In Orange appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "2c9c1286ce9a",
-      "title": "Steph Curry’s First Li Ning Basketball Sneakers Are Expected to Release This Week",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/steph-curry-first-li-ning-basketball-sneaker-release-1239201056/",
-      "original_publish_time": "2026-09-08T18:09:54+00:00",
-      "scraped_time": "2026-09-08T19:42:49.271249+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "Special colorways have been made for both Dwyane Wade and Jimmy Butler's signature models.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "e4725fd1dc96",
-      "title": "Celine Gave the Reebok Freestyle Lo a Parisian Remix",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/9/celine-reebok-freestyle-lo-release-date-info",
-      "original_publish_time": "2026-09-08T17:09:01+00:00",
-      "scraped_time": "2026-09-08T19:42:59.775480+00:00",
-      "time_delta_mins": 0,
-      "category": "Quality",
-      "brands_mentioned": [
-        "Reebok"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "SummaryReleasing September 10, the Celine/Reebok Freestyle Lo reimagines the 1982 classic with smooth lambskin and prominent co-branding.Michael Rider’s design drops in multiple colorways via Celine’s website and select stores, featuring exclusive shades in NY and Tokyo.Following a teaser of the collaboration at Michael Rider's Celine SS27 Men's debut in June, the Parisian label has officially unveiled the Celine/Reebok Freestyle Lo. The retro silhouette is reintroduced in monochromatic yet wide-ranging colorways, emphasizing the maison's elevated treatment of the uppers.Born in 1982, the original Freestyle Lo has the classic look of an everyday lifestyle sneaker, adorned with the recognizable Reebok overlays on the lateral sides. For Rider's reimagination of the sneaker, the overlays are ",
       "ren_take": "",
       "image_url": ""
     }
