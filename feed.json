@@ -1,8 +1,109 @@
 {
-  "last_updated": "2026-09-15T20:08:49.991385+00:00",
+  "last_updated": "2026-09-16T01:20:53.488396+00:00",
   "total_articles": 125,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "de6621d84e39",
+      "title": "Sarah Burton’s Shark Pinch Boot Bites Back",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/sarah-burtons-shark-pinch-boot-bites-back/",
+      "original_publish_time": "2026-09-15T21:00:36+00:00",
+      "scraped_time": "2026-09-16T01:13:45.139719+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 3,
+      "summary": "At the outset of summer, shark-mania is a mania that cyclically reinvents itself to no exhaustion. Now, at the tail-end of the season, it seems the same can be said for another type of shark-mania, that which surrounds Givenchy’s Shark Boot, as the house welcomes yet another stunning spin on its highly coveted shoe—the Shark Pinch.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "1663801003a4",
+      "title": "The adidas Gazelle SPZL Returns In Black And White",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/09/15/adidas-gazelle-spzl-fc-hp4248/",
+      "original_publish_time": "2026-09-15T21:00:25+00:00",
+      "scraped_time": "2026-09-16T01:10:12.597631+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "The “FC” line of adidas SPZL sneakers exists to give fans of football clubs not covered by adidas’ huge catalog of team-inspired pairs options that... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The adidas Gazelle SPZL Returns In Black And White appeared first on Sneaker News . The post The adidas Gazelle SPZL Returns In Black And White appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "858303b01218",
+      "title": "Dick’s Ed Stack: Inventory Misalignment Is the Problem in Athletic Footwear, Not Demand",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/dicks-ed-stack-athletic-footwear-overcapacity-legacy-shoes-1239234726/",
+      "original_publish_time": "2026-09-15T20:13:29+00:00",
+      "scraped_time": "2026-09-16T01:10:01.867413+00:00",
+      "time_delta_mins": 0,
+      "category": "Manufacturing",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "athletic footwear",
+        "footwear",
+        "shoes"
+      ],
+      "relevance_score": 7,
+      "summary": "Dick's executive chairman Ed Stack said athletic footwear's problem centers on overcapacity in legacy silhouettes and undercapacity on new shoes.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "782f55df452d",
+      "title": "The UNC Tar Heels Show Off Jordan Brand’s Full Golf Arsenal",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/09/15/air-jordan-1-low-spizike-pe-unc-golf-team/",
+      "original_publish_time": "2026-09-15T20:00:38+00:00",
+      "scraped_time": "2026-09-16T01:10:12.599334+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "With a run of Vaporposite colorways, Nike has shown the strength of their sponsored college roster once again, handing down game-ready exclusives to some of... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The UNC Tar Heels Show Off Jordan Brand’s Full Golf Arsenal appeared first on Sneaker News . The post The UNC Tar Heels Show Off Jordan Brand’s Full Golf Arsenal appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "aa4df8c55b73",
+      "title": "Nike’s Air Jordan Sneaker Looks Good in a “Chanel” Cardigan",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/jordan-1-low-boucle/",
+      "original_publish_time": "2026-09-15T19:09:53+00:00",
+      "scraped_time": "2026-09-16T01:13:45.141223+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "Nike reveals an Air Jordan 1 ow \"Bouclé\" sneaker which oozes Chanel flavor. Here's everything on the chic steppers.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "5f90f62e3e23",
       "title": "adidas Made A Samba Climbing Shoe",
@@ -65,6 +166,27 @@
       ],
       "relevance_score": 5,
       "summary": "Before models like the ASICS GEL-1130 and adidas Samba became go-to everyday sneakers, that distinction belonged in part to the Nike Air Max 90, a... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Nike Air Max 90 Keeps It Lowkey In \"Cool Grey\" appeared first on Sneaker News . The post The Nike Air Max 90 Keeps It Lowkey In “Cool Grey” appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "6f9122fcc4e9",
+      "title": "'Tis the Season for Nike's Freshest Outdoor Air Max Boot",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-air-max-goadome-boots-2026/",
+      "original_publish_time": "2026-09-15T17:57:16+00:00",
+      "scraped_time": "2026-09-16T01:13:45.141826+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 5,
+      "summary": "It's Air Max Goadome season again, and Nike's restocking the ACG boot's classic colorways ahead of the fall.",
       "ren_take": "",
       "image_url": ""
     },
@@ -2487,128 +2609,6 @@
       ],
       "relevance_score": 3,
       "summary": "Worldwide Footwear Output Breaks the 24 Billion-Pair Mark Modaes",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "8b43fb924959",
-      "title": "Boots’ Charlotte Lock: New campaign celebrates “beautiful and brutal” moments of life",
-      "source_name": "Retail Gazette",
-      "source_domain": "retailgazette.co.uk",
-      "source_url": "https://www.retailgazette.co.uk/blog/2026/09/boots-charlotte-lock/",
-      "original_publish_time": "2026-09-08T23:05:46+00:00",
-      "scraped_time": "2026-09-09T01:09:15.610402+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 3,
-      "summary": "Health, beauty and wellness retailer Boots has unveiled a new brand platform, which celebrates the “realities of life”. Titled ‘Give It Some Boots’, the campaign aims to show the role the retailer plays in giving support to its consumers during the “beautiful and brutal” moments of life. It pays tribute to Boots’ heritage but also...",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "2fbff9e75f65",
-      "title": "Nike’s Winter-Ready Air Jordans Are Extra Swaggy The Second Time Around",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/jordan-1-element-low-sneakers-2026/",
-      "original_publish_time": "2026-09-08T21:51:18+00:00",
-      "scraped_time": "2026-09-09T01:09:47.595401+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [
-        "Nike",
-        "Jordan"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 4,
-      "summary": "The Air Jordan 1 Element Low returns with its signature trail-ready GORE-TEX construction plus fresh colorways like \"Black/Dark Concord.\"",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "7cf58e3bab20",
-      "title": "Thank Simone Rocha for This Pretty Pony-Hair adidas Slipper",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/simone-rocha-adidas-japan-slip-on/",
-      "original_publish_time": "2026-09-08T21:46:48+00:00",
-      "scraped_time": "2026-09-09T01:09:47.594329+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "Simone Rocha's adidas era kicks off with a hairy Japan slip-on, as well as other ballet-style shoes & ruffled sportswear.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "48ae1b96b9f1",
-      "title": "The Jordan Son Of Mars Low Reaches For “Fire Red”",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/09/08/jordan-son-of-mars-low-fire-red-580603-103/",
-      "original_publish_time": "2026-09-08T21:30:09+00:00",
-      "scraped_time": "2026-09-09T01:06:06.735529+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Nike",
-        "Jordan"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "“When they go Hi, we go Lo.” That’s been a reliable strategy for Nike, Inc. over the past few years, retrofitting many of its classic... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Jordan Son Of Mars Low Reaches For \"Fire Red\" appeared first on Sneaker News . The post The Jordan Son Of Mars Low Reaches For “Fire Red” appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "fe0d8997a478",
-      "title": "The Converse Jack Purcell Is Already Entering Its Collab Phase",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/09/08/palmes-converse-jack-purcell/",
-      "original_publish_time": "2026-09-08T20:30:30+00:00",
-      "scraped_time": "2026-09-09T01:06:06.741239+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike",
-        "Converse"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "In the wake of Shai Gilgeous-Alexander’s internal shift over to Nike, Converse has signaled its intentions to stick firmly in the lifestyle lane. To their... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Converse Jack Purcell Is Already Entering Its Collab Phase appeared first on Sneaker News . The post The Converse Jack Purcell Is Already Entering Its Collab Phase appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "db84a1aec4f6",
-      "title": "EXEC: UBS Issues ‘Bullish’ Note on Running Footwear Despite Nike’s Woes - SGB Media Online",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONVNFdERMazVUZ2F6b0NENUI1a3lidndTTEZRT2xyRUlwUnRmVnFfbkRYTVFQVUZhMWtWZlVOdkNnRlo4bEp6dU4tdWxqRXF5U2xDRVFLZ3dKZlVyc0ZkeUlyNWczQ25lV1hKTHAwQ3U1SVFOcmZ3MlYtMTUxODcwQTNYSG4yemRVNzUzM2xRcXZheDVz?oc=5",
-      "original_publish_time": "2026-09-08T20:18:05+00:00",
-      "scraped_time": "2026-09-09T01:06:17.677871+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike",
-        "On Running"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 7,
-      "summary": "EXEC: UBS Issues ‘Bullish’ Note on Running Footwear Despite Nike’s Woes SGB Media Online",
       "ren_take": "",
       "image_url": ""
     }
