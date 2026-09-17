@@ -1,8 +1,86 @@
 {
-  "last_updated": "2026-09-17T01:21:35.376777+00:00",
-  "total_articles": 126,
-  "sources_checked": 60,
+  "last_updated": "2026-09-17T09:53:03.355971+00:00",
+  "total_articles": 125,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "13a15ad3eaf8",
+      "title": "Bangladesh eyes $5bn footwear exports as China loses US market share - Textile Today",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOd25GYXlvTTJRWm9KSmw1NF9nSk5TSHRIRmNscFp0LTZVdjBRaTdkbDhycnR0WWtnOGphZTZpNjFiV0lTVzNJdHNraVk1a3dvTS1uWUw2S2FEakF5a19YU0xIbjBkZFJsblhkU3hUc0FIbjVmOW5DWXJqMl9IMnlYSmtXT0x4WXVEUHZnRTNPdnN5UmJCYlJLTzZGb1dPRHI1?oc=5",
+      "original_publish_time": "2026-09-17T08:31:07+00:00",
+      "scraped_time": "2026-09-17T09:42:22.926053+00:00",
+      "time_delta_mins": 0,
+      "category": "Trade Data",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "footwear exports"
+      ],
+      "relevance_score": 6,
+      "summary": "Bangladesh eyes $5bn footwear exports as China loses US market share Textile Today",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "2fad3e33e210",
+      "title": "Bangladesh sees sharp fall in EU apparel exports",
+      "source_name": "Apparel Insider",
+      "source_domain": "apparelinsider.com",
+      "source_url": "https://apparelinsider.com/bangladesh-sees-sharp-fall-in-eu-apparel-exports/",
+      "original_publish_time": "2026-09-17T07:09:37+00:00",
+      "scraped_time": "2026-09-17T09:44:59.593150+00:00",
+      "time_delta_mins": 0,
+      "category": "Trade Data",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "apparel exports"
+      ],
+      "relevance_score": 3,
+      "summary": "DHAKA – Bangladesh suffered a sharp fall in apparel exports to the European Union during the first seven months of 2026. The country lost ground to China and Vietnam as the overall import market contracted. EU apparel imports fell by 5.1 per cent in value between January and July, declining from €54.39bn a year earlier [...] The post Bangladesh sees sharp fall in EU apparel exports appeared first on Apparel Insider .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "3b20851633f9",
+      "title": "EXCLUSIVE: Alo’s Update to the Post-Surf Boot Is Built for Recovery",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/alo-malibu-boot-loafer-release-date-interview-1239240744/",
+      "original_publish_time": "2026-09-17T04:01:00+00:00",
+      "scraped_time": "2026-09-17T09:42:01.302672+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 3,
+      "summary": "Thursday's launch also includes a new slide-on loafer.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "3d40551e87a6",
+      "title": "Brazilian footwear exports remain under pressure - World Footwear",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZ1J1WW9vaUFKaGRseVFPM0xSWDZmcjJWRVRWRUJPbTJOSEtlMGNnLTVrOXRVcTVfRHlFV2Q1SjBHY05vdmxQazhDM0xveFVjWnlqSGl2dVBGYXpuUUlsWVJYYXlqUEx2dTRsR2NzeHYxYnVIOGpKd2VaVnE2WjhYOURzbm5BdVdPeWNvU1otX1Q5dkYyc2ZRU2l3?oc=5",
+      "original_publish_time": "2026-09-17T00:17:12+00:00",
+      "scraped_time": "2026-09-17T09:42:22.923374+00:00",
+      "time_delta_mins": 0,
+      "category": "Trade Data",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "footwear exports"
+      ],
+      "relevance_score": 6,
+      "summary": "Brazilian footwear exports remain under pressure World Footwear",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "05f14c1c643c",
       "title": "Naked CPH And Asics Unite For A Sunset-Colored GEL-Cumulus 16",
@@ -122,6 +200,25 @@
       ],
       "relevance_score": 3,
       "summary": "A slew of pumps with playful insect-inspired designs were featured in Thom Browne's latest presentation.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "94efcb60e21a",
+      "title": "Aigle appoints Chris Kyvetos to lead its Lifeproof footwear range - FashionNetwork - The World's Fashion Business News",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOejNGOGU2eTF2THdxYXVocDNBWUdPS1BtUE5Id1JTWkprVVQzT3hjd2ZPbXFEYlZIZTdHcTROQ3B5azlLeGpDVHl0ZWc3SHcxbHBsYktTejJQcWdtWjdWemNrMVo3SHpraEtKaXdxZ0w3RTUzVmdqcU5xdnFYMmlwemlRZGdNUVowTWpyamtnT3dwbWZyakdiQ2VYRERZVnBiazdEQlppaVdYMGtMTVpGSnhhZw?oc=5",
+      "original_publish_time": "2026-09-16T14:30:00+00:00",
+      "scraped_time": "2026-09-17T09:42:22.924323+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Aigle appoints Chris Kyvetos to lead its Lifeproof footwear range FashionNetwork - The World's Fashion Business News",
       "ren_take": "",
       "image_url": ""
     },
@@ -2503,128 +2600,6 @@
       ],
       "relevance_score": 5,
       "summary": "Name: KEEN Jasper MerkoMSRP: $135 USDRelease Date: September 3Where to Buy: KEENKEEN is reimagining its iconic climbing-inspired sneaker with the bold, ultra-minimal Jasper Merko. Designed to deliver a barefoot-inspired experience with a lighter environmental footprint, the shoe combines tried-and-true shoemaking techniques with groundbreaking sustainable solutions.Arriving in a stealthy black, muted grey and beige colorways, the upper is constructed from premium, responsibly sourced suede, utilizing a stitch-and-turn construction that creates a seamless, flexible fit that feels tailored directly to the foot. This heavily textured, low-profile sole wraps dynamically around the shoe's sidewalls, promoting natural movement and a more connected sensory experience. Staying true to its crag-cul",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "07d8c013cbe6",
-      "title": "This Classic-yet-Overlooked Timberland Boot Is Getting a Special Release Designed by a Footwear Industry Veteran - WWD",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOamZvNGVOblVxOF9KMU94bF9JaVRFNXozSGx5NWNMLWhBUFMwdTBCcmU5Y3lzY0J3Y1N5RDV4dElEZmp0MnBSaFg5dXJSUnZ3ai1CUGRJUHpnZFhjaWxfeEZyZUEyYjVLRHB4UXFLUEpSaTlHVmMwLU45dHZjaFBnWHJhSWdOekRzTXhmVW50RFZnOVJnMGNIRE9tenhzQnhGaS1LZHloN192WXViTFNoQU1zWTBFdw?oc=5",
-      "original_publish_time": "2026-09-10T08:36:46+00:00",
-      "scraped_time": "2026-09-17T01:10:57.098666+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Timberland"
-      ],
-      "keywords_matched": [
-        "boot",
-        "footwear",
-        "footwear industry"
-      ],
-      "relevance_score": 11,
-      "summary": "This Classic-yet-Overlooked Timberland Boot Is Getting a Special Release Designed by a Footwear Industry Veteran WWD",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "65a0295fe703",
-      "title": "Vans and SZA’s Debut “Vansza” Collaboration Adds a Split-Toe “Tabi Hiker” To the Lineup",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/9/vans-sza-vansza-collaboration-collection-lx-tabi-hiker-knu-skool-mule-authentic-kickdown-vn00115awht-vn00119wba2-vn00116hboc-vn00116hblq-vn00116hblq-vn00111jcma-release-info",
-      "original_publish_time": "2026-09-10T07:48:01+00:00",
-      "scraped_time": "2026-09-10T09:14:25.824908+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [
-        "Vans"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Name: Vans x SZA VanSZA LX Tabi Hiker, Vans x SZA VanSZA LX Knu Skool Mule, Vans x SZA VanSZA LX Knu Skool, Vans x SZA VanSZA Authentic KickdownColorway: Camo/Camo, Black/Red-Yellow, Blue/Orange-Green, Brown/Green-Purple, Black/White, Black/WhiteSKU: VN00115AWHT, VN00119WBA2, VN00116HBOC, VN00116HBLQ, VN00116HBLQ VN00111JCMAMSRP: TBCRelease Date: October 22 (Drop 1), April 8, 2027 (Drop 2)Where to Buy: VansVans and SZA are launching their debut collaboration with the Vansza collection, a two-part release that pairs outdoor-ready footwear with apparel drawn directly from SZA's personal style and everyday creative instincts. The partnership marks SZA's first full collection with Vans, spanning footwear, apparel, and lifestyle pieces built around her own aesthetic point of view.The Vansza LX ",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "5704febc123b",
-      "title": "Boots unveils new ‘Give it Some Boots’ brand platform in nationwide campaign",
-      "source_name": "Retail Gazette",
-      "source_domain": "retailgazette.co.uk",
-      "source_url": "https://www.retailgazette.co.uk/blog/2026/09/boots-unveils-new-give-it-some-boots-brand-platform-in-nationwide-campaign/",
-      "original_publish_time": "2026-09-10T07:16:12+00:00",
-      "scraped_time": "2026-09-10T09:17:39.005795+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 3,
-      "summary": "Boots has launched a new brand platform, ‘Give it Some Boots’, as it aims to sharpen its positioning and showcase the breadth of its offer. The campaign is designed to highlight the retailer’s role across different stages of customers’ lives, spanning pharmacy, healthcare, beauty and wellness. Boots said the platform will focus on the “beautiful...",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "8bf7ecc799f1",
-      "title": "Q2 Earnings Outperformers: Deckers (NYSE:DECK) And The Rest Of The Consumer Discretionary - Footwear Stocks - StockStory",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOS3c1R1d1WkUzUEp1NUVUY1oyQV91ZnpVQjZybWFYSGhmVkltNDNWZXlUeE01N25rc0RXOF9iS0lqejhGLUpsY3lieWxRS2MzRHN5bGhyOWNlRWR4bjUzQklaelNPQVREczlMNkZ2cjlmLTc5NFNwcFczaGxOOW9RWlRvQ254OHE2VVJoTEpJeDJLOXQ1QnRFNjhPc3NKZmZyQS1pbkFfNG80bW94OF9KUUU3YWIyaEZHODhpcXdKcFVoR1ZOalZGVFMwZ3p0WWl4REhRN2NkdUpWZmxJOG4yR0F1RDFoVUhpUHpHY3lzbw?oc=5",
-      "original_publish_time": "2026-09-10T07:00:00+00:00",
-      "scraped_time": "2026-09-11T19:25:19.237633+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Q2 Earnings Outperformers: Deckers (NYSE:DECK) And The Rest Of The Consumer Discretionary - Footwear Stocks StockStory",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "dd58eee4730e",
-      "title": "Clarks Walla Eden GTX “Black” Shrugs Off Rain With Full-Grain Leather and GTX Protection",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/9/clarks-originals-walla-eden-gtx-black-clm27893r-official-images-taiwan-release-info",
-      "original_publish_time": "2026-09-10T06:45:27+00:00",
-      "scraped_time": "2026-09-10T09:14:25.829967+00:00",
-      "time_delta_mins": 0,
-      "category": "Quality",
-      "brands_mentioned": [
-        "Clarks"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "Name: Clarks Originals Walla Eden GTXColorway: BlackSKU: CLM27893RMSRP: $7,880 NTD (approx. $250 USD), TBC (Global)Release Date: Available now (Taiwan), TBC (Global)Where to Buy: Clarks TaiwanClarks is rounding out its Fall/Winter 2026 offering with the Walla Eden GTX, a sports-casual silhouette engineered to hold up against the season's wetter days. Filed under the brand's ORIGINALs Classic Series, the shoe leans on tested materials rather than a flashy redesign, prioritizing function without straying far from the label's familiar silhouette.At the core of the Walla Eden GTX is its genuine leather construction, a material choice that grounds the shoe in durability while keeping the upper supple enough for daily wear. Layered onto that leather base is GTX waterproof technology, giving the ",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "7d9b46b7752e",
-      "title": "Mandy Moore Officially Sold Me on These Cool, Outfit-Making Fall Sneakers From a Jennifer Lawrence-Worn Brand - instyle.com",
-      "source_name": "Google News - Sneaker Brand",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5rODRlNzY5Q0NwYy1leHJDeVBzbXVuV0ZSY2twYlpkZUplbzFWT2M5UXZyZnlwWXYwdXNhRHhNSVFJU3JyWEZ5UG9nb3pvdWkyN0I4amRCTXIwMzk3U1BPbUFvWnEwUDdXOERvQTN4V2NyUQ?oc=5",
-      "original_publish_time": "2026-09-10T02:00:00+00:00",
-      "scraped_time": "2026-09-10T09:14:38.136558+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "Mandy Moore Officially Sold Me on These Cool, Outfit-Making Fall Sneakers From a Jennifer Lawrence-Worn Brand instyle.com",
       "ren_take": "",
       "image_url": ""
     }
