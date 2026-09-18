@@ -1,8 +1,109 @@
 {
-  "last_updated": "2026-09-18T14:59:06.939467+00:00",
-  "total_articles": 129,
+  "last_updated": "2026-09-18T19:36:02.276764+00:00",
+  "total_articles": 131,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "d52d9af544cc",
+      "title": "New Balance Sues Decathlon and Its Kiprun Shoe Brand for ‘Virtually Identical’ Logo",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/new-balance-decathlon-kiprun-lawsuit-logo-running-shoes-1239245301/",
+      "original_publish_time": "2026-09-18T18:39:37+00:00",
+      "scraped_time": "2026-09-18T19:25:05.527225+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "New Balance"
+      ],
+      "keywords_matched": [
+        "shoe brand"
+      ],
+      "relevance_score": 5,
+      "summary": "The complaint was filed earlier this week in U.S. District Court in Massachusetts.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "617e1c17cbb5",
+      "title": "Vans Mixes Up The Half Cab With Floral Tapestries And Vibram Soles",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/09/18/vans-half-cab-33-decon-floral-tapestry/",
+      "original_publish_time": "2026-09-18T17:00:41+00:00",
+      "scraped_time": "2026-09-18T19:25:16.300637+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Vans",
+        "Vibram"
+      ],
+      "keywords_matched": [
+        "sole"
+      ],
+      "relevance_score": 7,
+      "summary": "The Vans Old Skool, Slip-On, and Authentic have all received plenty of love from the brand as of late, each the subject of several deeply... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Vans Mixes Up The Half Cab With Floral Tapestries And Vibram Soles appeared first on Sneaker News . The post Vans Mixes Up The Half Cab With Floral Tapestries And Vibram Soles appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "16a0a727a3da",
+      "title": "adidas’ Tough Hiking Sneaker Is One Rugged Little Number",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/adidas-terrex-freehiker-3-low-gore-tex-hiking-shoes/",
+      "original_publish_time": "2026-09-18T16:36:01+00:00",
+      "scraped_time": "2026-09-18T19:28:52.263695+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "adidas’ Terrex Free Hiker 3 Low GORE-TEX brings a tough, trail-ready build to a low-top hiking sneaker made for fall’s wetter days.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "4361e2c3765b",
+      "title": "French Heritage Brand Aigle Launches New ‘Lifeproof’ Footwear Line Built for the Outdoors",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/aigle-lifeproof-outdoor-shoe-collection-details-1239244817/",
+      "original_publish_time": "2026-09-18T16:13:55+00:00",
+      "scraped_time": "2026-09-18T19:25:05.529100+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "The new collection is “designed at the intersection of urban life and nature,” the company noted.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "e7585f80e0dc",
+      "title": "Kylian Mbappé Leaves Nike For On Running",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/09/18/kylian-mbappe-leaves-nike-for-on-football/",
+      "original_publish_time": "2026-09-18T16:00:20+00:00",
+      "scraped_time": "2026-09-18T19:25:16.315449+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Nike",
+        "On Running"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "Roger Federer, you’ve got company. Eight years after losing the tennis star to On Running in a move that helped turn the Swiss sportswear brand... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Kylian Mbappé Leaves Nike For On Running appeared first on Sneaker News . The post Kylian Mbappé Leaves Nike For On Running appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "ec692154f558",
       "title": "Embassy of India Organizes India-Romania Hybrid B2B Meeting on Leather and Footwear Sector - The Indian Panorama",
@@ -2621,65 +2722,6 @@
       ],
       "relevance_score": 4,
       "summary": "Solebox's Crocs Echo II clog collaboration results in the first-ever Crocs loafer-clog, complete with leather uppers & tassels.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "d2de8f710c9d",
-      "title": "Too Much of a Good Thing: Are Collabs Dead? - Sole Retriever",
-      "source_name": "Google News - Sneaker Brand",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWl9PSTNXUS05R2J5UTB6WGlsZ3hxNFczQUFZLUtkajh3TU9UWjI0ejdJanRwcXBlSDVwRjNoYUN4N3hEZ1FJRmVyVFJCYV8zc3pCXzBBc1ZjbGNfRzV1TlI3OEQwekE2UWhHY2lGQTlhSXZsQ2tZWUZNNVptSUZ5c0U5YjM1YktHZW1jWFZn?oc=5",
-      "original_publish_time": "2026-09-11T19:00:46+00:00",
-      "scraped_time": "2026-09-11T19:25:19.948577+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "sole"
-      ],
-      "relevance_score": 3,
-      "summary": "Too Much of a Good Thing: Are Collabs Dead? Sole Retriever",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "6f4efac8e0fc",
-      "title": "Where To Buy The Air Jordan 12 “Bucks”",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/09/11/air-jordan-12-bucks-store-list/",
-      "original_publish_time": "2026-09-11T18:00:39+00:00",
-      "scraped_time": "2026-09-11T19:25:08.163368+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike",
-        "Jordan"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "The Air Jordan 12 continues its 30th anniversary year with the Jordan 12 “Bucks” on September 12th, arriving in full family sizes via Nike SNKRS... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Where To Buy The Air Jordan 12 “Bucks” appeared first on Sneaker News . The post Where To Buy The Air Jordan 12 “Bucks” appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "7ecc0676a9b1",
-      "title": "The Air Jordan 1 Low Gets Spooky With A “Halloween” Colorway",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/09/11/air-jordan-1-low-halloween-black-green-iq5494-001/",
-      "original_publish_time": "2026-09-11T15:00:16+00:00",
-      "scraped_time": "2026-09-11T19:25:08.223546+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike",
-        "Jordan"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "If you’ve been among the vocal members of the Nike, Inc. fanbase that bemoaned the company’s poor timing around Halloween in the past few years,... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Air Jordan 1 Low Gets Spooky With A \"Halloween\" Colorway appeared first on Sneaker News . The post The Air Jordan 1 Low Gets Spooky With A “Halloween” Colorway appeared first on Sneaker News .",
       "ren_take": "",
       "image_url": ""
     }
