@@ -1,8 +1,50 @@
 {
-  "last_updated": "2026-09-20T14:43:56.696627+00:00",
+  "last_updated": "2026-09-20T19:25:36.572385+00:00",
   "total_articles": 128,
   "sources_checked": 61,
   "articles": [
+    {
+      "id": "8810b8b7b0cd",
+      "title": "adidas Pokemon, K-Pop Demon Hunter Vans, And This Week’s Best Releases",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/09/20/sneaker-releases-september-20-september-26-2026/",
+      "original_publish_time": "2026-09-20T16:00:40+00:00",
+      "scraped_time": "2026-09-20T19:14:43.121805+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Adidas",
+        "Vans",
+        "Crocs"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 5,
+      "summary": "Anime fans are eating good once again. With the One Piece Air Max Plus and Yu-Gi-Oh! Crocs recently releasing, still the energy remains high this... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post adidas Pokemon, K-Pop Demon Hunter Vans, And This Week's Best Releases appeared first on Sneaker News . The post adidas Pokemon, K-Pop Demon Hunter Vans, And This Week’s Best Releases appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "2cff0c994152",
+      "title": "Timberland’s 6-inch Boot Gets a Special-edition Stud-embellished Release That’s Available Now",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/timberland-stone-street-platform-6-inch-boot-stud-collection-1239248444/",
+      "original_publish_time": "2026-09-20T15:53:32+00:00",
+      "scraped_time": "2026-09-20T19:14:32.271318+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Timberland"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 5,
+      "summary": "The women's Stud Collection includes the Stone Street Platform 6-Inch Boot and Stone Street Platform Boat Shoe.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "f8438bbe8afa",
       "title": "Mr. Diep Thanh Kiet: Securing raw materials is the number one priority for the footwear industry. - Vietnam.vn",
@@ -2605,47 +2647,6 @@
       ],
       "relevance_score": 3,
       "summary": "adidas' famous Stan Smith sneaker is forever timeless, even with \"aged\" cracked leather uppers.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "637bc3e86499",
-      "title": "Nike’s Cult-favorite Air Max Boot Is Getting a Subtle New Makeover This Year",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-acg-air-max-goadome-black-volt-release-date-iq7198-001-1239228190/",
-      "original_publish_time": "2026-09-13T17:43:44+00:00",
-      "scraped_time": "2026-09-13T19:10:35.183464+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 5,
-      "summary": "Distressed details and discreet coloring appear on the Nike ACG Air Max Goadome.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "e9f6fb3c85dc",
-      "title": "Jordan 9 “Space Jam,” adidas AE3, And This Week’s Best Releases",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/09/13/sneaker-releases-september-13-september-19-2026/",
-      "original_publish_time": "2026-09-13T16:00:12+00:00",
-      "scraped_time": "2026-09-13T19:10:46.327559+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Adidas",
-        "Jordan"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 4,
-      "summary": "It’s looking to be a hot week for the Jumpman enthusiasts. A storyline throughout this year, the “Space Jam” celebration earnestly begins as the Air... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Jordan 9 \"Space Jam,\" adidas AE3, And This Week's Best Releases appeared first on Sneaker News . The post Jordan 9 “Space Jam,” adidas AE3, And This Week’s Best Releases appeared first on Sneaker News .",
       "ren_take": "",
       "image_url": ""
     }
