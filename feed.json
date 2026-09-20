@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-19T19:18:51.205769+00:00",
-  "total_articles": 129,
-  "sources_checked": 61,
+  "last_updated": "2026-09-20T00:59:40.377180+00:00",
+  "total_articles": 127,
+  "sources_checked": 62,
   "articles": [
     {
       "id": "f96702bfd2cf",
@@ -451,6 +451,28 @@
       ],
       "relevance_score": 5,
       "summary": "Name: HOKA TOR SUMMIT LEATHER TP “Black”Colorway: Black/BlackSKU: 1182950-BBLCMSRP: ¥40,700 JPY (approx. $259 USD)Release Date: Available NowWhere to Buy: HOKAHOKA expands its rugged lifestyle offering with the TOR SUMMIT LEATHER TP in a tonal “Black” colorway. Rendered almost entirely in black, the shoe uses the leather’s subtle sheen to bring definition to its broad toe and side panels, while tonal rope laces, black metal eyelets and understated heel branding preserve the monochromatic finish.A woven tongue and padded collar introduce contrasting textures within the single-color palette, giving the upper greater visual depth without disrupting its restrained look. The silhouette itself continues to reference traditional mountaineering footwear, balancing a substantial hiking-shoe profile",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "747fe745ba77",
+      "title": "These Are the Best Shoes for Lower Back Pain, According to Podiatrists—Including Brooks, Hoka and More - EatingWell",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVmlKanNDcjJpWkVOZUlIN0xYZkp2QVNNOWZ6WFZhcFNIYnpzVU5EY2p0N3Jvdy1wOUdsSEhDQzNsa0pIYXZ5bU9lTElRNi15V1pwZmxkb0hYZUFQdW11U1BDUS0yT0RiUGFFa0xKR1Z0ai1yMkc4cjhIZlNabTZqc2x2Z0VFcGtBMGlsSFJWZHU1cm8?oc=5",
+      "original_publish_time": "2026-09-18T05:30:00+00:00",
+      "scraped_time": "2026-09-20T00:48:58.148731+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Brooks",
+        "Hoka"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 7,
+      "summary": "These Are the Best Shoes for Lower Back Pain, According to Podiatrists—Including Brooks, Hoka and More EatingWell",
       "ren_take": "",
       "image_url": ""
     },
@@ -2609,70 +2631,6 @@
       ],
       "relevance_score": 4,
       "summary": "Name: Timberland By Victor Kan F26 Euro Hiker GTXSKU: TBCRelease Date: October 2026Following the opening of his Third of June storefront in NYC earlier this year, Victor Kan is continuing his 2026 momentum by teaming up with Timberland for a curated take on the classic Euro Hiker GTX. Slated for an October release, the \"Timberland Curated By Victor Kan F26\" project brings a refined, streetwear-adjacent lens to the brand's rugged outdoor heritage. The collaborative boot preserves the utilitarian DNA of the original Euro Hiker while introducing a premium, weather-ready material construction built to navigate both city sidewalks and unpredictable fall climates.As revealed in the first look images, the silhouette arrives in an earthy, color-blocked palette anchored by a smooth taupe suede uppe",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "ead481b4a931",
-      "title": "“Pink Foam” Contrast Stitching Distinguishes This Nike Zoom Vomero 5",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/09/12/nike-zoom-vomero-5-black-pink-foam-dusty-pink-fj2028-005/",
-      "original_publish_time": "2026-09-12T22:00:53+00:00",
-      "scraped_time": "2026-09-13T00:41:18.036406+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "Not all pink sneakers are created equal. Far removed from the neon shades that dominate performance running, and from the traditionally “girly” colorways that follow... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post \"Pink Foam\" Contrast Stitching Distinguishes This Nike Zoom Vomero 5 appeared first on Sneaker News . The post “Pink Foam” Contrast Stitching Distinguishes This Nike Zoom Vomero 5 appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "a27b341510cb",
-      "title": "Nike’s Ultra-Ruggedized Forces Have Never Looked More Delicious",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-air-force-1-gore-tex-vibram-baroque-brown/",
-      "original_publish_time": "2026-09-12T20:59:49+00:00",
-      "scraped_time": "2026-09-13T00:44:49.767339+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike",
-        "Vibram"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 6,
-      "summary": "Nike's Air Force 1 Low GORE-TEX Vibram sneakers are back in a new \"Baroque Brown\" colorway. It's easily the tastiest version of the toughened model yet.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "211994f82c8c",
-      "title": "Nike’s Flyest Outdoor Boot Is Back Home for the Season",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-air-max-goamdome-black-volt/",
-      "original_publish_time": "2026-09-12T20:56:20+00:00",
-      "scraped_time": "2026-09-13T00:44:49.767993+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 5,
-      "summary": "Nike's ACG Air Max Goadome boot returns for the colder seasons in a new street-ready \"Black/Volt\" outfit.",
       "ren_take": "",
       "image_url": ""
     }
