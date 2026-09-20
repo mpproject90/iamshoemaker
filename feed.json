@@ -1,8 +1,28 @@
 {
-  "last_updated": "2026-09-20T09:42:31.727405+00:00",
+  "last_updated": "2026-09-20T14:43:56.696627+00:00",
   "total_articles": 128,
   "sources_checked": 61,
   "articles": [
+    {
+      "id": "f8438bbe8afa",
+      "title": "Mr. Diep Thanh Kiet: Securing raw materials is the number one priority for the footwear industry. - Vietnam.vn",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSFNmaGtaMWx6OG90VEt2WjliWF85ZWE0M3hqQi1hbUFNOVpmVUt0Y1FzQXJmRS1uZjZLN3FFN0NEMlY4Mkl4RkowdFNlUlhCNEtldXN5WkxMemJtRHhQemtQX2NiUXYyX2M3NFhPNzZ5TzZ6eWZvWnlwVEhUVzMtTlJVX1JmLXdTZGhCNzltZGdsRzJSalRYbzZHZXVRWDNUY0E?oc=5",
+      "original_publish_time": "2026-09-20T09:44:12+00:00",
+      "scraped_time": "2026-09-20T14:33:25.512197+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "footwear industry"
+      ],
+      "relevance_score": 6,
+      "summary": "Mr. Diep Thanh Kiet: Securing raw materials is the number one priority for the footwear industry. Vietnam.vn",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "5d626510daaf",
       "title": "NN.07 and Fracap Reunite for a Third M127 Boot Collaboration",
@@ -2626,27 +2646,6 @@
       "keywords_matched": [],
       "relevance_score": 4,
       "summary": "It’s looking to be a hot week for the Jumpman enthusiasts. A storyline throughout this year, the “Space Jam” celebration earnestly begins as the Air... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Jordan 9 \"Space Jam,\" adidas AE3, And This Week's Best Releases appeared first on Sneaker News . The post Jordan 9 “Space Jam,” adidas AE3, And This Week’s Best Releases appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "a18f1af4afe9",
-      "title": "adidas Made Slippers for Your Next Winter Hike",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/adidas-terrex-winter-slip-on-cold-rdy-boots/",
-      "original_publish_time": "2026-09-13T09:54:00+00:00",
-      "scraped_time": "2026-09-13T14:52:46.032583+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 3,
-      "summary": "Engineered to tackle freezing conditions without sacrificing aesthetics, the outdoor division presents the adidas Terrex Winter Slip-On COLD.RDY Boots.",
       "ren_take": "",
       "image_url": ""
     }
