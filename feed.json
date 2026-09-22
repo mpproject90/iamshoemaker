@@ -1,8 +1,156 @@
 {
-  "last_updated": "2026-09-22T15:37:21.855277+00:00",
-  "total_articles": 119,
+  "last_updated": "2026-09-22T20:14:59.949125+00:00",
+  "total_articles": 117,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "4a0601fe41e4",
+      "title": "Miu Miu’s Latest New Balance Collaborations: Leopard Print, Croc and Brand-new Ballerina Shoes",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/miu-miu-new-balance-530-sl-leopard-croc-ballerinas-1239253719/",
+      "original_publish_time": "2026-09-22T19:11:44+00:00",
+      "scraped_time": "2026-09-22T19:59:44.899415+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "New Balance"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 5,
+      "summary": "The just-launched fall 2026 Miu Miu x New Balance drop is available now.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "e6c2e4a944ef",
+      "title": "Nike’s Techy Mary Jane Sneaker Enters Its Plush Era",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-shox-z-calistra-velvet/",
+      "original_publish_time": "2026-09-22T19:07:42+00:00",
+      "scraped_time": "2026-09-22T20:07:50.581288+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "Nike's Shox Z Calistra lands with velvet uppers, resulting in the plushest version of the Mary Jane sneaker yet.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "20bf94f5bc1d",
+      "title": "The Nike LeBron Witness 10 Debuts This Holiday",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/09/22/nike-lebron-witness-10/",
+      "original_publish_time": "2026-09-22T18:30:31+00:00",
+      "scraped_time": "2026-09-22T19:59:55.740868+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "“New team, new shoes” is a phrase applicable to nearly half a dozen NBAers for this upcoming season. A product of both the increased player... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Nike LeBron Witness 10 Debuts This Holiday appeared first on Sneaker News . The post The Nike LeBron Witness 10 Debuts This Holiday appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "8f4e32e136b1",
+      "title": "From New Balance to Merrell, the Seven Best Sneakers to Cop This Week",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/sneaker-releases-2026-september-week-4/",
+      "original_publish_time": "2026-09-22T16:54:52+00:00",
+      "scraped_time": "2026-09-22T20:07:50.582153+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "New Balance",
+        "Merrell"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 8,
+      "summary": "From a heritage Merrell collab to a 3-D printed Nike Air Max, find here the seven best sneakers of the week.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "2b705715ec3f",
+      "title": "Puma’s Revolving Door Persists With Two More Executive Changes, With One Addition From Nike",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/puma-fokko-de-rooij-europe-managing-director-daniel-pustina-1239252790/",
+      "original_publish_time": "2026-09-22T16:34:58+00:00",
+      "scraped_time": "2026-09-22T19:59:44.902187+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Puma"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "Nike alum Fokko de Rooij is now Puma's new managing director of Europe. Daniel Pustina was promoted to managing director of Cluster Central.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "f68025d5f26f",
+      "title": "Nike and Zellerfeld Unveil the 3D-Printed AIRMAX 1000.3 \"Stone/Burgundy Crush\"",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/9/zellerfeld-nike-airmax-1000-3-stone-burgundy-crush-release-info",
+      "original_publish_time": "2026-09-22T16:00:40+00:00",
+      "scraped_time": "2026-09-22T19:59:55.612499+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Summary Nike Sportswear and Zellerfeld have introduced the AIRMAX 1000.3 in a Stone and Burgundy Crush colorwayThe third iteration of the fully 3D-printed silhouette features updated ZellerMESH construction for a softer and lighter feelThe sneaker drops via US SNKRS on September 24 followed by a global Zellerfeld raffle running through September 28 Nike and Zellerfeld have officially introduced the AIRMAX 1000.3 \"Stone/Burgundy Crush\", marking the latest evolution of their fully 3D-printed footwear project. Reimagining the iconic design language of the 1987 Air Max 1, the updated silhouette combines a sculpted form with visible Nike Air cushioning.Central to the AIRMAX 1000.3 is the integration of advanced ZellerMESH™ technology. The updated open-mesh structure delivers a refined textile-l",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "d18c556ef14d",
+      "title": "Timberland’s Premium 6-Inch Waterproof Boot Just Got a New Dressy Makeover That’s Available Right Now",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/timberland-premium-6-inch-waterproof-brogue-boot-2026-1239252499/",
+      "original_publish_time": "2026-09-22T15:45:12+00:00",
+      "scraped_time": "2026-09-22T19:59:44.902918+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Timberland"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 5,
+      "summary": "The brogue-inspired update is available in two full-grain leather styles.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "df2d1ed681ae",
       "title": "Chinese Footwear Label Pane Scores Funding From Shanghai-based BA Capital",
@@ -2282,193 +2430,6 @@
       ],
       "relevance_score": 3,
       "summary": "The “FC” line of adidas SPZL sneakers exists to give fans of football clubs not covered by adidas’ huge catalog of team-inspired pairs options that... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The adidas Gazelle SPZL Returns In Black And White appeared first on Sneaker News . The post The adidas Gazelle SPZL Returns In Black And White appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "858303b01218",
-      "title": "Dick’s Ed Stack: Inventory Misalignment Is the Problem in Athletic Footwear, Not Demand",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/dicks-ed-stack-athletic-footwear-overcapacity-legacy-shoes-1239234726/",
-      "original_publish_time": "2026-09-15T20:13:29+00:00",
-      "scraped_time": "2026-09-16T01:10:01.867413+00:00",
-      "time_delta_mins": 0,
-      "category": "Manufacturing",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "athletic footwear",
-        "footwear",
-        "shoes"
-      ],
-      "relevance_score": 7,
-      "summary": "Dick's executive chairman Ed Stack said athletic footwear's problem centers on overcapacity in legacy silhouettes and undercapacity on new shoes.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "782f55df452d",
-      "title": "The UNC Tar Heels Show Off Jordan Brand’s Full Golf Arsenal",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/09/15/air-jordan-1-low-spizike-pe-unc-golf-team/",
-      "original_publish_time": "2026-09-15T20:00:38+00:00",
-      "scraped_time": "2026-09-16T01:10:12.599334+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Nike",
-        "Jordan"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "With a run of Vaporposite colorways, Nike has shown the strength of their sponsored college roster once again, handing down game-ready exclusives to some of... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The UNC Tar Heels Show Off Jordan Brand’s Full Golf Arsenal appeared first on Sneaker News . The post The UNC Tar Heels Show Off Jordan Brand’s Full Golf Arsenal appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "aa4df8c55b73",
-      "title": "Nike’s Air Jordan Sneaker Looks Good in a “Chanel” Cardigan",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/jordan-1-low-boucle/",
-      "original_publish_time": "2026-09-15T19:09:53+00:00",
-      "scraped_time": "2026-09-16T01:13:45.141223+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike",
-        "Jordan"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 4,
-      "summary": "Nike reveals an Air Jordan 1 ow \"Bouclé\" sneaker which oozes Chanel flavor. Here's everything on the chic steppers.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "5f90f62e3e23",
-      "title": "adidas Made A Samba Climbing Shoe",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/09/15/adidas-samba-climbing-shoes/",
-      "original_publish_time": "2026-09-15T18:30:26+00:00",
-      "scraped_time": "2026-09-15T19:57:51.805348+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "Climbing shoes are in, not necessarily for climbing alone, but increasingly for lifestyle wear and other genres. Look no further than Village PM, Loewe, and... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post adidas Made A Samba Climbing Shoe appeared first on Sneaker News . The post adidas Made A Samba Climbing Shoe appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "1d88c5061a15",
-      "title": "Timberland’s Premium 6-inch Waterproof Boot Is Getting a New Limited-edition Release With Cow Print and Gator",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/politics-timberland-premium-6-inch-waterproof-boot-outlaw-rodeo-release-date-1239236381/",
-      "original_publish_time": "2026-09-15T18:14:19+00:00",
-      "scraped_time": "2026-09-15T19:57:40.832272+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Timberland"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 5,
-      "summary": "The cowboy boot-inspired project will be released this month in two styles.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "c587b2db3d4a",
-      "title": "The Nike Air Max 90 Keeps It Lowkey In “Cool Grey”",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/09/15/nike-air-max-90-cool-grey-light-army-black-ix7926-001/",
-      "original_publish_time": "2026-09-15T18:00:42+00:00",
-      "scraped_time": "2026-09-15T19:57:51.807082+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike",
-        "Adidas",
-        "ASICS"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 5,
-      "summary": "Before models like the ASICS GEL-1130 and adidas Samba became go-to everyday sneakers, that distinction belonged in part to the Nike Air Max 90, a... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Nike Air Max 90 Keeps It Lowkey In \"Cool Grey\" appeared first on Sneaker News . The post The Nike Air Max 90 Keeps It Lowkey In “Cool Grey” appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "6f9122fcc4e9",
-      "title": "'Tis the Season for Nike's Freshest Outdoor Air Max Boot",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-air-max-goadome-boots-2026/",
-      "original_publish_time": "2026-09-15T17:57:16+00:00",
-      "scraped_time": "2026-09-16T01:13:45.141826+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 5,
-      "summary": "It's Air Max Goadome season again, and Nike's restocking the ACG boot's classic colorways ahead of the fall.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "d24aaf076a24",
-      "title": "Sneaker Politics Turns Timberlands Into Cowboy Boots",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/09/15/sneaker-politics-timberland-ranch-outlaw/",
-      "original_publish_time": "2026-09-15T17:00:39+00:00",
-      "scraped_time": "2026-09-15T19:57:51.809808+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 5,
-      "summary": "Sneaker Politics has grown from just one Louisiana storefront into a Southern empire, now boasting half a dozen locations in both LA and now, TX.... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Sneaker Politics Turns Timberlands Into Cowboy Boots appeared first on Sneaker News . The post Sneaker Politics Turns Timberlands Into Cowboy Boots appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "793d0648e30b",
-      "title": "Timberland and Supreme’s Fan-favorite Premium 6-inch Waterproof Boot Collaboration Back This Week",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/supreme-timberland-diamond-plate-premium-6-inch-waterproof-boot-1239234734/",
-      "original_publish_time": "2026-09-15T15:39:53+00:00",
-      "scraped_time": "2026-09-15T19:57:40.835279+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Timberland"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 5,
-      "summary": "It's the return of the Supreme x Timberland Diamond Plate collaboration, which was released in 2023.",
       "ren_take": "",
       "image_url": ""
     }
