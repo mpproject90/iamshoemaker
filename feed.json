@@ -1,8 +1,152 @@
 {
-  "last_updated": "2026-09-22T09:42:03.254344+00:00",
-  "total_articles": 116,
+  "last_updated": "2026-09-22T15:37:21.855277+00:00",
+  "total_articles": 119,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "df2d1ed681ae",
+      "title": "Chinese Footwear Label Pane Scores Funding From Shanghai-based BA Capital",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/chinese-pane-funding-shanghai-based-ba-capital-1239251541/",
+      "original_publish_time": "2026-09-22T14:00:35+00:00",
+      "scraped_time": "2026-09-22T15:26:03.380163+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "BA Capital is known for its investments in Pop Mart, Labubu's parent company, Laopu Gold and Brompton.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "d715e23fa63f",
+      "title": "Inside the Making of Red Wing’s New Comfort-Focused Work Boot Line",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-features/red-wing-construct-work-boot-launch-1239244676/",
+      "original_publish_time": "2026-09-22T13:30:00+00:00",
+      "scraped_time": "2026-09-22T15:26:03.382026+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Red Wing"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 5,
+      "summary": "The Construct collection is launching for fall 2026.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "3d25bcfa7b1b",
+      "title": "ASICS' Lace-Free Dad Shoe Is Young at Heart — And Sole",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/camiel-fortgens-asics-gel-cumulus-16-velcro-sneaker/",
+      "original_publish_time": "2026-09-22T11:14:01+00:00",
+      "scraped_time": "2026-09-22T15:30:04.341251+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "ASICS"
+      ],
+      "keywords_matched": [
+        "sole"
+      ],
+      "relevance_score": 5,
+      "summary": "Camiel Fortgens turned ASICS' Gel-Cumulus 16 sneaker into a pre-school-approved runner.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "18b69bb41710",
+      "title": "Timberland’s Western Work Boot Brings the Bodega to the Barn",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/sneaker-politics-timberland-rodeo-work-boot/",
+      "original_publish_time": "2026-09-22T09:55:01+00:00",
+      "scraped_time": "2026-09-22T15:30:04.341863+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Timberland"
+      ],
+      "keywords_matched": [
+        "boot",
+        "hide"
+      ],
+      "relevance_score": 6,
+      "summary": "Sneaker Politics' cowhide \"Rodeo\" Timberland work boot is a whole new kind of cowboy boot.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "940736c13adb",
+      "title": "Vietnam's footwear industry faces new sustainability and modernization demands to maintain global prominence - Global Sources",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQanN1eWFsbUxrN0dFY0RLWFllTTlIRlZycjREdldyT1BpeHh2Q21ZUFZkZ2g4MGZiN19sS3NSV3ZhMTVJYVFWYnN1bFIzX3hUclBlRk0zY3BydTFrN2JrUmdtVUFXRF9zX215N2wwSFhWTTc0QUZmQ2dfbWo4Q2E5WlVrdlFCdU8wTWIyMnBpYmVSVWhLQm9aSGtoR01UU0NIZ1RaRVhsSXhheVBxSEhhSlJaTi0tcTFYb0ZQcWxrT0xQb2FELTljaFpxazR5ZVRNenFUWlNxRDNmYXdvUTNuMzduY3RZOVlKZWJjR2NTNHgwbDBPcnpxekJqb0VYWVp1VkU0V2Z3?oc=5",
+      "original_publish_time": "2026-09-22T09:54:52+00:00",
+      "scraped_time": "2026-09-22T15:26:26.356448+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "footwear industry"
+      ],
+      "relevance_score": 6,
+      "summary": "Vietnam's footwear industry faces new sustainability and modernization demands to maintain global prominence Global Sources",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "9efe487c7fb4",
+      "title": "Closer Look at the Nike LeBron 24 \"Chosen 1s\"",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/9/nike-lebron-24-chosen-1s-io8201-700-closer-look-release-info",
+      "original_publish_time": "2026-09-22T09:41:55+00:00",
+      "scraped_time": "2026-09-22T15:26:14.272606+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sole",
+        "upper"
+      ],
+      "relevance_score": 4,
+      "summary": "Summary LeBron James has debuted an early look at the upcoming Nike LeBron 24 \"Chosen 1s\" during a workout sessionThe performance silhouette features a commanding Tour Yellow upper paired with Metallic Gold and Midnight Navy accentsThe pair is scheduled to release in December 2026 for $190 USD Name: Nike LeBron 24 \"Chosen 1s\"Colorway: Tour Yellow/Midnight Navy-White-Metallic GoldSKU: IO8201-700MSRP: $190 USDRelease Date: December 1, 2026Where to Buy: NikeNike and LeBron James have provided a first look at the LeBron 24 \"Chosen 1s\". The basketball icon debuted the bold, vibrant colorway during an off-season training session alongside trainer Chris Johnson.Dressed predominantly in a monochromatic Tour Yellow hue, the upper and sole unit dominate the design's overall footprint. Subdued hits o",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "6721d51c70f1",
+      "title": "Prabowo Meets BRIN Chief, Ministers to Boost Textile, Footwear Industries - jakartaglobe.id",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORVhmZGVUblRPZ1ZDWllhd2l6V19Cc0hySzJrYTE4bmMwT0c4ZXFHakJKcUZHa1VVdVlvS0VsWG9GZDJXMjBFVERSbmNXRzgyTXBPbS1hUjhvcFlfNmd1U0ZCbHFTdkVoSTkyaGZmdF8zNVlRRjYzdVo2TWVLOWR5enBreGxxdG1KMTlmb1c2YnpwSmhGRV9uNGhocHA2MGNPNl9qWFR6dw?oc=5",
+      "original_publish_time": "2026-09-22T09:32:00+00:00",
+      "scraped_time": "2026-09-22T15:26:26.357044+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Prabowo Meets BRIN Chief, Ministers to Boost Textile, Footwear Industries jakartaglobe.id",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "0aa89af1ce61",
       "title": "Nike Honors Caitlin Clark’s Kansas City Fandom With the Caitlin 1 \"Chiefs\"",
@@ -89,6 +233,26 @@
       ],
       "relevance_score": 5,
       "summary": "Name: Jacquemus x Nike Moon Shoe “Emerald Rise”Colorway: Emerald Rise/Blue Cap-Ghost-Pale IvorySKU: HV8547-300MSRP: $180 USDRelease Date: Available nowWhere to Buy: JacquemusJacquemus and Nike are back with a new take on the Moon Shoe, wrapping the running icon in a Miami-inspired \"Emerald Rise\" colorway. The collaboration continues Simon Porte Jacquemus's ongoing rework of the silhouette, layering a coastal color story over the model's now-signature ballet-adjacent build.At its core, this remains the Moon Shoe as Jacquemus has come to interpret it. The design holds onto the ruched nylon upper that gives the shoe its soft, gathered texture, paired with a Nike Grind outsole that nods to the brand's sustainability efforts and its deep running lineage. The overall shape leans into a modern, b",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "c37723c63cd4",
+      "title": "Converse pulls advert and apologises after backlash over alleged KKK imagery",
+      "source_name": "Retail Gazette",
+      "source_domain": "retailgazette.co.uk",
+      "source_url": "https://www.retailgazette.co.uk/blog/2026/09/converse-pulls-advert-and-apologises-after-backlash-over-alleged-kkk-imagery/",
+      "original_publish_time": "2026-09-22T07:21:03+00:00",
+      "scraped_time": "2026-09-22T15:29:31.975018+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Nike",
+        "Converse"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "Converse has pulled an advertising campaign and issued an apology after it faced widespread criticism over imagery that some consumers said evoked the Ku Klux Klan and lynching. The Nike-owned brand removed the image from its social media channels following a backlash over an advert promoting its Chuck 70 X trainers with K-pop star Karina,...",
       "ren_take": "",
       "image_url": ""
     },
@@ -2305,109 +2469,6 @@
       ],
       "relevance_score": 5,
       "summary": "It's the return of the Supreme x Timberland Diamond Plate collaboration, which was released in 2023.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "3f8b54c9bd53",
-      "title": "Supreme Is Bringing Back Diamond Plate Timberland Boots",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/09/15/supreme-timberland-diamond-plate-boots-fw26/",
-      "original_publish_time": "2026-09-15T15:00:09+00:00",
-      "scraped_time": "2026-09-15T15:27:32.395412+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Timberland"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 5,
-      "summary": "When Supreme and Timberland link up, there’s historically been a very small window to get a pair before they disappear for good. The New York... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Supreme Is Bringing Back Diamond Plate Timberland Boots appeared first on Sneaker News . The post Supreme Is Bringing Back Diamond Plate Timberland Boots appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "213efc4bb84d",
-      "title": "Tara McRae, Puma’s Former North American President, Heads to Skechers",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/skechers-chief-marketing-officer-tara-mcrae-puma-1239234649/",
-      "original_publish_time": "2026-09-15T14:52:47+00:00",
-      "scraped_time": "2026-09-15T15:27:21.701087+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Puma",
-        "Skechers"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 4,
-      "summary": "Her appointment comes one year after Skechers officially went private last September.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "70c1cf0f6407",
-      "title": "Boots launches ‘Confidence Booths’ nationwide",
-      "source_name": "Retail Gazette",
-      "source_domain": "retailgazette.co.uk",
-      "source_url": "https://www.retailgazette.co.uk/blog/2026/09/boots-confidence-booths/",
-      "original_publish_time": "2026-09-15T10:40:34+00:00",
-      "scraped_time": "2026-09-15T15:30:32.477071+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 3,
-      "summary": "To support its new campaign, ‘Give it Some Boots’, the retailer will run pop-up ‘Confidence Booths’ across the UK. The new booths allow people to “stretch their comfort zone through the power of music”. This follows research from the retailer which highlighted 68 per cent of people say music can change their mood instantly and...",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "a150f5c792e0",
-      "title": "Footwear industry embarks on largest investment ever - Portugal Resident",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMERHTDhZMHdkLWItV1hNUmtGSDhlX1ZESU5CbVJ0ckxJTzNlUjJKV1pJclVWX1oyXzZpVjAxT0ZDVmVPd09nVkZrOVVtU1luVDI2TGE5MG80TE9sc2NoaGpyank4MjF0R0pnTmU0UzkxNDJZQmNJZi1KM0piemFwRHBMTnJmdVE3QkhuLW5rWQ?oc=5",
-      "original_publish_time": "2026-09-15T10:30:59+00:00",
-      "scraped_time": "2026-09-15T15:27:43.372038+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "footwear industry"
-      ],
-      "relevance_score": 6,
-      "summary": "Footwear industry embarks on largest investment ever Portugal Resident",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "a6a0fa567180",
-      "title": "Kith and Assouline Announce 'Kith: The Footwear Archive' Celebrating 15-Year History",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/9/assouline-kith-the-footwear-archive-celebrating-15-year-history-launch-release-info",
-      "original_publish_time": "2026-09-15T09:56:35+00:00",
-      "scraped_time": "2026-09-15T15:27:32.264788+00:00",
-      "time_delta_mins": 0,
-      "category": "Quality",
-      "brands_mentioned": [
-        "Adidas",
-        "ASICS",
-        "Clarks"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 6,
-      "summary": "Summary Kith has partnered with luxury publisher Assouline to launch 'Kith: The Footwear Archive' in celebration of the brand's 15th anniversaryShot by photographer Tyler Mansour the 444-page book features over 1,800 released footwear models and developmental prototypesThe Classic Edition releases on September 30 2026 alongside a 300-unit Ultimate Edition housed in a monogrammed leather clamshell Kith and publisher Assouline have officially announced Kith: The Footwear Archive, a 444-page catalogue raisonné celebrating the lifestyle brand's 15th anniversary. Created to document the footwear category that defined founder Ronnie Fieg's creative career, the publication features over 1,800 collaborative models and developmental prototypes across partnerships with adidas, ASICS, Clarks Original",
       "ren_take": "",
       "image_url": ""
     }
