@@ -1,8 +1,135 @@
 {
-  "last_updated": "2026-09-23T09:47:40.441372+00:00",
+  "last_updated": "2026-09-23T15:30:57.640900+00:00",
   "total_articles": 113,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "df339023da7f",
+      "title": "adidas Springblade Is Making A Comeback",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/09/23/adidas-springblade-2026-2027/",
+      "original_publish_time": "2026-09-23T14:30:29+00:00",
+      "scraped_time": "2026-09-23T15:20:01.955729+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "The adidas Springblade is expected to return in late 2026 or early 2027, bringing one of the brand’s most unconventional running shoes back to market... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post adidas Springblade Is Making A Comeback appeared first on Sneaker News . The post adidas Springblade Is Making A Comeback appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "69d3b934b715",
+      "title": "Chloë Sevigny Describes What Makes Her ‘Sole Bounce’ in New Dr. Martens Campaign",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/chloe-sevigny-dr-martens-campaign-jordan-stephens-1239254624/",
+      "original_publish_time": "2026-09-23T11:00:00+00:00",
+      "scraped_time": "2026-09-23T15:19:50.777858+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Dr. Martens",
+        "Jordan"
+      ],
+      "keywords_matched": [
+        "sole"
+      ],
+      "relevance_score": 6,
+      "summary": "Musician Jordan Stephens and comedian Naomi Watanabe also appear in the campaign.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "434b30184f86",
+      "title": "J. Cole Unveils His First Independent Sneaker Silhouette, the Dreamer Indie 5000",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/9/j-cole-his-first-independent-sneaker-silhouette-dreamer-indie-5000-release-info",
+      "original_publish_time": "2026-09-23T10:10:54+00:00",
+      "scraped_time": "2026-09-23T15:20:01.813626+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Puma"
+      ],
+      "keywords_matched": [
+        "footwear",
+        "sole",
+        "upper"
+      ],
+      "relevance_score": 4,
+      "summary": "Summary J. Cole is releasing his first independent footwear silhouette dubbed the Dreamer Indie 5000Crafted in Italy the retro basketball-inspired design features synthetic overlays across the upper and sole unitThe sneaker launches on September 23 in Fayetteville North Carolina with pricing details currently TBA J. Cole and his Dreamer label have officially introduced the Dreamer Indie 5000, marking the rapper's first independent sneaker release. Tthe silhouette follows Cole's previous partnership with PUMA and represents several years of independent footwear development.Crafted in Italy, the sneaker draws visual design cues from retro basketball footwear, featuring an aesthetic reminiscent of classic multi-panel trainers. The upper utilizes synthetic overlays that zig and zag across the ",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "b47d14dba66d",
+      "title": "New Balance Ignites the 2010 Silhouette With a Glossy \"Firecracker/Sea Salt\" Colorway",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/9/new-balance-2010-firecracker-sea-salt-u20101z0-official-look-release-info",
+      "original_publish_time": "2026-09-23T09:57:43+00:00",
+      "scraped_time": "2026-09-23T15:20:01.816056+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "New Balance"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "Summary New Balance has unveiled the 2010 in a bold Firecracker and Sea Salt color schemeThe lifestyle runner features glossy black overlays contrasting against lighter Sea Salt textiles and bright red accentsThe pair is currently available overseas with a stateside release scheduled for Fall/Winter 2026 Name: New Balance 2010 \"Firecracker/Sea Salt\"Colorway: Firecracker/Sea SaltSKU: U20101Z0MSRP: $145 USDRelease Date: Fall/Winter 2026Where to Buy: New BalanceNew Balance has officially unveiled the New Balance 2010 \"Firecracker/Sea Salt\", applying a high-contrast palette to the retro-inspired running silhouette. The dark iteration combines vibrant red detailing with glossy overlays and a light textile foundation.Constructed with a multi-textured upper, the shoe utilizes exposed Sea Salt mes",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "f31c42f94f3b",
+      "title": "Bangladesh opens dedicated desk to boost apparel exports to Japan",
+      "source_name": "Textile Today",
+      "source_domain": "textiletoday.com.bd",
+      "source_url": "https://textiletoday.com.bd/bangladesh-opens-dedicated-desk-to-boost-apparel-exports-to-japan",
+      "original_publish_time": "2026-09-23T09:43:00+00:00",
+      "scraped_time": "2026-09-23T15:24:00.838174+00:00",
+      "time_delta_mins": 0,
+      "category": "Trade Data",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "apparel exports"
+      ],
+      "relevance_score": 3,
+      "summary": "Bangladesh is taking new measures to expand its apparel exports to Japan, including the launch of a dedicated desk at the Bangladesh Garment Manufacturers and Exporters Association (BGMEA) to support...",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "9e36d091a1ed",
+      "title": "Nike Prepares Ja Morant's Twelve Time Silhouette for \"Halloween\"",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/9/nike-twelve-time-halloween-im4164-002-official-look-release-info",
+      "original_publish_time": "2026-09-23T09:37:08+00:00",
+      "scraped_time": "2026-09-23T15:20:01.817783+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "Summary Nike Basketball is dressing Ja Morant's Twelve Time silhouette in a spooky Halloween color schemeThe design pairs an Iron Grey upper with dark overlays bright orange accents and metallic silver brandingThe holiday-themed basketball shoe is slated to drop during the Fall/Winter 2026 season for 95 USD Name: Nike Twelve Time \"Halloween\"Colorway: Black/Pale Ivory-Iron Grey-Metallic SilverSKU: IM4164-002MSRP: $95 USDRelease Date: Fall/Winter 2026Where to Buy: NikeNike and Ja Morant are gearing up for the spooky season with the reveal of the Nike Twelve Time \"Halloween.\" The upcoming release applies a dark, holiday-inspired palette to the NBA star's signature performance model. Dressed in a \"Black/Pale Ivory/Iron Grey/Metallic Silver\" color scheme, the sneaker utilizes an Iron Grey upper",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "57285b997e3a",
       "title": "Nike Darkens the Air Force 1 Low \"Ghostface\" With an All-Black Colorway",
@@ -591,6 +718,25 @@
       "keywords_matched": [],
       "relevance_score": 3,
       "summary": "Converse has pulled an advertising campaign and issued an apology after it faced widespread criticism over imagery that some consumers said evoked the Ku Klux Klan and lynching. The Nike-owned brand removed the image from its social media channels following a backlash over an advert promoting its Chuck 70 X trainers with K-pop star Karina,...",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "b65c9d168908",
+      "title": "Winners And Losers Of Q2: Caleres (NYSE:CAL) Vs The Rest Of The Consumer Discretionary - Footwear Stocks - StockStory",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPVUlrSkcwTXdTNFBsYV9yNV9lQjl1aWw2RW1tNzEyMnZXeVNNc1ZndlZJdUV4TWN6ajlaZFZRMjFJWUdBRE51bnhteHFtX1pqS0JpWGk0R29qeDNXdXg5SHY3Mkd5SEJMMmJnOTg5cm1xOWltZXhzNmgtOG03dVhxcGUtRUFYZ2Rma3BIN1hMRXRmekNZYmVmN2V0TU82SHYzTWNWWjBZODZDTnlBN0JXbWFjMHo3dldfVDJuYTR0NUxhZ182THRNbXpSZHh4cm13M09qVGEwNUtVZ3llRGt1aXl2bEVHbzFFRHc?oc=5",
+      "original_publish_time": "2026-09-22T07:00:00+00:00",
+      "scraped_time": "2026-09-23T15:20:12.891175+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Winners And Losers Of Q2: Caleres (NYSE:CAL) Vs The Rest Of The Consumer Discretionary - Footwear Stocks StockStory",
       "ren_take": "",
       "image_url": ""
     },
@@ -2203,146 +2349,6 @@
       ],
       "relevance_score": 3,
       "summary": "A slew of pumps with playful insect-inspired designs were featured in Thom Browne's latest presentation.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "94efcb60e21a",
-      "title": "Aigle appoints Chris Kyvetos to lead its Lifeproof footwear range - FashionNetwork - The World's Fashion Business News",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOejNGOGU2eTF2THdxYXVocDNBWUdPS1BtUE5Id1JTWkprVVQzT3hjd2ZPbXFEYlZIZTdHcTROQ3B5azlLeGpDVHl0ZWc3SHcxbHBsYktTejJQcWdtWjdWemNrMVo3SHpraEtKaXdxZ0w3RTUzVmdqcU5xdnFYMmlwemlRZGdNUVowTWpyamtnT3dwbWZyakdiQ2VYRERZVnBiazdEQlppaVdYMGtMTVpGSnhhZw?oc=5",
-      "original_publish_time": "2026-09-16T14:30:00+00:00",
-      "scraped_time": "2026-09-17T09:42:22.924323+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Aigle appoints Chris Kyvetos to lead its Lifeproof footwear range FashionNetwork - The World's Fashion Business News",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "3d4c3664c9db",
-      "title": "Tory Burch Raises the Bar Again With Spring 2027 Shoes That Are Edgy and Intricate",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-trends/tory-burch-spring-2027-shoes-1239236605/",
-      "original_publish_time": "2026-09-16T14:09:57+00:00",
-      "scraped_time": "2026-09-16T15:20:17.176009+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "shoes"
-      ],
-      "relevance_score": 4,
-      "summary": "Burch said of the lineup, \"I have to say our footwear are probably my favorite shoes we’ve done.\"",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "6aaee4cbb5bb",
-      "title": "Nike’s Air Max 95 Goes Nude",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-air-max-95-sneaker-nude/",
-      "original_publish_time": "2026-09-16T12:53:03+00:00",
-      "scraped_time": "2026-09-16T15:24:18.743896+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "Nike's nude-toned Air Max 95 sneaker is a neutral take on one of the Swoosh's best sneakers to date.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "4481312aa0e3",
-      "title": "Rizvi calls for policy-level attention for leather industry development - The Business Standard",
-      "source_name": "Google News - Leather Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTnhzX0puN2NQNm11aUgzWU9VTGstUFRBbW5iWVk0cjJ5Q3hhWGlvZFdjMEdFUklVUlVRYUpDYTNNNExiNmxFNnBLOWtubG81aEEtSkQ0a2R1WFRwNTd5T1p2dnhJNlNLNzdSeFZaUnUzY2dSX2Q5b3FuQVVuRlVkaUdEUUN3bng0RXlCaUNiX3lIaW1ib1ZRa3JOWWpmamJhQ3Vab0s3RDl2Zw?oc=5",
-      "original_publish_time": "2026-09-16T12:37:06+00:00",
-      "scraped_time": "2026-09-23T09:36:32.914122+00:00",
-      "time_delta_mins": 0,
-      "category": "Quality",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "leather industry"
-      ],
-      "relevance_score": 3,
-      "summary": "Rizvi calls for policy-level attention for leather industry development The Business Standard",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "8afa82a4c2eb",
-      "title": "WORKSOUT Puts Its All-over Cartoon Graphics on the Vans Premium Authentic",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/9/worksout-puts-its-all-over-cartoon-graphics-on-the-vans-premium-authentic",
-      "original_publish_time": "2026-09-16T11:37:52+00:00",
-      "scraped_time": "2026-09-16T15:20:27.775874+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Vans"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Name: WORKSOUT x Vans Premium Authentic “WORKGU SAN?”Colorway: White, BlueSKU: TBCMSRP: TBCRelease Date: September 17Where to Buy: WORKSOUTSouth Korean select shop WORKSOUT is teaming up with Vans to release a playful, collaborative take on the Premium Authentic silhouette, officially dubbed the \"WORKGU SAN?\" pack. Scheduled to launch exclusively at WORKSOUT Aoyama in Japan on September 17, 2026, this partnership reimagines the classic canvas sneaker through a whimsical lens.Built around the thematic concept of finding \"unexpected fun encountered in a boring everyday life,\" the design brings a lighthearted, contemporary twist to the heritage footwear model. The release draws heavily on WORKSOUT's distinct brand identity, seamlessly merging Vans' elevated Premium series construction with th",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "8a9f7623d264",
-      "title": "Europe's footwear machinery sector looks to automation through 2045 - Fibre2Fashion",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNb3ViU2NhYTFKY0E3WkZUVWVJTXFYMG5weEp4LXdremx4Uy03ZXZza0Faal84Q0d5WVhLWUtuTlVnWk82dWN1cjBZbUZMbDBnQ3JoN3JPZzNma1V3bmVxTi1HOW9lb01KRFVXM004eG1uV0tMTkh6VFVRTXIySnZvLTB6RFhzX2N3WWJLR0MydmNWLUVTM0V3Rmt5OWdMaUV5YVQxcEp4WWp5Ul94dHMwODdJbHJuMWQ5YWY3dlVhclNzTHlWQjVCZk5NVkM3dmdlN216Yg?oc=5",
-      "original_publish_time": "2026-09-16T10:50:37+00:00",
-      "scraped_time": "2026-09-16T15:20:38.800718+00:00",
-      "time_delta_mins": 0,
-      "category": "Manufacturing",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Europe's footwear machinery sector looks to automation through 2045 Fibre2Fashion",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "874293d1f21e",
-      "title": "Timberland Collaborates With Japanese Rapper Kohjiya for an Elevated Field Boot",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/9/timberland-kohjiya-waterproof-field-boots-release-info",
-      "original_publish_time": "2026-09-16T10:43:50+00:00",
-      "scraped_time": "2026-09-16T15:20:27.778070+00:00",
-      "time_delta_mins": 0,
-      "category": "Quality",
-      "brands_mentioned": [
-        "Timberland"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 5,
-      "summary": "Name: Timberland x Kohjiya Waterproof Field BootsColorway: TBCSKU: TBCMSRP: ¥30,800 JPY (approx. $199 USD)Release Date: September 26Where to Buy: TimberlandTimberland has partnered with Japanese artist Kohjiya to release a limited-edition Waterproof Field Boot, available from September 26, 2026, at Timberland Boutique Tokyo and Timberland Shibuya PARCO.Retaining the robust, weather-ready construction that made the Field Boot famous, this premium iteration elevates the standard silhouette through deeply personal, customized detailing. The heel of the boot features intricate engravings that pay homage to the artist's roots: his signature \"KJ\" logo, inspired by his personal necklace charm, alongside a dove motif that serves as a symbol of his hometown, Nagasaki. Further cementing the boot's c",
       "ren_take": "",
       "image_url": ""
     }
