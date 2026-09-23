@@ -1,8 +1,50 @@
 {
-  "last_updated": "2026-09-22T20:14:59.949125+00:00",
+  "last_updated": "2026-09-23T01:30:35.404197+00:00",
   "total_articles": 117,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "541a78c2504c",
+      "title": "Mbappe Is Still Wearing Nike Boots Despite His New On Deal — and The Swoosh Had a Subtle Response",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/kylian-mbappe-nike-boots-post-on-deal-1239253749/",
+      "original_publish_time": "2026-09-22T20:08:57+00:00",
+      "scraped_time": "2026-09-23T01:19:38.920001+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 5,
+      "summary": "A plain white pair of Mercurial boots didn't go unnoticed.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "c825ffd9ca31",
+      "title": "Willy Chavarria’s adidas Megaride Releasing As A High Top Boot",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/09/22/willy-chavarria-adidas-megaride-high-black-kj2033-kj2034/",
+      "original_publish_time": "2026-09-22T20:00:45+00:00",
+      "scraped_time": "2026-09-23T01:19:49.621409+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 5,
+      "summary": "Willy Chavarria has proven his ability to think outside the box with his adidas collabs, bringing his transformative powers to multiple silhouettes and thriving at... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Willy Chavarria’s adidas Megaride Releasing As A High Top Boot appeared first on Sneaker News . The post Willy Chavarria’s adidas Megaride Releasing As A High Top Boot appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "4a0601fe41e4",
       "title": "Miu Miu’s Latest New Balance Collaborations: Leopard Print, Croc and Brand-new Ballerina Shoes",
@@ -2390,46 +2432,6 @@
       ],
       "relevance_score": 6,
       "summary": "Bangladesh targets $5bn footwear exports as Trump tariffs erode China’s US market share The Financial Express",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "de6621d84e39",
-      "title": "Sarah Burton’s Shark Pinch Boot Bites Back",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/sarah-burtons-shark-pinch-boot-bites-back/",
-      "original_publish_time": "2026-09-15T21:00:36+00:00",
-      "scraped_time": "2026-09-16T01:13:45.139719+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 3,
-      "summary": "At the outset of summer, shark-mania is a mania that cyclically reinvents itself to no exhaustion. Now, at the tail-end of the season, it seems the same can be said for another type of shark-mania, that which surrounds Givenchy’s Shark Boot, as the house welcomes yet another stunning spin on its highly coveted shoe—the Shark Pinch.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "1663801003a4",
-      "title": "The adidas Gazelle SPZL Returns In Black And White",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/09/15/adidas-gazelle-spzl-fc-hp4248/",
-      "original_publish_time": "2026-09-15T21:00:25+00:00",
-      "scraped_time": "2026-09-16T01:10:12.597631+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "The “FC” line of adidas SPZL sneakers exists to give fans of football clubs not covered by adidas’ huge catalog of team-inspired pairs options that... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The adidas Gazelle SPZL Returns In Black And White appeared first on Sneaker News . The post The adidas Gazelle SPZL Returns In Black And White appeared first on Sneaker News .",
       "ren_take": "",
       "image_url": ""
     }
