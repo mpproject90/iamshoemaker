@@ -1,8 +1,137 @@
 {
-  "last_updated": "2026-09-23T15:30:57.640900+00:00",
-  "total_articles": 113,
+  "last_updated": "2026-09-23T20:07:56.434048+00:00",
+  "total_articles": 114,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "e2794b171a2c",
+      "title": "A.P.C.’s New Clarks Desert Boots and Weavers Come With Their Own Shoe Charms",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/apc-clarks-desert-boots-weaver-release-date-1239257756/",
+      "original_publish_time": "2026-09-23T19:37:45+00:00",
+      "scraped_time": "2026-09-23T19:56:53.663665+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Clarks"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 5,
+      "summary": "The Weaver shoe is celebrating its 50th anniversary in 2027.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "1db0e589510b",
+      "title": "Vans Revives The Old Skool For Dia De Los Muertos",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/09/23/vans-dia-de-los-muertos-2026/",
+      "original_publish_time": "2026-09-23T19:00:57+00:00",
+      "scraped_time": "2026-09-23T19:57:04.862926+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Vans"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 4,
+      "summary": "Halloween shoes are all the rage as October is very nearly here; the Nike Basketball “Halloween” set has made that a constant through-line on our... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Vans Revives The Old Skool For Dia De Los Muertos appeared first on Sneaker News . The post Vans Revives The Old Skool For Dia De Los Muertos appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "341e5a6500c6",
+      "title": "The Best adidas Sneaker Releases This Week",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/adidas-sneaker-releases-september-week-4/",
+      "original_publish_time": "2026-09-23T16:59:15+00:00",
+      "scraped_time": "2026-09-23T20:00:44.813458+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "shoes",
+        "sneakers"
+      ],
+      "relevance_score": 4,
+      "summary": "In this iteration of our weekly adidas round-up, find everything from Pokémon runners to nostalgic skate shoes. Oh, and some regular sneakers, too.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "e29592639bbf",
+      "title": "Nike Reinforces the Air Max 95 for Winter With Gore-Tex",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-air-max-95-gore-tex-release-date-io1877-001-1239256903/",
+      "original_publish_time": "2026-09-23T16:34:50+00:00",
+      "scraped_time": "2026-09-23T19:56:53.666233+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "The waterproof sneaker also adds more durable rubber and ripstop on its upper.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "6fc60b5c5e95",
+      "title": "Everlane Taps L.A. Shoe Brand Collegium on Capsule of Sneakers, Loafers and More",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/everlane-collegium-shoe-collection-release-date-1239256661/",
+      "original_publish_time": "2026-09-23T15:50:16+00:00",
+      "scraped_time": "2026-09-23T19:56:53.666946+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "shoe brand",
+        "sneakers"
+      ],
+      "relevance_score": 7,
+      "summary": "The five-piece footwear collection is now available.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "5fc9d6255828",
+      "title": "Shoe Highlights From London Fashion Week: Armadillo Heels, Iridescent Crocs and More",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-trends/shoe-highlights-london-fashion-week-spring-2027-mcqueen-puma-cros-1239255186/",
+      "original_publish_time": "2026-09-23T15:08:04+00:00",
+      "scraped_time": "2026-09-23T19:56:53.667539+00:00",
+      "time_delta_mins": 0,
+      "category": "Trade Data",
+      "brands_mentioned": [
+        "Puma",
+        "Crocs"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 4,
+      "summary": "Plus a colorful collaboration between Ahluwalia x Puma and the digital debut of Koshik, a newly established Armenian luxury footwear label.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "df339023da7f",
       "title": "adidas Springblade Is Making A Comeback",
@@ -2248,107 +2377,6 @@
       ],
       "relevance_score": 3,
       "summary": "As feminine design has crested in the realm of sneakers, Naked Copenhagen has found themselves as a real beneficiary. With brands scrambling either to establish... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Naked CPH And Asics Unite For A Sunset-Colored GEL-Cumulus 16 appeared first on Sneaker News . The post Naked CPH And Asics Unite For A Sunset-Colored GEL-Cumulus 16 appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "a8b04058379b",
-      "title": "Y-3’s Beast Pack Returns As adidas Football Cleats",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/09/16/adidas-y-3-adizero-electric-plus-ii-beast-pack/",
-      "original_publish_time": "2026-09-16T20:00:51+00:00",
-      "scraped_time": "2026-09-17T01:10:46.338272+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 3,
-      "summary": "To celebrate the 20th anniversary of its original release, Y-3 and adidas uncaged the “Beast Pack” once more, retrofitted for the “#bootsonlysummer” movement with a... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Y-3’s Beast Pack Returns As adidas Football Cleats appeared first on Sneaker News . The post Y-3’s Beast Pack Returns As adidas Football Cleats appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "2e8339f8fcc8",
-      "title": "Brain Dead And adidas Ascend The Climbing Shoe Wave",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/09/16/brain-dead-adidas-five-ten-guide-tennie-approach/",
-      "original_publish_time": "2026-09-16T17:30:50+00:00",
-      "scraped_time": "2026-09-16T19:50:11.273711+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "No major footwear brand is as prepared for the inbound climbing shoe wave as adidas, something the German sneaker giant unknowingly set itself up for... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Brain Dead And adidas Ascend The Climbing Shoe Wave appeared first on Sneaker News . The post Brain Dead And adidas Ascend The Climbing Shoe Wave appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "99759b19ba0d",
-      "title": "Kith And On Running Debut Fall 2026 Collection With New Lifestyle Shoe",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/09/16/kith-on-running-k-tech-fall-2026/",
-      "original_publish_time": "2026-09-16T16:30:01+00:00",
-      "scraped_time": "2026-09-16T19:50:11.275976+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "On Running"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Few footwear partnerships feel as well-suited to the modern consumer as Kith x On Running, combining one of the biggest names in elevated streetwear with... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Kith And On Running Debut Fall 2026 Collection With New Lifestyle Shoe appeared first on Sneaker News . The post Kith And On Running Debut Fall 2026 Collection With New Lifestyle Shoe appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "005fa0b31dc1",
-      "title": "Aimé Leon Dore and The North Face Reunite With Approach Shoes, Fleece Rugbies and a Ballistic Vest",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/aime-leon-dore-the-north-face-second-collection-release-date-1239238864/",
-      "original_publish_time": "2026-09-16T16:08:25+00:00",
-      "scraped_time": "2026-09-16T19:50:00.448420+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "The collaborators' second collection releases this week.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "4c227c971f0b",
-      "title": "Thom Browne’s Spring 2027 Collection Takes ‘A Bug’s Life’ Inspiration Down to the Shoes",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-trends/thom-browne-spring-2027-shoes-a-bugs-life-1239238400/",
-      "original_publish_time": "2026-09-16T15:58:43+00:00",
-      "scraped_time": "2026-09-16T19:50:00.450820+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "A slew of pumps with playful insect-inspired designs were featured in Thom Browne's latest presentation.",
       "ren_take": "",
       "image_url": ""
     }
