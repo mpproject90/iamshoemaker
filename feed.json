@@ -1,8 +1,49 @@
 {
-  "last_updated": "2026-09-23T20:07:56.434048+00:00",
-  "total_articles": 114,
-  "sources_checked": 60,
+  "last_updated": "2026-09-24T01:25:11.763534+00:00",
+  "total_articles": 115,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "32d6eaafee9a",
+      "title": "Even the Most Basic of Basics Look Better Patchworked",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/new-era-birkenstock-patchwork/",
+      "original_publish_time": "2026-09-23T21:22:02+00:00",
+      "scraped_time": "2026-09-24T01:17:55.186369+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Vans",
+        "Birkenstock"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "The resurgence of patchwork takes on classic pieces from New Era, Birkenstock, and Vans proves that clothing brands are firmly in their fun era.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "921e22996980",
+      "title": "SoleFly’s Air Jordan 5 Collaboration Is Revealed",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/09/23/solely-air-jordan-5-iu0734-001-release-date/",
+      "original_publish_time": "2026-09-23T20:58:02+00:00",
+      "scraped_time": "2026-09-24T01:14:22.756543+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Jordan"
+      ],
+      "keywords_matched": [
+        "sole"
+      ],
+      "relevance_score": 5,
+      "summary": "The SoleFly x Air Jordan 5 has received its latest official preview courtesy of Jordan Brand, with the Miami retailer’s newest collaboration expected to arrive... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post SoleFly's Air Jordan 5 Collaboration Is Revealed appeared first on Sneaker News . The post SoleFly’s Air Jordan 5 Collaboration Is Revealed appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "e2794b171a2c",
       "title": "A.P.C.’s New Clarks Desert Boots and Weavers Come With Their Own Shoe Charms",
@@ -235,6 +276,26 @@
       ],
       "relevance_score": 3,
       "summary": "Bangladesh is taking new measures to expand its apparel exports to Japan, including the launch of a dedicated desk at the Bangladesh Garment Manufacturers and Exporters Association (BGMEA) to support...",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "efe8ad638a74",
+      "title": "Full production cycle for the leather and footwear industry takes shape in Altynkul. - president.uz",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9RbWE0UjhOeUhVLV94TDMzenpVSGFwZklUUTFqWExtb2NQTHdqc1k1b0R3N3ZfLVoxblpLVzM3MVY5OFNaVnQ0ZEU1MmpjbXdU?oc=5",
+      "original_publish_time": "2026-09-23T09:38:04+00:00",
+      "scraped_time": "2026-09-24T01:14:33.839716+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "footwear industry"
+      ],
+      "relevance_score": 6,
+      "summary": "Full production cycle for the leather and footwear industry takes shape in Altynkul. president.uz",
       "ren_take": "",
       "image_url": ""
     },
@@ -2336,47 +2397,6 @@
       ],
       "relevance_score": 3,
       "summary": "Thursday's launch also includes a new slide-on loafer.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "3d40551e87a6",
-      "title": "Brazilian footwear exports remain under pressure - World Footwear",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZ1J1WW9vaUFKaGRseVFPM0xSWDZmcjJWRVRWRUJPbTJOSEtlMGNnLTVrOXRVcTVfRHlFV2Q1SjBHY05vdmxQazhDM0xveFVjWnlqSGl2dVBGYXpuUUlsWVJYYXlqUEx2dTRsR2NzeHYxYnVIOGpKd2VaVnE2WjhYOURzbm5BdVdPeWNvU1otX1Q5dkYyc2ZRU2l3?oc=5",
-      "original_publish_time": "2026-09-17T00:17:12+00:00",
-      "scraped_time": "2026-09-17T09:42:22.923374+00:00",
-      "time_delta_mins": 0,
-      "category": "Trade Data",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "footwear exports"
-      ],
-      "relevance_score": 6,
-      "summary": "Brazilian footwear exports remain under pressure World Footwear",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "05f14c1c643c",
-      "title": "Naked CPH And Asics Unite For A Sunset-Colored GEL-Cumulus 16",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/09/16/naked-asics-gel-cumulus-16-1203b330-700/",
-      "original_publish_time": "2026-09-16T21:00:30+00:00",
-      "scraped_time": "2026-09-17T01:10:46.333450+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "ASICS"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "As feminine design has crested in the realm of sneakers, Naked Copenhagen has found themselves as a real beneficiary. With brands scrambling either to establish... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Naked CPH And Asics Unite For A Sunset-Colored GEL-Cumulus 16 appeared first on Sneaker News . The post Naked CPH And Asics Unite For A Sunset-Colored GEL-Cumulus 16 appeared first on Sneaker News .",
       "ren_take": "",
       "image_url": ""
     }
