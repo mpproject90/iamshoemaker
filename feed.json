@@ -1,8 +1,136 @@
 {
-  "last_updated": "2026-09-25T10:03:27.562917+00:00",
-  "total_articles": 115,
-  "sources_checked": 60,
+  "last_updated": "2026-09-25T15:56:01.538195+00:00",
+  "total_articles": 117,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "db07b1573231",
+      "title": "The New Balance 2000 Continues Its Luxe Push In “Horizon Grey”",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/09/25/new-balance-2000l-luxe-horizon-grey-u2000id3/",
+      "original_publish_time": "2026-09-25T15:30:27+00:00",
+      "scraped_time": "2026-09-25T15:44:38.604652+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "New Balance"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "Nobody’s doing lifestyle shoes like New Balance right now, the Boston brand continuing to unleash new models at a torrid pace and then following them... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The New Balance 2000 Continues Its Luxe Push In \"Horizon Grey\" appeared first on Sneaker News . The post The New Balance 2000 Continues Its Luxe Push In “Horizon Grey” appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "bafd25465662",
+      "title": "The Jordan Spiz’ike Low Utility Goes Stealth Mode In Black",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/09/25/jordan-spizike-low-utility-black-reflect-silver-dark-grey-iu8042-001/",
+      "original_publish_time": "2026-09-25T15:00:13+00:00",
+      "scraped_time": "2026-09-25T15:44:38.619649+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "Hot on the heels of the Nike Air Max 95 GORE-TEX, the Jordan Spiz’ike Low, one of Jordan Brand’s best-selling lifestyle silhouettes, is too bracing... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Jordan Spiz'ike Low Utility Goes Stealth Mode In Black appeared first on Sneaker News . The post The Jordan Spiz’ike Low Utility Goes Stealth Mode In Black appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "27db152193dc",
+      "title": "The 10th Bangladesh Leather and Footwear Expo 2026 - bdnews24.com",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSWlZmVklrZDlwVzJTeUxjcmxxTzREaGk1eWhldjZ0WE5RZlRxdW94N2dzaWczNWtnSFlJLU9UTERMOHJMSV9XcVd4ZzBhY19wVVYxM0hTUkk3Zw?oc=5",
+      "original_publish_time": "2026-09-25T14:46:00+00:00",
+      "scraped_time": "2026-09-25T15:44:49.672161+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "The 10th Bangladesh Leather and Footwear Expo 2026 bdnews24.com",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "5b565f6d3732",
+      "title": "Blue Croc Leather Boots Never Looked This Rugged",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-air-max-goadome-low-midnight-navy-croc/",
+      "original_publish_time": "2026-09-25T14:36:00+00:00",
+      "scraped_time": "2026-09-25T15:48:52.176659+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 6,
+      "summary": "Continuing a massive year-long resurgence for the rugged silhouette, Nike drops a luxurious, low-profile iteration with the Nike Air Max Goadome Low Navy Croc.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "8378c99232f4",
+      "title": "The Red Wing Iron Ranger Is 1930s Workwear With Modern Day Updates",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/9/red-wing-iron-ranger-boots-unboxing",
+      "original_publish_time": "2026-09-25T14:00:54+00:00",
+      "scraped_time": "2026-09-25T15:44:38.450609+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Red Wing"
+      ],
+      "keywords_matched": [
+        "boot",
+        "insole",
+        "midsole",
+        "sole",
+        "upper",
+        "welt"
+      ],
+      "relevance_score": 8,
+      "summary": "Red Wing is putting a fresh spin on a closet staple with the Iron Ranger, unboxed here, in timeless Oro Legacy leather.The Iron Ranger has been around since the 1930s, when Red Wing built it for iron ore miners working in northern Minnesota. The six-inch design still centers on a leather toe cap, and that's carried through every version the company has put out over the decades. This time around, it comes in Oro Legacy brown leather, adding to the rotating cast of finishes Red Wing cycles through each season.Beyond its worn-in and weathered look, the build hasn't shifted either. Goodyear welt construction and Puritan triple-stitching hold the upper together, both meant to make the boot solid and repairable rather than disposable. Inside, leather insoles sit over a cork midsole that softens ",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "b2ab4778d2a5",
+      "title": "Timberland’s Moody Work Boot Is a Little Bit Punk, a Little Bit Rock",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/timberland-stone-street-boot-black/",
+      "original_publish_time": "2026-09-25T11:14:00+00:00",
+      "scraped_time": "2026-09-25T15:48:52.177308+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Timberland"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 5,
+      "summary": "Timberland's beloved work boots have entered their moody punk phase, but this is more than just a phase.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "68d77a92d9f5",
       "title": "Darren Day on how Clarks’ latest campaign allows it to ‘remain true’",
@@ -228,6 +356,25 @@
       ],
       "relevance_score": 3,
       "summary": "Following an official announcement earlier this summer, the Nike Hybrid Fly running and training sneaker has surfaced via official images. Hybrid sneakers, or cross-trainers, are... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike’s $275 Hybrid Fly HYROX Sneaker Releases Summer 2027 appeared first on Sneaker News . The post Nike’s $275 Hybrid Fly HYROX Sneaker Releases Summer 2027 appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "462e43bb435a",
+      "title": "A Trend Forecaster on the Sneakers You’ll See Everywhere This Fall - instyle.com",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVDl3dFI2VmRNUVRwWmE1aHp4dHViSHVLX2hFQTNyU0FkendYQlJUUzFkU0ZIb3ltY3BmMHFfd2pTdUgxODlvbEQtUW45QXJ0SWZwbk1ZeG51M1FDOU5rb25oYzhOVk5jamlLTTZIbDZhUEVqbW9UcjBUYXpxLUN1NA?oc=5",
+      "original_publish_time": "2026-09-24T21:58:02+00:00",
+      "scraped_time": "2026-09-25T15:44:50.326682+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "A Trend Forecaster on the Sneakers You’ll See Everywhere This Fall instyle.com",
       "ren_take": "",
       "image_url": ""
     },
@@ -2285,109 +2432,6 @@
       "keywords_matched": [],
       "relevance_score": 4,
       "summary": "Roger Federer, you’ve got company. Eight years after losing the tennis star to On Running in a move that helped turn the Swiss sportswear brand... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Kylian Mbappé Leaves Nike For On Running appeared first on Sneaker News . The post Kylian Mbappé Leaves Nike For On Running appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "ec692154f558",
-      "title": "Embassy of India Organizes India-Romania Hybrid B2B Meeting on Leather and Footwear Sector - The Indian Panorama",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNR0VSaDFnY1RPWWJfV1dlMmNUcmtPcmhiZDY1ZjFsajZSMWU5YUd4Q1R2TDl0TFVFUEE5Wjg1ejZrWU9FUlZERjhwa1JHSVFraWMwcGhmRVJDZjhvMjFXLXBOcjhPOXk3VWw3WlJXNGFMR3BjU2QyQ3RuR0I0blBJcWZFdFNiYU12c2hpVnJPNDNTN2hncko4MllscF9QWG92NWR6V3hWT0dGbmRmZ2ZmdjhEcDlsWXBKWmUzSHN3Ql83VjlX?oc=5",
-      "original_publish_time": "2026-09-18T13:20:43+00:00",
-      "scraped_time": "2026-09-18T14:48:36.001669+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Embassy of India Organizes India-Romania Hybrid B2B Meeting on Leather and Footwear Sector The Indian Panorama",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "250b60944ee0",
-      "title": "This Heated Nike Slide Is a Major Winter WFH Essential",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-hyperice-air-zoom-hyperslide/",
-      "original_publish_time": "2026-09-18T12:46:59+00:00",
-      "scraped_time": "2026-09-18T14:51:55.812626+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Transforming thermal recovery into everyday footwear, the Swoosh introduces the Hyperice x Nike Air Zoom Hyperslide which will retail at $350.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "0d9bef92836e",
-      "title": "Kylian Mbappé Leaves Nike and Joins On to Launch Brand's Football Division",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/9/kylian-mbappe-leaves-nike-joins-on-launch-football-division-announcement",
-      "original_publish_time": "2026-09-18T12:45:06+00:00",
-      "scraped_time": "2026-09-18T14:48:25.073430+00:00",
-      "time_delta_mins": 0,
-      "category": "Manufacturing",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Summary Swiss sportswear brand On has officially announced its entry into football alongside star forward Kylian MbappéArsenal legend Thierry Henry has been named Director of Football after working with On on the category launch since 2025On will apply its proprietary LightSpray manufacturing technology to develop elite football footwear and apparel On has officially announced its expansion into football alongside world champion Kylian Mbappé, marking the Swiss sportswear brand's debut in the sport. Under the leadership of Arsenal legend Thierry Henry, who steps in as Director of Football after working behind the scenes since late 2025, the brand aims to combine elite athlete insight with Swiss engineering.The partnership positions Mbappé as he departs Nike, as both a core athlete partner ",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "076696e0bd0b",
-      "title": "In Major Move, Kylian Mbappé Leaves Nike for On Running to Be the ‘Heart’ of Its New Football Category",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/mbappe-on-running-soccer-football-expansion-nike-1239244192/",
-      "original_publish_time": "2026-09-18T12:35:37+00:00",
-      "scraped_time": "2026-09-18T14:48:14.467918+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike",
-        "On Running"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 4,
-      "summary": "To bring its new category to life, On also announced that former soccer star Thierry Henry has joined as director of football.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "278ad200a56c",
-      "title": "Kith x On Expands the K-Tech Line With the New K-Tech 3",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/9/kith-on-k-tech-3-k-tech-2-k-tech-1-sneaker-collaboration-fall-2026-release-info",
-      "original_publish_time": "2026-09-18T10:07:42+00:00",
-      "scraped_time": "2026-09-18T14:48:25.075535+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "midsole",
-        "sole",
-        "upper"
-      ],
-      "relevance_score": 4,
-      "summary": "Name: Kith K-Tech Fall 2026MSRP: $180- 190 USDRelease Date: Available NowWhere to Buy: KithKith and On are expanding their collaborative footwear partnership for Fall 2026 with the introduction of the K-Tech 3, the duo’s first dedicated lifestyle silhouette. Building upon the foundation of their previous releases, the new K-Tech 3 features a highly textured upper crafted from technical woven mesh and layered with premium suede overlays.Two colorways offer markedly different treatments: Ivory/Storm layers creamy mesh and pale suede with yellow-green detailing around the heel and branding, finished by a contrasting teal-toned midsole edge, while Black/Black takes a more understated approach with tonal black mesh, matte suede and matching tooling that lets the differences in texture define th",
       "ren_take": "",
       "image_url": ""
     }
