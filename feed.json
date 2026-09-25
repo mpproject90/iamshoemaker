@@ -1,8 +1,108 @@
 {
-  "last_updated": "2026-09-24T20:26:50.017110+00:00",
-  "total_articles": 107,
+  "last_updated": "2026-09-25T01:25:59.525570+00:00",
+  "total_articles": 112,
   "sources_checked": 61,
   "articles": [
+    {
+      "id": "5c92993feea6",
+      "title": "Conexão Origem Sustentável returns for third edition - worldfootwear.com",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPN2tXUXVlWC1zcjhXX1dJLXZ1WncxUko5VlF1dUtVeXZGby03eUI3bC13dkhheGJxdnZQVUhnZ1VJWmpoS1AxMU1GY29ySlBTcFFzM3RoYjJEMy1SQ0xTNHg2WGJqS3pKRHVXTXJOT3lETkpsd2dlOFhRck9tMy0yUDVDQ0d4ZHRPVUc1U3NxbkpIUVlJRnVnQ3Rxd2tFMGc?oc=5",
+      "original_publish_time": "2026-09-24T23:02:23+00:00",
+      "scraped_time": "2026-09-25T01:15:25.859788+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Conexão Origem Sustentável returns for third edition worldfootwear.com",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "3f67e7dc607e",
+      "title": "Kate Moss Brings Her Iconic Festival Footwear to the Present Day for Hunter’s 170th Anniversary",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-trends/kate-moss-hunter-boots-170th-anniversary-1239255613/",
+      "original_publish_time": "2026-09-24T23:00:00+00:00",
+      "scraped_time": "2026-09-25T01:15:04.002420+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "boot",
+        "footwear"
+      ],
+      "relevance_score": 4,
+      "summary": "Moss famously wore Hunter boots at Glastonbury Festival in 2005.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "43683952b4b4",
+      "title": "Nike’s $275 Hybrid Fly HYROX Sneaker Releases Summer 2027",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/09/24/nike-hybrid-fly-hyrox-shoes/",
+      "original_publish_time": "2026-09-24T22:00:36+00:00",
+      "scraped_time": "2026-09-25T01:15:14.806642+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "Following an official announcement earlier this summer, the Nike Hybrid Fly running and training sneaker has surfaced via official images. Hybrid sneakers, or cross-trainers, are... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike’s $275 Hybrid Fly HYROX Sneaker Releases Summer 2027 appeared first on Sneaker News . The post Nike’s $275 Hybrid Fly HYROX Sneaker Releases Summer 2027 appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "2bd4b53b3ee9",
+      "title": "The Footwear Sector in 2026 Remains Committed to Charitable Efforts",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/shoe-industry-philanthropy-2026-nike-phil-knight-footwear-1239260852/",
+      "original_publish_time": "2026-09-24T20:30:00+00:00",
+      "scraped_time": "2026-09-25T01:15:04.004963+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "The shoe industry is big on philanthropy. Here are the charitable efforts thus far in 2026.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "5922ceb9d943",
+      "title": "Nike Offers a Second Life to Its Used Sneakers, Apparel at SoHo Pop-up",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/nike-sneaker-repair-vintage-apparel-soho-pop-up-1239261641/",
+      "original_publish_time": "2026-09-24T20:09:08+00:00",
+      "scraped_time": "2026-09-25T01:15:04.005524+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "The pop-up coincides with Climate Week taking place in New York City.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "a732b1a577c5",
       "title": "The One Piece Nike Air Max Plus “Gomu Gomu” Drops Via SNKRS Reserve",
