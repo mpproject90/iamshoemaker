@@ -1,8 +1,69 @@
 {
-  "last_updated": "2026-09-25T20:23:57.072586+00:00",
-  "total_articles": 115,
+  "last_updated": "2026-09-26T01:28:08.885836+00:00",
+  "total_articles": 119,
   "sources_checked": 61,
   "articles": [
+    {
+      "id": "d84adb31ca59",
+      "title": "The Jordan Spiz’ike Low Trots Out A Crowd-Pleasing “Cool Grey”",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/09/25/jordan-spizike-low-cool-grey-black-smoke-grey-university-red-fq1759-015/",
+      "original_publish_time": "2026-09-25T22:00:10+00:00",
+      "scraped_time": "2026-09-26T01:17:24.998638+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Jordan"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "Albeit with plenty of crossover, there are shoes that stir up discourse and others that just generate money. The Jordan Spiz’ike Low sits firmly in... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Jordan Spiz'ike Low Trots Out A Crowd-Pleasing \"Cool Grey\" appeared first on Sneaker News . The post The Jordan Spiz’ike Low Trots Out A Crowd-Pleasing “Cool Grey” appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "d808f7f96f60",
+      "title": "Wise Words from Colin Kaepernick, D.M.C. and More at the 2026 Black Footwear Forum",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/2026-black-footwear-forum-overview-1239226460/",
+      "original_publish_time": "2026-09-25T21:27:32+00:00",
+      "scraped_time": "2026-09-26T01:17:14.300766+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "The 2026 Black Footwear Forum in Detroit gathered icons of the fashion industry and students alike for a series of conversations related to this year's conference theme: Rooted in CommUnity.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "f18389615814",
+      "title": "Jil Sander Teases Latest Sneakers With Puma in Milan",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/jil-sander-puma-speedcat-suede-milan-fashion-week-1239265223/",
+      "original_publish_time": "2026-09-25T20:14:08+00:00",
+      "scraped_time": "2026-09-26T01:17:14.303916+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Puma"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "This collection would be the third release from the duo since relaunching their collaboration in October.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "448d78096430",
       "title": "Jil Sander's Next PUMA Pack Strips Back the Classics",
@@ -106,6 +167,25 @@
       ],
       "relevance_score": 3,
       "summary": "Nobody’s doing lifestyle shoes like New Balance right now, the Boston brand continuing to unleash new models at a torrid pace and then following them... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The New Balance 2000 Continues Its Luxe Push In \"Horizon Grey\" appeared first on Sneaker News . The post The New Balance 2000 Continues Its Luxe Push In “Horizon Grey” appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "11df693f4db1",
+      "title": "The Most Interesting Sneakers of 2026 Aren’t Really Sneakers - The Business of Fashion",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOT3g0SHFINmJkQndYaEJVX2g4emlTb0JaOVFTNTJNVFFlUUdBVDdVVm1hV0hSSFRMLTB3ZEdpM294Mldielo3UG5OZ3lWQW93OUV6ODFyNXM5RmNtRUVhbDFOdFpvNGZxZHYtQnJST0h5VGQ2bndsbndIZ2xSbzhjN2sxM2dzc3J0NjZEd2pZZEVtUVlsbUZERUt5cTl3NjlSdVExTFRsZVplbmU0M3V2dQ?oc=5",
+      "original_publish_time": "2026-09-25T15:10:20+00:00",
+      "scraped_time": "2026-09-26T01:17:36.466042+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "The Most Interesting Sneakers of 2026 Aren’t Really Sneakers The Business of Fashion",
       "ren_take": "",
       "image_url": ""
     },
@@ -498,6 +578,25 @@
       ],
       "relevance_score": 3,
       "summary": "The shoe industry is big on philanthropy. Here are the charitable efforts thus far in 2026.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "9e6c8ac06ab1",
+      "title": "Footwear & Accessories Stock Performance - finance.yahoo.com",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE42MnRhVFM3NC1kNk9ZV2g3cXRyMmpEM1J0ODJSV2p3MVQ0WlNpTGJEakJUdGFhMlY0enQ0WnljYUltSUVpOGtQSXY2NVBVdWx1SE5CcFBKVVFaakVLOGIyMVY4T09DbDkwT2g0S0k3OWxDNkxGazE3b1pHUDQwUQ?oc=5",
+      "original_publish_time": "2026-09-24T20:12:18+00:00",
+      "scraped_time": "2026-09-26T01:17:35.836184+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Footwear & Accessories Stock Performance finance.yahoo.com",
       "ren_take": "",
       "image_url": ""
     },
@@ -2378,25 +2477,6 @@
       ],
       "relevance_score": 4,
       "summary": "Name: adidas Originals TOBACCO KOYO atmos sneakersColorway: Navy, BrownSKU: KZ6431, KZ6432MSRP: ¥17,600 JPY (approx. $112 USD)Release Date: September 25Where to Buy: atmosadidas Originals and atmos revisit the long-running Tobacco silhouette with the TOBACCO atmos “KOYO,” a two-color collaboration inspired by kōyō — Japan’s seasonal display of changing autumn leaves. The project follows the partners’ 2025 “Nenrin” edition, which referenced the growth rings of an aged tree; this chapter imagines that same natural motif progressing into autumn.One pair takes on a deep navy waterproof leather upper with vivid yellow velour Three Stripes, creating a sharp contrast intended to recall golden ginkgo leaves against the subdued tones of late autumn. The second opts for a warmer brown leather base a",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "2c27356cb92f",
-      "title": "JD Sports Pays Tribute To 110 Culture With A Nike Air Max 95 Teaser In Liverpool",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/09/18/nike-air-max-95-liverpool-110-jd-sports/",
-      "original_publish_time": "2026-09-18T20:30:42+00:00",
-      "scraped_time": "2026-09-19T01:01:41.849353+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "Something big’s brewing over in Liverpool. JD Sports has taken to Instagram with a teaser suggesting an Air Max 95 release or activation on October... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post JD Sports Pays Tribute To 110 Culture With A Nike Air Max 95 Teaser In Liverpool appeared first on Sneaker News . The post JD Sports Pays Tribute To 110 Culture With A Nike Air Max 95 Teaser In Liverpool appeared first on Sneaker News .",
       "ren_take": "",
       "image_url": ""
     }
