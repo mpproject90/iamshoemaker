@@ -1,8 +1,50 @@
 {
-  "last_updated": "2026-09-26T15:05:13.029690+00:00",
-  "total_articles": 114,
-  "sources_checked": 61,
+  "last_updated": "2026-09-26T19:51:50.630953+00:00",
+  "total_articles": 115,
+  "sources_checked": 76,
   "articles": [
+    {
+      "id": "4c9cfaf9fe04",
+      "title": "Nike’s Black Italian Air Max Dress Shoe Is Straight From 2002",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-air-max-dolce-black/",
+      "original_publish_time": "2026-09-26T18:38:55+00:00",
+      "scraped_time": "2026-09-26T19:37:06.106357+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "Nike's dressy Air Max Dolce sneakers lands in the original \"Black/Sport Red\" colorway from 2002 for an upcoming release.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "62dbac585613",
+      "title": "Nike’s Air Force 1 Boot Is Ready for Alien Combat",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-air-force-1-sage-hi-boots/",
+      "original_publish_time": "2026-09-26T17:50:20+00:00",
+      "scraped_time": "2026-09-26T19:37:06.107046+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 5,
+      "summary": "Nike's futuristic Air Force 1 Sage Hi boots are back in all-black for the Fall 2026 season. It's ready for battle again.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "0811aa9b5975",
       "title": "Nike Pays Homage to NYC Culture With the Air Force 1 Low ’01 \"Subway Rat\"",
@@ -2350,25 +2392,6 @@
       ],
       "relevance_score": 4,
       "summary": "Name: Harris Tweed x Vans Premium CollectionMSRP: $120 - $140 USDRelease Date: September 24Where to Buy: VansHarris Tweed and Vans extend their partnership into a three-model Vans Premium collection, applying the Scottish textile maker’s handwoven wool to the Old Skool 36, Classic Slip-On 98 and Loafer 53. The capsule builds on the Old Skool first previewed earlier this summer, where a blue-toned plaid upper with lilac, green and brown undertones was paired with deep navy overlays, a crystal-studded Sidestripe and jewelry-like spikes, stones and pins.Across the wider range, Harris Tweed’s coarse, dimensional texture is deliberately contrasted with Vans’ vulcanized construction and glossy sidewalls, while subtle greasing and distressed finishes give the shoes a lightly aged character rather",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "4251665b1988",
-      "title": "India, Vietnam can collaborate in footwear sector: CLE vice-chairman - The Times of India",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZHZpek9vLWYxX3hoLU9TQUh4bXIxaUxPSDd2eEMzM3pTUDBBQUg0SktsZlNYQWJiZ2FFTzEyLWc4NXVmT2hJVVRESktzMThnaHJvZ3FzRXpqdFFpVXNkWTZNZGF2TmdmUkpFT01WekI5aXJqaWt1QjVEak05bUNaWjdjTVZvX0VOX2JYWjNLUDhtV1hiWnd3VjZOMTJGNWNYTVVZemhwLUVKdzI4NmtHRTBlNDlkYlFjUGlqS0tjZUxEM2ZsdUVQTkVscnVNMG0xQms0b2FGc9IB3AFBVV95cUxORkdsdzA1V2I5TUtpX0FCUWhvTll4NUMteTliS3E3NWJGQmVhVHd6WHg4Y1JfTktqR1BPc1A3eEt6dGJmMzdRN0tCQkNIak5VRWhBY1N4NkxzeWN6TTFZT09fTjhaWGR2eFZIcGI1ajJVNnUzcVBmaWpNUjJlN1JnTlFSVXoxNlJZYnpFOXV4Ui1ScFFlYThCa28tZEE5bE42eHJnLUJYdXU3d0JYdzFxMVlJUTFsb0R4OW00Z2stQnhQSGFwWHRSam1YQ2w0Ml8tbmJLS3VaZ0gtSHdV?oc=5",
-      "original_publish_time": "2026-09-19T17:56:00+00:00",
-      "scraped_time": "2026-09-20T09:29:44.835763+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "India, Vietnam can collaborate in footwear sector: CLE vice-chairman The Times of India",
       "ren_take": "",
       "image_url": ""
     }
