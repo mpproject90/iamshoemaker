@@ -1,8 +1,70 @@
 {
-  "last_updated": "2026-09-27T15:43:06.701720+00:00",
-  "total_articles": 114,
+  "last_updated": "2026-09-27T20:08:21.039071+00:00",
+  "total_articles": 115,
   "sources_checked": 61,
   "articles": [
+    {
+      "id": "e783d0622663",
+      "title": "Nike’s Croc Air Max Sneaker Is a Rugged Classic With a Bite",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-air-max-goadome-low-black-croc-skin/",
+      "original_publish_time": "2026-09-27T19:09:21+00:00",
+      "scraped_time": "2026-09-27T20:01:09.418188+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 5,
+      "summary": "Nike's Air Max Goadome Low sneaker-boot gets a black croc skin makeover for the Fall 2026 season. It's truly off the scales.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "fd3b8bb0f6e0",
+      "title": "Off-White x Air Jordan 1 Look-see Sample In Black/Yellow Has Emerged",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/09/27/off-white-air-jordan-1-black-yellow-looksee-sample/",
+      "original_publish_time": "2026-09-27T16:17:18+00:00",
+      "scraped_time": "2026-09-27T19:57:39.275517+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Off-White",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 5,
+      "summary": "A previously unseen Off-White x Air Jordan 1 sample from 2017 has surfaced, revealing a Black/Yellow colorway created during Virgil Abloh’s groundbreaking work with Nike... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Off-White x Air Jordan 1 Look-see Sample In Black/Yellow Has Emerged appeared first on Sneaker News . The post Off-White x Air Jordan 1 Look-see Sample In Black/Yellow Has Emerged appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "28e3421bbcfc",
+      "title": "Nike Caitlin 1, J. Balvin Jordan 4, And This Week’s Best Releases",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/09/27/sneaker-releases-september-27-october-3-2026/",
+      "original_publish_time": "2026-09-27T16:00:09+00:00",
+      "scraped_time": "2026-09-27T19:57:39.277968+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "Like it or not, we’re just days away from the start of Q4, meaning that brands only have a few months to make an impact... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike Caitlin 1, J. Balvin Jordan 4, And This Week's Best Releases appeared first on Sneaker News . The post Nike Caitlin 1, J. Balvin Jordan 4, And This Week’s Best Releases appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "804f90f9c63e",
       "title": "Vans’ Waterproof Skate Boot Is Winter's Strongest Solider",
@@ -2324,48 +2386,6 @@
       ],
       "relevance_score": 3,
       "summary": "The adidas Italia 70s gets a dapper update in brown-and-beige houndstooth, pairing its retro football-inspired silhouette with a classic gum sole.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "8810b8b7b0cd",
-      "title": "adidas Pokemon, K-Pop Demon Hunter Vans, And This Week’s Best Releases",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/09/20/sneaker-releases-september-20-september-26-2026/",
-      "original_publish_time": "2026-09-20T16:00:40+00:00",
-      "scraped_time": "2026-09-20T19:14:43.121805+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Adidas",
-        "Vans",
-        "Crocs"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 5,
-      "summary": "Anime fans are eating good once again. With the One Piece Air Max Plus and Yu-Gi-Oh! Crocs recently releasing, still the energy remains high this... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post adidas Pokemon, K-Pop Demon Hunter Vans, And This Week's Best Releases appeared first on Sneaker News . The post adidas Pokemon, K-Pop Demon Hunter Vans, And This Week’s Best Releases appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "2cff0c994152",
-      "title": "Timberland’s 6-inch Boot Gets a Special-edition Stud-embellished Release That’s Available Now",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/timberland-stone-street-platform-6-inch-boot-stud-collection-1239248444/",
-      "original_publish_time": "2026-09-20T15:53:32+00:00",
-      "scraped_time": "2026-09-20T19:14:32.271318+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Timberland"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 5,
-      "summary": "The women's Stud Collection includes the Stone Street Platform 6-Inch Boot and Stone Street Platform Boat Shoe.",
       "ren_take": "",
       "image_url": ""
     }
