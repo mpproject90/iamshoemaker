@@ -1,8 +1,29 @@
 {
-  "last_updated": "2026-09-26T19:51:50.630953+00:00",
-  "total_articles": 115,
-  "sources_checked": 76,
+  "last_updated": "2026-09-27T01:22:07.036425+00:00",
+  "total_articles": 117,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "804f90f9c63e",
+      "title": "Vans’ Waterproof Skate Boot Is Winter's Strongest Solider",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/vans-sk8-hi-gore-tex-insulated-mte-sneakers/",
+      "original_publish_time": "2026-09-26T20:32:53+00:00",
+      "scraped_time": "2026-09-27T01:14:54.291854+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Vans"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 5,
+      "summary": "Vans' SK8-Hi GORE-TEX Insulated MTE \"Autumn Brown\" sneaker-boot can handle winter's worst with stylish ease.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "4c9cfaf9fe04",
       "title": "Nike’s Black Italian Air Max Dress Shoe Is Straight From 2002",
@@ -65,6 +86,25 @@
       ],
       "relevance_score": 5,
       "summary": "Summary Nike is releasing an Air Force 1 Low ’01 inspired by New York City’s iconic subway ratThe sneaker features College Grey shaggy suede uppers accented by Pink Glaze detailing and a rat tail heel extensionKey thematic details include pizza slice insoles a MetroCard hangtag and custom NYC tongue embroidery Name: Nike Air Force 1 '01 \"Subway Rat\"Colorway: College Grey/Pink GlazeSKU: IV6999-001MSRP: $150 USDRelease Date: October 7, 2026Where to Buy: NikeNike is celebrating an iconic fixture of New York City grit with the Air Force 1 Low ’01 \"Subway Rat\". The upcoming release transforms the classic silhouette with thematic details nodding to the metropolis, complete with pizza graphics and transit-inspired hardware. Dressed in a \"College Grey\" and \"Pink Glaze\" colorway, the upper is const",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "d9a6ba5386ad",
+      "title": "I’m Retiring These Dated Sneakers for Fall and Making Room for 4 Cool-Girl Alternatives, From $11 - instyle.com",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTUtsUVNRekxqY2MwRmZtNHdIOTVPSGE2VmhsVGRITjNpYXpLQ2dyR2gtTEJVdjdNRWpDTDFSd0JIY1l5VnBDSGpCN3ZIXzJUY1JGMEpmS2tySDRfd0NQQXhzZjZwV042eVNCMDF1Mkl2bEk5MzRkZUNlSlhxY21JeEgyVQ?oc=5",
+      "original_publish_time": "2026-09-26T09:00:00+00:00",
+      "scraped_time": "2026-09-27T01:11:29.109451+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "I’m Retiring These Dated Sneakers for Fall and Making Room for 4 Cool-Girl Alternatives, From $11 instyle.com",
       "ren_take": "",
       "image_url": ""
     },
