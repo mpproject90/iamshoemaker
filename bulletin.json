@@ -1,6 +1,107 @@
 {
-  "last_updated": "2026-09-20T12:56:19.426905+00:00",
+  "last_updated": "2026-09-27T13:38:51.082000+00:00",
   "bulletins": [
+    {
+      "id": "wk39-2026",
+      "week_number": 39,
+      "year": 2026,
+      "date_from": "2026-09-21",
+      "date_to": "2026-09-27",
+      "published": "2026-09-27T13:38:51.081406+00:00",
+      "intro": "Week 39 arrives with Bangladesh continuing its structural climb into US market share vacated by China, while brands double down on material storytelling — leather textures, weight reduction, and heritage positioning dominate the product calendar. The throughline this week is manufacturing intent: every product move has a sourcing decision embedded inside it.",
+      "articles": [
+        {
+          "title": "The Red Wing Iron Ranger Is 1930s Workwear With Modern Day Updates",
+          "source_name": "Hypebeast",
+          "source_url": "https://hypebeast.com/2026/9/red-wing-iron-ranger-boots-unboxing",
+          "category": "Leather",
+          "relevance_score": 8,
+          "original_publish_time": "2026-09-25T14:00:54+00:00",
+          "misaki_take": "Oro Legacy leather is a Horween product, and Horween's lead times and price per hide make this a domestically anchored cost structure that most global brands cannot or will not replicate — that is the actual differentiator here, not the toe cap. For sourcing teams watching heritage positioning, Red Wing's continued commitment to US-tanned leather is a deliberate margin and brand risk tradeoff that keeps the Iron Ranger insulated from the commodity pricing pressures hitting full-grain imports."
+        },
+        {
+          "title": "From New Balance to Merrell, the Seven Best Sneakers to Cop This Week",
+          "source_name": "Highsnobiety",
+          "source_url": "https://www.highsnobiety.com/p/sneaker-releases-2026-september-week-4/",
+          "category": "Retail",
+          "relevance_score": 8,
+          "original_publish_time": "2026-09-22T16:54:52+00:00",
+          "misaki_take": "The inclusion of a 3D-printed Nike Air Max alongside a heritage Merrell collab in the same weekly roundup signals how wide the performance-to-lifestyle spectrum has become for retail buyers merchandising a single wall. For sourcing managers, this range compression means factories pitching multi-category flexibility — traditional lasted construction alongside additive manufacturing capability — are becoming a more serious conversation than they were three years ago."
+        },
+        {
+          "title": "Nike Toughens Up the Air Force 1 Low Workboot \"Shadow Brown\" With Rope Laces and Gold Hardware",
+          "source_name": "Hypebeast",
+          "source_url": "https://hypebeast.com/2026/9/nike-air-force-1-low-shadow-brown-iz4702-235-official-images",
+          "category": "Leather",
+          "relevance_score": 7,
+          "original_publish_time": "2026-09-24T08:21:30+00:00",
+          "misaki_take": "Canvas-and-suede uppers with decorative hardware at a premium Air Force 1 price point is Nike squeezing margin out of lower-cost materials by leading with aesthetic narrative rather than material quality — a well-worn playbook but effective when retail execution is tight. The risk sits in quality perception at point of return: canvas and suede composites in workboot silhouettes historically see higher wear-related complaints, and that lands on the factory's defect rate metrics if QC specs were not written tightly at the tech pack stage."
+        },
+        {
+          "title": "Everlane Taps L.A. Shoe Brand Collegium on Capsule of Sneakers, Loafers and More",
+          "source_name": "Footwear News",
+          "source_url": "https://wwd.com/footwear-news/shoe-industry-news/everlane-collegium-shoe-collection-release-date-1239256661/",
+          "category": "Brand News",
+          "relevance_score": 7,
+          "original_publish_time": "2026-09-23T15:50:16+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "Timberland Launches the Timberland 25 Lightweight Waterproof Boot",
+          "source_name": "Hypebeast",
+          "source_url": "https://hypebeast.com/2026/9/timberland-timberland-25-release",
+          "category": "Sustainability",
+          "relevance_score": 7,
+          "original_publish_time": "2026-09-23T08:06:21+00:00",
+          "misaki_take": "A 25% weight reduction on a legacy silhouette is not a marketing number — it requires meaningful changes to midsole compound, board lasting weight, and membrane integration, each of which carries tooling cost and factory requalification time that brands rarely advertise. The strategic value here is shelf life extension on Timberland's core SKU rather than new category entry, and that is a smarter allocation of R&D spend than launching a derivative silhouette that cannibalizes the Yellow Boot's retail floor position."
+        },
+        {
+          "title": "Blue Croc Leather Boots Never Looked This Rugged",
+          "source_name": "Highsnobiety",
+          "source_url": "https://www.highsnobiety.com/p/nike-air-max-goadome-low-midnight-navy-croc/",
+          "category": "Leather",
+          "relevance_score": 6,
+          "original_publish_time": "2026-09-25T14:36:00+00:00",
+          "misaki_take": "Croc-embossed leather on a lug-sole outdoor silhouette is a material juxtaposition that only works at retail when the emboss quality is consistent across a production run — and embossed exotic-effect leathers have a higher rejection rate at final QC than smooth full-grain, particularly in deep colorways where surface variation reads as defect. Brands ordering this finish for the first time should be running inline inspections at the embossing stage, not waiting for pre-shipment."
+        },
+        {
+          "title": "Bangladesh footwear exports gain US market share as China retreats - The Financial Express",
+          "source_name": "Google News - Footwear Industry",
+          "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ2hFTUlYajZaTDZQTDUyQVJEZ0FfcVRFUEFnZGFYallvNkhHempUcHZOTGUwQVkyZUVLbUIyNTBQbEM5NmdaTkkzcjFPd0xSeGJoLVZwa19LblZ4ajBTN3hIZm11R05ZamtGcmFaZ2g5cTd5Z29UTVJmeWxkdGxIbTlfNGxPQWRta05PQlN2MmhTY0didU54eXdvVGdHSGN0ZGVjbGl0X3pPYUU?oc=5",
+          "category": "Trade Data",
+          "relevance_score": 6,
+          "original_publish_time": "2026-09-25T02:27:48+00:00",
+          "misaki_take": "This is not a surprise — it is the continuation of a shift that became structurally locked in after the 2018-2019 tariff rounds, and Bangladesh's GSP-adjacent positioning and improving compliance scores have made it the most logical beneficiary of China's FOB cost escalation. Sourcing managers who are only now building Bangladesh vendor relationships are already behind; the factories with capacity, compliance infrastructure, and CTPAT-aligned audit histories are spoken for at volume, and lead time negotiations from new accounts will reflect that."
+        },
+        {
+          "title": "Stakeholder’s opinion will be sought to make a roadmap for the leather and footwear industry: Commerce Secretary - dailyasianage.com",
+          "source_name": "Google News - Footwear Industry",
+          "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNkJQb0dmY1pBRlJRbTZvQ2NLbHpfNG1tMVQ2RTR6bE5HRTg2Z2xHY2NuVEhzV0pKQjBJUTQ5RG9FaXE2eUpCcC15M1VldlVFcUJ3Yk1fYXg5ZjcwVUY5emVDejM4WjRrZlN0eVJTLS1GekFBRmkwSHgyc1ZNZmsxZHFJcWdDeGE0S2x3cTAtakxRYlpYRklpOFl6UUJJUjJEMXdhLTE0NVRpMHBJTlhFYWdSczREZnRuem1PT01pdC1uQS1Qb1JuWXU2bWpValp0Nm4wNTdEczZNYWYtZ2lWYzNn?oc=5",
+          "category": "Leather",
+          "relevance_score": 6,
+          "original_publish_time": "2026-09-24T18:38:00+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "Leather, footwear industry roadmap to be prepared: Commerce secretary - daily-sun.com",
+          "source_name": "Google News - Footwear Industry",
+          "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSUZxR0RYV3ZhSXlZdnJLaXdJRnFudTQ2V2Z2Q195cDRmVWJ6OWZYN1RmZXNIQ1JzY3JCVUZhQ1RMTjlKRU00QUV1bFBpS2tZOHlBaXdHMkNTNkpZVjJnSkxCRkxNYkRiRnlRV25JWVVwNGp1cEYwU3lRcldSa1BrcWw3d3BPeVotSVJ4a1E0bnFLcU1jYnpkbEIyQzZpZWl6bVo3VXEyQ0hRaWJ2T05FV0czUjEtSDhGN3Ew?oc=5",
+          "category": "Leather",
+          "relevance_score": 6,
+          "original_publish_time": "2026-09-24T12:53:22+00:00",
+          "misaki_take": "The dual coverage of this announcement across Bangladeshi financial press confirms that the leather sector specifically — not just finished footwear — is being positioned as a national export priority, which matters because upstream tannery development is where Bangladesh has historically underinvested relative to Vietnam and Indonesia. If the roadmap results in meaningful tannery modernization funding and compliance enforcement, it changes the FOB calculus for leather upper sourcing in the region within a three-to-five year horizon."
+        },
+        {
+          "title": "The Nike Air Max Goadome Low Goes Upscale in Croc-Embossed \"Black\" and \"Midnight Navy\"",
+          "source_name": "Hypebeast",
+          "source_url": "https://hypebeast.com/2026/9/nike-air-max-goadome-low-navy-croc-black-croc-iv4517-400-iv4517-001-release-info",
+          "category": "Leather",
+          "relevance_score": 6,
+          "original_publish_time": "2026-09-24T07:01:51+00:00",
+          "misaki_take": "At $175 USD with croc-embossed leather, Nike is testing whether the Goadome Low can hold a premium price tier that the original high-top never consistently commanded — the silhouette reduction alone does not justify the material upgrade unless the emboss quality is visibly distinct from mid-tier alternatives already on the market. Factory allocation for this SKU will be critical: embossed leather colorways in two-way colorblocking require tighter roll matching tolerances, and a November shelf date with an October 6 drop gives almost no buffer for a production or logistics deviation."
+        }
+      ]
+    },
     {
       "id": "wk38-2026",
       "week_number": 38,
@@ -907,107 +1008,6 @@
           "relevance_score": 7,
           "original_publish_time": "2026-07-14T07:00:00+00:00",
           "misaki_take": "Wolverine Worldwide's Q1 performance read in context with peer consumer discretionary footwear stocks is a referendum on the mid-tier brand portfolio model — the question has been whether Merrell and Saucony can carry enough margin to offset Wolverine's structural overhead while the company continues its multi-year brand rationalization. Any FOB or sourcing renegotiation leverage Wolverine has with factories in Vietnam and Cambodia is directly indexed to their inventory trajectory, and if turns are still sluggish, expect to see order consolidation and factory partner reduction before year-end."
-        }
-      ]
-    },
-    {
-      "id": "wk28-2026",
-      "week_number": 28,
-      "year": 2026,
-      "date_from": "2026-07-06",
-      "date_to": "2026-07-12",
-      "published": "2026-07-12T09:53:15.366361+00:00",
-      "intro": "Week 28 opens with a tragedy in China that will echo through Q3 capacity planning, while the market continues its restless pivot toward leather — not as heritage, but as a deliberate material upgrade story. The thread connecting this week's noise: brands are quietly making harder sourcing decisions while the editorial world debates sandal silhouettes.",
-      "articles": [
-        {
-          "title": "Forget Sneakers, New Balance’s Best New Shoes Are Sandals",
-          "source_name": "Highsnobiety",
-          "source_url": "https://www.highsnobiety.com/p/new-balance-best-sandals/",
-          "category": "Retail",
-          "relevance_score": 11,
-          "original_publish_time": "2026-07-09T19:33:01+00:00",
-          "misaki_take": ""
-        },
-        {
-          "title": "Fire kills at least 28 at shoe factory in China's global athletic footwear manufacturing hub - VnExpress International",
-          "source_name": "Google News - Shoe Manufacturing",
-          "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMllSR2Q1TzRaVTdoQkN1UDNzRXo1OXZCYzEzR21GWmp5Nzc2emtScy1mYXQ4alhJVm1pVEd5Z25qTjNTS3NkbXJSN09RTkNfM01hMi11WFEtZUMxaXVETXh0a255ZnhhWkJCbGFrbHVyU1FUc04xeE8zQ3BPRG5NN3NfcjZnSGRyX19YZE9DcUNWZUhQNUg1aEI1TnpGV3QyZDdCSDJyVVZreHd3Ukg4N085YzBIVWxqV3cwaHB3UlpXcGt1WndJd0c0VnhsbUdrU2lTNWx3?oc=5",
-          "category": "Manufacturing",
-          "relevance_score": 9,
-          "original_publish_time": "2026-07-10T01:50:00+00:00",
-          "misaki_take": "A factory fire of this scale in Jinjiang or the surrounding cluster will disrupt capacity allocation for whoever was pulling volume from that facility, and the ripple into Q3 delivery windows will be real and measurable within days of the incident. Brands and agents sourcing athletic footwear from that hub should be auditing their fire safety compliance documentation this week — not because regulators will ask first, but because their own risk teams will."
-        },
-        {
-          "title": "New Balance’s Hunky Hiker Hides Two Beautiful Mules",
-          "source_name": "Highsnobiety",
-          "source_url": "https://www.highsnobiety.com/p/new-balances-tds-niobium-concept-1/",
-          "category": "Leather",
-          "relevance_score": 8,
-          "original_publish_time": "2026-07-08T12:11:57+00:00",
-          "misaki_take": ""
-        },
-        {
-          "title": "adidas' Perforated Soccer Boot Is Poking Holes in the Future of Football Sneakers",
-          "source_name": "Highsnobiety",
-          "source_url": "https://www.highsnobiety.com/p/adidas-climacool-laced-sneaker/",
-          "category": "Retail",
-          "relevance_score": 8,
-          "original_publish_time": "2026-07-06T12:47:51+00:00",
-          "misaki_take": "Perforation patterns at the density required for premium football boots create meaningful cutting waste and demand precision die tooling that adds cost at the component stage — this is not a casual material decision. The real story is whether adidas is testing consumer appetite for a performance-to-lifestyle crossover in football silhouettes, which would open an entirely different FOB price tier and distribution channel."
-        },
-        {
-          "title": "30 Years of Jay-Z Shoe Hits: Nike, Timberland, Reebok and a Few Surprises",
-          "source_name": "Footwear News",
-          "source_url": "https://wwd.com/footwear-news/sneaker-news/jay-z-favorite-shoe-styles-1239059377/",
-          "category": "Retail",
-          "relevance_score": 7,
-          "original_publish_time": "2026-07-09T19:34:57+00:00",
-          "misaki_take": ""
-        },
-        {
-          "title": "The Nike Moon Shoe \"Leather Pack\" Swaps the 1970s Runner's Nylon Foundation for a Full Leather Upper",
-          "source_name": "Hypebeast",
-          "source_url": "https://hypebeast.com/2026/7/nike-moon-shoe-og-leather-pack-iu3162-600-iu3162-200-official-images",
-          "category": "Leather",
-          "relevance_score": 7,
-          "original_publish_time": "2026-07-09T07:58:13+00:00",
-          "misaki_take": ""
-        },
-        {
-          "title": "Want to Make a Good Shoe Great? Bottega-fy It",
-          "source_name": "Highsnobiety",
-          "source_url": "https://www.highsnobiety.com/p/bottega-veneta-intrecciato-weave/",
-          "category": "Brand News",
-          "relevance_score": 6,
-          "original_publish_time": "2026-07-10T19:33:00+00:00",
-          "misaki_take": "Intrecciato weave applied to footwear uppers requires skilled hand-weaving or highly calibrated automated interlacing — neither is cheap, and the replication of that technique across multiple brand collaborations compresses what was once a genuine craft differentiator into a trend modifier. Brands using this technique without the underlying manufacturing credibility are essentially renting equity they do not own, which carries real brand risk when the trend cycle turns."
-        },
-        {
-          "title": "Island Slipper and Noah Add British-Braided Leather to a Sandal With Nearly 80 Years of Hawaiian Craft Behind It",
-          "source_name": "Hypebeast",
-          "source_url": "https://hypebeast.com/2026/7/island-slipper-noah-sandal-collaboration-release-info",
-          "category": "Leather",
-          "relevance_score": 6,
-          "original_publish_time": "2026-07-10T09:07:15+00:00",
-          "misaki_take": "At approximately $260 USD, this collaboration is pricing the intersection of two craft narratives — Hawaiian sandal-making and British leather braiding — into a margin structure that only works if both sides maintain strict production volume discipline. The strategic value here is not the unit economics but the proof of concept that genuine provenance layering, when executed with restraint, can hold a premium price point without a luxury house name attached."
-        },
-        {
-          "title": "Jacquemus Nike Moon Shoes Are Returning In 2027",
-          "source_name": "Sneaker News",
-          "source_url": "https://sneakernews.com/2026/07/09/jacquemus-nike-moon-shoe-emerald-rise-blue-cap-ghost-pale-ivory-hv8547-300/",
-          "category": "Retail",
-          "relevance_score": 6,
-          "original_publish_time": "2026-07-09T17:54:39+00:00",
-          "misaki_take": "A confirmed 2027 return window for the Jacquemus x Nike Moon Shoe gives Nike's planning and materials teams an unusually long lead runway, which suggests the production complexity or material sourcing constraints on the first run were significant enough to require it. For the broader collaborations market, an 18-month-plus gap between drops is becoming the new standard for high-fashion partnerships — it sustains scarcity, but it also signals that fast-follow execution on these projects is not operationally viable."
-        },
-        {
-          "title": "DPIIT Eases Footwear Quality Rules to Support Industry - Devdiscourse",
-          "source_name": "Google News - Footwear Industry",
-          "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUmpYVUtsMkdMTzIyTmk1UFB4R3VpWFJNMjlETnNUT2xHbVhfVFdlSDdyRXZlTlNaR0ktcnV5Zm40VUhERzlKZTVHaEpFVFk0X0F6b2ZTS3NNaHNkMG1UdG55Y19GTm1PTElRTzNERHgwcC0zbXF3X1ZEeENaNVUwZXdSS2owSTFPV3JydmtzMTE4c0c5UFljYUtvTXlCWjQ1SzBFWUFEUFVZVWUzTkHSAbMBQVVfeXFMUEY0SklmcHFCY2hwSWNScWRmVXM4WEJRYWtQV1pMNHVLYnJsQXl0bG1mZmpRWTNzVndXWk01LUFTQW43V3FsVzVPRzJFQjBUdGNYSWhVbVFwSEY1alFLWGZrNWtiYzJGZmNyeEtjWno1cG4xbVRaX0pJQllUaXppUFhJTjF2bm1ZTDg2Q1NRcXotRXhNLUFBV2lBRV9PS0o4Yy1XMzg1M011cHMzOFFqckJEcHM?oc=5",
-          "category": "Quality",
-          "relevance_score": 6,
-          "original_publish_time": "2026-07-09T16:53:05+00:00",
-          "misaki_take": "India rolling back or relaxing Quality Control Orders on footwear is a short-term pressure valve for domestic manufacturers struggling with compliance costs, but it creates a two-speed market where export-bound production still faces importing-country standards while domestic-facing production does not. Brands evaluating India as a sourcing alternative to Vietnam or Bangladesh should note that regulatory inconsistency at the national level is a leading indicator of audit complexity down the line."
         }
       ]
     }
