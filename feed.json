@@ -1,8 +1,28 @@
 {
-  "last_updated": "2026-09-29T21:25:31.691026+00:00",
-  "total_articles": 128,
-  "sources_checked": 60,
+  "last_updated": "2026-09-30T02:04:41.985715+00:00",
+  "total_articles": 131,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "0c816610cf44",
+      "title": "Nike’s Waterproof Air Force 1 Is the Real Winter Soldier",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-air-force-1-gore-tex-vibram-black-pine/",
+      "original_publish_time": "2026-09-29T20:36:30+00:00",
+      "scraped_time": "2026-09-30T01:57:29.361990+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Vibram"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "Nike brings back the Air Force 1 Low GORE-TEX Vibram sneaker in a new \"Black Pine\" colorway. Here's everything on the stylish winter-ready shoe.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "bedad6a4b0ac",
       "title": "Jaylen Brown Arrives in Philly With a New Model from His 741 Performance Sneaker Brand - Sole Retriever",
@@ -125,6 +145,26 @@
       "image_url": ""
     },
     {
+      "id": "bb021dbb85ea",
+      "title": "Jordan’s Dad Shoe Has Entered Its Brown Era",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-jordan-trunner-palomino/",
+      "original_publish_time": "2026-09-29T16:51:12+00:00",
+      "scraped_time": "2026-09-30T01:57:29.363545+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "The Nike Jordan Trunner O/S in Palomino/Black/Phantom/University Red is a dad shoe in full pumpkin spice latte mode.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
       "id": "74d6f3cfad2c",
       "title": "How Footwear Is on the Upswing at Kohl’s",
       "source_name": "Footwear News",
@@ -221,6 +261,28 @@
       ],
       "relevance_score": 5,
       "summary": "The all-new Gel-Transcend FJ references archive Asics hiking and walking shoes from the 1990s.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "216ece90459c",
+      "title": "From adidas to New Balance, the Seven Best Sneakers to Cop This Week",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/sneaker-releases-2026-october-week-1/",
+      "original_publish_time": "2026-09-29T14:02:57+00:00",
+      "scraped_time": "2026-09-30T01:57:29.364556+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Adidas",
+        "New Balance"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 7,
+      "summary": "From an adidas x entire studios collab to New Balance's new off- & on-court classic, learn about & shop the best sneaker releases of the week, right here.",
       "ren_take": "",
       "image_url": ""
     },
