@@ -1,8 +1,134 @@
 {
-  "last_updated": "2026-09-30T16:52:28.192025+00:00",
-  "total_articles": 126,
-  "sources_checked": 61,
+  "last_updated": "2026-09-30T21:21:57.798856+00:00",
+  "total_articles": 128,
+  "sources_checked": 60,
   "articles": [
+    {
+      "id": "437e8e8b8109",
+      "title": "J Balvin's New Nike Drop Is Lurking Under the Surface",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/j-balvins-nike-air-jordan-4-amazonas/",
+      "original_publish_time": "2026-09-30T20:11:00+00:00",
+      "scraped_time": "2026-09-30T21:14:48.605273+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "The Colombian star reunites with Jordan Brand for the J Balvin x Air Jordan 4 Amazonas.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "d6ac0727a7e3",
+      "title": "Nike Is Bringing Back The Air Griffey Max 1 “Cincinnati Reds” For The First Time Ever",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/09/30/nike-air-griffey-max-1-cincinnati-reds-ja1091-100/",
+      "original_publish_time": "2026-09-30T19:30:12+00:00",
+      "scraped_time": "2026-09-30T21:11:07.573290+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "The man with the sweetest swing in baseball history also happens to own the sport’s best-ever sneaker line. While fans of Ken Griffey Jr. shoes... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike Is Bringing Back The Air Griffey Max 1 \"Cincinnati Reds\" For The First Time Ever appeared first on Sneaker News . The post Nike Is Bringing Back The Air Griffey Max 1 “Cincinnati Reds” For The First Time Ever appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "e3f92b371f0a",
+      "title": "The Converse SHAI 001 Arrives In “Creamsicle” Orange And White",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/09/30/converse-shai-001-lace-up-sun-ray-egret-a23933c/",
+      "original_publish_time": "2026-09-30T19:00:58+00:00",
+      "scraped_time": "2026-09-30T21:11:07.575290+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Converse"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 4,
+      "summary": "Shai Gilgeous-Alexander’s swap from Converse to Nike was already one of the more interesting, unexpected stories in signature shoes in recent memory. Yet media day... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Converse SHAI 001 Arrives In \"Creamsicle\" Orange And White appeared first on Sneaker News . The post The Converse SHAI 001 Arrives In “Creamsicle” Orange And White appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "8d9117cf1922",
+      "title": "The New Balance 991v2 Stays Red Hot In “Green Milieu”",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/09/30/new-balance-991v2-green-milieu-u991bw2/",
+      "original_publish_time": "2026-09-30T18:00:45+00:00",
+      "scraped_time": "2026-09-30T21:11:07.577888+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [
+        "New Balance",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "Save for your occasional Jordan and s-tier collaboration, we’re struggling to think of a mass-produced $250+ sneaker that’s managed to be as successful as the... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The New Balance 991v2 Stays Red Hot In \"Green Milieu\" appeared first on Sneaker News . The post The New Balance 991v2 Stays Red Hot In “Green Milieu” appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "3bb00b2dee96",
+      "title": "Vans Is Gearing Up LA Dodgers Fans for Another World Series Run With Two Distressed Sneakers",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/los-angeles-dodgers-vans-sk8-hi-era-release-date-1239297334/",
+      "original_publish_time": "2026-09-30T17:27:23+00:00",
+      "scraped_time": "2026-09-30T21:10:56.737837+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Vans"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "A Sk8-Hi and Era will both drop during the divisional series round.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "9ae656e9905d",
+      "title": "Can Nike’s New Slate of Race-day Super Shoes Help Deliver a Much-needed Financial Win?",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/nike-running-race-day-super-shoes-apex-swooshfly-analysis-1239297555/",
+      "original_publish_time": "2026-09-30T17:13:45+00:00",
+      "scraped_time": "2026-09-30T21:10:56.740998+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Nike",
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 6,
+      "summary": "The Swoosh is up against stiff competition with Adidas dominating marathon podiums across the globe.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "d1c0072d4da4",
       "title": "How to Make Sure Your Customers Stay Loyal: Comfort, Quality, Emotion Are Key for Footwear Brands",
@@ -2522,92 +2648,6 @@
       "keywords_matched": [],
       "relevance_score": 4,
       "summary": "The resurgence of patchwork takes on classic pieces from New Era, Birkenstock, and Vans proves that clothing brands are firmly in their fun era.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "921e22996980",
-      "title": "SoleFly’s Air Jordan 5 Collaboration Is Revealed",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/09/23/solely-air-jordan-5-iu0734-001-release-date/",
-      "original_publish_time": "2026-09-23T20:58:02+00:00",
-      "scraped_time": "2026-09-24T01:14:22.756543+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Jordan"
-      ],
-      "keywords_matched": [
-        "sole"
-      ],
-      "relevance_score": 5,
-      "summary": "The SoleFly x Air Jordan 5 has received its latest official preview courtesy of Jordan Brand, with the Miami retailer’s newest collaboration expected to arrive... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post SoleFly's Air Jordan 5 Collaboration Is Revealed appeared first on Sneaker News . The post SoleFly’s Air Jordan 5 Collaboration Is Revealed appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "e2794b171a2c",
-      "title": "A.P.C.’s New Clarks Desert Boots and Weavers Come With Their Own Shoe Charms",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/apc-clarks-desert-boots-weaver-release-date-1239257756/",
-      "original_publish_time": "2026-09-23T19:37:45+00:00",
-      "scraped_time": "2026-09-23T19:56:53.663665+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Clarks"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 5,
-      "summary": "The Weaver shoe is celebrating its 50th anniversary in 2027.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "1db0e589510b",
-      "title": "Vans Revives The Old Skool For Dia De Los Muertos",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/09/23/vans-dia-de-los-muertos-2026/",
-      "original_publish_time": "2026-09-23T19:00:57+00:00",
-      "scraped_time": "2026-09-23T19:57:04.862926+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike",
-        "Vans"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 4,
-      "summary": "Halloween shoes are all the rage as October is very nearly here; the Nike Basketball “Halloween” set has made that a constant through-line on our... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Vans Revives The Old Skool For Dia De Los Muertos appeared first on Sneaker News . The post Vans Revives The Old Skool For Dia De Los Muertos appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "341e5a6500c6",
-      "title": "The Best adidas Sneaker Releases This Week",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/adidas-sneaker-releases-september-week-4/",
-      "original_publish_time": "2026-09-23T16:59:15+00:00",
-      "scraped_time": "2026-09-23T20:00:44.813458+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "shoes",
-        "sneakers"
-      ],
-      "relevance_score": 4,
-      "summary": "In this iteration of our weekly adidas round-up, find everything from Pokémon runners to nostalgic skate shoes. Oh, and some regular sneakers, too.",
       "ren_take": "",
       "image_url": ""
     }
