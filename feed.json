@@ -1,8 +1,69 @@
 {
-  "last_updated": "2026-09-30T10:57:50.007723+00:00",
-  "total_articles": 128,
-  "sources_checked": 60,
+  "last_updated": "2026-09-30T16:52:28.192025+00:00",
+  "total_articles": 126,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "d1c0072d4da4",
+      "title": "How to Make Sure Your Customers Stay Loyal: Comfort, Quality, Emotion Are Key for Footwear Brands",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/americans-loyal-footwear-brands-athletic-shoes-purchases-1239296459/",
+      "original_publish_time": "2026-09-30T16:30:42+00:00",
+      "scraped_time": "2026-09-30T16:41:24.553737+00:00",
+      "time_delta_mins": 0,
+      "category": "Quality",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "shoes"
+      ],
+      "relevance_score": 4,
+      "summary": "Nearly 3 in 10 Americans are \"very\" loyal to their favorite footwear brands, with nearly half buying new athletic shoes multiple times per year, according to data from CivicScience.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "391122c69e16",
+      "title": "Saint Laurent Takes Gold to the Extreme With Snake Heels and Jeweled Sandals",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-trends/saint-laurent-paris-fashion-week-spring-2027-shoes-1239289835/",
+      "original_publish_time": "2026-09-30T15:07:07+00:00",
+      "scraped_time": "2026-09-30T16:41:24.556495+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "sandal"
+      ],
+      "relevance_score": 4,
+      "summary": "The spring 2027 footwear mixed sculptural reptile heels, gilded chains and sharp slingbacks with metallic cap toes.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "8e1598fafa61",
+      "title": "Every Nike Caitlin 1 Colorway Teased So Far",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/9/every-nike-caitlin-1-colorway-teased-so-far",
+      "original_publish_time": "2026-09-30T14:00:06+00:00",
+      "scraped_time": "2026-09-30T16:41:35.253030+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "Summary ike and Caitlin Clark have unveiled an expansive roster of colorways for the inaugural Nike Caitlin 1 signature basketball sneakerTeased iterations range from the flagship Racer Blue launch pair to thematic drops including the newly revealed Halloween editionThe signature model officially debuts globally on October 1, 2026 accompanied by an 18-piece performance and lifestyle apparel collection Nike and WNBA star Caitlin Clark have generated massive momentum ahead of the official debut of the Nike Caitlin 1. Ahead of the signature line's global launch coming soon at the beginning of October, a wide range of thematic colorways, on-court player exclusives, and seasonal teases have been officially documented on Hypebeast.Built around an innovative Opticast molded upper and specialized ",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "ccb18749ed1f",
       "title": "Salomon for Ray BEAMS XT-WHISPER Goes Sweet in “CHERRY CAKE PARTY”",
@@ -2547,113 +2608,6 @@
       ],
       "relevance_score": 4,
       "summary": "In this iteration of our weekly adidas round-up, find everything from Pokémon runners to nostalgic skate shoes. Oh, and some regular sneakers, too.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "e29592639bbf",
-      "title": "Nike Reinforces the Air Max 95 for Winter With Gore-Tex",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-air-max-95-gore-tex-release-date-io1877-001-1239256903/",
-      "original_publish_time": "2026-09-23T16:34:50+00:00",
-      "scraped_time": "2026-09-23T19:56:53.666233+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "The waterproof sneaker also adds more durable rubber and ripstop on its upper.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "6fc60b5c5e95",
-      "title": "Everlane Taps L.A. Shoe Brand Collegium on Capsule of Sneakers, Loafers and More",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/everlane-collegium-shoe-collection-release-date-1239256661/",
-      "original_publish_time": "2026-09-23T15:50:16+00:00",
-      "scraped_time": "2026-09-23T19:56:53.666946+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "shoe brand",
-        "sneakers"
-      ],
-      "relevance_score": 7,
-      "summary": "The five-piece footwear collection is now available.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "5fc9d6255828",
-      "title": "Shoe Highlights From London Fashion Week: Armadillo Heels, Iridescent Crocs and More",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-trends/shoe-highlights-london-fashion-week-spring-2027-mcqueen-puma-cros-1239255186/",
-      "original_publish_time": "2026-09-23T15:08:04+00:00",
-      "scraped_time": "2026-09-23T19:56:53.667539+00:00",
-      "time_delta_mins": 0,
-      "category": "Trade Data",
-      "brands_mentioned": [
-        "Puma",
-        "Crocs"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 4,
-      "summary": "Plus a colorful collaboration between Ahluwalia x Puma and the digital debut of Koshik, a newly established Armenian luxury footwear label.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "df339023da7f",
-      "title": "adidas Springblade Is Making A Comeback",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/09/23/adidas-springblade-2026-2027/",
-      "original_publish_time": "2026-09-23T14:30:29+00:00",
-      "scraped_time": "2026-09-23T15:20:01.955729+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "The adidas Springblade is expected to return in late 2026 or early 2027, bringing one of the brand’s most unconventional running shoes back to market... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post adidas Springblade Is Making A Comeback appeared first on Sneaker News . The post adidas Springblade Is Making A Comeback appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "69d3b934b715",
-      "title": "Chloë Sevigny Describes What Makes Her ‘Sole Bounce’ in New Dr. Martens Campaign",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/chloe-sevigny-dr-martens-campaign-jordan-stephens-1239254624/",
-      "original_publish_time": "2026-09-23T11:00:00+00:00",
-      "scraped_time": "2026-09-23T15:19:50.777858+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Dr. Martens",
-        "Jordan"
-      ],
-      "keywords_matched": [
-        "sole"
-      ],
-      "relevance_score": 6,
-      "summary": "Musician Jordan Stephens and comedian Naomi Watanabe also appear in the campaign.",
       "ren_take": "",
       "image_url": ""
     }
