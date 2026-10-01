@@ -1,8 +1,28 @@
 {
-  "last_updated": "2026-09-30T21:21:57.798856+00:00",
+  "last_updated": "2026-10-01T02:03:40.576192+00:00",
   "total_articles": 128,
-  "sources_checked": 60,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "3adcc36a9e33",
+      "title": "Most Americans Still Prefer to Buy Their Shoes in a Store, Survey Says",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/shoe-shopping-survey-yougov-americans-footwear-stores-1239298520/",
+      "original_publish_time": "2026-09-30T21:17:39+00:00",
+      "scraped_time": "2026-10-01T01:52:39.961208+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "shoes"
+      ],
+      "relevance_score": 4,
+      "summary": "Survey data from YouGov explores where Americans are shopping for footwear.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "437e8e8b8109",
       "title": "J Balvin's New Nike Drop Is Lurking Under the Surface",
@@ -2628,26 +2648,6 @@
       ],
       "relevance_score": 3,
       "summary": "Balkh Shoe Factories Say Afghanistan Self-Sufficient in Footwear Production TOLOnews",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "32d6eaafee9a",
-      "title": "Even the Most Basic of Basics Look Better Patchworked",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/new-era-birkenstock-patchwork/",
-      "original_publish_time": "2026-09-23T21:22:02+00:00",
-      "scraped_time": "2026-09-24T01:17:55.186369+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Vans",
-        "Birkenstock"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 4,
-      "summary": "The resurgence of patchwork takes on classic pieces from New Era, Birkenstock, and Vans proves that clothing brands are firmly in their fun era.",
       "ren_take": "",
       "image_url": ""
     }
