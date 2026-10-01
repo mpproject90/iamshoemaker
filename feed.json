@@ -1,8 +1,89 @@
 {
-  "last_updated": "2026-10-01T17:27:48.291146+00:00",
+  "last_updated": "2026-10-01T21:43:36.839411+00:00",
   "total_articles": 136,
-  "sources_checked": 60,
+  "sources_checked": 62,
   "articles": [
+    {
+      "id": "32a443493623",
+      "title": "Nike Reveals New Operating Model as It Misses Q1 Sales",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/nike-nke-q1-2027-earnings-jordan-china-sportswear-1239302941/",
+      "original_publish_time": "2026-10-01T20:52:39+00:00",
+      "scraped_time": "2026-10-01T21:32:40.290782+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "Nike is looking to refuel growth at Jordan, in the sportswear segment and in China.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "a7453ea3c57f",
+      "title": "Red Wing Traveled to the World’s Northernmost Inhabited Town to Test Out Its Newest Boot",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/red-wing-norway-moc-heritage-boots-details-1239302273/",
+      "original_publish_time": "2026-10-01T19:07:10+00:00",
+      "scraped_time": "2026-10-01T21:32:40.293905+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Red Wing"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 5,
+      "summary": "The new boot is built for life in cold climates, Red Wing said.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "4d749ea9bad8",
+      "title": "The Victory Lap Radio Nike Air Force 1 Low Hits The Airwaves Soon",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/10/01/victory-lap-radio-nike-air-force-1-low-ja7805-302/",
+      "original_publish_time": "2026-10-01T18:30:42+00:00",
+      "scraped_time": "2026-10-01T21:32:51.042007+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "Joining hands with individual musicians is no doubt the most visible way that Nike steps into that world. With any and all Travis Scott shoes... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Victory Lap Radio Nike Air Force 1 Low Hits The Airwaves Soon appeared first on Sneaker News . The post The Victory Lap Radio Nike Air Force 1 Low Hits The Airwaves Soon appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "d339d5301bf8",
+      "title": "You probably need new sneakers, and Prime Day is the time to buy them - AOL.com",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUjRZRi1PWGExRWRoUk5XZ0JJTE10ZW5CMjZzNWV2WTBWM01Lc29XX1dPS1RES0RqdklUY3l5dzU2V2lWOGhleDRmZ1FaWEE0di1vMDc1TkFfWDNvaFdIUUszeDlZRTk4MVI5QXF6MlZ2OXhxVDV3eWZCei1vLVFrYlpEaXJjazR6aVRRUFBVOVR6M0pNSktjNDkzZzhqNDBtaHF1bHZjc2R3c3pxTHVWR3RR?oc=5",
+      "original_publish_time": "2026-10-01T17:43:15+00:00",
+      "scraped_time": "2026-10-01T21:33:02.657775+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "You probably need new sneakers, and Prime Day is the time to buy them AOL.com",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "571342b1921f",
       "title": "Skechers CFO jumps to Levi’s",
@@ -753,6 +834,25 @@
       ],
       "relevance_score": 3,
       "summary": "Drapers Crocs to open its first north-east outlet Footwear brand Crocs will open its first outlet store in the north-east of England this autumn, at Dalton Park shopping centre in County Durham. The post Crocs to open its first north-east outlet appeared first on Drapers .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "ab6c0a96609f",
+      "title": "Trade Agreements Pave the Way for Increased Indian Leather Exports - Fibre2Fashion",
+      "source_name": "Google News - India Leather",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVXI3S1gwSm5aRzJVeGxRZ0F4Q09WODB1QlQxZXBtaTJGM1ltVUFqYUlfVDJBM3ZxMGtXOGJCSl9ISjh1UDRFaUJHMWRVZ3B6M1RGUXZ6ZUxFVG9pcXlTMXJyWmhGbndyZ2dKZ2FuS0tXZ3RTVFVRTG10bWtMWXNWZHZBWUUwWjZyamNSYjBRdHRhZi15ZjBnRVgtRzE4clQ5TjNCTGV4SzJGdTh0ZWxIY0o3LTRsWVZIbk5JZy1n0gG-AUFVX3lxTE5VcjdLWDBKblpHMlV4bFFnQXhDT1Y4MHVCVDFlcG1pMkYzWW1VQWphSV9UMkEzdnEwa1c4YkJKX0hKOHVQNEVpQkcxZFVncHozVEZRdnplTEVUb2lxeVMxcnJaaEZud3JnZ0pnYW5LS1dndFNUVVFMbXRta0xZc1ZkdkFZRTBaNnJqY1JiMFF0dGFmLXlmMGdFWC1HMThyVDlOM0JMZXhLMkZ1OHRlbEhjSjctNGxZVkhuTklnLWc?oc=5",
+      "original_publish_time": "2026-09-30T06:15:49+00:00",
+      "scraped_time": "2026-10-01T21:43:36.811963+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "leather exports"
+      ],
+      "relevance_score": 3,
+      "summary": "Trade Agreements Pave the Way for Increased Indian Leather Exports Fibre2Fashion",
       "ren_take": "",
       "image_url": ""
     },
@@ -2716,105 +2816,6 @@
       ],
       "relevance_score": 3,
       "summary": "A Trend Forecaster on the Sneakers You’ll See Everywhere This Fall instyle.com",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "2bd4b53b3ee9",
-      "title": "The Footwear Sector in 2026 Remains Committed to Charitable Efforts",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/shoe-industry-philanthropy-2026-nike-phil-knight-footwear-1239260852/",
-      "original_publish_time": "2026-09-24T20:30:00+00:00",
-      "scraped_time": "2026-09-25T01:15:04.004963+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "The shoe industry is big on philanthropy. Here are the charitable efforts thus far in 2026.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "9e6c8ac06ab1",
-      "title": "Footwear & Accessories Stock Performance - finance.yahoo.com",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE42MnRhVFM3NC1kNk9ZV2g3cXRyMmpEM1J0ODJSV2p3MVQ0WlNpTGJEakJUdGFhMlY0enQ0WnljYUltSUVpOGtQSXY2NVBVdWx1SE5CcFBKVVFaakVLOGIyMVY4T09DbDkwT2g0S0k3OWxDNkxGazE3b1pHUDQwUQ?oc=5",
-      "original_publish_time": "2026-09-24T20:12:18+00:00",
-      "scraped_time": "2026-09-26T01:17:35.836184+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Footwear & Accessories Stock Performance finance.yahoo.com",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "5922ceb9d943",
-      "title": "Nike Offers a Second Life to Its Used Sneakers, Apparel at SoHo Pop-up",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/nike-sneaker-repair-vintage-apparel-soho-pop-up-1239261641/",
-      "original_publish_time": "2026-09-24T20:09:08+00:00",
-      "scraped_time": "2026-09-25T01:15:04.005524+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 5,
-      "summary": "The pop-up coincides with Climate Week taking place in New York City.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "a732b1a577c5",
-      "title": "The One Piece Nike Air Max Plus “Gomu Gomu” Drops Via SNKRS Reserve",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/09/24/nike-air-max-plus-one-piece-purple-ir0968-500/",
-      "original_publish_time": "2026-09-24T19:30:42+00:00",
-      "scraped_time": "2026-09-24T20:15:43.423813+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike",
-        "Adidas"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "The One Piece x Nike Air Max Plus collection, one of a few major FW26 anime sneaker collabs alongside the adidas Pokémon collection, comes to... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The One Piece Nike Air Max Plus \"Gomu Gomu\" Drops Via SNKRS Reserve appeared first on Sneaker News . The post The One Piece Nike Air Max Plus “Gomu Gomu” Drops Via SNKRS Reserve appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "e80d365d6264",
-      "title": "Stakeholder’s opinion will be sought to make a roadmap for the leather and footwear industry: Commerce Secretary - dailyasianage.com",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNkJQb0dmY1pBRlJRbTZvQ2NLbHpfNG1tMVQ2RTR6bE5HRTg2Z2xHY2NuVEhzV0pKQjBJUTQ5RG9FaXE2eUpCcC15M1VldlVFcUJ3Yk1fYXg5ZjcwVUY5emVDejM4WjRrZlN0eVJTLS1GekFBRmkwSHgyc1ZNZmsxZHFJcWdDeGE0S2x3cTAtakxRYlpYRklpOFl6UUJJUjJEMXdhLTE0NVRpMHBJTlhFYWdSczREZnRuem1PT01pdC1uQS1Qb1JuWXU2bWpValp0Nm4wNTdEczZNYWYtZ2lWYzNn?oc=5",
-      "original_publish_time": "2026-09-24T18:38:00+00:00",
-      "scraped_time": "2026-09-24T20:15:54.312749+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "footwear industry"
-      ],
-      "relevance_score": 6,
-      "summary": "Stakeholder’s opinion will be sought to make a roadmap for the leather and footwear industry: Commerce Secretary dailyasianage.com",
       "ren_take": "",
       "image_url": ""
     }
