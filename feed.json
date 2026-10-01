@@ -1,8 +1,112 @@
 {
-  "last_updated": "2026-10-01T02:03:40.576192+00:00",
-  "total_articles": 128,
-  "sources_checked": 61,
+  "last_updated": "2026-10-01T11:24:06.003166+00:00",
+  "total_articles": 130,
+  "sources_checked": 60,
   "articles": [
+    {
+      "id": "8e34105a1c6b",
+      "title": "New Balance Debuts the 204L in \"Truffle Salt\" Blending '70s Slimness and 2000s Tech Aesthetics",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/10/new-balance-204l-truffle-salt-u204l8wr-release-info",
+      "original_publish_time": "2026-10-01T08:00:33+00:00",
+      "scraped_time": "2026-10-01T11:13:22.568270+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "New Balance"
+      ],
+      "keywords_matched": [
+        "footwear",
+        "upper"
+      ],
+      "relevance_score": 4,
+      "summary": "Summary New Balance has introduced the 204L silhouette featuring a \"Truffle Salt\" colorwayThe low-profile model merges '70s running slimness with 2000s tech textures and indoor soccer cuesThe lifestyle sneaker officially releases on October 1, 2026 via New Balance Name: New Balance 204L \"Truffle Salt\"Colorway: Truffle Salt/Fast TrackSKU: U204L8WRMSRP: $120 USDRelease Date: Available NowWhere to Buy: New BalanceNew Balance has officially introduced the 204L in \"Truffle Salt/Fast Track\", an all-new low-profile silhouette rooted in streetwear style. Drawing design cues from indoor soccer footwear, '70s track runners, and 2000s technical aesthetics, the versatile model launches on October 1, 2026.The sneaker features a multi-piece upper constructed from premium \"Truffle Salt\" suede, mesh, cow ",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "a82aa336e11a",
+      "title": "The Seven Best Nike Sneaker Releases This Week",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-sneaker-releases-october-week-1/",
+      "original_publish_time": "2026-10-01T07:47:43+00:00",
+      "scraped_time": "2026-10-01T11:16:55.308906+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "This week of our Nike release round-up is both a showcase of revamped archival classics, and a glimpse at what's next in sports footwear.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "d262d8428f69",
+      "title": "Weston family closes in on £7bn Boots takeover",
+      "source_name": "Retail Gazette",
+      "source_domain": "retailgazette.co.uk",
+      "source_url": "https://www.retailgazette.co.uk/blog/2026/10/weston-family-closes-in-on-7bn-boots-takeover/",
+      "original_publish_time": "2026-10-01T07:02:24+00:00",
+      "scraped_time": "2026-10-01T11:16:23.262633+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 3,
+      "summary": "The billionaire Weston family behind Primark is reportedly closing in on a £7bn deal to acquire Boots from current owner Sycamore Partners. The proposed deal would value Boots at around £6.7bn, including debt and comes after months of negotiations between the Boots’ owners and prospective buyers. The Westons control Canadian supermarket giant Loblaw and pharmacy...",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "59e22c2245e2",
+      "title": "LISA and Nike Bring the Archival Moon Shoe Back Into Orbit",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/10/blackpink-lisa-nike-moon-shoe-red-campaign-release-info",
+      "original_publish_time": "2026-10-01T06:28:17+00:00",
+      "scraped_time": "2026-10-01T11:13:22.572673+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sole"
+      ],
+      "relevance_score": 3,
+      "summary": "Summary BLACKPINK's LISA stars in the official global campaign for the relaunched Nike Moon ShoeOriginally prototyped in 1971 by Bill Bowerman the archival runner features its iconic waffle soleThe historic silhouette officially returns to orbit on October 1 accompanied by red color-blocked styling Nike and BLACKPINK's LISA have officially joined forces to relaunch the historic Nike Moon Shoe. The superstar brings one of the brand's oldest archival runners back into orbit, bridging the gap between 1971 track heritage and modern lifestyle appeal.First prototyped in 1971 for speed on the track, the Moon Shoe represents a foundational piece of Nike's performance history. The silhouette is defined by its signature waffle sole, a groundbreaking traction design that stems from co-founder Bill Bo",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "795a9be08f94",
+      "title": "Nike Decorates the LeBron 24 \"Greater China\" in Auspicious Cloud Motifs",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/9/nike-lebron-24-greater-china-ix5105-200-official-look-release-info",
+      "original_publish_time": "2026-10-01T03:14:00+00:00",
+      "scraped_time": "2026-10-01T11:13:22.575521+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "Summary Nike has officially revealed early imagery for the LeBron 24 Greater China edition celebrating the Lunar New YearThe design features a beige Kingknit mesh upper decorated with red accents and traditional Xiangyun cloud graphicsThe performance silhouette is scheduled to release exclusively within the Greater China market on October 9, 2026 Name: Nike LeBron 24 \"Greater China\"Colorway: Light Khaki/Metallic-Phantom Grey-SailSKU: IX5105-200MSRP: $190 USDRelease Date: October 9, 2026Where to Buy: NikeNike and LeBron James have offered an official first look at the Nike LeBron 24 \"Greater China\", a Lunar New Year-themed iteration of James' 24th signature silhouette. The special-edition colorway incorporates traditional cultural motifs ahead of the upcoming NBA season.The model is constru",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "3adcc36a9e33",
       "title": "Most Americans Still Prefer to Buy Their Shoes in a Store, Survey Says",
@@ -1079,6 +1183,27 @@
       ],
       "relevance_score": 4,
       "summary": "Toe shoes are more normalized than ever before but Vibram's Five Finger shoe doesn't always look good. These new redesigns certainly help, though.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "588e87720130",
+      "title": "These Hoka Sneakers Feel Like Walking on Clouds—I’ve Felt No Pain After Dozens of Miles - EatingWell",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1sZzluTHE5OEZMZVBkN1J4eDU1eEtjOVV3V0RSOHdJeWpEcVlvTEk0N2RBYVVuR3pFNUc0cU1JZnRDNS1GV19BdmMtSG43U2ZEYTNnVDFtT1dyQjNLdDBsMFZWM19KRUNCelpV?oc=5",
+      "original_publish_time": "2026-09-28T21:30:00+00:00",
+      "scraped_time": "2026-10-01T11:13:34.176104+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Hoka"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "These Hoka Sneakers Feel Like Walking on Clouds—I’ve Felt No Pain After Dozens of Miles EatingWell",
       "ren_take": "",
       "image_url": ""
     },
@@ -2564,90 +2689,6 @@
       ],
       "relevance_score": 3,
       "summary": "Govt to seek stakeholder input on leather, footwear roadmap The Business Standard",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "4518de9be49b",
-      "title": "Nike Takes Its Best Ballet Shoe Into the Jungle",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-air-jordan-pointe-se-leopard-sneaker/",
-      "original_publish_time": "2026-09-24T11:17:08+00:00",
-      "scraped_time": "2026-09-24T15:47:09.361232+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike",
-        "Jordan"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "Nike's Air Jordan Pointe SE is a dainty ballet sneaker gunning for the top of the hybrid shoe hierarchy.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "67c9149c5be6",
-      "title": "Nike Toughens Up the Air Force 1 Low Workboot \"Shadow Brown\" With Rope Laces and Gold Hardware",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/9/nike-air-force-1-low-shadow-brown-iz4702-235-official-images",
-      "original_publish_time": "2026-09-24T08:21:30+00:00",
-      "scraped_time": "2026-09-24T09:36:10.586649+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "boot",
-        "upper"
-      ],
-      "relevance_score": 7,
-      "summary": "Name: Nike Air Force 1 Low “Shadow Brown”Colorway: Shadow Brown/Gum Medium Brown-Light Armory Blue-Baroque BrownSKU: IZ4702-235MSRP: TBCRelease Date: Fall/Winter 2026The Nike Air Force 1 Low Workboot \"Shadow Brown\" is set to bring rugged materials and outdoor-inspired hardware to Nike's classic low-top this Fall/Winter 2026. Official images show an upper made mostly of canvas and suede, with details borrowed more from work boots than from the court.Shadow Brown canvas forms the base of the upper, covering the toe box, quarter panels, and heel. Darker Baroque Brown suede is layered on top at the toe, Swoosh, heel tab, and eyelets. Around the lacing area, the suede has serrated edges that add texture where the laces cross the upper.The laces and hardware carry most of the workboot feel. Ligh",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "49ca3551747f",
-      "title": "The Nike Air Max Goadome Low Goes Upscale in Croc-Embossed \"Black\" and \"Midnight Navy\"",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/9/nike-air-max-goadome-low-navy-croc-black-croc-iv4517-400-iv4517-001-release-info",
-      "original_publish_time": "2026-09-24T07:01:51+00:00",
-      "scraped_time": "2026-09-24T09:36:10.591543+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "boot",
-        "shoes",
-        "upper"
-      ],
-      "relevance_score": 6,
-      "summary": "Name: Nike Air Max Goadome Low “Navy Croc,” Nike Air Max Goadome Low “Black Croc”Colorway: Midnight Navy/Black, BlackSKU: IV4517-400, IV4517-001MSRP: $175 USDRelease Date: October 6Where to Buy: SNKRSThe Nike Air Max Goadome Low is getting a more upscale look this fall with two croc-embossed leather colorways: one fully black and one in \"Midnight Navy.\" The Low is a sleeker, more streamlined take on its outdoor boot that keeps the rugged details underneath. These new pairs push that idea further by using a leather treatment normally associated with dress shoes.The croc embossing is what sets these pairs apart. The pattern covers nearly the entire upper, but it isn't uniform. The scale pattern gets bigger and heavier across the side panels and heel, then becomes tighter or smoother near the",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "74f9121576ec",
-      "title": "Balkh Shoe Factories Say Afghanistan Self-Sufficient in Footwear Production - TOLOnews",
-      "source_name": "Google News - Shoe Manufacturing",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8yM0JSOW01eHJrcFVfQnl4UnVNTFYzaUMyNFVWY2FUbFcxLTdIQUthVmIxcG9zWEY3UWNYVWt2UWlyZzRrMUVOZWktZWFpSXFJNWc?oc=5",
-      "original_publish_time": "2026-09-24T02:08:10+00:00",
-      "scraped_time": "2026-09-24T15:43:45.253267+00:00",
-      "time_delta_mins": 0,
-      "category": "Manufacturing",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Balkh Shoe Factories Say Afghanistan Self-Sufficient in Footwear Production TOLOnews",
       "ren_take": "",
       "image_url": ""
     }
