@@ -1,8 +1,138 @@
 {
-  "last_updated": "2026-10-02T10:56:51.512673+00:00",
-  "total_articles": 134,
-  "sources_checked": 61,
+  "last_updated": "2026-10-02T16:42:05.457467+00:00",
+  "total_articles": 132,
+  "sources_checked": 62,
   "articles": [
+    {
+      "id": "2ba2fbe233f2",
+      "title": "Nike’s Weak First Quarter Report Ripples Across Footwear Sector",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/nike-shares-shoe-brands-retailers-first-quarter-report-1239304408/",
+      "original_publish_time": "2026-10-02T16:09:43+00:00",
+      "scraped_time": "2026-10-02T16:31:06.589772+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "footwear",
+        "shoe brand"
+      ],
+      "relevance_score": 6,
+      "summary": "Shares of most shoe brands and retailers fell during Friday morning's trading session after Nike's lackluster first quarter report on Thursday.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "7ca28fb23dfe",
+      "title": "Mercedes-Benz Goes Full Luxury With Monochrome adidas Sambas",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/10/02/mercedes-benz-adidas-samba/",
+      "original_publish_time": "2026-10-02T16:00:56+00:00",
+      "scraped_time": "2026-10-02T16:31:17.431481+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "footwear",
+        "shoes"
+      ],
+      "relevance_score": 4,
+      "summary": "Mercedes owners, you can now match the shoes to the whip. adidas, which became the official footwear sponsor of the Mercedes-AMG Petronas Formula 1 team... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Mercedes-Benz Goes Full Luxury With Monochrome adidas Sambas appeared first on Sneaker News . The post Mercedes-Benz Goes Full Luxury With Monochrome adidas Sambas appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "4ba09890db9b",
+      "title": "Mr. Bailey Launches Terracotta Collection That's Built For The Future",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/10/mr-bailey-terracotta-vibram-collection-release-info",
+      "original_publish_time": "2026-10-02T15:19:15+00:00",
+      "scraped_time": "2026-10-02T16:31:17.268867+00:00",
+      "time_delta_mins": 0,
+      "category": "Quality",
+      "brands_mentioned": [
+        "Vibram"
+      ],
+      "keywords_matched": [
+        "footwear",
+        "shoes",
+        "sole"
+      ],
+      "relevance_score": 4,
+      "summary": "After six years of exploring craft, longevity and modular construction in partnership with HLT+ and Vibram, London-based designer and founder of CONCEPT(K) Mr. Bailey has released its newest collection, Terracotta.Inspired by the fractured geometry of dried earth, Terracotta focuses on longevity by reinterpreting repairable footwear. Within the soles of each shoe lie three distinctive layers built with the purpose of renewing the components that are exposed to the most use and naturally wear down over time. Central to Mr. Bailey’s mission is extending the lifespan of every creation, making each shoe pass through generations and accumulate years of wear.Maintaining durability is integral to their design, preserving elements that give the shoes an independent uniqueness and mold with the wea",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "e1c5dd877a36",
+      "title": "First Look At The Air Jordan 3 “Middle East”",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/10/02/air-jordan-3-middle-east-ix6986-047/",
+      "original_publish_time": "2026-10-02T14:40:16+00:00",
+      "scraped_time": "2026-10-02T16:31:17.434988+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 4,
+      "summary": "he “regionality” of sneakers is no longer a “restore the feeling” type of issue for Nike, Inc. With the slew of news coming out of... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post First Look At The Air Jordan 3 “Middle East” appeared first on Sneaker News . The post First Look At The Air Jordan 3 “Middle East” appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "f2b677bcf902",
+      "title": "Kurt Geiger mulls sale of Harrods and Selfridges footwear departments",
+      "source_name": "Drapers",
+      "source_domain": "drapersonline.com",
+      "source_url": "https://www.drapersonline.com/news/kurt-geiger-mulls-sale-of-harrods-and-selfridges-footwear-departments",
+      "original_publish_time": "2026-10-02T13:43:52+00:00",
+      "scraped_time": "2026-10-02T16:34:20.345002+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Steve Madden"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 4,
+      "summary": "Drapers Kurt Geiger mulls sale of Harrods and Selfridges footwear departments Kurt Geiger's parent company Steve Madden is reportedly exploring a sale of the business arm which manages its Harrods and Selfridges shoe departments. The post Kurt Geiger mulls sale of Harrods and Selfridges footwear departments appeared first on Drapers .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "cab63ed88a8b",
+      "title": "Saucony Merges Cowboy Boot Detailing With Futuristic Accents to Slate of New Sneakers",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/saucony-space-cowboy-sneaker-pack-release-date-1239304217/",
+      "original_publish_time": "2026-10-02T13:41:17+00:00",
+      "scraped_time": "2026-10-02T16:31:06.593304+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "boot",
+        "sneakers"
+      ],
+      "relevance_score": 6,
+      "summary": "The new range was first previewed during Paris Men’s Fashion Week in June.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "34a0b6846d94",
       "title": "Harry Styles and Zoë Kravitz Cosigned the *Exact Same* Fall ‘It’ Sneakers in NYC - instyle.com",
@@ -2614,172 +2744,6 @@
       ],
       "relevance_score": 5,
       "summary": "Summary “Nike: Form Follows Motion” traces the brand from early running experiments to Air, Flyknit and Vaporfly.Archival prototypes, sketches and cultural ephemera show how Nike sneakers moved from performance tools into music, fashion and street culture. Before the Swoosh became shorthand, there were sketches, prototypes and plenty of trial and error. “Nike: Form Follows Motion,” now on view at New York’s Museum of Arts and Design, looks back at more than 50 years of the brand, from Bill Bowerman’s early waffle-sole experiments to Air Max, Jordans, Flyknit and Vaporfly. Originally organized by the Vitra Design Museum, the show pulls from Nike’s internal archive of more than 200,000 objects.Waffle Trainers, Air Force 1s, Air Jordans and Vaporflys all make an appearance, but there’s more t",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "db07b1573231",
-      "title": "The New Balance 2000 Continues Its Luxe Push In “Horizon Grey”",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/09/25/new-balance-2000l-luxe-horizon-grey-u2000id3/",
-      "original_publish_time": "2026-09-25T15:30:27+00:00",
-      "scraped_time": "2026-09-25T15:44:38.604652+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "New Balance"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "Nobody’s doing lifestyle shoes like New Balance right now, the Boston brand continuing to unleash new models at a torrid pace and then following them... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The New Balance 2000 Continues Its Luxe Push In \"Horizon Grey\" appeared first on Sneaker News . The post The New Balance 2000 Continues Its Luxe Push In “Horizon Grey” appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "11df693f4db1",
-      "title": "The Most Interesting Sneakers of 2026 Aren’t Really Sneakers - The Business of Fashion",
-      "source_name": "Google News - Sneaker Brand",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOT3g0SHFINmJkQndYaEJVX2g4emlTb0JaOVFTNTJNVFFlUUdBVDdVVm1hV0hSSFRMLTB3ZEdpM294Mldielo3UG5OZ3lWQW93OUV6ODFyNXM5RmNtRUVhbDFOdFpvNGZxZHYtQnJST0h5VGQ2bndsbndIZ2xSbzhjN2sxM2dzc3J0NjZEd2pZZEVtUVlsbUZERUt5cTl3NjlSdVExTFRsZVplbmU0M3V2dQ?oc=5",
-      "original_publish_time": "2026-09-25T15:10:20+00:00",
-      "scraped_time": "2026-09-26T01:17:36.466042+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "The Most Interesting Sneakers of 2026 Aren’t Really Sneakers The Business of Fashion",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "bafd25465662",
-      "title": "The Jordan Spiz’ike Low Utility Goes Stealth Mode In Black",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/09/25/jordan-spizike-low-utility-black-reflect-silver-dark-grey-iu8042-001/",
-      "original_publish_time": "2026-09-25T15:00:13+00:00",
-      "scraped_time": "2026-09-25T15:44:38.619649+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Nike",
-        "Jordan"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "Hot on the heels of the Nike Air Max 95 GORE-TEX, the Jordan Spiz’ike Low, one of Jordan Brand’s best-selling lifestyle silhouettes, is too bracing... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Jordan Spiz'ike Low Utility Goes Stealth Mode In Black appeared first on Sneaker News . The post The Jordan Spiz’ike Low Utility Goes Stealth Mode In Black appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "d2f9b6f358d8",
-      "title": "The Best New Sneakers Available on Complex [September 2026] - Complex",
-      "source_name": "Google News - Sneaker Brand",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVlYtcTRJeW1BX2ZZbzNQMk5RT2ZLLUwyZzM4TklMTENON3ItQVRqRW01dXUyd0RtaDRSUXNpYVF0NUo1MUsxWkw4MGJHRXJ1MWQ5Y2ZjSWRuZ2hnNC1VdWNRQ05wa2FUY19nNzFwVDBGOTFRZ3ZvVDBFOVdMRVBlbTZVM2NKNjFW?oc=5",
-      "original_publish_time": "2026-09-25T14:51:56+00:00",
-      "scraped_time": "2026-09-25T20:13:04.479588+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "The Best New Sneakers Available on Complex [September 2026] Complex",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "27db152193dc",
-      "title": "The 10th Bangladesh Leather and Footwear Expo 2026 - bdnews24.com",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSWlZmVklrZDlwVzJTeUxjcmxxTzREaGk1eWhldjZ0WE5RZlRxdW94N2dzaWczNWtnSFlJLU9UTERMOHJMSV9XcVd4ZzBhY19wVVYxM0hTUkk3Zw?oc=5",
-      "original_publish_time": "2026-09-25T14:46:00+00:00",
-      "scraped_time": "2026-09-25T15:44:49.672161+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "The 10th Bangladesh Leather and Footwear Expo 2026 bdnews24.com",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "5b565f6d3732",
-      "title": "Blue Croc Leather Boots Never Looked This Rugged",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-air-max-goadome-low-midnight-navy-croc/",
-      "original_publish_time": "2026-09-25T14:36:00+00:00",
-      "scraped_time": "2026-09-25T15:48:52.176659+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 6,
-      "summary": "Continuing a massive year-long resurgence for the rugged silhouette, Nike drops a luxurious, low-profile iteration with the Nike Air Max Goadome Low Navy Croc.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "8378c99232f4",
-      "title": "The Red Wing Iron Ranger Is 1930s Workwear With Modern Day Updates",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/9/red-wing-iron-ranger-boots-unboxing",
-      "original_publish_time": "2026-09-25T14:00:54+00:00",
-      "scraped_time": "2026-09-25T15:44:38.450609+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Red Wing"
-      ],
-      "keywords_matched": [
-        "boot",
-        "insole",
-        "midsole",
-        "sole",
-        "upper",
-        "welt"
-      ],
-      "relevance_score": 8,
-      "summary": "Red Wing is putting a fresh spin on a closet staple with the Iron Ranger, unboxed here, in timeless Oro Legacy leather.The Iron Ranger has been around since the 1930s, when Red Wing built it for iron ore miners working in northern Minnesota. The six-inch design still centers on a leather toe cap, and that's carried through every version the company has put out over the decades. This time around, it comes in Oro Legacy brown leather, adding to the rotating cast of finishes Red Wing cycles through each season.Beyond its worn-in and weathered look, the build hasn't shifted either. Goodyear welt construction and Puritan triple-stitching hold the upper together, both meant to make the boot solid and repairable rather than disposable. Inside, leather insoles sit over a cork midsole that softens ",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "b2ab4778d2a5",
-      "title": "Timberland’s Moody Work Boot Is a Little Bit Punk, a Little Bit Rock",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/timberland-stone-street-boot-black/",
-      "original_publish_time": "2026-09-25T11:14:00+00:00",
-      "scraped_time": "2026-09-25T15:48:52.177308+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Timberland"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 5,
-      "summary": "Timberland's beloved work boots have entered their moody punk phase, but this is more than just a phase.",
       "ren_take": "",
       "image_url": ""
     }
