@@ -1,8 +1,216 @@
 {
-  "last_updated": "2026-10-02T16:42:05.457467+00:00",
-  "total_articles": 132,
-  "sources_checked": 62,
+  "last_updated": "2026-10-02T21:18:58.493928+00:00",
+  "total_articles": 138,
+  "sources_checked": 60,
   "articles": [
+    {
+      "id": "cfb35880760c",
+      "title": "Nike Brings Glow-In-The-Dark Soles To The GT Cut 1 “Purple Comet”",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/10/02/nike-zoom-gt-cut-1-purple-comet-topaz-gold-hot-punch-laser-fuchsia-cz0175-503/",
+      "original_publish_time": "2026-10-02T21:00:45+00:00",
+      "scraped_time": "2026-10-02T21:08:16.104941+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sole"
+      ],
+      "relevance_score": 5,
+      "summary": "Hoopers’ love for the Nike Zoom GT Cut 1 was simply too much to ignore. Four years removed from its deceleration in 2022 as Nike... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike Brings Glow-In-The-Dark Soles To The GT Cut 1 \"Purple Comet\" appeared first on Sneaker News . The post Nike Brings Glow-In-The-Dark Soles To The GT Cut 1 “Purple Comet” appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "8f090b1514b3",
+      "title": "Saint Laurent Presents a Golden SS27 & NikeSKIMS Opens Shanghai Pop-up in This Week's Top Fashion News",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/10/saint-laurent-presents-a-golden-ss27-nikeskims-opens-shanghai-pop-up-in-this-weeks-top-fashion-news",
+      "original_publish_time": "2026-10-02T20:30:12+00:00",
+      "scraped_time": "2026-10-02T21:08:15.861166+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "SummaryGlobal retail footprints are expanding with NikeSKIMS and Ann Demeulemeester opening new physical destinations.High-profile collaborations dominated this week, including Zara x John Galliano, Zendaya x On, and Kader Sylla's adidas signature shoe.Saint Laurent's golden SS27 runway show fueled rumors of Anthony Vaccarello’s potential departure.Anthony Vaccarello Drapes Saint Laurent in Gold for SS27Anthony Vaccarello presented Saint Laurent’s Women’s Spring/Summer 2027 collection in Paris, taking over the Trocadéro beneath the Eiffel Tower. The runway show centered entirely on gold — a shade favored by Yves Saint Laurent — to reinterpret the house's archival codes. Vaccarello reimagined foundational archetypes like sahariennes, trench coats, and sharp tailoring through a monochromatic",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "ab9366379354",
+      "title": "Loewe’s Spring 2027 Shoes Experiment With Charms, Bows, Cutouts and More",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-trends/loewe-spring-2027-runway-shoes-paris-fashion-week-1239305142/",
+      "original_publish_time": "2026-10-02T19:41:30+00:00",
+      "scraped_time": "2026-10-02T21:08:05.060142+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "shoes"
+      ],
+      "relevance_score": 4,
+      "summary": "The luxury brand's latest collection spanned a range of footwear silhouettes.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "768afd917d24",
+      "title": "The Jordan 6 Rings Winterized Returns In “Cobalt Blue”",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/10/02/jordan-6-rings-winterized-cobalt-blue-anthracite-vast-grey-varsity-maize-ix8456-479/",
+      "original_publish_time": "2026-10-02T19:30:28+00:00",
+      "scraped_time": "2026-10-02T21:08:16.107625+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Jordan"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "“Winterized” kicks are all of a sudden a massive point of interest on our homepage, as truly every major player kits their staple shoes with... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Jordan 6 Rings Winterized Returns In \"Cobalt Blue\" appeared first on Sneaker News . The post The Jordan 6 Rings Winterized Returns In “Cobalt Blue” appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "e6879e64c316",
+      "title": "Nike Celebrates HBCU Marching Bands With The Air Max 97 Yardrunners Collection",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/10/02/nike-air-max-97-yardrunners/",
+      "original_publish_time": "2026-10-02T18:30:39+00:00",
+      "scraped_time": "2026-10-02T21:08:16.110136+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Nike’s now-yearly Yardrunners collections are the foremost footwear platform where the Swoosh gets to outfit alumni, attendees, and otherwise appreciators with gear for their chosen... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike Celebrates HBCU Marching Bands With The Air Max 97 Yardrunners Collection appeared first on Sneaker News . The post Nike Celebrates HBCU Marching Bands With The Air Max 97 Yardrunners Collection appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "f091a5d76be3",
+      "title": "Timberland Just Released New Día de Muertos Boots for Men and Women With Color-Changing Details and Charm Accessories",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/timberland-dia-de-muertos-premium-6-inch-waterproof-boot-mens-womens-1239305459/",
+      "original_publish_time": "2026-10-02T18:02:56+00:00",
+      "scraped_time": "2026-10-02T21:08:05.063155+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Timberland"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 5,
+      "summary": "The special-edition styles are available now.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "c2b3b487bfbd",
+      "title": "Caitlin Clark Had The Biggest Women’s Signature Shoe Launch In Nike History",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/10/02/nike-caitlin-1-biggest-signature-shoe-launch-in-history/",
+      "original_publish_time": "2026-10-02T18:00:47+00:00",
+      "scraped_time": "2026-10-02T21:08:16.153594+00:00",
+      "time_delta_mins": 0,
+      "category": "Trade Data",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "We previously called the Nike Caitlin 1 one of the brand’s most important debut signature sneakers ever. On the heels of the shoe’s October 1st... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Caitlin Clark Had The Biggest Women's Signature Shoe Launch In Nike History appeared first on Sneaker News . The post Caitlin Clark Had The Biggest Women’s Signature Shoe Launch In Nike History appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "581608899545",
+      "title": "Sole Food: Why Are We So Obsessed With Shoes Named After Food?",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/food-sneakers-2026/",
+      "original_publish_time": "2026-10-02T17:33:00+00:00",
+      "scraped_time": "2026-10-02T21:11:49.225199+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Adidas",
+        "Reebok"
+      ],
+      "keywords_matched": [
+        "shoes",
+        "sneakers",
+        "sole"
+      ],
+      "relevance_score": 9,
+      "summary": "From Angel Reese's Reebok x Reese's collab to Cannoli-inspired adidas Sambas, food-themed sneakers are taking over the menu.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "59ed025af887",
+      "title": "After Years of Growth, Jordan Brand Is Now a Big Challenge for Nike — Here’s Why",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/jordan-brand-problems-explained-nike-q1-2027-1239305289/",
+      "original_publish_time": "2026-10-02T16:43:49+00:00",
+      "scraped_time": "2026-10-02T21:08:05.063753+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "Jordan Brand revenue fell by mid-teens in the first quarter of fiscal 2027.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "392fe911f5c0",
+      "title": "Nike’s Charcoal Air Force 1 Dips Into Its Balenciaga Bag",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nikes-air-force-1-charms-gray/",
+      "original_publish_time": "2026-10-02T16:12:46+00:00",
+      "scraped_time": "2026-10-02T21:11:49.227055+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Nike",
+        "Balenciaga"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "Nike flipped out its gray leather Air Force 1 sneaker & turned it into a Balenciaga City bag.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "2ba2fbe233f2",
       "title": "Nike’s Weak First Quarter Report Ripples Across Footwear Sector",
@@ -89,6 +297,28 @@
       ],
       "relevance_score": 4,
       "summary": "he “regionality” of sneakers is no longer a “restore the feeling” type of issue for Nike, Inc. With the slew of news coming out of... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post First Look At The Air Jordan 3 “Middle East” appeared first on Sneaker News . The post First Look At The Air Jordan 3 “Middle East” appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "30a68e6c8ff1",
+      "title": "Dr. Martens Is Putting More Sole (and Soul) Into Fall Footwear",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/dr-martens-with-soles-bouncing-best-picks/",
+      "original_publish_time": "2026-10-02T14:04:14+00:00",
+      "scraped_time": "2026-10-02T21:11:49.226274+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Dr. Martens"
+      ],
+      "keywords_matched": [
+        "footwear",
+        "sole"
+      ],
+      "relevance_score": 8,
+      "summary": "Dr. Martens’ fall lineup brings the classics and the unexpected, from the 1460 and Adrian loafer to the Reeder and Sinclair in Crazy Horse leather.",
       "ren_take": "",
       "image_url": ""
     },
@@ -2638,112 +2868,6 @@
       ],
       "relevance_score": 3,
       "summary": "The 2026 Black Footwear Forum in Detroit gathered icons of the fashion industry and students alike for a series of conversations related to this year's conference theme: Rooted in CommUnity.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "f18389615814",
-      "title": "Jil Sander Teases Latest Sneakers With Puma in Milan",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/jil-sander-puma-speedcat-suede-milan-fashion-week-1239265223/",
-      "original_publish_time": "2026-09-25T20:14:08+00:00",
-      "scraped_time": "2026-09-26T01:17:14.303916+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Puma"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 5,
-      "summary": "This collection would be the third release from the duo since relaunching their collaboration in October.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "448d78096430",
-      "title": "Jil Sander's Next PUMA Pack Strips Back the Classics",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/9/jil-sander-puma-speedcat-suede-ss27-release-info",
-      "original_publish_time": "2026-09-25T20:03:39+00:00",
-      "scraped_time": "2026-09-25T20:12:52.131051+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Puma"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "SummaryJil Sander and PUMA are releasing minimalist, stripped-back versions of the classic Speedcat and Suede sneakers for SS27.The collaboration features monochromatic colorways and slim silhouettes, though an official release date and price remain unconfirmed.Jil Sander and PUMA are returning to refresh two PUMA classics through a lens of subtraction. ⁠Previewed at the Milan Fashion Week SS27 runway show by guests like King Princess and Space Afrika, the designer label is coming out with a stripped-back variant of the PUMA Speedcat and the PUMA Suede.⁠Instead of adding to the design of the Speedcat, creative director Simone Bellotti reduces it, replacing the signature Formstrip with a perforated shadow. ⁠Other than the small, golden Jil Sander logo on the lacing system, the Black colorwa",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "d75ae7b6e541",
-      "title": "The Nike Caitlin 1 Snacks Down A “Cotton Candy” Colorway",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/09/25/nike-caitlin-1-racer-blue-melon-tint-jf3474-400/",
-      "original_publish_time": "2026-09-25T20:00:14+00:00",
-      "scraped_time": "2026-09-25T20:12:52.360959+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "We’ve counted over a dozen “leaked” colorways of the first signature Caitlin Clark shoes since Nike opened the floodgates with a first look earlier this... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Nike Caitlin 1 Snacks Down A \"Cotton Candy\" Colorway appeared first on Sneaker News . The post The Nike Caitlin 1 Snacks Down A “Cotton Candy” Colorway appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "b283211f087f",
-      "title": "This Confetti Sole Nike Air Force 1 Low Celebrates Kobe Bryant’s Five Championship Parades",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/kobe-bryant-nike-air-force-1-low-parade-release-date-1239264285/",
-      "original_publish_time": "2026-09-25T19:19:01+00:00",
-      "scraped_time": "2026-09-25T20:12:41.545665+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "sole"
-      ],
-      "relevance_score": 5,
-      "summary": "The sneaker also features mismatched overlays and a subtle snakeskin texture.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "3265b30c6a4b",
-      "title": "Nike Opens Its Massive Archive at New York’s Museum of Arts and Design",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/9/nike-form-follows-motion-at-new-yorks-museum-of-arts-and-design",
-      "original_publish_time": "2026-09-25T18:00:12+00:00",
-      "scraped_time": "2026-09-25T20:12:52.133306+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "sneakers",
-        "sole"
-      ],
-      "relevance_score": 5,
-      "summary": "Summary “Nike: Form Follows Motion” traces the brand from early running experiments to Air, Flyknit and Vaporfly.Archival prototypes, sketches and cultural ephemera show how Nike sneakers moved from performance tools into music, fashion and street culture. Before the Swoosh became shorthand, there were sketches, prototypes and plenty of trial and error. “Nike: Form Follows Motion,” now on view at New York’s Museum of Arts and Design, looks back at more than 50 years of the brand, from Bill Bowerman’s early waffle-sole experiments to Air Max, Jordans, Flyknit and Vaporfly. Originally organized by the Vitra Design Museum, the show pulls from Nike’s internal archive of more than 200,000 objects.Waffle Trainers, Air Force 1s, Air Jordans and Vaporflys all make an appearance, but there’s more t",
       "ren_take": "",
       "image_url": ""
     }
