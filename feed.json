@@ -1,8 +1,89 @@
 {
-  "last_updated": "2026-10-01T21:43:36.839411+00:00",
-  "total_articles": 136,
-  "sources_checked": 62,
+  "last_updated": "2026-10-02T02:14:19.564976+00:00",
+  "total_articles": 135,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "f6788ec3c922",
+      "title": "Did Pharrell Williams Just Tease the adidas Adistar Jellyfish V2?",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/10/pharrell-williams-tease-adidas-adistar-jellyfish-v2-first-look",
+      "original_publish_time": "2026-10-02T01:22:26+00:00",
+      "scraped_time": "2026-10-02T02:03:44.998666+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "footwear",
+        "upper"
+      ],
+      "relevance_score": 4,
+      "summary": "Summary Pharrell Williams debuted what appears to be the unreleased adidas Adistar Jellyfish V2 during Paris Fashion WeekSpotted at Dior’s SS27 womenswear show in support of Jonathan Anderson the silhouette features a stripped-back upperThe updated design reduces heavy TPU paneling and is expected to roll out in multiple colorways throughout 2027 During Paris Fashion Week, Pharrell Williams was spotted wearing what appears to be the upcoming adidas Adistar Jellyfish V2. The artist appeared to debut the unreleased footwear model at Dior’s Spring/Summer 2027 womenswear presentation in support of creative director Jonathan Anderson.The updated iteration retains the oversized, running-inspired shape that defined the original silhouette while offering a noticeably cleaner upper. The pair showca",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "e17594ea4148",
+      "title": "Nike CEO Announces Supply Restrictions for Air Jordan Retro Models",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/10/nike-to-limit-air-jordan-retro-supply-moving-forward",
+      "original_publish_time": "2026-10-02T00:41:25+00:00",
+      "scraped_time": "2026-10-02T02:03:45.002500+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "During Nike's Q1 FY2027 earnings call on October 1, CEO Elliott Hill announced a plan to significantly reduce the supply of Retro models from the iconic Air Jordan series, the hallmark of Jordan Brand.The Air Jordan series once sparked fierce competition on every release date, with pairs trading at premium prices on the secondary market. As of 2026, however, it has become commonplace to see store shelves lined with various retro models, with some even sitting on discount racks. Addressing this decline in brand value, Hill officially acknowledged that the company had \"oversupplied the market with iconic retro products\" and declared a forthcoming reduction in supply.According to published data, Jordan Brand released an average of about 10 Retro models per month over the past 12 months, from ",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "61a4983bc79a",
+      "title": "Spain commits to Action Plan for footwear and components industry - World Footwear",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTDdwQ2RPR3Z0a2RBdWFLSTFwNWQ5c3UxVnYwYURvNTZiWHJsYzc0YW1HYWx1LWFIYXZwbmtGa0VuMDJvU21YcW16cXFCOXoweTBfZWhFQkZqcmhYYlN2ZE9RSVBTSWtQQXp6Y0xsZTh2aEUtd3UzcVl5S3dTZkJLemdWczNHSi1EUkp4QmlpSENvZ094Y3U0eHB0WTcwZjlhbW5fU2w1Mk93a2d4Wm1mWA?oc=5",
+      "original_publish_time": "2026-10-01T23:01:24+00:00",
+      "scraped_time": "2026-10-02T02:03:55.851990+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Spain commits to Action Plan for footwear and components industry World Footwear",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "9f3ba6544249",
+      "title": "Spooky Stitching Preps The Air Jordan 1 Mid For Halloween",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/10/01/air-jordan-1-mid-halloween-iq5492-001/",
+      "original_publish_time": "2026-10-01T22:00:02+00:00",
+      "scraped_time": "2026-10-02T02:03:45.127051+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "All of a sudden, the Nike Halloween 2026 series is a massive storyline. With past years’ hits like the “Black Spider Dunk” or the shaggy... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Spooky Stitching Preps The Air Jordan 1 Mid For Halloween appeared first on Sneaker News . The post Spooky Stitching Preps The Air Jordan 1 Mid For Halloween appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "32a443493623",
       "title": "Nike Reveals New Operating Model as It Misses Q1 Sales",
@@ -2718,104 +2799,6 @@
       ],
       "relevance_score": 6,
       "summary": "Bangladesh footwear exports gain US market share as China retreats The Financial Express",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "be9cc50e07f4",
-      "title": "I’m Picky About Walking Shoes, but These Oprah- and Podiatrist-Approved Vionic Styles Made It on My Packing List - instyle.com",
-      "source_name": "Google News - Sneaker Brand",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAxR2hEUktTb2pHMTFVNEhPYzhxZ0FlTDJoLURqMlhlNUxOT1I2cTdoWFBuLU9CQjFkWW53dVoyRDJueGQzMXdTcFNIbWFlYTdyX0ZfMUwyTExYTEdqR3hHN0xLZWpYSnRQdVVvQm5KbHBEd3RCckJISlFiMFJWZw?oc=5",
-      "original_publish_time": "2026-09-25T01:30:00+00:00",
-      "scraped_time": "2026-09-26T14:54:24.444453+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "I’m Picky About Walking Shoes, but These Oprah- and Podiatrist-Approved Vionic Styles Made It on My Packing List instyle.com",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "5c92993feea6",
-      "title": "Conexão Origem Sustentável returns for third edition - worldfootwear.com",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPN2tXUXVlWC1zcjhXX1dJLXZ1WncxUko5VlF1dUtVeXZGby03eUI3bC13dkhheGJxdnZQVUhnZ1VJWmpoS1AxMU1GY29ySlBTcFFzM3RoYjJEMy1SQ0xTNHg2WGJqS3pKRHVXTXJOT3lETkpsd2dlOFhRck9tMy0yUDVDQ0d4ZHRPVUc1U3NxbkpIUVlJRnVnQ3Rxd2tFMGc?oc=5",
-      "original_publish_time": "2026-09-24T23:02:23+00:00",
-      "scraped_time": "2026-09-25T01:15:25.859788+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Conexão Origem Sustentável returns for third edition worldfootwear.com",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "3f67e7dc607e",
-      "title": "Kate Moss Brings Her Iconic Festival Footwear to the Present Day for Hunter’s 170th Anniversary",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-trends/kate-moss-hunter-boots-170th-anniversary-1239255613/",
-      "original_publish_time": "2026-09-24T23:00:00+00:00",
-      "scraped_time": "2026-09-25T01:15:04.002420+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "boot",
-        "footwear"
-      ],
-      "relevance_score": 4,
-      "summary": "Moss famously wore Hunter boots at Glastonbury Festival in 2005.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "43683952b4b4",
-      "title": "Nike’s $275 Hybrid Fly HYROX Sneaker Releases Summer 2027",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/09/24/nike-hybrid-fly-hyrox-shoes/",
-      "original_publish_time": "2026-09-24T22:00:36+00:00",
-      "scraped_time": "2026-09-25T01:15:14.806642+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "Following an official announcement earlier this summer, the Nike Hybrid Fly running and training sneaker has surfaced via official images. Hybrid sneakers, or cross-trainers, are... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike’s $275 Hybrid Fly HYROX Sneaker Releases Summer 2027 appeared first on Sneaker News . The post Nike’s $275 Hybrid Fly HYROX Sneaker Releases Summer 2027 appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "462e43bb435a",
-      "title": "A Trend Forecaster on the Sneakers You’ll See Everywhere This Fall - instyle.com",
-      "source_name": "Google News - Sneaker Brand",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVDl3dFI2VmRNUVRwWmE1aHp4dHViSHVLX2hFQTNyU0FkendYQlJUUzFkU0ZIb3ltY3BmMHFfd2pTdUgxODlvbEQtUW45QXJ0SWZwbk1ZeG51M1FDOU5rb25oYzhOVk5jamlLTTZIbDZhUEVqbW9UcjBUYXpxLUN1NA?oc=5",
-      "original_publish_time": "2026-09-24T21:58:02+00:00",
-      "scraped_time": "2026-09-25T15:44:50.326682+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "A Trend Forecaster on the Sneakers You’ll See Everywhere This Fall instyle.com",
       "ren_take": "",
       "image_url": ""
     }
