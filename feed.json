@@ -1,8 +1,28 @@
 {
-  "last_updated": "2026-10-02T21:18:58.493928+00:00",
-  "total_articles": 138,
-  "sources_checked": 60,
+  "last_updated": "2026-10-03T01:58:14.610012+00:00",
+  "total_articles": 137,
+  "sources_checked": 62,
   "articles": [
+    {
+      "id": "d32cf5a535df",
+      "title": "When Did Veja's Shoes Get so Good?",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/veja-best-sneakers/",
+      "original_publish_time": "2026-10-02T21:11:00+00:00",
+      "scraped_time": "2026-10-03T01:51:02.674278+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoes",
+        "sneakers"
+      ],
+      "relevance_score": 4,
+      "summary": "Veja, the famous maker of eco-friendly but rather snoozey sneakers, is turning out some seriously suave shoes these days — out of nowhere!",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "cfb35880760c",
       "title": "Nike Brings Glow-In-The-Dark Soles To The GT Cut 1 “Purple Comet”",
@@ -2828,46 +2848,6 @@
       ],
       "relevance_score": 3,
       "summary": "This sneaker brand makes shoes that can be recycled again and again (and again) British GQ",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "d84adb31ca59",
-      "title": "The Jordan Spiz’ike Low Trots Out A Crowd-Pleasing “Cool Grey”",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/09/25/jordan-spizike-low-cool-grey-black-smoke-grey-university-red-fq1759-015/",
-      "original_publish_time": "2026-09-25T22:00:10+00:00",
-      "scraped_time": "2026-09-26T01:17:24.998638+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Jordan"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "Albeit with plenty of crossover, there are shoes that stir up discourse and others that just generate money. The Jordan Spiz’ike Low sits firmly in... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Jordan Spiz'ike Low Trots Out A Crowd-Pleasing \"Cool Grey\" appeared first on Sneaker News . The post The Jordan Spiz’ike Low Trots Out A Crowd-Pleasing “Cool Grey” appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "d808f7f96f60",
-      "title": "Wise Words from Colin Kaepernick, D.M.C. and More at the 2026 Black Footwear Forum",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/2026-black-footwear-forum-overview-1239226460/",
-      "original_publish_time": "2026-09-25T21:27:32+00:00",
-      "scraped_time": "2026-09-26T01:17:14.300766+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "The 2026 Black Footwear Forum in Detroit gathered icons of the fashion industry and students alike for a series of conversations related to this year's conference theme: Rooted in CommUnity.",
       "ren_take": "",
       "image_url": ""
     }
