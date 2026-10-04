@@ -1,8 +1,50 @@
 {
-  "last_updated": "2026-10-04T10:58:18.982477+00:00",
-  "total_articles": 141,
-  "sources_checked": 61,
+  "last_updated": "2026-10-04T15:52:26.514801+00:00",
+  "total_articles": 143,
+  "sources_checked": 62,
   "articles": [
+    {
+      "id": "c5fb9df448a4",
+      "title": "Nike’s Stealthy Racing Shoe Has the Long-Ass Run Covered",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-zoom-rival-waffle-7/",
+      "original_publish_time": "2026-10-04T13:19:00+00:00",
+      "scraped_time": "2026-10-04T15:45:08.893129+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "outsole",
+        "sole"
+      ],
+      "relevance_score": 4,
+      "summary": "Nike’s Zoom Rival Waffle 7 is a lightweight road and cross-country racing shoe made for long runs, with a grippy waffle outsole and streamlined profile.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "5e112cae688d",
+      "title": "adidas' Wafer-Thin Gazelle Is Fresh From the Biscuit Tin",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/adidas-gazelle-lo-pro-khaki/",
+      "original_publish_time": "2026-10-04T12:16:00+00:00",
+      "scraped_time": "2026-10-04T15:45:08.893828+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Adidas",
+        "Off-White"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "This adidas Gazelle Lo Pro asks for a cup of tea. The flattened classic has the pleasing palette of a biscuit: sandy suede, off-white stripes.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "98899d6b9744",
       "title": "Podiatrist-Approved Loafers, Sneakers, and Fall Flats Are on Sale at Amazon, From $50 - instyle.com",
