@@ -1,8 +1,28 @@
 {
-  "last_updated": "2026-10-04T20:04:18.554250+00:00",
-  "total_articles": 142,
+  "last_updated": "2026-10-05T01:55:29.489967+00:00",
+  "total_articles": 141,
   "sources_checked": 62,
   "articles": [
+    {
+      "id": "f63d194c1bbd",
+      "title": "FAIST Voices: meet Carité Shoemaking Group - World Footwear",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNM2VaN3hOdE9nSy1QZlZJNVZ2V0I3eDA3dk9BOEY5ZjY5ZV9WUlFwMUwya1JLc1VnLThFemc5QmlRUG5FUGd6TUZzbFZ2TVhPcmRNakp5NGZGaEhBeXhfT2dZSGFBRUlXS1FmLVJoT1FSc3B0OUFhdnN4bFRvU2xTMEVBSE11T29FZmEzbHpfVTk?oc=5",
+      "original_publish_time": "2026-10-04T23:04:26+00:00",
+      "scraped_time": "2026-10-05T01:44:47.966460+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "shoemaking"
+      ],
+      "relevance_score": 6,
+      "summary": "FAIST Voices: meet Carité Shoemaking Group World Footwear",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "fb90b932f41f",
       "title": "Nike's Famously Chromed-Out Cleats Are Sleek Sneakers Now",
@@ -2905,52 +2925,6 @@
       ],
       "relevance_score": 3,
       "summary": "The Blackpink star is seen wearing shoes from the French sports brand’s new winter collection.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "484cfa6465fb",
-      "title": "A.P.C. and Clarks Originals Unveil Collaborative Desert Boot and Weaver Styles",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/9/a-p-c-clarks-originals-collabo-shoes-release-info",
-      "original_publish_time": "2026-09-28T00:52:03+00:00",
-      "scraped_time": "2026-09-28T01:27:52.705142+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Clarks"
-      ],
-      "keywords_matched": [
-        "boot",
-        "footwear",
-        "sole"
-      ],
-      "relevance_score": 7,
-      "summary": "A.P.C. and Clarks Originals have unveiled a collaborative footwear collection.The collaboration centers on two signature models: the Desert Boot and the Weaver, which celebrates its 50th anniversary in 2027. Both are crafted from materials including full-grain leather, suede, and crepe soles, designed to develop more character with wear.Designed by Nathan Clark in the 1940s, the Desert Boot is one of Clarks Originals’ defining styles. This collaboration preserves its classic construction while using full-grain leather and a crepe sole. It comes in two colorways: dark-brown smooth leather and camel ribbed split leather.The Weaver, meanwhile, is derived from the classic Wallabee. Defined by box stitching and a clean silhouette, it has become a Clarks Originals staple. For this collaboration,",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "7b40c2c64422",
-      "title": "LM.RT Launches the New Balance 2010 Inspired by the Myth of Icarus",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/9/new-balance-lm-rt-2010-release-info",
-      "original_publish_time": "2026-09-28T00:35:14+00:00",
-      "scraped_time": "2026-09-28T01:27:52.708993+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "New Balance"
-      ],
-      "keywords_matched": [
-        "midsole",
-        "sole",
-        "upper"
-      ],
-      "relevance_score": 5,
-      "summary": "New Balance and LM.RT, the label led by Liam Maher, have unveiled the 2010 Designed by LM.RT collaboration.Rooted in the tailoring and manufacturing traditions passed down through Maher’s family, LM.RT is a brand that values material texture and craftsmanship. For this New Balance 2010, the design draws on the Greek myth of Daedalus and Icarus, interpreting the theme of “balance.”The upper layers dark brown suede, mesh, and warm brown leather, with a warm orange logo as an accent. An aged finish recreates the look of scuffs and fraying for a worn-in feel. Underfoot, the midsole features ABZORB cushioning. The shoe also comes with custom packaging adorned with mythological motifs including wax, wings, and flames.The New Balance 2010 Designed by LM.RT is priced at ¥26,400, including tax. It ",
       "ren_take": "",
       "image_url": ""
     }
