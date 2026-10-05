@@ -1,8 +1,134 @@
 {
-  "last_updated": "2026-10-05T19:52:26.570108+00:00",
-  "total_articles": 132,
+  "last_updated": "2026-10-05T23:13:24.080459+00:00",
+  "total_articles": 130,
   "sources_checked": 61,
   "articles": [
+    {
+      "id": "51155776ad55",
+      "title": "LeBron James Gets Older, And His Nike Shoes Get Lighter",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/10/05/nike-lebron-24-stars-io8204-400/",
+      "original_publish_time": "2026-10-05T21:30:57+00:00",
+      "scraped_time": "2026-10-05T23:02:40.228492+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 5,
+      "summary": "After months of early looks and on-foot appearances, Nike Basketball has officially unveiled the LeBron 24 in the “Stars” colorway, opening another chapter in one... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post LeBron James Gets Older, And His Nike Shoes Get Lighter appeared first on Sneaker News . The post LeBron James Gets Older, And His Nike Shoes Get Lighter appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "bdb4eebe52c8",
+      "title": "Adidas vs. Nike: Who Has the Better Innovation Pipeline",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/nike-innovate-pace-operating-model-new-shoes-market-faster-1239313238/",
+      "original_publish_time": "2026-10-05T20:45:11+00:00",
+      "scraped_time": "2026-10-05T23:02:29.149452+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 5,
+      "summary": "Nike shows it can innovate, and the new Pace operating model could bring the new shoes to market faster than before.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "ee4b2f9e8efa",
+      "title": "Vans' Waterproof Skate Boots Kinda Go Hard",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/vans-sk8-hi-gore-tex-insulated-shoes/",
+      "original_publish_time": "2026-10-05T20:36:33+00:00",
+      "scraped_time": "2026-10-05T23:06:13.773523+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Vans"
+      ],
+      "keywords_matched": [
+        "boot",
+        "shoes"
+      ],
+      "relevance_score": 6,
+      "summary": "Vans releases new Sk8-Hi GORE-TEX Insulated shoes in a clean \"Light Grey\" colorway ahead of the winter.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "76074b208330",
+      "title": "A Luxuriously Shrouded Jordan Sneaker Hits the Streets",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/jordan-16-black-pack/",
+      "original_publish_time": "2026-10-05T20:32:52+00:00",
+      "scraped_time": "2026-10-05T23:06:13.775334+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "Nike's Air Jordan 16 sneaker lands in the upcoming \"Black Pack\" with a luxurious elephant-textured leather design.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "6b71214a70fa",
+      "title": "Lacoste Put A Tennis Ball Inside Their Ace-T Sneaker",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/10/05/lacoste-tennis-ball-sneaker-ace-t/",
+      "original_publish_time": "2026-10-05T20:30:56+00:00",
+      "scraped_time": "2026-10-05T23:02:40.231032+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Lacoste"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "Some of the sneaker world’s most consequential inventions have come from the most unexpected places. Decades of Nike product can trace their lineage back to... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Lacoste Put A Tennis Ball Inside Their Ace-T Sneaker appeared first on Sneaker News . The post Lacoste Put A Tennis Ball Inside Their Ace-T Sneaker appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "3ac83133d639",
+      "title": "Nike’s Italian Air Max Loafer Went from Sweet to Scaly",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-air-max-dolce-pink-croc-skin/",
+      "original_publish_time": "2026-10-05T19:24:49+00:00",
+      "scraped_time": "2026-10-05T23:06:13.774759+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "Nike's Air Max Dolce sneaker gets a cage-free, moc-style update complete with pink croc-skin leather uppers.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "0c4f0674fada",
       "title": "Givenchy Spring 2027 Shoes: Edgy Zippers and Playful Pom-poms Hit the Paris Runway",
@@ -2572,174 +2698,6 @@
       ],
       "relevance_score": 3,
       "summary": "Oprah, 72, Wears Comfy Shoes From This Podiatrist-Approved Brand With Supportive Styles Up to 47% Off instyle.com",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "da832445893d",
-      "title": "EU–Mercosur: What Does the Agreement Mean for the Footwear Industry? - World Footwear",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ3pBUEpOT0xYSzh6LTNwZWxmeS1iUXJ4ZlFncldBSDFLQTFERjN2WUE5WlF5RzIwLXFwRllTaFpzWlBxUUhvek16ZER3VzNSRzd0aHd5d1NzaFQwcGtiWjhOb3F2UnhreXRNUEJxVUxLOHY2bXhDbXNQa3lSTzVGNUU2V01OQnhZTC1lOTJqYmpfYVctaHhHTGJnSjNLTjR0dy1COHpOSWJOUHFNQkVoclhB?oc=5",
-      "original_publish_time": "2026-09-28T23:01:20+00:00",
-      "scraped_time": "2026-09-29T02:31:16.665642+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "footwear industry"
-      ],
-      "relevance_score": 6,
-      "summary": "EU–Mercosur: What Does the Agreement Mean for the Footwear Industry? World Footwear",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "0d6662a6862f",
-      "title": "The Nike Air Max 95 Joins The Cow Print Movement",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/09/28/nike-air-max-95-cow-print-ir5113-001/",
-      "original_publish_time": "2026-09-28T23:00:32+00:00",
-      "scraped_time": "2026-09-29T02:31:05.896748+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "With apologies to our friends in Beaverton, it’s impossible to take stock of the rampant animal print moment in footwear without giving credit to the... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Nike Air Max 95 Joins The Cow Print Movement appeared first on Sneaker News . The post The Nike Air Max 95 Joins The Cow Print Movement appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "3803d41a61d0",
-      "title": "The Nike Air Force 1 Turns The Charm Up With Extended Tongues",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/09/28/nike-air-force-1-low-anthracite-metallic-silver-iz9073-060/",
-      "original_publish_time": "2026-09-28T22:00:49+00:00",
-      "scraped_time": "2026-09-28T22:23:11.714526+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Good companies copy. Great companies steal. Perhaps that’s a blunt assessment of how charmed footwear have taken over the industry, but it’s now undeniable that... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Nike Air Force 1 Turns The Charm Up With Extended Tongues appeared first on Sneaker News . The post The Nike Air Force 1 Turns The Charm Up With Extended Tongues appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "f6776833bb23",
-      "title": "It Helps That Toe Shoes Look Cool Now",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/toe-shoes-good/",
-      "original_publish_time": "2026-09-28T21:33:00+00:00",
-      "scraped_time": "2026-09-29T02:34:37.331389+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Vibram"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 4,
-      "summary": "Toe shoes are more normalized than ever before but Vibram's Five Finger shoe doesn't always look good. These new redesigns certainly help, though.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "588e87720130",
-      "title": "These Hoka Sneakers Feel Like Walking on Clouds—I’ve Felt No Pain After Dozens of Miles - EatingWell",
-      "source_name": "Google News - Sneaker Brand",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1sZzluTHE5OEZMZVBkN1J4eDU1eEtjOVV3V0RSOHdJeWpEcVlvTEk0N2RBYVVuR3pFNUc0cU1JZnRDNS1GV19BdmMtSG43U2ZEYTNnVDFtT1dyQjNLdDBsMFZWM19KRUNCelpV?oc=5",
-      "original_publish_time": "2026-09-28T21:30:00+00:00",
-      "scraped_time": "2026-10-01T11:13:34.176104+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Hoka"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 5,
-      "summary": "These Hoka Sneakers Feel Like Walking on Clouds—I’ve Felt No Pain After Dozens of Miles EatingWell",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "021c39c31b2e",
-      "title": "Runway Shoe Highlights from Milan Fashion Week: Prada, Gucci, Onitsuka Tiger and More",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-trends/runway-shoe-highlights-milan-fashion-week-spring-2027-1239284688/",
-      "original_publish_time": "2026-09-28T20:50:29+00:00",
-      "scraped_time": "2026-09-28T22:23:00.976511+00:00",
-      "time_delta_mins": 0,
-      "category": "Trade Data",
-      "brands_mentioned": [
-        "Gucci",
-        "Prada"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 4,
-      "summary": "While some classic styles were on display in Milan, many brands embraced inventive silhouettes and lively design details.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "9b61ca0c6d4f",
-      "title": "This Transforming Shoe Could Change Footwear Forever (EXCLUSIVE)",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/daniel-bailey-terracotta-interview/",
-      "original_publish_time": "2026-09-28T20:42:12+00:00",
-      "scraped_time": "2026-09-29T02:34:37.333107+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Vibram"
-      ],
-      "keywords_matched": [
-        "footwear",
-        "shoes",
-        "sole"
-      ],
-      "relevance_score": 6,
-      "summary": "Terracotta's debut product was born of Mr. Daniel Bailey's longstanding Vibram collaboration, three transforming shoes built atop modular sole units.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "1ee2da317d31",
-      "title": "A Martin Sallières Shoe Is “Very Prada” but All His Own",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/martin-sallieres-interview/",
-      "original_publish_time": "2026-09-28T20:41:03+00:00",
-      "scraped_time": "2026-09-29T11:00:24.711631+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [
-        "Prada"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "The French footwear designer's namesake brand may only be a year old, but it's already become a hit thanks to his imperfect, artisanal approach to each shoe.",
       "ren_take": "",
       "image_url": ""
     }
