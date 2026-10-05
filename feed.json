@@ -1,8 +1,131 @@
 {
-  "last_updated": "2026-10-05T12:04:21.073049+00:00",
-  "total_articles": 133,
+  "last_updated": "2026-10-05T19:52:26.570108+00:00",
+  "total_articles": 132,
   "sources_checked": 61,
   "articles": [
+    {
+      "id": "0c4f0674fada",
+      "title": "Givenchy Spring 2027 Shoes: Edgy Zippers and Playful Pom-poms Hit the Paris Runway",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-trends/givenchy-spring-2027-shoes-paris-fashion-week-sarah-burton-1239313171/",
+      "original_publish_time": "2026-10-05T19:02:10+00:00",
+      "scraped_time": "2026-10-05T19:41:38.349535+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "boot",
+        "shoes"
+      ],
+      "relevance_score": 4,
+      "summary": "Sarah Burton and her design team presented a range of silhouettes including wedge heels, boots and more.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "ef0f2fbff5d8",
+      "title": "Kevin Durant Wants Nike To Make KD Cleats",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/10/05/kevin-durant-nike-kd-4-custom-cleats/",
+      "original_publish_time": "2026-10-05T19:00:14+00:00",
+      "scraped_time": "2026-10-05T19:41:50.084191+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "The Slim Reaper has spoken: Kevin Durant wants Nike to turn his signature shoes into football cleats. The request came via an Instagram Story showing... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Kevin Durant Wants Nike To Make KD Cleats appeared first on Sneaker News . The post Kevin Durant Wants Nike To Make KD Cleats appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "7def5b866a9b",
+      "title": "A Sale of Kurt Geiger’s Concession Business Would Reshape the Playing Field for Footwear Designers",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/steve-madden-kurt-geiger-sale-shoe-concessions-harrods-1239313352/",
+      "original_publish_time": "2026-10-05T17:02:37+00:00",
+      "scraped_time": "2026-10-05T19:41:38.352611+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Steve Madden"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 4,
+      "summary": "A new report says Kurt Geiger parent Steve Madden could offload Geiger's concession business at Harrods and Selfridges in London.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "86ff568d620d",
+      "title": "How Messi and Adidas Are Partnering With Sony on a New Animated Series",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/adidas-kids-footwear-apparel-series-sony-lionel-messi-1239313067/",
+      "original_publish_time": "2026-10-05T16:30:55+00:00",
+      "scraped_time": "2026-10-05T19:41:38.353430+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Adidas is producing kids' footwear and apparel for Summer '27 that's connected to the animated series 'Messi and the Giants' from Sony and co-executive producer soccer star Lionel Messi.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "e1fc77483954",
+      "title": "Molly-Mae Hague’s Matcha- and Latte-inspired Adidas Sneakers Are Coming to the U.S.",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/molly-mae-hague-adidas-samba-superstar-release-date-1239312882/",
+      "original_publish_time": "2026-10-05T16:18:10+00:00",
+      "scraped_time": "2026-10-05T19:41:38.354138+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "The \"Love Island\" star and influencer's Samba and Superstar previously dropped in the U.K.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "cbbfa18d1317",
+      "title": "This sneaker brand makes shoes in 3 minutes using robots - Yahoo",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQY2U1cnZLbHRRYmp4NU5zdEVvcGlSejQ4Ymh5VEdiSzdMZGNDNDdmNm9MQ0prbUFvLVZ0SWtwMTU5RE45WkNjUEM2aUdpQWp4ODQ5MGhtUUh0clFzWUdFaUdCN1BEenRCUmpiWGsxMGZVWVh0N2RrZlpjbjRhcWJhU2Jn?oc=5",
+      "original_publish_time": "2026-10-05T12:00:00+00:00",
+      "scraped_time": "2026-10-05T19:42:01.636525+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "This sneaker brand makes shoes in 3 minutes using robots Yahoo",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "85d8263c83a7",
       "title": "Martha Stewart, Oprah, and I Wear These Supportive Podiatrist-Approved Sneakers Going for 52% Off - instyle.com",
@@ -2617,152 +2740,6 @@
       ],
       "relevance_score": 3,
       "summary": "The French footwear designer's namesake brand may only be a year old, but it's already become a hit thanks to his imperfect, artisanal approach to each shoe.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "1830eace7cd5",
-      "title": "Record Executive Cole Bennett’s Furry Birkenstock Boston Collab Is a ‘Love Letter’ to His Dog",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/birkenstock-cole-bennett-collaboration-details-boston-clogs-1239285011/",
-      "original_publish_time": "2026-09-28T18:37:28+00:00",
-      "scraped_time": "2026-09-28T22:23:00.979598+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [
-        "Birkenstock",
-        "Off-White"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "The clog silhouette is reworked in off-white wool felt with a soft microfiber lining and a custom crescent moon buckle in antique dark copper.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "d13ea15b51fb",
-      "title": "Here’s Everything You Need to Know About Nike Air Force 1 Shoes History",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-air-force-1-history-1237702786/",
-      "original_publish_time": "2026-09-28T18:16:10+00:00",
-      "scraped_time": "2026-09-28T18:30:31.545658+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "shoes",
-        "sneakers"
-      ],
-      "relevance_score": 6,
-      "summary": "Examining the history and influence of one of Nike's most classic sneakers.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "5fcf48d7f87f",
-      "title": "JJJJound x New Balance 990v3 Revealed in Tan Suede",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/9/jjjjound-new-balance-990v3-release-date-fw26-info",
-      "original_publish_time": "2026-09-28T17:59:35+00:00",
-      "scraped_time": "2026-09-28T18:30:42.144071+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "New Balance"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "SummaryThe FW26 JJJJound x New Balance 990v3 features a monolithic tan suede upper with contrasting black accents, dropping the previous mesh base.The USA-made shoe includes discreet branding, though an official release date and retail price have not yet been announced.For FW26, JJJJound and New Balance are delivering yet another variant of the New Balance 990v3, a silhouette the collaborators have reimagined time and time again since the very start of their partnership. The 990v3 is not only the first JJJJ x NB silhouette, debuting in 2018, but also the subject of four more releases since then. Now the JJJJound x New Balance 990v3 returns in a familiar palette, echoing the hues of their debut shoe with a streamlined executionComposed of full tan suede uppers, the design gets contrast from",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "fb16236783fa",
-      "title": "Nike’s Yardrunners Program Returns With The Air Max 97",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/09/28/nike-air-max-97-clark-atlanta-university-panthers-iw7003-600/",
-      "original_publish_time": "2026-09-28T16:00:05+00:00",
-      "scraped_time": "2026-09-28T18:30:42.339007+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Nike’s commitment to HBCUs goes far beyond the bounds of footwear, but given our purpose here, it’s typically the most visible aspect from our perspective.... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike’s Yardrunners Program Returns With The Air Max 97 appeared first on Sneaker News . The post Nike’s Yardrunners Program Returns With The Air Max 97 appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "e1ff71a834ea",
-      "title": "Virgil Abloh’s Off-White x Air Jordan 1 Has Emerged in a Never-before-seen Colorway",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/off-white-air-jordan-1-black-lightning-muslin-sample-1239284279/",
-      "original_publish_time": "2026-09-28T15:03:26+00:00",
-      "scraped_time": "2026-09-28T18:30:31.548456+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Off-White",
-        "Jordan"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 4,
-      "summary": "The unreleased sample went nearly 10 years without surfacing.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "69cd64a0505a",
-      "title": "Willy Chavarria and adidas Originals Rework the Megaride for Fall 2026",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/9/willy-chavarria-adidas-originals-fall-winter-2026-fw26-collaboration-collection-mega-willy-low-willy-mega-mid-release-info",
-      "original_publish_time": "2026-09-28T14:00:38+00:00",
-      "scraped_time": "2026-09-28T18:30:42.146203+00:00",
-      "time_delta_mins": 0,
-      "category": "Trade Data",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Name: Willy Chavarria x adidas Originals Mega Willy Low, Willy Chavarria x adidas Originals Willy Mega MidColorway: Black and Agave, BlackSKU: TBCMSRP: $230 USD, $280 USDRelease Date: October 3Where to Buy: adidas, CONFIRMED appadidas Originals and Willy Chavarria have built their Fall 2026 collection around the Megaride franchise, pairing the Mega Willy Low in Black and Agave with a Black Willy Mega Mid. The October capsule draws on '90s sportswear and scales up archival adidas shapes, continuing the designer's ongoing work with scale, identity and his own heritage.The footwear comes in two heights. The low-top Mega Willy Low arrives in two colorways, a Black pair and an Agave option, while the Willy Mega Mid raises the collar to a mid-cut and comes in Black only. Together the three pairs",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "832a57412ac8",
-      "title": "‘Off Campus’ Star Belmont Cameli Sports the Workout Plus, Club C 85 Vintage Sneakers in Reebok’s Fall Classics Campaign",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/belmont-cameli-reebok-classics-campaign-fall-2026-1239282874/",
-      "original_publish_time": "2026-09-28T13:00:00+00:00",
-      "scraped_time": "2026-09-28T18:30:31.549224+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Reebok"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 5,
-      "summary": "The campaign comes one month after Reebok revealed that Hilary Duff had joined the company as a brand ambassador.",
       "ren_take": "",
       "image_url": ""
     }
