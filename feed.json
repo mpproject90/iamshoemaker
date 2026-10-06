@@ -1,8 +1,134 @@
 {
-  "last_updated": "2026-10-06T17:14:41.830117+00:00",
+  "last_updated": "2026-10-06T21:36:50.941231+00:00",
   "total_articles": 118,
-  "sources_checked": 61,
+  "sources_checked": 60,
   "articles": [
+    {
+      "id": "d4e329e7afd4",
+      "title": "The Brain Dead x adidas Bowling Shoe Got a Wild Makeover",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/10/brain-dead-adidas-bowling-cheetah-snakeskin-release-info",
+      "original_publish_time": "2026-10-06T20:18:46+00:00",
+      "scraped_time": "2026-10-06T21:25:48.140645+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "footwear",
+        "sneakers",
+        "upper"
+      ],
+      "relevance_score": 5,
+      "summary": "SummaryFor Fall 2026, Brain Dead and adidas updated their 1978-inspired bowling shoe with bold leopard and faux snakeskin prints.Retailing for $250, the non-gameplay sneakers feature classic branding, contrasting details, and elevated heels.With their latest footwear drop, Brain Dead and adidas continue to evolve their partnership, this time dialling in on the Bowling silhouette they introduced in 2024. Arriving in two animal prints, the streamlined leather shoe is updated with a bigger and bolder personality for Fall 2026.Inspired by a 1978 adidas design, the bowling shoe is reimagined in both a leopard fur-style upper and faux snakeskin upper. It's a sharp turn away from the more subtle all-black and black-and-white versions they have dropped thus far. In keeping with the original model,",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "8250b93d0190",
+      "title": "Dr. Martens Is Changing. You're Not Supposed to Notice.",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/dr-martens-rebrand-interview/",
+      "original_publish_time": "2026-10-06T20:18:31+00:00",
+      "scraped_time": "2026-10-06T21:29:32.563060+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Dr. Martens"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "Dr. Martens is rebranding but not enough for you to notice. That's the point, as creative director Neil Cummings tells us: with shoes this perfect, why change?",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "e44bdab06d99",
+      "title": "The adidas Anthony Edwards 3 “Omen” Is Ready For Halloween",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/10/06/adidas-anthony-edwards-3-ae3-halloween-kj3021/",
+      "original_publish_time": "2026-10-06T19:30:20+00:00",
+      "scraped_time": "2026-10-06T21:25:48.304409+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "Omens can be good or bad, but for opposing guards, looking down at a pair of Anthony Edwards shoes at the top of the key... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The adidas Anthony Edwards 3 \"Omen\" Is Ready For Halloween appeared first on Sneaker News . The post The adidas Anthony Edwards 3 “Omen” Is Ready For Halloween appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "61f3426b8108",
+      "title": "Nike’s Tartan Sneakers Are as Techy as They Are Preppy",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-shox-tl-tartan-red-black/",
+      "original_publish_time": "2026-10-06T18:28:46+00:00",
+      "scraped_time": "2026-10-06T21:29:32.564267+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "Nike's Shox TL sneaker gets another plaid makeover, this time featuring a red Tartan print for an all-new collection.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "1ccf93e6d83b",
+      "title": "‘Avatar: The Last Airbender’ Fans Can Rep Their Favorite Show With Reebok Sneakers",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/reebok-avatar-the-last-airbender-sneaker-collaboration-1239315610/",
+      "original_publish_time": "2026-10-06T17:53:00+00:00",
+      "scraped_time": "2026-10-06T21:25:37.595185+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Reebok"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "A collaborative collection launching Wednesday includes four sneaker styles inspired by the characters and story of the beloved Nickelodeon animated series.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "8fef07cb47b4",
+      "title": "Colorful Shoes Took Over Miu Miu’s Spring 2027 Runway [PHOTOS] - WWD",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPY0VGSHpZV1F0aExGV1JBMGZ1VHNWdVliYjctbk84c0hrWHc3U1dad3J6VTRPeERYSFNacVloTTM5X3FCTGM1cVMtaTNuSDVmeE9pcVVRZDU2aXM3WXI3Y3gzeWMydVFmTy1Gb2h2aXJsV2s0S0YxMlQ0dGF0TzZOQjRjeWlwOG0yZ0ZFTmwyakFxb2hPNVFyajJUcE16OHk5bjdhd2lSSzYzV2F2?oc=5",
+      "original_publish_time": "2026-10-06T16:58:57+00:00",
+      "scraped_time": "2026-10-06T21:25:58.943822+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "Colorful Shoes Took Over Miu Miu’s Spring 2027 Runway [PHOTOS] WWD",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "23743f7ba44d",
       "title": "LeBron James’ Nike Sneakers Are Notoriously Heavy — but His Newest Is the Lightest Yet",
@@ -2333,127 +2459,6 @@
       ],
       "relevance_score": 3,
       "summary": "Trade Agreements Pave the Way for Increased Indian Leather Exports Fibre2Fashion",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "0c816610cf44",
-      "title": "Nike’s Waterproof Air Force 1 Is the Real Winter Soldier",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-air-force-1-gore-tex-vibram-black-pine/",
-      "original_publish_time": "2026-09-29T20:36:30+00:00",
-      "scraped_time": "2026-09-30T01:57:29.361990+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike",
-        "Vibram"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "Nike brings back the Air Force 1 Low GORE-TEX Vibram sneaker in a new \"Black Pine\" colorway. Here's everything on the stylish winter-ready shoe.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "bedad6a4b0ac",
-      "title": "Jaylen Brown Arrives in Philly With a New Model from His 741 Performance Sneaker Brand - Sole Retriever",
-      "source_name": "Google News - Sneaker Brand",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSE5yTGlVY2pCdzZKMk9JbldBYVIyMEVhZnE5amNDRjlIUFZ4TVljZi1LOHEtTzdGaTFuVWdxWHFNRTFGRGZpM0tTZ3BKMWNMZzFxVU9EeUxRLVNmTDJCMTlfXzJSUDNMdW4yVjB5cnhCb2tPcXQxSnVHczQ0bHV0Umg0Qmp6aWhy?oc=5",
-      "original_publish_time": "2026-09-29T20:30:23+00:00",
-      "scraped_time": "2026-09-29T21:15:07.203783+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "sole"
-      ],
-      "relevance_score": 3,
-      "summary": "Jaylen Brown Arrives in Philly With a New Model from His 741 Performance Sneaker Brand Sole Retriever",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "51d439e9a905",
-      "title": "Laura Dern Just Joined Nicole Kidman in Wearing the Chic Fall Shoe Trend Replacing Regular Sneakers - instyle.com",
-      "source_name": "Google News - Sneaker Brand",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9rMXBKMlE5WEdtaUlzVzI3aERyNEc2V19UVnFHZE1rVTdhZnhSbFp1Z0VMLUNYZW9JcWd2d20zSUlZNXU4S24yaVdJUk83MndOVVV6RGI0akd5NW1uWVdZQkVibVI5TEU1X3hldEVCalByVFpSLWFha2VWUQ?oc=5",
-      "original_publish_time": "2026-09-29T20:30:00+00:00",
-      "scraped_time": "2026-09-29T21:15:07.204604+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "Laura Dern Just Joined Nicole Kidman in Wearing the Chic Fall Shoe Trend Replacing Regular Sneakers instyle.com",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "55d129dd2c3c",
-      "title": "Nike’s Beloved Air Max Boot Is Getting a Luxe Croc Makeover — and There’s Even More New Styles on the Way",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-acg-air-max-goadome-low-croc-pack-release-date-1239288905/",
-      "original_publish_time": "2026-09-29T19:49:40+00:00",
-      "scraped_time": "2026-09-29T21:14:44.869870+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 5,
-      "summary": "The Air Max Goadome Low will be released in Black and Midnight Navy croc colorways in October.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "644951e056ba",
-      "title": "Timberland’s Iconic ’40 Below’ Super Boot Was Just Released in New Premium Heritage Styles",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/timberland-heritage-waterproof-super-boot-wheat-duracell-1239288159/",
-      "original_publish_time": "2026-09-29T18:00:41+00:00",
-      "scraped_time": "2026-09-29T21:14:44.872735+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Timberland"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 5,
-      "summary": "Including the brand's classic Wheat Nubuck and a black-and-copper colorway fans have nicknamed \"Duracell.\"",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "868b409b1f16",
-      "title": "Tyler, The Creator Chops The Top Off For The Converse 1908 Bronco Boot Low",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/09/29/tyler-the-creator-converse-bronco-boot-low/",
-      "original_publish_time": "2026-09-29T18:00:28+00:00",
-      "scraped_time": "2026-09-29T21:14:55.661254+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Converse"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 5,
-      "summary": "Especially in his post Flower Boy era, Tyler, the Creator is the owner of one of modern hip-hop’s sturdier discographies, only bolstered by his most... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Tyler, The Creator Chops The Top Off For The Converse 1908 Bronco Boot Low appeared first on Sneaker News . The post Tyler, The Creator Chops The Top Off For The Converse 1908 Bronco Boot Low appeared first on Sneaker News .",
       "ren_take": "",
       "image_url": ""
     }
