@@ -1,8 +1,112 @@
 {
-  "last_updated": "2026-10-06T11:44:50.597093+00:00",
-  "total_articles": 123,
+  "last_updated": "2026-10-06T17:14:41.830117+00:00",
+  "total_articles": 118,
   "sources_checked": 61,
   "articles": [
+    {
+      "id": "23743f7ba44d",
+      "title": "LeBron James’ Nike Sneakers Are Notoriously Heavy — but His Newest Is the Lightest Yet",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-lebron-24-stars-release-date-1239315600/",
+      "original_publish_time": "2026-10-06T15:43:35+00:00",
+      "scraped_time": "2026-10-06T17:03:13.289549+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sneakers",
+        "upper"
+      ],
+      "relevance_score": 6,
+      "summary": "The Nike LeBron 24 is headlined by a new KingKnit upper with a unique combination of yarn.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "f602cf76930e",
+      "title": "Dave Powers Comes Out of Footwear Retirement to Join Men’s Sneaker Brand Stoke Shoes as Investor, Advisor",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/dave-powers-stoke-shoes-investor-advisor-1239315825/",
+      "original_publish_time": "2026-10-06T15:38:02+00:00",
+      "scraped_time": "2026-10-06T17:03:13.291937+00:00",
+      "time_delta_mins": 0,
+      "category": "Quality",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "shoes"
+      ],
+      "relevance_score": 6,
+      "summary": "Powers most recently served as president and CEO of Deckers Brands from 2016 to 2024.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "482887d74df1",
+      "title": "Zellerfeld And Nike By You Bring Fourteen Different Air Max 1000 Possibilities",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/10/06/zellerfeld-nike-by-you-air-max-1000-release-date/",
+      "original_publish_time": "2026-10-06T15:30:31+00:00",
+      "scraped_time": "2026-10-06T17:03:24.008053+00:00",
+      "time_delta_mins": 0,
+      "category": "Quality",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "There are many things that the elder statesmen of sneakers pine for; the unadulterated “chase,” the colorways or quality of old. For Nike ‘heads in... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Zellerfeld And Nike By You Bring Fourteen Different Air Max 1000 Possibilities appeared first on Sneaker News . The post Zellerfeld And Nike By You Bring Fourteen Different Air Max 1000 Possibilities appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "5a8c87721a04",
+      "title": "Chanel’s Spring 2027 Shoes Mix Animal Prints, Jeweled Cap Toes and Playing Card Heels",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-trends/chanel-spring-2027-shoes-paris-fashion-week-1239314116/",
+      "original_publish_time": "2026-10-06T15:13:35+00:00",
+      "scraped_time": "2026-10-06T17:03:13.292485+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "shoes"
+      ],
+      "relevance_score": 4,
+      "summary": "Matthieu Blazy keeps remixing Chanel's signature footwear codes with mixed prints, metallics, embroidery and whimsical embellishments.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "f7ac41ba7f24",
+      "title": "le PÈRE’s Fall Uniform? Tracksuits & PUMA “Bowling\" Shoes (EXCLUSIVE)",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/le-pere-puma-fw26-collab/",
+      "original_publish_time": "2026-10-06T14:46:16+00:00",
+      "scraped_time": "2026-10-06T17:07:13.351589+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Puma"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 5,
+      "summary": "le PÈRE releases its second FW26 PUMA collab, featuring a brown bowling-inspired Suede sneaker & vintage-style sportswear.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "8cde4cc2599a",
       "title": "Nike’s Gorpy Trail Runner Is Turning Into Quite the Trailblazer",
@@ -2350,208 +2454,6 @@
       ],
       "relevance_score": 5,
       "summary": "Especially in his post Flower Boy era, Tyler, the Creator is the owner of one of modern hip-hop’s sturdier discographies, only bolstered by his most... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Tyler, The Creator Chops The Top Off For The Converse 1908 Bronco Boot Low appeared first on Sneaker News . The post Tyler, The Creator Chops The Top Off For The Converse 1908 Bronco Boot Low appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "648f3044b487",
-      "title": "Dior Plays With Jewelry, Cap-toes, Snakeskin and More for Spring 2027 Shoes",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-trends/dior-spring-2027-shoes-jonathan-anderson-1239287502/",
-      "original_publish_time": "2026-09-29T17:12:58+00:00",
-      "scraped_time": "2026-09-29T21:14:44.873649+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "shoes"
-      ],
-      "relevance_score": 4,
-      "summary": "Creative director Jonathan Anderson and design director of shoes Nina Christen are back with another lineup of striking footwear styles.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "bb021dbb85ea",
-      "title": "Jordan’s Dad Shoe Has Entered Its Brown Era",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-jordan-trunner-palomino/",
-      "original_publish_time": "2026-09-29T16:51:12+00:00",
-      "scraped_time": "2026-09-30T01:57:29.363545+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike",
-        "Jordan"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "The Nike Jordan Trunner O/S in Palomino/Black/Phantom/University Red is a dad shoe in full pumpkin spice latte mode.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "74d6f3cfad2c",
-      "title": "How Footwear Is on the Upswing at Kohl’s",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/kohls-telsey-renewed-momentum-footwear-1239287964/",
-      "original_publish_time": "2026-09-29T16:50:02+00:00",
-      "scraped_time": "2026-09-29T21:14:44.874588+00:00",
-      "time_delta_mins": 0,
-      "category": "Quality",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Telsey Advisory Group's chief investment officer Dana Telsey said the retailer is seeing 'renewed momentum' in footwear.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "794ad7b7120d",
-      "title": "Shai Gilgeous-Alexander Reveals The First Nike-Branded SHAI 001",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/09/29/nike-shai-001/",
-      "original_publish_time": "2026-09-29T16:44:56+00:00",
-      "scraped_time": "2026-09-29T16:48:28.998105+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Nike",
-        "Converse"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "Shai Gilgeous-Alexander’s move from Converse to Nike just produced its most fascinating sneaker yet: a Nike-branded version of the SHAI 001. SGA revealed the never-before-seen... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Shai Gilgeous-Alexander Reveals The First Nike-Branded SHAI 001 appeared first on Sneaker News . The post Shai Gilgeous-Alexander Reveals The First Nike-Branded SHAI 001 appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "e07fb38361e2",
-      "title": "Ugg President Anne Spangenberg on the Origins of ‘Ugg Season’ and How the Cozy Boot Brand Became ‘Personal’ for Many",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-features/ugg-president-anne-spangenberg-interview-born-to-feel-1239287957/",
-      "original_publish_time": "2026-09-29T16:44:43+00:00",
-      "scraped_time": "2026-09-29T16:48:18.402713+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "UGG"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 5,
-      "summary": "The executive noted that the Ugg brand’s success “cannot be attributed to any one thing.”",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "6e77ab4e51fa",
-      "title": "Salomon’s Hiking Runner Has More Tricks Than Its Name Suggests",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/salomon-ultra-glide-4/",
-      "original_publish_time": "2026-09-29T15:50:47+00:00",
-      "scraped_time": "2026-09-29T16:52:01.598499+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Salomon"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 4,
-      "summary": "Salomon’s Ultra Glide 4 brings the brand’s trail-running know-how to a chunky, technical silhouette that works just as well off the beaten path.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "8c799ed26085",
-      "title": "Asics Just Released a Rugged New Lifestyle Shoe for ‘Everyday Exploration’ and It’s Available Now",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/asics-gel-transcend-fj-everyday-sneaker-available-1239287655/",
-      "original_publish_time": "2026-09-29T15:48:32+00:00",
-      "scraped_time": "2026-09-29T16:48:18.405748+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "ASICS"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 5,
-      "summary": "The all-new Gel-Transcend FJ references archive Asics hiking and walking shoes from the 1990s.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "216ece90459c",
-      "title": "From adidas to New Balance, the Seven Best Sneakers to Cop This Week",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/sneaker-releases-2026-october-week-1/",
-      "original_publish_time": "2026-09-29T14:02:57+00:00",
-      "scraped_time": "2026-09-30T01:57:29.364556+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Adidas",
-        "New Balance"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 7,
-      "summary": "From an adidas x entire studios collab to New Balance's new off- & on-court classic, learn about & shop the best sneaker releases of the week, right here.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "500c7a8c8b77",
-      "title": "This Pair of Nikes Is Built Like Timbs for the Court",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-st-charge-wheat/",
-      "original_publish_time": "2026-09-29T12:29:37+00:00",
-      "scraped_time": "2026-09-29T16:52:01.599831+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "The Nike ST Charge Wheat reimagines basketball performance through a rugged, outdoors lens.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "530d0db08cb7",
-      "title": "POST ARCHIVE FACTION (PAF) Rolls Out “Drifter” FW26 Collection",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/9/post-archive-faction-paf-fall-winter-2026-collection-release-info",
-      "original_publish_time": "2026-09-29T12:02:02+00:00",
-      "scraped_time": "2026-09-29T16:48:28.843956+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "boot",
-        "footwear",
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "Summary POST ARCHIVE FACTION’s FW26 collection revisits performance and established wardrobe forms.The Eclipse set uses strip-like paneling to create fluid movement.Pom-pom accessories, Petal Sneakers and Cut Out Boots round out the release. POST ARCHIVE FACTION (PAF) is rolling out its Fall/Winter 2026 collection following the season’s “Drifter” runway presentation earlier this year. The range reflects PAF’s continued interest in moving between performance-minded design and unconventional reinterpretations of established forms, with a subdued palette allowing its proportions, textures and construction details to take focus. Footwear further expands the collection’s interplay between technical and traditional references.Leading the release is the archival River Jacket, arriving in Sky Blue",
       "ren_take": "",
       "image_url": ""
     }
