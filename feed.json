@@ -1,8 +1,71 @@
 {
-  "last_updated": "2026-10-07T11:34:34.934369+00:00",
-  "total_articles": 115,
+  "last_updated": "2026-10-07T17:52:31.893763+00:00",
+  "total_articles": 113,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "1509bdbcae57",
+      "title": "The Nike Air Diamond Turf II Cleat Revisits The Lifestyle Playbook",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/10/07/nike-air-diamond-turf-2-cleats-white-black-if4807-101/",
+      "original_publish_time": "2026-10-07T16:00:13+00:00",
+      "scraped_time": "2026-10-07T17:41:15.075173+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "The Deion Sanders shoes pipeline continues to stay flowing with new colorways of the Air Diamond Turf II, the Beaverton brand’s Deion model of focus... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Nike Air Diamond Turf II Cleat Revisits The Lifestyle Playbook appeared first on Sneaker News . The post The Nike Air Diamond Turf II Cleat Revisits The Lifestyle Playbook appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "3f377275f276",
+      "title": "Off-White And Zellerfeld Announce The 3D-Printed Arrows Teaser Slide",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/10/07/off-white-zellerfeld-3d-printed-slides/",
+      "original_publish_time": "2026-10-07T15:30:18+00:00",
+      "scraped_time": "2026-10-07T17:41:15.076795+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Off-White"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "Anyone worth their salt in sneakers, streetwear, fashion, or design knows just how monumental of a loss the passing of Virgil Abloh was. So much... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Off-White And Zellerfeld Announce The 3D-Printed Arrows Teaser Slide appeared first on Sneaker News . The post Off-White And Zellerfeld Announce The 3D-Printed Arrows Teaser Slide appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "06e56274c877",
+      "title": "EXCLUSIVE: Off-White Gets Into 3D-printed Footwear With Arrows Teaser Slide Launch",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/off-white-arrows-teaser-slide-release-date-1239317096/",
+      "original_publish_time": "2026-10-07T12:00:00+00:00",
+      "scraped_time": "2026-10-07T17:41:04.483490+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Off-White"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 5,
+      "summary": "The new silhouette was created in partnership with German footwear manufacturer Zellerfeld.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "4097992a1586",
       "title": "Crocs Elevates India to Tier 1 Market Amid Double-Digit Growth",
@@ -2281,110 +2344,6 @@
       "keywords_matched": [],
       "relevance_score": 4,
       "summary": "Save for your occasional Jordan and s-tier collaboration, we’re struggling to think of a mass-produced $250+ sneaker that’s managed to be as successful as the... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The New Balance 991v2 Stays Red Hot In \"Green Milieu\" appeared first on Sneaker News . The post The New Balance 991v2 Stays Red Hot In “Green Milieu” appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "3bb00b2dee96",
-      "title": "Vans Is Gearing Up LA Dodgers Fans for Another World Series Run With Two Distressed Sneakers",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/los-angeles-dodgers-vans-sk8-hi-era-release-date-1239297334/",
-      "original_publish_time": "2026-09-30T17:27:23+00:00",
-      "scraped_time": "2026-09-30T21:10:56.737837+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Vans"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 5,
-      "summary": "A Sk8-Hi and Era will both drop during the divisional series round.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "9ae656e9905d",
-      "title": "Can Nike’s New Slate of Race-day Super Shoes Help Deliver a Much-needed Financial Win?",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/nike-running-race-day-super-shoes-apex-swooshfly-analysis-1239297555/",
-      "original_publish_time": "2026-09-30T17:13:45+00:00",
-      "scraped_time": "2026-09-30T21:10:56.740998+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Nike",
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 6,
-      "summary": "The Swoosh is up against stiff competition with Adidas dominating marathon podiums across the globe.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "d1c0072d4da4",
-      "title": "How to Make Sure Your Customers Stay Loyal: Comfort, Quality, Emotion Are Key for Footwear Brands",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/americans-loyal-footwear-brands-athletic-shoes-purchases-1239296459/",
-      "original_publish_time": "2026-09-30T16:30:42+00:00",
-      "scraped_time": "2026-09-30T16:41:24.553737+00:00",
-      "time_delta_mins": 0,
-      "category": "Quality",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "shoes"
-      ],
-      "relevance_score": 4,
-      "summary": "Nearly 3 in 10 Americans are \"very\" loyal to their favorite footwear brands, with nearly half buying new athletic shoes multiple times per year, according to data from CivicScience.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "391122c69e16",
-      "title": "Saint Laurent Takes Gold to the Extreme With Snake Heels and Jeweled Sandals",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-trends/saint-laurent-paris-fashion-week-spring-2027-shoes-1239289835/",
-      "original_publish_time": "2026-09-30T15:07:07+00:00",
-      "scraped_time": "2026-09-30T16:41:24.556495+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "sandal"
-      ],
-      "relevance_score": 4,
-      "summary": "The spring 2027 footwear mixed sculptural reptile heels, gilded chains and sharp slingbacks with metallic cap toes.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "8e1598fafa61",
-      "title": "Every Nike Caitlin 1 Colorway Teased So Far",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/9/every-nike-caitlin-1-colorway-teased-so-far",
-      "original_publish_time": "2026-09-30T14:00:06+00:00",
-      "scraped_time": "2026-09-30T16:41:35.253030+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "Summary ike and Caitlin Clark have unveiled an expansive roster of colorways for the inaugural Nike Caitlin 1 signature basketball sneakerTeased iterations range from the flagship Racer Blue launch pair to thematic drops including the newly revealed Halloween editionThe signature model officially debuts globally on October 1, 2026 accompanied by an 18-piece performance and lifestyle apparel collection Nike and WNBA star Caitlin Clark have generated massive momentum ahead of the official debut of the Nike Caitlin 1. Ahead of the signature line's global launch coming soon at the beginning of October, a wide range of thematic colorways, on-court player exclusives, and seasonal teases have been officially documented on Hypebeast.Built around an innovative Opticast molded upper and specialized ",
       "ren_take": "",
       "image_url": ""
     }
