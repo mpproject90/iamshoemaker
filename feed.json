@@ -1,8 +1,115 @@
 {
-  "last_updated": "2026-10-08T11:50:19.508788+00:00",
-  "total_articles": 114,
-  "sources_checked": 61,
+  "last_updated": "2026-10-08T17:56:31.508370+00:00",
+  "total_articles": 107,
+  "sources_checked": 60,
   "articles": [
+    {
+      "id": "d30657478790",
+      "title": "The Fall and Winter Boots That Can Make an Entire Wardrobe Feel New Again",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-trends/fall-winter-boots-2026-steve-madden-marc-jacobs-1239319931/",
+      "original_publish_time": "2026-10-08T16:09:20+00:00",
+      "scraped_time": "2026-10-08T17:45:17.351452+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Steve Madden"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 4,
+      "summary": "From Azzy Milan modeling Steve Madden to Katie Holmes in Vivaia, a range of brands and celebrities are showcasing how to dress for the colder weather.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "c87cf3755aa4",
+      "title": "Shai Gilgeous-Alexander Says He Drew The Nike SHAI 002 Himself",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/10/08/nike-shai-002-designed-by-sga/",
+      "original_publish_time": "2026-10-08T15:26:56+00:00",
+      "scraped_time": "2026-10-08T17:45:28.097744+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Shai Gilgeous-Alexander is once again taking a particularly hands-on approach to his signature footwear, revealing that he personally drew the design for his upcoming Nike... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Shai Gilgeous-Alexander Says He Drew The Nike SHAI 002 Himself appeared first on Sneaker News . The post Shai Gilgeous-Alexander Says He Drew The Nike SHAI 002 Himself appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "d4cad9d68ca7",
+      "title": "What Makes Langston Uibel’s Sole Bounce?",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/dr-martens-langston-uibel-chloe-sevigny/",
+      "original_publish_time": "2026-10-08T14:10:21+00:00",
+      "scraped_time": "2026-10-08T17:49:08.363755+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Jordan"
+      ],
+      "keywords_matched": [
+        "sole"
+      ],
+      "relevance_score": 4,
+      "summary": "With Bouncing Soles is now the brand’s new global platform, asking Chloë Sevigny, Jordan Stephens, Naomi Watanabe and Germany’s Langston Uibel what keeps them moving.⁠ For Uibel, it’s theatre, film and finding his place as an artist. Learn more about the actor, here.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "219c3b102ba8",
+      "title": "adidas’ Tweed Samba Has Left the Football Terrace for the Country Estate",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/adidas-samba-og/",
+      "original_publish_time": "2026-10-08T10:26:03+00:00",
+      "scraped_time": "2026-10-08T17:49:08.364587+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "sole",
+        "upper"
+      ],
+      "relevance_score": 4,
+      "summary": "adidas’ Samba OG gets an fall-ready update with a textured herringbone tweed upper, black leather details, and the classic gum sole.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "b35dbe8ed5c6",
+      "title": "adidas’ Samba Jane Is Having a Serious Moo(d) Swing",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/adidas-samba-jane-cow-print-core-black/",
+      "original_publish_time": "2026-10-08T10:10:02+00:00",
+      "scraped_time": "2026-10-08T17:49:08.365169+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "sole",
+        "upper"
+      ],
+      "relevance_score": 4,
+      "summary": "adidas’ Samba Jane gets a playful update in a textured cow print, pairing its Mary Jane strap with a black and white fuzzy upper and classic gum sole.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "109a4933b32e",
       "title": "New Balance and Samurai Japan Unveil Redesigned National Team Uniforms",
@@ -2127,249 +2234,6 @@
       ],
       "relevance_score": 3,
       "summary": "Joining hands with individual musicians is no doubt the most visible way that Nike steps into that world. With any and all Travis Scott shoes... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Victory Lap Radio Nike Air Force 1 Low Hits The Airwaves Soon appeared first on Sneaker News . The post The Victory Lap Radio Nike Air Force 1 Low Hits The Airwaves Soon appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "d339d5301bf8",
-      "title": "You probably need new sneakers, and Prime Day is the time to buy them - AOL.com",
-      "source_name": "Google News - Sneaker Brand",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUjRZRi1PWGExRWRoUk5XZ0JJTE10ZW5CMjZzNWV2WTBWM01Lc29XX1dPS1RES0RqdklUY3l5dzU2V2lWOGhleDRmZ1FaWEE0di1vMDc1TkFfWDNvaFdIUUszeDlZRTk4MVI5QXF6MlZ2OXhxVDV3eWZCei1vLVFrYlpEaXJjazR6aVRRUFBVOVR6M0pNSktjNDkzZzhqNDBtaHF1bHZjc2R3c3pxTHVWR3RR?oc=5",
-      "original_publish_time": "2026-10-01T17:43:15+00:00",
-      "scraped_time": "2026-10-01T21:33:02.657775+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "You probably need new sneakers, and Prime Day is the time to buy them AOL.com",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "571342b1921f",
-      "title": "Skechers CFO jumps to Levi’s",
-      "source_name": "Retail Dive",
-      "source_domain": "retaildive.com",
-      "source_url": "https://www.retaildive.com/news/skechers-cfo-jumps-levis/831872/",
-      "original_publish_time": "2026-10-01T15:52:00+00:00",
-      "scraped_time": "2026-10-01T17:19:52.485571+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Skechers"
-      ],
-      "keywords_matched": [
-        "shoe brand"
-      ],
-      "relevance_score": 3,
-      "summary": "John Vandemore was at the shoe brand for nearly a decade after stints at Mattel and Disney, and replaces longtime Chief Financial Officer Harmit Singh.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "8c61b5a819bb",
-      "title": "Louis De Guzman Reimagines the Jumpman for Jordan Brand’s Artist Series",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/10/louis-de-guzman-jordan-brand-collaboration-capsule-collection-release-info",
-      "original_publish_time": "2026-10-01T15:00:49+00:00",
-      "scraped_time": "2026-10-01T17:17:05.411907+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Jordan"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "Summary Louis De Guzman joins Jordan Brand’s Artist Series for Fall 2026.The Balikbayan box inspires a collection centered on family, migration and connection.Geometric Jumpman graphics and handwritten details translate De Guzman’s Filipino-American story into apparel. Chicago-based Filipino-American visual artist and designer Louis De Guzman is joining Jordan Brand’s Artist Series for Fall 2026 with an apparel collection rooted in family, migration and the Filipino tradition of the Balikbayan box.Titled around the concept “It Took This to Get Here,” the collaboration looks back to De Guzman’s childhood in the early 1990s, when he watched his parents pack boxes with photographs, Chicago Bulls T-shirts, shoes, trading cards and handwritten notes to send to relatives in the Philippines. Befo",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "001f8dac856a",
-      "title": "Bam Adebayo’s 83-Point Game Shoes Release October 2nd",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/10/01/air-jordan-4028-black-barely-volt-ir2084-001/",
-      "original_publish_time": "2026-10-01T15:00:39+00:00",
-      "scraped_time": "2026-10-01T17:17:05.619568+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Jordan"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 4,
-      "summary": "Forever enshrined in sneaker history thanks to Bam Adebayo’s historic 83-point game last season, the Air Jordan 4028 “Black/Barely Volt” is confirmed to release October... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Bam Adebayo's 83-Point Game Shoes Release October 2nd appeared first on Sneaker News . The post Bam Adebayo’s 83-Point Game Shoes Release October 2nd appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "3ae7e9efe183",
-      "title": "Zendaya and On Unveil Second Co-Created Apparel and Footwear Collection",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/10/zendaya-on-second-co-created-apparel-footwear-cloudnova-moon-mary-jane-collection",
-      "original_publish_time": "2026-10-01T14:00:10+00:00",
-      "scraped_time": "2026-10-01T17:17:05.414036+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Summary On and Zendaya have officially launched their second co-created collection developed alongside Law RoachThe capsule introduces technical sportswear with custom python prints and debuts the Cloudnova Moon Mary JaneThe lineup launches globally on October 1 accompanied by immersive retail pop-ups in Los Angeles Paris Tokyo and Chengdu On and Zendaya have officially released their second co-created footwear and apparel collection, accompanied by an action film-inspired campaign. Developed alongside longtime collaborator Law Roach, the latest drop elevates everyday activewear by fusing On's performance innovation with signature styling elements.Captured in a cinematic short film by directing trio Pantera, the collection puts movement and versatility center stage. The apparel lineup intr",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "b09cfcd6f81f",
-      "title": "Feid Loves Salomon Shoes so Much He Made His Own (EXCLUSIVE)",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/feid-salomon-acs-nexxt-green-star/",
-      "original_publish_time": "2026-10-01T13:22:49+00:00",
-      "scraped_time": "2026-10-01T17:20:37.220856+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [
-        "Salomon"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 5,
-      "summary": "Feid debuts his Salomon ACS NEXXT \"Green Star\" sneaker, an all-new model bursting with his signature green color.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "6dd86d123fcf",
-      "title": "Boots Christmas Showcase 2026: New brands, wellness gifts and fragrance wardrobe",
-      "source_name": "Retail Gazette",
-      "source_domain": "retailgazette.co.uk",
-      "source_url": "https://www.retailgazette.co.uk/blog/2026/10/boots-christmas-showcase-2026/",
-      "original_publish_time": "2026-10-01T13:12:04+00:00",
-      "scraped_time": "2026-10-01T17:20:05.704264+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 3,
-      "summary": "Boots used its Christmas Showcase 2026 to set out a broad gifting proposition built around exclusivity, new brand launches, convenience and value. Hosted by broadcaster Steph McGovern, the media event enabled the Boots’ team to take journalists and content creators through the key trends and products for this year’s festive period. Taking to the stage,...",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "06dbc129e44e",
-      "title": "Kizik Parent Launches Blue Ox Hands-free Work Boot Brand, Details - WWD",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWXFmalJBMzFCcm83cnBwWXc1dGl6WFN2MUtZTFVVa3ZmU2hrLWZOSjdmUEo3M2dmSGU4ZXhrS2RhaUZacHhhbWhnLWFQSmM4T25Eb0VuR2RLenRSSEJYNWhLWDhYUS1UTGQxTXAzbmNZeGVib09RcVZvR1E5ZnIwdmFJOE1TYlkxVU9MdGhiOG90MnFNU2tKenFjLUVESDE2TjRleGMxcmhYem9LZ0E?oc=5",
-      "original_publish_time": "2026-10-01T13:11:14+00:00",
-      "scraped_time": "2026-10-01T17:17:16.756937+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 3,
-      "summary": "Kizik Parent Launches Blue Ox Hands-free Work Boot Brand, Details WWD",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "562ca231ce73",
-      "title": "EXCLUSIVE: Kizik Parent Aims to Offer Tradespeople More Shoe Options by Launching New Hands-free Work Boot Brand",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/blue-ox-hands-free-work-boot-brand-details-kizik-1239299256/",
-      "original_publish_time": "2026-10-01T13:10:00+00:00",
-      "scraped_time": "2026-10-01T17:16:54.748208+00:00",
-      "time_delta_mins": 0,
-      "category": "Trade Data",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 3,
-      "summary": "The new label is called Blue Ox and debuts with two work boot silhouettes.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "e2b1e0aca495",
-      "title": "Feid and Salomon Unveil the ACS NEXXT \"The Green Star\"",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/10/feid-salomon-acs-nexxt-the-green-star-release-info",
-      "original_publish_time": "2026-10-01T13:00:53+00:00",
-      "scraped_time": "2026-10-01T17:17:05.416152+00:00",
-      "time_delta_mins": 0,
-      "category": "Trade Data",
-      "brands_mentioned": [
-        "Salomon"
-      ],
-      "keywords_matched": [
-        "footwear",
-        "outsole",
-        "sole",
-        "upper"
-      ],
-      "relevance_score": 6,
-      "summary": "Summary Salomon and brand ambassador Feid have officially announced the ACS NEXXT The Green Star by FeidThe technical silhouette incorporates a cow-pattern outsole in Feid's signature Ferxxo green iridescent chrome details and his hand-drawn signatureA Queens pop-up runs October 2 through October 4 ahead of the global October 10 launch Salomon and Latin GRAMMY-winning artist Feid have officially unveiled the Salomon ACS NEXXT: The Green Star by Feid, marking the next phase of their ongoing partnership. The progressive footwear project fuses Salomon's technical outdoor heritage with the Colombian musician's signature visual universe.Evolving from the foundation laid by the ACS PRO, the ACS NEXXT retains the brand's trademark Agile Chassis System and recognizable caged upper while reinterpre",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "bc94dab8a052",
-      "title": "EXCLUSIVE: Forget the Ranch, These Cowboy Boots Are for the Winery",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/lane-boots-rombauer-vineyards-joy-boot-release-date-1239299471/",
-      "original_publish_time": "2026-10-01T12:30:00+00:00",
-      "scraped_time": "2026-10-01T17:16:54.751023+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 3,
-      "summary": "Lane Boots and Rombauer Vineyards have teamed up on a boot made of chardonnay-washed leather.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "799b412120a4",
-      "title": "EXCLUSIVE: Inside Merrell’s Major New Deal With Sundance",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/merrell-sundance-partnership-details-film-festival-1239298521/",
-      "original_publish_time": "2026-10-01T12:00:00+00:00",
-      "scraped_time": "2026-10-01T17:16:54.751602+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [
-        "Merrell"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "As part of the deal, Merrell will become the official footwear partner of the 2027 Sundance Film Festival.",
       "ren_take": "",
       "image_url": ""
     }
