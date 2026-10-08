@@ -1,8 +1,90 @@
 {
-  "last_updated": "2026-10-08T17:56:31.508370+00:00",
-  "total_articles": 107,
-  "sources_checked": 60,
+  "last_updated": "2026-10-08T21:58:21.415945+00:00",
+  "total_articles": 108,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "2e94cf36efb3",
+      "title": "Nike’s Retro Air Max Sneaker Looks Straight Outta a Vintage Store",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-air-max-metro-black-red/",
+      "original_publish_time": "2026-10-08T21:06:00+00:00",
+      "scraped_time": "2026-10-08T21:50:56.747256+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "Nike’s Air Max Metro gets an old-school makeover in Black, Dark Smoke Grey, and Bright Crimson, with a layered upper that feels straight out of the archives.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "083e5b358999",
+      "title": "One Good Winter Boot Disguised as a Sneaker",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/one-good-gorpy-winter-sneaker-sorel-salomon/",
+      "original_publish_time": "2026-10-08T19:19:00+00:00",
+      "scraped_time": "2026-10-08T21:50:56.747993+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 3,
+      "summary": "One Good is Highsnobiety's series on the tried, tested, and trusted products we can’t stop fawning over. This round features a great gorpy, chunky sneaker.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "1b5921d1e112",
+      "title": "Nike Brings Together Nigo And j-hope For A Major Air Force 1 Crossover",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/10/08/nigo-j-hope-nike-air-force-1/",
+      "original_publish_time": "2026-10-08T19:00:34+00:00",
+      "scraped_time": "2026-10-08T21:47:20.203559+00:00",
+      "time_delta_mins": 0,
+      "category": "Trade Data",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "Nike’s latest Air Force 1 collaboration is bringing together two cultural heavyweights whose influence extends far beyond sneakers. Japanese streetwear pioneer Nigo has teamed up... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike Brings Together Nigo And j-hope For A Major Air Force 1 Crossover appeared first on Sneaker News . The post Nike Brings Together Nigo And j-hope For A Major Air Force 1 Crossover appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "9a5a1c01563a",
+      "title": "This Heritage Boot Player and a Chinese Sneaker Brand Are Among the Fastest Growing U.S. TikTok Shoe Shops",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/timberland-anta-us-tiktok-shoe-crocs-hey-dude-qvc-vans-1239333503/",
+      "original_publish_time": "2026-10-08T18:26:24+00:00",
+      "scraped_time": "2026-10-08T21:47:09.040487+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Crocs"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 4,
+      "summary": "The top three U.S. TikTok shoe shops for the last 12 months ended September 2026 are Crocs, HeyDude and QVC.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "d30657478790",
       "title": "The Fall and Winter Boots That Can Make an Entire Wardrobe Feel New Again",
@@ -2172,68 +2254,6 @@
       "keywords_matched": [],
       "relevance_score": 3,
       "summary": "All of a sudden, the Nike Halloween 2026 series is a massive storyline. With past years’ hits like the “Black Spider Dunk” or the shaggy... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Spooky Stitching Preps The Air Jordan 1 Mid For Halloween appeared first on Sneaker News . The post Spooky Stitching Preps The Air Jordan 1 Mid For Halloween appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "32a443493623",
-      "title": "Nike Reveals New Operating Model as It Misses Q1 Sales",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/nike-nke-q1-2027-earnings-jordan-china-sportswear-1239302941/",
-      "original_publish_time": "2026-10-01T20:52:39+00:00",
-      "scraped_time": "2026-10-01T21:32:40.290782+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Nike",
-        "Jordan"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "Nike is looking to refuel growth at Jordan, in the sportswear segment and in China.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "a7453ea3c57f",
-      "title": "Red Wing Traveled to the World’s Northernmost Inhabited Town to Test Out Its Newest Boot",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/red-wing-norway-moc-heritage-boots-details-1239302273/",
-      "original_publish_time": "2026-10-01T19:07:10+00:00",
-      "scraped_time": "2026-10-01T21:32:40.293905+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Red Wing"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 5,
-      "summary": "The new boot is built for life in cold climates, Red Wing said.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "4d749ea9bad8",
-      "title": "The Victory Lap Radio Nike Air Force 1 Low Hits The Airwaves Soon",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/10/01/victory-lap-radio-nike-air-force-1-low-ja7805-302/",
-      "original_publish_time": "2026-10-01T18:30:42+00:00",
-      "scraped_time": "2026-10-01T21:32:51.042007+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "Joining hands with individual musicians is no doubt the most visible way that Nike steps into that world. With any and all Travis Scott shoes... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Victory Lap Radio Nike Air Force 1 Low Hits The Airwaves Soon appeared first on Sneaker News . The post The Victory Lap Radio Nike Air Force 1 Low Hits The Airwaves Soon appeared first on Sneaker News .",
       "ren_take": "",
       "image_url": ""
     }
