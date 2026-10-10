@@ -1,8 +1,49 @@
 {
-  "last_updated": "2026-10-10T11:01:38.016423+00:00",
-  "total_articles": 102,
+  "last_updated": "2026-10-10T16:18:29.068926+00:00",
+  "total_articles": 104,
   "sources_checked": 61,
   "articles": [
+    {
+      "id": "7502be9f65da",
+      "title": "30 Years Later, Jordan's Space Jam Shoes Are Fresher Than Ever (EXCLUSIVE)",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/jordan-space-jam-30th-anniversary-sneakers/",
+      "original_publish_time": "2026-10-10T14:49:59+00:00",
+      "scraped_time": "2026-10-10T16:11:19.864343+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Jordan"
+      ],
+      "keywords_matched": [
+        "shoes",
+        "sneakers"
+      ],
+      "relevance_score": 6,
+      "summary": "The Jordan Brand reveals its 30th-anniversary \"Space Jam\" collection, including not one but three Jordan 11 sneakers inspired by the film. Plus more.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "038504d04a06",
+      "title": "9 Unreleased Air Jordans That Nike Should Actually Release",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/unreleased-air-jordans-nike-should-release-1239313503/",
+      "original_publish_time": "2026-10-10T12:00:00+00:00",
+      "scraped_time": "2026-10-10T16:07:05.204841+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "There's recently been a lot of talk about releasing fewer Air Jordans, but which unreleased pairs should actually come out?",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "9cdcd84aa9b3",
       "title": "Shai Gilgeous-Alexander Reveals He Personally Hand-Drew the Upcoming Nike SHAI 002",
