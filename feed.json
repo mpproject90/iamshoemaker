@@ -1,8 +1,29 @@
 {
-  "last_updated": "2026-10-09T21:40:24.063478+00:00",
-  "total_articles": 100,
+  "last_updated": "2026-10-10T02:22:05.629647+00:00",
+  "total_articles": 101,
   "sources_checked": 61,
   "articles": [
+    {
+      "id": "7099af267bea",
+      "title": "The Best Nike Sneaker Releases This Week",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-sneaker-releases-october-week-2/",
+      "original_publish_time": "2026-10-10T00:06:10+00:00",
+      "scraped_time": "2026-10-10T02:14:40.954105+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 3,
+      "summary": "From an all-weather icon to a boot-sneaker hybrid and moody low-profile track star, this week shows off the best that Nike has to offer for early spooky season.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "26bef33641e0",
       "title": "New Balance’s Understated Sneaker Brings Restraint to Skate Shoes",
@@ -122,6 +143,25 @@
       ],
       "relevance_score": 3,
       "summary": "Bata India’s Vice President – India Distribution and SEA Wholesale Development, Ashish Arora, has resigned from the footwear manufacturer, with his departure effective at the close of working hours on October 16. In a regulatory filing dated October 9, the footwear retailer said Arora had resigned to pursue career opportunities outside the organisation. The departure […] The post Bata India VP Ashish Arora resigns, exit effective October 16 appeared first on Apparel Resources .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "2eb9b30037f2",
+      "title": "Boots adds haircare brand OLAPLEX to growing portfolio",
+      "source_name": "Retail Gazette",
+      "source_domain": "retailgazette.co.uk",
+      "source_url": "https://www.retailgazette.co.uk/blog/2026/10/boots-olaplex/",
+      "original_publish_time": "2026-10-09T13:04:31+00:00",
+      "scraped_time": "2026-10-10T02:14:09.030479+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 3,
+      "summary": "OLAPLEX is to bring its bond-building technology to 36 Boots stores across the UK, and online at boots.com, with the roll out completed by November. Launching from 09 October, OLAPLEX’s science-led haircare will be more accessible to consumers “looking to take their hair health to the next level”. It comes as demand for OLAPLEX continues...",
       "ren_take": "",
       "image_url": ""
     },
@@ -2058,28 +2098,6 @@
       "keywords_matched": [],
       "relevance_score": 3,
       "summary": "Name: Nike Zoom Vomero 5 Cordura “Camo Green”Colorway: TBCSKU: IQ0380-300MSRP: $170 USDRelease Date: Holiday 2026The Nike Zoom Vomero 5 Cordura \"Camo Green\" is gearing up for Holiday 2026, marking what looks to be the silhouette's first outing in Cordura. The update brings a more rugged material to the runner's well-known panel layout, giving fans a tougher cold-weather option without changing the shape that made the shoe a street favorite.Cordura is the headline upgrade. The textile is a high-tenacity nylon prized for abrasion resistance and long used in military gear, packs and workwear, and here it is mapped onto essentially the same layout the Vomero 5 uses in its warm-weather versions. The result is added insulation and resilience for wet, cold days, while the overlays, sculpted midso",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "dda79a8e01de",
-      "title": "The adidas Originals GAZELLE OG Arrives in a Sleek \"Charcoal Gray\" Suede",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/10/adidas-originals-for-green-label-relaxing-gazelle-og-charcoal-gray-lc2631-release-info",
-      "original_publish_time": "2026-10-03T02:00:39+00:00",
-      "scraped_time": "2026-10-03T10:06:07.930024+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "sole",
-        "upper"
-      ],
-      "relevance_score": 4,
-      "summary": "Name: adidas Originals for green label relaxing GAZELLE OG “Charcoal Gray”Colorway: Charcoal GraySKU: LC2631MSRP: ¥15,400 JPY (approx. $98 USD)Release Date: October 9Where to Buy: UNITED ARROWSadidas Originals and UNITED ARROWS’ green label relaxing revisit the GAZELLE OG with an exclusive “Charcoal Gray” treatment that gives the archival silhouette a softer, earthier character.Offered as a single colorway, the sneaker covers its upper in deep charcoal-grey suede carrying a subtle olive undertone, allowing the shade to shift between cool grey and muted green depending on the light. Brown nuances further warm the palette, while the suede’s softly brushed surface adds depth to the otherwise restrained finish. Underfoot, a classic brown gum-rubber sole reinforces the vintage character of the ",
       "ren_take": "",
       "image_url": ""
     }
