@@ -1,8 +1,51 @@
 {
-  "last_updated": "2026-10-10T16:18:29.068926+00:00",
+  "last_updated": "2026-10-10T20:38:24.316919+00:00",
   "total_articles": 104,
   "sources_checked": 61,
   "articles": [
+    {
+      "id": "961374634448",
+      "title": "Nike’s Thicc Satin Air Max Is Its Own Muse",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-air-max-muse-satin/",
+      "original_publish_time": "2026-10-10T20:12:18+00:00",
+      "scraped_time": "2026-10-10T20:31:10.659734+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sole"
+      ],
+      "relevance_score": 3,
+      "summary": "Nike's thick-soled Air Max Muse sneaker gets a pink satin makeover for its latest release. It's in its soft-girl ballerina era.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "d3f63298df0e",
+      "title": "The Polarizing adidas Samba Mule Takes On Core Colorways",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/10/10/adidas-samba-mule-lc5440-lc5441/",
+      "original_publish_time": "2026-10-10T18:00:40+00:00",
+      "scraped_time": "2026-10-10T20:27:05.499157+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "footwear",
+        "sneakers"
+      ],
+      "relevance_score": 4,
+      "summary": "The muleification of lifestyle icons is old news at this point. From classic sneakers turned ballet flats to other decidedly fashion-forward mutations, footwear brands have... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Polarizing adidas Samba Mule Takes On Core Colorways appeared first on Sneaker News . The post The Polarizing adidas Samba Mule Takes On Core Colorways appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "7502be9f65da",
       "title": "30 Years Later, Jordan's Space Jam Shoes Are Fresher Than Ever (EXCLUSIVE)",
@@ -2122,48 +2165,6 @@
       ],
       "relevance_score": 4,
       "summary": "Vans’ Horsebit Skate Loafer arrives in Black, pairing a suede upper and polished horsebit detail with the brand’s skate-ready rubber waffle sole.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "e0fe7fc232ed",
-      "title": "adidas Made a Dressy Ripple-Soled Sneaker on Its Own",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/adidas-superstar-ii-ripple/",
-      "original_publish_time": "2026-10-03T20:23:30+00:00",
-      "scraped_time": "2026-10-04T10:51:08.296079+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "sole"
-      ],
-      "relevance_score": 5,
-      "summary": "adidas releases a Superstar II Ripple sneaker with sawtooth soles. But this one's CLOT-free.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "083d434e2bf3",
-      "title": "Nike’s Sculpted Air Maxes Belong on the Trails",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-air-max-95-i-95-sneakers/",
-      "original_publish_time": "2026-10-03T18:58:21+00:00",
-      "scraped_time": "2026-10-03T19:43:58.114134+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 4,
-      "summary": "Nike brings back the ruggedized Air Max 95 \"I-95\" sneakers in new colorways like \"Medium Olive\" & \"Wheat.\" It's even more outdoorsy the second time around.",
       "ren_take": "",
       "image_url": ""
     }
