@@ -1,8 +1,29 @@
 {
-  "last_updated": "2026-10-11T16:45:26.455468+00:00",
-  "total_articles": 99,
+  "last_updated": "2026-10-11T20:56:49.689948+00:00",
+  "total_articles": 101,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "f01ad29bec12",
+      "title": "Nike's Newest Air Max Outdoor Boot Is the Tuff-est Yet",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-air-max-goadome-tectuff/",
+      "original_publish_time": "2026-10-11T18:10:28+00:00",
+      "scraped_time": "2026-10-11T20:49:38.803479+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 6,
+      "summary": "Nike releases a new Air Max Goadome boot featuring TecTuff materials, making the ACG model more rugged than ever before.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "b20e103cd9e6",
       "title": "Adidas Continues its Marathon Dominance in Chicago",
@@ -21,6 +42,67 @@
       ],
       "relevance_score": 3,
       "summary": "Amos Kipruto and Hawi Feysa won the men's and women's races on Sunday in Adidas super shoes.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "72a247502c40",
+      "title": "Predicting the Next WNBA Stars to Get Signature Sneakers - Sports Illustrated",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSWVtT0VCNUptNVZscU5SaTlWb19uV2RpTU5XREpTd1BGcnY0bC16TW9IdHlraE1RUUJKWHZfc3k3UWEzeUh1cHAyYUZaOTVLZXVQVEdSQzhZWmlIMUdWaWhGWnF6TmRXOWk1YUppZGx3bmJLWElpUG5CZG54ZkJwQm9MQjBid1RHM2dMT1VPZWdKUQ?oc=5",
+      "original_publish_time": "2026-10-11T13:56:28+00:00",
+      "scraped_time": "2026-10-11T20:45:50.085570+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "Predicting the Next WNBA Stars to Get Signature Sneakers Sports Illustrated",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "c3ac7fb716d3",
+      "title": "Timberland's Skeletal Boot Gears up for Spooky SZN",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/timberland-dia-de-los-muertos-skeleton-6-inch-boot/",
+      "original_publish_time": "2026-10-11T08:06:00+00:00",
+      "scraped_time": "2026-10-11T20:49:38.804225+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Timberland"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 5,
+      "summary": "Timberland's Día de los Muertos skeleton-painted 6-inch boot is scary good.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "e369c6876d12",
+      "title": "Crocs’ Tonal Pony Hair Clog Is Dressed for Sweater Weather",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/crocs-crafted-pony-hair-clog-espresso/",
+      "original_publish_time": "2026-10-11T07:19:00+00:00",
+      "scraped_time": "2026-10-11T20:49:38.804741+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Crocs"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "Crocs’ Crafted Pony Hair Clog gets a fall-ready makeover in rich brown, with a fuzzy upper that brings a cozy, textured twist to the brand’s classic silhouette.",
       "ren_take": "",
       "image_url": ""
     },
@@ -2019,48 +2101,6 @@
       ],
       "relevance_score": 6,
       "summary": "FAIST Voices: meet Carité Shoemaking Group World Footwear",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "fb90b932f41f",
-      "title": "Nike's Famously Chromed-Out Cleats Are Sleek Sneakers Now",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-cryoshot-mercurial-chrome-02/",
-      "original_publish_time": "2026-10-04T19:36:24+00:00",
-      "scraped_time": "2026-10-04T19:57:04.843815+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 5,
-      "summary": "Nike's Cryoshot Mercurial Chrome '02 sneakers land as a sleek sneaker remake of the famously shiny cleats.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "ded5cf1dceae",
-      "title": "Nike Made Its Own \"Burberry\" Dunks",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-dunk-low-night-forest/",
-      "original_publish_time": "2026-10-04T19:31:37+00:00",
-      "scraped_time": "2026-10-04T19:57:04.844360+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "Nike releases Burberry-style Dunk Low sneakers featuring a brown check-print similar to the luxury brand's famous pattern.",
       "ren_take": "",
       "image_url": ""
     }
