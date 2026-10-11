@@ -1,8 +1,29 @@
 {
-  "last_updated": "2026-10-11T11:14:15.910373+00:00",
-  "total_articles": 101,
+  "last_updated": "2026-10-11T16:45:26.455468+00:00",
+  "total_articles": 99,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "b20e103cd9e6",
+      "title": "Adidas Continues its Marathon Dominance in Chicago",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/chicago-marathon-winners-adidas-shoes-details-1239342091/",
+      "original_publish_time": "2026-10-11T15:55:17+00:00",
+      "scraped_time": "2026-10-11T16:34:10.076473+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "Amos Kipruto and Hawi Feysa won the men's and women's races on Sunday in Adidas super shoes.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "7d9d183d50d0",
       "title": "Wasted Paris x Clarks Originals Pack Britpop Memorabilia Into a Customizable Wallabee Lite",
@@ -2040,70 +2061,6 @@
       ],
       "relevance_score": 3,
       "summary": "Nike releases Burberry-style Dunk Low sneakers featuring a brown check-print similar to the luxury brand's famous pattern.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "def318667209",
-      "title": "Air Jordan 1 “Royal”, Nike Kobe 10 “5 AM Flight”, And This Week’s Best Releases",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/10/04/sneaker-releases-october-4-october-10-2026/",
-      "original_publish_time": "2026-10-04T16:00:10+00:00",
-      "scraped_time": "2026-10-04T19:53:35.558758+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike",
-        "Jordan"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 5,
-      "summary": "Some shoes are always worth stopping the presses for. Even in a somewhat depressed market for the Air Jordan 1, that’s exactly what the “Royal”... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Air Jordan 1 \"Royal\", Nike Kobe 10 \"5 AM Flight\", And This Week's Best Releases appeared first on Sneaker News . The post Air Jordan 1 “Royal”, Nike Kobe 10 “5 AM Flight”, And This Week’s Best Releases appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "c5fb9df448a4",
-      "title": "Nike’s Stealthy Racing Shoe Has the Long-Ass Run Covered",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-zoom-rival-waffle-7/",
-      "original_publish_time": "2026-10-04T13:19:00+00:00",
-      "scraped_time": "2026-10-04T15:45:08.893129+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "outsole",
-        "sole"
-      ],
-      "relevance_score": 4,
-      "summary": "Nike’s Zoom Rival Waffle 7 is a lightweight road and cross-country racing shoe made for long runs, with a grippy waffle outsole and streamlined profile.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "5e112cae688d",
-      "title": "adidas' Wafer-Thin Gazelle Is Fresh From the Biscuit Tin",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/adidas-gazelle-lo-pro-khaki/",
-      "original_publish_time": "2026-10-04T12:16:00+00:00",
-      "scraped_time": "2026-10-04T15:45:08.893828+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Adidas",
-        "Off-White"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "This adidas Gazelle Lo Pro asks for a cup of tea. The flattened classic has the pleasing palette of a biscuit: sandy suede, off-white stripes.",
       "ren_take": "",
       "image_url": ""
     }
