@@ -1,6 +1,107 @@
 {
-  "last_updated": "2026-10-04T13:48:49.890076+00:00",
+  "last_updated": "2026-10-11T14:45:19.526428+00:00",
   "bulletins": [
+    {
+      "id": "wk41-2026",
+      "week_number": 41,
+      "year": 2026,
+      "date_from": "2026-10-05",
+      "date_to": "2026-10-11",
+      "published": "2026-10-11T14:45:19.525830+00:00",
+      "intro": "Week 41 brings no single seismic event, but the pattern is clear: the industry is doubling down on material differentiation and talent recycling while product teams chase performance credibility through outsole and upper innovation. Premium collaborations and veteran hires signal that brands are playing defense on margin and offense on positioning simultaneously. Watch the Vibram and GORE-TEX moves closely — when volume players start paying for licensed technical components, the cost-of-goods conversation gets more complicated fast.",
+      "articles": [
+        {
+          "title": "STOKE Shoes Welcomes Footwear Industry Veteran Dave Powers as Advisor and Investor - PR Newswire",
+          "source_name": "Google News - Footwear Industry",
+          "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOekhTX2tEYlE2NFZ1RU9jVmtzZEl4T05vTzNrN3pFWnB1OE91a3F3YXZRTy1HODB6ODB4RnU4aVk1eFBTMEtuSDg4TE9KRlJEWV9WWGdKOUlSSTR5T2VnSmtfenJuTEtuLXhLcGR5cWQ0UkkyNHhqWGNleUR1S2o4b0EzdG9jZVh1V0RBTVdpVGprbXRQTjhLWW9JMmVzUnV3TTc4QlA2dkhxb3J3cjdaRjBlRmhkQU1lSzJhNnkwV1V2NHBNaW1KVkxUbUlzYVlfU3V2Rw?oc=5",
+          "category": "Quality",
+          "relevance_score": 9,
+          "original_publish_time": "2026-10-06T10:00:00+00:00",
+          "misaki_take": "When a former Deckers CEO puts personal capital into an emerging men's sneaker brand, it is not a vanity move — it is a market signal about where he sees white space that the big platforms are too slow to address. For sourcing and ops teams at emerging brands, this kind of hire compresses the learning curve on vendor negotiation, MOQ leverage, and DTC margin architecture by years."
+        },
+        {
+          "title": "OTW by Vans Reworks the Chukka 49 With Vibram Tooling",
+          "source_name": "Hypebeast",
+          "source_url": "https://hypebeast.com/2026/10/otw-by-vans-chukka-49-vibram-vintage-cocoa-oil-green-dress-blue-suede-leather-release-info",
+          "category": "Leather",
+          "relevance_score": 8,
+          "original_publish_time": "2026-10-08T07:38:46+00:00",
+          "misaki_take": "Licensing a Vibram outsole into a $101 retail price point is a margin compression exercise that only makes sense if the brand is buying volume or absorbing the delta to defend a premium sub-line's positioning. The three-colorway drop in premium suede confirms OTW is being managed as a separate SKU architecture with its own costing logic, not a margin-matched extension of the core Vans line."
+        },
+        {
+          "title": "30 Years Later, Jordan's Space Jam Shoes Are Fresher Than Ever (EXCLUSIVE)",
+          "source_name": "Highsnobiety",
+          "source_url": "https://www.highsnobiety.com/p/jordan-space-jam-30th-anniversary-sneakers/",
+          "category": "Brand News",
+          "relevance_score": 6,
+          "original_publish_time": "2026-10-10T14:49:59+00:00",
+          "misaki_take": "A three-SKU Jordan 11 anniversary drop is a masterclass in IP amortization — Nike is extracting revenue from a 1996 film asset with near-zero incremental design cost while occupying retail floor space heading into Q4. The real operational question is allocation discipline: Jordan 11 production capacity is not elastic, and a triple-silhouette anniversary push at holiday will tighten supply on adjacent SKUs."
+        },
+        {
+          "title": "New Balance’s Understated Sneaker Brings Restraint to Skate Shoes",
+          "source_name": "Highsnobiety",
+          "source_url": "https://www.highsnobiety.com/p/new-balance-numeric-franky-villani-417-low/",
+          "category": "Leather",
+          "relevance_score": 6,
+          "original_publish_time": "2026-10-09T21:06:00+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "The Salomon XT-6 GTX Takes on an Overcast “Stormy Weather” Palette",
+          "source_name": "Hypebeast",
+          "source_url": "https://hypebeast.com/2026/10/salomon-xt-6-gore-tex-tradewinds-stormy-weather-bog-l49214800-release-info",
+          "category": "Trade Data",
+          "relevance_score": 6,
+          "original_publish_time": "2026-10-09T09:07:36+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "LeBron James’ Nike Sneakers Are Notoriously Heavy — but His Newest Is the Lightest Yet",
+          "source_name": "Footwear News",
+          "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-lebron-24-stars-release-date-1239315600/",
+          "category": "Retail",
+          "relevance_score": 6,
+          "original_publish_time": "2026-10-06T15:43:35+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "Dave Powers Comes Out of Footwear Retirement to Join Men’s Sneaker Brand Stoke Shoes as Investor, Advisor",
+          "source_name": "Footwear News",
+          "source_url": "https://wwd.com/footwear-news/shoe-industry-news/dave-powers-stoke-shoes-investor-advisor-1239315825/",
+          "category": "Quality",
+          "relevance_score": 6,
+          "original_publish_time": "2026-10-06T15:38:02+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "Vans' Waterproof Skate Boots Kinda Go Hard",
+          "source_name": "Highsnobiety",
+          "source_url": "https://www.highsnobiety.com/p/vans-sk8-hi-gore-tex-insulated-shoes/",
+          "category": "Retail",
+          "relevance_score": 6,
+          "original_publish_time": "2026-10-05T20:36:33+00:00",
+          "misaki_take": "Vans putting GORE-TEX and insulation into the Sk8-Hi chassis ahead of winter is a direct response to market share erosion in the cold-weather casual category, where brands like Salomon and The North Face have been pulling skate-adjacent consumers at higher ASPs. The clean 'Light Grey' colorway suggests this is being positioned for lifestyle retail rather than core skate doors, which changes the conversation around end-use and who the real competitor is."
+        },
+        {
+          "title": "Brooks Brothers x Converse Rework the All Star Aged Hi and Ox Around a ‘50s Wrestling Shoe",
+          "source_name": "Hypebeast",
+          "source_url": "https://hypebeast.com/2026/10/brooks-brothers-converse-all-star-aged-ox-hi-release-info",
+          "category": "Brand News",
+          "relevance_score": 6,
+          "original_publish_time": "2026-10-05T06:29:09+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "FAIST Voices: meet Carité Shoemaking Group - World Footwear",
+          "source_name": "Google News - Footwear Industry",
+          "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNM2VaN3hOdE9nSy1QZlZJNVZ2V0I3eDA3dk9BOEY5ZjY5ZV9WUlFwMUwya1JLc1VnLThFemc5QmlRUG5FUGd6TUZzbFZ2TVhPcmRNakp5NGZGaEhBeXhfT2dZSGFBRUlXS1FmLVJoT1FSc3B0OUFhdnN4bFRvU2xTMEVBSE11T29FZmEzbHpfVTk?oc=5",
+          "category": "Retail",
+          "relevance_score": 6,
+          "original_publish_time": "2026-10-04T23:04:26+00:00",
+          "misaki_take": "Manufacturer profiles in trade publications are rarely editorial — they are visibility investments in a sourcing environment where brand executives are actively auditing their factory networks for ethical compliance and production capability depth. Carité's participation in the FAIST platform suggests they are competing for mid-to-premium European brand business where factory storytelling is part of the vendor qualification process."
+        }
+      ]
+    },
     {
       "id": "wk40-2026",
       "week_number": 40,
@@ -906,107 +1007,6 @@
           "category": "Sustainability",
           "relevance_score": 6,
           "original_publish_time": "2026-07-30T16:03:34+00:00",
-          "misaki_take": ""
-        }
-      ]
-    },
-    {
-      "id": "wk30-2026",
-      "week_number": 30,
-      "year": 2026,
-      "date_from": "2026-07-20",
-      "date_to": "2026-07-26",
-      "published": "2026-07-26T10:03:05.304934+00:00",
-      "intro": "Week 30 arrives with Brazil pulling in two directions at once, Puma quietly reshaping its executive bench, and the luxury aesthetic continuing its migration into commodity footwear categories. The through-line this week is pressure — on margins, on sourcing orthodoxy, and on brands still trying to define what premium means when rhinestones are on a $90 sneaker and handpainted florals are on a Desert Boot.",
-      "articles": [
-        {
-          "title": "The Nike Air Liquid Max \"Sequoia\" Swaps Nanoprint for a Sculpted TPU Line Upper",
-          "source_name": "Hypebeast",
-          "source_url": "https://hypebeast.com/2026/7/nike-air-liquid-max-sequoia-iv6097-300-official-images",
-          "category": "Sustainability",
-          "relevance_score": 7,
-          "original_publish_time": "2026-07-24T07:11:50+00:00",
-          "misaki_take": ""
-        },
-        {
-          "title": "Gems and Embellishments Aren’t Just for Clothes — Jewelry Is Finding Its Way Onto Sneakers and Other Shoes",
-          "source_name": "Footwear News",
-          "source_url": "https://wwd.com/footwear-news/shoe-trends/bejeweled-sneakers-dua-lipa-sza-1239079330/",
-          "category": "Brand News",
-          "relevance_score": 7,
-          "original_publish_time": "2026-07-23T14:59:01+00:00",
-          "misaki_take": ""
-        },
-        {
-          "title": "VANDYTHEPINK Serves Up ASICS' Gel-Kayano 12.1 in \"Chocolate\" & \"Vanilla\"",
-          "source_name": "Hypebeast",
-          "source_url": "https://hypebeast.com/2026/7/vandythepink-asics-gel-kayano-12-1-release-date-information",
-          "category": "Sustainability",
-          "relevance_score": 7,
-          "original_publish_time": "2026-07-22T20:42:08+00:00",
-          "misaki_take": ""
-        },
-        {
-          "title": "Puma Hires Former Adidas and Reebok Exec to Drive E-commerce Business",
-          "source_name": "Footwear News",
-          "source_url": "https://wwd.com/footwear-news/shoe-industry-news/puma-dusan-hamlin-vice-president-e-commerce-business-1239079148/",
-          "category": "Brand News",
-          "relevance_score": 7,
-          "original_publish_time": "2026-07-22T18:00:42+00:00",
-          "misaki_take": ""
-        },
-        {
-          "title": "From Nike to Vans, the Seven best Sneakers to Cop this Week",
-          "source_name": "Highsnobiety",
-          "source_url": "https://www.highsnobiety.com/p/sneaker-releases-2026-july-week-3/",
-          "category": "Retail",
-          "relevance_score": 7,
-          "original_publish_time": "2026-07-21T10:49:01+00:00",
-          "misaki_take": "Weekly drop roundups function as real-time demand-signal data for sourcing teams willing to read them that way — velocity on limited releases tells you which silhouettes are being positioned for general distribution restocks within two to three seasons. Vans appearing alongside Nike in curated premium drop editorial is a brand health indicator worth tracking, given where Vans sat in VF Corporation's portfolio pressure twelve months ago."
-        },
-        {
-          "title": "MASU and Clarks’ Collaborative Desert Boot Comes Adorned With Painted Florals",
-          "source_name": "Hypebeast",
-          "source_url": "https://hypebeast.com/2026/7/masu-clarks-desert-boot-collaboration-release-info",
-          "category": "Retail",
-          "relevance_score": 7,
-          "original_publish_time": "2026-07-21T07:43:13+00:00",
-          "misaki_take": ""
-        },
-        {
-          "title": "Producing more than 930 million pairs and remaining stable, the Brazilian footwear industry maintained the 2025 level, exporting around 99 million pairs and allocating most of the production to the domestic market. - CPG Click Oil and Gas",
-          "source_name": "Google News - Footwear Industry",
-          "source_url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPeEc5MW5BYVJ4M2hKTnJYUnE0VUxhRWphQjJ6VmNYUTN3MGJMcmRwWENNS2s1MkFZdjl1enlpd05tMldRZUpDMVZ5WWMyQjZDRXRETDNVWDhVdDMxdktZV3dIalY2YkQzbmZUOVRWdUc0NlZ3VTlNZThwdlJIbE9KY3M1aWh2MDFYbUtwRVVWQmI5WHNmb1pHM0s4RFVZWVJGMW5xb2VWSndObE90UEo2WjJDMVE5TFhzMzYzRXg5TGZiR2ltUVczUGR2a211ZldRMFJkalNhV0NsSDhHSDJKNHp2TmxJdU5SdDRSY0tDbHVYRW92NUMtY1FvdTM4OW9XMnZOaEljSXRkUlFjSFgweA?oc=5",
-          "category": "Manufacturing",
-          "relevance_score": 6,
-          "original_publish_time": "2026-07-25T17:38:00+00:00",
-          "misaki_take": "Stability at 930 million pairs sounds like resilience, but flat output against a backdrop of rising domestic consumption means export capacity is being quietly absorbed at home — which matters for any brand sourcing Brazilian leather goods or finished footwear for international markets. If domestic demand continues to climb, FOB pricing from Brazilian suppliers will tighten before volume does."
-        },
-        {
-          "title": "Why is Balletcore so Popular in Sneakers at the Moment? - The Sole Supplier",
-          "source_name": "Google News - Sneaker Brand",
-          "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTzg1Mi1kQ3N3Uk96S2pSakhnMHo3SFA4eU13U3EwWFowVnNnbnAwc29VUlQzR0xyWVJfZVdZRW5MYlYtc28tYVBzdkFmaEZQcXZLTjJmVkYtMFNRZ0U3Q09qYTY2MXF3T0lLTmJLVFhQWlJrcG9aV21Ldnl6LXVvNHhVZlVuUXIzVGltN3VKXzlzeHFVcUxF?oc=5",
-          "category": "Manufacturing",
-          "relevance_score": 6,
-          "original_publish_time": "2026-07-24T17:54:00+00:00",
-          "misaki_take": "Balletcore in sneakers is a materials and construction signal as much as an aesthetic one — satin-adjacent fabrics, ribbon-style lacing hardware, and soft toe profiles all require different upper assembly processes than standard mesh or leather builds, and factories without apparel-adjacent sewing capability will struggle with consistency. Brands chasing this trend on fast timelines are likely absorbing fit and finish defect rates they have not fully costed."
-        },
-        {
-          "title": "The World’s Finest Grandpa Shoes Ain't Just Shoes Anymore",
-          "source_name": "Highsnobiety",
-          "source_url": "https://www.highsnobiety.com/p/birkenstock-mephisto-paraboot-shoe-merch/",
-          "category": "Brand News",
-          "relevance_score": 6,
-          "original_publish_time": "2026-07-22T21:22:01+00:00",
-          "misaki_take": ""
-        },
-        {
-          "title": "Surging imports put Brazil’s footwear industry under pressure - DatamarNews",
-          "source_name": "Google News - Footwear Industry",
-          "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONEdXYzVJM3JYZFUzekUtYjdMcTdia3licUlkQWJvdVRYR0dtUldOZjUyWjc1bnhuSjhJbkQxVVVGZ1JEUklldGs5cUhwdzk3S3ZJdWJGdzBmdlRIZ1ZIQkRWal9ETFo4d1hoVzNicDhYUVVlQ0dnRU1wOGwxV2JyMVRuTEJFLVBvLUpBX0JKZFFmMnE2cHVRU1Bn?oc=5",
-          "category": "Trade Data",
-          "relevance_score": 6,
-          "original_publish_time": "2026-07-22T21:11:39+00:00",
           "misaki_take": ""
         }
       ]
