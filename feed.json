@@ -1,8 +1,29 @@
 {
-  "last_updated": "2026-10-11T01:51:02.378763+00:00",
-  "total_articles": 102,
-  "sources_checked": 61,
+  "last_updated": "2026-10-11T11:14:15.910373+00:00",
+  "total_articles": 101,
+  "sources_checked": 60,
   "articles": [
+    {
+      "id": "7d9d183d50d0",
+      "title": "Wasted Paris x Clarks Originals Pack Britpop Memorabilia Into a Customizable Wallabee Lite",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/10/wasted-paris-clarks-wallabee-lite-release-info",
+      "original_publish_time": "2026-10-11T02:40:22+00:00",
+      "scraped_time": "2026-10-11T11:03:31.928025+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [
+        "Clarks"
+      ],
+      "keywords_matched": [
+        "sole"
+      ],
+      "relevance_score": 3,
+      "summary": "Name: Wasted Paris x Clarks Wallabee LiteColorway: Black/BlackSKU: TBCMSRP: TBCRelease Date: October 15Where to Buy: WastedWasted Paris and Clarks Originals have teamed up on a Wallabee Lite in Black/Black that treats the shoe as a vessel for Britpop memorabilia. Built around a set of interchangeable pins, a guitar pick and a custom fob, the collaboration lets wearers decorate the silhouette themselves, mirroring the way fans of the era accumulated badges and souvenirs over time.The story begins in the mid-to-late ’90s, when the Wallabee became part of the Britpop landscape. The shoe turned up everywhere the scene gathered, from pubs and indie gigs to football terraces and backstage areas, along with every street that connected them. Britpop itself was never solely a sound. It was a mash-u",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "961374634448",
       "title": "Nike’s Thicc Satin Air Max Is Its Own Muse",
@@ -2083,47 +2104,6 @@
       "keywords_matched": [],
       "relevance_score": 3,
       "summary": "This adidas Gazelle Lo Pro asks for a cup of tea. The flattened classic has the pleasing palette of a biscuit: sandy suede, off-white stripes.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "98899d6b9744",
-      "title": "Podiatrist-Approved Loafers, Sneakers, and Fall Flats Are on Sale at Amazon, From $50 - instyle.com",
-      "source_name": "Google News - Sneaker Brand",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOFVPZ2xGWnk5WVZyX0JnNGktbWctamhOTk40WEc3cmhiYlBQaHRBb3lfSlFOaVNZcUJsTE1QQWtoRml4c0FIYmhKdENkaE0tT2xadF96TmoyU3lsTG1MbTUzeDhMOGM4Q1NmRFFHeUk3UU1SY1huU1NmOWg3eEFpbEV0OU54S0lu?oc=5",
-      "original_publish_time": "2026-10-04T06:30:00+00:00",
-      "scraped_time": "2026-10-04T10:47:28.607991+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "Podiatrist-Approved Loafers, Sneakers, and Fall Flats Are on Sale at Amazon, From $50 instyle.com",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "f1d877ef1d63",
-      "title": "PUMA GOLF x Saturdays NYC Spot the Clyde Golf in Leopard for Round Two",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/10/puma-golf-saturdays-nyc-collaboration-collection-japan-release-info",
-      "original_publish_time": "2026-10-04T02:30:28+00:00",
-      "scraped_time": "2026-10-04T10:47:16.843108+00:00",
-      "time_delta_mins": 0,
-      "category": "Trade Data",
-      "brands_mentioned": [
-        "Puma"
-      ],
-      "keywords_matched": [
-        "footwear",
-        "shoes"
-      ],
-      "relevance_score": 4,
-      "summary": "Summary PUMA GOLF and Saturdays NYC have reunited for a second capsule built around a leopard-print edition of the PUMA Clyde GolfFive apparel pieces use the print at different volumes, from an all-over sweater to trousers that reveal it only at the pocketsThe lineup pairs the footwear with a reversible vest, a long-sleeve polo, and a cap for a full on-course kit PUMA GOLF and Saturdays NYC have returned for a second collaboration, anchored by a leopard-print take on the PUMA Clyde Golf. The capsule runs six pieces, one pair of shoes and five apparel items, and treats the animal print as its connecting thread rather than a one-off accent.The footwear is the centerpiece. The Clyde Golf is PUMA's course-ready reworking of the Clyde, one of the brand's defining silhouettes, and this edition b",
       "ren_take": "",
       "image_url": ""
     }
