@@ -1,8 +1,111 @@
 {
-  "last_updated": "2026-10-11T20:56:49.689948+00:00",
-  "total_articles": 101,
+  "last_updated": "2026-10-12T02:21:24.861264+00:00",
+  "total_articles": 105,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "67581b7101e5",
+      "title": "EU PFAS limits hit clothing and footwear",
+      "source_name": "Ecotextile News",
+      "source_domain": "ecotextile.com",
+      "source_url": "https://www.ecotextile.com/2026101266345/news/dyes-chemicals/eu-pfas-limits-hit-clothing-and-footwear/",
+      "original_publish_time": "2026-10-11T23:39:00+00:00",
+      "scraped_time": "2026-10-12T02:12:16.581901+00:00",
+      "time_delta_mins": 0,
+      "category": "Quality",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "New EU limits on PFHxA in clothing and footwear now apply, adding to differing PFAS rules that complicate compliance for […] The post EU PFAS limits hit clothing and footwear appeared first on Ecotextile News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "73ffd4837d43",
+      "title": "Camouflage Cow Prints Wrap The adidas Samba",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/10/11/adidas-samba-camo-kj7500/",
+      "original_publish_time": "2026-10-11T22:00:42+00:00",
+      "scraped_time": "2026-10-12T02:10:14.618364+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "Camo shoes are once again in heavy rotation as we prep for another pass through autumn, a product of a fashion movement where kids want... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Camouflage Cow Prints Wrap The adidas Samba appeared first on Sneaker News . The post Camouflage Cow Prints Wrap The adidas Samba appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "d2dff02e5995",
+      "title": "UGG’s Waterproof Slippers Can Handle Winter's Worst",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/ugg-tasman-guard-gtx/",
+      "original_publish_time": "2026-10-11T21:15:36+00:00",
+      "scraped_time": "2026-10-12T02:14:07.034347+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "UGG",
+        "Vibram"
+      ],
+      "keywords_matched": [
+        "sole"
+      ],
+      "relevance_score": 4,
+      "summary": "UGG releases the Tasman Guard GTX shoe, a waterproof winterized slip-on with Vibram soles & mudguards.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "69b0047f05d9",
+      "title": "Nike’s Textured Chocolate Jordan Has Us Feeling Peckish",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-jordan-skyline-low-le/",
+      "original_publish_time": "2026-10-11T21:02:01+00:00",
+      "scraped_time": "2026-10-12T02:14:07.034949+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "Nike’s Air Jordan Skyline Low LE gets a rich, chocolate-inspired makeover, pairing creamy neutrals with textured brown details for an easy fall-ready sneaker.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "81db45e0afc3",
+      "title": "The Nike Blazy Hits The Hacky Sack Circle With Tie Dye Uppers",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/10/11/nike-blazy-tie-dye-iv7023-700/",
+      "original_publish_time": "2026-10-11T21:00:37+00:00",
+      "scraped_time": "2026-10-12T02:10:14.621899+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 5,
+      "summary": "Nike may have just made the ultimate stoner shoe. The Blazer-inspired Nike Blazy was already destined for 420 associations thanks to its name alone, but... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Nike Blazy Hits The Hacky Sack Circle With Tie Dye Uppers appeared first on Sneaker News . The post The Nike Blazy Hits The Hacky Sack Circle With Tie Dye Uppers appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "f01ad29bec12",
       "title": "Nike's Newest Air Max Outdoor Boot Is the Tuff-est Yet",
@@ -2081,26 +2184,6 @@
       ],
       "relevance_score": 3,
       "summary": "Name: Grand Collection x New Balance 770, Grand x New Balance 580Colorway: Black/Duffel BagSKU: UN770NGD, UN508GRN-5MSRP: $125 USD, $100 USDRelease Date: Available nowWhere to Buy: Grand, New BalanceGrand Collection and New Balance have reunited for a second collaboration, led by reworked takes on the 770 and 508 designed to hold up under skateboarding. The follow-up to last fall's debut team-up builds every piece around three priorities: use on the board, careful construction, and a look that won't date quickly. A full apparel offering rounds out the range, along with a New York skate video that puts it all to work.The footwear sets the tone. Both the 770 and 508 are offered in black and deep forest, and each pairs premium leather with brushed suede. Branding stays low-key, limited to sub",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "f63d194c1bbd",
-      "title": "FAIST Voices: meet Carité Shoemaking Group - World Footwear",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNM2VaN3hOdE9nSy1QZlZJNVZ2V0I3eDA3dk9BOEY5ZjY5ZV9WUlFwMUwya1JLc1VnLThFemc5QmlRUG5FUGd6TUZzbFZ2TVhPcmRNakp5NGZGaEhBeXhfT2dZSGFBRUlXS1FmLVJoT1FSc3B0OUFhdnN4bFRvU2xTMEVBSE11T29FZmEzbHpfVTk?oc=5",
-      "original_publish_time": "2026-10-04T23:04:26+00:00",
-      "scraped_time": "2026-10-05T01:44:47.966460+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "shoemaking"
-      ],
-      "relevance_score": 6,
-      "summary": "FAIST Voices: meet Carité Shoemaking Group World Footwear",
       "ren_take": "",
       "image_url": ""
     }
