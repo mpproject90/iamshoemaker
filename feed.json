@@ -1,8 +1,154 @@
 {
-  "last_updated": "2026-10-13T18:09:12.089385+00:00",
-  "total_articles": 104,
+  "last_updated": "2026-10-13T21:53:38.668467+00:00",
+  "total_articles": 107,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "a4c37e02ec87",
+      "title": "The Nike Mind 002 Flyknit Flirts With All Black",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/10/13/nike-mind-002-flyknit-black-dark-smoke-grey-anthracite-ir2176-002/",
+      "original_publish_time": "2026-10-13T21:30:26+00:00",
+      "scraped_time": "2026-10-13T21:42:33.672399+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 3,
+      "summary": "With the unveiling of the Nike 24.7 Boot, the Swoosh’s off-the-court recovery efforts have never been more in focus. The Nike Mind platform is firming... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Nike Mind 002 Flyknit Flirts With All Black appeared first on Sneaker News . The post The Nike Mind 002 Flyknit Flirts With All Black appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "77e2b77c1a82",
+      "title": "Enter Converse's Most Feral Chuck Taylor Slip-on Yet",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/converse-all-star-pointed-toe-volume-fur-slip-ox/",
+      "original_publish_time": "2026-10-13T21:22:30+00:00",
+      "scraped_time": "2026-10-13T21:46:27.450599+00:00",
+      "time_delta_mins": 0,
+      "category": "Trade Data",
+      "brands_mentioned": [
+        "Converse"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "Converse Japan's next move? Dropping the All-Star Pointed Toe Volume Fur Slip OX, a laceless sneaker featuring sharp toe boxes & hairy uppers.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "71fd21cf9c0e",
+      "title": "A Volatile Super El Niño Brings Unpredictability to Boot Season",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/shoe-retailers-el-nino-boot-buying-rain-winter-2026-1239343994/",
+      "original_publish_time": "2026-10-13T21:05:33+00:00",
+      "scraped_time": "2026-10-13T21:42:23.092258+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 3,
+      "summary": "Shoe retailers hope for the best during Super El Niño, and where they are located is key.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "8686fd67befe",
+      "title": "The Nike “UGGs” Are Right on Time",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-24-7-boots/",
+      "original_publish_time": "2026-10-13T20:33:46+00:00",
+      "scraped_time": "2026-10-13T21:46:27.451494+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Nike",
+        "UGG"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 5,
+      "summary": "Nike debuts its 24.7 boot, a plush suede recovery shoe with UGG-level flavor. Here's everything on the cozy model.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "c30c786e85e8",
+      "title": "Nike’s Croc ACG Boots Are a Different Breed",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-air-max-goadome-croc-vivid-sulfur/",
+      "original_publish_time": "2026-10-13T18:57:55+00:00",
+      "scraped_time": "2026-10-13T21:46:27.452409+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 5,
+      "summary": "Nike introduces a yellow croc skin version of its Air Max Goadome Low boots. Here's everything on the limited release.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "0392bbde67dd",
+      "title": "Yue Yuen’s Footwear Shipments Show Positive Momentum in September",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/yue-yuen-shoe-manufacturing-revenue-september-2026-1239345088/",
+      "original_publish_time": "2026-10-13T18:40:49+00:00",
+      "scraped_time": "2026-10-13T21:42:23.095313+00:00",
+      "time_delta_mins": 0,
+      "category": "Manufacturing",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "shoe manufacturing"
+      ],
+      "relevance_score": 4,
+      "summary": "Yue Yuen's shoe manufacturing revenue in September rose 6.6 percent year-over-year.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "0710df558a10",
+      "title": "Blackpink’s Rosé Helps Puma Launch Its New Speedcat Croc Sneakers",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/rose-puma-speedcat-croc-sneakers-release-date-1239345468/",
+      "original_publish_time": "2026-10-13T18:20:46+00:00",
+      "scraped_time": "2026-10-13T21:42:23.095819+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Puma",
+        "Off-White"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 6,
+      "summary": "The new shoe will be available in deep brown, off-white and black colorways on Oct. 15.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "cbed5f93f65f",
       "title": "The Nike 24.7 Boot Is A Yeezy-Meets-Uggs Hybrid",
@@ -2072,92 +2218,6 @@
       ],
       "relevance_score": 4,
       "summary": "Drake’s recent Nike ad featured the rapper claiming that the only people waiting on Anthony Edwards’ shoes were “four kids in Minnesota.” Ant and adidas... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Anthony Edwards Takes Shots At Drake And Kevin Durant's Nike Ad appeared first on Sneaker News . The post Anthony Edwards Takes Shots At Drake And Kevin Durant’s Nike Ad appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "d4e329e7afd4",
-      "title": "The Brain Dead x adidas Bowling Shoe Got a Wild Makeover",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/10/brain-dead-adidas-bowling-cheetah-snakeskin-release-info",
-      "original_publish_time": "2026-10-06T20:18:46+00:00",
-      "scraped_time": "2026-10-06T21:25:48.140645+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "footwear",
-        "sneakers",
-        "upper"
-      ],
-      "relevance_score": 5,
-      "summary": "SummaryFor Fall 2026, Brain Dead and adidas updated their 1978-inspired bowling shoe with bold leopard and faux snakeskin prints.Retailing for $250, the non-gameplay sneakers feature classic branding, contrasting details, and elevated heels.With their latest footwear drop, Brain Dead and adidas continue to evolve their partnership, this time dialling in on the Bowling silhouette they introduced in 2024. Arriving in two animal prints, the streamlined leather shoe is updated with a bigger and bolder personality for Fall 2026.Inspired by a 1978 adidas design, the bowling shoe is reimagined in both a leopard fur-style upper and faux snakeskin upper. It's a sharp turn away from the more subtle all-black and black-and-white versions they have dropped thus far. In keeping with the original model,",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "8250b93d0190",
-      "title": "Dr. Martens Is Changing. You're Not Supposed to Notice.",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/dr-martens-rebrand-interview/",
-      "original_publish_time": "2026-10-06T20:18:31+00:00",
-      "scraped_time": "2026-10-06T21:29:32.563060+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Dr. Martens"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "Dr. Martens is rebranding but not enough for you to notice. That's the point, as creative director Neil Cummings tells us: with shoes this perfect, why change?",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "e44bdab06d99",
-      "title": "The adidas Anthony Edwards 3 “Omen” Is Ready For Halloween",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/10/06/adidas-anthony-edwards-3-ae3-halloween-kj3021/",
-      "original_publish_time": "2026-10-06T19:30:20+00:00",
-      "scraped_time": "2026-10-06T21:25:48.304409+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "Omens can be good or bad, but for opposing guards, looking down at a pair of Anthony Edwards shoes at the top of the key... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The adidas Anthony Edwards 3 \"Omen\" Is Ready For Halloween appeared first on Sneaker News . The post The adidas Anthony Edwards 3 “Omen” Is Ready For Halloween appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "61f3426b8108",
-      "title": "Nike’s Tartan Sneakers Are as Techy as They Are Preppy",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-shox-tl-tartan-red-black/",
-      "original_publish_time": "2026-10-06T18:28:46+00:00",
-      "scraped_time": "2026-10-06T21:29:32.564267+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 5,
-      "summary": "Nike's Shox TL sneaker gets another plaid makeover, this time featuring a red Tartan print for an all-new collection.",
       "ren_take": "",
       "image_url": ""
     }
