@@ -1,8 +1,151 @@
 {
-  "last_updated": "2026-10-13T12:25:50.675149+00:00",
-  "total_articles": 103,
+  "last_updated": "2026-10-13T18:09:12.089385+00:00",
+  "total_articles": 104,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "cbed5f93f65f",
+      "title": "The Nike 24.7 Boot Is A Yeezy-Meets-Uggs Hybrid",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/10/13/nike-247-boot/",
+      "original_publish_time": "2026-10-13T17:30:59+00:00",
+      "scraped_time": "2026-10-13T17:58:16.127613+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Nike",
+        "Yeezy"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 9,
+      "summary": "Nike’s reorientation around sport, or in its terms, a “sport offense,” has led to reverberations throughout the catalog. Of course, it’s led to performance-minded steps... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Nike 24.7 Boot Is A Yeezy-Meets-Uggs Hybrid appeared first on Sneaker News . The post The Nike 24.7 Boot Is A Yeezy-Meets-Uggs Hybrid appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "9f69dfd37ad1",
+      "title": "Is the Footwear Market Getting More Promotional This Fall?",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/hoka-vans-boot-barn-shoe-brand-discounts-september-1239343280/",
+      "original_publish_time": "2026-10-13T16:58:27+00:00",
+      "scraped_time": "2026-10-13T17:58:05.270934+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "One market watcher takes stock of markdown activity in September.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "bd779c7d4e6d",
+      "title": "Nike’s Air Jordan 1 Retro High Og Royal Makes Its Grand Return",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nikes-air-jordan-1-retro-high-og-royal-sneaker/",
+      "original_publish_time": "2026-10-13T16:12:00+00:00",
+      "scraped_time": "2026-10-13T18:01:58.566513+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "Nike's ultra-classic Royal Air Jordan 1 sneaker doesn't need on-court bravado to score.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "487a0b1dbb2d",
+      "title": "JW Anderson Brings Loafer Details to Classic UGG Silhouettes",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/10/jw-anderson-ugg-collaboration-collection-release-info",
+      "original_publish_time": "2026-10-13T16:05:53+00:00",
+      "scraped_time": "2026-10-13T17:58:15.935368+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "UGG"
+      ],
+      "keywords_matched": [
+        "boot",
+        "footwear"
+      ],
+      "relevance_score": 4,
+      "summary": "SummaryJW Anderson and UGG’s first collaboration updates the Classic Boot and Tasman with sophisticated penny loafer details.Launching October 15, the suede and fur-lined footwear features an autumnal color palette of Chestnut, Khaki, and Orange.In a first-time collaboration, JW Anderson and UGG have partnered for a collection that reimagines classic UGG silhouettes with sophisticated updates from designer Jonathan Anderson. Continuing Anderson’s tradition of bringing loafer-inspired details to different products, UGG’s Classic Boot and Tasman have been reimagined with distinct characteristics inspired by penny loafers.In a statement, Jonathan Anderson shared more insights on his approach: “UGGs are instantly recognisable, and I was interested in seeing something so familiar through the le",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "aa9e2dce7704",
+      "title": "Were You Fooled by Those AI Images of Rhode x Hunter Boots? You’re Not Alone.",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-trends/rhode-hunter-ai-images-collaboration-social-media-1239344757/",
+      "original_publish_time": "2026-10-13T15:24:55+00:00",
+      "scraped_time": "2026-10-13T17:58:05.272150+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 3,
+      "summary": "AI images circulated on social media of a collaboration between Hailey Bieber's beauty brand Rhode and the British heritage boot brand Hunter.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "dd6f0c01d678",
+      "title": "Prada Gives the America’s Cup Sneaker an Autumnal Update",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/10/prada-gives-the-americas-cup-sneaker-an-autumnal-update",
+      "original_publish_time": "2026-10-13T13:05:09+00:00",
+      "scraped_time": "2026-10-13T17:58:15.936750+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Prada"
+      ],
+      "keywords_matched": [
+        "footwear",
+        "upper"
+      ],
+      "relevance_score": 4,
+      "summary": "Name: Prada America's Cup sneakerColorway: Teak/Blue, Cacao/BordeauxSKU: TBCMSRP: TBCRelease Date: October 13Where to Buy: PradaPrada revisits one of its most recognizable footwear silhouettes with a new release of the America’s Cup sneaker, introducing two colorways: “Teak/Blue” and “Cacao/Bordeaux.”Originally conceived in 1997 for the Luna Rossa sailing team, the model retains the streamlined, aerodynamic profile and technical sensibility that have defined it for nearly three decades. Staying true to the beloved original silhouette, the updated America's Cup sneaker maintains its distinctive, multi-layered construction. The upper showcases a dynamic interplay of textures, combining smooth, glossy patent leather overlays with highly breathable, technical textile mesh panels.While the aest",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "68a42dd939d9",
+      "title": "Barkha Singh Joins Women’s Footwear Brand Nuvah as Chief Creative Officer",
+      "source_name": "Apparel Resources",
+      "source_domain": "apparelresources.com",
+      "source_url": "https://apparelresources.com/business-news/retail/barkha-singh-joins-womens-footwear-brand-nuvah-chief-creative-officer/",
+      "original_publish_time": "2026-10-13T12:46:16+00:00",
+      "scraped_time": "2026-10-13T18:02:10.318675+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Actor Barkha Singh has joined women’s footwear startup Nuvah as chief creative officer, marking her entry into entrepreneurship. She will work with founder and CEO Avni Jain on product design, brand communication, visual storytelling and creative strategy. In her new role, Singh will contribute to product development and brand positioning, drawing on her interest in […] The post Barkha Singh Joins Women’s Footwear Brand Nuvah as Chief Creative Officer appeared first on Apparel Resources .",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "56c40ee6dd78",
       "title": "Jordan Brand Warms up the Season With the Air Jordan 12 \"Fireside\"",
@@ -61,6 +204,27 @@
       ],
       "relevance_score": 3,
       "summary": "Raw material shortages, weak market access constrain Ghana’s leather industry CitiNewsroom.com",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "e560985cc4b7",
+      "title": "Golden Goose Teams With Disney for Mickey Mouse-Inspired Sneakers, Apparel and Global Customization Tour - Variety",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSDVjLWJLWmgwZG5lQmNGcHlRemdnaHZEa3ZFamJNU29INGh6c1pKbXdJNmVHOUswQ1JtX2Z0OHVLODJCYURZV0VWcnRxcmFTTXFzNmFRUlZndm1UaUhSaUM1OEloV3AyengybFdKVFE1SDJMU2ROT0t1bWhDTkYwU0pIVl9McTVsSjc3ODRMR183aU8wMnZJaThhXzhHVGpkdkp1VFZOdGtXU1I0S2c?oc=5",
+      "original_publish_time": "2026-10-13T04:00:00+00:00",
+      "scraped_time": "2026-10-13T17:58:27.774553+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Golden Goose"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "Golden Goose Teams With Disney for Mickey Mouse-Inspired Sneakers, Apparel and Global Customization Tour Variety",
       "ren_take": "",
       "image_url": ""
     },
@@ -1994,150 +2158,6 @@
       ],
       "relevance_score": 5,
       "summary": "Nike's Shox TL sneaker gets another plaid makeover, this time featuring a red Tartan print for an all-new collection.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "1ccf93e6d83b",
-      "title": "‘Avatar: The Last Airbender’ Fans Can Rep Their Favorite Show With Reebok Sneakers",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/reebok-avatar-the-last-airbender-sneaker-collaboration-1239315610/",
-      "original_publish_time": "2026-10-06T17:53:00+00:00",
-      "scraped_time": "2026-10-06T21:25:37.595185+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Reebok"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 5,
-      "summary": "A collaborative collection launching Wednesday includes four sneaker styles inspired by the characters and story of the beloved Nickelodeon animated series.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "8fef07cb47b4",
-      "title": "Colorful Shoes Took Over Miu Miu’s Spring 2027 Runway [PHOTOS] - WWD",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPY0VGSHpZV1F0aExGV1JBMGZ1VHNWdVliYjctbk84c0hrWHc3U1dad3J6VTRPeERYSFNacVloTTM5X3FCTGM1cVMtaTNuSDVmeE9pcVVRZDU2aXM3WXI3Y3gzeWMydVFmTy1Gb2h2aXJsV2s0S0YxMlQ0dGF0TzZOQjRjeWlwOG0yZ0ZFTmwyakFxb2hPNVFyajJUcE16OHk5bjdhd2lSSzYzV2F2?oc=5",
-      "original_publish_time": "2026-10-06T16:58:57+00:00",
-      "scraped_time": "2026-10-06T21:25:58.943822+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "Colorful Shoes Took Over Miu Miu’s Spring 2027 Runway [PHOTOS] WWD",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "23743f7ba44d",
-      "title": "LeBron James’ Nike Sneakers Are Notoriously Heavy — but His Newest Is the Lightest Yet",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-lebron-24-stars-release-date-1239315600/",
-      "original_publish_time": "2026-10-06T15:43:35+00:00",
-      "scraped_time": "2026-10-06T17:03:13.289549+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "sneakers",
-        "upper"
-      ],
-      "relevance_score": 6,
-      "summary": "The Nike LeBron 24 is headlined by a new KingKnit upper with a unique combination of yarn.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "f602cf76930e",
-      "title": "Dave Powers Comes Out of Footwear Retirement to Join Men’s Sneaker Brand Stoke Shoes as Investor, Advisor",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/dave-powers-stoke-shoes-investor-advisor-1239315825/",
-      "original_publish_time": "2026-10-06T15:38:02+00:00",
-      "scraped_time": "2026-10-06T17:03:13.291937+00:00",
-      "time_delta_mins": 0,
-      "category": "Quality",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "shoes"
-      ],
-      "relevance_score": 6,
-      "summary": "Powers most recently served as president and CEO of Deckers Brands from 2016 to 2024.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "482887d74df1",
-      "title": "Zellerfeld And Nike By You Bring Fourteen Different Air Max 1000 Possibilities",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/10/06/zellerfeld-nike-by-you-air-max-1000-release-date/",
-      "original_publish_time": "2026-10-06T15:30:31+00:00",
-      "scraped_time": "2026-10-06T17:03:24.008053+00:00",
-      "time_delta_mins": 0,
-      "category": "Quality",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "There are many things that the elder statesmen of sneakers pine for; the unadulterated “chase,” the colorways or quality of old. For Nike ‘heads in... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Zellerfeld And Nike By You Bring Fourteen Different Air Max 1000 Possibilities appeared first on Sneaker News . The post Zellerfeld And Nike By You Bring Fourteen Different Air Max 1000 Possibilities appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "5a8c87721a04",
-      "title": "Chanel’s Spring 2027 Shoes Mix Animal Prints, Jeweled Cap Toes and Playing Card Heels",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-trends/chanel-spring-2027-shoes-paris-fashion-week-1239314116/",
-      "original_publish_time": "2026-10-06T15:13:35+00:00",
-      "scraped_time": "2026-10-06T17:03:13.292485+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "shoes"
-      ],
-      "relevance_score": 4,
-      "summary": "Matthieu Blazy keeps remixing Chanel's signature footwear codes with mixed prints, metallics, embroidery and whimsical embellishments.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "f7ac41ba7f24",
-      "title": "le PÈRE’s Fall Uniform? Tracksuits & PUMA “Bowling\" Shoes (EXCLUSIVE)",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/le-pere-puma-fw26-collab/",
-      "original_publish_time": "2026-10-06T14:46:16+00:00",
-      "scraped_time": "2026-10-06T17:07:13.351589+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Puma"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 5,
-      "summary": "le PÈRE releases its second FW26 PUMA collab, featuring a brown bowling-inspired Suede sneaker & vintage-style sportswear.",
       "ren_take": "",
       "image_url": ""
     }
