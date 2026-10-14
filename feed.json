@@ -1,8 +1,70 @@
 {
-  "last_updated": "2026-10-14T15:53:45.870666+00:00",
-  "total_articles": 101,
+  "last_updated": "2026-10-14T20:35:41.222781+00:00",
+  "total_articles": 103,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "5b9bbabaf10c",
+      "title": "Vans Turnaround Has More Than a Few Green Shoots",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/vf-corp-vans-male-teens-timberland-upper-income-male-teens-1239346578/",
+      "original_publish_time": "2026-10-14T19:58:42+00:00",
+      "scraped_time": "2026-10-14T20:24:39.270843+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [
+        "Vans",
+        "Timberland"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 4,
+      "summary": "Web and foot traffic data for Vans shows continued strong trends, particularly from male teens, while Timberland resonates with upper-income teens.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "6887af1207b5",
+      "title": "Timberland and Jacquemus Are Back Together on Two Croc Versions of the Lug Sole Boat Shoe",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/timberland-jacquemus-croc-lug-sole-boat-shoes-release-date-1239347807/",
+      "original_publish_time": "2026-10-14T19:54:19+00:00",
+      "scraped_time": "2026-10-14T20:24:39.273737+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Timberland"
+      ],
+      "keywords_matched": [
+        "sole"
+      ],
+      "relevance_score": 5,
+      "summary": "The silhouette is available in navy and brown colorways.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "80d959a128e9",
+      "title": "Two Ten Footwear Foundation Opens Registration for New Mentorship Program",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/two-ten-footwear-foundation-mentorship-program-details-1239346119/",
+      "original_publish_time": "2026-10-14T16:00:00+00:00",
+      "scraped_time": "2026-10-14T20:24:39.274482+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "The organization is looking for mentors and mentees to apply by Dec. 23.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "449f52fea459",
       "title": "Five Unexpected Ways to Style Your Heels and Boots This Fall, According to Chappell Roan and More Stars",
@@ -2073,27 +2135,6 @@
       ],
       "relevance_score": 3,
       "summary": "Do you already have your Halloween plans settled? Us neither, but Nike certainly has their holiday plotted out, with a deep invite list to boot.... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The ST Charge Joins Nike's \"Halloween\" Celebration appeared first on Sneaker News . The post The ST Charge Joins Nike’s “Halloween” Celebration appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "1509bdbcae57",
-      "title": "The Nike Air Diamond Turf II Cleat Revisits The Lifestyle Playbook",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/10/07/nike-air-diamond-turf-2-cleats-white-black-if4807-101/",
-      "original_publish_time": "2026-10-07T16:00:13+00:00",
-      "scraped_time": "2026-10-07T17:41:15.075173+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "The Deion Sanders shoes pipeline continues to stay flowing with new colorways of the Air Diamond Turf II, the Beaverton brand’s Deion model of focus... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Nike Air Diamond Turf II Cleat Revisits The Lifestyle Playbook appeared first on Sneaker News . The post The Nike Air Diamond Turf II Cleat Revisits The Lifestyle Playbook appeared first on Sneaker News .",
       "ren_take": "",
       "image_url": ""
     }
