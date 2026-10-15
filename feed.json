@@ -1,8 +1,29 @@
 {
-  "last_updated": "2026-10-14T20:35:41.222781+00:00",
-  "total_articles": 103,
-  "sources_checked": 60,
+  "last_updated": "2026-10-15T01:28:43.701060+00:00",
+  "total_articles": 101,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "1b016a00578b",
+      "title": "Vans Is Now Selling Its Sneakers at Zara",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/vans-zara-retail-partnership-details-authentic-sneakers-1239347869/",
+      "original_publish_time": "2026-10-14T20:26:48+00:00",
+      "scraped_time": "2026-10-15T01:17:36.399439+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Vans"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "Three versions of the Vans Authentic sneaker are featured on the retailer's e-commerce platforms.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "5b9bbabaf10c",
       "title": "Vans Turnaround Has More Than a Few Green Shoots",
@@ -2072,69 +2093,6 @@
       ],
       "relevance_score": 3,
       "summary": "Summary KITH Giorgio Armani and ASICS have unveiled a three-way collaboration on the GEL-Mai 0.1First showcased during KITH's annual trip in Marrakech the silhouette features shaggy grey suede and exposed navy GEL cushioningThe high-fashion athletic release is expected to drop through KITH's Monday Program KITH, Giorgio Armani, and ASICS have officially revealed a collaborative GEL-Mai 0.1, marking a rare three-way partnership bridging streetwear, Italian luxury, and sportswear heritage. Following a first look at KITH's annual trip in Marrakech, the release expands on the ongoing relationship between Ronnie Fieg and the Italian fashion house.Following their 2024 partnership on \"The Archetype\" suiting collection and subsequent New York Knicks apparel, Giorgio Armani expands its footwear imp",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "9c38390303b9",
-      "title": "Devin Booker’s Black Nike Book 2 “Just Don” Is Based On This Unreleased Sample",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/10/07/devin-booker-nike-book-2-just-don-black-pe/",
-      "original_publish_time": "2026-10-08T00:20:30+00:00",
-      "scraped_time": "2026-10-08T02:35:55.634137+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Devin Booker’s appreciation for sneaker history continues to shape his signature footwear, with the Phoenix Suns star revealing an alternate version of the Nike Book... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Devin Booker's Black Nike Book 2 \"Just Don\" Is Based On This Unreleased Sample appeared first on Sneaker News . The post Devin Booker’s Black Nike Book 2 “Just Don” Is Based On This Unreleased Sample appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "561460f4bbe5",
-      "title": "Jordan Brand’s “Space Jam” Collection Adds A Glow-In-The-Dark Son Of Mars Low",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/10/07/jordan-son-of-mars-low-space-jam-ix6377-001/",
-      "original_publish_time": "2026-10-07T22:00:47+00:00",
-      "scraped_time": "2026-10-08T02:35:55.639896+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Jordan"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Welcome to the jam, folks. Jordan Brand is celebrating the 30th anniversary of “Space Jam” with an absolutely whopping lineup of footwear. The “Space Jam”... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Jordan Brand's \"Space Jam\" Collection Adds A Glow-In-The-Dark Son Of Mars Low appeared first on Sneaker News . The post Jordan Brand’s “Space Jam” Collection Adds A Glow-In-The-Dark Son Of Mars Low appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "68ed4109e4c9",
-      "title": "The ST Charge Joins Nike’s “Halloween” Celebration",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/10/07/nike-st-charge-halloween-iz2608-200/",
-      "original_publish_time": "2026-10-07T21:30:31+00:00",
-      "scraped_time": "2026-10-07T21:44:57.798627+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 3,
-      "summary": "Do you already have your Halloween plans settled? Us neither, but Nike certainly has their holiday plotted out, with a deep invite list to boot.... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The ST Charge Joins Nike's \"Halloween\" Celebration appeared first on Sneaker News . The post The ST Charge Joins Nike’s “Halloween” Celebration appeared first on Sneaker News .",
       "ren_take": "",
       "image_url": ""
     }
