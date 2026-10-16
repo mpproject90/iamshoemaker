@@ -1,8 +1,111 @@
 {
-  "last_updated": "2026-10-16T15:26:10.573596+00:00",
-  "total_articles": 87,
-  "sources_checked": 60,
+  "last_updated": "2026-10-16T19:58:34.626134+00:00",
+  "total_articles": 91,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "7d3663011aa9",
+      "title": "Shoes for a Cure Unites Miami Community to Raise Money for Breast Cancer Research",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/shoes-for-a-cure-miami-design-district-mother-wolf-event-1239365061/",
+      "original_publish_time": "2026-10-16T19:46:07+00:00",
+      "scraped_time": "2026-10-16T19:47:31.480741+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "The third annual Miami Design District initiative brought supporters together at Mother Wolf Miami, and shopping events will continue this weekend.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "06c82dedc66e",
+      "title": "Nike’s All-Grey Air Max Is Practically Battle-Ready",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-air-max-moto-2k-cordura/",
+      "original_publish_time": "2026-10-16T18:46:48+00:00",
+      "scraped_time": "2026-10-16T19:51:26.222181+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "Nike's Air Max Moto 2K sneaker gets a Cordura update, resulting in a version that's equally stylish & rugged.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "58b3a4064a5f",
+      "title": "The Air Jordan 9 NRG Boot Returns In “Olive”",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/10/16/air-jordan-9-nrg-boot-olive-ar4491-012/",
+      "original_publish_time": "2026-10-16T16:00:44+00:00",
+      "scraped_time": "2026-10-16T19:47:42.395254+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [
+        "boot",
+        "footwear"
+      ],
+      "relevance_score": 7,
+      "summary": "For footwear fans heavy into boots and workwear, Nike’s Holiday 2026 catalog is rife with standouts, headlined by a massive push for the Goadome Low,... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Air Jordan 9 NRG Boot Returns In \"Olive\" appeared first on Sneaker News . The post The Air Jordan 9 NRG Boot Returns In “Olive” appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "1344b820512a",
+      "title": "Merrell Taps Harris Tweed for a Handwoven Footwear Collection",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/10/merrell-harris-tweed-collection-collaboration-release-relay-lace-se-j00005589-j00005590-moab-2-slide-se-j00005588-jungle-moc-j00005586-cham-redux-se-j00005585-release-info",
+      "original_publish_time": "2026-10-16T15:07:53+00:00",
+      "scraped_time": "2026-10-16T19:47:42.215774+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Merrell"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 6,
+      "summary": "Name: Merrell x Harris Tweed Collection\\MSRP: $130 - $190 USDRelease Date: Available NowWhere to Buy: MerrellMerrell brings Harris Tweed into its outdoor archive with a limited-edition collection spanning the Chameleon Redux SE, Jungle Moc, Moab 2 Slide SE and Relay Lace SE, with the latter offered in both men’s and women’s sizing.Made from pure new wool in Scotland’s Outer Hebrides, the fabric is fibre-dyed and spun on the islands before being handwoven by local craftspeople, with its layered coloration drawing inspiration from the region’s heathers, mosses, lochs and rugged Atlantic landscape. The entire range is unified in a single “Dark Walnut” colorway, allowing the construction and texture of the handwoven Scottish cloth to become the defining visual element. Deep brown leather and r",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "29980bca0b33",
+      "title": "Inside the Creative World of Dr. Martens Bouncing Soles With Sophia Wilson",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/10/dr-martens-sophia-wilson-bouncing-soles-event-recap",
+      "original_publish_time": "2026-10-16T15:06:27+00:00",
+      "scraped_time": "2026-10-16T19:47:42.217469+00:00",
+      "time_delta_mins": 0,
+      "category": "Trade Data",
+      "brands_mentioned": [
+        "Dr. Martens"
+      ],
+      "keywords_matched": [
+        "sole"
+      ],
+      "relevance_score": 5,
+      "summary": "WHAT MAKES YOUR SOUL BOUNCE?The CreativeWorld ofDr. MartensBouncing SolesWithSophia WilsonSeen on every Dr. Martens heel loop, “With Bouncing Soles” has gone from referencing its trademark air-cushioned sole to encompassing the countless communities who wear their Docs to express their individuality.The defining slogan now headlines a new global platform exploring how it has transcended meaning in culture. To celebrate its launch, the brand joined photographer and visual artist Sophia Wilson for a special New York City event. The Bouncing Soles experience spotlighted her unique creative voice and how she stays inspired through style, girlhood, and an overarching sense of togetherness.In a look back at the event, Hypebeast dives into her story in dedicated chapters. Resonating with many oth",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "096f5083d0f7",
       "title": "Nike Basketball Goes Trick-Or-Treating With Ten Signature Athletes",
@@ -1784,26 +1887,6 @@
       ],
       "relevance_score": 3,
       "summary": "Brazil’s Footwear Trade Balance Plunges 56% as Imports Rise DatamarNews",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "c4e8433ba617",
-      "title": "PUMA And LaMelo Ball Enter The Upside Down With A Stranger Things Collab",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/10/09/stranger-things-lamelo-ball-puma-release-date/",
-      "original_publish_time": "2026-10-09T17:00:14+00:00",
-      "scraped_time": "2026-10-09T17:21:30.527579+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike",
-        "Puma"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "The Halloween rollout cycle is here in full force. Yes, we may have spilled plenty of ink on the Nike Halloween 2026 slate within that,... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post PUMA And LaMelo Ball Enter The Upside Down With A Stranger Things Collab appeared first on Sneaker News . The post PUMA And LaMelo Ball Enter The Upside Down With A Stranger Things Collab appeared first on Sneaker News .",
       "ren_take": "",
       "image_url": ""
     }
