@@ -1,8 +1,49 @@
 {
-  "last_updated": "2026-10-17T09:04:04.144500+00:00",
-  "total_articles": 94,
+  "last_updated": "2026-10-17T14:15:19.891697+00:00",
+  "total_articles": 93,
   "sources_checked": 61,
   "articles": [
+    {
+      "id": "e409940977b2",
+      "title": "Allow Nike’s Portal Air Max to Take Us to Another Planet",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-air-max-portal-black/",
+      "original_publish_time": "2026-10-17T10:58:00+00:00",
+      "scraped_time": "2026-10-17T14:08:09.563105+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Nike's blacked-out Air Max Portal transports sneaker stans to a world of timeless footwear.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "f99c42630cbc",
+      "title": "Vietnam's footwear industry has conquered the domestic market worth approximately $1.5 billion. - Vietnam.vn",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOS0VsN19ualZ3bVJac3JJczMwbVpIZXpMc0lMYjFDY1NLamhKb1BhQUFraXdDNVFHeFJDNy02THVfem5SRHJhS2NuNS1zdjBRZW90c2VyN1NlN0hGSFhxWExRTWxVTlVWVkJBVDZQbEUwbGRIZVY0TUJRS01JU0ZfVkV4TFlnOTBjV1B0UDR4cGFmc0paQ3lLTFI0Ynl3WElsUjVMVHVn?oc=5",
+      "original_publish_time": "2026-10-17T09:23:46+00:00",
+      "scraped_time": "2026-10-17T14:04:52.453664+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "footwear industry"
+      ],
+      "relevance_score": 6,
+      "summary": "Vietnam's footwear industry has conquered the domestic market worth approximately $1.5 billion. Vietnam.vn",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "ff58830b162a",
       "title": "Bangladesh ranks 7th globally in footwear manufacturing, China on top - Prothom Alo English",
@@ -1886,66 +1927,6 @@
       ],
       "relevance_score": 6,
       "summary": "The Jordan Brand reveals its 30th-anniversary \"Space Jam\" collection, including not one but three Jordan 11 sneakers inspired by the film. Plus more.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "038504d04a06",
-      "title": "9 Unreleased Air Jordans That Nike Should Actually Release",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/unreleased-air-jordans-nike-should-release-1239313503/",
-      "original_publish_time": "2026-10-10T12:00:00+00:00",
-      "scraped_time": "2026-10-10T16:07:05.204841+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 4,
-      "summary": "There's recently been a lot of talk about releasing fewer Air Jordans, but which unreleased pairs should actually come out?",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "9cdcd84aa9b3",
-      "title": "Shai Gilgeous-Alexander Reveals He Personally Hand-Drew the Upcoming Nike SHAI 002",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/10/shai-gilgeous-alexander-personally-hand-drew-nike-shai-002-revealed",
-      "original_publish_time": "2026-10-10T10:00:29+00:00",
-      "scraped_time": "2026-10-10T10:50:53.694747+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [
-        "Nike",
-        "Converse"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 4,
-      "summary": "Summary Shai Gilgeous-Alexander revealed that he personally hand-drew the design for his upcoming Nike SHAI 002 signature sneakerThe model marks his second signature silhouette and his first brand-new design following his move from Converse to Nike BasketballThe Nike SHAI 002 is expected to launch in early 2027 with technical specifications and official imagery still under wraps Nike and Oklahoma City Thunder superstar Shai Gilgeous-Alexander are preparing the upcoming Nike SHAI 002. Following a recent interview with TIME, Gilgeous-Alexander confirmed that he personally hand-drew the design for his second signature silhouette.Maintaining a direct creative role in his footwear line, Gilgeous-Alexander previously crafted early sketches for the SHAI 001 before taking the exact same approach f",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "3326a291f98d",
-      "title": "What ‘made-in-Canada’ means to five heritage footwear brands - The Globe and Mail",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdlVrU2pGT3BtczdjTUloc3FjN1ZFT2FVa1h3WmxObmQ4N01CUFJxcEVXTlBnTVFZTVh3bVdkbFN0a1ZRcTZoLWplU1hhZVZxRmJqRTIyNWJBdXZvM19YTVFwVlNTTk1Udm9PN1U0U2ZmZnMxdVZiNDk3bVZtRmFlUkxQYWZVdk10MUxOalJuMUVKN01TV3djRFJ6Qzg3MllQeE1zdGsyTE1Ec2tEc0gwRjBvY2I0b2tkZ2YyUHZpNC1haFRadlVuMQ?oc=5",
-      "original_publish_time": "2026-10-10T10:00:00+00:00",
-      "scraped_time": "2026-10-10T10:51:04.854587+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "What ‘made-in-Canada’ means to five heritage footwear brands The Globe and Mail",
       "ren_take": "",
       "image_url": ""
     }
