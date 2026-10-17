@@ -1,8 +1,48 @@
 {
-  "last_updated": "2026-10-17T14:15:19.891697+00:00",
-  "total_articles": 93,
+  "last_updated": "2026-10-17T19:10:38.599082+00:00",
+  "total_articles": 94,
   "sources_checked": 61,
   "articles": [
+    {
+      "id": "07fb1f5e05e1",
+      "title": "Nike's Slimed-Out “Nocturnal” AF1 Skate Shoes Are Good (x2)",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-sb-air-force-1-cool-grey-court-green/",
+      "original_publish_time": "2026-10-17T18:49:35+00:00",
+      "scraped_time": "2026-10-17T19:03:30.062455+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 5,
+      "summary": "Nike SB's dropping a second unbranded version of the Nocturnal Air Force 1 skate shoe collab. And it's just as good as the original.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "dd4e9a0df3e7",
+      "title": "Nike Unveils Its Latest Limited-edition Doernbecher Freestyle Collection Featuring Air Maxes, Air Force 1s, Air Jordans and More",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-doernbecher-freestyle-22-collection-release-date-1239371465/",
+      "original_publish_time": "2026-10-17T15:20:49+00:00",
+      "scraped_time": "2026-10-17T18:59:46.875179+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "See the full lineup here.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "e409940977b2",
       "title": "Allow Nike’s Portal Air Max to Take Us to Another Planet",
@@ -817,6 +857,25 @@
       ],
       "relevance_score": 3,
       "summary": "The organization is looking for mentors and mentees to apply by Dec. 23.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "70bbe9e64338",
+      "title": "I test dozens of women’s walking shoes every year — these are the best ones for every foot type - NBC News",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOamw4TTQtMXMzdFAwXzR2UlBlaTZEbUUtTHdOTXRxREpqWDJ1MEhMUmpsU3F3cG1zZy1MSm1MbS1odGhFcXdzV3N4LXVBSTItUUlCZUxTd1Y1RUtaOXZBQmVoREs2MWxoU2lScGIyYVJDalB5d19XOXFER3RDc0NqTTRB?oc=5",
+      "original_publish_time": "2026-10-14T15:31:21+00:00",
+      "scraped_time": "2026-10-17T19:00:09.369209+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "I test dozens of women’s walking shoes every year — these are the best ones for every foot type NBC News",
       "ren_take": "",
       "image_url": ""
     },
@@ -1883,50 +1942,6 @@
       ],
       "relevance_score": 3,
       "summary": "Nike's thick-soled Air Max Muse sneaker gets a pink satin makeover for its latest release. It's in its soft-girl ballerina era.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "d3f63298df0e",
-      "title": "The Polarizing adidas Samba Mule Takes On Core Colorways",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/10/10/adidas-samba-mule-lc5440-lc5441/",
-      "original_publish_time": "2026-10-10T18:00:40+00:00",
-      "scraped_time": "2026-10-10T20:27:05.499157+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "footwear",
-        "sneakers"
-      ],
-      "relevance_score": 4,
-      "summary": "The muleification of lifestyle icons is old news at this point. From classic sneakers turned ballet flats to other decidedly fashion-forward mutations, footwear brands have... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Polarizing adidas Samba Mule Takes On Core Colorways appeared first on Sneaker News . The post The Polarizing adidas Samba Mule Takes On Core Colorways appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "7502be9f65da",
-      "title": "30 Years Later, Jordan's Space Jam Shoes Are Fresher Than Ever (EXCLUSIVE)",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/jordan-space-jam-30th-anniversary-sneakers/",
-      "original_publish_time": "2026-10-10T14:49:59+00:00",
-      "scraped_time": "2026-10-10T16:11:19.864343+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Jordan"
-      ],
-      "keywords_matched": [
-        "shoes",
-        "sneakers"
-      ],
-      "relevance_score": 6,
-      "summary": "The Jordan Brand reveals its 30th-anniversary \"Space Jam\" collection, including not one but three Jordan 11 sneakers inspired by the film. Plus more.",
       "ren_take": "",
       "image_url": ""
     }
