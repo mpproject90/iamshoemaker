@@ -1,8 +1,155 @@
 {
-  "last_updated": "2026-10-18T14:40:00.203481+00:00",
-  "total_articles": 92,
-  "sources_checked": 76,
+  "last_updated": "2026-10-18T19:23:08.704793+00:00",
+  "total_articles": 97,
+  "sources_checked": 60,
   "articles": [
+    {
+      "id": "a408641e9ce4",
+      "title": "New Balance’s Split-Tone Dad Shoes Are Part Gorgon, All Clean",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/new-balance-992-medusa-green/",
+      "original_publish_time": "2026-10-18T18:53:14+00:00",
+      "scraped_time": "2026-10-18T19:15:51.397085+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [
+        "New Balance"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 5,
+      "summary": "New Balance's 992 \"Medusa Green\" brings a mythological colorway to the brand's Made in USA dad shoe model. Here's everything on the release.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "57099b844f69",
+      "title": "Nike’s Fanciest Forces Refuse to Clock Out",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-air-force-1-luxe-sneakers/",
+      "original_publish_time": "2026-10-18T18:13:17+00:00",
+      "scraped_time": "2026-10-18T19:15:51.397565+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "boot",
+        "sneakers",
+        "sole",
+        "upper"
+      ],
+      "relevance_score": 6,
+      "summary": "Nike's black Air Force 1 Luxe sneakers return with their elegant leather uppers & outdoor boot-style soles. It's fancy but it's still on the clock.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "e73db4c7f276",
+      "title": "The Nike Air Max 90 Erupts In “Geyser Grey”",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/10/18/nike-air-max-90-geyser-grey-thunder-blue-hq3817-094/",
+      "original_publish_time": "2026-10-18T18:00:30+00:00",
+      "scraped_time": "2026-10-18T19:12:15.108757+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "There are shoes that make headlines, and there are shoes that make money. Despite sitting behind the Air Max 95 in the former category (at... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Nike Air Max 90 Erupts In \"Geyser Grey\" appeared first on Sneaker News . The post The Nike Air Max 90 Erupts In “Geyser Grey” appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "e926e3cc6147",
+      "title": "Nike’s Ruggedized Air Max Is a Military-Minded Gem",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-air-max-moto-2k-cordura-medium-ash/",
+      "original_publish_time": "2026-10-18T17:28:16+00:00",
+      "scraped_time": "2026-10-18T19:15:51.397910+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "Nike's Air Max Moto 2K Cordura \"Medium Ash\" sneaker is a stylishly rugged revival dressed in military clothes, essentially.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "ac4bb50193a3",
+      "title": "Nike's Insane ACG-Hoops Crossover Returns to the Streets",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-acg-air-max-foamdome/",
+      "original_publish_time": "2026-10-18T16:53:51+00:00",
+      "scraped_time": "2026-10-18T19:15:51.398240+00:00",
+      "time_delta_mins": 0,
+      "category": "Manufacturing",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 3,
+      "summary": "Nike's ACG Air Max Foamdome sneaker-boots are back in action, returning in the famous \"Eggplant\" colorway for Fall 2026.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "9542ec5030ce",
+      "title": "Nike Halloween, JJJJound New Balance 990v3, And This Week’s Best Releases",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/10/18/sneaker-releases-october-18-24-2026/",
+      "original_publish_time": "2026-10-18T16:00:17+00:00",
+      "scraped_time": "2026-10-18T19:12:15.200285+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "New Balance"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "Costume purchased? Tickets secured? Function RVSPed to? Then you’ve only got one step left — securing your pair of Halloween kicks to match. Yes, the dominant theme... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike Halloween, JJJJound New Balance 990v3, And This Week's Best Releases appeared first on Sneaker News . The post Nike Halloween, JJJJound New Balance 990v3, And This Week’s Best Releases appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "86416f024671",
+      "title": "Timberland’s New Limited-edition Gore-Tex Boot Is Getting One More Release",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/victor-kan-timberland-euro-hiker-gore-tex-release-date-1239372471/",
+      "original_publish_time": "2026-10-18T15:18:30+00:00",
+      "scraped_time": "2026-10-18T19:12:04.248561+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Timberland"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 5,
+      "summary": "Find the full details on the Victor Kan x Timberland Euro Hiker with Gore-Tex launch.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "bb3324960175",
       "title": "Bangladesh ranks seventh in global footwear production with 554mn pairs",
@@ -1855,48 +2002,6 @@
       ],
       "relevance_score": 5,
       "summary": "Nike may have just made the ultimate stoner shoe. The Blazer-inspired Nike Blazy was already destined for 420 associations thanks to its name alone, but... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Nike Blazy Hits The Hacky Sack Circle With Tie Dye Uppers appeared first on Sneaker News . The post The Nike Blazy Hits The Hacky Sack Circle With Tie Dye Uppers appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "f01ad29bec12",
-      "title": "Nike's Newest Air Max Outdoor Boot Is the Tuff-est Yet",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-air-max-goadome-tectuff/",
-      "original_publish_time": "2026-10-11T18:10:28+00:00",
-      "scraped_time": "2026-10-11T20:49:38.803479+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 6,
-      "summary": "Nike releases a new Air Max Goadome boot featuring TecTuff materials, making the ACG model more rugged than ever before.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "b20e103cd9e6",
-      "title": "Adidas Continues its Marathon Dominance in Chicago",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/chicago-marathon-winners-adidas-shoes-details-1239342091/",
-      "original_publish_time": "2026-10-11T15:55:17+00:00",
-      "scraped_time": "2026-10-11T16:34:10.076473+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "Amos Kipruto and Hawi Feysa won the men's and women's races on Sunday in Adidas super shoes.",
       "ren_take": "",
       "image_url": ""
     }
