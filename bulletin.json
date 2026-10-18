@@ -1,6 +1,107 @@
 {
-  "last_updated": "2026-10-11T14:45:19.526428+00:00",
+  "last_updated": "2026-10-18T12:30:28.248567+00:00",
   "bulletins": [
+    {
+      "id": "wk42-2026",
+      "week_number": 42,
+      "year": 2026,
+      "date_from": "2026-10-12",
+      "date_to": "2026-10-18",
+      "published": "2026-10-18T12:30:28.248068+00:00",
+      "intro": "Week 42 lands in the thick of Holiday 2026 sell-in season, and the dominant signal is clear: boots are the category story. Nike is pushing hard across multiple silhouettes — Goadome, 24.7, Air Jordan 9 NRG — while the leather desk is lit up with material experimentation from faux pony hair to hand-loomed Harris Tweed. Underneath the product noise, Vietnam's domestic market crossing $1.5B is the quieter number that will matter most to sourcing teams in 2027.",
+      "articles": [
+        {
+          "title": "The Nike 24.7 Boot Is A Yeezy-Meets-Uggs Hybrid",
+          "source_name": "Sneaker News",
+          "source_url": "https://sneakernews.com/2026/10/13/nike-247-boot/",
+          "category": "Supply Chain",
+          "relevance_score": 9,
+          "original_publish_time": "2026-10-13T17:30:59+00:00",
+          "misaki_take": "Nike's 'sport offense' pivot is pulling silhouette development toward lifestyle-adjacent boot construction, which typically means more complex upper assemblies, more SKU-level material variance, and tighter tolerances on factory scheduling than a straightforward performance run. Sourcing managers attached to Nike Tier 1 factories in Vietnam and Indonesia should expect component lead times on mixed-material uppers — EVA, textile, and suede combinations — to become a recurring conversation through Q1 2027."
+        },
+        {
+          "title": "The Air Jordan 9 NRG Boot Returns In “Olive”",
+          "source_name": "Sneaker News",
+          "source_url": "https://sneakernews.com/2026/10/16/air-jordan-9-nrg-boot-olive-ar4491-012/",
+          "category": "Retail",
+          "relevance_score": 7,
+          "original_publish_time": "2026-10-16T16:00:44+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "From Vans to New Balance, the Seven Best Sneakers to Cop This Week",
+          "source_name": "Highsnobiety",
+          "source_url": "https://www.highsnobiety.com/p/sneaker-releases-2026-october-week-3/",
+          "category": "Retail",
+          "relevance_score": 7,
+          "original_publish_time": "2026-10-14T14:30:35+00:00",
+          "misaki_take": "A Highsnobiety x Saucony collab appearing in a weekly roundup alongside standard Vans SKUs tells you the collaboration model has fully normalized as a retail cadence tool rather than a special-event lever, which has direct implications for how factories manage short-run MOQ commitments. Brands leaning on collab frequency to generate editorial coverage are quietly asking factory partners to absorb scheduling risk that the volume economics do not always justify."
+        },
+        {
+          "title": "Vietnam's footwear industry has conquered the domestic market worth approximately $1.5 billion. - Vietnam.vn",
+          "source_name": "Google News - Footwear Industry",
+          "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOS0VsN19ualZ3bVJac3JJczMwbVpIZXpMc0lMYjFDY1NLamhKb1BhQUFraXdDNVFHeFJDNy02THVfem5SRHJhS2NuNS1zdjBRZW90c2VyN1NlN0hGSFhxWExRTWxVTlVWVkJBVDZQbEUwbGRIZVY0TUJRS01JU0ZfVkV4TFlnOTBjV1B0UDR4cGFmc0paQ3lLTFI0Ynl3WElsUjVMVHVn?oc=5",
+          "category": "Supply Chain",
+          "relevance_score": 6,
+          "original_publish_time": "2026-10-17T09:23:46+00:00",
+          "misaki_take": "A $1.5B domestic market in Vietnam is not a curiosity — it is a structural shift in how Vietnamese manufacturers calculate their customer dependency on foreign brand orders, and that changes the negotiating dynamic on capacity allocation and MOQ flexibility. Any sourcing director who still operates under the assumption that Vietnamese factories are fully captive to export orders needs to revisit that model before their next FOB renegotiation cycle."
+        },
+        {
+          "title": "Merrell Taps Harris Tweed for a Handwoven Footwear Collection",
+          "source_name": "Hypebeast",
+          "source_url": "https://hypebeast.com/2026/10/merrell-harris-tweed-collection-collaboration-release-relay-lace-se-j00005589-j00005590-moab-2-slide-se-j00005588-jungle-moc-j00005586-cham-redux-se-j00005585-release-info",
+          "category": "Leather",
+          "relevance_score": 6,
+          "original_publish_time": "2026-10-16T15:07:53+00:00",
+          "misaki_take": "Harris Tweed carries Protected Geographical Indication status, meaning every meter is woven on the Outer Hebrides under defined conditions — the supply is genuinely finite, the certification audit trail is real, and it cannot be replicated at scale without losing the label entirely. For Merrell, the ceiling on this collection is baked into the material sourcing, but the $130–$190 price architecture suggests they understand exactly where the margin conversation lives on a limited-run textile upper."
+        },
+        {
+          "title": "The adidas Samba Gets a Textured “Camo Cow Print” Makeover",
+          "source_name": "Hypebeast",
+          "source_url": "https://hypebeast.com/2026/10/adidas-samba-camo-cow-print-kj7500-official-images",
+          "category": "Leather",
+          "relevance_score": 6,
+          "original_publish_time": "2026-10-15T09:39:15+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "Converse Japan’s All Star Westernstitch SU HI Is a Cowboy Boot in Disguise",
+          "source_name": "Hypebeast",
+          "source_url": "https://hypebeast.com/2026/10/converse-all-star-westernstitch-su-hi-black-tan-31319430-31319431-japan-release-info",
+          "category": "Leather",
+          "relevance_score": 6,
+          "original_publish_time": "2026-10-15T08:53:25+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "Blackpink’s Rosé Helps Puma Launch Its New Speedcat Croc Sneakers",
+          "source_name": "Footwear News",
+          "source_url": "https://wwd.com/footwear-news/sneaker-news/rose-puma-speedcat-croc-sneakers-release-date-1239345468/",
+          "category": "Brand News",
+          "relevance_score": 6,
+          "original_publish_time": "2026-10-13T18:20:46+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "Nike's Newest Air Max Outdoor Boot Is the Tuff-est Yet",
+          "source_name": "Highsnobiety",
+          "source_url": "https://www.highsnobiety.com/p/nike-air-max-goadome-tectuff/",
+          "category": "Retail",
+          "relevance_score": 6,
+          "original_publish_time": "2026-10-11T18:10:28+00:00",
+          "misaki_take": "TecTuff thermoplastic reinforcement on the Goadome represents Nike ACG leaning into a materials specification that increases upper complexity and bonding process requirements, which typically means this sits in a factory with dedicated cold-cement or injection bonding lines rather than a general assembly floor. The broader Goadome push this Holiday — appearing across multiple editorial placements this week — confirms this is a category Nike is resourcing seriously, not a limited-run test."
+        },
+        {
+          "title": "Nike's Slimed-Out “Nocturnal” AF1 Skate Shoes Are Good (x2)",
+          "source_name": "Highsnobiety",
+          "source_url": "https://www.highsnobiety.com/p/nike-sb-air-force-1-cool-grey-court-green/",
+          "category": "Sustainability",
+          "relevance_score": 5,
+          "original_publish_time": "2026-10-17T18:49:35+00:00",
+          "misaki_take": ""
+        }
+      ]
+    },
     {
       "id": "wk41-2026",
       "week_number": 41,
@@ -907,107 +1008,6 @@
           "relevance_score": 6,
           "original_publish_time": "2026-08-07T04:39:11+00:00",
           "misaki_take": "The repetition of this message from Indian ministerial channels — seen again here after similar statements earlier in the year — is itself a data point: government incentive frameworks are in place but uptake in the footwear sector remains below target, which suggests the industry is either unaware of the mechanisms or unconvinced of their durability. Brands conducting India sourcing assessments in 2026 should engage directly with the LFXI and Council for Leather Exports structures now, because the factories that are accessing these programs will have a cost and capability advantage that will be visible in FOB quotes within 18 months."
-        }
-      ]
-    },
-    {
-      "id": "wk31-2026",
-      "week_number": 31,
-      "year": 2026,
-      "date_from": "2026-07-27",
-      "date_to": "2026-08-02",
-      "published": "2026-08-02T10:00:07.912509+00:00",
-      "intro": "Week 31 arrives with the industry split between two different conversations: one happening in design studios and hype drops, the other in government ministries and factory floors. The consumer-facing market is deep in IP licensing cycles, comfort-platform pivots, and colorway cadence — all useful signals for what brands are betting on for Holiday 2026 sell-through. Meanwhile, a ministerial declaration out of India is the quieter story worth watching most closely this week.",
-      "articles": [
-        {
-          "title": "From Salomon to Nike, The Seven Best Sneakers to Cop this Week",
-          "source_name": "Highsnobiety",
-          "source_url": "https://www.highsnobiety.com/p/sneaker-releases-2026-july-week-4/",
-          "category": "Brand News",
-          "relevance_score": 9,
-          "original_publish_time": "2026-07-28T15:04:58+00:00",
-          "misaki_take": "The continued velocity of Salomon's technical trail aesthetic sitting alongside Jordan and New Balance in weekly roundups confirms that gorpcore has fully crossed from niche to normalized — sourcing teams that haven't built relationships with Korean and Taiwanese mesh and TPU suppliers for this category are already behind. New Balance's polka-dot execution on the 530 signals the brand is running fast on graphic surface treatments, which adds SKU complexity and potential yield risk at the cut-and-sew level that planners should be pricing into their lead times."
-        },
-        {
-          "title": "Converse’s Next Luxurious Vibram-Soled Sneaker Smiles Back",
-          "source_name": "Highsnobiety",
-          "source_url": "https://www.highsnobiety.com/p/converse-first-string-jack-purcell/",
-          "category": "Leather",
-          "relevance_score": 8,
-          "original_publish_time": "2026-07-27T22:45:31+00:00",
-          "misaki_take": ""
-        },
-        {
-          "title": "Crocs Unveils the ROY in a New \"Elephant\" Colorway",
-          "source_name": "Hypebeast",
-          "source_url": "https://hypebeast.com/2026/8/crocs-the-roy-elephant-213756-1lm-release-info",
-          "category": "Retail",
-          "relevance_score": 7,
-          "original_publish_time": "2026-07-31T06:04:46+00:00",
-          "misaki_take": "Single-shot foam construction is one of the most cost-efficient manufacturing decisions in the industry right now — no lasting, no stitching, dramatically reduced labor touch points — and Crocs continues to extract maximum colorway mileage from the ROY tooling investment with minimal incremental cost. Steven Smith's design fingerprints are visible in the integrated flex groove geometry, and brands watching this should understand that the ROY is a demonstration of how far a single tooling amortization can stretch when the silhouette architecture is right."
-        },
-        {
-          "title": "Official Images of Kevin Durant’s Nike KD 19 “Butter Candy”",
-          "source_name": "Hypebeast",
-          "source_url": "https://hypebeast.com/2026/7/nike-kd-19-butter-candy-solar-flare-stadium-greenih1117-700-official-images-release-info",
-          "category": "Sustainability",
-          "relevance_score": 7,
-          "original_publish_time": "2026-07-29T09:56:56+00:00",
-          "misaki_take": ""
-        },
-        {
-          "title": "Vans’ Plush “Birkenstock” Mules Are Skate Shoes Gone Soft",
-          "source_name": "Highsnobiety",
-          "source_url": "https://www.highsnobiety.com/p/vans-harbor-mule-vr3-brown/",
-          "category": "Brand News",
-          "relevance_score": 7,
-          "original_publish_time": "2026-07-28T19:01:00+00:00",
-          "misaki_take": ""
-        },
-        {
-          "title": "The Nike Moon Shoe Receives a New Summer Variant With “Chlorophyll” Swooshes",
-          "source_name": "Hypebeast",
-          "source_url": "https://hypebeast.com/2026/7/nike-moon-shoe-sail-chlorophyll-ii0407-102-official-images-release-info",
-          "category": "Leather",
-          "relevance_score": 7,
-          "original_publish_time": "2026-07-27T08:26:25+00:00",
-          "misaki_take": ""
-        },
-        {
-          "title": "Crocs Is Doubling Down on Its Dorky, Gorpy Trail Sneakers",
-          "source_name": "Highsnobiety",
-          "source_url": "https://www.highsnobiety.com/p/crocs-quick-trail-racer-orange-zing/",
-          "category": "Brand News",
-          "relevance_score": 6,
-          "original_publish_time": "2026-08-01T13:50:00+00:00",
-          "misaki_take": "Two Crocs stories in one week's roundup is not a coincidence — the brand is in an active phase of category expansion, using gorpcore aesthetics to push beyond the molded clog box that defines their manufacturing identity and their risk profile simultaneously. The Quick Trail Racer introduces textile and rubber outsole components that Crocs' supply chain was not historically built to optimize, and the execution quality at scale will tell sourcing observers whether their factory development investments in Vietnam and China are tracking."
-        },
-        {
-          "title": "Pikachu, Charizard, And Gengar Appear In First Batch Of Pokémon x adidas Shoes",
-          "source_name": "Sneaker News",
-          "source_url": "https://sneakernews.com/2026/07/31/pokemon-adidas-pikachu-charizard-gengar/",
-          "category": "Brand News",
-          "relevance_score": 6,
-          "original_publish_time": "2026-07-31T17:27:36+00:00",
-          "misaki_take": "A major Pokémon IP cycle running through both PUMA and adidas in the same anniversary window confirms that The Pokémon Company is running a multi-partner licensing strategy rather than exclusivity — which compresses the halo effect for each brand individually but reduces IP cost per unit for both. For adidas' sourcing teams, a collaboration at this scale means graphic embroidery and print placement specifications are being managed across likely six or more factory partners simultaneously, and quality consistency on character-accurate detailing at that distribution is genuinely difficult to hold."
-        },
-        {
-          "title": "Closer Look at Travis Scott's Cactus Jack x Nike 'The Odyssey' Cast-Exclusive Footwear",
-          "source_name": "Hypebeast",
-          "source_url": "https://hypebeast.com/2026/7/travis-scott-cactus-jack-nike-the-odyssey-moon-shoe-acg-moc-cast-exclusive-footwear-closer-look",
-          "category": "Retail",
-          "relevance_score": 6,
-          "original_publish_time": "2026-07-31T03:58:26+00:00",
-          "misaki_take": "Pony hair upper material on a cast-exclusive, non-retail product is a deliberate craft signal — Nike and Cactus Jack are using the scarcity of a film tie-in to experiment with exotic material handling outside the scrutiny of a commercial launch failure. The operational implication is that pony hair at any volume requires specialized cutting, is directional, and carries significant waste percentages that brands underestimate until they're already committed to a FOB price."
-        },
-        {
-          "title": "Footwear industry is backbone of India’s economy: Union Minister Giriraj Singh | Akashvani News - News On AIR",
-          "source_name": "Google News - Footwear Industry",
-          "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ29UaXZQZHFWUm1nX2FHV3h5VGlhdFRaX01vcllPcGc2bU5fRFdmR282RjQ1ZnkyTE9Ic0drOHQ2SjM3NkI5ZFI3eEZsRHUyaTI0LW15clpXMnJYcS15QmN6Qy0xR1NEbVd0QVp6b0taVXVkZXVYNUxsdHdlX2JFUGtKLUFXenJ6eVdxU1I5NF9ud2tPVTFLM3hwbmNZdHl4cFFZdQ?oc=5",
-          "category": "Sustainability",
-          "relevance_score": 6,
-          "original_publish_time": "2026-07-30T16:03:34+00:00",
-          "misaki_take": ""
         }
       ]
     }
