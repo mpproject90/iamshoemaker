@@ -1,8 +1,28 @@
 {
-  "last_updated": "2026-10-18T09:22:06.541817+00:00",
+  "last_updated": "2026-10-18T14:40:00.203481+00:00",
   "total_articles": 92,
-  "sources_checked": 62,
+  "sources_checked": 76,
   "articles": [
+    {
+      "id": "bb3324960175",
+      "title": "Bangladesh ranks seventh in global footwear production with 554mn pairs",
+      "source_name": "Textile Today",
+      "source_domain": "textiletoday.com.bd",
+      "source_url": "https://textiletoday.com.bd/bangladesh-ranks-seventh-in-global-footwear-production-with-554mn-pairs",
+      "original_publish_time": "2026-10-18T12:40:00+00:00",
+      "scraped_time": "2026-10-18T14:25:29.607222+00:00",
+      "time_delta_mins": 0,
+      "category": "Manufacturing",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "shoes"
+      ],
+      "relevance_score": 4,
+      "summary": "Bangladesh ranked as the world’s seventh‑largest footwear producer in 2025, manufacturing about 554 million pairs of shoes. The country accounted for 2.3% of global production, according to the World...",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "07fb1f5e05e1",
       "title": "Nike's Slimed-Out “Nocturnal” AF1 Skate Shoes Are Good (x2)",
@@ -1877,25 +1897,6 @@
       ],
       "relevance_score": 3,
       "summary": "Amos Kipruto and Hawi Feysa won the men's and women's races on Sunday in Adidas super shoes.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "72a247502c40",
-      "title": "Predicting the Next WNBA Stars to Get Signature Sneakers - Sports Illustrated",
-      "source_name": "Google News - Sneaker Brand",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSWVtT0VCNUptNVZscU5SaTlWb19uV2RpTU5XREpTd1BGcnY0bC16TW9IdHlraE1RUUJKWHZfc3k3UWEzeUh1cHAyYUZaOTVLZXVQVEdSQzhZWmlIMUdWaWhGWnF6TmRXOWk1YUppZGx3bmJLWElpUG5CZG54ZkJwQm9MQjBid1RHM2dMT1VPZWdKUQ?oc=5",
-      "original_publish_time": "2026-10-11T13:56:28+00:00",
-      "scraped_time": "2026-10-11T20:45:50.085570+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "Predicting the Next WNBA Stars to Get Signature Sneakers Sports Illustrated",
       "ren_take": "",
       "image_url": ""
     }
