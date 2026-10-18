@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-17T19:10:38.599082+00:00",
-  "total_articles": 94,
+  "last_updated": "2026-10-18T00:53:52.926701+00:00",
+  "total_articles": 95,
   "sources_checked": 61,
   "articles": [
     {
@@ -40,6 +40,25 @@
       "keywords_matched": [],
       "relevance_score": 4,
       "summary": "See the full lineup here.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "6c0a66dcebc2",
+      "title": "Wale Named Chief Creative Officer and Co-Owner of Sneaker Preservation Company CapSole - Complex",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVU02aHRVTklsNzhBNnRnVFlHa3owUF9WVjFTTTBTVjhtNS10cEl1My05QXRsQmR6UjU4MlpNYXJIT1ptRUx1WWlUTDZJXzFhR1VaRFJNWjhLeERqZE5WR3B2dEdBTXNON3NtMjZHZDU0NDZiUGFiTlhTaTg4RFZieFNOaGpuMFNhYXNjUllwLTZKNURt?oc=5",
+      "original_publish_time": "2026-10-17T15:04:41+00:00",
+      "scraped_time": "2026-10-18T00:43:21.561436+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sole"
+      ],
+      "relevance_score": 3,
+      "summary": "Wale Named Chief Creative Officer and Co-Owner of Sneaker Preservation Company CapSole Complex",
       "ren_take": "",
       "image_url": ""
     },
@@ -476,6 +495,25 @@
       ],
       "relevance_score": 5,
       "summary": "Summary Nike Basketball is officially reviving the Kobe 7 Invisibility Cloak for Fall 2027 marking the model's first-ever Protro releaseThe sneaker retains its signature iridescent upper that shifts between purple and turquoise alongside textured black leather and an icy outsoleThe pair is expected to release in Fall 2027 via select Nike Basketball retailers and Nike's webstore Name: Nike Kobe 7 Protro \"Invisibility Cloak\"Colorway: Black/Court Purple/Turquoise/Metallic SilverSKU: TBDMSRP: TBDRelease Date: Fall 2027Where to Buy: NikeNike is officially bringing back the Kobe 7 Protro \"Invisibility Cloak,\" marking the first time the seventh signature model will receive the brand's performance Protro treatment. The launch revives a fan-favorite silhouette that has remained vaulted since its or",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "74f9121576ec",
+      "title": "Balkh Shoe Factories Say Afghanistan Self-Sufficient in Footwear Production - TOLOnews",
+      "source_name": "Google News - Shoe Manufacturing",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8yM0JSOW01eHJrcFVfQnl4UnVNTFYzaUMyNFVWY2FUbFcxLTdIQUthVmIxcG9zWEY3UWNYVWt2UWlyZzRrMUVOZWktZWFpSXFJNWc?oc=5",
+      "original_publish_time": "2026-10-16T03:47:06+00:00",
+      "scraped_time": "2026-10-18T00:43:22.299683+00:00",
+      "time_delta_mins": 0,
+      "category": "Manufacturing",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Balkh Shoe Factories Say Afghanistan Self-Sufficient in Footwear Production TOLOnews",
       "ren_take": "",
       "image_url": ""
     },
@@ -1921,27 +1959,6 @@
       ],
       "relevance_score": 3,
       "summary": "Name: Wasted Paris x Clarks Wallabee LiteColorway: Black/BlackSKU: TBCMSRP: TBCRelease Date: October 15Where to Buy: WastedWasted Paris and Clarks Originals have teamed up on a Wallabee Lite in Black/Black that treats the shoe as a vessel for Britpop memorabilia. Built around a set of interchangeable pins, a guitar pick and a custom fob, the collaboration lets wearers decorate the silhouette themselves, mirroring the way fans of the era accumulated badges and souvenirs over time.The story begins in the mid-to-late ’90s, when the Wallabee became part of the Britpop landscape. The shoe turned up everywhere the scene gathered, from pubs and indie gigs to football terraces and backstage areas, along with every street that connected them. Britpop itself was never solely a sound. It was a mash-u",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "961374634448",
-      "title": "Nike’s Thicc Satin Air Max Is Its Own Muse",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-air-max-muse-satin/",
-      "original_publish_time": "2026-10-10T20:12:18+00:00",
-      "scraped_time": "2026-10-10T20:31:10.659734+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "sole"
-      ],
-      "relevance_score": 3,
-      "summary": "Nike's thick-soled Air Max Muse sneaker gets a pink satin makeover for its latest release. It's in its soft-girl ballerina era.",
       "ren_take": "",
       "image_url": ""
     }
