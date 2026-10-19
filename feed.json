@@ -1,8 +1,28 @@
 {
-  "last_updated": "2026-10-18T19:23:08.704793+00:00",
-  "total_articles": 97,
-  "sources_checked": 60,
+  "last_updated": "2026-10-19T01:07:16.822749+00:00",
+  "total_articles": 93,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "1414007add6c",
+      "title": "Argentina’s footwear industry faces deepening crisis - World Footwear",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOY0dfT3NFUGtlUTJkc1FWQzJrMEVFV0NlS0RpSUlDVC1ZYkRUOVNDTmtTaFZYdTVvNkVSWTJLajJHYUNORWNub2dDbzgtSlNNZzZXbmFRV00zSzBtNU1taF9wNmt4QXZLZk5XUXJiSGg5M0Q1MEFkUDFZU1FJd0pOSE5ENTBmcmg1SUQxalN2VUVDQUJsd05wa25MSm1TUQ?oc=5",
+      "original_publish_time": "2026-10-18T23:03:42+00:00",
+      "scraped_time": "2026-10-19T00:56:31.279014+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "footwear industry"
+      ],
+      "relevance_score": 6,
+      "summary": "Argentina’s footwear industry faces deepening crisis World Footwear",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "a408641e9ce4",
       "title": "New Balance’s Split-Tone Dad Shoes Are Part Gorgon, All Clean",
@@ -1899,109 +1919,6 @@
       ],
       "relevance_score": 3,
       "summary": "Leather industry looks to joint procurement Times of Eswatini",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "67581b7101e5",
-      "title": "EU PFAS limits hit clothing and footwear",
-      "source_name": "Ecotextile News",
-      "source_domain": "ecotextile.com",
-      "source_url": "https://www.ecotextile.com/2026101266345/news/dyes-chemicals/eu-pfas-limits-hit-clothing-and-footwear/",
-      "original_publish_time": "2026-10-11T23:39:00+00:00",
-      "scraped_time": "2026-10-12T02:12:16.581901+00:00",
-      "time_delta_mins": 0,
-      "category": "Quality",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "New EU limits on PFHxA in clothing and footwear now apply, adding to differing PFAS rules that complicate compliance for […] The post EU PFAS limits hit clothing and footwear appeared first on Ecotextile News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "73ffd4837d43",
-      "title": "Camouflage Cow Prints Wrap The adidas Samba",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/10/11/adidas-samba-camo-kj7500/",
-      "original_publish_time": "2026-10-11T22:00:42+00:00",
-      "scraped_time": "2026-10-12T02:10:14.618364+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "Camo shoes are once again in heavy rotation as we prep for another pass through autumn, a product of a fashion movement where kids want... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Camouflage Cow Prints Wrap The adidas Samba appeared first on Sneaker News . The post Camouflage Cow Prints Wrap The adidas Samba appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "d2dff02e5995",
-      "title": "UGG’s Waterproof Slippers Can Handle Winter's Worst",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/ugg-tasman-guard-gtx/",
-      "original_publish_time": "2026-10-11T21:15:36+00:00",
-      "scraped_time": "2026-10-12T02:14:07.034347+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "UGG",
-        "Vibram"
-      ],
-      "keywords_matched": [
-        "sole"
-      ],
-      "relevance_score": 4,
-      "summary": "UGG releases the Tasman Guard GTX shoe, a waterproof winterized slip-on with Vibram soles & mudguards.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "69b0047f05d9",
-      "title": "Nike’s Textured Chocolate Jordan Has Us Feeling Peckish",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-jordan-skyline-low-le/",
-      "original_publish_time": "2026-10-11T21:02:01+00:00",
-      "scraped_time": "2026-10-12T02:14:07.034949+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike",
-        "Jordan"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 4,
-      "summary": "Nike’s Air Jordan Skyline Low LE gets a rich, chocolate-inspired makeover, pairing creamy neutrals with textured brown details for an easy fall-ready sneaker.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "81db45e0afc3",
-      "title": "The Nike Blazy Hits The Hacky Sack Circle With Tie Dye Uppers",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/10/11/nike-blazy-tie-dye-iv7023-700/",
-      "original_publish_time": "2026-10-11T21:00:37+00:00",
-      "scraped_time": "2026-10-12T02:10:14.621899+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 5,
-      "summary": "Nike may have just made the ultimate stoner shoe. The Blazer-inspired Nike Blazy was already destined for 420 associations thanks to its name alone, but... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Nike Blazy Hits The Hacky Sack Circle With Tie Dye Uppers appeared first on Sneaker News . The post The Nike Blazy Hits The Hacky Sack Circle With Tie Dye Uppers appeared first on Sneaker News .",
       "ren_take": "",
       "image_url": ""
     }
