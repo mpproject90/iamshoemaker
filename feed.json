@@ -1,8 +1,95 @@
 {
-  "last_updated": "2026-10-19T17:31:48.301449+00:00",
-  "total_articles": 97,
+  "last_updated": "2026-10-19T21:30:21.030111+00:00",
+  "total_articles": 98,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "97b3fa527a72",
+      "title": "Union Loosened up the Nike Dunk. Now, It’s a Tasteful Slip-on",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/union-nike-dunk-shoes-2026/",
+      "original_publish_time": "2026-10-19T21:17:10+00:00",
+      "scraped_time": "2026-10-19T21:23:13.755754+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "Union Los Angeles has designed supple suede Nike Dunk sneakers for its 2026 collaboration. Spoiler: they also slip-ons.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "d4608cca72ab",
+      "title": "Nike’s Nailed-Down Air Force 1 Is a Real Hellraiser",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-air-force-1-nightmare/",
+      "original_publish_time": "2026-10-19T21:05:55+00:00",
+      "scraped_time": "2026-10-19T21:23:13.756507+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "Nike's Air Force 1 '01 \"Nightmare\" is a Halloween-themed sneaker featuring nailed-down uppers inspired by Hellraiser's Pinhead.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "ab4b573a8b67",
+      "title": "Ja Morant’s Annual Zombie Nike Sneakers Will Usher in His First High-top",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-ja-4-high-zombie-release-date-iq3864-600-1239375399/",
+      "original_publish_time": "2026-10-19T20:57:58+00:00",
+      "scraped_time": "2026-10-19T21:19:24.468687+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "The Nike Ja 4 High \"Zombie\" bucks the trend of basketball largely moving away from high-tops.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "ef66aaad9956",
+      "title": "MM6 Maison Margiela & Salomon Unveil 8-Pack FW26 Collection",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/10/mm6-maison-margiela-salomon-unveil-8-pack-fw26-collection",
+      "original_publish_time": "2026-10-19T18:51:48+00:00",
+      "scraped_time": "2026-10-19T21:19:35.040896+00:00",
+      "time_delta_mins": 0,
+      "category": "Quality",
+      "brands_mentioned": [
+        "Salomon"
+      ],
+      "keywords_matched": [
+        "boot",
+        "footwear",
+        "insole",
+        "sole"
+      ],
+      "relevance_score": 6,
+      "summary": "SummaryMM6 Maison Margiela and Salomon are releasing an eight-style Fall/Winter 2026 collection blending high fashion and performance.The XT-MM6 and Crossderby release October 22, while the XT-BOOT MM6 and ACS Pro MM6 drop in November.Perennial collaborators MM6 Maison Margiela and Salomon have returned, offering a full Fall/Winter 2026 lineup. Comprising eight styles, the newly unveiled collection continues to fuse Salomon’s performance identity with MM6 design details for a versatile footwear range with styles for all.First, the XT-MM6 is showcased in three new colorways, including Scarab/Bistro Green/Green Milieu, Tapioca/Sea Foam/Violet Tulip, and Vanilla Ice/Ftw Silver/Lemon. Each XT-MM6 pair features discreet MM6 branding at the lateral toe box, tongue, and insoles, along with a 6 em",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "9fbb404144f7",
       "title": "MM6 Maison Margiela Has Eight Salomon Drops This Winter",
@@ -1936,67 +2023,6 @@
       ],
       "relevance_score": 4,
       "summary": "Nike Sportswear is dropping a premium footwear pack that we can’t help but liken to past superhero shoes. Emerging right alongside an Air Force 1... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Nike Air Max 95 Big Bubble Takes On A Frosty \"Blue Tint\" appeared first on Sneaker News . The post The Nike Air Max 95 Big Bubble Takes On A Frosty “Blue Tint” appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "ea69eab7d37c",
-      "title": "The Messy History of Sneaker Brands Honoring Indigenous Peoples - Sole Retriever",
-      "source_name": "Google News - Sneaker Brand",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZXpSVW5OdUpwV2VvN0dqdXpVdzRjb2E5aEtkUEVkMGlGbzVBU2NqSjZvbGlFSFVreDhic0JETGNxX1VOX01jVk9tN1pieVduek1mU01CMjJCLWpPeDFqWXBjTllRN1pNVVBoUnh5NE11MXBaUndyMEZXb2xCS2kxUVRCUWdtbE9WOUs2VGdQRXpRWG1wbVAzVDBuSmk0Ql85cFo5YUJleGZ1ZkU?oc=5",
-      "original_publish_time": "2026-10-12T19:15:14+00:00",
-      "scraped_time": "2026-10-12T20:08:48.238372+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "sole"
-      ],
-      "relevance_score": 3,
-      "summary": "The Messy History of Sneaker Brands Honoring Indigenous Peoples Sole Retriever",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "1c7e39810784",
-      "title": "Vans OTW Issues Two Snakeskin Colorways Of The Era",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/10/12/vans-otw-era-floral-snakeskin-pack-release-date/",
-      "original_publish_time": "2026-10-12T19:00:57+00:00",
-      "scraped_time": "2026-10-12T20:08:36.659823+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Vans"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "As we begin to take stock of the best of 2026 in sneakers, there’s no doubt that the Old Skool has been the face of... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Vans OTW Issues Two Snakeskin Colorways Of The Era appeared first on Sneaker News . The post Vans OTW Issues Two Snakeskin Colorways Of The Era appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "b50b3cd68d45",
-      "title": "Kith and Giorgio Armani’s Third Collection Features an Asics Sneaker Collab and Boots With Diemme",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/kith-giorgio-armani-asics-gel-mai-01-sneaker-release-date-1239343559/",
-      "original_publish_time": "2026-10-12T18:18:57+00:00",
-      "scraped_time": "2026-10-12T20:08:25.289975+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "ASICS"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 5,
-      "summary": "The Giorgio Armani and Kith for Asics Gel-Mai 0.1 sneaker will launch on Oct. 16.",
       "ren_take": "",
       "image_url": ""
     }
