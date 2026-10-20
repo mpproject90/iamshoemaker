@@ -1,8 +1,47 @@
 {
-  "last_updated": "2026-10-19T21:30:21.030111+00:00",
-  "total_articles": 98,
-  "sources_checked": 60,
+  "last_updated": "2026-10-20T01:49:24.990251+00:00",
+  "total_articles": 97,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "b203782abaf7",
+      "title": "Kim Jong-un touts local industry gains at apparel, footwear expo in North Korea - CHOSUNBIZ - Chosunbiz",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qbGljbTRqbUtOeVJYVGNOdldFenltYlRBOGc3aFVkaFE2R1BvUEJxTEJJWHJIdXhpd2ZXQU9JTkFfX3Z5V25zanFDYUxSZGVVSFl1Wl9YckszQl9lcGtBWTBOejhzYU0taURXdm5hOEdwR0lrWjlEcERzVkYxT2PSAZMBQVVfeXFMTWZNUGoxZ1NNczRCaU5UM2ZOQXZIblZfVWx3MmdvZVhGeHNnRE9CWkNMaHowMGRmcm9ZSmR1aXl3T1dpaGE4dlFGZzRSSVhMcVVyZFA1aVJ5VXVwQnhucmcwSzdIckZIYnRyY2J2Y0xkQ0Nya2g1WXgzaXJseEpiNExyRFZIZkhEcGJ4TzBXYzdxS2M4?oc=5",
+      "original_publish_time": "2026-10-20T01:03:00+00:00",
+      "scraped_time": "2026-10-20T01:38:38.467039+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Kim Jong-un touts local industry gains at apparel, footwear expo in North Korea - CHOSUNBIZ Chosunbiz",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "4f0031ce9750",
+      "title": "Portuguese footwear industry launches Kindness campaign - World Footwear",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQkJjbVFWX3ktZnFDMnAyT1BxX1kybTltblNlRFBTekxtMkMyZmQwa0hwVzNyOVdWV2xwX3ZCcHQ3NlU2MHVSS3JZMmtUM3dYR055QTFpWmxiSkpOb080ckV5NE8zd0ZrTEdFSVNvak93MWg0SURiOWhGcVpkdHBnTE5adFZfa2lDMkRWREg1dFRwUWtPX01GV0JJNGJsVjROX1hj?oc=5",
+      "original_publish_time": "2026-10-19T23:04:16+00:00",
+      "scraped_time": "2026-10-20T01:38:38.461814+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "footwear industry"
+      ],
+      "relevance_score": 6,
+      "summary": "Portuguese footwear industry launches Kindness campaign World Footwear",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "97b3fa527a72",
       "title": "Union Loosened up the Nike Dunk. Now, It’s a Tasteful Slip-on",
@@ -87,6 +126,25 @@
       ],
       "relevance_score": 6,
       "summary": "SummaryMM6 Maison Margiela and Salomon are releasing an eight-style Fall/Winter 2026 collection blending high fashion and performance.The XT-MM6 and Crossderby release October 22, while the XT-BOOT MM6 and ACS Pro MM6 drop in November.Perennial collaborators MM6 Maison Margiela and Salomon have returned, offering a full Fall/Winter 2026 lineup. Comprising eight styles, the newly unveiled collection continues to fuse Salomon’s performance identity with MM6 design details for a versatile footwear range with styles for all.First, the XT-MM6 is showcased in three new colorways, including Scarab/Bistro Green/Green Milieu, Tapioca/Sea Foam/Violet Tulip, and Vanilla Ice/Ftw Silver/Lemon. Each XT-MM6 pair features discreet MM6 branding at the lateral toe box, tongue, and insoles, along with a 6 em",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "4545b7f9839f",
+      "title": "Rocket Dog’s New Owner Is Looking Towards the Future as the Shoe Brand Marks 30 Years - WWD",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMjE2MV9UeXNOaHNRSk41QmdIbWxOd29KeGtzQWd4cTBoR2hXcURrc2tSNFpPd2gxMGdpUzlrV1c4M1pLdDFMMUVCSms4bHdEY05zdzNocnlNLTRWNUhleFkwZTRSMEJseGoyVW1vUEtmVGFRRTNaSEpFNEtKZVh1QVVlU2VjOHNVQ0U4Mm44dGNiWEs2U2lmOU1lOE0yaG56cWxMS3NWRDcxXzJ3cEhRRGJZOFFOSXRBdnVv?oc=5",
+      "original_publish_time": "2026-10-19T18:08:28+00:00",
+      "scraped_time": "2026-10-20T01:38:38.464691+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoe brand"
+      ],
+      "relevance_score": 3,
+      "summary": "Rocket Dog’s New Owner Is Looking Towards the Future as the Shoe Brand Marks 30 Years WWD",
       "ren_take": "",
       "image_url": ""
     },
@@ -1942,87 +2000,6 @@
       ],
       "relevance_score": 5,
       "summary": "Golden Goose Teams With Disney for Mickey Mouse-Inspired Sneakers, Apparel and Global Customization Tour Variety",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "f2b3d9e39859",
-      "title": "First Look at Michael B. Jordan and Austin Butler in 'Miami Vice '85' Reboot",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/10/universal-pictures-miami-vice-85-michael-b-jordan-austin-butler-first-look-images-revealed",
-      "original_publish_time": "2026-10-13T01:26:33+00:00",
-      "scraped_time": "2026-10-13T03:24:48.935183+00:00",
-      "time_delta_mins": 0,
-      "category": "Quality",
-      "brands_mentioned": [
-        "Jordan"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 5,
-      "summary": "Summary Universal has released a first look at Michael B. Jordan and Austin Butler in the upcoming 'Miami Vice '85' rebootThe Joseph Kosinski-directed feature explores the glamour and corruption of mid-1980s Miami based on the original television pilotFilming has officially begun ahead of the movie's scheduled theatrical release on May 19, 2028 Universal has unveiled a first look at the highly anticipated Miami Vice '85 cinematic reboot.The upcoming feature stars Michael B. Jordan and Austin Butler as they step into the iconic roles of undercover Miami detectives Ricardo Tubbs and Sonny Crockett, respectively.Directed by Joseph Kosinski (F1, Top Gun: Maverick), the film draws direct inspiration from the pilot episode and first season of the landmark 1984 television series originally starri",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "b99ab9a7993a",
-      "title": "The Elie Saab x H&M collection, scheduled for release on October 26, includes footwear made in Portugal - FashionNetwork - The World's Fashion Business News",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRnRJRXhzLTVXZXhBS1NHemkyYmdqTnlEVHhpMXBsUmxYZjRINUotQmpQeEhGY3E3QkVXYlQyaXowT3ZNREJTb2dZS2g3SUdveFB6MmdTbkdYbXY4d2tSTFhXU0NGaF9ZaFNJTG53UVdNSktBNzNidmNUblBXZHFjREhaSWdWZFM1Umt0YjZlTEhqY1ZqX2tMbGpUWnYxREdsNURmVTZYT3lMa0d1ZVFIVFNhdXFfbUVlWEJqbDVIc0NiWVpzTU4yRGJyTTlHOU92QTYxdnBjOE9zYXF0UTdTX2pVTQ?oc=5",
-      "original_publish_time": "2026-10-13T01:06:42+00:00",
-      "scraped_time": "2026-10-13T12:15:03.560712+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "The Elie Saab x H&M collection, scheduled for release on October 26, includes footwear made in Portugal FashionNetwork - The World's Fashion Business News",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "cd5bc248a05d",
-      "title": "APICCAPS to launch market-entry initiative in the US - World Footwear",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQajJOamRRYkNSYUY4cWNYRS1TLWJvSmUwZjJGRUJpYnJNR1BDdjBVMXdMeXRmdGFUNW8zWVBuTGdPQVE1eHU5Y1NYd3g1V3BYUndDZ1hIR3FrYWg4cXM5OEJEYXhQN0YzdXRzbGI3RUZjZXhQQWxESkV5RkVBVkp4R0RxUllMSFAwSmVWOU9VdWNMQWk2VkZtSDZuNVdzUQ?oc=5",
-      "original_publish_time": "2026-10-12T23:00:32+00:00",
-      "scraped_time": "2026-10-12T23:27:10.165121+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "APICCAPS to launch market-entry initiative in the US World Footwear",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "61aff75194d3",
-      "title": "The Nike Air Max 95 Big Bubble Takes On A Frosty “Blue Tint”",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/10/12/nike-air-max-95-off-white-blue-tint-football-blue-ix8045-101/",
-      "original_publish_time": "2026-10-12T22:00:40+00:00",
-      "scraped_time": "2026-10-12T23:26:59.160011+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "footwear",
-        "shoes"
-      ],
-      "relevance_score": 4,
-      "summary": "Nike Sportswear is dropping a premium footwear pack that we can’t help but liken to past superhero shoes. Emerging right alongside an Air Force 1... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Nike Air Max 95 Big Bubble Takes On A Frosty \"Blue Tint\" appeared first on Sneaker News . The post The Nike Air Max 95 Big Bubble Takes On A Frosty “Blue Tint” appeared first on Sneaker News .",
       "ren_take": "",
       "image_url": ""
     }
