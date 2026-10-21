@@ -1,8 +1,49 @@
 {
-  "last_updated": "2026-10-20T20:27:13.253914+00:00",
-  "total_articles": 96,
+  "last_updated": "2026-10-21T01:34:32.785523+00:00",
+  "total_articles": 94,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "04a486fdea25",
+      "title": "New Balance's Quietly Cool Sneaker Is a Rain Boot in Dad Shoe Form",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/new-balance-2010-gore-tex-field-green/",
+      "original_publish_time": "2026-10-20T22:01:23+00:00",
+      "scraped_time": "2026-10-21T01:27:20.017520+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [
+        "New Balance"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 5,
+      "summary": "New Balance's 2010 GORE-TEX sneaker lands in a dark \"Field Green\" colorway, resulting in a low-key flex for messy weather days.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "55d8e3c5becb",
+      "title": "Nike's Mutated Air Jordans Are the Ultimate Weatherproof Ride",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/air-jordan-1-element-low-at-cream/",
+      "original_publish_time": "2026-10-20T21:59:01+00:00",
+      "scraped_time": "2026-10-21T01:27:20.016838+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "The GORE-TEX Air Jordan 1 Element Low A/T sneaker lands in a clean \"Cream II\" colorway for the Fall 2026. Here's everything on the latest release.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "4350087651b0",
       "title": "Nike’s Underrated Hiking Sneaker-Boot Is Suave as Ever",
@@ -1907,89 +1948,6 @@
       ],
       "relevance_score": 4,
       "summary": "Sanspareils Greenlands (SG) has launched BORN TO BE, a footwear and apparel collection developed in collaboration with Indian cricketer Hardik Pandya, marking the expansion of their decade-long partnership beyond cricket equipment. The collection, launched on October 14 includes 333 limited-edition signature shoes alongside footwear and apparel designed for everyday wear and sports-related activities. The footwear […] The post SG Launches Hardik Pandya’s Footwear and Apparel Range appeared first on Apparel Resources .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "a4c37e02ec87",
-      "title": "The Nike Mind 002 Flyknit Flirts With All Black",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/10/13/nike-mind-002-flyknit-black-dark-smoke-grey-anthracite-ir2176-002/",
-      "original_publish_time": "2026-10-13T21:30:26+00:00",
-      "scraped_time": "2026-10-13T21:42:33.672399+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 3,
-      "summary": "With the unveiling of the Nike 24.7 Boot, the Swoosh’s off-the-court recovery efforts have never been more in focus. The Nike Mind platform is firming... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Nike Mind 002 Flyknit Flirts With All Black appeared first on Sneaker News . The post The Nike Mind 002 Flyknit Flirts With All Black appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "77e2b77c1a82",
-      "title": "Enter Converse's Most Feral Chuck Taylor Slip-on Yet",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/converse-all-star-pointed-toe-volume-fur-slip-ox/",
-      "original_publish_time": "2026-10-13T21:22:30+00:00",
-      "scraped_time": "2026-10-13T21:46:27.450599+00:00",
-      "time_delta_mins": 0,
-      "category": "Trade Data",
-      "brands_mentioned": [
-        "Converse"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "Converse Japan's next move? Dropping the All-Star Pointed Toe Volume Fur Slip OX, a laceless sneaker featuring sharp toe boxes & hairy uppers.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "71fd21cf9c0e",
-      "title": "A Volatile Super El Niño Brings Unpredictability to Boot Season",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/shoe-retailers-el-nino-boot-buying-rain-winter-2026-1239343994/",
-      "original_publish_time": "2026-10-13T21:05:33+00:00",
-      "scraped_time": "2026-10-13T21:42:23.092258+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 3,
-      "summary": "Shoe retailers hope for the best during Super El Niño, and where they are located is key.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "8686fd67befe",
-      "title": "The Nike “UGGs” Are Right on Time",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-24-7-boots/",
-      "original_publish_time": "2026-10-13T20:33:46+00:00",
-      "scraped_time": "2026-10-13T21:46:27.451494+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Nike",
-        "UGG"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 5,
-      "summary": "Nike debuts its 24.7 boot, a plush suede recovery shoe with UGG-level flavor. Here's everything on the cozy model.",
       "ren_take": "",
       "image_url": ""
     }
