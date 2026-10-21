@@ -1,8 +1,154 @@
 {
-  "last_updated": "2026-10-21T09:54:12.739464+00:00",
-  "total_articles": 101,
+  "last_updated": "2026-10-21T16:02:15.147696+00:00",
+  "total_articles": 100,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "8814a70dcf24",
+      "title": "How Nike’s China Woes Are Putting Pressure on the Broader Market",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/sports-footwear-brands-consumer-demand-china-down-1239377666/",
+      "original_publish_time": "2026-10-21T15:45:22+00:00",
+      "scraped_time": "2026-10-21T15:50:41.669296+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "For sports apparel and footwear brands, indications are that consumer demand in China is trending down.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "d77968b831a2",
+      "title": "The New York Knicks Needed This Air Jordan 8 During Their Season Opener",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/10/21/air-jordan-8-knicks-ix8479-010-release-date/",
+      "original_publish_time": "2026-10-21T15:30:41+00:00",
+      "scraped_time": "2026-10-21T15:50:52.624319+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "Nike pulled out all the stops for the New York Knicks’ ring night, from a pop-up for Jalen Brunson’s Nike Kobe 3 Low Protro “Arancia”... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The New York Knicks Needed This Air Jordan 8 During Their Season Opener appeared first on Sneaker News . The post The New York Knicks Needed This Air Jordan 8 During Their Season Opener appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "4ea469ed2fec",
+      "title": "8 Drops You Don't Want to Miss This Week",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/10/best-drops-october-week-4-supreme-palace-carhartt-wip",
+      "original_publish_time": "2026-10-21T12:30:50+00:00",
+      "scraped_time": "2026-10-21T15:50:52.423564+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Nike",
+        "Timberland"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 4,
+      "summary": "With another week upon us, we have yet another installment of our product drops series.This week’s lineup of drops kicks off with Supreme reuniting with Timberland for a rugged Fall 2026 collection anchored by the iconic Field Boot, while Palace Skateboards continues its Winter 2026 rollout with a weather-ready assortment of GORE-TEX shells and insulated puffers. Patta joins forces with Carhartt WIP for the workwear-inspired \"Hartt and Soul\" capsule, just as G-Dragon’s PEACEMINUSONE blends K-pop subculture with avant-garde Japanese tailoring in an exclusive WILDSIDE Yohji Yamamoto collaboration. Kim Kardashian’s SKIMS and Nike debut their first-ever outerwear collection featuring performance-ready puffer jackets and trench coats, while menswear designer Willy Chavarria launches his new \"ad",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "0ce6ea434bd3",
+      "title": "Five Reputable Safety Shoes Manufacturers in China 2026: Advancing Workplace Safety - The Des Moines Register",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQenlXWGRkUlltRWRFYjQtYzljWUdtQ2lySFNHOTZ4TlNPeFpVbVdiVkNEdmt5MlJVVDhsckMxemJTWVVYWHg3eHRuMFB6Y1JBOWFhYVE1YzhqS3NQTXhZU1RySjlmcEN4LV81UUdEX3NWNXZCTlJ0NzRvLXczbjdldWJPdnFNZFptdm1NaDdkQWotY0FCaDFRSTB0TmFGQVlpSVkyVjJra0lqR2w1NzVYdElXSUwtcVZxRDNCcVAyY3ktTEE1M2tMdTNRN3gzQlloUTRPbWRNTXNwaFl2?oc=5",
+      "original_publish_time": "2026-10-21T11:26:25+00:00",
+      "scraped_time": "2026-10-21T15:51:03.504838+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "Five Reputable Safety Shoes Manufacturers in China 2026: Advancing Workplace Safety The Des Moines Register",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "f7e2701ce998",
+      "title": "KEEN Taps TYAKASHA for a Mismatched Howser III Slide",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/10/tyakasha-keen-howser-iii-slide-mr-green-oring-1032615-release-info",
+      "original_publish_time": "2026-10-21T10:03:21+00:00",
+      "scraped_time": "2026-10-21T15:50:52.426210+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [
+        "Keen"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "Name: TYAKASHA x KEEN Howser IIIColorway: Virids/MediterraneaSKU: 1032615MSRP: ¥12,650 JPY (approx. $80 USD)Release Date: October 21Where to Buy: KEENKEEN brings TYAKASHA's playful character universe to the Howser III Slide, reworking the relaxed slip-on in a single mismatched “Virids/Mediterranea” colorway. Inspired by TYAKASHA mascots Mr. Green and Oring, the pair splits its palette between a vivid forest green and an icy Mediterranean blue, with each foot taking on a different base color.Both uppers are finished in a nubby, fleece-like textile that gives the shoe an especially soft and tactile appearance, while warm brown trim frames the collar, toe and lower edge. Bright orange bungee loops add another pop of color, and embroidered character patches - including a green figure on the bl",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "553786ea0b7d",
+      "title": "Air Jordan 15 “Cosmic Clay” Surfaces in a Multicolor Woven Look",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/10/air-jordan-15-cosmic-clay-multi-color-iv7643-800-mock-up-info",
+      "original_publish_time": "2026-10-21T10:00:14+00:00",
+      "scraped_time": "2026-10-21T15:50:52.427844+00:00",
+      "time_delta_mins": 0,
+      "category": "Manufacturing",
+      "brands_mentioned": [
+        "Jordan"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "Name: Air Jordan 15 \"Cosmic Clay\"Colorway: Cosmic Clay/Multi-ColorSKU: IV7643-800MSRP: TBCRelease Date: Fall 2027Jordan Brand is bringing the Air Jordan 15 back into focus for Fall 2027, with the upcoming “Cosmic Clay” colorway offering one of the silhouette’s more expressive treatments to date.Early imagery shared by @zSneakerHeadz provides a speculative look at the pair, dressing Tinker Hatfield’s divisive late-’90s design in a predominantly burnt-orange palette. Cosmic Clay covers much of the mudguard, heel, ankle and sculpted tooling, while the AJ15’s signature woven upper introduces flashes of blue, green, yellow, pink and orange for an almost mosaic-like finish. The multicolored weave breaks up the otherwise tonal construction, emphasizing the sneaker’s angular shape and distinctive ",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "4ec44f72d916",
+      "title": "Kiko Kostadinov and ASICS Refresh the US8-S GEL-SJ33 in Two New Colorways",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/10/kiko-kostadinov-asics-us8-s-gel-sj33-collaboration-moonrock-tatami-green-1203b116-250-deep-plum-fresh-grass-1203b116-500-release-info",
+      "original_publish_time": "2026-10-21T09:50:59+00:00",
+      "scraped_time": "2026-10-21T15:50:52.430517+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [
+        "ASICS"
+      ],
+      "keywords_matched": [
+        "sole",
+        "upper"
+      ],
+      "relevance_score": 4,
+      "summary": "Name: Kiko Kostadinov x ASICS US8-S GEL-SJ33Colorway: Moonrock/Tatami Green, Deep Plum/Fresh GrassSKU: 1203B116.250, 1203B116.500MSRP: $170 USDRelease Date: October 23Where to Buy: ASICSKiko Kostadinov and ASICS return to the US8-S GEL-SJ33 with two new colorways this season, following the “Black Coffee” and “Roasted Coffee” editions released earlier this summer. The “Moonrock/Tatami Green” pair takes the softer route, combining a taupe-to-grey mesh base with teal, mint and light green linework that crisscrosses the upper in a dense, almost woven-looking pattern. Pale blue ASICS Stripes cut across the lateral side, while green-toned sections around the toe, sockliner and segmented sole reinforce the cool, mineral-like palette.Meanwhile, “Deep Plum/Fresh Grass” leans darker and more saturat",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "8ff229f720a7",
       "title": "The Shaggy Nike Air Max Goadome “Black Pony Hair” Is Coming Back This October",
@@ -1937,163 +2083,6 @@
       ],
       "relevance_score": 5,
       "summary": "Hailey Bieber, Jennifer Aniston, and Podiatrists Agree: New Balance Sneakers Are Key to a Comfy Fall Wardrobe InStyle",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "80d959a128e9",
-      "title": "Two Ten Footwear Foundation Opens Registration for New Mentorship Program",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/two-ten-footwear-foundation-mentorship-program-details-1239346119/",
-      "original_publish_time": "2026-10-14T16:00:00+00:00",
-      "scraped_time": "2026-10-14T20:24:39.274482+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "The organization is looking for mentors and mentees to apply by Dec. 23.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "70bbe9e64338",
-      "title": "I test dozens of women’s walking shoes every year — these are the best ones for every foot type - NBC News",
-      "source_name": "Google News - Sneaker Brand",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOamw4TTQtMXMzdFAwXzR2UlBlaTZEbUUtTHdOTXRxREpqWDJ1MEhMUmpsU3F3cG1zZy1MSm1MbS1odGhFcXdzV3N4LXVBSTItUUlCZUxTd1Y1RUtaOXZBQmVoREs2MWxoU2lScGIyYVJDalB5d19XOXFER3RDc0NqTTRB?oc=5",
-      "original_publish_time": "2026-10-14T15:31:21+00:00",
-      "scraped_time": "2026-10-17T19:00:09.369209+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "I test dozens of women’s walking shoes every year — these are the best ones for every foot type NBC News",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "449f52fea459",
-      "title": "Five Unexpected Ways to Style Your Heels and Boots This Fall, According to Chappell Roan and More Stars",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-trends/unexpected-ways-to-style-heels-boots-for-fall-1239345263/",
-      "original_publish_time": "2026-10-14T15:05:41+00:00",
-      "scraped_time": "2026-10-14T15:42:46.026328+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "boot",
-        "footwear"
-      ],
-      "relevance_score": 4,
-      "summary": "Chappell Roan, Paloma Elsesser and more celebrities have stepped out in outfits showcasing fresh spins on footwear lately.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "8af37626e52f",
-      "title": "From Vans to New Balance, the Seven Best Sneakers to Cop This Week",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/sneaker-releases-2026-october-week-3/",
-      "original_publish_time": "2026-10-14T14:30:35+00:00",
-      "scraped_time": "2026-10-14T15:46:27.506063+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "New Balance",
-        "Vans"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 7,
-      "summary": "From a Highsnobiety x Saucony collab to a bubblegum-pink Vans, find here the seven best sneakers of the week.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "7692c257b0f9",
-      "title": "EXCLUSIVE: Rapper Wale Named Chief Creative Officer, Equity Partner at Sneaker Preservation Company CapSole",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/wale-capsole-chief-creative-officer-equity-partner-1239346182/",
-      "original_publish_time": "2026-10-14T14:00:00+00:00",
-      "scraped_time": "2026-10-14T15:42:46.029139+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "sole"
-      ],
-      "relevance_score": 3,
-      "summary": "Financial details about Wale’s investment in the company were not disclosed.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "54678561ae68",
-      "title": "Introducing Drapers Footwear Summit and Awards 2027",
-      "source_name": "Drapers",
-      "source_domain": "drapersonline.com",
-      "source_url": "https://www.drapersonline.com/news/introducing-drapers-footwear-summit-and-awards-2027",
-      "original_publish_time": "2026-10-14T13:11:39+00:00",
-      "scraped_time": "2026-10-14T15:45:55.712081+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Drapers Introducing Drapers Footwear Summit and Awards 2027 We are uniting the sector in new ways for 2027. Alongside the long-established Drapers Footwear Awards, we are introducing Drapers Footwear Summit – a new half-day event created specifically for senior leaders and decision makers. The post Introducing Drapers Footwear Summit and Awards 2027 appeared first on Drapers .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "80fc6d3d0ca6",
-      "title": "Larroudé Teams Up With Legendary French Footwear Designer Bruno Frisoni on a Collection Ranging From Flats to Heels",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-trends/larroude-bruno-frisoni-shoe-collection-collaboration-1239345357/",
-      "original_publish_time": "2026-10-14T13:00:00+00:00",
-      "scraped_time": "2026-10-14T15:42:46.029828+00:00",
-      "time_delta_mins": 0,
-      "category": "Quality",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Frisoni, who served as the creative of Roger Vivier for 16 years, wants women to feel \"sexy and happy\" wearing his designs.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "668e275537d5",
-      "title": "SG Launches Hardik Pandya’s Footwear and Apparel Range",
-      "source_name": "Apparel Resources",
-      "source_domain": "apparelresources.com",
-      "source_url": "https://apparelresources.com/business-news/retail/sg-launches-hardik-pandyas-footwear-and-apparel-range/",
-      "original_publish_time": "2026-10-14T12:41:34+00:00",
-      "scraped_time": "2026-10-14T15:46:39.278614+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "shoes"
-      ],
-      "relevance_score": 4,
-      "summary": "Sanspareils Greenlands (SG) has launched BORN TO BE, a footwear and apparel collection developed in collaboration with Indian cricketer Hardik Pandya, marking the expansion of their decade-long partnership beyond cricket equipment. The collection, launched on October 14 includes 333 limited-edition signature shoes alongside footwear and apparel designed for everyday wear and sports-related activities. The footwear […] The post SG Launches Hardik Pandya’s Footwear and Apparel Range appeared first on Apparel Resources .",
       "ren_take": "",
       "image_url": ""
     }
