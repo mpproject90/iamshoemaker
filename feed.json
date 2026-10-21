@@ -1,8 +1,111 @@
 {
-  "last_updated": "2026-10-21T16:02:15.147696+00:00",
-  "total_articles": 100,
+  "last_updated": "2026-10-21T20:37:15.132059+00:00",
+  "total_articles": 102,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "521e848824cf",
+      "title": "Skechers and Kizik Both Claim Victory in European Patent Case",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/skechers-kizik-hands-free-step-in-patent-infringement-claim-1238036771/",
+      "original_publish_time": "2026-10-21T19:34:47+00:00",
+      "scraped_time": "2026-10-21T20:26:13.131685+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Skechers"
+      ],
+      "keywords_matched": [
+        "shoe brand"
+      ],
+      "relevance_score": 3,
+      "summary": "The patent battle between the two shoe brands in the U.S. is still ongoing.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "f8cbfa02eaed",
+      "title": "Arc’teryx Has a New 2-in-1 Boot With a Hidden Slipper, Gore-Tex and Vibram — and It’s Available Right Now",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/arcteryx-postour-boot-available-now-1239379236/",
+      "original_publish_time": "2026-10-21T18:23:59+00:00",
+      "scraped_time": "2026-10-21T20:26:13.134598+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [
+        "Vibram"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 5,
+      "summary": "The winter-ready recovery boot is out now in Black/Black and Tatsu/Black styles.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "22b20b5716a2",
+      "title": "How Did UGG Go From Paparazzi Staple to JW Anderson Co-Sign?",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/ugg-jw-anderson-interview/",
+      "original_publish_time": "2026-10-21T16:53:40+00:00",
+      "scraped_time": "2026-10-21T20:30:06.578205+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "UGG"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 3,
+      "summary": "We talked to the fuzzy boot maker about shedding its \"Cozy Girl Fall\" reputation through superstar collaborations with Telfar, Palace, and JW Anderson.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "3cdec1f539f9",
+      "title": "Adidas’ record Q3 is salt in the wound for Nike",
+      "source_name": "Retail Dive",
+      "source_domain": "retaildive.com",
+      "source_url": "https://www.retaildive.com/news/adidas-record-q3-earnings-nike-turnaround/833592/",
+      "original_publish_time": "2026-10-21T16:37:00+00:00",
+      "scraped_time": "2026-10-21T20:29:23.039741+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Nike",
+        "Adidas"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "Preliminary figures show revenue reaching $8.1 billion, as the sportswear giant takes “significant” share from its rival.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "38832aeab24a",
+      "title": "How Three Big U.S. Sporting Goods Retailers Stack Up Amid Change and Challenge",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/athletic-footwear-us-outdoor-retailers-challenges-1239373911/",
+      "original_publish_time": "2026-10-21T15:55:41+00:00",
+      "scraped_time": "2026-10-21T20:26:13.135717+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "athletic footwear",
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Athletic footwear checks across U.S. retailers suggest challenges remain across the sector.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "8814a70dcf24",
       "title": "How Nike’s China Woes Are Putting Pressure on the Broader Market",
@@ -611,6 +714,26 @@
       ],
       "relevance_score": 4,
       "summary": "Name: Nike First Sight Shadow “Cream II and Enigma Stone”Colorway: Cream II/Metallic Silver-Sail-Enigma StoneSKU: HQ2410-200MSRP: $145 USDRelease Date: October 28Where to Buy: SNKRSNike is closing out its First Sight trilogy with the women’s First Sight Shadow, dropping in a “Cream II and Enigma Stone” colorway. The collection sets out to stretch what athletic footwear can look like, and the Shadow does it by blending openly referenced heritage forms with a slip-on profile that looks firmly forward.The Shadow’s starting point is the early 2000s, a period whose silhouettes inform its overall shape, while Nike Basketball’s design language supplies the underlying framework. The result skips laces entirely, using a slip-on construction that gives the shoe a clean, futuristic outline from heel ",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "f4f45bda5fe3",
+      "title": "Why Nike doesn't seem able to fix Converse - Fortune",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWXhxX0NlNm1ldkliREM4RFB6a2xYTGJZNTNRZmhTVnJBSzJBMTd6Q1JocWRpekZjZGhfS2ZiWjZTdVZLOC1IeHU3X3FROTVTNC1nUEVYd3NzNmlRc1VZN1lha0xjbklCSXV0dE5URGZGZ0NJd2JyUjJBcnUwZ0p1U0FtVjdRZlc1czBrR2lKZFVlQQ?oc=5",
+      "original_publish_time": "2026-10-20T07:00:00+00:00",
+      "scraped_time": "2026-10-21T20:26:34.556454+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Converse"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "Why Nike doesn't seem able to fix Converse Fortune",
       "ren_take": "",
       "image_url": ""
     },
@@ -1998,91 +2121,6 @@
       ],
       "relevance_score": 3,
       "summary": "Summary adidas Originals and Edison Chen have officially introduced the adidas Originals x CLOT Superstar Collection featuring footwear and apparelThe lineup introduces a blue suede Superstar with sawtooth tooling a Superstar Mule and apparel referencing Chen's ties to Vancouver and Hong KongThe full collection releases globally on October 16 via the CONFIRMED app adidas.com and select retailers worldwide adidas Originals and Edison Chen have officially debuted the adidas Originals x CLOT Superstar Collection, delivering an expansive range of footwear and apparel. Woven with references to Chen's roots in Vancouver and Hong Kong, the latest partnership brings together distinct cultural motifs through a shared design lens.Footwear serves as the centerpiece of the capsule, delivering two dist",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "1b016a00578b",
-      "title": "Vans Is Now Selling Its Sneakers at Zara",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/vans-zara-retail-partnership-details-authentic-sneakers-1239347869/",
-      "original_publish_time": "2026-10-14T20:26:48+00:00",
-      "scraped_time": "2026-10-15T01:17:36.399439+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Vans"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 5,
-      "summary": "Three versions of the Vans Authentic sneaker are featured on the retailer's e-commerce platforms.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "5b9bbabaf10c",
-      "title": "Vans Turnaround Has More Than a Few Green Shoots",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/vf-corp-vans-male-teens-timberland-upper-income-male-teens-1239346578/",
-      "original_publish_time": "2026-10-14T19:58:42+00:00",
-      "scraped_time": "2026-10-14T20:24:39.270843+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [
-        "Vans",
-        "Timberland"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 4,
-      "summary": "Web and foot traffic data for Vans shows continued strong trends, particularly from male teens, while Timberland resonates with upper-income teens.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "6887af1207b5",
-      "title": "Timberland and Jacquemus Are Back Together on Two Croc Versions of the Lug Sole Boat Shoe",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/timberland-jacquemus-croc-lug-sole-boat-shoes-release-date-1239347807/",
-      "original_publish_time": "2026-10-14T19:54:19+00:00",
-      "scraped_time": "2026-10-14T20:24:39.273737+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Timberland"
-      ],
-      "keywords_matched": [
-        "sole"
-      ],
-      "relevance_score": 5,
-      "summary": "The silhouette is available in navy and brown colorways.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "f17582a9c32c",
-      "title": "Hailey Bieber, Jennifer Aniston, and Podiatrists Agree: New Balance Sneakers Are Key to a Comfy Fall Wardrobe - InStyle",
-      "source_name": "Google News - Sneaker Brand",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYWhKby1KZUd1RVA5b1FjTXJHRUxCQkQxNHBBTEE3NnZycDFrTXk1Y0ZNSGZnc3oyU0psdkV2Ym96dFluZUxSZS1ycDdsOXBTYjRNQlZ3VlBoYVRiaWJzWm0zZERvQUxvdDdQNVhYcjNkMWhfS3g0eFNJaHhEdWNpSFV5SHRfN0lqMEJNaA?oc=5",
-      "original_publish_time": "2026-10-14T19:36:52+00:00",
-      "scraped_time": "2026-10-17T08:53:36.639837+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "New Balance"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 5,
-      "summary": "Hailey Bieber, Jennifer Aniston, and Podiatrists Agree: New Balance Sneakers Are Key to a Comfy Fall Wardrobe InStyle",
       "ren_take": "",
       "image_url": ""
     }
