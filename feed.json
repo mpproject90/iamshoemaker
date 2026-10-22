@@ -1,8 +1,90 @@
 {
-  "last_updated": "2026-10-21T20:37:15.132059+00:00",
-  "total_articles": 102,
+  "last_updated": "2026-10-22T01:32:03.459907+00:00",
+  "total_articles": 106,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "76280c1392bc",
+      "title": "A 3D-Printed Air Max Mule Is The Latest To Come Out Of Nike’s Air Works Program",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/10/21/nike-air-works-masyn-scuba-slip-on-mule/",
+      "original_publish_time": "2026-10-21T23:30:46+00:00",
+      "scraped_time": "2026-10-22T01:21:25.214999+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Nike’s inaugural Air Works program continues its rollout of experimental footwear with Los Angeles-based creative Masyn unveiling his own 3D-printed Air Max silhouette, developed in... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post A 3D-Printed Air Max Mule Is The Latest To Come Out Of Nike's Air Works Program appeared first on Sneaker News . The post A 3D-Printed Air Max Mule Is The Latest To Come Out Of Nike’s Air Works Program appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "e5cf7560d943",
+      "title": "Reebok Just Released Darius Acuff’s First PE Sneaker",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/10/21/reebok-engine-a-darius-acuff-pe-100301721/",
+      "original_publish_time": "2026-10-21T23:00:57+00:00",
+      "scraped_time": "2026-10-22T01:21:25.216151+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Reebok"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Veterans changing teams is always a major focus of any offseason, and a resulting plotline is how footwear brands respond to their new environments. It’s not... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Reebok Just Released Darius Acuff's First PE Sneaker appeared first on Sneaker News . The post Reebok Just Released Darius Acuff’s First PE Sneaker appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "9fe25175e6a7",
+      "title": "Anthony Edwards’ adidas Superstar “Halloween” Drops On Friday",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/10/21/anthony-edwards-adidas-superstar-halloween-kz9164/",
+      "original_publish_time": "2026-10-21T21:30:37+00:00",
+      "scraped_time": "2026-10-22T01:21:25.217820+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "What’s spooky season like in the Edwards household? With a spree of Halloween shoes hitting the timeline over the past few weeks, we’ve been left... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Anthony Edwards’ adidas Superstar “Halloween” Drops On Friday appeared first on Sneaker News . The post Anthony Edwards’ adidas Superstar “Halloween” Drops On Friday appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "ebc86902a892",
+      "title": "Shoes for a Cure’s Mega New York Charity Sale Kicks Off With Star Power",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/shoes-for-a-cure-new-york-shoe-sale-info-details-1239379322/",
+      "original_publish_time": "2026-10-21T21:27:51+00:00",
+      "scraped_time": "2026-10-22T01:21:14.176858+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "The Chelsea Market sale, which features 10,000 pairs of shoes from top brands, runs through Sunday.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "521e848824cf",
       "title": "Skechers and Kizik Both Claim Victory in European Patent Case",
