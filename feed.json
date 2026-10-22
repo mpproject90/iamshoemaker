@@ -1,8 +1,135 @@
 {
-  "last_updated": "2026-10-22T15:58:55.093780+00:00",
-  "total_articles": 115,
-  "sources_checked": 60,
+  "last_updated": "2026-10-22T20:34:56.713057+00:00",
+  "total_articles": 117,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "5d7ddf47bfc3",
+      "title": "Portland’s Deadstock Coffee Secures An adidas Adistar Control 5 Collaboration",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/10/22/deadstock-coffee-adidas-adistar-control-5/",
+      "original_publish_time": "2026-10-22T20:00:17+00:00",
+      "scraped_time": "2026-10-22T20:24:00.865435+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Nike",
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 4,
+      "summary": "Nike is obviously the sneaker company most commonly associated with Portland, Oregon, but the city’s footwear pedigree extends well beyond the Swoosh. The city also... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Portland's Deadstock Coffee Secures An adidas Adistar Control 5 Collaboration appeared first on Sneaker News . The post Portland’s Deadstock Coffee Secures An adidas Adistar Control 5 Collaboration appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "f6b3a701ff6f",
+      "title": "Birkenstock’s New Holiday Collection Sees the Return of the Shearling Arizona and Boston Styles",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/birkenstock-shearling-arizona-boston-holiday-2026-details-1239381478/",
+      "original_publish_time": "2026-10-22T19:00:58+00:00",
+      "scraped_time": "2026-10-22T20:23:50.267562+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Birkenstock"
+      ],
+      "keywords_matched": [
+        "hide"
+      ],
+      "relevance_score": 3,
+      "summary": "The collection also sees the two shoe models in both red and zebra pony-effect cowhide.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "beb66f817731",
+      "title": "This Trio of Nike Air Max Sneakers Is Drawing Comparisons to Batman",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-air-max-batman-pack-release-date-1239381518/",
+      "original_publish_time": "2026-10-22T18:52:47+00:00",
+      "scraped_time": "2026-10-22T20:23:50.270286+00:00",
+      "time_delta_mins": 0,
+      "category": "Quality",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "The Air Max 90, Air Max 95 and Air Max Plus make up the assortment.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "29cbedcefb4d",
+      "title": "This Arc’teryx Boot Has A Removable Slipper Inside",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/10/22/arcteryx-postour-boot-removable-slipper/",
+      "original_publish_time": "2026-10-22T18:00:44+00:00",
+      "scraped_time": "2026-10-22T20:24:00.868259+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "boot",
+        "footwear"
+      ],
+      "relevance_score": 4,
+      "summary": "Consumers are demanding more out of their footwear than ever before. For many, being fashionable is no longer enough. It’s got to be comfortable, versatile,... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post This Arc’teryx Boot Has A Removable Slipper Inside appeared first on Sneaker News . The post This Arc’teryx Boot Has A Removable Slipper Inside appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "f0ede117a0ef",
+      "title": "Timberland Gave Its Classic Field Boot a Serious New Upgrade with Gore-Tex and Vibram",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/timberland-field-boot-gore-tex-vibram-brown-camo-1239381254/",
+      "original_publish_time": "2026-10-22T17:28:06+00:00",
+      "scraped_time": "2026-10-22T20:23:50.270991+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Timberland",
+        "Vibram"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 7,
+      "summary": "The beloved style also features a touch of camo accents and is available now.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "f05a82d56692",
+      "title": "Jalen Brunson’s Knicks Orange Nike Kobe Sneakers Are Now in Stores Only in NYC",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/jalen-brunson-nike-kobe-3-low-protro-nyc-release-details-1239381043/",
+      "original_publish_time": "2026-10-22T16:08:17+00:00",
+      "scraped_time": "2026-10-22T20:23:50.271538+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "The Nike Kobe 3 Low Protro arrives just as the Knicks begin their title defense.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "34c5c4af9d26",
       "title": "New Arrivals From HBX: Salomon Advanced",
@@ -2306,88 +2433,6 @@
       ],
       "relevance_score": 3,
       "summary": "Nike is coming for your closet space and aiming to dominate your rotation this winter. The latest edition of its SNKRS Verified programming is solely... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike Covers Up The Rejuven8 For Winter appeared first on Sneaker News . The post Nike Covers Up The Rejuven8 For Winter appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "bf08eacbec9e",
-      "title": "What Teens Want in Shoes Now: These Casual Brands Are Edging Their Way in as Top Athletic Brands Lose Some Ground",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/teen-spending-footwear-piper-sandler-athletic-brands-1239351760/",
-      "original_publish_time": "2026-10-15T20:19:49+00:00",
-      "scraped_time": "2026-10-16T01:03:30.029395+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "shoes"
-      ],
-      "relevance_score": 4,
-      "summary": "Teen spending on footwear was better in this year's Piper Sandler study, but athletic brands also are losing share to non-athletic shoe preferences.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "8ec2dbb120f3",
-      "title": "The Nike Dunk Low Combines Tweed And Patent Leather",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/10/15/nike-dunk-low-tweed-ix8648-001/",
-      "original_publish_time": "2026-10-15T20:00:42+00:00",
-      "scraped_time": "2026-10-15T20:10:14.276000+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Nike",
-        "Jordan"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "A Jordan 14 Mule? A mule with the exposed stitching of the Footscape Woven? Through the power of Nike, Inc. collaborations, these are pipe dreams... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Nike Dunk Low Combines Tweed And Patent Leather appeared first on Sneaker News . The post The Nike Dunk Low Combines Tweed And Patent Leather appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "e78bf45d543a",
-      "title": "Nike’s Air Max Boot Strikes Gold",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-air-max-goadome-yellow-croc/",
-      "original_publish_time": "2026-10-15T16:12:01+00:00",
-      "scraped_time": "2026-10-15T20:15:44.234930+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 5,
-      "summary": "Nike's luxe & shiny \"Yellow Croc\" Air Max Goadome sneaker is a wor kboot that looks too good for labor.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "a7f394059977",
-      "title": "This Premium Air Max 90 Is Giving NikeLab Vibes",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/10/15/nike-air-max-90-sp-black-leather-iv4504-001/",
-      "original_publish_time": "2026-10-15T16:00:40+00:00",
-      "scraped_time": "2026-10-15T20:10:14.312593+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "Nike’s latest Air Max 90 is as appropriate for Sunday service as it is sidewalk flexing. If you were out copping sneakers during the Beaverton... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post This Premium Air Max 90 Is Giving NikeLab Vibes appeared first on Sneaker News . The post This Premium Air Max 90 Is Giving NikeLab Vibes appeared first on Sneaker News .",
       "ren_take": "",
       "image_url": ""
     }
