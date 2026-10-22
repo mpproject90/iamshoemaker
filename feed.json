@@ -1,8 +1,91 @@
 {
-  "last_updated": "2026-10-22T01:32:03.459907+00:00",
+  "last_updated": "2026-10-22T09:53:58.066426+00:00",
   "total_articles": 106,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "e042793e7ba9",
+      "title": "Burna Boy’s Debut On Sneakers Offer Diverging Monochrome Choices",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/burna-boy-on-sneakers-release-date-1239379798/",
+      "original_publish_time": "2026-10-22T09:00:00+00:00",
+      "scraped_time": "2026-10-22T09:42:12.995612+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "The three-sneaker assortment includes an all-red Cloudmonster and all-white Roger Clubhouse.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "55e9bb5429ac",
+      "title": "‘Glee’ Club Is Back in Session With a Disney+ and Hulu Reboot",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/10/disney-plus-hulu-greenlight-glee-tv-series-reboot",
+      "original_publish_time": "2026-10-22T08:00:01+00:00",
+      "scraped_time": "2026-10-22T09:42:23.512602+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 4,
+      "summary": "Summary Disney+ and Hulu have officially greenlit a reboot of Glee, with 20th Television producingRyan Murphy has penned a new script alongside original co-creators Brad Falchuk and Ian Brennan, though casting remains under wrapsThe musical dramedy ran six seasons on Fox and still pulls millions of monthly listeners on Spotify a decade after its finale A Glee reboot is officially in the works, with Disney+ and Hulu greenlighting a new take on Ryan Murphy’s musical dramedy. Disney has kept the announcement lean, confirming only that 20th Television will produce the series for both streaming platforms. No official cast, premiere window or plot details have been revealed, but early reports suggest several familiar faces are already lining up for a return to McKinley High.Murphy has laid much ",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "dd705d70c9a9",
+      "title": "Kith and Salomon Debut the XT-4K Mid in Winter 2026 Footwear Capsule",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/10/kith-salomon-xt-4k-mid-debut-winter-2026-footwear-capsule-release-info",
+      "original_publish_time": "2026-10-22T07:23:12+00:00",
+      "scraped_time": "2026-10-22T09:42:23.515313+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Salomon"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 5,
+      "summary": "Summary Kith and Salomon have expanded their long-standing partnership with a three-model footwear collection for Winter 2026The seasonal capsule introduces the brand-new XT-4K Mid alongside updated colorways of the XT-VYGR2 and XT 4OGThe lineup launches early at Kith Vancouver on October 23 followed by a global rollout on October 26 Kith and Salomon have officially introduced their collaborative Winter 2026 footwear collection, introducing the debut of the XT-4K Mid alongside the return of the XT-VYGR2 and XT 4OG. The seasonal lineup merges Kith’s curated color palette with Salomon’s technical performance heritage across three distinct outdoor silhouettes.Headlining the collection is the all-new XT-4K Mid, which evolves the low-top XT-4K into an elevated mid-cut height. Retaining the sign",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "f2cb7dc86e78",
+      "title": "Masyn Unveils 3D-Printed Nike Air Max Mule With Zellerfeld",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/10/masyn-3d-printed-nike-air-max-mule-zellerfeld-revealed",
+      "original_publish_time": "2026-10-22T07:00:14+00:00",
+      "scraped_time": "2026-10-22T09:42:23.517553+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "footwear",
+        "outsole",
+        "sole",
+        "upper"
+      ],
+      "relevance_score": 6,
+      "summary": "Summary Los Angeles designer Masyn has created a fully 3D-printed Nike Air Max mule in partnership with ZellerfeldThe gender-neutral slip-on features star detailing across the upper and an outsole designed to stamp star impressions onto the groundThe design was unveiled at a friends-and-family showcase at NOVA studios as part of Nike's Air Works program Nike has linked up with Los Angeles designer Masyn and 3D-printing company Zellerfeld to reveal a custom 3D-printed Nike Air Max Mule. First reported by Mario Briguglio, the collaborative footwear concept was developed under the sportswear brand's new Air Works program.Departing from celebrity-driven concepts, Masyn rooted the silhouette's design language in personal relationships, drawing inspiration from friends, family, and mentors who h",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "76280c1392bc",
       "title": "A 3D-Printed Air Max Mule Is The Latest To Come Out Of Nike’s Air Works Program",
@@ -82,6 +165,25 @@
       ],
       "relevance_score": 3,
       "summary": "The Chelsea Market sale, which features 10,000 pairs of shoes from top brands, runs through Sunday.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "81f42600273f",
+      "title": "Andre Drummond Debuts His New Drumm 1 Signature Shoe from Stria Sport - Sole Retriever",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9NQUo5emZNYndSWGVVRnVkOS10Zlc1YkJXcjFfQU91RHk0NWFUYVliQ0xhMFktVGZpUzNTc0JLR3JuV01VekY2bDhZLU5lR2xkT21PeWMxa0VnOFpoN0IxZWNYOGlNUzV3R0NzVXF0VjFvSDVVNW5kbGpZMA?oc=5",
+      "original_publish_time": "2026-10-21T21:00:44+00:00",
+      "scraped_time": "2026-10-22T09:42:35.528268+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sole"
+      ],
+      "relevance_score": 3,
+      "summary": "Andre Drummond Debuts His New Drumm 1 Signature Shoe from Stria Sport Sole Retriever",
       "ren_take": "",
       "image_url": ""
     },
@@ -918,6 +1020,26 @@
       ],
       "relevance_score": 5,
       "summary": "The Nike Ja 4 High \"Zombie\" bucks the trend of basketball largely moving away from high-tops.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "d1ba3303d784",
+      "title": "2026-27 NBA Season Signature Sneakers by Team - Sole Retriever",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUk8zU1YwT3BBRWJWaHlCWHBacnI4RG80dlV1ZDhRV2xXNUdGQXI4clVCM1kwWnlWdERWa0dxeWdvdnM3dDRnNmJURnM3UWxpOG9TbTBFRGtkQ1BhQ2xmb29ldnYwUVdINmxzcmEwNk5OT0JxVXRPMDdVb195Y3BPN1FSYjYyakd6Nkp3V0FDRzhtNXM?oc=5",
+      "original_publish_time": "2026-10-19T20:30:18+00:00",
+      "scraped_time": "2026-10-22T09:42:35.532111+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sneakers",
+        "sole"
+      ],
+      "relevance_score": 6,
+      "summary": "2026-27 NBA Season Signature Sneakers by Team Sole Retriever",
       "ren_take": "",
       "image_url": ""
     },
@@ -2073,136 +2195,6 @@
       ],
       "relevance_score": 4,
       "summary": "Summary Vans and SZA unveil the official VANSZA Drop 1 campaign, photographed by India Sleem.Highlights include the Knu Skool Mule, Authentic Kickdown and nature-inspired apparel.Launching October 22, the collection blends skatewear, outdoor influences and SZA's personal style. Following the initial unveiling of their VANSZA collaboration in September, Vans and SZA have released the official campaign for Drop 1, offering a closer look at the singer's nature-inspired interpretation of the California footwear brand's signature designs.Photographed by India Sleem against California's sun-drenched hillsides and rugged landscapes, the campaign brings SZA's creative universe into focus through an interplay of earthy textures, expressive styling and outdoor scenery. Complemented by product and la",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "6330c6da8c2e",
-      "title": "The adidas Samba Gets a Textured “Camo Cow Print” Makeover",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/10/adidas-samba-camo-cow-print-kj7500-official-images",
-      "original_publish_time": "2026-10-15T09:39:15+00:00",
-      "scraped_time": "2026-10-15T15:30:30.306541+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Adidas",
-        "Off-White"
-      ],
-      "keywords_matched": [
-        "footwear",
-        "hide",
-        "upper"
-      ],
-      "relevance_score": 6,
-      "summary": "Name: adidas Samba “Camo Cow Print”Colorway: “Camo Cow Print”SKU: KJ7500MSRP: $120 USDRelease Date: Holiday 2026adidas is giving the Samba a new “Camo Cow Print” makeover, combining two recurring footwear motifs - animal patterning and military-inspired camouflage - across the low-profile classic.The upper is almost entirely wrapped in faux-pony hair, printed with an irregular desert-camo pattern that blends creamy off-white, sandy beige and dark brown patches for a cowhide-like effect. Smooth cream leather Three Stripes cut through the patterned sidewalls, while matching leather appears around the heel to add a cleaner contrast against the busier upper. Muted sage green laces, tongue branding and collar lining introduce a softer outdoor-inspired accent without overpowering the neutral pal",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "a26daf934763",
-      "title": "Timberland and Jacquemus Rework the Authentic Boat Shoe in Crocodile-Embossed Leather",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/10/timberland-jacquemus-3-eye-classic-lug-authentic-boat-shoe-navy-dark-brown-croc-collaboration-release-info",
-      "original_publish_time": "2026-10-15T09:18:33+00:00",
-      "scraped_time": "2026-10-15T15:30:30.308025+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Timberland"
-      ],
-      "keywords_matched": [
-        "hide"
-      ],
-      "relevance_score": 4,
-      "summary": "Name: Timberland x Jacquemus Authentic Boat ShoeColorway: Brown Croc, Navy CrocSKU: TBCMSRP: $320 USDRelease Date: Available NowWhere to Buy: Timberland, JacquemusTimberland and Jacquemus reunite to reinterpret the 3-Eye Classic Lug silhouette into a collaborative Authentic Boat Shoe – giving the heritage silhouette a more polished, tactile finish through crocodile-embossed leather. The limited-edition release arrives in two colorways - “Brown Croc” and “Navy Croc” - each built from Premium Timberland leather embossed to mimic the raised texture of exotic hide.\"Brown Croc\" leans into the shoe’s traditional outdoor roots with a warm, earthy tone, while \"Navy Croc\" offers a cooler, more refined alternative that shifts the familiar boat shoe into dressier territory. The embossed surface adds ",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "086ae8b1e98a",
-      "title": "Converse Japan’s All Star Westernstitch SU HI Is a Cowboy Boot in Disguise",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/10/converse-all-star-westernstitch-su-hi-black-tan-31319430-31319431-japan-release-info",
-      "original_publish_time": "2026-10-15T08:53:25+00:00",
-      "scraped_time": "2026-10-15T09:29:06.530287+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Converse"
-      ],
-      "keywords_matched": [
-        "boot",
-        "upper"
-      ],
-      "relevance_score": 6,
-      "summary": "Name: Converse All Star Westernstitch SU HIColorway: Tan, BlackSKU: 31319430, 31319431MSRP: ¥17,600 JPY (approx. $110 USD)Release Date: October 23Where to Buy: Converse JapanConverse Japan has unveiled the All Star Westernstitch SU HI, a pattern-reworked version of its signature high-top that blends western boot detailing with the brand’s updated renewal-spec construction. The shoe trades the classic canvas for a suede upper, steering the familiar silhouette toward ranch-ready territory while keeping its recognizable shape intact.The design centers on decorative stitching drawn from western boots, which Converse pairs with star motifs that tie back to the All Star name. That ornamentation sits on a full suede upper, giving the sneaker the softer texture and heftier look of a boot rather th",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "8f5a0bbecc9c",
-      "title": "OTW by Vans and Satoshi Nakamoto Unveil the Era 95 Gems",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/10/otw-by-vans-satoshi-nakamoto-era-95-gems-collaboration-release-info",
-      "original_publish_time": "2026-10-15T08:17:38+00:00",
-      "scraped_time": "2026-10-15T09:29:06.534515+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Vans"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "Summary OTW by Vans has reunited with Satoshi Nakamoto to introduce the collaborative Era 95 Gems silhouetteThe sneaker features a tearaway Navy canvas upper that exposes a classic checkerboard underlay alongside multicolor gemstones and exposed foamThe pair officially launches on Friday October 16 exclusively through the official OTW webstore OTW by Vans has officially revealed the collaborative Satoshi Nakamoto Era 95 Gems, extending its creative partnership through a raw, dystopian aesthetic lens. Built around experimentation and subversive design, the collaborative silhouette embraces natural wear and deliberate imperfection as central design elements.The shoe centers on a tearaway Navy canvas upper designed to erode with wear, gradually revealing a classic checkerboard pattern underla",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "8efe69dafbc9",
-      "title": "After Seven Years, the Nike Air Force 1 Low “What The LA” Has a Return Date",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/10/nike-air-force-1-what-the-la-ct1117-100-2026-re-release-info",
-      "original_publish_time": "2026-10-15T06:27:24+00:00",
-      "scraped_time": "2026-10-15T09:29:06.538845+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "Name: Nike Air Force 1 “What The LA”Colorway: White/Black-Hyper JadeSKU: CT1117-100MSRP: $125 USDRelease Date: October 22Where to Buy: NikeNike is reissuing the Air Force 1 Low “What The LA,” returning the deliberately mismatched pair to shelves for the first time since its 2019 debut. Dressed in an official White/Black-Hyper Jade colorway, the sneaker splits Los Angeles sports colors unevenly across the left and right shoes, keeping the original concept intact rather than updating it.The “What The” formula has been one of Nike’s most recognizable storytelling devices, built on the idea of remixing colors and materials from past releases into a single chaotic design. The concept traces back to the Nike SB Dunk Low “What The Dunk” in 2007, which stitched together elements from earlier SB Du",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "d0d639874196",
-      "title": "adidas Originals and Edison Chen Unveil the CLOT Superstar Collection",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/10/adidas-originals-edison-chen-clot-superstar-apparel-footwear-collection-release-info",
-      "original_publish_time": "2026-10-15T06:12:24+00:00",
-      "scraped_time": "2026-10-15T09:29:06.540471+00:00",
-      "time_delta_mins": 0,
-      "category": "Quality",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Summary adidas Originals and Edison Chen have officially introduced the adidas Originals x CLOT Superstar Collection featuring footwear and apparelThe lineup introduces a blue suede Superstar with sawtooth tooling a Superstar Mule and apparel referencing Chen's ties to Vancouver and Hong KongThe full collection releases globally on October 16 via the CONFIRMED app adidas.com and select retailers worldwide adidas Originals and Edison Chen have officially debuted the adidas Originals x CLOT Superstar Collection, delivering an expansive range of footwear and apparel. Woven with references to Chen's roots in Vancouver and Hong Kong, the latest partnership brings together distinct cultural motifs through a shared design lens.Footwear serves as the centerpiece of the capsule, delivering two dist",
       "ren_take": "",
       "image_url": ""
     }
