@@ -1,8 +1,28 @@
 {
-  "last_updated": "2026-10-22T20:34:56.713057+00:00",
-  "total_articles": 117,
+  "last_updated": "2026-10-23T01:31:20.748269+00:00",
+  "total_articles": 118,
   "sources_checked": 61,
   "articles": [
+    {
+      "id": "4621b8e826e8",
+      "title": "Hoka and Ugg Parent Deckers Brands Sees Shares Fall After Q2 Sales Miss",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/deckers-brands-deck-q2-2027-earnings-hoka-ugg-1239381979/",
+      "original_publish_time": "2026-10-22T20:44:25+00:00",
+      "scraped_time": "2026-10-23T01:20:00.919634+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Hoka",
+        "UGG"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "The company also cut its yearly sales guidance.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "5d7ddf47bfc3",
       "title": "Portland’s Deadstock Coffee Secures An adidas Adistar Control 5 Collaboration",
@@ -529,6 +549,25 @@
       ],
       "relevance_score": 3,
       "summary": "The Chelsea Market sale, which features 10,000 pairs of shoes from top brands, runs through Sunday.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "76d6385429f2",
+      "title": "Nigerian music star Burna Boy launches $180 sneakers with Federer-backed brand On - Billionaires.Africa",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNS1lEa0N5MDdGaVpNZmtPVV83aGtIcC1NanpVQVVQVmtNLUhIRHZqcUdOcDRXcnFtbmVXWW45QllHMWNLWUN6bzhSU21Qd0ZTNzVFS2pDUXdiME9kbXJpa0hWdDZNWUhObWdfZ3A4S0lVX180QndSZUc1WC1qMHFiR2NXYmQ3WWZaQktCd1BlZ2FFRnptcUNRMUFBY2h4dVlzS1k1S0xxSlhGbzU0aVZId01hZlF4QUg3NmYzajJIa0tFUQ?oc=5",
+      "original_publish_time": "2026-10-21T21:27:09+00:00",
+      "scraped_time": "2026-10-23T01:20:23.546020+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "Nigerian music star Burna Boy launches $180 sneakers with Federer-backed brand On Billionaires.Africa",
       "ren_take": "",
       "image_url": ""
     },
@@ -2412,27 +2451,6 @@
       ],
       "relevance_score": 3,
       "summary": "Balkh Shoe Factories Say Afghanistan Self-Sufficient in Footwear Production TOLOnews",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "fdfb2735826b",
-      "title": "Nike Covers Up The Rejuven8 For Winter",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/10/15/nike-rejuven8-wntr/",
-      "original_publish_time": "2026-10-15T21:00:22+00:00",
-      "scraped_time": "2026-10-16T01:03:40.608926+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "sole"
-      ],
-      "relevance_score": 3,
-      "summary": "Nike is coming for your closet space and aiming to dominate your rotation this winter. The latest edition of its SNKRS Verified programming is solely... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike Covers Up The Rejuven8 For Winter appeared first on Sneaker News . The post Nike Covers Up The Rejuven8 For Winter appeared first on Sneaker News .",
       "ren_take": "",
       "image_url": ""
     }
