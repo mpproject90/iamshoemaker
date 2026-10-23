@@ -1,8 +1,72 @@
 {
-  "last_updated": "2026-10-23T15:49:43.013547+00:00",
-  "total_articles": 118,
+  "last_updated": "2026-10-23T20:22:37.899102+00:00",
+  "total_articles": 117,
   "sources_checked": 61,
   "articles": [
+    {
+      "id": "647c8ecce5e6",
+      "title": "Zoë Kravitz Styles Two Popular Sneakers With the Outfit Formula All the New York Girls Are Wearing This Fall",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-trends/zoe-kravitz-adidas-new-balance-sneakers-new-york-die-alive-1239384120/",
+      "original_publish_time": "2026-10-23T19:53:03+00:00",
+      "scraped_time": "2026-10-23T20:11:13.232479+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Adidas",
+        "New Balance"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "She wore Adidas and New Balance sneakers on set.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "8760ceef0558",
+      "title": "Nike's Lovely Everyday Sneaker Hides a Rugged Secret",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-v5-rnr-ripstop/",
+      "original_publish_time": "2026-10-23T19:41:42+00:00",
+      "scraped_time": "2026-10-23T20:15:15.540454+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "hide"
+      ],
+      "relevance_score": 7,
+      "summary": "Nike's V5 RNR Ripstop sneaker is an rugged version of the everyday running-style sneaker, wrapped in a pretty \"Night Maroon\" colorway.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "aee86016e20e",
+      "title": "New Balance 990v7 Revealed In Black/Silver",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/10/23/new-balance-990v7-black-grey/",
+      "original_publish_time": "2026-10-23T18:00:22+00:00",
+      "scraped_time": "2026-10-23T20:11:24.614537+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "New Balance"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "We’re certainly used to footwear companies sinking a ton of resources into new product launches, but sometimes it’s worth all the pomp and circumstance. In... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post New Balance 990v7 Revealed In Black/Silver appeared first on Sneaker News . The post New Balance 990v7 Revealed In Black/Silver appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "2405cd9b89f9",
       "title": "This 95 Is a Footwear Fortress Built for Skateboarding",
@@ -2365,86 +2429,6 @@
       ],
       "relevance_score": 5,
       "summary": "The winter-ready Air Jordan 9 Retro boots return in a new \"Anthracite\" colorway alongside reflective details.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "b3891b376dbb",
-      "title": "Lil Yachty’s Nike Tech Collection Is Larger Than Life",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/10/lil-yachty-nike-tech-collection-info",
-      "original_publish_time": "2026-10-16T20:08:55+00:00",
-      "scraped_time": "2026-10-17T01:10:09.510291+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "Summary Lil Yachty’s first Nike apparel collab drops today, with an oversized Tech Fleece zip-up hoodie and below-the-knee shorts, both in black and navy, with heavyweight double-layer construction and Yachty branding.The raffle is for the Lil Yachty x Nike Tech Collection is exclusively available on yachty.shop. Lil Yachty’s first Nike apparel collaboration lands today, October 16, with a reworked take on the iconic Tech Fleece. Dubbed the “best-dressed rappers on the scene” by the brand, the lineup pushes proportions to the extreme in Yachty-style elevated basics, oversized silhouettes, and techy details.The collection features a Tech Fleece zip-up hoodie and 3/4-length shorts, both in black and navy colorways. Both pieces use an oversized fit, double-layer heavyweight construction, and ",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "7d3663011aa9",
-      "title": "Shoes for a Cure Unites Miami Community to Raise Money for Breast Cancer Research",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/shoes-for-a-cure-miami-design-district-mother-wolf-event-1239365061/",
-      "original_publish_time": "2026-10-16T19:46:07+00:00",
-      "scraped_time": "2026-10-16T19:47:31.480741+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "The third annual Miami Design District initiative brought supporters together at Mother Wolf Miami, and shopping events will continue this weekend.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "06c82dedc66e",
-      "title": "Nike’s All-Grey Air Max Is Practically Battle-Ready",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-air-max-moto-2k-cordura/",
-      "original_publish_time": "2026-10-16T18:46:48+00:00",
-      "scraped_time": "2026-10-16T19:51:26.222181+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "Nike's Air Max Moto 2K sneaker gets a Cordura update, resulting in a version that's equally stylish & rugged.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "58b3a4064a5f",
-      "title": "The Air Jordan 9 NRG Boot Returns In “Olive”",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/10/16/air-jordan-9-nrg-boot-olive-ar4491-012/",
-      "original_publish_time": "2026-10-16T16:00:44+00:00",
-      "scraped_time": "2026-10-16T19:47:42.395254+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike",
-        "Jordan"
-      ],
-      "keywords_matched": [
-        "boot",
-        "footwear"
-      ],
-      "relevance_score": 7,
-      "summary": "For footwear fans heavy into boots and workwear, Nike’s Holiday 2026 catalog is rife with standouts, headlined by a massive push for the Goadome Low,... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Air Jordan 9 NRG Boot Returns In \"Olive\" appeared first on Sneaker News . The post The Air Jordan 9 NRG Boot Returns In “Olive” appeared first on Sneaker News .",
       "ren_take": "",
       "image_url": ""
     }
