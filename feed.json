@@ -1,8 +1,107 @@
 {
-  "last_updated": "2026-10-23T09:49:36.311748+00:00",
-  "total_articles": 117,
+  "last_updated": "2026-10-23T15:49:43.013547+00:00",
+  "total_articles": 118,
   "sources_checked": 61,
   "articles": [
+    {
+      "id": "2405cd9b89f9",
+      "title": "This 95 Is a Footwear Fortress Built for Skateboarding",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/kyle-wilson-nike-sb-air-max-95/",
+      "original_publish_time": "2026-10-23T15:08:01+00:00",
+      "scraped_time": "2026-10-23T15:42:32.533798+00:00",
+      "time_delta_mins": 0,
+      "category": "Manufacturing",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 4,
+      "summary": "Following the silhouette's skate-tooling overhaul, the Swoosh teams up with London skater Kyle Wilson for the Kyle Wilson x Nike SB Air Max 95.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "3a48f1b2edb4",
+      "title": "Puma Taps Former Nike, The North Face Exec as Its New Chief Commercial Officer",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/puma-chief-commercial-officer-arne-arens-1239383470/",
+      "original_publish_time": "2026-10-23T14:21:41+00:00",
+      "scraped_time": "2026-10-23T15:38:43.228099+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Puma"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "He will oversee the company's sales activities across all channels and markets worldwide.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "752af7442e79",
+      "title": "Kering reports lacklustre revenues as Gucci continues to drag",
+      "source_name": "Drapers",
+      "source_domain": "drapersonline.com",
+      "source_url": "https://www.drapersonline.com/news/kering-reports-lacklustre-revenues-as-gucci-continues-to-drag",
+      "original_publish_time": "2026-10-23T12:26:12+00:00",
+      "scraped_time": "2026-10-23T15:41:50.779814+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Gucci",
+        "Alexander McQueen"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "Drapers Kering reports lacklustre revenues as Gucci continues to drag Group revenue at Gucci and Alexander McQueen owner Kering was down 1% year on year on a comparable basis to €3.35bn (£2.82bn) in the third quarter to 30 September, as Gucci fell 6% and weakened Chinese demand hit the Asia-Pacific region. The post Kering reports lacklustre revenues as Gucci continues to drag appeared first on Drapers .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "2b30439b6828",
+      "title": "4 Female-Founded Luxury Labels Behind Fall’s Most-Wanted Shoes",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-features/female-founded-luxury-shoe-brands-1239335884/",
+      "original_publish_time": "2026-10-23T12:00:00+00:00",
+      "scraped_time": "2026-10-23T15:38:43.230441+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "Aeyde, Christen, Jude and Paris Texas are transforming the luxury shoe market with beautifully constructed and innovative designs by women, for women.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "302e6646f83a",
+      "title": "Kering revenue dips as Gucci struggles",
+      "source_name": "Ecotextile News",
+      "source_domain": "ecotextile.com",
+      "source_url": "https://www.ecotextile.com/2026102366690/radar/kering-revenue-dips-as-gucci-struggles/",
+      "original_publish_time": "2026-10-23T11:53:04+00:00",
+      "scraped_time": "2026-10-23T15:40:54.888115+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Gucci"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "Kering has reported third-quarter revenue of €3,345 million ($3.9 billion), stable as reported but down 1% on a comparable basis. […] The post Kering revenue dips as Gucci struggles appeared first on Ecotextile News .",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "0655e571f3ea",
       "title": "ARC’TERYX’s Postour Boot Hides a Slipper Inside a GORE-TEX Shell",
@@ -1820,6 +1919,25 @@
       "image_url": ""
     },
     {
+      "id": "74f9121576ec",
+      "title": "Balkh Shoe Factories Say Afghanistan Self-Sufficient in Footwear Production - TOLOnews",
+      "source_name": "Google News - Shoe Manufacturing",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8yM0JSOW01eHJrcFVfQnl4UnVNTFYzaUMyNFVWY2FUbFcxLTdIQUthVmIxcG9zWEY3UWNYVWt2UWlyZzRrMUVOZWktZWFpSXFJNWc?oc=5",
+      "original_publish_time": "2026-10-19T04:21:07+00:00",
+      "scraped_time": "2026-10-23T15:39:06.204484+00:00",
+      "time_delta_mins": 0,
+      "category": "Manufacturing",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Balkh Shoe Factories Say Afghanistan Self-Sufficient in Footwear Production TOLOnews",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
       "id": "6eb9e5edf4ec",
       "title": "Everyone Knows Italian Shoes. But Portugal Is a Footwear Powerhouse, Too. - Men's Journal",
       "source_name": "Google News - Footwear Industry",
@@ -2327,107 +2445,6 @@
       ],
       "relevance_score": 7,
       "summary": "For footwear fans heavy into boots and workwear, Nike’s Holiday 2026 catalog is rife with standouts, headlined by a massive push for the Goadome Low,... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Air Jordan 9 NRG Boot Returns In \"Olive\" appeared first on Sneaker News . The post The Air Jordan 9 NRG Boot Returns In “Olive” appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "1344b820512a",
-      "title": "Merrell Taps Harris Tweed for a Handwoven Footwear Collection",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/10/merrell-harris-tweed-collection-collaboration-release-relay-lace-se-j00005589-j00005590-moab-2-slide-se-j00005588-jungle-moc-j00005586-cham-redux-se-j00005585-release-info",
-      "original_publish_time": "2026-10-16T15:07:53+00:00",
-      "scraped_time": "2026-10-16T19:47:42.215774+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Merrell"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 6,
-      "summary": "Name: Merrell x Harris Tweed Collection\\MSRP: $130 - $190 USDRelease Date: Available NowWhere to Buy: MerrellMerrell brings Harris Tweed into its outdoor archive with a limited-edition collection spanning the Chameleon Redux SE, Jungle Moc, Moab 2 Slide SE and Relay Lace SE, with the latter offered in both men’s and women’s sizing.Made from pure new wool in Scotland’s Outer Hebrides, the fabric is fibre-dyed and spun on the islands before being handwoven by local craftspeople, with its layered coloration drawing inspiration from the region’s heathers, mosses, lochs and rugged Atlantic landscape. The entire range is unified in a single “Dark Walnut” colorway, allowing the construction and texture of the handwoven Scottish cloth to become the defining visual element. Deep brown leather and r",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "29980bca0b33",
-      "title": "Inside the Creative World of Dr. Martens Bouncing Soles With Sophia Wilson",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/10/dr-martens-sophia-wilson-bouncing-soles-event-recap",
-      "original_publish_time": "2026-10-16T15:06:27+00:00",
-      "scraped_time": "2026-10-16T19:47:42.217469+00:00",
-      "time_delta_mins": 0,
-      "category": "Trade Data",
-      "brands_mentioned": [
-        "Dr. Martens"
-      ],
-      "keywords_matched": [
-        "sole"
-      ],
-      "relevance_score": 5,
-      "summary": "WHAT MAKES YOUR SOUL BOUNCE?The CreativeWorld ofDr. MartensBouncing SolesWithSophia WilsonSeen on every Dr. Martens heel loop, “With Bouncing Soles” has gone from referencing its trademark air-cushioned sole to encompassing the countless communities who wear their Docs to express their individuality.The defining slogan now headlines a new global platform exploring how it has transcended meaning in culture. To celebrate its launch, the brand joined photographer and visual artist Sophia Wilson for a special New York City event. The Bouncing Soles experience spotlighted her unique creative voice and how she stays inspired through style, girlhood, and an overarching sense of togetherness.In a look back at the event, Hypebeast dives into her story in dedicated chapters. Resonating with many oth",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "096f5083d0f7",
-      "title": "Nike Basketball Goes Trick-Or-Treating With Ten Signature Athletes",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/10/16/nike-basketball-halloween-2026/",
-      "original_publish_time": "2026-10-16T14:15:39+00:00",
-      "scraped_time": "2026-10-16T15:15:21.596075+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Nike Basketball is getting into the Halloween spirit in a big way this October, assembling an extensive collection of signature footwear inspired by everything from... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike Basketball Goes Trick-Or-Treating With Ten Signature Athletes appeared first on Sneaker News . The post Nike Basketball Goes Trick-Or-Treating With Ten Signature Athletes appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "12eda0f009a1",
-      "title": "Footwear Manufacturing Plant Setup in India - IMARC Group",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPM1o4OF90cG0zTUdBWk9UTDh2YWdCS0VZTXlZWGZPOE85TmtRYzROS3pwVFZjQTJUVUNvRXlHaWZ3U1E1VHB5MGJSMDZweWlEMjdTb1NGOXpuTEVrLU13Y3I1TVdWdzdPVDJXdmRFTXpkRU5MNkcxOHNqS05jbEFHOGdFbmxUeUE?oc=5",
-      "original_publish_time": "2026-10-16T11:59:16+00:00",
-      "scraped_time": "2026-10-16T15:15:32.677234+00:00",
-      "time_delta_mins": 0,
-      "category": "Manufacturing",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Footwear Manufacturing Plant Setup in India IMARC Group",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "08668d37de2a",
-      "title": "Nike’s Split-Toe Air Rift Sneaker Is All Meshed Up",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-air-rift-sneaker-mesh-black/",
-      "original_publish_time": "2026-10-16T10:58:00+00:00",
-      "scraped_time": "2026-10-16T15:19:03.694630+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "Nike's breathable toe-hugging Air Rift sneaker is celebrating 30 years by acting brand new.",
       "ren_take": "",
       "image_url": ""
     }
