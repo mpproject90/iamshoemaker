@@ -1,8 +1,29 @@
 {
-  "last_updated": "2026-10-24T14:28:55.824713+00:00",
-  "total_articles": 114,
+  "last_updated": "2026-10-24T19:23:47.072003+00:00",
+  "total_articles": 112,
   "sources_checked": 61,
   "articles": [
+    {
+      "id": "bdea998a68ae",
+      "title": "Melitta Baumeister Took Nike's Weirdest Toe Shoe & Freaked It",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/melitta-baumeister-nike-air-rift-rocker/",
+      "original_publish_time": "2026-10-24T18:45:30+00:00",
+      "scraped_time": "2026-10-24T19:16:37.047780+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sole"
+      ],
+      "relevance_score": 3,
+      "summary": "Melitta Baumeister is back with another strangely cool Nike sneaker: an Air Rift Rocker collab featuring chunky clay soles.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "c8742d130238",
       "title": "Burna Boy and On Debut First Collaborative Sneakers",
@@ -2308,65 +2329,6 @@
       ],
       "relevance_score": 4,
       "summary": "Bangladesh ranked as the world’s seventh‑largest footwear producer in 2025, manufacturing about 554 million pairs of shoes. The country accounted for 2.3% of global production, according to the World...",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "07fb1f5e05e1",
-      "title": "Nike's Slimed-Out “Nocturnal” AF1 Skate Shoes Are Good (x2)",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-sb-air-force-1-cool-grey-court-green/",
-      "original_publish_time": "2026-10-17T18:49:35+00:00",
-      "scraped_time": "2026-10-17T19:03:30.062455+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 5,
-      "summary": "Nike SB's dropping a second unbranded version of the Nocturnal Air Force 1 skate shoe collab. And it's just as good as the original.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "dd4e9a0df3e7",
-      "title": "Nike Unveils Its Latest Limited-edition Doernbecher Freestyle Collection Featuring Air Maxes, Air Force 1s, Air Jordans and More",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-doernbecher-freestyle-22-collection-release-date-1239371465/",
-      "original_publish_time": "2026-10-17T15:20:49+00:00",
-      "scraped_time": "2026-10-17T18:59:46.875179+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 4,
-      "summary": "See the full lineup here.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "6c0a66dcebc2",
-      "title": "Wale Named Chief Creative Officer and Co-Owner of Sneaker Preservation Company CapSole - Complex",
-      "source_name": "Google News - Sneaker Brand",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVU02aHRVTklsNzhBNnRnVFlHa3owUF9WVjFTTTBTVjhtNS10cEl1My05QXRsQmR6UjU4MlpNYXJIT1ptRUx1WWlUTDZJXzFhR1VaRFJNWjhLeERqZE5WR3B2dEdBTXNON3NtMjZHZDU0NDZiUGFiTlhTaTg4RFZieFNOaGpuMFNhYXNjUllwLTZKNURt?oc=5",
-      "original_publish_time": "2026-10-17T15:04:41+00:00",
-      "scraped_time": "2026-10-18T00:43:21.561436+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "sole"
-      ],
-      "relevance_score": 3,
-      "summary": "Wale Named Chief Creative Officer and Co-Owner of Sneaker Preservation Company CapSole Complex",
       "ren_take": "",
       "image_url": ""
     }
