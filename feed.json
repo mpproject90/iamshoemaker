@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-24T09:22:00.357065+00:00",
-  "total_articles": 116,
+  "last_updated": "2026-10-24T14:28:55.824713+00:00",
+  "total_articles": 114,
   "sources_checked": 61,
   "articles": [
     {
@@ -2367,47 +2367,6 @@
       ],
       "relevance_score": 3,
       "summary": "Wale Named Chief Creative Officer and Co-Owner of Sneaker Preservation Company CapSole Complex",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "e409940977b2",
-      "title": "Allow Nike’s Portal Air Max to Take Us to Another Planet",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-air-max-portal-black/",
-      "original_publish_time": "2026-10-17T10:58:00+00:00",
-      "scraped_time": "2026-10-17T14:08:09.563105+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Nike's blacked-out Air Max Portal transports sneaker stans to a world of timeless footwear.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "f99c42630cbc",
-      "title": "Vietnam's footwear industry has conquered the domestic market worth approximately $1.5 billion. - Vietnam.vn",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOS0VsN19ualZ3bVJac3JJczMwbVpIZXpMc0lMYjFDY1NLamhKb1BhQUFraXdDNVFHeFJDNy02THVfem5SRHJhS2NuNS1zdjBRZW90c2VyN1NlN0hGSFhxWExRTWxVTlVWVkJBVDZQbEUwbGRIZVY0TUJRS01JU0ZfVkV4TFlnOTBjV1B0UDR4cGFmc0paQ3lLTFI0Ynl3WElsUjVMVHVn?oc=5",
-      "original_publish_time": "2026-10-17T09:23:46+00:00",
-      "scraped_time": "2026-10-17T14:04:52.453664+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "footwear industry"
-      ],
-      "relevance_score": 6,
-      "summary": "Vietnam's footwear industry has conquered the domestic market worth approximately $1.5 billion. Vietnam.vn",
       "ren_take": "",
       "image_url": ""
     }
