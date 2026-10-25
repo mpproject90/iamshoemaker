@@ -1,8 +1,89 @@
 {
-  "last_updated": "2026-10-25T15:02:37.115419+00:00",
-  "total_articles": 120,
+  "last_updated": "2026-10-25T19:37:01.225860+00:00",
+  "total_articles": 117,
   "sources_checked": 61,
   "articles": [
+    {
+      "id": "563e88004f39",
+      "title": "Nike’s Saucy Leather Air Max Is Straight from Italy",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-air-max-95-lux-one-block-down/",
+      "original_publish_time": "2026-10-25T18:38:19+00:00",
+      "scraped_time": "2026-10-25T19:29:46.236497+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "Nike's Air Max 95 Lux sneaker returns as a One Block Down collaboration for 2026, landing with the signature leather uppers plus some OBD twists.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "91b99e48ae93",
+      "title": "Nike’s Weatherized Forces Bring the Thunder During a Winter Storm",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-air-force-1-gore-tex-vibram-thunder-blue/",
+      "original_publish_time": "2026-10-25T17:52:19+00:00",
+      "scraped_time": "2026-10-25T19:29:46.237042+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Vibram"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "Nike's winter-ready Air Force 1 Low sneaker brings GORE-TEX, Vibram, & a tonal \"Thunder Blue\" colorway to the cold-weather season.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "62a7c3fefbc1",
+      "title": "Mephisto’s Beloved ‘Rolls-Royce of Shoes’ Is Getting a New Limited-edition Collaboration With a Legendary Retailer",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/mister-mort-tip-top-shoes-mephisto-match-release-date-1239385483/",
+      "original_publish_time": "2026-10-25T17:50:23+00:00",
+      "scraped_time": "2026-10-25T19:25:58.835999+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Mephisto"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 5,
+      "summary": "Menswear stylist and consultant Mister Mort is also involved in the tri-branded project.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "64cfbcc32de7",
+      "title": "Nike Ruggedized an Everyday Shoe. Now, It's a Military-Coded Flex",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-zoom-vomero-5-cordura-camo-green/",
+      "original_publish_time": "2026-10-25T17:07:03+00:00",
+      "scraped_time": "2026-10-25T19:29:46.237541+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "Nike's Zoom Vomero 5 Cordura sneaker receives a \"Camo Green\" makeover. Now, it's even more military-minded.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "9cc390951b88",
       "title": "From the Archive: Stylish Boots to Make Any Witch Costume Halloween-Ready",
@@ -2343,153 +2424,6 @@
       ],
       "relevance_score": 6,
       "summary": "Argentina’s footwear industry faces deepening crisis World Footwear",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "a408641e9ce4",
-      "title": "New Balance’s Split-Tone Dad Shoes Are Part Gorgon, All Clean",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/new-balance-992-medusa-green/",
-      "original_publish_time": "2026-10-18T18:53:14+00:00",
-      "scraped_time": "2026-10-18T19:15:51.397085+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [
-        "New Balance"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 5,
-      "summary": "New Balance's 992 \"Medusa Green\" brings a mythological colorway to the brand's Made in USA dad shoe model. Here's everything on the release.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "57099b844f69",
-      "title": "Nike’s Fanciest Forces Refuse to Clock Out",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-air-force-1-luxe-sneakers/",
-      "original_publish_time": "2026-10-18T18:13:17+00:00",
-      "scraped_time": "2026-10-18T19:15:51.397565+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "boot",
-        "sneakers",
-        "sole",
-        "upper"
-      ],
-      "relevance_score": 6,
-      "summary": "Nike's black Air Force 1 Luxe sneakers return with their elegant leather uppers & outdoor boot-style soles. It's fancy but it's still on the clock.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "e73db4c7f276",
-      "title": "The Nike Air Max 90 Erupts In “Geyser Grey”",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/10/18/nike-air-max-90-geyser-grey-thunder-blue-hq3817-094/",
-      "original_publish_time": "2026-10-18T18:00:30+00:00",
-      "scraped_time": "2026-10-18T19:12:15.108757+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "There are shoes that make headlines, and there are shoes that make money. Despite sitting behind the Air Max 95 in the former category (at... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Nike Air Max 90 Erupts In \"Geyser Grey\" appeared first on Sneaker News . The post The Nike Air Max 90 Erupts In “Geyser Grey” appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "e926e3cc6147",
-      "title": "Nike’s Ruggedized Air Max Is a Military-Minded Gem",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-air-max-moto-2k-cordura-medium-ash/",
-      "original_publish_time": "2026-10-18T17:28:16+00:00",
-      "scraped_time": "2026-10-18T19:15:51.397910+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 4,
-      "summary": "Nike's Air Max Moto 2K Cordura \"Medium Ash\" sneaker is a stylishly rugged revival dressed in military clothes, essentially.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "ac4bb50193a3",
-      "title": "Nike's Insane ACG-Hoops Crossover Returns to the Streets",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-acg-air-max-foamdome/",
-      "original_publish_time": "2026-10-18T16:53:51+00:00",
-      "scraped_time": "2026-10-18T19:15:51.398240+00:00",
-      "time_delta_mins": 0,
-      "category": "Manufacturing",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 3,
-      "summary": "Nike's ACG Air Max Foamdome sneaker-boots are back in action, returning in the famous \"Eggplant\" colorway for Fall 2026.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "9542ec5030ce",
-      "title": "Nike Halloween, JJJJound New Balance 990v3, And This Week’s Best Releases",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/10/18/sneaker-releases-october-18-24-2026/",
-      "original_publish_time": "2026-10-18T16:00:17+00:00",
-      "scraped_time": "2026-10-18T19:12:15.200285+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike",
-        "New Balance"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 4,
-      "summary": "Costume purchased? Tickets secured? Function RVSPed to? Then you’ve only got one step left — securing your pair of Halloween kicks to match. Yes, the dominant theme... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike Halloween, JJJJound New Balance 990v3, And This Week's Best Releases appeared first on Sneaker News . The post Nike Halloween, JJJJound New Balance 990v3, And This Week’s Best Releases appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "86416f024671",
-      "title": "Timberland’s New Limited-edition Gore-Tex Boot Is Getting One More Release",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/victor-kan-timberland-euro-hiker-gore-tex-release-date-1239372471/",
-      "original_publish_time": "2026-10-18T15:18:30+00:00",
-      "scraped_time": "2026-10-18T19:12:04.248561+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Timberland"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 5,
-      "summary": "Find the full details on the Victor Kan x Timberland Euro Hiker with Gore-Tex launch.",
       "ren_take": "",
       "image_url": ""
     }
