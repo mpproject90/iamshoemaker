@@ -1,8 +1,70 @@
 {
-  "last_updated": "2026-10-24T19:23:47.072003+00:00",
-  "total_articles": 112,
-  "sources_checked": 61,
+  "last_updated": "2026-10-25T01:05:37.380121+00:00",
+  "total_articles": 116,
+  "sources_checked": 60,
   "articles": [
+    {
+      "id": "587bf025508e",
+      "title": "Nike’s Hardy Air Force 1 Boot Is Back from Space",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-lunar-force-1-boot/",
+      "original_publish_time": "2026-10-24T22:41:02+00:00",
+      "scraped_time": "2026-10-25T00:58:28.114171+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 5,
+      "summary": "Nike's Lunar Force 1 duck boots return with its signature winter-ready details & a new \"Iron Grey\" colorway for the rotation.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "107458d04798",
+      "title": "New Balance’s \"Dunk\" Skate Shoes Turned Into Beautiful Unicorns",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/focus-new-balance-numeric-480/",
+      "original_publish_time": "2026-10-24T22:32:40+00:00",
+      "scraped_time": "2026-10-25T00:58:28.112553+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "New Balance"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 5,
+      "summary": "Focus transforms the New Balance Numeric 480 into a totally Scottish skate shoe featuring unicorn details & other nods to the country.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "676ca382e05d",
+      "title": "This Retro Rerun Inspired the YEEZY 500",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/gdlp-adidas-intimidation/",
+      "original_publish_time": "2026-10-24T21:23:01+00:00",
+      "scraped_time": "2026-10-25T00:58:28.113429+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Adidas",
+        "Yeezy"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "São Paulo's Guadalupe Store locks in for one of the most compelling adidas drops in a long time. Say hello to the GDLP x adidas Intimidation.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "bdea998a68ae",
       "title": "Melitta Baumeister Took Nike's Weirdest Toe Shoe & Freaked It",
@@ -541,6 +603,25 @@
       ],
       "relevance_score": 3,
       "summary": "Brand Information: Established in 1947 by François Salomon in Annecy, France, Salomon Advanced is well-known for its outdoor products, in particular, those for mountain sports and outdoor adventures. At Salomon Advanced, even the finest materials are subjected to vigorous performance tests. Quality speaks for itself, their technically professional footwear is favored by runners, skiers, hikers, and fashion lovers alike. Salomon has also collaborated with Japanese fashion brands like, 11 By Boris Bidjan Saberi, and wander, and BEAMS.Price Range: $115.00 USD - $415.00 USDWhere to Buy: Available now on HBX Click here to view full gallery at Hypebeast",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "787eb94831b8",
+      "title": "Wale Named Chief Creative Officer and Co-Owner of Sneaker Company CapSole - Yahoo",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU0R4OU1PQVF1MnBoWVBoaloxM0VSRnFZMmZMUVFmcVNTeHNScHhRZDFmM1gwejFXQWdIZkJCeXBaeXByZDNGMnJJRnJCaHhObnFtTkZTZXpxRUp2OXhZVGJnRm5hY2c1ZkFyLTVKOUhnb0lGazNuUXNuMlpRN1NRZkZDbWRMXzBkS2p6NzFGM3ZDWGlycmFhMmM5Q1l5TUVMVkVFOW93?oc=5",
+      "original_publish_time": "2026-10-22T15:04:41+00:00",
+      "scraped_time": "2026-10-25T00:54:56.017383+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sole"
+      ],
+      "relevance_score": 3,
+      "summary": "Wale Named Chief Creative Officer and Co-Owner of Sneaker Company CapSole Yahoo",
       "ren_take": "",
       "image_url": ""
     },
