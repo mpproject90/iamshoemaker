@@ -1,8 +1,28 @@
 {
-  "last_updated": "2026-10-25T09:39:08.954663+00:00",
+  "last_updated": "2026-10-25T15:02:37.115419+00:00",
   "total_articles": 120,
   "sources_checked": 61,
   "articles": [
+    {
+      "id": "9cc390951b88",
+      "title": "From the Archive: Stylish Boots to Make Any Witch Costume Halloween-Ready",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-features/halloween-ready-stylish-boots-witch-costume-1239383852/",
+      "original_publish_time": "2026-10-25T13:00:00+00:00",
+      "scraped_time": "2026-10-25T14:51:34.105349+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "boot",
+        "shoes"
+      ],
+      "relevance_score": 4,
+      "summary": "Halloween's favorite classic costume — the witch — gets a wickedly chic finish with these shoes and boots from the runway.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "4da0caaf03ad",
       "title": "Kojima Productions x F.C.Real Bristol Teases a Collab That Puts Hideo Kojima’s Studio on the Pitch",
@@ -2470,26 +2490,6 @@
       ],
       "relevance_score": 5,
       "summary": "Find the full details on the Victor Kan x Timberland Euro Hiker with Gore-Tex launch.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "bb3324960175",
-      "title": "Bangladesh ranks seventh in global footwear production with 554mn pairs",
-      "source_name": "Textile Today",
-      "source_domain": "textiletoday.com.bd",
-      "source_url": "https://textiletoday.com.bd/bangladesh-ranks-seventh-in-global-footwear-production-with-554mn-pairs",
-      "original_publish_time": "2026-10-18T12:40:00+00:00",
-      "scraped_time": "2026-10-18T14:25:29.607222+00:00",
-      "time_delta_mins": 0,
-      "category": "Manufacturing",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "shoes"
-      ],
-      "relevance_score": 4,
-      "summary": "Bangladesh ranked as the world’s seventh‑largest footwear producer in 2025, manufacturing about 554 million pairs of shoes. The country accounted for 2.3% of global production, according to the World...",
       "ren_take": "",
       "image_url": ""
     }
