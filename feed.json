@@ -1,8 +1,49 @@
 {
-  "last_updated": "2026-10-25T19:37:01.225860+00:00",
-  "total_articles": 117,
+  "last_updated": "2026-10-26T01:13:37.344440+00:00",
+  "total_articles": 118,
   "sources_checked": 61,
   "articles": [
+    {
+      "id": "382cec20400f",
+      "title": "Spanish footwear exports edge up by 0.8% in the first seven months - World Footwear",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNnJZdHRJYnRhTUtrXzYzeUVyM3FtMllzZWVlOGM3T19GbXd3d3NIX0thSmc0ZGpJSDF3cHVUNFBscDVQM0Z2RnZUUTVBX0l5QWVLdzJFWm9iRHVDNFhwNmhYZ1BGNnlITkhTV1ktbzI0dTFiRXBvZVVheWJzUjA4cENDWG9oVnlVM3hZTF8yYWF3ekxaUEdkNFNJd3NXajJnWDhDU2VmdWlTMklKYm5n?oc=5",
+      "original_publish_time": "2026-10-26T00:02:34+00:00",
+      "scraped_time": "2026-10-26T01:02:54.616454+00:00",
+      "time_delta_mins": 0,
+      "category": "Trade Data",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "footwear exports"
+      ],
+      "relevance_score": 6,
+      "summary": "Spanish footwear exports edge up by 0.8% in the first seven months World Footwear",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "e4b45d1b813f",
+      "title": "GORE-TEX Uppers Make This New Balance 2010 A Perfect Winter Beater",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/10/25/new-balance-2010-gore-tex-black-field-green-u20105is/",
+      "original_publish_time": "2026-10-25T20:00:02+00:00",
+      "scraped_time": "2026-10-26T01:02:43.707373+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "New Balance"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 5,
+      "summary": "Winter is coming, and sneaker brands are getting their ducks in a row with weatherproofed takes on some of their foremost lifestyle offerings. For New... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post GORE-TEX Uppers Make This New Balance 2010 A Perfect Winter Beater appeared first on Sneaker News . The post GORE-TEX Uppers Make This New Balance 2010 A Perfect Winter Beater appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "563e88004f39",
       "title": "Nike’s Saucy Leather Air Max Is Straight from Italy",
@@ -2404,26 +2445,6 @@
       ],
       "relevance_score": 6,
       "summary": "Everyone Knows Italian Shoes. But Portugal Is a Footwear Powerhouse, Too. Men's Journal",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "1414007add6c",
-      "title": "Argentina’s footwear industry faces deepening crisis - World Footwear",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOY0dfT3NFUGtlUTJkc1FWQzJrMEVFV0NlS0RpSUlDVC1ZYkRUOVNDTmtTaFZYdTVvNkVSWTJLajJHYUNORWNub2dDbzgtSlNNZzZXbmFRV00zSzBtNU1taF9wNmt4QXZLZk5XUXJiSGg5M0Q1MEFkUDFZU1FJd0pOSE5ENTBmcmg1SUQxalN2VUVDQUJsd05wa25MSm1TUQ?oc=5",
-      "original_publish_time": "2026-10-18T23:03:42+00:00",
-      "scraped_time": "2026-10-19T00:56:31.279014+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "footwear industry"
-      ],
-      "relevance_score": 6,
-      "summary": "Argentina’s footwear industry faces deepening crisis World Footwear",
       "ren_take": "",
       "image_url": ""
     }
