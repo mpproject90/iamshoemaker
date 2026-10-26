@@ -1,8 +1,150 @@
 {
-  "last_updated": "2026-10-26T17:19:12.857684+00:00",
-  "total_articles": 113,
-  "sources_checked": 60,
+  "last_updated": "2026-10-26T21:28:54.932844+00:00",
+  "total_articles": 114,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "2a86e6fe2d89",
+      "title": "What’s Weighing on Yue Yuen as Shoe Manufacturing Giant Issues Profit Warning",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/shoe-maker-yue-yuen-profit-decline-nine-months-warning-1239386451/",
+      "original_publish_time": "2026-10-26T20:26:18+00:00",
+      "scraped_time": "2026-10-26T21:17:57.642566+00:00",
+      "time_delta_mins": 0,
+      "category": "Manufacturing",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoe manufacturing"
+      ],
+      "relevance_score": 3,
+      "summary": "Taiwanese shoe manufacturer Yue Yuen said it expects a profit decline of between 50 percent to 55 percent for the nine months ended Sept. 30, 2026.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "bd61dde417d7",
+      "title": "Official Images Have Finally Landed for the Return of One of Michael Jordan’s Most Heralded Game Sneakers",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/air-jordan-6-white-infrared-release-date-ct8529-105-2-1239386498/",
+      "original_publish_time": "2026-10-26T19:44:06+00:00",
+      "scraped_time": "2026-10-26T21:17:57.644724+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Jordan"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "The Air Jordan 6 White/Infrared is set to release in early November.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "36671cd029be",
+      "title": "Nike's Slick Foamposite Dad Sneaker Is Outdoor-Ready",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-air-max-goadome-low-foamposite/",
+      "original_publish_time": "2026-10-26T19:05:39+00:00",
+      "scraped_time": "2026-10-26T21:21:41.648525+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 3,
+      "summary": "Nike's Air Max Goadome Low Foamposite sneaker-boot lands in the classic \"Metallic Gold\" colorway for its debut release.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "9e970cb84b45",
+      "title": "Amer Sports Leads Athletic Footwear This Holiday Season as Others Struggle, Bank of America Says",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/nike-lululemon-athletic-footwear-holiday-off-price-salomon-1239385565/",
+      "original_publish_time": "2026-10-26T18:57:21+00:00",
+      "scraped_time": "2026-10-26T21:17:57.645249+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "athletic footwear",
+        "footwear"
+      ],
+      "relevance_score": 9,
+      "summary": "Nike and Lululemon will see challenges this holiday season, while Amer Sports and off-price are the big winners, says Bank of America.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "f9e3127bff0d",
+      "title": "Brazil’s footwear sector bets on Mercosur-EU deal - Agência de Notícias Brasil-Árabe - ANBA",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5aUnlacmJKcVhadE5vOFV5RjMweUc0NXJPOVJFd2c1am1uTWItUm0xUTZDS2NUd01SZXMtV1IwR0FzVUo1cjhDcGFJc2QwRDcyN3hZQXJLNld0OHl2enc1RkJTRnc3TUNvb1d5VlY0SkZLZTZpemVmWHZGZHQ?oc=5",
+      "original_publish_time": "2026-10-26T18:55:19+00:00",
+      "scraped_time": "2026-10-26T21:18:19.633571+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Brazil’s footwear sector bets on Mercosur-EU deal Agência de Notícias Brasil-Árabe - ANBA",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "b5cdfc784083",
+      "title": "ASICS Is Building Their Future Of Footwear With The University Of Michigan",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/10/26/asics-institute-of-sport-science-america-university-of-michigan/",
+      "original_publish_time": "2026-10-26T18:00:21+00:00",
+      "scraped_time": "2026-10-26T21:18:08.702826+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [
+        "ASICS"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 5,
+      "summary": "In 1935, Ann Arbor was where Jesse Owens laced up his track spikes and broke three world records in track and field. In 2007, former... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post ASICS Is Building Their Future Of Footwear With The University Of Michigan appeared first on Sneaker News . The post ASICS Is Building Their Future Of Footwear With The University Of Michigan appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "99cea877bf70",
+      "title": "Our Legacy Teases First Collaboration With Nike",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/10/26/our-legacy-nike-2027/",
+      "original_publish_time": "2026-10-26T17:42:58+00:00",
+      "scraped_time": "2026-10-26T21:18:08.704078+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "Swedish menswear label Our Legacy is officially joining forces with Nike, announcing its first collaboration with the Swoosh through a cryptic Instagram teaser that suggests... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Our Legacy Teases First Collaboration With Nike appeared first on Sneaker News . The post Our Legacy Teases First Collaboration With Nike appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "fc72d58cb1bd",
       "title": "The Apartment Brings The “Kingfisher” To Life On The New Balance 2010",
@@ -2224,132 +2366,6 @@
       ],
       "relevance_score": 6,
       "summary": "Portuguese footwear industry launches Kindness campaign World Footwear",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "97b3fa527a72",
-      "title": "Union Loosened up the Nike Dunk. Now, It’s a Tasteful Slip-on",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/union-nike-dunk-shoes-2026/",
-      "original_publish_time": "2026-10-19T21:17:10+00:00",
-      "scraped_time": "2026-10-19T21:23:13.755754+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "Union Los Angeles has designed supple suede Nike Dunk sneakers for its 2026 collaboration. Spoiler: they also slip-ons.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "d4608cca72ab",
-      "title": "Nike’s Nailed-Down Air Force 1 Is a Real Hellraiser",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-air-force-1-nightmare/",
-      "original_publish_time": "2026-10-19T21:05:55+00:00",
-      "scraped_time": "2026-10-19T21:23:13.756507+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "Nike's Air Force 1 '01 \"Nightmare\" is a Halloween-themed sneaker featuring nailed-down uppers inspired by Hellraiser's Pinhead.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "ab4b573a8b67",
-      "title": "Ja Morant’s Annual Zombie Nike Sneakers Will Usher in His First High-top",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-ja-4-high-zombie-release-date-iq3864-600-1239375399/",
-      "original_publish_time": "2026-10-19T20:57:58+00:00",
-      "scraped_time": "2026-10-19T21:19:24.468687+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 5,
-      "summary": "The Nike Ja 4 High \"Zombie\" bucks the trend of basketball largely moving away from high-tops.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "d1ba3303d784",
-      "title": "2026-27 NBA Season Signature Sneakers by Team - Sole Retriever",
-      "source_name": "Google News - Sneaker Brand",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUk8zU1YwT3BBRWJWaHlCWHBacnI4RG80dlV1ZDhRV2xXNUdGQXI4clVCM1kwWnlWdERWa0dxeWdvdnM3dDRnNmJURnM3UWxpOG9TbTBFRGtkQ1BhQ2xmb29ldnYwUVdINmxzcmEwNk5OT0JxVXRPMDdVb195Y3BPN1FSYjYyakd6Nkp3V0FDRzhtNXM?oc=5",
-      "original_publish_time": "2026-10-19T20:30:18+00:00",
-      "scraped_time": "2026-10-22T09:42:35.532111+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "sneakers",
-        "sole"
-      ],
-      "relevance_score": 6,
-      "summary": "2026-27 NBA Season Signature Sneakers by Team Sole Retriever",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "ef66aaad9956",
-      "title": "MM6 Maison Margiela & Salomon Unveil 8-Pack FW26 Collection",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/10/mm6-maison-margiela-salomon-unveil-8-pack-fw26-collection",
-      "original_publish_time": "2026-10-19T18:51:48+00:00",
-      "scraped_time": "2026-10-19T21:19:35.040896+00:00",
-      "time_delta_mins": 0,
-      "category": "Quality",
-      "brands_mentioned": [
-        "Salomon"
-      ],
-      "keywords_matched": [
-        "boot",
-        "footwear",
-        "insole",
-        "sole"
-      ],
-      "relevance_score": 6,
-      "summary": "SummaryMM6 Maison Margiela and Salomon are releasing an eight-style Fall/Winter 2026 collection blending high fashion and performance.The XT-MM6 and Crossderby release October 22, while the XT-BOOT MM6 and ACS Pro MM6 drop in November.Perennial collaborators MM6 Maison Margiela and Salomon have returned, offering a full Fall/Winter 2026 lineup. Comprising eight styles, the newly unveiled collection continues to fuse Salomon’s performance identity with MM6 design details for a versatile footwear range with styles for all.First, the XT-MM6 is showcased in three new colorways, including Scarab/Bistro Green/Green Milieu, Tapioca/Sea Foam/Violet Tulip, and Vanilla Ice/Ftw Silver/Lemon. Each XT-MM6 pair features discreet MM6 branding at the lateral toe box, tongue, and insoles, along with a 6 em",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "4545b7f9839f",
-      "title": "Rocket Dog’s New Owner Is Looking Towards the Future as the Shoe Brand Marks 30 Years - WWD",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMjE2MV9UeXNOaHNRSk41QmdIbWxOd29KeGtzQWd4cTBoR2hXcURrc2tSNFpPd2gxMGdpUzlrV1c4M1pLdDFMMUVCSms4bHdEY05zdzNocnlNLTRWNUhleFkwZTRSMEJseGoyVW1vUEtmVGFRRTNaSEpFNEtKZVh1QVVlU2VjOHNVQ0U4Mm44dGNiWEs2U2lmOU1lOE0yaG56cWxMS3NWRDcxXzJ3cEhRRGJZOFFOSXRBdnVv?oc=5",
-      "original_publish_time": "2026-10-19T18:08:28+00:00",
-      "scraped_time": "2026-10-20T01:38:38.464691+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoe brand"
-      ],
-      "relevance_score": 3,
-      "summary": "Rocket Dog’s New Owner Is Looking Towards the Future as the Shoe Brand Marks 30 Years WWD",
       "ren_take": "",
       "image_url": ""
     }
