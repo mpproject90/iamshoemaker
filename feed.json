@@ -1,8 +1,113 @@
 {
-  "last_updated": "2026-10-26T01:13:37.344440+00:00",
-  "total_articles": 118,
-  "sources_checked": 61,
+  "last_updated": "2026-10-26T10:46:51.612794+00:00",
+  "total_articles": 116,
+  "sources_checked": 60,
   "articles": [
+    {
+      "id": "5e997451e1ec",
+      "title": "Nike Gives the Shox NZ a “Photon Dust/Metallic Silver” Refresh",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/10/nike-shox-nz-photon-dust-metallic-silver-classic-charcoal-black-iu7506-002-official-images",
+      "original_publish_time": "2026-10-26T10:04:38+00:00",
+      "scraped_time": "2026-10-26T10:35:54.525226+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "Name: Nike Shox NZ “Photon Dust/Metallic Silver”Colorway: Photon Dust/Metallic Silver/Classic Charcoal/BlackSKU: IU7506-002MSRP: €130 EUR (approx. $146 USD)Release Date: November 2026Nike continues the return of the Shox NZ with a new “Photon Dust/Metallic Silver” colorway that leans heavily into the silhouette’s early-2000s futurism.A pale \"Photon Dust\" foundation runs through the mesh and textured synthetic-leather sections of the upper, while broad \"Metallic Silver\" overlays sweep from the sidewalls toward the lacing system, catching the light with a smoother, reflective finish. The contrast between pebbled grey panels, breathable mesh and polished silver gives the shoe greater visual depth without relying on brighter accent colors. Black Swooshes, collar detailing and smaller branding ",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "7970fa735c45",
+      "title": "New Balance Kawhi V Suits up in \"Oxford Blue\"",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/10/new-balance-kawhi-v-oxford-blue-ukls1mn-official-look-release-info",
+      "original_publish_time": "2026-10-26T09:19:06+00:00",
+      "scraped_time": "2026-10-26T10:35:54.531835+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "New Balance"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Summary New Balance has unveiled the Kawhi V in an upcoming Oxford Blue colorway inspired by traditional dress shirtsThe monochrome performance design features reflective silver N logos alongside a PU cast cage and a Y-shaped TPU plateThe signature basketball silhouette is expected to launch during Holiday 2026 for $160 USD Name: New Balance Kawhi V \"Oxford Blue\"Colorway: Oxford BlueSKU: UKLS1MNMSRP: $160 USDRelease Date: Holiday 2026Where to Buy: New BalanceNew Balance expands Kawhi Leonard’s signature footwear roster with the introduction of the New Balance Kawhi V \"Oxford Blue\". The upcoming colorway follows the model's initial two-pack rollout timed for the start of the 2026/27 basketball season.Channeling the aesthetic of crisp shirting, the sneaker leans into a tailored, monochrome l",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "f50fabbae6f8",
+      "title": "New Balance 9060 Arrives in \"Deep End/Black Metallic\"",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/10/new-balance-9060-deep-end-black-metallic-u9060873-release-info",
+      "original_publish_time": "2026-10-26T08:36:34+00:00",
+      "scraped_time": "2026-10-26T10:35:54.534132+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "New Balance"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Summary New Balance has unveiled the 9060 in an upcoming Deep End and Black Metallic colorwayThe silhouette reinterprets the silhouette and technology of the archival 860 performance runner alongside elements from the 900 seriesAsymmetrical branding defines the build with an enlarged lateral N logo paired with an embroidered medial insignia Name: New Balance 9060 “Deep End/Black Metallic”Colorway: Deep End/Black MetallicSKU: U9060873MSRP: $150 USDRelease Date: November 1, 2026Where to Buy: New BalanceNew Balance expands its lifestyle footwear offering with the release of the New Balance 9060 \"Deep End/Black Metallic\". Blending early-2000s performance running cues with a contemporary, high-tech sensibility, the design continues the brand's focus on archival reinvention.The 9060 model reimag",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "22d96322921d",
+      "title": "Nike and Our Legacy Work Shop Announce Collaborative Performance Running Line",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/10/nike-our-legacy-work-shop-collaborative-performance-running-line-spring-2027-launch-announcement",
+      "original_publish_time": "2026-10-26T08:31:46+00:00",
+      "scraped_time": "2026-10-26T10:35:54.535858+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Summary Nike has partnered with Swedish label Our Legacy Work Shop on an extensive performance running collection slated for Spring 2027The collaboration will introduce brand-new footwear and apparel silhouettes built from scratch rather than modifying existing archival modelsAhead of the launch the brands plan to release teaser projects focused on recrafting deadstock materials and vintage Nike pieces Nike and Swedish fashion imprint Our Legacy Work Shop have officially announced a multi-category performance running collection slated to launch in Spring 2027. Initially reported by The Business of Fashion, the partnership introduces completely original footwear and apparel silhouettes engineered to bridge sports innovation with understated Scandinavian design.Spearheaded by Our Legacy co-f",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "d5660d9a3484",
+      "title": "Nike Clips a Metal Basketball Onto the Hairy Suede Dunk Low “Basketball Charm”",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/10/nike-dunk-low-basketball-charm-ja3772-658-official-images",
+      "original_publish_time": "2026-10-26T07:18:52+00:00",
+      "scraped_time": "2026-10-26T10:35:54.540186+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sole"
+      ],
+      "relevance_score": 3,
+      "summary": "Name: Nike Dunk Low “Basketball Charm”Colorway: Mystic Dates/University Gold/Gum Medium BrownSKU: JA3772-658MSRP: $120 USDRelease Date: Fall 2026The Nike Dunk Low is heading into Fall/Winter 2026 with a “Basketball Charm” edition for women that pairs shaggy suede with a detachable metal accessory. Official images show a Mystic Dates and Coconut Milk build finished with gold accents and a gum sole.Mystic Dates suede with a long, hairy nap makes up the overlays, covering the toe cap, eyestay and heel in the Dunk’s traditional color-blocking layout. The Swoosh breaks from that burgundy tone in Coconut Milk suede, while smooth Coconut Milk leather forms the toe box, quarter panels and collar underneath.The standout detail is a metallic basketball charm secured to the laces, and it can be taken",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "382cec20400f",
       "title": "Spanish footwear exports edge up by 0.8% in the first seven months - World Footwear",
@@ -2304,147 +2409,6 @@
       "keywords_matched": [],
       "relevance_score": 4,
       "summary": "Three years ago, Nike executives touted “strong growth” across Converse and Jordan Brand. Now, both are declining by double digits — and so is China.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "9d7c48823e09",
-      "title": "Mirza International Incorporates Footwear Subsidiary Mirza Footwear Limited - Sahi",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNmlFZ2IwQklRdEhvaHFpSk1VSUN3XzBUUUtmamhZVDAyWS1FdzFGTFlnb0FZXzV5c0xVaHNvck13MmlzTXhVcnJEOUZVLTR2RnBsaWNIOGdnSXY1V2xQcFo5RndQc21IVV9rQkNFbmd5ZU8xUUdDU2hpMmw4Qkd6bDlPNmtEUXFKTm9FUEdzV0FJRDBxVm1NbEY0WmlKZHBBU2h3?oc=5",
-      "original_publish_time": "2026-10-19T09:23:21+00:00",
-      "scraped_time": "2026-10-19T10:21:34.544930+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Mirza International Incorporates Footwear Subsidiary Mirza Footwear Limited Sahi",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "c87e006ba7e3",
-      "title": "Wolverine World Wide (NYSE:WWW): What Shapes Its Footwear Business? - Kalkine Media",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVjN2eGdQNXN3ODR3QlZYZ0VQRlUxRlkwaDZocGg4S0NjbGo5aDdILXRZYXphUlg3SjhFZEhNR05VRzJHZEFEMndpbTZPUlRrdzVGOHU3UDhtRlFLbnluaUVzVEh5UUNPS2RGR2JtWTY2V0R1ZDBqc2dlNWVGMFotUEUtMjBDTVBURzhveHl2aV93NTBCLXpObG9Yb1FXODhtY0o2V3JhTGxIUQ?oc=5",
-      "original_publish_time": "2026-10-19T08:00:00+00:00",
-      "scraped_time": "2026-10-19T10:21:34.543599+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Wolverine"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 5,
-      "summary": "Wolverine World Wide (NYSE:WWW): What Shapes Its Footwear Business? Kalkine Media",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "8042026a4b3a",
-      "title": "Hailey Bieber and Jennifer Aniston Cosigned New Balance’s Comfy-Cool, Podiatrist-Approved Sneakers - InStyle",
-      "source_name": "Google News - Sneaker Brand",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVURpTE0wLUJFZUxmYVkyUDVqS2JubThxeXEzaVhuUkgxTVFFaWtockx0QWlsWU9aMXFpREpuTWJuYzRveHZ5WEFfYUpRbVppTFpXelMwUThlWHI5M2hYcFBiR2dLS1llWGhOYWk4YmxTWktEODRrc0F1RzZ5TEFjbVJKSHk?oc=5",
-      "original_publish_time": "2026-10-19T07:30:00+00:00",
-      "scraped_time": "2026-10-25T09:28:24.624869+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "New Balance"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 5,
-      "summary": "Hailey Bieber and Jennifer Aniston Cosigned New Balance’s Comfy-Cool, Podiatrist-Approved Sneakers InStyle",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "e61e05fcebc8",
-      "title": "The Footwear Hub pens open letter to chancellor and PM",
-      "source_name": "Drapers",
-      "source_domain": "drapersonline.com",
-      "source_url": "https://www.drapersonline.com/news/the-footwear-hub-pens-open-letter-to-chancellor-and-pm",
-      "original_publish_time": "2026-10-19T06:57:21+00:00",
-      "scraped_time": "2026-10-19T10:24:21.696624+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Drapers The Footwear Hub pens open letter to chancellor and PM Not-for-profit organisation The Footwear Hub has written to the chancellor and prime minister ahead of the Budget later this month, calling on the government for more support for specialist footwear retailers. The post The Footwear Hub pens open letter to chancellor and PM appeared first on Drapers .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "b983f05c2cab",
-      "title": "Corteiz Gives First Look at Upcoming Nike Shox R419 in \"Metallic Silver\"",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/10/corteiz-nike-shox-r419-collaboration-silver-colorway-first-look-reveal",
-      "original_publish_time": "2026-10-19T05:00:06+00:00",
-      "scraped_time": "2026-10-19T10:21:23.409866+00:00",
-      "time_delta_mins": 0,
-      "category": "Trade Data",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "footwear",
-        "upper"
-      ],
-      "relevance_score": 5,
-      "summary": "Summary Corteiz founder Clint 419 took to Instagram to reveal a first look at an upcoming Nike Shox R4 collaborationThe initial preview highlights the retro silhouette rendered in a Metallic Silver finishRumors suggest that accompanying Black and Royal Blue colorways are also on the way Nike and London-based streetwear label Corteiz are preparing their next joint footwear project with the upcoming Corteiz x Nike Shox R4. Shared directly by founder Clint 419 via his personal Instagram account, the preview delivers a first look at the collaborative runner.The revealed imagery centers on a \"Metallic Silver\" execution, detailing the silhouette’s retro-futuristic upper and iconic mechanical cushioning system. Alongside the silver pair previewed by Clint 419, the newly released teaser video sugg",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "74f9121576ec",
-      "title": "Balkh Shoe Factories Say Afghanistan Self-Sufficient in Footwear Production - TOLOnews",
-      "source_name": "Google News - Shoe Manufacturing",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8yM0JSOW01eHJrcFVfQnl4UnVNTFYzaUMyNFVWY2FUbFcxLTdIQUthVmIxcG9zWEY3UWNYVWt2UWlyZzRrMUVOZWktZWFpSXFJNWc?oc=5",
-      "original_publish_time": "2026-10-19T04:21:07+00:00",
-      "scraped_time": "2026-10-23T15:39:06.204484+00:00",
-      "time_delta_mins": 0,
-      "category": "Manufacturing",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Balkh Shoe Factories Say Afghanistan Self-Sufficient in Footwear Production TOLOnews",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "6eb9e5edf4ec",
-      "title": "Everyone Knows Italian Shoes. But Portugal Is a Footwear Powerhouse, Too. - Men's Journal",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRmhjeGl5RDl6UC1Ra0hNNFBHVXowc1ZBZHZUM20yczBmUm5XOGpUVFZYZ3VyQmFvS2kyTzNpU3VLRUVPQnFyRTZVS0VEWDV6YXRnRE9Nb0Jsb2EyUVdiTWQ0RmR1NTliSENjRDJuTER0QlMxenMwU2VNRmZrMUVrOWZjMG5NWDJkaUpxeVpjaU4weG8zd2JkaTlQY01kb1dPcFMwSjE3UQ?oc=5",
-      "original_publish_time": "2026-10-19T02:32:00+00:00",
-      "scraped_time": "2026-10-19T10:21:34.542928+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "shoes"
-      ],
-      "relevance_score": 6,
-      "summary": "Everyone Knows Italian Shoes. But Portugal Is a Footwear Powerhouse, Too. Men's Journal",
       "ren_take": "",
       "image_url": ""
     }
