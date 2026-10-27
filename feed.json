@@ -1,8 +1,92 @@
 {
-  "last_updated": "2026-10-27T16:24:37.289786+00:00",
-  "total_articles": 118,
-  "sources_checked": 60,
+  "last_updated": "2026-10-27T21:17:45.149617+00:00",
+  "total_articles": 119,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "db9ed33d2753",
+      "title": "Nike’s Fan-favorite Air Max Boot Got a New Futuristic Foamposite Update — and It’s Coming Out Soon",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-acg-air-max-goadome-low-foam-sp-green-goblin-release-date-1239388221/",
+      "original_publish_time": "2026-10-27T19:35:31+00:00",
+      "scraped_time": "2026-10-27T21:06:20.695222+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 5,
+      "summary": "Launch details for the ACG Air Max Goadome Low Foam SP's debut \"Green Goblin\" colorway.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "af9ddaf5aa49",
+      "title": "Nike Is Bringing Back The Baltoro Low For Spring 2027",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/10/27/nike-baltoro-low/",
+      "original_publish_time": "2026-10-27T19:00:16+00:00",
+      "scraped_time": "2026-10-27T21:06:31.529467+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Nike is digging deeper into its outdoor footwear archives, bringing back the Baltoro Low for the Spring 2027 season. We’ve uncovered a first look at... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike Is Bringing Back The Baltoro Low For Spring 2027 appeared first on Sneaker News . The post Nike Is Bringing Back The Baltoro Low For Spring 2027 appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "3681c6ae5a0b",
+      "title": "Sneaker Heels Are Making Headway in 2026 With Inventive Silhouettes From Major Brands",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-trends/sneaker-heels-comeback-trend-2026-nike-converse-lacoste-1239387622/",
+      "original_publish_time": "2026-10-27T18:01:50+00:00",
+      "scraped_time": "2026-10-27T21:06:20.697287+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Nike",
+        "Converse",
+        "Lacoste"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "Nike, Converse, Vaquera and Lacoste have all revealed sneaker heel styles lately.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "4f8d91a30e8f",
+      "title": "Timberland’s Beloved Field Boot Gets Upgraded with Gore-Tex on This New Limited-edition Collaboration",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/haven-timberland-field-boot-gore-tex-release-date-1239387900/",
+      "original_publish_time": "2026-10-27T17:55:50+00:00",
+      "scraped_time": "2026-10-27T21:06:20.697749+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Timberland"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 5,
+      "summary": "The Haven x Timberland Field Boot GTX will be released this week.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "7de7d0972304",
       "title": "Shai Gilgeous-Alexander’s Converse SHAI 001 “Flare” Drops October 29th",
@@ -2386,70 +2470,6 @@
       "keywords_matched": [],
       "relevance_score": 4,
       "summary": "The GORE-TEX Air Jordan 1 Element Low A/T sneaker lands in a clean \"Cream II\" colorway for the Fall 2026. Here's everything on the latest release.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "4350087651b0",
-      "title": "Nike’s Underrated Hiking Sneaker-Boot Is Suave as Ever",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-lahar-low-v1/",
-      "original_publish_time": "2026-10-20T19:18:53+00:00",
-      "scraped_time": "2026-10-20T20:20:02.575411+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 5,
-      "summary": "Nike's Lahar Low v1 sneaker-boot is back just in time for fall, landing in two stylish colorways plus its signature hiking-ready details.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "a20136dbb18f",
-      "title": "Sean Wotherspoon Brings Denim Uppers To His First Mizuno Collaboration",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/10/20/sean-wotherspoon-mizuno-wave-mg4-ls/",
-      "original_publish_time": "2026-10-20T19:00:18+00:00",
-      "scraped_time": "2026-10-20T20:16:08.709874+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "ASICS",
-        "Mizuno"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 6,
-      "summary": "Sean Wotherspoon just popped out with his best sneaker collab since his iconic Air Max 97/1. Following a pit stop at ASICS and a large... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Sean Wotherspoon Brings Denim Uppers To His First Mizuno Collaboration appeared first on Sneaker News . The post Sean Wotherspoon Brings Denim Uppers To His First Mizuno Collaboration appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "b1c9a0d578b6",
-      "title": "An OG Air Jordan Gets a Major Winter Re-Boot",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/jordan-9-boots-olive/",
-      "original_publish_time": "2026-10-20T18:39:39+00:00",
-      "scraped_time": "2026-10-20T20:20:02.575952+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Jordan"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 5,
-      "summary": "The Air Jordan 9 Retro sneaker-boots return in \"Olive,\" bringing the original colorway back to the hardy winter hybrid.",
       "ren_take": "",
       "image_url": ""
     }
