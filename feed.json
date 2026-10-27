@@ -1,8 +1,27 @@
 {
-  "last_updated": "2026-10-26T21:28:54.932844+00:00",
-  "total_articles": 114,
-  "sources_checked": 61,
+  "last_updated": "2026-10-27T02:03:34.473462+00:00",
+  "total_articles": 113,
+  "sources_checked": 62,
   "articles": [
+    {
+      "id": "22465acf97d6",
+      "title": "Portuguese footwear joins new European alliance for the bioeconomy - World Footwear",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZW53ZWoxVEVNTFlfQW9NVW5FRlJGUUxlOWFqWThVVDBPWG00S0JTWlhVeU01RTZxUEpBY29mVEpaTTJnaTh2aVZydjlEUWxObDhhanRkcTJnMW9rVEhrQ3BaYXZRTGpDV3VDaXlmRXV3c2VoQmZ5enlub1JrX0FtaTdxZGl5eUdvQTZTa1RKUkFoVW8tTzZqZDl0R2Y0d1k2cko0N2VUZVF3cXYyYnd1Mjdn?oc=5",
+      "original_publish_time": "2026-10-27T00:00:25+00:00",
+      "scraped_time": "2026-10-27T01:52:59.618091+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Portuguese footwear joins new European alliance for the bioeconomy World Footwear",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "2a86e6fe2d89",
       "title": "What’s Weighing on Yue Yuen as Shoe Manufacturing Giant Issues Profit Warning",
@@ -2327,45 +2346,6 @@
       "keywords_matched": [],
       "relevance_score": 4,
       "summary": "Why Nike doesn't seem able to fix Converse Fortune",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "b203782abaf7",
-      "title": "Kim Jong-un touts local industry gains at apparel, footwear expo in North Korea - CHOSUNBIZ - Chosunbiz",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qbGljbTRqbUtOeVJYVGNOdldFenltYlRBOGc3aFVkaFE2R1BvUEJxTEJJWHJIdXhpd2ZXQU9JTkFfX3Z5V25zanFDYUxSZGVVSFl1Wl9YckszQl9lcGtBWTBOejhzYU0taURXdm5hOEdwR0lrWjlEcERzVkYxT2PSAZMBQVVfeXFMTWZNUGoxZ1NNczRCaU5UM2ZOQXZIblZfVWx3MmdvZVhGeHNnRE9CWkNMaHowMGRmcm9ZSmR1aXl3T1dpaGE4dlFGZzRSSVhMcVVyZFA1aVJ5VXVwQnhucmcwSzdIckZIYnRyY2J2Y0xkQ0Nya2g1WXgzaXJseEpiNExyRFZIZkhEcGJ4TzBXYzdxS2M4?oc=5",
-      "original_publish_time": "2026-10-20T01:03:00+00:00",
-      "scraped_time": "2026-10-20T01:38:38.467039+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Kim Jong-un touts local industry gains at apparel, footwear expo in North Korea - CHOSUNBIZ Chosunbiz",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "4f0031ce9750",
-      "title": "Portuguese footwear industry launches Kindness campaign - World Footwear",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQkJjbVFWX3ktZnFDMnAyT1BxX1kybTltblNlRFBTekxtMkMyZmQwa0hwVzNyOVdWV2xwX3ZCcHQ3NlU2MHVSS3JZMmtUM3dYR055QTFpWmxiSkpOb080ckV5NE8zd0ZrTEdFSVNvak93MWg0SURiOWhGcVpkdHBnTE5adFZfa2lDMkRWREg1dFRwUWtPX01GV0JJNGJsVjROX1hj?oc=5",
-      "original_publish_time": "2026-10-19T23:04:16+00:00",
-      "scraped_time": "2026-10-20T01:38:38.461814+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "footwear industry"
-      ],
-      "relevance_score": 6,
-      "summary": "Portuguese footwear industry launches Kindness campaign World Footwear",
       "ren_take": "",
       "image_url": ""
     }
