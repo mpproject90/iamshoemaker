@@ -1,8 +1,109 @@
 {
-  "last_updated": "2026-10-28T17:12:32.017566+00:00",
+  "last_updated": "2026-10-28T21:40:11.315212+00:00",
   "total_articles": 114,
-  "sources_checked": 52,
+  "sources_checked": 60,
   "articles": [
+    {
+      "id": "8fbc0566e7c2",
+      "title": "Boot Barn Misses Q2 Sales Expectations, Lowers Yearly Guidance",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/boot-barn-boot-q2-2027-earnings-outlook-1239390567/",
+      "original_publish_time": "2026-10-28T21:13:58+00:00",
+      "scraped_time": "2026-10-28T21:29:05.034524+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "boot",
+        "footwear"
+      ],
+      "relevance_score": 4,
+      "summary": "The Irvine, Calif-based footwear company saw net sales increase 15.1 percent to $581.8 million.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "dde045e62f81",
+      "title": "VF Is Upbeat About Vans’ Prospects, Giving Wall Street Hope",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/vans-global-dtc-sales-altra-footwear-timberland-vf-corp-1239390033/",
+      "original_publish_time": "2026-10-28T20:43:11+00:00",
+      "scraped_time": "2026-10-28T21:29:05.037100+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Vans"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Vans' global DTC sales rose for the first time in five years, while the smaller Altra brand's footwear growth likely helped to offset shoe declines at Vans.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "5368586eefc3",
+      "title": "Brazilian Footwear Exports Fall 15.6% This Year - DatamarNews",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTmN4eURRSGljZk5RYzh3dXY0T21SekJXVkY1UEJ5UHhjUFhhQmRNMnM3ZGYyanh5MUY5M2luZUFXeGd1VmFNbHphb1FCOHhvOHlwLWRMRVBkQ2NyR0Y4S0RscUpSQ2gzRGZfX29MNF9tQmFjMTdjNXg4akhFdXB3cU5xeVFlaTFPbUJlMzM3TDRUVDdfMmFhTQ?oc=5",
+      "original_publish_time": "2026-10-28T20:16:09+00:00",
+      "scraped_time": "2026-10-28T21:29:26.685609+00:00",
+      "time_delta_mins": 0,
+      "category": "Trade Data",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "footwear exports"
+      ],
+      "relevance_score": 6,
+      "summary": "Brazilian Footwear Exports Fall 15.6% This Year DatamarNews",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "4b7e7d2feca4",
+      "title": "Nike’s Dress Hybrid Push Continues With Croc Skin Air Max Dolces",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/10/28/nike-air-max-dolce-leather-croc-skin/",
+      "original_publish_time": "2026-10-28T20:00:47+00:00",
+      "scraped_time": "2026-10-28T21:29:15.904911+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Nike",
+        "New Balance"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "Responding to the sneaker-loafer moment New Balance ignited a few seasons back, Nike is very obviously intent on reexploring some of its quirkiest models in... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike’s Dress Hybrid Push Continues With Croc Skin Air Max Dolces appeared first on Sneaker News . The post Nike’s Dress Hybrid Push Continues With Croc Skin Air Max Dolces appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "1fa959063677",
+      "title": "EXCLUSIVE: Can a Fashionable Flat Actually Reduce Foot Pain? Bared Footwear Puts Its Shoes to the Test",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-features/bared-footwear-ballet-flats-foot-pain-study-1239388067/",
+      "original_publish_time": "2026-10-28T18:48:46+00:00",
+      "scraped_time": "2026-10-28T21:29:05.038011+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "shoes"
+      ],
+      "relevance_score": 6,
+      "summary": "University of Melbourne researchers tested whether the support hidden inside Bared Footwear’s ballet flats actually makes a difference.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "6f2f463ee2be",
       "title": "Could this running brand rescue Vans owner VF Corp?",
@@ -1847,6 +1948,27 @@
       "image_url": ""
     },
     {
+      "id": "a652a5a2f879",
+      "title": "New Balance sneakers once defined D.C. Can they do it again? - The Washington Post",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUWZTOTNuZFBPaTgzckpuOGtCWXdxb1YyS3FuelRMZXpOeERZTUhIcWxSdTZJU29LWTVNMWJpVlBxWjdXMVZoWHVjWkt0b1pxM0hySGlZTHFHTlFNSnN4ck9QR1BYMHNxWUJBYm92QnJlMkZlQVJ0dVZDQ1I5aHV0TWdVbklNbWRIYjdENmp6cE5saGpxUnFtcGd0NE1RZXB6d1YtUXdSREp5RV9nWnlmc0pVRzg?oc=5",
+      "original_publish_time": "2026-10-22T16:00:00+00:00",
+      "scraped_time": "2026-10-28T21:29:27.318846+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "New Balance"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "New Balance sneakers once defined D.C. Can they do it again? The Washington Post",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
       "id": "34c5c4af9d26",
       "title": "New Arrivals From HBX: Salomon Advanced",
       "source_name": "Hypebeast",
@@ -2243,126 +2365,6 @@
       ],
       "relevance_score": 3,
       "summary": "Balkh Shoe Factories Say Afghanistan Self-Sufficient in Footwear Production TOLOnews",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "9fe25175e6a7",
-      "title": "Anthony Edwards’ adidas Superstar “Halloween” Drops On Friday",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/10/21/anthony-edwards-adidas-superstar-halloween-kz9164/",
-      "original_publish_time": "2026-10-21T21:30:37+00:00",
-      "scraped_time": "2026-10-22T01:21:25.217820+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "What’s spooky season like in the Edwards household? With a spree of Halloween shoes hitting the timeline over the past few weeks, we’ve been left... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Anthony Edwards’ adidas Superstar “Halloween” Drops On Friday appeared first on Sneaker News . The post Anthony Edwards’ adidas Superstar “Halloween” Drops On Friday appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "ebc86902a892",
-      "title": "Shoes for a Cure’s Mega New York Charity Sale Kicks Off With Star Power",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/shoes-for-a-cure-new-york-shoe-sale-info-details-1239379322/",
-      "original_publish_time": "2026-10-21T21:27:51+00:00",
-      "scraped_time": "2026-10-22T01:21:14.176858+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "The Chelsea Market sale, which features 10,000 pairs of shoes from top brands, runs through Sunday.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "76d6385429f2",
-      "title": "Nigerian music star Burna Boy launches $180 sneakers with Federer-backed brand On - Billionaires.Africa",
-      "source_name": "Google News - Sneaker Brand",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNS1lEa0N5MDdGaVpNZmtPVV83aGtIcC1NanpVQVVQVmtNLUhIRHZqcUdOcDRXcnFtbmVXWW45QllHMWNLWUN6bzhSU21Qd0ZTNzVFS2pDUXdiME9kbXJpa0hWdDZNWUhObWdfZ3A4S0lVX180QndSZUc1WC1qMHFiR2NXYmQ3WWZaQktCd1BlZ2FFRnptcUNRMUFBY2h4dVlzS1k1S0xxSlhGbzU0aVZId01hZlF4QUg3NmYzajJIa0tFUQ?oc=5",
-      "original_publish_time": "2026-10-21T21:27:09+00:00",
-      "scraped_time": "2026-10-23T01:20:23.546020+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "Nigerian music star Burna Boy launches $180 sneakers with Federer-backed brand On Billionaires.Africa",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "81f42600273f",
-      "title": "Andre Drummond Debuts His New Drumm 1 Signature Shoe from Stria Sport - Sole Retriever",
-      "source_name": "Google News - Sneaker Brand",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9NQUo5emZNYndSWGVVRnVkOS10Zlc1YkJXcjFfQU91RHk0NWFUYVliQ0xhMFktVGZpUzNTc0JLR3JuV01VekY2bDhZLU5lR2xkT21PeWMxa0VnOFpoN0IxZWNYOGlNUzV3R0NzVXF0VjFvSDVVNW5kbGpZMA?oc=5",
-      "original_publish_time": "2026-10-21T21:00:44+00:00",
-      "scraped_time": "2026-10-22T09:42:35.528268+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "sole"
-      ],
-      "relevance_score": 3,
-      "summary": "Andre Drummond Debuts His New Drumm 1 Signature Shoe from Stria Sport Sole Retriever",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "521e848824cf",
-      "title": "Skechers and Kizik Both Claim Victory in European Patent Case",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/skechers-kizik-hands-free-step-in-patent-infringement-claim-1238036771/",
-      "original_publish_time": "2026-10-21T19:34:47+00:00",
-      "scraped_time": "2026-10-21T20:26:13.131685+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Skechers"
-      ],
-      "keywords_matched": [
-        "shoe brand"
-      ],
-      "relevance_score": 3,
-      "summary": "The patent battle between the two shoe brands in the U.S. is still ongoing.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "f8cbfa02eaed",
-      "title": "Arc’teryx Has a New 2-in-1 Boot With a Hidden Slipper, Gore-Tex and Vibram — and It’s Available Right Now",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/arcteryx-postour-boot-available-now-1239379236/",
-      "original_publish_time": "2026-10-21T18:23:59+00:00",
-      "scraped_time": "2026-10-21T20:26:13.134598+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [
-        "Vibram"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 5,
-      "summary": "The winter-ready recovery boot is out now in Black/Black and Tatsu/Black styles.",
       "ren_take": "",
       "image_url": ""
     }
