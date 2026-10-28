@@ -1,8 +1,152 @@
 {
-  "last_updated": "2026-10-28T11:03:37.874901+00:00",
+  "last_updated": "2026-10-28T17:12:32.017566+00:00",
   "total_articles": 114,
-  "sources_checked": 60,
+  "sources_checked": 52,
   "articles": [
+    {
+      "id": "6f2f463ee2be",
+      "title": "Could this running brand rescue Vans owner VF Corp?",
+      "source_name": "Retail Dive",
+      "source_domain": "retaildive.com",
+      "source_url": "https://www.retaildive.com/news/running-brand-rescue-vans-vf-corp-altra/873014/",
+      "original_publish_time": "2026-10-28T16:13:00+00:00",
+      "scraped_time": "2026-10-28T17:05:32.785761+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Vans"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "The Altra footwear brand’s revenue grew 40% in Q2 and is on pace to offset ongoing declines at the company’s faltering skater brand.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "66c86cb39ac7",
+      "title": "Adidas and Wales Bonner Have a New Collection of Premium Classics — Including the Addition of One of Adidas’ Most Influential Sneakers",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/wales-bonner-adidas-originals-fall-2026-release-date-1239389439/",
+      "original_publish_time": "2026-10-28T16:06:44+00:00",
+      "scraped_time": "2026-10-28T17:00:21.705290+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "The BW Army joins the Wales Bonner x Adidas Originals lineup for the very first time.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "b21acffba48e",
+      "title": "Nike’s Angular Air Force 1 Is a Stylish Square",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-air-force-1-sqt-sneaker-white/",
+      "original_publish_time": "2026-10-28T15:51:38+00:00",
+      "scraped_time": "2026-10-28T17:06:16.145888+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "Nike's Air Force 1 SQT sneaker is a squared version of one of the best shoes to ever grace the court.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "abc3bb3589c6",
+      "title": "How Germany Wears Dr. Martens",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/how-germany-wears-dr-martens/",
+      "original_publish_time": "2026-10-28T14:59:03+00:00",
+      "scraped_time": "2026-10-28T17:06:16.145413+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Dr. Martens"
+      ],
+      "keywords_matched": [
+        "sole"
+      ],
+      "relevance_score": 3,
+      "summary": "Dr. Martens brings its *With Bouncing Soles* platform to Berlin and Munich, celebrating creative communities, live music and the AW26 Crazy Horse collection.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "12d92f881bf1",
+      "title": "Hunter’s huge boot box activation to take over Covent Garden",
+      "source_name": "Retail Gazette",
+      "source_domain": "retailgazette.co.uk",
+      "source_url": "https://www.retailgazette.co.uk/blog/2026/10/hunter-covent-garden/",
+      "original_publish_time": "2026-10-28T12:40:58+00:00",
+      "scraped_time": "2026-10-28T17:05:44.179065+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 3,
+      "summary": "Hunter has unveiled a giant boot box pop-up store for November. The store will be located in the East Piazza of Covent Garden, by the Royal Opera House and is open from 9 to 25 November (it will be closed from 5pm on 9 November and 10th November for private events) Visitors to the experience...",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "859c5e188e5f",
+      "title": "VF Corp. Beats the Street in Q2 as Timberland, North Face, Altra Deliver and Vans Sees Progress",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/vf-corp-vfc-q2-earnings-vans-timberland-north-face-1239388847/",
+      "original_publish_time": "2026-10-28T12:14:15+00:00",
+      "scraped_time": "2026-10-28T17:00:21.706845+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Vans",
+        "Timberland"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "VF Corp. expects Vans to see improvement in the wholesale channel in the back half of fiscal 2027.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "92588448530e",
+      "title": "The Best Nike Sneakers Releasing in November",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-sneaker-release-date-calendar-november-2026-1239387948/",
+      "original_publish_time": "2026-10-28T12:00:00+00:00",
+      "scraped_time": "2026-10-28T17:00:21.707216+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "Including One Block Down's luxurious Air Max 95 and the debut of square-toed Air Force 1 Lows.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "2e1570a6a0ea",
       "title": "The PUMA x NAHMIAS Suede Crochet Goes From Earthy to Electric",
@@ -2219,149 +2363,6 @@
       ],
       "relevance_score": 5,
       "summary": "The winter-ready recovery boot is out now in Black/Black and Tatsu/Black styles.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "22b20b5716a2",
-      "title": "How Did UGG Go From Paparazzi Staple to JW Anderson Co-Sign?",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/ugg-jw-anderson-interview/",
-      "original_publish_time": "2026-10-21T16:53:40+00:00",
-      "scraped_time": "2026-10-21T20:30:06.578205+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "UGG"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 3,
-      "summary": "We talked to the fuzzy boot maker about shedding its \"Cozy Girl Fall\" reputation through superstar collaborations with Telfar, Palace, and JW Anderson.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "3cdec1f539f9",
-      "title": "Adidas’ record Q3 is salt in the wound for Nike",
-      "source_name": "Retail Dive",
-      "source_domain": "retaildive.com",
-      "source_url": "https://www.retaildive.com/news/adidas-record-q3-earnings-nike-turnaround/833592/",
-      "original_publish_time": "2026-10-21T16:37:00+00:00",
-      "scraped_time": "2026-10-21T20:29:23.039741+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Nike",
-        "Adidas"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 4,
-      "summary": "Preliminary figures show revenue reaching $8.1 billion, as the sportswear giant takes “significant” share from its rival.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "38832aeab24a",
-      "title": "How Three Big U.S. Sporting Goods Retailers Stack Up Amid Change and Challenge",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/athletic-footwear-us-outdoor-retailers-challenges-1239373911/",
-      "original_publish_time": "2026-10-21T15:55:41+00:00",
-      "scraped_time": "2026-10-21T20:26:13.135717+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "athletic footwear",
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Athletic footwear checks across U.S. retailers suggest challenges remain across the sector.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "8814a70dcf24",
-      "title": "How Nike’s China Woes Are Putting Pressure on the Broader Market",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/sports-footwear-brands-consumer-demand-china-down-1239377666/",
-      "original_publish_time": "2026-10-21T15:45:22+00:00",
-      "scraped_time": "2026-10-21T15:50:41.669296+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "For sports apparel and footwear brands, indications are that consumer demand in China is trending down.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "d77968b831a2",
-      "title": "The New York Knicks Needed This Air Jordan 8 During Their Season Opener",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/10/21/air-jordan-8-knicks-ix8479-010-release-date/",
-      "original_publish_time": "2026-10-21T15:30:41+00:00",
-      "scraped_time": "2026-10-21T15:50:52.624319+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike",
-        "Jordan"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "Nike pulled out all the stops for the New York Knicks’ ring night, from a pop-up for Jalen Brunson’s Nike Kobe 3 Low Protro “Arancia”... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The New York Knicks Needed This Air Jordan 8 During Their Season Opener appeared first on Sneaker News . The post The New York Knicks Needed This Air Jordan 8 During Their Season Opener appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "4ea469ed2fec",
-      "title": "8 Drops You Don't Want to Miss This Week",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/10/best-drops-october-week-4-supreme-palace-carhartt-wip",
-      "original_publish_time": "2026-10-21T12:30:50+00:00",
-      "scraped_time": "2026-10-21T15:50:52.423564+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Nike",
-        "Timberland"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 4,
-      "summary": "With another week upon us, we have yet another installment of our product drops series.This week’s lineup of drops kicks off with Supreme reuniting with Timberland for a rugged Fall 2026 collection anchored by the iconic Field Boot, while Palace Skateboards continues its Winter 2026 rollout with a weather-ready assortment of GORE-TEX shells and insulated puffers. Patta joins forces with Carhartt WIP for the workwear-inspired \"Hartt and Soul\" capsule, just as G-Dragon’s PEACEMINUSONE blends K-pop subculture with avant-garde Japanese tailoring in an exclusive WILDSIDE Yohji Yamamoto collaboration. Kim Kardashian’s SKIMS and Nike debut their first-ever outerwear collection featuring performance-ready puffer jackets and trench coats, while menswear designer Willy Chavarria launches his new \"ad",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "0ce6ea434bd3",
-      "title": "Five Reputable Safety Shoes Manufacturers in China 2026: Advancing Workplace Safety - The Des Moines Register",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQenlXWGRkUlltRWRFYjQtYzljWUdtQ2lySFNHOTZ4TlNPeFpVbVdiVkNEdmt5MlJVVDhsckMxemJTWVVYWHg3eHRuMFB6Y1JBOWFhYVE1YzhqS3NQTXhZU1RySjlmcEN4LV81UUdEX3NWNXZCTlJ0NzRvLXczbjdldWJPdnFNZFptdm1NaDdkQWotY0FCaDFRSTB0TmFGQVlpSVkyVjJra0lqR2w1NzVYdElXSUwtcVZxRDNCcVAyY3ktTEE1M2tMdTNRN3gzQlloUTRPbWRNTXNwaFl2?oc=5",
-      "original_publish_time": "2026-10-21T11:26:25+00:00",
-      "scraped_time": "2026-10-21T15:51:03.504838+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "Five Reputable Safety Shoes Manufacturers in China 2026: Advancing Workplace Safety The Des Moines Register",
       "ren_take": "",
       "image_url": ""
     }
