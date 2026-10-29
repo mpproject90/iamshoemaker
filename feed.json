@@ -1,8 +1,111 @@
 {
-  "last_updated": "2026-10-29T11:18:39.204471+00:00",
-  "total_articles": 113,
-  "sources_checked": 54,
+  "last_updated": "2026-10-29T17:30:02.701567+00:00",
+  "total_articles": 109,
+  "sources_checked": 60,
   "articles": [
+    {
+      "id": "d6154e3cb1d9",
+      "title": "adidas And BAPE Reload With The Goukana And Crazy Energy+",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/10/29/bape-adidas-world-gone-mad-goukana-crazy-energy/",
+      "original_publish_time": "2026-10-29T17:00:17+00:00",
+      "scraped_time": "2026-10-29T17:19:19.524357+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Adidas",
+        "Vans",
+        "Crocs"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "Even amid dalliances with Vans or Crocs, A Bathing Ape has continually found its most consistent partner in Germany. The BAPE x adidas relationship has... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post adidas And BAPE Reload With The Goukana And Crazy Energy+ appeared first on Sneaker News . The post adidas And BAPE Reload With The Goukana And Crazy Energy+ appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "150564d6a151",
+      "title": "Puebla Promotes Textile and Footwear Industries - MEXICONOW",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1WZGhHYXBuUFBGU1kyTzVtSFBTaGRqQTlubXB1WHphai0wdm9iSU5sNWstOHZxTGVaMnVfS3hETjBfMHV6Qndtb25QWE5lMGtUWlUtTGNTdVkzOFM3R0ZISXR0RkwybkgtN1dYVERmZ0FQaGpSYmR3bEw5aw?oc=5",
+      "original_publish_time": "2026-10-29T16:21:45+00:00",
+      "scraped_time": "2026-10-29T17:19:30.079966+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Puebla Promotes Textile and Footwear Industries MEXICONOW",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "f2610bdc6dfb",
+      "title": "Timberland’s Most Iconic Boots Get New Premium Limited-Edition Upgrades in Latest Kith Collaboration",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/kith-timberland-winter-2026-premium-6-inch-waterproof-boot-1239391318/",
+      "original_publish_time": "2026-10-29T16:04:06+00:00",
+      "scraped_time": "2026-10-29T17:19:08.794372+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Timberland",
+        "Vibram"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 6,
+      "summary": "The Ronnie Fieg for Timberland winter 2026 collection features shearling liners and Vibram rubber.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "00d135da3d9f",
+      "title": "What Nike’s Jordan pullback means for Foot Locker",
+      "source_name": "Retail Dive",
+      "source_domain": "retaildive.com",
+      "source_url": "https://www.retaildive.com/news/nike-jordan-retro-pullback-foot-locker-impact/873154/",
+      "original_publish_time": "2026-10-29T15:10:00+00:00",
+      "scraped_time": "2026-10-29T17:22:07.117793+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "With Jordan accounting for roughly 25% of Foot Locker’s revenue, the athletics retailer will have some gaps to fill next year.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "0786c09c90e1",
+      "title": "Travis Scott’s Nike CPFM Air Flea 1 Is Expected In 2027",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/10/29/travis-scott-cpfm-nike-air-flea-1-ix7250-200/",
+      "original_publish_time": "2026-10-29T15:00:25+00:00",
+      "scraped_time": "2026-10-29T17:19:19.528645+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "Travis Scott shoes have zero problem selling through on their own. Add another collaborator to the mix, seen notably via Travis Scott x Fragment Design... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Travis Scott’s Nike CPFM Air Flea 1 Is Expected In 2027 appeared first on Sneaker News . The post Travis Scott’s Nike CPFM Air Flea 1 Is Expected In 2027 appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "eef40b4e7e71",
       "title": "Wales Bonner Reworks adidas Classics in Croc Leather, Suede and Pony Hair",
@@ -816,6 +919,25 @@
       ],
       "relevance_score": 3,
       "summary": "Nike's Glossy Air Force 1 sneaker is a bright blue take on one of the Swoosh's best low top sneakers ever.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "74f9121576ec",
+      "title": "Balkh Shoe Factories Say Afghanistan Self-Sufficient in Footwear Production - TOLOnews",
+      "source_name": "Google News - Shoe Manufacturing",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8yM0JSOW01eHJrcFVfQnl4UnVNTFYzaUMyNFVWY2FUbFcxLTdIQUthVmIxcG9zWEY3UWNYVWt2UWlyZzRrMUVOZWktZWFpSXFJNWc?oc=5",
+      "original_publish_time": "2026-10-27T13:12:17+00:00",
+      "scraped_time": "2026-10-29T17:19:32.012782+00:00",
+      "time_delta_mins": 0,
+      "category": "Manufacturing",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Balkh Shoe Factories Say Afghanistan Self-Sufficient in Footwear Production TOLOnews",
       "ren_take": "",
       "image_url": ""
     },
@@ -2140,215 +2262,6 @@
       ],
       "relevance_score": 4,
       "summary": "Consumers are demanding more out of their footwear than ever before. For many, being fashionable is no longer enough. It’s got to be comfortable, versatile,... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post This Arc’teryx Boot Has A Removable Slipper Inside appeared first on Sneaker News . The post This Arc’teryx Boot Has A Removable Slipper Inside appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "f0ede117a0ef",
-      "title": "Timberland Gave Its Classic Field Boot a Serious New Upgrade with Gore-Tex and Vibram",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/timberland-field-boot-gore-tex-vibram-brown-camo-1239381254/",
-      "original_publish_time": "2026-10-22T17:28:06+00:00",
-      "scraped_time": "2026-10-22T20:23:50.270991+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Timberland",
-        "Vibram"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 7,
-      "summary": "The beloved style also features a touch of camo accents and is available now.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "f05a82d56692",
-      "title": "Jalen Brunson’s Knicks Orange Nike Kobe Sneakers Are Now in Stores Only in NYC",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/jalen-brunson-nike-kobe-3-low-protro-nyc-release-details-1239381043/",
-      "original_publish_time": "2026-10-22T16:08:17+00:00",
-      "scraped_time": "2026-10-22T20:23:50.271538+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 5,
-      "summary": "The Nike Kobe 3 Low Protro arrives just as the Knicks begin their title defense.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "a652a5a2f879",
-      "title": "New Balance sneakers once defined D.C. Can they do it again? - The Washington Post",
-      "source_name": "Google News - Sneaker Brand",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUWZTOTNuZFBPaTgzckpuOGtCWXdxb1YyS3FuelRMZXpOeERZTUhIcWxSdTZJU29LWTVNMWJpVlBxWjdXMVZoWHVjWkt0b1pxM0hySGlZTHFHTlFNSnN4ck9QR1BYMHNxWUJBYm92QnJlMkZlQVJ0dVZDQ1I5aHV0TWdVbklNbWRIYjdENmp6cE5saGpxUnFtcGd0NE1RZXB6d1YtUXdSREp5RV9nWnlmc0pVRzg?oc=5",
-      "original_publish_time": "2026-10-22T16:00:00+00:00",
-      "scraped_time": "2026-10-28T21:29:27.318846+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "New Balance"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 5,
-      "summary": "New Balance sneakers once defined D.C. Can they do it again? The Washington Post",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "34c5c4af9d26",
-      "title": "New Arrivals From HBX: Salomon Advanced",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/10/new-arrivals-from-hbx-salomon-advanced",
-      "original_publish_time": "2026-10-22T15:10:20+00:00",
-      "scraped_time": "2026-10-22T15:48:02.995583+00:00",
-      "time_delta_mins": 0,
-      "category": "Quality",
-      "brands_mentioned": [
-        "Salomon"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Brand Information: Established in 1947 by François Salomon in Annecy, France, Salomon Advanced is well-known for its outdoor products, in particular, those for mountain sports and outdoor adventures. At Salomon Advanced, even the finest materials are subjected to vigorous performance tests. Quality speaks for itself, their technically professional footwear is favored by runners, skiers, hikers, and fashion lovers alike. Salomon has also collaborated with Japanese fashion brands like, 11 By Boris Bidjan Saberi, and wander, and BEAMS.Price Range: $115.00 USD - $415.00 USDWhere to Buy: Available now on HBX Click here to view full gallery at Hypebeast",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "787eb94831b8",
-      "title": "Wale Named Chief Creative Officer and Co-Owner of Sneaker Company CapSole - Yahoo",
-      "source_name": "Google News - Sneaker Brand",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU0R4OU1PQVF1MnBoWVBoaloxM0VSRnFZMmZMUVFmcVNTeHNScHhRZDFmM1gwejFXQWdIZkJCeXBaeXByZDNGMnJJRnJCaHhObnFtTkZTZXpxRUp2OXhZVGJnRm5hY2c1ZkFyLTVKOUhnb0lGazNuUXNuMlpRN1NRZkZDbWRMXzBkS2p6NzFGM3ZDWGlycmFhMmM5Q1l5TUVMVkVFOW93?oc=5",
-      "original_publish_time": "2026-10-22T15:04:41+00:00",
-      "scraped_time": "2026-10-25T00:54:56.017383+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "sole"
-      ],
-      "relevance_score": 3,
-      "summary": "Wale Named Chief Creative Officer and Co-Owner of Sneaker Company CapSole Yahoo",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "ebdcdb52c1ef",
-      "title": "Blackstock & Weber x Joe Freshgoods Etch a Checkerboard Into the “Ellis” Penny Loafer",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/10/blackstock-weber-joe-freshgoods-ellis-penny-loafer-release-info",
-      "original_publish_time": "2026-10-22T13:35:20+00:00",
-      "scraped_time": "2026-10-22T15:48:03.001341+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "sole",
-        "upper",
-        "welt"
-      ],
-      "relevance_score": 3,
-      "summary": "Name: Blackstock & Weber x Joe Freshgoods Ellis Penny LoaferColorway: TBCSKU: TBCMSRP: $395 USDRelease Date: October 23 (Online), October 24 (In-store)Where to Buy: Blackstock & Weber, Joe FreshgoodsBlackstock & Weber and Joe Freshgoods are teaming up on the “Ellis” Penny Loafer, a glossy red take on the dress shoe made exclusively for Joe Freshgoods. The project is the Chicago designer’s first-ever release outside the athletic world, swapping performance runners for a Goodyear-welted loafer with a lug sole. The partnership grew out of a shared respect between the two labels and a desire to express it through a single, detail-driven product.The upper sets the tone with high-shine red patent leather sourced from Carasco, Italy, giving the classic penny silhouette a bold, almost lacquered fi",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "5661a866a51c",
-      "title": "Jil Sander and PUMA Expand Their Collaboration Into Apparel for FW26",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/10/jil-sander-puma-fall-winter-2026-collaboration-collection-release-info",
-      "original_publish_time": "2026-10-22T13:00:26+00:00",
-      "scraped_time": "2026-10-22T15:48:03.004145+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Puma"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Summary Jil Sander and PUMA unveil their third collaboration, introducing apparel alongside redesigned footwear icons.Highlights include a wool T7 tracksuit, leather Speedcats and minimalist Suedes.Starring Meadow Walker and Barry Lawson, the campaign precedes an October 23 launch. PUMA and Jil Sander have unveiled the Fall/Winter 2026 chapter of their ongoing partnership, expanding into collaborative apparel for the first time alongside fresh footwear iterations.Set against an overgrown green field dotted with wildflowers, the campaign juxtaposes tailored sportswear with an untamed natural landscape, capturing a quiet moment suspended between city life and the outdoors. Leading the apparel lineup is a reimagined version of PUMA's T7 tracksuit, originally introduced in 1968 and named after",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "83653178a846",
-      "title": "Jil Sander PUMA Sneakers, Meet Jil Sander PUMA Tracksuit (Exclusive)",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/jil-sander-puma-fw26/",
-      "original_publish_time": "2026-10-22T12:00:00+00:00",
-      "scraped_time": "2026-10-22T15:51:44.829042+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Puma"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 5,
-      "summary": "For the next iteration of Jil Sander and PUMA's collaboration, the two brands teamed up for a fresh take on the Speedcat, plus a tracksuit and T-shirt.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "3669bb177f6a",
-      "title": "Brain Dead's Serving Chromed-p adidas Tennis Shoes Now",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/brain-dead-adidas-barricade-v/",
-      "original_publish_time": "2026-10-22T11:43:00+00:00",
-      "scraped_time": "2026-10-22T15:51:44.829740+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 5,
-      "summary": "Brain Dead always looks in the less likely places for inspiration. The Brain Dead x adidas Barricade V follows suit.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "00bf7384d0c9",
-      "title": "Adidas raises outlook despite footwear challenges",
-      "source_name": "Ecotextile News",
-      "source_domain": "ecotextile.com",
-      "source_url": "https://www.ecotextile.com/2026102266644/radar/adidas-raises-outlook-despite-footwear-challenges/",
-      "original_publish_time": "2026-10-22T11:25:03+00:00",
-      "scraped_time": "2026-10-22T15:50:06.245652+00:00",
-      "time_delta_mins": 0,
-      "category": "Trade Data",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 5,
-      "summary": "Adidas has raised its 2026 operating profit forecast to €2.5 billion ($2.81bn), supported by a US tariff refund and stronger […] The post Adidas raises outlook despite footwear challenges appeared first on Ecotextile News .",
       "ren_take": "",
       "image_url": ""
     }
