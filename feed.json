@@ -1,8 +1,132 @@
 {
-  "last_updated": "2026-10-30T11:13:38.560387+00:00",
-  "total_articles": 116,
-  "sources_checked": 54,
+  "last_updated": "2026-10-30T17:07:42.141373+00:00",
+  "total_articles": 117,
+  "sources_checked": 60,
   "articles": [
+    {
+      "id": "af7c78e810b6",
+      "title": "Running Shoes, Select Fashion Items Drive Q3 Shoe Sales Growth, Circana Says",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/circana-performance-footwear-sales-3q-ballerinas-flip-flops-1239392418/",
+      "original_publish_time": "2026-10-30T16:28:47+00:00",
+      "scraped_time": "2026-10-30T16:56:48.342709+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "shoes"
+      ],
+      "relevance_score": 4,
+      "summary": "A study from Circana found performance footwear led the way for Q3, while sales of ballerinas and flip-flops remained key fashion categories.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "3e9da8653193",
+      "title": "Meet the Shoe Brand That Takes “Nothing New” as a Compliment",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/oda-shoes-interview/",
+      "original_publish_time": "2026-10-30T16:20:49+00:00",
+      "scraped_time": "2026-10-30T17:00:31.339550+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "shoe brand",
+        "shoes"
+      ],
+      "relevance_score": 5,
+      "summary": "od.A is developing the future of trail shoes by studying their past. Decades of transcendent footwear define its beautiful, unexpected, and exquisite shoes.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "7581bfafbf33",
+      "title": "Are Freaky Shoes Mainstream Now? New Yorkers Weigh In on This Year’s Most Controversial Styles",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-trends/freaky-shoes-trend-nyc-interviews-1239375178/",
+      "original_publish_time": "2026-10-30T15:30:56+00:00",
+      "scraped_time": "2026-10-30T16:56:48.344123+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "FN interviewed people on the street in New York City to gauge public opinion on the freaky shoes trend and the buzziest unconventional shoes.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "a696f9771818",
+      "title": "Red Wing Just Resurrected a Boot That Hasn't Been Seen In 30 Years",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/red-wing-beams-2026/",
+      "original_publish_time": "2026-10-30T15:07:46+00:00",
+      "scraped_time": "2026-10-30T17:00:31.340064+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Red Wing"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 5,
+      "summary": "In yet another collaboration with BEAMS, Red Wing brought back a ’90s grail. Even moreso than other collabs, this boot plays directly to the fans.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "d87f1d659700",
+      "title": "Air Jordan 12 “Atmos Jade” Exclusively For atmoscon",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/10/30/air-jordan-12-atmos-jade-atmoscon-2026/",
+      "original_publish_time": "2026-10-30T14:30:56+00:00",
+      "scraped_time": "2026-10-30T16:56:59.606122+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 4,
+      "summary": "As evidenced by the Nike Vegam Run, the regionality of sneakers is no longer just a coy way to drum up anticipation for one-off releases,... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Air Jordan 12 “Atmos Jade” Exclusively For atmoscon appeared first on Sneaker News . The post Air Jordan 12 “Atmos Jade” Exclusively For atmoscon appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "4b8c5343e026",
+      "title": "ACRONYM and ALIVEFORM Launch THE BLADE in New \"SILVER FANG\" Colorway",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/10/acronym-aliveform-the-blade-silver-fang-release",
+      "original_publish_time": "2026-10-30T14:00:51+00:00",
+      "scraped_time": "2026-10-30T16:56:58.990927+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "sole",
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "ACRONYM has teamed up once again with 3D-printed footwear brand ALIVEFORM to release a new \"SILVER FANG\" colorway of THE BLADE. The shoe will launch exclusively at GRAFT.PD's Pudong space in Shanghai as part of a special project for the brand's Open House event this November.Inspired by Tsui Hark's 1995 martial arts film *The Blade*, the shoe's design merges ACRONYM's signature techwear aesthetic with ALIVEFORM's 3D-printing technology to create a highly sculptural silhouette. The shoe features a barefoot construction to prioritize natural foot movement and flexibility, while an open mesh design extending across the upper and sole improves breathability. Cushioning, support, and flexibility are integrated directly into the 3D-printed structure, eliminating the need for traditional stitchin",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "4bd1fe606706",
       "title": "The New Balance 1890A That Walked COMME des GARÇONS HOMME’s Paris Runway Has a Release Date",
@@ -2304,105 +2428,6 @@
       ],
       "relevance_score": 3,
       "summary": "We’re certainly used to footwear companies sinking a ton of resources into new product launches, but sometimes it’s worth all the pomp and circumstance. In... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post New Balance 990v7 Revealed In Black/Silver appeared first on Sneaker News . The post New Balance 990v7 Revealed In Black/Silver appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "2405cd9b89f9",
-      "title": "This 95 Is a Footwear Fortress Built for Skateboarding",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/kyle-wilson-nike-sb-air-max-95/",
-      "original_publish_time": "2026-10-23T15:08:01+00:00",
-      "scraped_time": "2026-10-23T15:42:32.533798+00:00",
-      "time_delta_mins": 0,
-      "category": "Manufacturing",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 4,
-      "summary": "Following the silhouette's skate-tooling overhaul, the Swoosh teams up with London skater Kyle Wilson for the Kyle Wilson x Nike SB Air Max 95.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "3a48f1b2edb4",
-      "title": "Puma Taps Former Nike, The North Face Exec as Its New Chief Commercial Officer",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/puma-chief-commercial-officer-arne-arens-1239383470/",
-      "original_publish_time": "2026-10-23T14:21:41+00:00",
-      "scraped_time": "2026-10-23T15:38:43.228099+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike",
-        "Puma"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 4,
-      "summary": "He will oversee the company's sales activities across all channels and markets worldwide.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "752af7442e79",
-      "title": "Kering reports lacklustre revenues as Gucci continues to drag",
-      "source_name": "Drapers",
-      "source_domain": "drapersonline.com",
-      "source_url": "https://www.drapersonline.com/news/kering-reports-lacklustre-revenues-as-gucci-continues-to-drag",
-      "original_publish_time": "2026-10-23T12:26:12+00:00",
-      "scraped_time": "2026-10-23T15:41:50.779814+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Gucci",
-        "Alexander McQueen"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "Drapers Kering reports lacklustre revenues as Gucci continues to drag Group revenue at Gucci and Alexander McQueen owner Kering was down 1% year on year on a comparable basis to €3.35bn (£2.82bn) in the third quarter to 30 September, as Gucci fell 6% and weakened Chinese demand hit the Asia-Pacific region. The post Kering reports lacklustre revenues as Gucci continues to drag appeared first on Drapers .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "2b30439b6828",
-      "title": "4 Female-Founded Luxury Labels Behind Fall’s Most-Wanted Shoes",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-features/female-founded-luxury-shoe-brands-1239335884/",
-      "original_publish_time": "2026-10-23T12:00:00+00:00",
-      "scraped_time": "2026-10-23T15:38:43.230441+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "Aeyde, Christen, Jude and Paris Texas are transforming the luxury shoe market with beautifully constructed and innovative designs by women, for women.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "302e6646f83a",
-      "title": "Kering revenue dips as Gucci struggles",
-      "source_name": "Ecotextile News",
-      "source_domain": "ecotextile.com",
-      "source_url": "https://www.ecotextile.com/2026102366690/radar/kering-revenue-dips-as-gucci-struggles/",
-      "original_publish_time": "2026-10-23T11:53:04+00:00",
-      "scraped_time": "2026-10-23T15:40:54.888115+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Gucci"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 4,
-      "summary": "Kering has reported third-quarter revenue of €3,345 million ($3.9 billion), stable as reported but down 1% on a comparable basis. […] The post Kering revenue dips as Gucci struggles appeared first on Ecotextile News .",
       "ren_take": "",
       "image_url": ""
     }
