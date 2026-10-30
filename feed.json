@@ -1,8 +1,131 @@
 {
-  "last_updated": "2026-10-30T17:07:42.141373+00:00",
+  "last_updated": "2026-10-30T21:32:48.350729+00:00",
   "total_articles": 117,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "53ef13d02659",
+      "title": "Nike’s Oldest Sneaker Takes Balletcore to the Moon",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-moon-shoe-satin-pink/",
+      "original_publish_time": "2026-10-30T20:25:58+00:00",
+      "scraped_time": "2026-10-30T21:25:29.828196+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sole",
+        "upper"
+      ],
+      "relevance_score": 4,
+      "summary": "Nike's \"Light Carnation\" Moon Shoe lands with satin uppers, Waffle soles, & loads of ballerina-worthy charm.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "645235fd118f",
+      "title": "Nike’s Casually Cool Sneaker Grew Tough Skin",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-zoom-vomero-5-cordura-light-orewood-brown/",
+      "original_publish_time": "2026-10-30T20:11:51+00:00",
+      "scraped_time": "2026-10-30T21:25:29.830093+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "Nike's Zoom Vomero 5 sneaker combines Cordura materials & a \"Light Orewood Brown\" colorway for a ruggedly clean release.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "c0ca316f0055",
+      "title": "Nike’s Ostrich-Leather Air Jordans Are Pure Jumpman Elegance",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/jordan-14-low-black-pack/",
+      "original_publish_time": "2026-10-30T20:09:12+00:00",
+      "scraped_time": "2026-10-30T21:25:29.830769+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 5,
+      "summary": "The Air Jordan 14 sneaker lands in the brand's high-end \"Black Pack\" with ostrich-leather uppers & a clean all-black colorway.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "acc901f703b4",
+      "title": "New Balance’s Skate Shoe Is Seeing Yellow and Looking Good Doing It",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/new-balance-numeric-440wv2/",
+      "original_publish_time": "2026-10-30T19:25:01+00:00",
+      "scraped_time": "2026-10-30T21:25:29.828920+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "New Balance"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "New Balance’s Numeric 440Wv2 pairs a black skate-shoe upper with pops of Happy Yellow for a simple color combination that stands out.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "f2ed58edd5b4",
+      "title": "Village PM’s Popular Skate Shoes Got Eye-Catching Updates Just in Time for Halloween",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/village-pm-1pm-2pm-red-1239393816/",
+      "original_publish_time": "2026-10-30T17:54:08+00:00",
+      "scraped_time": "2026-10-30T21:21:39.800959+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoes",
+        "sneakers"
+      ],
+      "relevance_score": 4,
+      "summary": "The Parisian skate label's flagship 1PM and 2PM sneakers are now available in bold red looks.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "5fb082e2850c",
+      "title": "Vietnamese footwear giant builds $30 million factory in Indonesia. - Vietnam.vn",
+      "source_name": "Google News - Vietnam Manufacturing",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVWRONlFlbnFQU1VqRVhCaWJoT1VIQnJjRGFybzdPakhoUWRobFNvalJNMmROd1I4enB3UVpoU1RhdU1IWVlIM09ucWlHUnZDYTZvTTBxbWpmY250TUg4Z0xfZ2RObmY4dUJwbThDdVZKZ2plRk5ueGhxS0E1MWpkMzVwTUFVOHp0cy11em5INHk?oc=5",
+      "original_publish_time": "2026-10-30T17:39:48+00:00",
+      "scraped_time": "2026-10-30T21:31:33.186599+00:00",
+      "time_delta_mins": 0,
+      "category": "Manufacturing",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Vietnamese footwear giant builds $30 million factory in Indonesia. Vietnam.vn",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "af7c78e810b6",
       "title": "Running Shoes, Select Fashion Items Drive Q3 Shoe Sales Growth, Circana Says",
@@ -2301,133 +2424,6 @@
       "keywords_matched": [],
       "relevance_score": 3,
       "summary": "The Nike Air Force 1 and GORE-TEX: two staples of street fashion independently that, when united, make for one killer winter option. Add in Vibram... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Nike Air Force 1 GORE-TEX Casts \"Thunder Blue\" appeared first on Sneaker News . The post The Nike Air Force 1 GORE-TEX Casts “Thunder Blue” appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "1dee578a5606",
-      "title": "Vans And Pro BMXer Coco Zurita Debut The Acura ADX “CZ-77 Concept”",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/10/23/vans-acura-adx-coco-zurita/",
-      "original_publish_time": "2026-10-23T21:30:59+00:00",
-      "scraped_time": "2026-10-24T01:25:12.791341+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Vans"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Everyone knows Vans for skateboarding. Far fewer know the brand for BMX, but perhaps more should. The SoCal footwear staple has been a player in... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Vans And Pro BMXer Coco Zurita Debut The Acura ADX “CZ-77 Concept” appeared first on Sneaker News . The post Vans And Pro BMXer Coco Zurita Debut The Acura ADX “CZ-77 Concept” appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "ae09d2b9ea0f",
-      "title": "Vans’ Most Minimalist Skate Slip-on Is Vibram-Backed",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/vans-otw-slip-on-shadow-vibram/",
-      "original_publish_time": "2026-10-23T21:23:02+00:00",
-      "scraped_time": "2026-10-24T01:29:02.753479+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Vans",
-        "Vibram"
-      ],
-      "keywords_matched": [
-        "sole"
-      ],
-      "relevance_score": 6,
-      "summary": "Vans OTW cooks up a Slip-On Shadow Vibram skate shoe, featuring an updated minimalist design & rugged soles.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "f6d613ea5b15",
-      "title": "Ye Plots Yeezy Revival & Kartik Research Heads for Pitti Uomo in This Week's Top Fashion News",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/10/ye-yeezy-zane-li-kartik-research-willy-chavarria-adidas-virgil-abloh-kylie-jenner-victorias-secret-info",
-      "original_publish_time": "2026-10-23T20:30:18+00:00",
-      "scraped_time": "2026-10-24T01:25:12.555582+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Adidas",
-        "Yeezy"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 4,
-      "summary": "SummaryZane Li takes the CFDA/Vogue Fashion Fund prize, while Kartik Research prepares for Pitti Uomo.Ye plots a Yeezy runway return in LA, and Virgil Abloh’s archives hit NYC.Kylie Jenner debuts a $50M Fantasy Bra, and adidas taps Willy Chavarria.Ye Reportedly Plans YEEZY Runway Return at New Los Angeles FlagshipYe is reportedly gearing up to host a Yeezy runway presentation at the brand’s new Los Angeles flagship store. The event would mark the label's first runway showcase in over four years. Sources indicate the show will take place at the recently opened retail location at Beverly Boulevard and Kingsley Drive, a space established following Yeezy's soft relaunch earlier this year. Industry insiders also suggest the presentation serves as the official launchpad for the rumored Yeezy 800",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "647c8ecce5e6",
-      "title": "Zoë Kravitz Styles Two Popular Sneakers With the Outfit Formula All the New York Girls Are Wearing This Fall",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-trends/zoe-kravitz-adidas-new-balance-sneakers-new-york-die-alive-1239384120/",
-      "original_publish_time": "2026-10-23T19:53:03+00:00",
-      "scraped_time": "2026-10-23T20:11:13.232479+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Adidas",
-        "New Balance"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 5,
-      "summary": "She wore Adidas and New Balance sneakers on set.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "8760ceef0558",
-      "title": "Nike's Lovely Everyday Sneaker Hides a Rugged Secret",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-v5-rnr-ripstop/",
-      "original_publish_time": "2026-10-23T19:41:42+00:00",
-      "scraped_time": "2026-10-23T20:15:15.540454+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "hide"
-      ],
-      "relevance_score": 7,
-      "summary": "Nike's V5 RNR Ripstop sneaker is an rugged version of the everyday running-style sneaker, wrapped in a pretty \"Night Maroon\" colorway.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "aee86016e20e",
-      "title": "New Balance 990v7 Revealed In Black/Silver",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/10/23/new-balance-990v7-black-grey/",
-      "original_publish_time": "2026-10-23T18:00:22+00:00",
-      "scraped_time": "2026-10-23T20:11:24.614537+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "New Balance"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "We’re certainly used to footwear companies sinking a ton of resources into new product launches, but sometimes it’s worth all the pomp and circumstance. In... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post New Balance 990v7 Revealed In Black/Silver appeared first on Sneaker News . The post New Balance 990v7 Revealed In Black/Silver appeared first on Sneaker News .",
       "ren_take": "",
       "image_url": ""
     }
