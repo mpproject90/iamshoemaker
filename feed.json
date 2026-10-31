@@ -1,8 +1,27 @@
 {
-  "last_updated": "2026-10-31T10:49:11.444137+00:00",
-  "total_articles": 120,
-  "sources_checked": 61,
+  "last_updated": "2026-10-31T16:08:34.365291+00:00",
+  "total_articles": 122,
+  "sources_checked": 62,
   "articles": [
+    {
+      "id": "811acd3454b2",
+      "title": "Delhi: 4 killed, 2 injured in Mangolpuri shoe factory fire; 2 held - ThePrint",
+      "source_name": "Google News - Shoe Manufacturing",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORm5BdG05MlJYYTBIRlppU2VUZmxQNFdFMVhibTUzV1B3eEJZRktyTWt2VWVqYTZKNHBOX3ZjU01sZFBIZm1GVVl1SVBQd3VSNXBjVFpaTWRzLUZ5R1JFcXd2QU84OHJmN25KbGQ2b3I4S3hVODFyOFMtc01idUhJaEZjcm1wdEF2a1JNaGt3U0lOTTA0QmlleW0zTU1qYUXSAaQBQVVfeXFMTkJMdFAtNnIxY0FaNkJQQzVwUkdycktrZ0l4TEhaeTdLaS10YzRkcS0yc1hTSUVRZldzZmZRSkFhY3JGcXZxQ0QyUjF0VnAtMm45MW1YcVFRVnBYenczWG9haWxKeHhHaXpyS1Iwc3RNcG9JRTlXb2ZSeWZieHlGcmd5dUFlOXpxdUxhb0tOS01fbnJXbUFOc0lQcE8zVHhYZGszTlk?oc=5",
+      "original_publish_time": "2026-10-31T09:48:06+00:00",
+      "scraped_time": "2026-10-31T15:57:50.660120+00:00",
+      "time_delta_mins": 0,
+      "category": "Manufacturing",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoe factory"
+      ],
+      "relevance_score": 3,
+      "summary": "Delhi: 4 killed, 2 injured in Mangolpuri shoe factory fire; 2 held ThePrint",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "146ced1c69f6",
       "title": "NN.07 and Clarks Originals Rework the Wallabee and Desert Boot in New Collab",
@@ -44,6 +63,25 @@
       ],
       "relevance_score": 3,
       "summary": "4 killed as fire engulfs multiple floors of shoe factory in Delhi's Mangolpuri India Today",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "5af7777f7066",
+      "title": "4 killed, 2 injured after massive fire breaks out at shoe factory in India - Report.az",
+      "source_name": "Google News - Shoe Manufacturing",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWWVJYU15d0hiV1Jrems1OVI5WGZtd05WajF5NW9YNkQtel9RZEZOdjZub2ptOWZ2bHNDOW9mVm9PRzlRdkdNTXd4OUluUUxPVWxFdWhmQUY1X2RRdnE3NnJVZ1pKRktjck9PUjh1R1dDX010N01fMVQ0cEE4SnFjMXZMTm9LWHkybW55c2ZabkJBT20zQldaZFRMaXlDS3AwOGxjWHFhNVdNUjA0U1Rr?oc=5",
+      "original_publish_time": "2026-10-31T07:25:17+00:00",
+      "scraped_time": "2026-10-31T15:57:50.659435+00:00",
+      "time_delta_mins": 0,
+      "category": "Manufacturing",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoe factory"
+      ],
+      "relevance_score": 3,
+      "summary": "4 killed, 2 injured after massive fire breaks out at shoe factory in India Report.az",
       "ren_take": "",
       "image_url": ""
     },
