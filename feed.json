@@ -1,8 +1,70 @@
 {
-  "last_updated": "2026-10-31T16:08:34.365291+00:00",
-  "total_articles": 122,
-  "sources_checked": 62,
+  "last_updated": "2026-10-31T20:34:05.157963+00:00",
+  "total_articles": 124,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "944cac1272b9",
+      "title": "adidas’ Handsome Outdoor Boots Can Genuinely Weather the Storm",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/adidas-wetherlam-spzl/",
+      "original_publish_time": "2026-10-31T18:46:51+00:00",
+      "scraped_time": "2026-10-31T20:26:52.343524+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 5,
+      "summary": "adidas releases the Wetherlam SPZL, an updated version of the Helvellyn with outdoor-ready details & plenty of street style.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "1b7b068232b5",
+      "title": "Nike's UGG-Coded Slipper Boot Is the Coziest Recovery Flex",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-24-7-boot/",
+      "original_publish_time": "2026-10-31T18:43:08+00:00",
+      "scraped_time": "2026-10-31T20:26:52.344064+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [
+        "Nike",
+        "UGG"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 7,
+      "summary": "Nike debuts its 24.7 boot, an UGG-coded recovery model with plenty of cushioning & nice colorways. Here's everything on the release.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "3c036c94f483",
+      "title": "Four killed in Delhi shoe manufacturing unit fire; owner summoned - Rediff",
+      "source_name": "Google News - Shoe Manufacturing",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaE1XV1VfQWhCWmhnZG53V250RDl1Q2hGY01aWEM5WmljLUJVVjQ2YnJwNDgxZkJQTl9NSU5QQzlrWC1ZYlROcWp1WU42NUx3a19JbVV3LTlVZVZOOUQ5Z3lTa3VjSHBNeENlNzhQcm5leS1HOFNsQW5ackpfZ0M4anNfVTU3T21RU1ZyRW5CV0VsVm1DOG96OWk2T3BlVzk3c21Fb0dva185WU14ZzdIODhB0gG0AUFVX3lxTE1PTk1zYmxZa0JpYlJubHBlQkhVaFBwTW4wVUVwQ0xNV0FCd2NIbldQNHpKTVFVUG9NNmxQWnhqZHlIRndkLWZqajU0aUxoZS0wQlUyQjNpZ0VYNkNsWHVfUHJpMVFCMzMwUW14T1R6bEtrblk5dm9GZXBVS1ljZ05FVHFlaWJJSUIwamRjcDR6cnNJVkZxNVMyNGN1TGotZnNBY3o0YW91NkRTanFkTl9nMGdXVg?oc=5",
+      "original_publish_time": "2026-10-31T17:32:47+00:00",
+      "scraped_time": "2026-10-31T20:23:34.778062+00:00",
+      "time_delta_mins": 0,
+      "category": "Manufacturing",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoe manufacturing"
+      ],
+      "relevance_score": 3,
+      "summary": "Four killed in Delhi shoe manufacturing unit fire; owner summoned Rediff",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "811acd3454b2",
       "title": "Delhi: 4 killed, 2 injured in Mangolpuri shoe factory fire; 2 held - ThePrint",
@@ -2506,27 +2568,6 @@
       "keywords_matched": [],
       "relevance_score": 3,
       "summary": "São Paulo's Guadalupe Store locks in for one of the most compelling adidas drops in a long time. Say hello to the GDLP x adidas Intimidation.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "bdea998a68ae",
-      "title": "Melitta Baumeister Took Nike's Weirdest Toe Shoe & Freaked It",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/melitta-baumeister-nike-air-rift-rocker/",
-      "original_publish_time": "2026-10-24T18:45:30+00:00",
-      "scraped_time": "2026-10-24T19:16:37.047780+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "sole"
-      ],
-      "relevance_score": 3,
-      "summary": "Melitta Baumeister is back with another strangely cool Nike sneaker: an Air Rift Rocker collab featuring chunky clay soles.",
       "ren_take": "",
       "image_url": ""
     }
