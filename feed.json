@@ -1,8 +1,70 @@
 {
-  "last_updated": "2026-11-01T17:11:18.840193+00:00",
-  "total_articles": 125,
-  "sources_checked": 62,
+  "last_updated": "2026-11-01T21:07:58.778388+00:00",
+  "total_articles": 124,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "81640f4ec1b9",
+      "title": "Nike’s ‘Space Jam’ Air Jordans Went Full Bottega",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/jordan-11-space-jam-green-screen/",
+      "original_publish_time": "2026-11-01T20:54:18+00:00",
+      "scraped_time": "2026-11-01T21:00:45.701578+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "The Air Jordan 11 gets a refresh for the 'Space Jam' collection, resulting in this tonal Bottega-style \"Green Screen\" version of the sneaker.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "3d1fc31c19d3",
+      "title": "adidas’ Most Lowkey Sneaker Is Highly Luxe",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/adidas-tobacco-triple-black/",
+      "original_publish_time": "2026-11-01T20:48:59+00:00",
+      "scraped_time": "2026-11-01T21:00:45.701109+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "adidas' latest Tobacco sneaker is a Japan-exclusive release featuring a clean all-black colorway & luxe suede uppers.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "767350bf717d",
+      "title": "Nike Quietly Brought Back This Popular Retro Hiking Shoe",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/11/01/nike-lahar-low-hiking-climbing-shoes/",
+      "original_publish_time": "2026-11-01T19:00:00+00:00",
+      "scraped_time": "2026-11-01T20:57:09.111486+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 3,
+      "summary": "Word to Wale, Nike boots are back in vogue. The past few winters have brought nothing but bangers from the Nike ACG archive, from the... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike Quietly Brought Back This Popular Retro Hiking Shoe appeared first on Sneaker News . The post Nike Quietly Brought Back This Popular Retro Hiking Shoe appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "7e03be51ae39",
       "title": "New Balance 990v7, Air Jordan 6 “Infrared,” And This Week’s Best Releases",
@@ -2516,89 +2578,6 @@
       ],
       "relevance_score": 6,
       "summary": "Spanish footwear exports edge up by 0.8% in the first seven months World Footwear",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "e4b45d1b813f",
-      "title": "GORE-TEX Uppers Make This New Balance 2010 A Perfect Winter Beater",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/10/25/new-balance-2010-gore-tex-black-field-green-u20105is/",
-      "original_publish_time": "2026-10-25T20:00:02+00:00",
-      "scraped_time": "2026-10-26T01:02:43.707373+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "New Balance"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 5,
-      "summary": "Winter is coming, and sneaker brands are getting their ducks in a row with weatherproofed takes on some of their foremost lifestyle offerings. For New... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post GORE-TEX Uppers Make This New Balance 2010 A Perfect Winter Beater appeared first on Sneaker News . The post GORE-TEX Uppers Make This New Balance 2010 A Perfect Winter Beater appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "563e88004f39",
-      "title": "Nike’s Saucy Leather Air Max Is Straight from Italy",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-air-max-95-lux-one-block-down/",
-      "original_publish_time": "2026-10-25T18:38:19+00:00",
-      "scraped_time": "2026-10-25T19:29:46.236497+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "Nike's Air Max 95 Lux sneaker returns as a One Block Down collaboration for 2026, landing with the signature leather uppers plus some OBD twists.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "91b99e48ae93",
-      "title": "Nike’s Weatherized Forces Bring the Thunder During a Winter Storm",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-air-force-1-gore-tex-vibram-thunder-blue/",
-      "original_publish_time": "2026-10-25T17:52:19+00:00",
-      "scraped_time": "2026-10-25T19:29:46.237042+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike",
-        "Vibram"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "Nike's winter-ready Air Force 1 Low sneaker brings GORE-TEX, Vibram, & a tonal \"Thunder Blue\" colorway to the cold-weather season.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "62a7c3fefbc1",
-      "title": "Mephisto’s Beloved ‘Rolls-Royce of Shoes’ Is Getting a New Limited-edition Collaboration With a Legendary Retailer",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/mister-mort-tip-top-shoes-mephisto-match-release-date-1239385483/",
-      "original_publish_time": "2026-10-25T17:50:23+00:00",
-      "scraped_time": "2026-10-25T19:25:58.835999+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Mephisto"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 5,
-      "summary": "Menswear stylist and consultant Mister Mort is also involved in the tri-branded project.",
       "ren_take": "",
       "image_url": ""
     }
