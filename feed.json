@@ -1,8 +1,89 @@
 {
-  "last_updated": "2026-11-01T11:42:16.273800+00:00",
-  "total_articles": 123,
-  "sources_checked": 61,
+  "last_updated": "2026-11-01T17:11:18.840193+00:00",
+  "total_articles": 125,
+  "sources_checked": 62,
   "articles": [
+    {
+      "id": "7e03be51ae39",
+      "title": "New Balance 990v7, Air Jordan 6 “Infrared,” And This Week’s Best Releases",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/11/01/sneaker-releases-november-1-november-7-2026/",
+      "original_publish_time": "2026-11-01T17:00:02+00:00",
+      "scraped_time": "2026-11-01T17:00:33.368865+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [
+        "Nike",
+        "New Balance",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 5,
+      "summary": "We’ve spilled plenty of ink on the next entry in the 990x series, and this week, it finally becomes tangible. Simply because of how Nike-focused the... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post New Balance 990v7, Air Jordan 6 \"Infrared,\" And This Week's Best Releases appeared first on Sneaker News . The post New Balance 990v7, Air Jordan 6 “Infrared,” And This Week’s Best Releases appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "6815dde1453c",
+      "title": "Sheila Chepkirui, Andreas Almgren Win NYC Marathon to Cap Dominant Adidas Year and Give Nike Apex First Major",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/2026-nyc-marathon-winner-shoes-1239395020/",
+      "original_publish_time": "2026-11-01T15:43:15+00:00",
+      "scraped_time": "2026-11-01T17:00:22.692889+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Adidas"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "Chepkirui is the eighth 2026 major marathon winner to wear the Adidas Adizero Adios Pro 3.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "91a47bf190d9",
+      "title": "Gabby Williams WNBA Finals MVP In The Air Jordan 41 “Amethyst”",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/11/01/gabby-williams-wnba-finals-mvp-air-jordan-41/",
+      "original_publish_time": "2026-11-01T15:17:16+00:00",
+      "scraped_time": "2026-11-01T17:00:33.370611+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Jordan"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "The Air Jordan 41 has yet to make its retail debut in the United States, but the latest chapter in Michael Jordan’s signature footwear legacy... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Gabby Williams WNBA Finals MVP In The Air Jordan 41 \"Amethyst\" appeared first on Sneaker News . The post Gabby Williams WNBA Finals MVP In The Air Jordan 41 “Amethyst” appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "f6c1813cb989",
+      "title": "Inside the San Antonio factory keeping ‘the lost art’ of shoemaking alive in America - San Antonio Express-News",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSVVlNlBGRnFoZ0M4YU9EOGd4ZXlwajdISHdhN0lEQ3hTRHJHOTFvZC1XR0hDQTEzODdTNFFqQmhUd1pHYTZ4R2cwOThEYzI0R0xyTTl4YURSM0x1UDM1UzI0UGZTa3ZoaENNRTBNaWIwZVltTUlETnNzZGJOajBBbkc5WUZXQVNSUlFPTV9Za2QyS2ZtNUFLd0NWbXctblNUYXNSZDF5VmRSdw?oc=5",
+      "original_publish_time": "2026-11-01T13:05:09+00:00",
+      "scraped_time": "2026-11-01T17:00:44.237997+00:00",
+      "time_delta_mins": 0,
+      "category": "Manufacturing",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoemaking"
+      ],
+      "relevance_score": 3,
+      "summary": "Inside the San Antonio factory keeping ‘the lost art’ of shoemaking alive in America San Antonio Express-News",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "882e95be6e49",
       "title": "Closer Look at the Travis Scott x Nike CPFM Air Flea 1 \"Cactus Jack\"",
@@ -2518,45 +2599,6 @@
       ],
       "relevance_score": 5,
       "summary": "Menswear stylist and consultant Mister Mort is also involved in the tri-branded project.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "64cfbcc32de7",
-      "title": "Nike Ruggedized an Everyday Shoe. Now, It's a Military-Coded Flex",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-zoom-vomero-5-cordura-camo-green/",
-      "original_publish_time": "2026-10-25T17:07:03+00:00",
-      "scraped_time": "2026-10-25T19:29:46.237541+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 4,
-      "summary": "Nike's Zoom Vomero 5 Cordura sneaker receives a \"Camo Green\" makeover. Now, it's even more military-minded.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "9cc390951b88",
-      "title": "From the Archive: Stylish Boots to Make Any Witch Costume Halloween-Ready",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-features/halloween-ready-stylish-boots-witch-costume-1239383852/",
-      "original_publish_time": "2026-10-25T13:00:00+00:00",
-      "scraped_time": "2026-10-25T14:51:34.105349+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "boot",
-        "shoes"
-      ],
-      "relevance_score": 4,
-      "summary": "Halloween's favorite classic costume — the witch — gets a wickedly chic finish with these shoes and boots from the runway.",
       "ren_take": "",
       "image_url": ""
     }
