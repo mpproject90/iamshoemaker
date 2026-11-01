@@ -1,6 +1,107 @@
 {
-  "last_updated": "2026-10-25T13:01:55.837961+00:00",
+  "last_updated": "2026-11-01T14:50:22.319469+00:00",
   "bulletins": [
+    {
+      "id": "wk44-2026",
+      "week_number": 44,
+      "year": 2026,
+      "date_from": "2026-10-26",
+      "date_to": "2026-11-01",
+      "published": "2026-11-01T14:50:22.318875+00:00",
+      "intro": "Week 44 arrives with a familiar tension: premium collaborations flooding the market while macro headwinds quietly erode volume in core export economies. Brazilian export data deserves more attention than it will get, and Bank of America's holiday read-through has real sourcing implications beneath the headline. The noise is loud; the signal is in the numbers.",
+      "articles": [
+        {
+          "title": "NN.07 and Clarks Originals Rework the Wallabee and Desert Boot in New Collab",
+          "source_name": "Hypebeast",
+          "source_url": "https://hypebeast.com/2026/10/nn-07-and-clarks-originals-rework-the-wallabee-and-desert-boot-in-new-collab",
+          "category": "Leather",
+          "relevance_score": 9,
+          "original_publish_time": "2026-10-31T08:00:32+00:00",
+          "misaki_take": "Clarks continues to extract brand equity from its heritage silhouettes through Northern European lifestyle partners — a strategy that costs relatively little in tooling or material development but keeps the SKU alive in premium retail channels. The real play here is margin protection: a collab-priced Wallabee at full ticket offsets the volume pressure Clarks faces in its mid-market distribution."
+        },
+        {
+          "title": "Amer Sports Leads Athletic Footwear This Holiday Season as Others Struggle, Bank of America Says",
+          "source_name": "Footwear News",
+          "source_url": "https://wwd.com/footwear-news/shoe-industry-news/nike-lululemon-athletic-footwear-holiday-off-price-salomon-1239385565/",
+          "category": "Supply Chain",
+          "relevance_score": 9,
+          "original_publish_time": "2026-10-26T18:57:21+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "Brand loyalists say these supportive Skechers sneakers are their 'new favorite' shoes - AOL.com",
+          "source_name": "Google News - Sneaker Brand",
+          "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdU1MM0pxSlVsQ0FtQmV2T180TFpjUnFJQzJRUXpfQnpsdnVTSXdjVGRfUkdhSE9FRVhTc18zZHBjemxPSTAyRng5YXBzM3hZODdhcTExcFo1amdsMlRINGpLcGZsWU45bTBxZk02WV9ud0Q0bFVMQnFMNjdsMWlWQTZaU19xVWhwU0owdHRBdjhreEdUSDN0UDh4dFNzdGoxUWlVVXhPR0xsZVJULTNfV1Nxclg3QlpaRUM4bk56R202aEZzRXc?oc=5",
+          "category": "Supply Chain",
+          "relevance_score": 8,
+          "original_publish_time": "2026-11-01T02:00:00+00:00",
+          "misaki_take": "Skechers' comfort positioning continues to convert at retail precisely because they have industrialized the comfort ingredient — memory foam, arch support, wide-width lasts — at a price point that premium brands cannot match without gutting their margins. The loyalty language in consumer coverage like this is a lagging indicator of what Skechers' factory utilization data already showed two quarters ago."
+        },
+        {
+          "title": "Kith and Timberland Deliver Three-Boot Footwear Collection for Winter 2026",
+          "source_name": "Hypebeast",
+          "source_url": "https://hypebeast.com/2026/10/kith-timberland-three-boot-footwear-collaboration-wild-dove-burgundy-wheat-winter-2026-collection-release-info",
+          "category": "Brand News",
+          "relevance_score": 8,
+          "original_publish_time": "2026-10-29T08:32:18+00:00",
+          "misaki_take": "Shearling liners and Vibram outsoles on a limited drop are a textbook premium material-cost-to-retail-price leverage play — the BOM increase is real but modest, while the retail markup is substantial, making this one of the more defensible margin structures in collaborative footwear. Timberland's repeated return to Kith across multiple seasons also tells you something about how the brand is managing wholesale channel risk: controlled scarcity through credible creative partners rather than broad distribution."
+        },
+        {
+          "title": "Official Look at Nike and Eastside Golf's \"Zero Gravity\" Footwear Range",
+          "source_name": "Hypebeast",
+          "source_url": "https://hypebeast.com/2026/10/eastside-golf-nike-air-max-90-g-io4670-001-infinity-next-tour-3-io4663-001-collaboration-official-look-release-info",
+          "category": "Brand News",
+          "relevance_score": 8,
+          "original_publish_time": "2026-10-27T08:45:58+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "Nike's UGG-Coded Slipper Boot Is the Coziest Recovery Flex",
+          "source_name": "Highsnobiety",
+          "source_url": "https://www.highsnobiety.com/p/nike-24-7-boot/",
+          "category": "Sustainability",
+          "relevance_score": 7,
+          "original_publish_time": "2026-10-31T18:43:08+00:00",
+          "misaki_take": "Nike entering the recovery slipper category with a sheepskin-adjacent silhouette is a direct response to the UGG-Hoka crossover consumer who shops comfort without irony — and it signals that Nike's product team sees meaningful whitespace in the post-workout and recovery segment at accessible price points. The category stakes are low enough that a misstep costs little, but a hit here diversifies Nike's revenue base in exactly the direction analysts have been asking for."
+        },
+        {
+          "title": "HAVEN and Timberland Shroud the Field Boot in Tonal Hairy Suede",
+          "source_name": "Hypebeast",
+          "source_url": "https://hypebeast.com/2026/10/haven-timberland-field-boot-fall-winter-fw-2026-collaboration-release-info",
+          "category": "Leather",
+          "relevance_score": 7,
+          "original_publish_time": "2026-10-27T07:22:39+00:00",
+          "misaki_take": "Hairy suede at $230 retail is aggressive pricing for that material spec — the nap finishing and consistent tonal dyeing on reversed hides adds real complexity at the tannery and cutting room level, and margins at that price point are tight unless volume is kept deliberately small. HAVEN's distribution footprint makes that math work, but this is not a model anyone should try to scale."
+        },
+        {
+          "title": "Jimmy Choo Momentum Grows as Shoes Reclaim the Fashion Spotlight",
+          "source_name": "Footwear News",
+          "source_url": "https://wwd.com/footwear-news/shoe-industry-news/capri-jimmy-choo-strategy-sales-1239393091/",
+          "category": "Retail",
+          "relevance_score": 6,
+          "original_publish_time": "2026-10-30T21:33:49+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "Timberland’s Most Iconic Boots Get New Premium Limited-Edition Upgrades in Latest Kith Collaboration",
+          "source_name": "Footwear News",
+          "source_url": "https://wwd.com/footwear-news/sneaker-news/kith-timberland-winter-2026-premium-6-inch-waterproof-boot-1239391318/",
+          "category": "Brand News",
+          "relevance_score": 6,
+          "original_publish_time": "2026-10-29T16:04:06+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "Brazilian Footwear Exports Fall 15.6% This Year - DatamarNews",
+          "source_name": "Google News - Footwear Industry",
+          "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTmN4eURRSGljZk5RYzh3dXY0T21SekJXVkY1UEJ5UHhjUFhhQmRNMnM3ZGYyanh5MUY5M2luZUFXeGd1VmFNbHphb1FCOHhvOHlwLWRMRVBkQ2NyR0Y4S0RscUpSQ2gzRGZfX29MNF9tQmFjMTdjNXg4akhFdXB3cU5xeVFlaTFPbUJlMzM3TDRUVDdfMmFhTQ?oc=5",
+          "category": "Trade Data",
+          "relevance_score": 6,
+          "original_publish_time": "2026-10-28T20:16:09+00:00",
+          "misaki_take": "A 15.6% year-to-date export decline is not a blip — at that magnitude it reflects a combination of BRL strength, sustained competition from Vietnamese and Chinese price points, and weakening demand from Brazil's primary export markets in the US and Europe, and it will compress factory capacity utilization enough to force consolidation among mid-sized producers in the Franca and Vale dos Sinos clusters. Buyers who have been using Brazilian suppliers as a quality hedge in leather footwear should be having conversations now about factory viability and lead time reliability before those risks become disruptions."
+        }
+      ]
+    },
     {
       "id": "wk43-2026",
       "week_number": 43,
@@ -907,107 +1008,6 @@
           "relevance_score": 6,
           "original_publish_time": "2026-08-18T16:12:44+00:00",
           "misaki_take": ""
-        }
-      ]
-    },
-    {
-      "id": "wk33-2026",
-      "week_number": 33,
-      "year": 2026,
-      "date_from": "2026-08-10",
-      "date_to": "2026-08-16",
-      "published": "2026-08-16T08:32:21.940582+00:00",
-      "intro": "Week 33 arrives with the industry in a familiar late-summer posture: brands are previewing deep into 2027, collabs are being used as margin management tools, and sustainability narratives are quietly moving from PR to production. The thread connecting this week's news is the ongoing tension between craft and scale — who gets to make what, where, and at what cost.",
-      "articles": [
-        {
-          "title": "HOKA Reissues the Tor Ultra Lo in Four Tonal Colorways",
-          "source_name": "Hypebeast",
-          "source_url": "https://hypebeast.com/2026/8/hoka-tor-ultra-lo-reissue-first-look-antique-olive-black-varsity-navy-archival-taupe-info",
-          "category": "Leather",
-          "relevance_score": 9,
-          "original_publish_time": "2026-08-10T08:51:50+00:00",
-          "misaki_take": "Staggered release windows across August through December are a deliberate inventory velocity play — HOKA is managing sell-through risk by drip-feeding supply rather than absorbing a full-season write-down on a heritage reissue. Premium nubuck with GORE-TEX construction at a $243 MSRP signals a FOB target that will stress-test Vietnamese factories already running tight on waterproof bootie capacity heading into Q4."
-        },
-        {
-          "title": "norda’s FW26 Lineup Highlights Marbled Midsoles and Iridescent Accents",
-          "source_name": "Hypebeast",
-          "source_url": "https://hypebeast.com/2026/8/norda-fall-winter-2026-footwear-collection-001a-002-005-008-055-055-g-release-info",
-          "category": "Trade Data",
-          "relevance_score": 8,
-          "original_publish_time": "2026-08-11T11:53:44+00:00",
-          "misaki_take": ""
-        },
-        {
-          "title": "An AI Bama Rush Hopeful Is Going Viral in ‘Nike’ Sneakers That Technically Don’t Exist",
-          "source_name": "Footwear News",
-          "source_url": "https://wwd.com/footwear-news/shoe-features/ai-bama-rushtok-nike-sneakers-1239125514/",
-          "category": "Retail",
-          "relevance_score": 6,
-          "original_publish_time": "2026-08-14T20:53:37+00:00",
-          "misaki_take": ""
-        },
-        {
-          "title": "Veteran Footwear Designer Lucette Holland Wants to Challenge Mainstream Shoemaking With Sustainable Brand Ceecee",
-          "source_name": "Footwear News",
-          "source_url": "https://wwd.com/footwear-news/shoe-trends/ceecee-sustainable-shoe-brand-interview-lucette-holland-1239100517/",
-          "category": "Sustainability",
-          "relevance_score": 6,
-          "original_publish_time": "2026-08-14T18:22:52+00:00",
-          "misaki_take": ""
-        },
-        {
-          "title": "Take a First Look at the mfpen x New Balance 992 Sneaker",
-          "source_name": "Hypebeast",
-          "source_url": "https://hypebeast.com/2026/8/mfpen-new-balance-992-first-look-info",
-          "category": "Leather",
-          "relevance_score": 6,
-          "original_publish_time": "2026-08-14T13:19:50+00:00",
-          "misaki_take": "Revealing a March 2027 collab on a Copenhagen runway in August 2026 is a seven-month lead time signal that Made in USA production slots are being locked well in advance, confirming that New Balance's Flimby and Lawrence facilities have meaningful forward demand pressure. For sourcing managers benchmarking domestic versus offshore cost differentials, that demand signal matters more than the aesthetic."
-        },
-        {
-          "title": "Born X Raised and Vans Unveil the Authentic 44 Collection for SS27",
-          "source_name": "Hypebeast",
-          "source_url": "https://hypebeast.com/2026/8/born-x-raised-vans-authentic-44-collection-mexico-city-ss27-revealed",
-          "category": "Retail",
-          "relevance_score": 6,
-          "original_publish_time": "2026-08-13T19:00:08+00:00",
-          "misaki_take": "The House of Vans Mexico City community drop — 50 pairs, friends and family only — is a controlled scarcity mechanism that shifts brand equity work from marketing budget to production planning, keeping SKU counts low while generating disproportionate social surface area. Vans is using its collab infrastructure as a margin-preserving alternative to broad seasonal discounting, and the Authentic 44 canvas construction keeps FOB exposure minimal while the storytelling does the heavy lifting."
-        },
-        {
-          "title": "Kylie Jenner Channels Her Longtime Love of Shoes With Khy’s First Footwear Collection",
-          "source_name": "Footwear News",
-          "source_url": "https://wwd.com/footwear-news/shoe-trends/kylie-jenner-khy-gia-borghini-shoe-collection-1239117647/",
-          "category": "Retail",
-          "relevance_score": 6,
-          "original_publish_time": "2026-08-12T18:06:00+00:00",
-          "misaki_take": ""
-        },
-        {
-          "title": "UP THERE and ASICS Go Fluo With the GEL-KAYANO 20 “Safety Yellow”",
-          "source_name": "Hypebeast",
-          "source_url": "https://hypebeast.com/2026/8/up-there-asics-gel-kayano-20-safety-yellow-pure-silver-1203b288-750-release-info",
-          "category": "Retail",
-          "relevance_score": 6,
-          "original_publish_time": "2026-08-12T10:35:15+00:00",
-          "misaki_take": ""
-        },
-        {
-          "title": "HI-TEC HTS74 Unveils FW26 “Sierra ’78” Collection Inspired by Heritage Hiking",
-          "source_name": "Hypebeast",
-          "source_url": "https://hypebeast.com/2026/8/hi-tec-hts74-fw26-collection-release-info",
-          "category": "Trade Data",
-          "relevance_score": 6,
-          "original_publish_time": "2026-08-12T09:45:06+00:00",
-          "misaki_take": ""
-        },
-        {
-          "title": "Moncler Gears up for FW26 With an Extensive Footwear Collection",
-          "source_name": "Hypebeast",
-          "source_url": "https://hypebeast.com/2026/8/moncler-fall-winter-2026-footwear-collection-info",
-          "category": "Brand News",
-          "relevance_score": 6,
-          "original_publish_time": "2026-08-12T09:13:02+00:00",
-          "misaki_take": "The Clarks, Moon Boot, and Rick Owens collaboration roster in a single season collection is a capital-intensive bet on collab velocity that only works at Moncler's retail price floor — each partnership carries design, legal, and production coordination costs that erode quickly below a certain ASP threshold. Expanding the in-house Trailgrip franchise in parallel is the smart hedge: proprietary tooling amortization and margin structure that collaborative product structurally cannot match."
         }
       ]
     }
