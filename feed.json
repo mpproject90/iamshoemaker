@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-01T21:07:58.778388+00:00",
+  "last_updated": "2026-11-02T02:21:33.818347+00:00",
   "total_articles": 124,
   "sources_checked": 61,
   "articles": [
@@ -103,6 +103,25 @@
       "keywords_matched": [],
       "relevance_score": 4,
       "summary": "Chepkirui is the eighth 2026 major marathon winner to wear the Adidas Adizero Adios Pro 3.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "f9dc18806213",
+      "title": "NRBC Bank signs deal with BB to support leather industry - The Financial Express",
+      "source_name": "Google News - Leather Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUWdoci1FUFdVNERoNEctS2JHZ2tUSFcxUV9MS0pSYTlZZmltZjVaS3pfWll1V1lXVWxjeUdSMmlqenZycHdkdmkwSUdqbHVRNU5CS29wWlA4ZHBWNEMxbi14SWJ1TWVPOGZUMmFjSlR1UkJ2d3RMLUNXM28tZ0NWdmU4c05pb2tSUGtrcWF4cm93bWxoZS1kN1UzVGlKdw?oc=5",
+      "original_publish_time": "2026-11-01T15:25:35+00:00",
+      "scraped_time": "2026-11-02T02:10:54.540566+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "leather industry"
+      ],
+      "relevance_score": 3,
+      "summary": "NRBC Bank signs deal with BB to support leather industry The Financial Express",
       "ren_take": "",
       "image_url": ""
     },
@@ -2558,26 +2577,6 @@
       ],
       "relevance_score": 3,
       "summary": "Name: Nike Dunk Low “Basketball Charm”Colorway: Mystic Dates/University Gold/Gum Medium BrownSKU: JA3772-658MSRP: $120 USDRelease Date: Fall 2026The Nike Dunk Low is heading into Fall/Winter 2026 with a “Basketball Charm” edition for women that pairs shaggy suede with a detachable metal accessory. Official images show a Mystic Dates and Coconut Milk build finished with gold accents and a gum sole.Mystic Dates suede with a long, hairy nap makes up the overlays, covering the toe cap, eyestay and heel in the Dunk’s traditional color-blocking layout. The Swoosh breaks from that burgundy tone in Coconut Milk suede, while smooth Coconut Milk leather forms the toe box, quarter panels and collar underneath.The standout detail is a metallic basketball charm secured to the laces, and it can be taken",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "382cec20400f",
-      "title": "Spanish footwear exports edge up by 0.8% in the first seven months - World Footwear",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNnJZdHRJYnRhTUtrXzYzeUVyM3FtMllzZWVlOGM3T19GbXd3d3NIX0thSmc0ZGpJSDF3cHVUNFBscDVQM0Z2RnZUUTVBX0l5QWVLdzJFWm9iRHVDNFhwNmhYZ1BGNnlITkhTV1ktbzI0dTFiRXBvZVVheWJzUjA4cENDWG9oVnlVM3hZTF8yYWF3ekxaUEdkNFNJd3NXajJnWDhDU2VmdWlTMklKYm5n?oc=5",
-      "original_publish_time": "2026-10-26T00:02:34+00:00",
-      "scraped_time": "2026-10-26T01:02:54.616454+00:00",
-      "time_delta_mins": 0,
-      "category": "Trade Data",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "footwear exports"
-      ],
-      "relevance_score": 6,
-      "summary": "Spanish footwear exports edge up by 0.8% in the first seven months World Footwear",
       "ren_take": "",
       "image_url": ""
     }
