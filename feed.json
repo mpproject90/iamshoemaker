@@ -1,8 +1,109 @@
 {
-  "last_updated": "2026-11-02T13:05:38.023550+00:00",
-  "total_articles": 123,
+  "last_updated": "2026-11-02T20:49:16.814792+00:00",
+  "total_articles": 121,
   "sources_checked": 61,
   "articles": [
+    {
+      "id": "597a3e8ab8e0",
+      "title": "Jordan's Color-Shifting 'Space Jam' Shoes Are Genuinely Magical",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/jordan-11-space-jam-magic-ball/",
+      "original_publish_time": "2026-11-02T19:45:16+00:00",
+      "scraped_time": "2026-11-02T20:42:09.766617+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Jordan"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 5,
+      "summary": "The Air Jordan 11 \"Magic Ball\" is a cool, color-shifting sneaker designed for the \"Space Jam\" anniversary. Here's everything on the release.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "330ac57fc9cf",
+      "title": "Pringle Of Scotland Brings Premium Wool To Vans Skate Classics",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/11/02/pringle-of-scotland-vans-release-date/",
+      "original_publish_time": "2026-11-02T19:00:59+00:00",
+      "scraped_time": "2026-11-02T20:38:46.263541+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Vans"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "As we begin prepping year-end content, it’s crystal clear that Vans is among the biggest winners of 2026 in sneakers. Though the “Pearlized” moment that’s... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Pringle Of Scotland Brings Premium Wool To Vans Skate Classics appeared first on Sneaker News . The post Pringle Of Scotland Brings Premium Wool To Vans Skate Classics appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "fa99826f8b43",
+      "title": "Boot Barn ramps up store openings despite lowering outlook",
+      "source_name": "Retail Dive",
+      "source_domain": "retaildive.com",
+      "source_url": "https://www.retaildive.com/news/boot-barn-ramps-up-store-openings-lower-outlook/873449/",
+      "original_publish_time": "2026-11-02T17:24:00+00:00",
+      "scraped_time": "2026-11-02T20:41:27.295821+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 3,
+      "summary": "Warm weather impacted some sales in the second quarter, but the retailer is refreshing key assortments as it accelerates its footprint expansion.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "abd0c0f2405c",
+      "title": "Where to Buy: Converse At Your Service Restaurant Non-Slip Shoes - House of Heat°",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQam8wd1B4VUNLT2ZSQ2RfbXRHYWlvZEt2c2RGTTJ1aWZWUDRhelJMWlVwRWJzVW01Nm9zaW1FbEU4RktLdENLUFJBRU1PaHdDZHRsYklaWEtyUGdTN0xKT2lhRkZ2M2JTOG45Wk1jdDI2YlMtNTl6VjRqRGFlYU5NVWZPNmZyRGFrNVBj?oc=5",
+      "original_publish_time": "2026-11-02T15:05:50+00:00",
+      "scraped_time": "2026-11-02T20:38:57.172029+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Converse"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 5,
+      "summary": "Where to Buy: Converse At Your Service Restaurant Non-Slip Shoes House of Heat°",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "bec11a561aae",
+      "title": "Santoni Proves You Can Run a Marathon in Dress Shoes",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/santoni-nyc-marathon-weekend-pop-up-easy-shoes-details-1239395049/",
+      "original_publish_time": "2026-11-02T15:00:00+00:00",
+      "scraped_time": "2026-11-02T20:38:35.511460+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "Executive president and chairman Giuseppe Santoni noted that the idea to outfit athletes in the Easy Run shoes stemmed from wanting to do something unexpected.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "4080aa8c21b0",
       "title": "Four killed in Delhi shoe factory fire",
@@ -125,6 +226,26 @@
       ],
       "relevance_score": 5,
       "summary": "Summary Nike SB is commemorating the 25th anniversary of the SB Dunk with an upcoming Champagne colorwayOfficial imagery reveals glossy green patent leather uppers metallic gold accents cork insoles and gothic typographyThe celebratory sneaker is scheduled to arrive at select skate shops and Nike SNKRS in November 2026 for 130 USD Name: Nike SB Dunk Low \"Champagne\"Colorway: Black Spruce-Black-Bright Ceramic-Metallic GoldSKU: IQ0431-300MSRP: $180 USDRelease Date: November 6, 2026Where to Buy: NikeNike SB is celebrating the upcoming 25th anniversary of its iconic flagship silhouette with the Nike SB Dunk Low \"Champagne\". Newly surfaced official imagery confirms the celebratory design, outfitting the 2002 skateboarding staple in festive materials inspired directly by the presentation of authe",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "b6ecdc38ea4f",
+      "title": "Michael Kors and Jimmy Choo parent raises guidance as it swings to profit",
+      "source_name": "Drapers",
+      "source_domain": "drapersonline.com",
+      "source_url": "https://www.drapersonline.com/news/michael-kors-and-jimmy-choo-parent-raises-guidance-as-it-swings-to-profit",
+      "original_publish_time": "2026-11-02T07:53:13+00:00",
+      "scraped_time": "2026-11-02T20:41:38.101726+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [
+        "Jimmy Choo",
+        "Capri"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "Drapers Michael Kors and Jimmy Choo parent raises guidance as it swings to profit Luxury fashion group Capri Holdings, which owns Michael Kors, Jimmy Choo and Versace, hailed \"building momentum\" as it returned to profit during the second quarter ended 26 September. The post Michael Kors and Jimmy Choo parent raises guidance as it swings to profit appeared first on Drapers .",
       "ren_take": "",
       "image_url": ""
     },
@@ -2391,169 +2512,6 @@
       ],
       "relevance_score": 3,
       "summary": "Portuguese footwear joins new European alliance for the bioeconomy World Footwear",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "2a86e6fe2d89",
-      "title": "What’s Weighing on Yue Yuen as Shoe Manufacturing Giant Issues Profit Warning",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/shoe-maker-yue-yuen-profit-decline-nine-months-warning-1239386451/",
-      "original_publish_time": "2026-10-26T20:26:18+00:00",
-      "scraped_time": "2026-10-26T21:17:57.642566+00:00",
-      "time_delta_mins": 0,
-      "category": "Manufacturing",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoe manufacturing"
-      ],
-      "relevance_score": 3,
-      "summary": "Taiwanese shoe manufacturer Yue Yuen said it expects a profit decline of between 50 percent to 55 percent for the nine months ended Sept. 30, 2026.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "bd61dde417d7",
-      "title": "Official Images Have Finally Landed for the Return of One of Michael Jordan’s Most Heralded Game Sneakers",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/air-jordan-6-white-infrared-release-date-ct8529-105-2-1239386498/",
-      "original_publish_time": "2026-10-26T19:44:06+00:00",
-      "scraped_time": "2026-10-26T21:17:57.644724+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Jordan"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 5,
-      "summary": "The Air Jordan 6 White/Infrared is set to release in early November.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "36671cd029be",
-      "title": "Nike's Slick Foamposite Dad Sneaker Is Outdoor-Ready",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-air-max-goadome-low-foamposite/",
-      "original_publish_time": "2026-10-26T19:05:39+00:00",
-      "scraped_time": "2026-10-26T21:21:41.648525+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 3,
-      "summary": "Nike's Air Max Goadome Low Foamposite sneaker-boot lands in the classic \"Metallic Gold\" colorway for its debut release.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "9e970cb84b45",
-      "title": "Amer Sports Leads Athletic Footwear This Holiday Season as Others Struggle, Bank of America Says",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/nike-lululemon-athletic-footwear-holiday-off-price-salomon-1239385565/",
-      "original_publish_time": "2026-10-26T18:57:21+00:00",
-      "scraped_time": "2026-10-26T21:17:57.645249+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "athletic footwear",
-        "footwear"
-      ],
-      "relevance_score": 9,
-      "summary": "Nike and Lululemon will see challenges this holiday season, while Amer Sports and off-price are the big winners, says Bank of America.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "f9e3127bff0d",
-      "title": "Brazil’s footwear sector bets on Mercosur-EU deal - Agência de Notícias Brasil-Árabe - ANBA",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5aUnlacmJKcVhadE5vOFV5RjMweUc0NXJPOVJFd2c1am1uTWItUm0xUTZDS2NUd01SZXMtV1IwR0FzVUo1cjhDcGFJc2QwRDcyN3hZQXJLNld0OHl2enc1RkJTRnc3TUNvb1d5VlY0SkZLZTZpemVmWHZGZHQ?oc=5",
-      "original_publish_time": "2026-10-26T18:55:19+00:00",
-      "scraped_time": "2026-10-26T21:18:19.633571+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Brazil’s footwear sector bets on Mercosur-EU deal Agência de Notícias Brasil-Árabe - ANBA",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "b5cdfc784083",
-      "title": "ASICS Is Building Their Future Of Footwear With The University Of Michigan",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/10/26/asics-institute-of-sport-science-america-university-of-michigan/",
-      "original_publish_time": "2026-10-26T18:00:21+00:00",
-      "scraped_time": "2026-10-26T21:18:08.702826+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [
-        "ASICS"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 5,
-      "summary": "In 1935, Ann Arbor was where Jesse Owens laced up his track spikes and broke three world records in track and field. In 2007, former... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post ASICS Is Building Their Future Of Footwear With The University Of Michigan appeared first on Sneaker News . The post ASICS Is Building Their Future Of Footwear With The University Of Michigan appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "99cea877bf70",
-      "title": "Our Legacy Teases First Collaboration With Nike",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/10/26/our-legacy-nike-2027/",
-      "original_publish_time": "2026-10-26T17:42:58+00:00",
-      "scraped_time": "2026-10-26T21:18:08.704078+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "Swedish menswear label Our Legacy is officially joining forces with Nike, announcing its first collaboration with the Swoosh through a cryptic Instagram teaser that suggests... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Our Legacy Teases First Collaboration With Nike appeared first on Sneaker News . The post Our Legacy Teases First Collaboration With Nike appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "fc72d58cb1bd",
-      "title": "The Apartment Brings The “Kingfisher” To Life On The New Balance 2010",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/10/26/the-apartment-new-balance-2010-kingfisher-u2010376/",
-      "original_publish_time": "2026-10-26T15:30:05+00:00",
-      "scraped_time": "2026-10-26T17:08:39.754420+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "New Balance"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "It doesn’t take a local to appreciate a region’s appreciation of sneakers. Look at how the DMV and NYC have made the Air Force 1... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Apartment Brings The \"Kingfisher\" To Life On The New Balance 2010 appeared first on Sneaker News . The post The Apartment Brings The “Kingfisher” To Life On The New Balance 2010 appeared first on Sneaker News .",
       "ren_take": "",
       "image_url": ""
     }
