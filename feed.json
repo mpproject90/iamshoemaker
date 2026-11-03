@@ -1,8 +1,87 @@
 {
-  "last_updated": "2026-11-02T23:57:01.263617+00:00",
-  "total_articles": 125,
+  "last_updated": "2026-11-03T04:03:08.364236+00:00",
+  "total_articles": 128,
   "sources_checked": 61,
   "articles": [
+    {
+      "id": "5c766e20c372",
+      "title": "Keke Palmer Matches Gold Aquazzura Sandals With Raquel Welch’s One-of-a-Kind Bob Mackie Gown at the 2026 CFDA Awards",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-trends/keke-palmer-aquazzura-sandals-bob-mackie-dress-cfda-2026-1239397464/",
+      "original_publish_time": "2026-11-03T01:56:44+00:00",
+      "scraped_time": "2026-11-03T03:52:01.742858+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "sandal"
+      ],
+      "relevance_score": 4,
+      "summary": "The awards show host revisited the Italian footwear brand in a vintage look originally made for Welch, who wore it alongside Cher on \"The Cher Show.\"",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "97cda6799144",
+      "title": "First Look at the Travis Scott x Rockstar Games x Nike Air Force 1 Low \"Grand Theft Auto\" in Black",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/11/travis-scott-cactus-jack-rockstar-games-nike-air-force-1-low-grand-theft-auto-6-black-first-look",
+      "original_publish_time": "2026-11-03T01:36:54+00:00",
+      "scraped_time": "2026-11-03T03:52:12.206540+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "Summary Leaked images have surfaced showcasing a first look at the Travis Scott and Rockstar Games collaborative Nike Air Force 1 Low in BlackThe design features 'Grand Theft Auto'-inspired accents including a toe-box money band and a six-star wanted level graphicThe sneaker collaboration is reportedly slated to drop on November 19 alongside the arrival of 'Grand Theft Auto VI' Nike has reportedly teamed up with Travis Scott's Cactus Jack and Rockstar Games on the Nike Air Force 1 Low \"Grand Theft Auto\" in Black, according to newly surfaced leak imagery. First shared by @prm.stocks.01, the purported collaboration delivers a thematic execution inspired directly by the open-world video game franchise.Suggested imagery reveals a black-based construction incorporating multiple elements tied to",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "b91d713feb0a",
+      "title": "Portuguese men’s footwear brands to be showcased in New York - World Footwear",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMVdPTHpOUk9kanhDZVdQQjVTNFZTYzhaWDRqTG5UUkU1cTFreUxmcDlVS0R0WFFsRmMwTEFiZENBbjE5Qmh1andwU0Izd3NFd3puVTJOd1ZKZ1c2OFpJbWEtMzFabG5BaTlIbU9NX0c4bUthNEJ2X1l6ekJVaDZmTUU1amRra0Npb0NwZ0VPMkdVREtHMURGVU54ZlktN1FETFlOS0xRVWI?oc=5",
+      "original_publish_time": "2026-11-03T00:01:15+00:00",
+      "scraped_time": "2026-11-03T03:52:23.149205+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Portuguese men’s footwear brands to be showcased in New York World Footwear",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "e99a009bc4db",
+      "title": "adidas Harden Vol. 11 Launches In December",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/11/02/adidas-harden-vol-11-release-date/",
+      "original_publish_time": "2026-11-03T00:00:27+00:00",
+      "scraped_time": "2026-11-03T03:52:12.326836+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "James Harden and adidas Basketball are preparing to introduce the eleventh chapter of their signature footwear partnership in December. Alongside a closer examination of the... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post adidas Harden Vol. 11 Launches In December appeared first on Sneaker News . The post adidas Harden Vol. 11 Launches In December appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "4c4b111a1462",
       "title": "The Sashiko Gals Worked Their Magic On The Colette x Air Jordan 1",
@@ -2581,25 +2660,6 @@
       ],
       "relevance_score": 3,
       "summary": "Summary Fox has scheduled its upcoming Baywatch reboot to officially premiere on January 6 at 9 p.m.The 12-episode series stars Stephen Amell as Captain Hobie Buchannon alongside Jessica Belkin as his long-lost daughter CharlieExecutive produced by showrunner Matt Nix and pilot director McG the revival features an ensemble cast including Shay Mitchell and Megan Thee Stallion Fox has officially announced the broadcast premiere date for its forthcoming Baywatch reboot, locking in the drama for January 6 at 9 p.m. The continuation revives the iconic 1990s television franchise with a 12-episode order for the network's 2026–2027 broadcast slate.Co-produced by Fox Entertainment and Fremantle, the revival stars Stephen Amell as an adult Hobie Buchannon, who has grown from the wild child of the 19",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "22465acf97d6",
-      "title": "Portuguese footwear joins new European alliance for the bioeconomy - World Footwear",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZW53ZWoxVEVNTFlfQW9NVW5FRlJGUUxlOWFqWThVVDBPWG00S0JTWlhVeU01RTZxUEpBY29mVEpaTTJnaTh2aVZydjlEUWxObDhhanRkcTJnMW9rVEhrQ3BaYXZRTGpDV3VDaXlmRXV3c2VoQmZ5enlub1JrX0FtaTdxZGl5eUdvQTZTa1RKUkFoVW8tTzZqZDl0R2Y0d1k2cko0N2VUZVF3cXYyYnd1Mjdn?oc=5",
-      "original_publish_time": "2026-10-27T00:00:25+00:00",
-      "scraped_time": "2026-10-27T01:52:59.618091+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Portuguese footwear joins new European alliance for the bioeconomy World Footwear",
       "ren_take": "",
       "image_url": ""
     }
