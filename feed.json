@@ -1,8 +1,72 @@
 {
-  "last_updated": "2026-11-03T12:37:25.241663+00:00",
-  "total_articles": 128,
-  "sources_checked": 60,
+  "last_updated": "2026-11-03T18:25:29.014535+00:00",
+  "total_articles": 122,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "123c2cab4a7f",
+      "title": "Ecco to shut Portugal and Vietnam shoe factories",
+      "source_name": "Ecotextile News",
+      "source_domain": "ecotextile.com",
+      "source_url": "https://www.ecotextile.com/2026110366984/radar/ecco-to-shut-portugal-and-vietnam-shoe-factories/",
+      "original_publish_time": "2026-11-03T17:50:40+00:00",
+      "scraped_time": "2026-11-03T18:16:55.076040+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Ecco"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Danish footwear maker Ecco is to close its shoe factories in Portugal and Vietnam as part of a restructuring that […] The post Ecco to shut Portugal and Vietnam shoe factories appeared first on Ecotextile News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "a88d4e7170b7",
+      "title": "Danish Footwear Maker Ecco Shuts Portugal, Vietnam Factories in Restructuring Move",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/ecco-shutting-down-factory-portugal-vietnam-restructuring-1239398070/",
+      "original_publish_time": "2026-11-03T17:29:49+00:00",
+      "scraped_time": "2026-11-03T18:14:42.558356+00:00",
+      "time_delta_mins": 0,
+      "category": "Manufacturing",
+      "brands_mentioned": [
+        "Ecco"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 5,
+      "summary": "Danish shoemaker Ecco is shutting down its factory operations in Portugal and Vietnam in a global restructuring initiative to cut costs that will impact 2,400 jobs.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "9d50023ef64b",
+      "title": "Nike SB Air Jordan 4 “Sea Crystal” Inspired By Sandy Bodecker’s Favorite SB Dunks",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/11/03/nike-sb-air-jordan-4-sea-crystal-sandy-bodecker/",
+      "original_publish_time": "2026-11-03T16:20:47+00:00",
+      "scraped_time": "2026-11-03T18:14:53.249666+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "Some of the most fascinating sneakers in Nike’s history are the ones that never make it to retail. A previously unseen Nike SB Air Jordan... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike SB Air Jordan 4 \"Sea Crystal\" Inspired By Sandy Bodecker's Favorite SB Dunks appeared first on Sneaker News . The post Nike SB Air Jordan 4 “Sea Crystal” Inspired By Sandy Bodecker’s Favorite SB Dunks appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "8523bc9db650",
       "title": "From Salomon to New Balance, the Seven Best Sneakers to Cop This Week",
@@ -2475,191 +2539,6 @@
       ],
       "relevance_score": 3,
       "summary": "Nike is digging deeper into its outdoor footwear archives, bringing back the Baltoro Low for the Spring 2027 season. We’ve uncovered a first look at... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike Is Bringing Back The Baltoro Low For Spring 2027 appeared first on Sneaker News . The post Nike Is Bringing Back The Baltoro Low For Spring 2027 appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "3681c6ae5a0b",
-      "title": "Sneaker Heels Are Making Headway in 2026 With Inventive Silhouettes From Major Brands",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-trends/sneaker-heels-comeback-trend-2026-nike-converse-lacoste-1239387622/",
-      "original_publish_time": "2026-10-27T18:01:50+00:00",
-      "scraped_time": "2026-10-27T21:06:20.697287+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Nike",
-        "Converse",
-        "Lacoste"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "Nike, Converse, Vaquera and Lacoste have all revealed sneaker heel styles lately.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "4f8d91a30e8f",
-      "title": "Timberland’s Beloved Field Boot Gets Upgraded with Gore-Tex on This New Limited-edition Collaboration",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/haven-timberland-field-boot-gore-tex-release-date-1239387900/",
-      "original_publish_time": "2026-10-27T17:55:50+00:00",
-      "scraped_time": "2026-10-27T21:06:20.697749+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Timberland"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 5,
-      "summary": "The Haven x Timberland Field Boot GTX will be released this week.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "71a24f1e73c1",
-      "title": "The World is Walking In Portuguese Shoes - V Magazine",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5FNDRrSzM4VU9UeDFmNC0tOHBwXzZfLTdIQmxIZVR2WjB0bFNOYy02aWNHeHRFeXRubTlLTkpLX1l5NS02aU9ZOUlGTEVuZXRTMm9NdUxtbnNZV1ZORk9LMGJkbDdQTW5wUW84T0FqcnhTajJWUHhWU0FZaw?oc=5",
-      "original_publish_time": "2026-10-27T15:57:47+00:00",
-      "scraped_time": "2026-10-28T10:52:40.220344+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "The World is Walking In Portuguese Shoes V Magazine",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "7de7d0972304",
-      "title": "Shai Gilgeous-Alexander’s Converse SHAI 001 “Flare” Drops October 29th",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/10/27/converse-shai-001-lace-up-flare-a23933c/",
-      "original_publish_time": "2026-10-27T15:30:10+00:00",
-      "scraped_time": "2026-10-27T16:13:16.643760+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [
-        "Nike",
-        "Converse",
-        "Jordan"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 5,
-      "summary": "Discounting Michael Jordan, Shai Gilgeous-Alexander will soon become just the second player ever to receive signature basketball sneakers under multiple Nike umbrellas, joining Dwyane Wade,... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Shai Gilgeous-Alexander's Converse SHAI 001 \"Flare\" Drops October 29th appeared first on Sneaker News . The post Shai Gilgeous-Alexander’s Converse SHAI 001 “Flare” Drops October 29th appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "51b9809e2c69",
-      "title": "$10 Billion-plus Shoe Brand Skechers Reaffirms Commitment to Manhattan Beach as Original HQ Goes Up for Sale",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/skechers-manhattan-beach-headquarters-sale-details-1239387247/",
-      "original_publish_time": "2026-10-27T15:24:53+00:00",
-      "scraped_time": "2026-10-27T16:13:05.798137+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Skechers"
-      ],
-      "keywords_matched": [
-        "shoe brand"
-      ],
-      "relevance_score": 5,
-      "summary": "The company is nearing completion of its new campus in Manhattan Beach.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "58fea74cd85e",
-      "title": "Brunt Commits to Donating $1 Million Worth of Work Boots to Trade School Students Next Year",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/brunt-work-boot-donation-trade-school-students-2027-details-1239387454/",
-      "original_publish_time": "2026-10-27T15:08:17+00:00",
-      "scraped_time": "2026-10-27T16:13:05.800941+00:00",
-      "time_delta_mins": 0,
-      "category": "Trade Data",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 3,
-      "summary": "Since launching in 2020, the company has already donated approximately 25,000 pairs to students nationwide.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "7836fa59ae4e",
-      "title": "Official Images Of The Nike Goadome Low Foamposite “Metallic Gold”",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/10/27/nike-goadome-low-foamposite-low-metallic-gold-black-cargo-khaki-iv7693-700/",
-      "original_publish_time": "2026-10-27T15:00:56+00:00",
-      "scraped_time": "2026-10-27T16:13:16.645599+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 3,
-      "summary": "Winter is coming, and no, in this specific case, we’re not talking about Kit Harington’s cameo spot in promoting KITH’s seasonal capsule. Boots-as-fashion is a... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Official Images Of The Nike Goadome Low Foamposite “Metallic Gold” appeared first on Sneaker News . The post Official Images Of The Nike Goadome Low Foamposite “Metallic Gold” appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "c09cfc7ef241",
-      "title": "Nike’s Oceanic Air Force 1 Sneaker Blue It in a Good Way",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-deep-royal-blue-air-force-1-07-lv-8-sneaker/",
-      "original_publish_time": "2026-10-27T13:24:33+00:00",
-      "scraped_time": "2026-10-27T16:17:02.176900+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "Nike's Glossy Air Force 1 sneaker is a bright blue take on one of the Swoosh's best low top sneakers ever.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "74f9121576ec",
-      "title": "Balkh Shoe Factories Say Afghanistan Self-Sufficient in Footwear Production - TOLOnews",
-      "source_name": "Google News - Shoe Manufacturing",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8yM0JSOW01eHJrcFVfQnl4UnVNTFYzaUMyNFVWY2FUbFcxLTdIQUthVmIxcG9zWEY3UWNYVWt2UWlyZzRrMUVOZWktZWFpSXFJNWc?oc=5",
-      "original_publish_time": "2026-10-27T13:12:17+00:00",
-      "scraped_time": "2026-10-29T17:19:32.012782+00:00",
-      "time_delta_mins": 0,
-      "category": "Manufacturing",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Balkh Shoe Factories Say Afghanistan Self-Sufficient in Footwear Production TOLOnews",
       "ren_take": "",
       "image_url": ""
     }
