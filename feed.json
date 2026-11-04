@@ -1,8 +1,47 @@
 {
-  "last_updated": "2026-11-03T22:21:58.845029+00:00",
-  "total_articles": 128,
+  "last_updated": "2026-11-04T03:07:34.736707+00:00",
+  "total_articles": 131,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "0ddb6a5d2480",
+      "title": "Making Shoes for the World: Giovanna Ceolini on Quality, Innovation and Heritage - World Footwear",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVS1WZXZpeUsxU1czVEFwWU4zRUN1MXdMMjV4WGlnUlBIUXVxb25VT1N5alBFWjZYYWJHSGVVdG9Eb0c4bVFDZm5ad0Z2a2RoTG9qZjdWUGJlSnp6ZEw5ZHY2Y3Y5cmJGcFhlWmtkUFhKNzd3VUQ0R29XTnpvRjdZaGk2ZEduY2gzbXdPd2l2T05OQ0tySU9vWWVfSUVpV0xtVVo4eHk0Zi10WGxsYzczLVlJUjR4Q0JlMER4T2JvNjJWdw?oc=5",
+      "original_publish_time": "2026-11-04T00:03:48+00:00",
+      "scraped_time": "2026-11-04T02:57:04.113309+00:00",
+      "time_delta_mins": 0,
+      "category": "Quality",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "shoes"
+      ],
+      "relevance_score": 6,
+      "summary": "Making Shoes for the World: Giovanna Ceolini on Quality, Innovation and Heritage World Footwear",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "6ec986cf919d",
+      "title": "Remember TecTuff? Nike Just Brought It Back On The Air Max Goadome",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/11/03/nike-air-max-goadome-tectuff-616174-090/",
+      "original_publish_time": "2026-11-03T22:30:20+00:00",
+      "scraped_time": "2026-11-04T02:56:53.158620+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "The Nike Air Max Goadome is rugged enough as is. Add in materials from one of the world’s biggest performance finish manufacturers and you can... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Remember TecTuff? Nike Just Brought It Back On The Air Max Goadome appeared first on Sneaker News . The post Remember TecTuff? Nike Just Brought It Back On The Air Max Goadome appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "8da0199be059",
       "title": "Nike SB x Air Jordan 12 Low Releasing In 2027",
@@ -710,6 +749,27 @@
       ],
       "relevance_score": 3,
       "summary": "Executive president and chairman Giuseppe Santoni noted that the idea to outfit athletes in the Easy Run shoes stemmed from wanting to do something unexpected.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "148ba1267445",
+      "title": "ECCO Vietnam dissolves and ceases operations at its shoe factory employing over 1,600 workers. - Vietnam.vn",
+      "source_name": "Google News - Vietnam Manufacturing",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYzBSZkZRRDNRWjBkYUo2SHZCNW9TbzE5V0s1V21Wcm5uU015S0FTQzc4bFlYRTVERGhhdnBtT28zUUwzTDVqQjRSSncyblZrY0pPcUVBRFY1Z19hY3FyMFZrSlllTUZxY0pubUh4SFJtUklCNFg1REZqVWZlZ3R2TTBxREppMnBfd0hnbDVpMlBRQlZrSXhtYmdCODF0RkMw?oc=5",
+      "original_publish_time": "2026-11-02T14:02:16+00:00",
+      "scraped_time": "2026-11-04T03:06:25.654293+00:00",
+      "time_delta_mins": 0,
+      "category": "Manufacturing",
+      "brands_mentioned": [
+        "Ecco"
+      ],
+      "keywords_matched": [
+        "shoe factory"
+      ],
+      "relevance_score": 5,
+      "summary": "ECCO Vietnam dissolves and ceases operations at its shoe factory employing over 1,600 workers. Vietnam.vn",
       "ren_take": "",
       "image_url": ""
     },
