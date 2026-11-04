@@ -1,8 +1,93 @@
 {
-  "last_updated": "2026-11-04T03:07:34.736707+00:00",
-  "total_articles": 131,
-  "sources_checked": 60,
+  "last_updated": "2026-11-04T12:48:22.824137+00:00",
+  "total_articles": 126,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "608ee27e465b",
+      "title": "Salomon Has Made a Winter Boot Worth Looking At",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/salomon-x-the-broken-arm-grolle/",
+      "original_publish_time": "2026-11-04T11:03:00+00:00",
+      "scraped_time": "2026-11-04T12:41:14.151784+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Salomon"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 6,
+      "summary": "The Salomon x THE BROKEN ARM Grolle gives the winter boot a rugged makeover, complete with worn-in leather and colorful stitching.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "ffb993f0082c",
+      "title": "Nike Brings Classic Patterning to the Zoom Hyperflight \"Safari\"",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/11/nike-zoom-hyperflight-safari-iz2573-010-official-look-release-info",
+      "original_publish_time": "2026-11-04T09:34:03+00:00",
+      "scraped_time": "2026-11-04T12:37:49.929590+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "outsole",
+        "sole",
+        "upper"
+      ],
+      "relevance_score": 5,
+      "summary": "Summary Nike is revisiting its basketball archive with the upcoming Zoom Hyperflight in a new Safari colorwayThe retro model features speckled print across its molded upper paired with vibrant orange accents and a translucent outsoleThe pair is scheduled to release during Holiday 2026 for 180 USD in men's sizing via Nike and select retailers Name: Nike Zoom Hyperflight \"Safari\"Colorway: Black/Summit White-Ice-Total OrangeSKU: IZ2573-010MSRP: $170 USDRelease Date: Holiday 2026Where to Buy: NikeNike is dipping back into its performance basketball archive to reintroduce the Zoom Hyperflight \"Safari\", applying a classic heritage graphic to the turn-of-the-century court model. Newly surfaced official imagery confirms the return of the silhouette closely associated with Jason Williams in a disti",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "3d4aa1e2daa4",
+      "title": "Danish footwear maker ECCO halts Vietnam factory operations - Vietnam Investment Review - VIR",
+      "source_name": "Google News - Vietnam Manufacturing",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbnVmdW5HS3hDMFc0ay0zQ280RzU2b21Mbjk2WkRtUzAtdWNLRE5YdDNvcE9HZXppVExvQTVfZkRRZ2xOU2RvX3VRNDV0RmxoU29rMGwtdU54YkZLV3ZMMjZ4bDg5ZG1ERHZfWHJTNU5HYlJtUHdaZmpveXRMTEdpbm5XN0VMVDdzdGRnYXFiZTh6dXBH?oc=5",
+      "original_publish_time": "2026-11-04T05:07:01+00:00",
+      "scraped_time": "2026-11-04T12:47:15.671141+00:00",
+      "time_delta_mins": 0,
+      "category": "Manufacturing",
+      "brands_mentioned": [
+        "Ecco"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 5,
+      "summary": "Danish footwear maker ECCO halts Vietnam factory operations Vietnam Investment Review - VIR",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "9d6ef933d4f8",
+      "title": "First Look: These Casadei Sandals Will Come With an Outfit",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-features/casadei-sandals-collaboration-fashion-brand-the-archivia-1239398297/",
+      "original_publish_time": "2026-11-04T05:00:00+00:00",
+      "scraped_time": "2026-11-04T12:37:39.494265+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "sandal"
+      ],
+      "relevance_score": 4,
+      "summary": "The Italian footwear brand has partnered with indie label The Archivia on a black-and-white capsule collection launching Monday.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "0ddb6a5d2480",
       "title": "Making Shoes for the World: Giovanna Ceolini on Quality, Innovation and Heritage - World Footwear",
@@ -2538,190 +2623,6 @@
       ],
       "relevance_score": 3,
       "summary": "Dr. Martens brings its *With Bouncing Soles* platform to Berlin and Munich, celebrating creative communities, live music and the AW26 Crazy Horse collection.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "12d92f881bf1",
-      "title": "Hunter’s huge boot box activation to take over Covent Garden",
-      "source_name": "Retail Gazette",
-      "source_domain": "retailgazette.co.uk",
-      "source_url": "https://www.retailgazette.co.uk/blog/2026/10/hunter-covent-garden/",
-      "original_publish_time": "2026-10-28T12:40:58+00:00",
-      "scraped_time": "2026-10-28T17:05:44.179065+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 3,
-      "summary": "Hunter has unveiled a giant boot box pop-up store for November. The store will be located in the East Piazza of Covent Garden, by the Royal Opera House and is open from 9 to 25 November (it will be closed from 5pm on 9 November and 10th November for private events) Visitors to the experience...",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "859c5e188e5f",
-      "title": "VF Corp. Beats the Street in Q2 as Timberland, North Face, Altra Deliver and Vans Sees Progress",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/vf-corp-vfc-q2-earnings-vans-timberland-north-face-1239388847/",
-      "original_publish_time": "2026-10-28T12:14:15+00:00",
-      "scraped_time": "2026-10-28T17:00:21.706845+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Vans",
-        "Timberland"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 4,
-      "summary": "VF Corp. expects Vans to see improvement in the wholesale channel in the back half of fiscal 2027.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "92588448530e",
-      "title": "The Best Nike Sneakers Releasing in November",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-sneaker-release-date-calendar-november-2026-1239387948/",
-      "original_publish_time": "2026-10-28T12:00:00+00:00",
-      "scraped_time": "2026-10-28T17:00:21.707216+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 5,
-      "summary": "Including One Block Down's luxurious Air Max 95 and the debut of square-toed Air Force 1 Lows.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "2e1570a6a0ea",
-      "title": "The PUMA x NAHMIAS Suede Crochet Goes From Earthy to Electric",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/10/puma-nahmias-suede-crochet-three-new-colorways-collaboration-release-info",
-      "original_publish_time": "2026-10-28T10:10:22+00:00",
-      "scraped_time": "2026-10-28T10:52:29.303169+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Puma"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "Name: PUMA x NAHMIAS Suede CrochetMSRP: TBCRelease Date: November 5Where to Buy: NAHMIAS, PUMAPUMA and NAHMIAS build on their first Suede collaboration with three new colorways of the Suede Crochet, continuing the partnership’s mix of sport, craftsmanship and West Coast streetwear.Under the “Crafted Classics” banner, the trio gives PUMA’s familiar low-top three distinctly different personalities: one arrives in tonal chocolate brown suede with a lighter brown crochet Formstrip, another pairs a rich green suede upper with a bright yellow Formstrip, while the third goes bolder in electric blue with contrasting yellow accents.Across all three, chunky multicolored hand-crocheted laces amplify the handcrafted feel, complemented by premium suede, canvas accents and a co-branded PUMA x NAHMIAS to",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "fead61b06755",
-      "title": "Sri Lanka apparel exports ‘encouraging’ in September amid annual decline",
-      "source_name": "Just Style",
-      "source_domain": "just-style.com",
-      "source_url": "https://www.just-style.com/news/sri-lanka-apparel-export-5/",
-      "original_publish_time": "2026-10-28T09:57:36+00:00",
-      "scraped_time": "2026-10-28T10:52:18.845499+00:00",
-      "time_delta_mins": 0,
-      "category": "Trade Data",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "apparel exports"
-      ],
-      "relevance_score": 3,
-      "summary": "Apparel exports from Sri Lanka saw a year-on-year increase in September 2026, driven by gains in the US and EU markets, (JAAF) reports.",
-      "ren_take": "",
-      "image_url": "https://www.just-style.com/wp-content/uploads/sites/27/2026/10/Sri-Lanka-apparel-1.jpg"
-    },
-    {
-      "id": "48924ed630af",
-      "title": "Official Look at Corteiz x Nike Shox R419 \"Game Royal\"",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/10/corteiz-nike-shox-r419-game-royal-iq9951-400-official-look-release-info",
-      "original_publish_time": "2026-10-28T09:46:45+00:00",
-      "scraped_time": "2026-10-28T10:52:29.304995+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "Summary Corteiz and Nike are expanding their collaborative catalog with an overhauled take on the Shox R4 dubbed the Shox R419The Game Royal edition features a redesigned upper highlighted by raised horizontal ridges carbon fiber paneling and car-inspired accentsReleasing alongside Black and Metallic Silver iterations the pair is slated to drop for Holiday 2026 at a retail price of $190 USD Name: Corteiz x Nike Shox R419 \"Game Royal\"Colorway: Game Royal/University Red-BlackSKU: IQ9951-400MSRP: $190 USDRelease Date: Holiday 2026Where to Buy: NikeNike and Clint419's London-based streetwear label Corteiz have unveiled official imagery for their collaborative Corteiz x Nike Shox R419 \"Game Royal\". The project follows prior joint efforts on the Air Max 95 and Air Trainer Huarache, shifting the ",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "bd779c7d4e6d",
-      "title": "Nike’s Air Jordan 1 Retro High Og Royal Makes Its Grand Return",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nikes-air-jordan-1-retro-high-og-royal-sneaker/",
-      "original_publish_time": "2026-10-28T08:57:09+00:00",
-      "scraped_time": "2026-10-28T10:56:03.564531+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike",
-        "Jordan"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 4,
-      "summary": "Nike's ultra-classic Royal Air Jordan 1 sneaker doesn't need on-court bravado to score.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "a0e3b517d8ec",
-      "title": "First Look at Nike’s Ovolo 2.0 Sneaker-Heel Hybrid Revival",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/10/nike-ovolo-2-0-first-look-two-colorways-info",
-      "original_publish_time": "2026-10-28T08:21:37+00:00",
-      "scraped_time": "2026-10-28T10:52:29.308915+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "Name: Nike Ovolo 2.0SKU: TBCRelease Date: Holiday 2026Nike is continuing its streak of reviving obscure, experimental designs from the mid-2000s with a first look at the highly unusual Nike Ovolo 2.0. Revealed by Nike via its latest SNKRS Verified product preview, the upcoming model re-engineers a seldom-seen sneaker heel originally introduced in 2004.Slated to arrive exclusively in women's sizing for the Holiday 2026 season, the Ovolo 2.0 will debut in two bold colorways: a sleek, monochromatic \"Black\" and a futuristic \"Metallic Silver.\" The Ovolo 2.0 functions as a striking hybrid, pulling heavy inspiration from the iconic Nike Shox R4. Its sleek leather upper retains much of the R4’s original DNA, most notably via the squared-off tongue and the small perforated section near the tip of t",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "8f0800d15a09",
-      "title": "JJJJound and Danner Reunite for FW26 Mountain Light Collaboration",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/10/jjjjound-danner-fw26-mountain-light-boots-collaboration-launch",
-      "original_publish_time": "2026-10-28T04:06:56+00:00",
-      "scraped_time": "2026-10-28T10:52:29.315029+00:00",
-      "time_delta_mins": 0,
-      "category": "Manufacturing",
-      "brands_mentioned": [
-        "Vibram"
-      ],
-      "keywords_matched": [
-        "boot",
-        "footwear"
-      ],
-      "relevance_score": 4,
-      "summary": "Summary Montréal design studio JJJJound has revealed an upcoming Fall/Winter 2026 footwear collaboration with heritage bootmaker DannerThe project revisits the iconic Mountain Light silhouette in two understated Black and Charcoal colorwaysBoth iterations feature rugged Vibram tooling silver hardware eyelets and custom JJJJound woven tongue branding JJJJound and heritage American bootmaker Danner have officially unveiled their latest collaborative effort for Fall/Winter 2026, reworking the legendary Danner Mountain Light boot.Originally created as a rugged outdoor hiking boot, the Danner Mountain Light silhouette has long been revered for its durable construction and trail-ready utility. Engineered to withstand demanding terrain while transitioning seamlessly into utilitarian daily wardrob",
       "ren_take": "",
       "image_url": ""
     }
