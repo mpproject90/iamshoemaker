@@ -1,8 +1,49 @@
 {
-  "last_updated": "2026-11-05T18:43:11.337727+00:00",
-  "total_articles": 141,
-  "sources_checked": 60,
+  "last_updated": "2026-11-05T22:40:13.057947+00:00",
+  "total_articles": 140,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "09aedb6dcdff",
+      "title": "A Closer Look at the Fall Footwear That Drove Steve Madden’s Wholesale Business in Q3",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/steve-madden-casual-heels-booties-loafers-tall-shaft-boots-1239402993/",
+      "original_publish_time": "2026-11-05T21:40:00+00:00",
+      "scraped_time": "2026-11-05T22:29:21.784724+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Steve Madden"
+      ],
+      "keywords_matched": [
+        "boot",
+        "footwear"
+      ],
+      "relevance_score": 6,
+      "summary": "Steven Madden CEO Edward Rosenfeld said casual footwear, heels, booties and loafers did well across brands, while sales of tall shaft boots were down.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "382e99189a67",
+      "title": "Footwear Remains ‘Significant Growth Opportunity’ for Coach",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/coach-shoes-sales-growth-expansion-q1-2027-earnings-1239403304/",
+      "original_publish_time": "2026-11-05T21:02:56+00:00",
+      "scraped_time": "2026-11-05T22:29:21.786357+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Revenue in Coach's footwear segment grew over 20 percent in the first quarter.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "8af805e6d600",
       "title": "Nike’s Fan-Favorite Air Max Boot Has Just Been Reissued in a Limited-Edition Luxe Version That Sold Out Quickly Last Year",
@@ -2864,69 +2905,6 @@
       ],
       "relevance_score": 3,
       "summary": "Name: UNION x Nike Dunk Low \"Natural Selection\"MSRP: $130 USDRelease Date: October 30Where to Buy: UNIONUNION and Nike reconnect for “Natural Selection,” a three-part Dunk Low collection that strips the familiar basketball silhouette back into something softer, looser and more adaptable. The pack comprises “Hide,” “Fatigue” and “Eclipse,” each built from unlined suede without the usual internal reinforcement for a more relaxed, unstructured shape. “Hide” takes the most expressive route in warm Palomino brown, with a subtle leopard-like pattern etched across the suede for a tonal animal-print effect. “Fatigue” shifts into earthy Bamboo and olive hues, while “Eclipse” keeps things darker in near-black Off Noir and charcoal tones. Across all three, the suede extends unusually far down toward ",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "82f88245e04b",
-      "title": "The Nike KD 5 Elite Is Returning In Summer 2027",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/10/29/nike-kd-5-elite-2027/",
-      "original_publish_time": "2026-10-29T22:00:15+00:00",
-      "scraped_time": "2026-10-30T02:27:28.530724+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Nike Basketball is reaching deeper into Kevin Durant’s signature footwear archive, with Sneaker News confirming that the KD 5 Elite will make its return in... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Nike KD 5 Elite Is Returning In Summer 2027 appeared first on Sneaker News . The post The Nike KD 5 Elite Is Returning In Summer 2027 appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "822866ad3b25",
-      "title": "Jalen Williams’ Next adidas Crazy Energy Features Mismatched Camo Prints",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/10/29/adidas-crazy-energy-jalen-williams-jdub-what-the-camo-hq5572/",
-      "original_publish_time": "2026-10-29T20:00:38+00:00",
-      "scraped_time": "2026-10-29T21:30:40.412451+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "adidas is giving us an unfortunate reminder that sneakers can take months if not years to make, and that by the time they’re finally destined... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Jalen Williams' Next adidas Crazy Energy Features Mismatched Camo Prints appeared first on Sneaker News . The post Jalen Williams’ Next adidas Crazy Energy Features Mismatched Camo Prints appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "873d53fbe956",
-      "title": "Nike’s First Running Shoe For India Clocks In At Just Under $40",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/10/29/nike-vegam-run/",
-      "original_publish_time": "2026-10-29T19:00:37+00:00",
-      "scraped_time": "2026-10-29T21:30:40.414943+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "In the world of running shoes, shaving seconds off of mile times and getting the slightest edge over your competitors is the name of the... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike's First Running Shoe For India Clocks In At Just Under $40 appeared first on Sneaker News . The post Nike’s First Running Shoe For India Clocks In At Just Under $40 appeared first on Sneaker News .",
       "ren_take": "",
       "image_url": ""
     }
