@@ -1,8 +1,220 @@
 {
-  "last_updated": "2026-11-05T12:59:05.954631+00:00",
-  "total_articles": 138,
+  "last_updated": "2026-11-05T18:43:11.337727+00:00",
+  "total_articles": 141,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "8af805e6d600",
+      "title": "Nike’s Fan-Favorite Air Max Boot Has Just Been Reissued in a Limited-Edition Luxe Version That Sold Out Quickly Last Year",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-acg-air-max-goadome-qs-pony-hair-restock-io4635-001-1239402631/",
+      "original_publish_time": "2026-11-05T18:16:30+00:00",
+      "scraped_time": "2026-11-05T18:32:17.288298+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 6,
+      "summary": "The beloved ACG boot swaps rugged leather for plush pony hair.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "f31e07c8ee32",
+      "title": "Painters Need Tough Ass Trail Shoes, Too",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/phileo-keen-artist-matt-dillon-fw26-new/",
+      "original_publish_time": "2026-11-05T17:48:04+00:00",
+      "scraped_time": "2026-11-05T18:35:57.488201+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Keen"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 4,
+      "summary": "Hiking shoes for painters, please! Who knew art could be so rough and tumble? Phileo and KEEN, apparently.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "ba0623eb275f",
+      "title": "Pierpaolo Piccioli Steps Down as Creative Director of Balenciaga",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/11/kering-pierpaolo-piccioli-steps-down-as-creative-director-balenciaga-announcement",
+      "original_publish_time": "2026-11-05T17:33:30+00:00",
+      "scraped_time": "2026-11-05T18:32:27.937288+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Gucci",
+        "Balenciaga"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "Summary Pierpaolo Piccioli will step down as creative director of Balenciaga after serving less than two years in the roleKering chief executive Luca de Meo announced the departure as part of an ongoing restructuring across the luxury group's portfolioLondon-based designer Martine Rose has reportedly been tapped to take over the helm at the Parisian fashion house French luxury conglomerate Kering has announced that Pierpaolo Piccioli will step down as creative director of Balenciaga after less than two years in the role. The departure comes amid an extensive creative restructuring spearheaded by Kering chief executive Luca de Meo across the group's flagship houses.Piccioli took over the Parisian brand following Demna’s transition to Gucci in March 2025, attempting to reconcile couture craf",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "fa44bc2aa9d4",
+      "title": "A Nike Air Max 90 Boat Shoe Surfaces Ahead Of Spring 2027 Drop",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/11/05/nike-air-max-90-boat-ja9190-200/",
+      "original_publish_time": "2026-11-05T17:00:31+00:00",
+      "scraped_time": "2026-11-05T18:32:28.096925+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "shoes",
+        "sneakers"
+      ],
+      "relevance_score": 4,
+      "summary": "When discussing “arms races” in sneakers, typically we’re referring to companies’ fight to push technology even further in their peak performance shoes. It’s the Nike... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post A Nike Air Max 90 Boat Shoe Surfaces Ahead Of Spring 2027 Drop appeared first on Sneaker News . The post A Nike Air Max 90 Boat Shoe Surfaces Ahead Of Spring 2027 Drop appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "3d85c47dabdf",
+      "title": "The Whitaker Group Brings a Raw Design to One of New Balance’s Newer Retro-Inspired Sneakers",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/whitaker-group-new-balance-2010-for-identity-release-date-1239401766/",
+      "original_publish_time": "2026-11-05T16:55:17+00:00",
+      "scraped_time": "2026-11-05T18:32:17.289890+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "New Balance"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "The 2010 gets embellished and frayed stitching in two colorways.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "48f0d3f96f82",
+      "title": "Timberland’s Surprise Peanuts Collaboration Featuring a ‘Snoopy’ 6-Inch Waterproof Boot Is Available Right Now",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/peanuts-timberland-premium-6-inch-waterproof-boot-snoopy-1239402016/",
+      "original_publish_time": "2026-11-05T16:23:51+00:00",
+      "scraped_time": "2026-11-05T18:32:17.290238+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Timberland"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 5,
+      "summary": "The just-launched collection includes apparel and boots for men, women and kids.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "26e3b5abf8f2",
+      "title": "NikeSkims Takes on the Archival Waffle Racer as the Partnership Expands Its Footwear Assortment",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-skims-waffle-racer-sneaker-release-1239401512/",
+      "original_publish_time": "2026-11-05T16:10:52+00:00",
+      "scraped_time": "2026-11-05T18:32:17.290581+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 5,
+      "summary": "NikeSkims previously released its take on the split-toe Nike Air Rift.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "cb6c5cffdab0",
+      "title": "Power 100 2026: Who are this year’s Footwear’s Finest?",
+      "source_name": "Drapers",
+      "source_domain": "drapersonline.com",
+      "source_url": "https://www.drapersonline.com/insight/power-100-2026-who-are-this-years-footwears-finest",
+      "original_publish_time": "2026-11-05T14:00:44+00:00",
+      "scraped_time": "2026-11-05T18:35:25.302073+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "New Balance",
+        "Birkenstock",
+        "Crocs"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 6,
+      "summary": "Drapers Power 100 2026: Who are this year’s Footwear’s Finest? Birkenstock, Crocs, Dr Martens, Dune London, FitFlop, Footasylum, Kurt Geiger, New Balance and Schuh make up this year's Footwear's Finest. The post Power 100 2026: Who are this year’s Footwear’s Finest? appeared first on Drapers .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "c884f808c7ab",
+      "title": "HOKA x Marni Reunite to Rework the Clifton 11 in Three Bold Colorways",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/11/hoka-x-marni-reunite-to-rework-the-clifton-11-in-three-bold-colorways",
+      "original_publish_time": "2026-11-05T13:00:07+00:00",
+      "scraped_time": "2026-11-05T18:32:27.938392+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Hoka"
+      ],
+      "keywords_matched": [
+        "midsole",
+        "sole",
+        "upper"
+      ],
+      "relevance_score": 5,
+      "summary": "Name: Marni x HOKA Clifton 11MSRP: $275 USDRelease Date: November 12Where to Buy: HOKAHOKA and Marni have reunited for a second collaboration, this time reworking the Clifton 11, HOKA’s everyday trainer, as the Clifton Marni. The Clifton’s running credentials stay intact: an engineered mesh upper sits on a compression-molded EVA foam midsole, with HOKA’s Smooth MetaRocker geometry for rolling transitions and a rearfoot-focused Active Foot Frame that supports the heel.MARNI’s influence shows in how those functional parts are treated. Raised 3D silicone lines sweep in waves from the midfoot toward the heel, and the plush collar is lined with a textured knit that contrasts with the smooth mesh.Each of the three colorways takes a different approach to contrast. The Black version is almost comp",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "26552fa0eafe",
+      "title": "Fctry Lab Set to Launch New Standalone Shoe Brand Centered Around Personalization",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/allskns-allday-slide-release-date-founder-details-1239401272/",
+      "original_publish_time": "2026-11-05T13:00:00+00:00",
+      "scraped_time": "2026-11-05T18:32:17.291047+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoe brand"
+      ],
+      "relevance_score": 3,
+      "summary": "Called Allskns, the company's debut product is the Allday Slide.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "ea9d551278fc",
       "title": "This Is, In Form and Function, The Marni-est Hoka",
@@ -1325,6 +1537,25 @@
       ],
       "relevance_score": 3,
       "summary": "James Harden and adidas Basketball are preparing to introduce the eleventh chapter of their signature footwear partnership in December. Alongside a closer examination of the... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post adidas Harden Vol. 11 Launches In December appeared first on Sneaker News . The post adidas Harden Vol. 11 Launches In December appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "d9a8dc9bc779",
+      "title": "Wembanyama Criticizes Shoes in 60 Minutes Interview - Sports Illustrated",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNemdVWXU0TDdMaDlOYURuTGtycWNhek42RFNZTnJjb2J4WUJMbjN2clROazhaWF83OW9La1JFSnBsZ0hwM1Mybko2YU9aQkQ3T21qR1VOc2FIRkVxOFFTdHYyVldUQ2xYR1RERzdTcHJzZlJ2WXdZbDNoWDg4N0dOQ1FVMGE3dVE4WW1FaFE1N0RrWlA4dEQ1Y0xR?oc=5",
+      "original_publish_time": "2026-11-02T23:19:22+00:00",
+      "scraped_time": "2026-11-05T18:32:38.969172+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "Wembanyama Criticizes Shoes in 60 Minutes Interview Sports Illustrated",
       "ren_take": "",
       "image_url": ""
     },
@@ -2696,170 +2927,6 @@
       ],
       "relevance_score": 3,
       "summary": "In the world of running shoes, shaving seconds off of mile times and getting the slightest edge over your competitors is the name of the... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike's First Running Shoe For India Clocks In At Just Under $40 appeared first on Sneaker News . The post Nike’s First Running Shoe For India Clocks In At Just Under $40 appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "aa74bedc890c",
-      "title": "Brooks Touts Growth in Q3 as Demand for Its Performance Shoes, Apparel ‘Remains Strong’",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/brooks-running-third-quarter-2026-earnings-growth-1239391931/",
-      "original_publish_time": "2026-10-29T17:48:25+00:00",
-      "scraped_time": "2026-10-29T21:30:29.543080+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Brooks"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 5,
-      "summary": "The company said it has achieved its 13th consecutive quarter of revenue growth.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "f890e8bbce2a",
-      "title": "50 Cent’s Sold-out G-Unit Reebok Sneakers Are Coming Back Soon in New Colors",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/50-cent-g-unit-reebok-g6-white-green-release-date-1239391767/",
-      "original_publish_time": "2026-10-29T17:44:30+00:00",
-      "scraped_time": "2026-10-29T21:30:29.545440+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Reebok"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 5,
-      "summary": "The initial relaunch sold out in two hours.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "d6154e3cb1d9",
-      "title": "adidas And BAPE Reload With The Goukana And Crazy Energy+",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/10/29/bape-adidas-world-gone-mad-goukana-crazy-energy/",
-      "original_publish_time": "2026-10-29T17:00:17+00:00",
-      "scraped_time": "2026-10-29T17:19:19.524357+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Adidas",
-        "Vans",
-        "Crocs"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 4,
-      "summary": "Even amid dalliances with Vans or Crocs, A Bathing Ape has continually found its most consistent partner in Germany. The BAPE x adidas relationship has... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post adidas And BAPE Reload With The Goukana And Crazy Energy+ appeared first on Sneaker News . The post adidas And BAPE Reload With The Goukana And Crazy Energy+ appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "0116b85c3e4f",
-      "title": "In pictures: Soeur reboots Frère menswear arm",
-      "source_name": "Drapers",
-      "source_domain": "drapersonline.com",
-      "source_url": "https://www.drapersonline.com/news/in-pictures-soeur-reboots-frere-menswear-arm",
-      "original_publish_time": "2026-10-29T16:55:08+00:00",
-      "scraped_time": "2026-10-29T21:33:37.547210+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 3,
-      "summary": "Drapers In pictures: Soeur reboots Frère menswear arm French womenswear brand Soeur has brought back its menswear offer, titled Frère. The post In pictures: Soeur reboots Frère menswear arm appeared first on Drapers .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "150564d6a151",
-      "title": "Puebla Promotes Textile and Footwear Industries - MEXICONOW",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1WZGhHYXBuUFBGU1kyTzVtSFBTaGRqQTlubXB1WHphai0wdm9iSU5sNWstOHZxTGVaMnVfS3hETjBfMHV6Qndtb25QWE5lMGtUWlUtTGNTdVkzOFM3R0ZISXR0RkwybkgtN1dYVERmZ0FQaGpSYmR3bEw5aw?oc=5",
-      "original_publish_time": "2026-10-29T16:21:45+00:00",
-      "scraped_time": "2026-10-29T17:19:30.079966+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Puebla Promotes Textile and Footwear Industries MEXICONOW",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "f2610bdc6dfb",
-      "title": "Timberland’s Most Iconic Boots Get New Premium Limited-Edition Upgrades in Latest Kith Collaboration",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/kith-timberland-winter-2026-premium-6-inch-waterproof-boot-1239391318/",
-      "original_publish_time": "2026-10-29T16:04:06+00:00",
-      "scraped_time": "2026-10-29T17:19:08.794372+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Timberland",
-        "Vibram"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 6,
-      "summary": "The Ronnie Fieg for Timberland winter 2026 collection features shearling liners and Vibram rubber.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "00d135da3d9f",
-      "title": "What Nike’s Jordan pullback means for Foot Locker",
-      "source_name": "Retail Dive",
-      "source_domain": "retaildive.com",
-      "source_url": "https://www.retaildive.com/news/nike-jordan-retro-pullback-foot-locker-impact/873154/",
-      "original_publish_time": "2026-10-29T15:10:00+00:00",
-      "scraped_time": "2026-10-29T17:22:07.117793+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Nike",
-        "Jordan"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 4,
-      "summary": "With Jordan accounting for roughly 25% of Foot Locker’s revenue, the athletics retailer will have some gaps to fill next year.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "0786c09c90e1",
-      "title": "Travis Scott’s Nike CPFM Air Flea 1 Is Expected In 2027",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/10/29/travis-scott-cpfm-nike-air-flea-1-ix7250-200/",
-      "original_publish_time": "2026-10-29T15:00:25+00:00",
-      "scraped_time": "2026-10-29T17:19:19.528645+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "Travis Scott shoes have zero problem selling through on their own. Add another collaborator to the mix, seen notably via Travis Scott x Fragment Design... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Travis Scott’s Nike CPFM Air Flea 1 Is Expected In 2027 appeared first on Sneaker News . The post Travis Scott’s Nike CPFM Air Flea 1 Is Expected In 2027 appeared first on Sneaker News .",
       "ren_take": "",
       "image_url": ""
     }
