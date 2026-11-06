@@ -1,8 +1,135 @@
 {
-  "last_updated": "2026-11-06T17:59:51.710426+00:00",
-  "total_articles": 130,
-  "sources_checked": 61,
+  "last_updated": "2026-11-06T22:05:50.054283+00:00",
+  "total_articles": 132,
+  "sources_checked": 60,
   "articles": [
+    {
+      "id": "70de7f6347b8",
+      "title": "Balenciaga Hires Martine Rose & Yeezy Makes Runway Return in This Week's Top Fashion News",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/11/martine-rose-balenciaga-yeezy-ralph-lauren-joaquin-phoenix-gentle-monster-palace-burberry",
+      "original_publish_time": "2026-11-06T21:30:13+00:00",
+      "scraped_time": "2026-11-06T21:55:20.425129+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Balenciaga",
+        "Yeezy"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 5,
+      "summary": "SummaryMartine Rose took the helm at Balenciaga, while Ralph Lauren secured top menswear honors at the 2026 CFDA Awards.Ye announced a Yeezy reboot in Los Angeles, and the 2027 Met Gala revealed a new, everyday-focused theme.Palace detailed its Burberry collaboration, and Joaquin Phoenix debuted smart eyewear with Gentle Monster.Martine Rose Confirmed at Balenciaga' a Day After Piccioli ExitFollowing widespread speculation, Martine Rose was officially named the new creative director of Balenciaga. The London-based designer will oversee all men's and women's collections moving forward. Rose brings her signature subcultural edge to the heritage luxury house, signaling a new shift in Balenciaga's aesthetic trajectory. Her debut collection is expected to hit the runway next season, where she w",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "c883b0a63c20",
+      "title": "Jordan's Fuzzy Green Dad Shoe Looks Like Bottega Was Here",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/jordan-dmsn-95-green-noise/",
+      "original_publish_time": "2026-11-06T21:24:05+00:00",
+      "scraped_time": "2026-11-06T21:58:43.210694+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "Nike's Jordan DMSN 95 \"Green Noise\" sneaker lands as an all-green, Bottega-flavored take on the dadcore model.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "cd82db6ed878",
+      "title": "Nike’s Italian Leather Air Maxes Are Too Luxe for Their Own Good",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/one-block-down-nike-air-max-95-lux-italy/",
+      "original_publish_time": "2026-11-06T20:30:27+00:00",
+      "scraped_time": "2026-11-06T21:58:43.211469+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sneakers",
+        "upper"
+      ],
+      "relevance_score": 4,
+      "summary": "One Block Down's Nike Air Max 95 Lux sneakers come in four Italy-inspired colorways, complete with Italian leather uppers.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "e1f9bc35df8b",
+      "title": "Cordura Uppers Turn The Nike Zoom Vomero 5 Into A Year-Round Staple",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/11/06/nike-zoom-vomero-5-college-grey-baroque-brown-black-university-red-iq0380-001/",
+      "original_publish_time": "2026-11-06T20:00:19+00:00",
+      "scraped_time": "2026-11-06T21:55:20.627049+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 5,
+      "summary": "Already in the winter lane thanks to the Nike Zoom Vomero 5 Roam, Nike’s most popular tech runner is bracing for the cooler months with... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Cordura Uppers Turn The Nike Zoom Vomero 5 Into A Year-Round Staple appeared first on Sneaker News . The post Cordura Uppers Turn The Nike Zoom Vomero 5 Into A Year-Round Staple appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "5b223cf1862f",
+      "title": "Kith Is Using Its Original New Balance Sneaker to Commemorate Three Distinct Elements of NYC",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/kith-new-balance-2011-monuments-release-date-1239404666/",
+      "original_publish_time": "2026-11-06T19:34:45+00:00",
+      "scraped_time": "2026-11-06T21:55:10.033597+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "New Balance"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "The three 2011 sneakers include odes to the New York Knicks and Central Park.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "c0ec29fa205b",
+      "title": "The Kith x New Balance 2011 “Monuments” Collection Builds New York Landmarks Into Every Panel",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/11/kith-new-balance-2011-monuments-collection-release-info",
+      "original_publish_time": "2026-11-06T18:00:03+00:00",
+      "scraped_time": "2026-11-06T21:55:20.427843+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [
+        "New Balance"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "Name: Kith x New Balance 2011Colorway: Maroon/Atomic Yellow, Amazon/Lilac, Princess Blue/SilverSKU: TBCMSRP: TBCRelease Date: November 9Where to Buy: KithKith and New Balance are returning to the 2011 for the Monuments Collection, a trio of colorways that each salute one of New York City’s most recognizable landmarks. The silhouette first surfaced earlier this year as part of Kith’s 15-year anniversary run, and its name points straight back to the year the retailer opened its doors. This time around, the city’s skyline does the storytelling while the materials do the heavy lifting.Under every colorway sits the same architecture. Kith built the 2011 upper from the ground up, assembling a layered, multi-piece pattern rather than adapting an existing New Balance last, then set it atop the ABZ",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "993264d23c89",
       "title": "Nike Put ACG’s Radical AirFlow Uppers Onto The Pegasus Plus 2",
@@ -1122,6 +1249,25 @@
       ],
       "relevance_score": 5,
       "summary": "Summary Nike is revisiting its basketball archive with the upcoming Zoom Hyperflight in a new Safari colorwayThe retro model features speckled print across its molded upper paired with vibrant orange accents and a translucent outsoleThe pair is scheduled to release during Holiday 2026 for 180 USD in men's sizing via Nike and select retailers Name: Nike Zoom Hyperflight \"Safari\"Colorway: Black/Summit White-Ice-Total OrangeSKU: IZ2573-010MSRP: $170 USDRelease Date: Holiday 2026Where to Buy: NikeNike is dipping back into its performance basketball archive to reintroduce the Zoom Hyperflight \"Safari\", applying a classic heritage graphic to the turn-of-the-century court model. Newly surfaced official imagery confirms the return of the silhouette closely associated with Jason Williams in a disti",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "56ad67f31d9c",
+      "title": "Meghna Bank joins BB’s Tk 2,000cr financing scheme for leather industry - The Daily Star",
+      "source_name": "Google News - Leather Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONmFBUTdYaE1oSFdjZVc4YTdrNndzV1gtZFctbXJ6Um5aTnhHWUNzaGk1REt3R1hidDZCRlh4X3pZR3BQU0xHTk9sUm40VFU1dXRVekpySVVnVk5rRGlIWG1EaTBINmh2TWdzTkVxUGYyQWR5Q0p2WXhmUnJEZWtXbkt6MDRxb0RUclB1d2hsRGFaR3RnUl85RFVDVjR3M09QYnBNc2wzY0JPUVR3c1Y3Z1d4T2gzRnItcklsMS1kV3BDVDRTRHNkNHRlY3V4SVk?oc=5",
+      "original_publish_time": "2026-11-04T07:00:29+00:00",
+      "scraped_time": "2026-11-06T21:55:32.679206+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "leather industry"
+      ],
+      "relevance_score": 3,
+      "summary": "Meghna Bank joins BB’s Tk 2,000cr financing scheme for leather industry The Daily Star",
       "ren_take": "",
       "image_url": ""
     },
@@ -2593,112 +2739,6 @@
       ],
       "relevance_score": 3,
       "summary": "Nike’s Zoom Vomero 5 gets a pink makeover with ribbon laces, silver studs, and a techy black mesh upper that balances sporty and sweet.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "2342a0e9644c",
-      "title": "Jimmy Choo Momentum Grows as Shoes Reclaim the Fashion Spotlight",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/capri-jimmy-choo-strategy-sales-1239393091/",
-      "original_publish_time": "2026-10-30T21:33:49+00:00",
-      "scraped_time": "2026-10-31T02:06:47.062563+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Jimmy Choo",
-        "Capri"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 6,
-      "summary": "Capri continues to see Jimmy Choo as an $800 million business",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "53ef13d02659",
-      "title": "Nike’s Oldest Sneaker Takes Balletcore to the Moon",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-moon-shoe-satin-pink/",
-      "original_publish_time": "2026-10-30T20:25:58+00:00",
-      "scraped_time": "2026-10-30T21:25:29.828196+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "sole",
-        "upper"
-      ],
-      "relevance_score": 4,
-      "summary": "Nike's \"Light Carnation\" Moon Shoe lands with satin uppers, Waffle soles, & loads of ballerina-worthy charm.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "645235fd118f",
-      "title": "Nike’s Casually Cool Sneaker Grew Tough Skin",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-zoom-vomero-5-cordura-light-orewood-brown/",
-      "original_publish_time": "2026-10-30T20:11:51+00:00",
-      "scraped_time": "2026-10-30T21:25:29.830093+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "Nike's Zoom Vomero 5 sneaker combines Cordura materials & a \"Light Orewood Brown\" colorway for a ruggedly clean release.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "c0ca316f0055",
-      "title": "Nike’s Ostrich-Leather Air Jordans Are Pure Jumpman Elegance",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/jordan-14-low-black-pack/",
-      "original_publish_time": "2026-10-30T20:09:12+00:00",
-      "scraped_time": "2026-10-30T21:25:29.830769+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Nike",
-        "Jordan"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 5,
-      "summary": "The Air Jordan 14 sneaker lands in the brand's high-end \"Black Pack\" with ostrich-leather uppers & a clean all-black colorway.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "acc901f703b4",
-      "title": "New Balance’s Skate Shoe Is Seeing Yellow and Looking Good Doing It",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/new-balance-numeric-440wv2/",
-      "original_publish_time": "2026-10-30T19:25:01+00:00",
-      "scraped_time": "2026-10-30T21:25:29.828920+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "New Balance"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "New Balance’s Numeric 440Wv2 pairs a black skate-shoe upper with pops of Happy Yellow for a simple color combination that stands out.",
       "ren_take": "",
       "image_url": ""
     }
