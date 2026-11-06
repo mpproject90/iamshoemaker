@@ -1,8 +1,71 @@
 {
-  "last_updated": "2026-11-06T03:28:23.038370+00:00",
-  "total_articles": 141,
+  "last_updated": "2026-11-06T12:43:42.290907+00:00",
+  "total_articles": 136,
   "sources_checked": 61,
   "articles": [
+    {
+      "id": "1eda6ce55165",
+      "title": "Nike's Answer to the Winter Boot? A Rugged Basketball Shoe",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-jordan-winterized-6-rings/",
+      "original_publish_time": "2026-11-06T11:03:00+00:00",
+      "scraped_time": "2026-11-06T12:36:31.308500+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [
+        "boot",
+        "sole"
+      ],
+      "relevance_score": 9,
+      "summary": "Nike's Jordan Winterized 6 Rings looks like a basketball shoe that picked up a winter job, complete with chunky soles and boot-style lacing.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "3ab14aabfe59",
+      "title": "Bangladesh seeks Turkish expertise in waste-to-energy, leather industry: Minister - The Business Standard",
+      "source_name": "Google News - Leather Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRVY2TklGZFJRYzhXS0NxUWttRFBIdEFVcXdkNjctMUM4VjhucUVJbU5VbnJsOEowTEt1LW00eWthMU9kX2FiVjJpSkh3dHRkRHVPTjA4WUtJdk51U2tvclNWSFQ4LUV4SW1aYUwzVS0xNjdCS0NGMFYxdDJNcWZ4aXZNZWdwNU5zaG9HcWM1M2k1T1dXcEl4X29FWDllZjlYY0lscTQzb3M0bHFwTmFXRy1Wd2tsQUxrNUVPeQ?oc=5",
+      "original_publish_time": "2026-11-06T09:50:00+00:00",
+      "scraped_time": "2026-11-06T12:33:19.849921+00:00",
+      "time_delta_mins": 0,
+      "category": "Quality",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "leather industry"
+      ],
+      "relevance_score": 3,
+      "summary": "Bangladesh seeks Turkish expertise in waste-to-energy, leather industry: Minister The Business Standard",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "fb6622b14e8a",
+      "title": "Story mfg. and ASICS Send the GEL-TRANSCEND FJ Rambling in Hiking-Blanket Check",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/11/story-mfg-asics-gel-transcend-fj-1203b194-200-1203b194-001-release-info",
+      "original_publish_time": "2026-11-06T07:48:11+00:00",
+      "scraped_time": "2026-11-06T12:33:07.835830+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "ASICS"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Name: Story mfg. x ASICS GEL-TRANSCEND FJColorway: Dark Brown, BlackSKU: 1203B194-200, 1203B194-001MSRP: $180 USDRelease Date: November 11 (Story mfg.), November 20 (ASICS)Where to Buy: Story mfg., ASICSStory mfg. and ASICS are back together with the GEL-TRANSCEND FJ, a collaborative sneaker built around the idea of rambling. The UK craft label and the Japanese sportswear giant read the word three ways: wandering with no set endpoint, talking past the point of necessity, and growing somewhere you didn’t plan to. That spirit of curiosity-led movement shapes everything here, from the archival hiking base to a campaign cast of makers and movers photographed on their own turf.The foundation is pure archive. The GEL-TRANSCEND FJ traces back to ASICS’ 1990s catalog of hiking and walking footwear",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "5d407af44a00",
       "title": "Palantir partners with Korea’s Changshin to streamline shoe manufacturing with AI - Chosunbiz",
@@ -2757,173 +2820,6 @@
       ],
       "relevance_score": 3,
       "summary": "ACRONYM has teamed up once again with 3D-printed footwear brand ALIVEFORM to release a new \"SILVER FANG\" colorway of THE BLADE. The shoe will launch exclusively at GRAFT.PD's Pudong space in Shanghai as part of a special project for the brand's Open House event this November.Inspired by Tsui Hark's 1995 martial arts film *The Blade*, the shoe's design merges ACRONYM's signature techwear aesthetic with ALIVEFORM's 3D-printing technology to create a highly sculptural silhouette. The shoe features a barefoot construction to prioritize natural foot movement and flexibility, while an open mesh design extending across the upper and sole improves breathability. Cushioning, support, and flexibility are integrated directly into the 3D-printed structure, eliminating the need for traditional stitchin",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "4bd1fe606706",
-      "title": "The New Balance 1890A That Walked COMME des GARÇONS HOMME’s Paris Runway Has a Release Date",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/10/comme-des-garcons-homme-new-balance-1890a-black-charcoal-beige-orange-release-info",
-      "original_publish_time": "2026-10-30T10:19:13+00:00",
-      "scraped_time": "2026-10-30T11:03:53.931781+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "New Balance"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "Name: COMME des GARÇONS HOMME x New Balance 1890A “Black,” COMME des GARÇONS HOMME x New Balance 1890A “Beige”Colorway: Black/Charcoal, Beige/OrangeSKU: TBCMSRP: TBCRelease Date: November 6Where to Buy: COMME des GARÇONSCOMME des GARÇONS HOMME and New Balance are bringing the 1890A collaboration to retail following its debut at Paris Men’s Fashion Week earlier this January. The collaboration starts from New Balance’s 1890, a model that keeps the brand’s core design language while experimenting with exposed technical elements, and gives it a more polished treatment suited to COMME des GARÇONS HOMME’s tailored sensibility.The apron upper is the biggest change to the 1890 template, and it shifts the shoe’s overall character. The construction wraps the forefoot in a single, clean section that ",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "65b6f2f31429",
-      "title": "UGG's Toughest Boot Has a Soft Side",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/ugg-classic-tread-fluffed-boot/",
-      "original_publish_time": "2026-10-30T09:45:01+00:00",
-      "scraped_time": "2026-10-30T11:07:22.754401+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "UGG"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 5,
-      "summary": "UGG's Classic Tread Fluffed Boottakes all the soft goodness of a typical UGG boot and flips it inside out.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "9a95341e71d8",
-      "title": "Nike Unveils the Caitlin 1 \"Duke\" PE for Blue Devils Women's Basketball",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/10/nike-caitlin-1-pe-duke-university-womens-basketball-blue-devils-revealed",
-      "original_publish_time": "2026-10-30T09:27:19+00:00",
-      "scraped_time": "2026-10-30T11:03:53.932960+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "Summary Nike has created an exclusive player edition of the Caitlin 1 for the Duke University women's basketball teamThe silhouette combines a black OptiCast upper with Duke blue graphics and crisp white branding detailsDesigned specifically for the team the pair will not see a public retail release Nike has crafted the Nike Caitlin 1 \"Duke\" PE, outfitting the Duke University women’s basketball team with a custom player-exclusive rendition of Caitlin Clark's debut signature silhouette. The special makeup arrives for the Blue Devils despite Clark having previously competed against the program during her collegiate career at Iowa.The performance model is constructed with a predominantly black upper utilizing Nike’s OptiCast material, which integrates custom \"2\" and \"C\" graphics finished in s",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "92e18d57a036",
-      "title": "Skechers Honors Harry Kane With a Bespoke Gold Signet Ring and Limited-Edition Boots",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/10/skechers-harry-kane-ballon-dor-gold-signet-ring-limited-edition-boots-release-info",
-      "original_publish_time": "2026-10-30T09:01:26+00:00",
-      "scraped_time": "2026-10-30T11:03:53.934258+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Skechers"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 5,
-      "summary": "Harry Kane recently made history as the first English player to win the Ballon d’Or in 25 years, and Skechers is celebrating the milestone with an exclusive collection of commemorative pieces.At the center of the tribute is a bespoke gold signet ring commissioned specifically for the Bayern Munich striker. The handmade piece is created by Deakin & Francis, a heritage British jewelry house boasting seven generations of craftsmanship. It features a unique “Mark of Greatness” insignia alongside an engraving of Kane's 73-goal 25/26 season tally with the design a direct nod to his signature goal celebration.Accompanying the ring, Skechers is also dropping a limited release of the “Mark of Greatness” boot. Producing exactly 73 pairs for the public, one for every goal scored, the boot features a ",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "e40f58711896",
-      "title": "Our Legacy and Nike Launch Sport Shop NYC Pop-Up Ahead of Running Partnership",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/10/our-legacy-work-shop-nike-sport-shop-new-york-city-pop-up-announcement",
-      "original_publish_time": "2026-10-30T08:28:44+00:00",
-      "scraped_time": "2026-10-30T11:03:53.935380+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Nike",
-        "Converse"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 4,
-      "summary": "Summary Our Legacy and Nike are opening a three-day Sport Shop NYC pop-up at Procell in Manhattan from October 30 through November 1The activation introduces the upcoming Our Legacy Work Shop x Nike Running collection featuring bespoke footwear and technical apparelCollaborative clothing will be available at the pop-up ahead of the full collection launch in Spring 2027 Our Legacy Work Shop and Nike have officially launched their debut partnership alongside the opening of the \"Sport Shop NYC\" Pop-Up, hosted at vintage boutique Procell in Manhattan. The collaborative pop-up opens October 30, 2026, offering an early preview and exclusive collaborative apparel ahead of the duo's broader technical running line.Marking the Swedish brand’s first direct project with Nike following past Converse ef",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "5606323b1ea5",
-      "title": "Skechers Celebrates Harry Kane’s Ballon d’Or With A Limited Run of 73 Gold Boots for His 73 Goals",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/harry-kane-skechers-ballon-d-or-boot-release-date-1239390233/",
-      "original_publish_time": "2026-10-30T08:00:00+00:00",
-      "scraped_time": "2026-10-30T11:03:43.371147+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Skechers"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 5,
-      "summary": "The English was also give a one-of-one pair made with real gold.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "a35bb619f49d",
-      "title": "Bad Bunny’s adidas BadBo Stone Slides Look Carved Straight From Rock",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/10/adidas-badbo-stone-slides-blue-yellow-lb7191-lb7194-official-images",
-      "original_publish_time": "2026-10-30T07:57:05+00:00",
-      "scraped_time": "2026-10-30T11:03:53.936661+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "Name: adidas BadBo Stone Slides “Blue,” adidas BadBo Stone Slides “Yellow”Colorway: TBCSKU: LB7191, LB7194MSRP: $70 USDRelease Date: June 2027Bad Bunny’s adidas BadBo Stone Slides are reportedly set for a Summer 2027 release, giving the artist’s signature line its first slip-on. Early images show the slide in “Blue” and “Yellow,” both defined by a textured upper engineered to resemble chiseled stone.The stone effect is the defining design element, and it runs across the entire upper rather than appearing as an accent. Slight variations in shade across the surface pick out the ridges and grooves, giving the slide a weathered, hand-cut appearance up close. That relief is what gives the model its name, and it turns a typically plain silhouette into something with real visual depth.Color block",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "b39cb3f89071",
-      "title": "The Thom Browne x Globe-Trotter Luggage Collection Hides 98 Handmade Steps Under Pebble Grain Leather",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/10/thom-browne-globe-trotter-collaboration-collection-release-info",
-      "original_publish_time": "2026-10-30T06:57:05+00:00",
-      "scraped_time": "2026-10-30T11:03:53.939174+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "hide"
-      ],
-      "relevance_score": 5,
-      "summary": "Summary Thom Browne and Globe-Trotter have teamed up on a three-piece luggage collection wrapped in pebble grain leatherEach case takes ten days and nearly a hundred separate production stages to complete in EnglandThe lineup scales from a strap-ready everyday piece to a check-in case built for weeks on the road Thom Browne has partnered with British luggage maker Globe-Trotter on a three-piece collection that pairs the label’s tailoring codes with one of travel’s most rigorous manufacturing processes. The range includes the Micro Case, the Carry-On and the Check-In, each dressed in pebble grain leather and detailed with Thom Browne’s RWB stripe on the outside and university stripe oxford fabric on the inside.Globe-Trotter’s construction method has remained largely unchanged since the comp",
       "ren_take": "",
       "image_url": ""
     }
