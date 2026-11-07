@@ -1,8 +1,71 @@
 {
-  "last_updated": "2026-11-07T16:56:02.353283+00:00",
+  "last_updated": "2026-11-07T20:49:56.052482+00:00",
   "total_articles": 133,
   "sources_checked": 61,
   "articles": [
+    {
+      "id": "98b799d58042",
+      "title": "Converse’s Fluffy \"UGG\" Moc Has the Sole of a Running Shoe",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/converse-t-bone-slide-moccasin-boa/",
+      "original_publish_time": "2026-11-07T19:38:12+00:00",
+      "scraped_time": "2026-11-07T20:42:46.895846+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Converse",
+        "UGG"
+      ],
+      "keywords_matched": [
+        "sole"
+      ],
+      "relevance_score": 7,
+      "summary": "Converse's T-Bone Slide Moccasin Boa shoe is a suave slip-on hybrid with fur touches, UGG flavor, & chunky running-style soles.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "3f75be67d989",
+      "title": "Nike’s Ruggedized Recovery Sneaker Is Ready for Cold Days",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-rejuven8-run-4x4/",
+      "original_publish_time": "2026-11-07T18:01:58+00:00",
+      "scraped_time": "2026-11-07T20:42:46.896666+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sole",
+        "upper"
+      ],
+      "relevance_score": 6,
+      "summary": "Nike's Rejuven8 Run 4x4 sneaker is a winterized recovery shoe featuring thick muddied-up soles & cozy suede uppers.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "3eaddd774885",
+      "title": "Nike Brings “Michigan Wolverines” Colors To The Air Max 90",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/11/07/nike-air-max-90-michigan-jf8005-410/",
+      "original_publish_time": "2026-11-07T17:00:15+00:00",
+      "scraped_time": "2026-11-07T20:39:15.864838+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "School-inspired Nikes have been a dime a dozen since college football season kicked off in late August, from the “Mummy Duck” Foams and other standout... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike Brings \"Michigan Wolverines\" Colors To The Air Max 90 appeared first on Sneaker News . The post Nike Brings “Michigan Wolverines” Colors To The Air Max 90 appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "48dd75b7ca30",
       "title": "Marikina showcases shoemaking heritage to ASEAN delegates - Daily Tribune",
@@ -2695,68 +2758,6 @@
       ],
       "relevance_score": 3,
       "summary": "4 workers killed, 2 injured as fire engulfs shoe manufacturing factory in Delhis Mangolpuri The Tribune",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "944cac1272b9",
-      "title": "adidas’ Handsome Outdoor Boots Can Genuinely Weather the Storm",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/adidas-wetherlam-spzl/",
-      "original_publish_time": "2026-10-31T18:46:51+00:00",
-      "scraped_time": "2026-10-31T20:26:52.343524+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 5,
-      "summary": "adidas releases the Wetherlam SPZL, an updated version of the Helvellyn with outdoor-ready details & plenty of street style.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "1b7b068232b5",
-      "title": "Nike's UGG-Coded Slipper Boot Is the Coziest Recovery Flex",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-24-7-boot/",
-      "original_publish_time": "2026-10-31T18:43:08+00:00",
-      "scraped_time": "2026-10-31T20:26:52.344064+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [
-        "Nike",
-        "UGG"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 7,
-      "summary": "Nike debuts its 24.7 boot, an UGG-coded recovery model with plenty of cushioning & nice colorways. Here's everything on the release.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "3c036c94f483",
-      "title": "Four killed in Delhi shoe manufacturing unit fire; owner summoned - Rediff",
-      "source_name": "Google News - Shoe Manufacturing",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaE1XV1VfQWhCWmhnZG53V250RDl1Q2hGY01aWEM5WmljLUJVVjQ2YnJwNDgxZkJQTl9NSU5QQzlrWC1ZYlROcWp1WU42NUx3a19JbVV3LTlVZVZOOUQ5Z3lTa3VjSHBNeENlNzhQcm5leS1HOFNsQW5ackpfZ0M4anNfVTU3T21RU1ZyRW5CV0VsVm1DOG96OWk2T3BlVzk3c21Fb0dva185WU14ZzdIODhB0gG0AUFVX3lxTE1PTk1zYmxZa0JpYlJubHBlQkhVaFBwTW4wVUVwQ0xNV0FCd2NIbldQNHpKTVFVUG9NNmxQWnhqZHlIRndkLWZqajU0aUxoZS0wQlUyQjNpZ0VYNkNsWHVfUHJpMVFCMzMwUW14T1R6bEtrblk5dm9GZXBVS1ljZ05FVHFlaWJJSUIwamRjcDR6cnNJVkZxNVMyNGN1TGotZnNBY3o0YW91NkRTanFkTl9nMGdXVg?oc=5",
-      "original_publish_time": "2026-10-31T17:32:47+00:00",
-      "scraped_time": "2026-10-31T20:23:34.778062+00:00",
-      "time_delta_mins": 0,
-      "category": "Manufacturing",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoe manufacturing"
-      ],
-      "relevance_score": 3,
-      "summary": "Four killed in Delhi shoe manufacturing unit fire; owner summoned Rediff",
       "ren_take": "",
       "image_url": ""
     }
