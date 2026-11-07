@@ -1,8 +1,29 @@
 {
-  "last_updated": "2026-11-06T22:05:50.054283+00:00",
-  "total_articles": 132,
-  "sources_checked": 60,
+  "last_updated": "2026-11-07T02:48:04.617668+00:00",
+  "total_articles": 131,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "ee7d059ab6e7",
+      "title": "Athlete Focus Guides Under Armour’s Footwear Reset",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/under-armour-kevin-plank-footwear-1-billion-business-1239404513/",
+      "original_publish_time": "2026-11-06T22:11:04+00:00",
+      "scraped_time": "2026-11-07T02:37:07.958337+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Under Armour"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 5,
+      "summary": "Under Armour's Kevin Plank says footwear is a $1 billion business that \"we believe can be much larger.\"",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "70de7f6347b8",
       "title": "Balenciaga Hires Martine Rose & Yeezy Makes Runway Return in This Week's Top Fashion News",
@@ -2699,46 +2720,6 @@
       ],
       "relevance_score": 3,
       "summary": "4 workers die of suspected asphyxiation as massive fire breaks in shoe factory in outer Delhi The Tribune",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "25e94ab7b5a1",
-      "title": "4 killed, 2 injured in fire at Delhi shoe factory; owner summoned - The Times of India",
-      "source_name": "Google News - Shoe Manufacturing",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU1hTaG9yVHFkUnFablpsdGNaTW1wM2VoZmZXTER6Y3ZnemF0a3RVYkkwa2VCRmpoU0M3aFVqMzdhX21CWWY4aVM5MWZMV1ZYVWVRcTI1aFlPVTlWV2tNdDV1dzhTNVZoMlNxQ254UXNqTjUtaUVrZVRxaFJhcGNudFgyY1NrTFZVVFFQNlQ0Rkw5V0NmckF3R0oxaWJSMmYyMmtlSWlnTzY4Z0g5RjZXQnV6YW5Fek1ROUN6MjdUYVZhMGhmRXNOX3pHaTd2clljakHSAdcBQVVfeXFMTUczMFp0cnJieXZ4M1p4cHJweUZPUlJldjh5dUxjV0RuMkdCWlcyb2t3VG1PSE5TOG5PZGttNF9LX2dhdzhpN3R4VXhMdTN5SW9aeHcyQVhkdllEQ0NHVkVlNzhYSlY4UjBZYUZYaWNEUHJrSjQ0TVBLSF9GOWdJZDZOSXlpXzdWamJiSGlIMW1XTXJYc1U2Y21MTzVhUW5NZmZvN1dtSy1RQ0toMjFnZmcxV3FMeFN6dDRhZUZ6NWJoSkt1UnllczJVZTh4ZmxMTmFQVzBUY0E?oc=5",
-      "original_publish_time": "2026-10-31T01:06:00+00:00",
-      "scraped_time": "2026-10-31T02:07:09.583898+00:00",
-      "time_delta_mins": 0,
-      "category": "Manufacturing",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoe factory"
-      ],
-      "relevance_score": 3,
-      "summary": "4 killed, 2 injured in fire at Delhi shoe factory; owner summoned The Times of India",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "64e5767bb0fa",
-      "title": "Nike’s Techy Dad Shoe Has a Secret Girly Side",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-zoom-vomero-5-pink/",
-      "original_publish_time": "2026-10-30T22:23:00+00:00",
-      "scraped_time": "2026-10-31T02:10:40.885114+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "Nike’s Zoom Vomero 5 gets a pink makeover with ribbon laces, silver studs, and a techy black mesh upper that balances sporty and sweet.",
       "ren_take": "",
       "image_url": ""
     }
