@@ -1,8 +1,27 @@
 {
-  "last_updated": "2026-11-07T11:33:31.424572+00:00",
-  "total_articles": 131,
+  "last_updated": "2026-11-07T16:56:02.353283+00:00",
+  "total_articles": 133,
   "sources_checked": 61,
   "articles": [
+    {
+      "id": "48dd75b7ca30",
+      "title": "Marikina showcases shoemaking heritage to ASEAN delegates - Daily Tribune",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNFlaZWdKNVJ1QXAtZnNyN2ItWGhnMlh5MjVOa0tDblhsUkVyanNFeTNrUHRPUVY3MnhITGlVWVVPTVZtYnJqdjJSM0RhQ1R1YWNhLTJrT2ZqYks0dlBxVlRRNlF3UzRBeEM0bVRzTVNxbFVqUmgyVTNUYUJBWVlCTFgzNUx1WEI4aGI1azhIMXNQRlhETFE?oc=5",
+      "original_publish_time": "2026-11-07T15:52:35+00:00",
+      "scraped_time": "2026-11-07T16:45:32.987306+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoemaking"
+      ],
+      "relevance_score": 3,
+      "summary": "Marikina showcases shoemaking heritage to ASEAN delegates Daily Tribune",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "cf9d61a00d28",
       "title": "This Archival Jordan Was Built Like a German Sports Car",
@@ -2657,6 +2676,25 @@
       ],
       "relevance_score": 5,
       "summary": "Summary Nike Basketball and LeBron James have officially unveiled the LeBron 24 as the lightest signature game shoe in the line's historyThe performance silhouette introduces KingKnit upper technology alongside a full-length React foam drop-in midsole and dual Air Zoom unitsThe Nike LeBron 24 officially launches November 1 followed by the debut Stars colorway releasing on November 12 Nike Basketball and LeBron James have officially debuted the Nike LeBron 24, marking the lightest signature game shoe in the franchise’s history. Built for the speed and demands of modern basketball, the performance model delivers a lighter, sharper, and more responsive setup encouraging the next generation of athletes to pursue greatness on their own terms.Engineered to provide breathable containment, respons",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "4b6cb718ef6a",
+      "title": "4 workers killed, 2 injured as fire engulfs shoe manufacturing factory in Delhis Mangolpuri - The Tribune",
+      "source_name": "Google News - Shoe Manufacturing",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdE1jVXBWSjZNclNXTm41S2xOTnRGWWZ4RmRxanZ4MTk1UVZEZlJRYjFJcnZDTC04R0VYRjZXblBJN1ptZWF5Y05kc2J5dTZZa1A3RGViTm5oNERSeHZTZl80Y1pfT25MNHBLVEtOWkkxVktvTXdfeTNQYS1nQ2lqLUxxa0pjOUpvdVRsRFJ0RXdBQ0tQMkRqWl8wTlRwckoxRmYxalZ5czRqUzU1bmh3ckxTWUZlR24wbmY2ZVJ1Q2ZzcnUycGRPVEhlLVhVa1nSAdMBQVVfeXFMUExINjJObmh4SVVpSEwyalplS2VXNDdBVnktbHg5UXJ2YVlHYXlOMVMza3VWLWJsNE9qZDdiMWFkYko0dmRzNFluMEdxVnBjMEpfczl1Y3VDOWJVU29iX0R1bU13U05hU1FtMDlqd2pOSU94SmF0eFFmc1RidUVMdHlDNkNGbGpPbnotblpQT293NGxmeEY3anQ1WmljZllGMFZLRGNyWU12SmJqRlRBTEtCMTBSYTJjWWFhM0xMWnJGUE9iZC1lVWZiUjY2clRnY0g3MA?oc=5",
+      "original_publish_time": "2026-10-31T23:30:00+00:00",
+      "scraped_time": "2026-11-07T16:45:34.157928+00:00",
+      "time_delta_mins": 0,
+      "category": "Manufacturing",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoe manufacturing"
+      ],
+      "relevance_score": 3,
+      "summary": "4 workers killed, 2 injured as fire engulfs shoe manufacturing factory in Delhis Mangolpuri The Tribune",
       "ren_take": "",
       "image_url": ""
     },
