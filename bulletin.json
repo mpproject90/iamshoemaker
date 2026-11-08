@@ -1,6 +1,107 @@
 {
-  "last_updated": "2026-11-01T14:50:22.319469+00:00",
+  "last_updated": "2026-11-08T14:52:09.577251+00:00",
   "bulletins": [
+    {
+      "id": "wk45-2026",
+      "week_number": 45,
+      "year": 2026,
+      "date_from": "2026-11-02",
+      "date_to": "2026-11-08",
+      "published": "2026-11-08T14:52:09.576713+00:00",
+      "intro": "Week 45 arrives with the industry doubling down on one clear signal: the winter boot is being reengineered as a performance category, not a seasonal accessory. From GORE-TEX collaborations to TecTuff uppers and rugged basketball silhouettes, the technical cold-weather segment is absorbing brand energy that would have gone into lifestyle runners two years ago. Meanwhile, Steve Madden's Q3 read gives us the kind of retail ground truth that separates trend noise from register data.",
+      "articles": [
+        {
+          "title": "SOREL Hides Maharishi’s Bonsai Tigerstripe Camo Inside the Daystorm Horizon ZIP GTX Boot",
+          "source_name": "Hypebeast",
+          "source_url": "https://hypebeast.com/2026/11/sorel-maharishi-daystorm-horizon-zip-gtx-boot-collaboration-release-info",
+          "category": "Leather",
+          "relevance_score": 11,
+          "original_publish_time": "2026-11-05T11:00:16+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "Nike's Answer to the Winter Boot? A Rugged Basketball Shoe",
+          "source_name": "Highsnobiety",
+          "source_url": "https://www.highsnobiety.com/p/nike-jordan-winterized-6-rings/",
+          "category": "Retail",
+          "relevance_score": 9,
+          "original_publish_time": "2026-11-06T11:03:00+00:00",
+          "misaki_take": "Winterizing an existing basketball last is a proven tooling-cost lever — you amortize the mold investment across two seasonal reads and avoid the NPI budget of a ground-up boot program. The risk is fit: basketball lasts are built for lateral containment, not the volumetric accommodation most consumers expect from cold-weather footwear, and returns will tell that story by February."
+        },
+        {
+          "title": "Nike’s Cult-Favorite Air Max Boot Is Becoming Even More Rugged for Winter",
+          "source_name": "Footwear News",
+          "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-air-max-goadome-tectuff-release-date-616174-090-1239400632/",
+          "category": "Sustainability",
+          "relevance_score": 8,
+          "original_publish_time": "2026-11-04T20:56:22+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "Adidas, Asics, New Balance, Nike and More Join Forces for Youth Physical Fitness Push",
+          "source_name": "Footwear News",
+          "source_url": "https://wwd.com/footwear-news/shoe-industry-news/global-sports-firms-sporting-goods-youth-physical-activity-1239398656/",
+          "category": "Supply Chain",
+          "relevance_score": 8,
+          "original_publish_time": "2026-11-04T16:28:01+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "Converse’s Fluffy \"UGG\" Moc Has the Sole of a Running Shoe",
+          "source_name": "Highsnobiety",
+          "source_url": "https://www.highsnobiety.com/p/converse-t-bone-slide-moccasin-boa/",
+          "category": "Retail",
+          "relevance_score": 7,
+          "original_publish_time": "2026-11-07T19:38:12+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "From Salomon to New Balance, the Seven Best Sneakers to Cop This Week",
+          "source_name": "Highsnobiety",
+          "source_url": "https://www.highsnobiety.com/p/sneaker-releases-2026-november-week-1/",
+          "category": "Retail",
+          "relevance_score": 7,
+          "original_publish_time": "2026-11-03T10:18:20+00:00",
+          "misaki_take": "The consistent presence of trail-heritage and outdoor-adjacent brands in weekly sneaker roundups signals a demand floor that has not softened the way pure lifestyle runners have — Salomon's archival collab model in particular shows that SKU scarcity engineering is still generating cultural velocity. For sourcing managers, the implication is that any brand without an established outdoor-silhouette pipeline is now 18 to 24 months behind on tooling."
+        },
+        {
+          "title": "INVINCIBLE and adidas Consortium’s “Form in Motion” Collection Hides Its Best Details Until You Move",
+          "source_name": "Hypebeast",
+          "source_url": "https://hypebeast.com/2026/11/invincible-adidas-consortium-form-in-motion-release-info",
+          "category": "Leather",
+          "relevance_score": 7,
+          "original_publish_time": "2026-11-03T06:45:59+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "Converse Really Cooked With Its New Kitchen-Ready Chucks",
+          "source_name": "Hypebeast",
+          "source_url": "https://hypebeast.com/2026/11/converse-kitchen-ready-chucks-at-your-service-collection",
+          "category": "Quality",
+          "relevance_score": 7,
+          "original_publish_time": "2026-11-02T20:46:16+00:00",
+          "misaki_take": "Safety footwear certification — slip resistance, toe protection, oil repellency — involves third-party testing protocols that add lead time and cost that most lifestyle brands underestimate the first time they enter the category. Converse is smart to stay in canvas and leather rather than introduce injection-molded safety toes, keeping the construction within their existing factory competency while still meeting the functional brief."
+        },
+        {
+          "title": "Nike’s Ruggedized Recovery Sneaker Is Ready for Cold Days",
+          "source_name": "Highsnobiety",
+          "source_url": "https://www.highsnobiety.com/p/nike-rejuven8-run-4x4/",
+          "category": "Leather",
+          "relevance_score": 6,
+          "original_publish_time": "2026-11-07T18:01:58+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "A Closer Look at the Fall Footwear That Drove Steve Madden’s Wholesale Business in Q3",
+          "source_name": "Footwear News",
+          "source_url": "https://wwd.com/footwear-news/shoe-industry-news/steve-madden-casual-heels-booties-loafers-tall-shaft-boots-1239402993/",
+          "category": "Brand News",
+          "relevance_score": 6,
+          "original_publish_time": "2026-11-05T21:40:00+00:00",
+          "misaki_take": ""
+        }
+      ]
+    },
     {
       "id": "wk44-2026",
       "week_number": 44,
@@ -907,107 +1008,6 @@
           "relevance_score": 6,
           "original_publish_time": "2026-08-25T10:42:03+00:00",
           "misaki_take": "KEEN using the Targhee EXP WP as a collab foundation rather than a new last is a capital-efficient brand-extension strategy — the waterproofing system, outsole tooling, and fit are already validated, so the partnership's value is purely in co-branded distribution reach and apparel-to-footwear cross-sell. At ¥24,200 JPY with a Japan-market anchor, the pricing tells me this first drop is a limited test of channel compatibility before any decision to scale into KEEN's broader wholesale network."
-        }
-      ]
-    },
-    {
-      "id": "wk34-2026",
-      "week_number": 34,
-      "year": 2026,
-      "date_from": "2026-08-17",
-      "date_to": "2026-08-23",
-      "published": "2026-08-23T08:33:00.253640+00:00",
-      "intro": "Week 34 arrives with a quiet but telling mix: heritage brands leaning into lifestyle pivots, Central Asian leather supply chains drawing fresh attention, and a lawsuit dismissal that says more about consumer expectation drift than product failure. Underneath the sneaker drops and editorial noise, the structural questions — where leather comes from, how brands manage product integrity risk, and who controls creative direction — are doing most of the heavy lifting this week.",
-      "articles": [
-        {
-          "title": "Sole Searching? Shop These Podiatrist-Approved Sneakers from Asics, Brooks, New Balance, and More from $45 - People.com",
-          "source_name": "Google News - Sneaker Brand",
-          "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTU9pU1JONnYxOEJFeUJkaHdXTGE0cHZPREg5NmlyckV4VlVadVpkc3g2cG51emZISlVwSTFLcUozTkRSd3RMMksyd3ZwazJWNHBkZzFEVmtKa1lvelpYVHBjb21YTUY3VGtkT3djVGhkdGFnYzlocnk3MXhqMzY0bg?oc=5",
-          "category": "Retail",
-          "relevance_score": 12,
-          "original_publish_time": "2026-08-21T06:45:00+00:00",
-          "misaki_take": "The 'podiatrist-approved' editorial category has become a reliable traffic vehicle for mid-tier performance brands, and it reliably lifts unit velocity on SKUs sitting in the $45–$90 FOB band. For sourcing teams at Brooks and Asics, this kind of organic placement is a demand signal worth tracking — it compresses reorder windows and tests allocation between DTC and wholesale channels without a dollar of marketing spend."
-        },
-        {
-          "title": "From New Balance to Nike, the Seven Best Sneakers to Cop This Week",
-          "source_name": "Highsnobiety",
-          "source_url": "https://www.highsnobiety.com/p/sneaker-releases-2026-august-week-3/",
-          "category": "Leather",
-          "relevance_score": 8,
-          "original_publish_time": "2026-08-18T12:11:47+00:00",
-          "misaki_take": "The New Balance Made In USA 2040v5 sitting alongside a mass-market Nike Air Max in the same editorial frame is a quiet tension worth noting — one justifies its premium through domestic craft, the other through cultural cachet, and buyers are being asked to evaluate them on the same shelf. Brands leaning on 'Made In USA' positioning need to ensure their domestic supply chain can actually sustain the volumes that editorial coverage like this generates."
-        },
-        {
-          "title": "Fugazi Draws Crowds for $5 Shoes & Supreme Chief Creative Steps Down in This Week's Top Fashion News",
-          "source_name": "Hypebeast",
-          "source_url": "https://hypebeast.com/2026/8/fugazi-reese-cooper-palace-supreme-reebok-info",
-          "category": "Brand News",
-          "relevance_score": 7,
-          "original_publish_time": "2026-08-21T16:59:58+00:00",
-          "misaki_take": "When a CCO with 22 years of tenure exits a brand like Supreme, the creative supply chain — meaning the vendor and material relationships built around a very specific aesthetic vision — is as much at risk as the design direction itself. The Fugazi $5 shoe moment is more operationally interesting than it looks: someone absorbed the landed cost on a dead collaboration, which means a factory somewhere ate margin or minimum order exposure on a deal that never closed."
-        },
-        {
-          "title": "Hoka Revamps One of Its Most Democratic Running Shoes as an Out-and-out Lifestyle Sneaker",
-          "source_name": "Footwear News",
-          "source_url": "https://wwd.com/footwear-news/sneaker-news/hoka-clifton-utl-lifestyle-sneaker-1239145238/",
-          "category": "Retail",
-          "relevance_score": 7,
-          "original_publish_time": "2026-08-21T14:59:54+00:00",
-          "misaki_take": ""
-        },
-        {
-          "title": "Inside Lili Curia, the Vintage-inspired Shoe Brand Making Custom Boots for Suki Waterhouse",
-          "source_name": "Footwear News",
-          "source_url": "https://wwd.com/footwear-news/shoe-features/lili-curia-footwear-brand-chili-palmer-interview-1239125440/",
-          "category": "Brand News",
-          "relevance_score": 7,
-          "original_publish_time": "2026-08-19T17:33:14+00:00",
-          "misaki_take": ""
-        },
-        {
-          "title": "24 Podiatrist-recommended Shoes for High Arches—Shop Supportive, Stylish Picks From Brooks, Hoka, and More - Travel + Leisure",
-          "source_name": "Google News - Sneaker Brand",
-          "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUFRhM0d5MnhzRmZ4RkJqWW12cTFQQi1FaTVqMThNYlNyTFNidG9yaXRLdzVnOGM1VHF0LW1OUWE1SXE1S0FSMWx6czBqTTdSUThmZ3lrUy1ZcWVqWlFIYXlZWXBrQjR2TndQbzN5WDhIRk1mTDAyY1NpcUhGNlhaZ1RzUFlRUXc5M05ibmcybUt4REk2R1dwektKSzUzZ2xkUWc?oc=5",
-          "category": "Supply Chain",
-          "relevance_score": 7,
-          "original_publish_time": "2026-08-19T11:30:00+00:00",
-          "misaki_take": "A second podiatrist-approval editorial hit in the same week for Brooks and Hoka confirms this is a sustained content category, not a one-off — demand planning teams should be mapping these placements against inventory positions in real time. For sourcing managers, overlapping editorial spikes on the same SKUs across multiple publications is precisely when buffer stock calculations matter most."
-        },
-        {
-          "title": "Nike’s Cinnamon Leather Forces Has a Sweet Sole",
-          "source_name": "Highsnobiety",
-          "source_url": "https://www.highsnobiety.com/p/nike-air-force-1-black-cinnamon/",
-          "category": "Leather",
-          "relevance_score": 6,
-          "original_publish_time": "2026-08-22T16:44:45+00:00",
-          "misaki_take": ""
-        },
-        {
-          "title": "Development of the Leather and Footwear Industry in Central Asian Countries in the First Half of 2026 - Review.uz",
-          "source_name": "Google News - Footwear Industry",
-          "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY0h6ZWppVFZFbEN5NHVINVQ5NVZ0NDl3TTF1UHRiNzRENEpXV3c2N2U3dEtOR2NPU2RlcVYxTmRzcjhKVC1WcXhycTZXRExzdVlNaW5CSDBuSEdHakxCTjVvYmhURnZVQmlCZGVrMXBPYW1HTWdrenpMNDFvSUQ1MW9lU1BSbWlzLWE0MHNodWh6S0NTQnZoS3VrV2w2R2RyOFBNV3hn?oc=5",
-          "category": "Leather",
-          "relevance_score": 6,
-          "original_publish_time": "2026-08-19T14:22:15+00:00",
-          "misaki_take": "Central Asian leather and footwear capacity has been developing quietly for years, and H1 2026 performance data emerging now will inform where diversification-minded brands allocate development trips in Q1 2027. The region's cost structure and improving raw hide access make it worth watching, but anyone who has been to Tashkent or Almaty knows that lead time predictability and finishing quality consistency are still the variables that will determine whether it becomes a real sourcing tier or stays a footnote."
-        },
-        {
-          "title": "UNDEFEATED & Jordan Brand Level-up With the Air Jordan 5",
-          "source_name": "Hypebeast",
-          "source_url": "https://hypebeast.com/2026/8/undefeated-air-jordan-5-moon-fossil-2027-release-date-info",
-          "category": "Sustainability",
-          "relevance_score": 6,
-          "original_publish_time": "2026-08-18T16:26:52+00:00",
-          "misaki_take": "A February 2027 release date announced in August 2026 tells you the production calendar on high-profile Jordan collabs is running at least 18 months out, which has implications for any brand trying to insert itself into the premium collaboration space on shorter timelines. Canvas uppers with olive co-branding are operationally straightforward, but the allocation and authentication logistics on a drop of this profile cost more to execute than most people outside Nike's supply chain would estimate."
-        },
-        {
-          "title": "Court Dismisses Class Action Suit Against On for ‘Squeaky’ and ‘Embarrassing’ Cloudmonster Sneakers",
-          "source_name": "Footwear News",
-          "source_url": "https://wwd.com/footwear-news/shoe-industry-news/on-class-action-lawsuit-squeaky-cloudmonster-sneakers-1238299434/",
-          "category": "Brand News",
-          "relevance_score": 6,
-          "original_publish_time": "2026-08-18T16:12:44+00:00",
-          "misaki_take": ""
         }
       ]
     }
