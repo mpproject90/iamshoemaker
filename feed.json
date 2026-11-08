@@ -1,8 +1,72 @@
 {
-  "last_updated": "2026-11-08T17:06:51.291227+00:00",
+  "last_updated": "2026-11-08T21:07:17.565806+00:00",
   "total_articles": 124,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "a98adde0dc10",
+      "title": "This Beautifully Blacked-Out Air Jordan Packs a Luxe Sting",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/jordan-17-low-black-pack/",
+      "original_publish_time": "2026-11-08T20:49:15+00:00",
+      "scraped_time": "2026-11-08T21:00:06.713768+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "Nike's Air Jordan 17 Low \"Black Pack\" is collection's fourth luxurious all-black sneaker featuring stingray leather.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "5e20fcb66cd9",
+      "title": "Nike's Mid Jordans Are Even Better as Hare-y 'Space Jam' Sneakers",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/jordan-1-mid-space-jam-hare/",
+      "original_publish_time": "2026-11-08T20:47:08+00:00",
+      "scraped_time": "2026-11-08T21:00:06.714315+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 7,
+      "summary": "The Air Jordan 1 Mid \"Space Jam Hare\" is a clever Bugs Bunny-inspired sneaker featuring fuzzy grey textures & a Jumpman Hare motif.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "d5c04fc377b7",
+      "title": "Timberland’s Premium 6-Inch Boot Gets a New Limited-Edition Collaboration Covered in Pony Hair",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/solebox-timberland-premium-6-inch-boot-pony-hair-release-date-1239406397/",
+      "original_publish_time": "2026-11-08T18:52:03+00:00",
+      "scraped_time": "2026-11-08T20:56:27.920575+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Timberland"
+      ],
+      "keywords_matched": [
+        "boot",
+        "sole"
+      ],
+      "relevance_score": 6,
+      "summary": "European retailer Solebox adds some texture to the street style staple boot.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "27c1523b5028",
       "title": "Nike’s Luxe New Air Max 95 Big Bubble Collaboration Is a Love Letter to Italy",
@@ -2507,68 +2571,6 @@
       ],
       "relevance_score": 3,
       "summary": "Name: Nike Air Max Dolce “Leather Croc Skin” PackColorway: Black/Anthracite, Pearl Pink/Pale Pink-BlackSKU: IR8665-600, IR8665-001MSRP: $170 USDRelease Date: Holiday 2026Nike is giving the Air Max Dolce a more polished finish with its “Leather Croc Skin” Pack, a two-colorway release that replaces the model’s signature TPU forefoot netting with glossy, croc-embossed leather. Offered in Black and “Pearl Pink,” the update pulls away the shoe’s caged overlay to expose the slip-on loafer form that has always sat underneath.Removing the netting changes how the entire upper reads, pushing the Dolce’s loafer construction to the forefront. A ring of raised stitching outlines the toe box, while the leather bunches slightly where the vamp meets the front of the shoe, a detail that was previously hidd",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "81640f4ec1b9",
-      "title": "Nike’s ‘Space Jam’ Air Jordans Went Full Bottega",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/jordan-11-space-jam-green-screen/",
-      "original_publish_time": "2026-11-01T20:54:18+00:00",
-      "scraped_time": "2026-11-01T21:00:45.701578+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [
-        "Nike",
-        "Jordan"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 4,
-      "summary": "The Air Jordan 11 gets a refresh for the 'Space Jam' collection, resulting in this tonal Bottega-style \"Green Screen\" version of the sneaker.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "3d1fc31c19d3",
-      "title": "adidas’ Most Lowkey Sneaker Is Highly Luxe",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/adidas-tobacco-triple-black/",
-      "original_publish_time": "2026-11-01T20:48:59+00:00",
-      "scraped_time": "2026-11-01T21:00:45.701109+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "adidas' latest Tobacco sneaker is a Japan-exclusive release featuring a clean all-black colorway & luxe suede uppers.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "767350bf717d",
-      "title": "Nike Quietly Brought Back This Popular Retro Hiking Shoe",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/11/01/nike-lahar-low-hiking-climbing-shoes/",
-      "original_publish_time": "2026-11-01T19:00:00+00:00",
-      "scraped_time": "2026-11-01T20:57:09.111486+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 3,
-      "summary": "Word to Wale, Nike boots are back in vogue. The past few winters have brought nothing but bangers from the Nike ACG archive, from the... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike Quietly Brought Back This Popular Retro Hiking Shoe appeared first on Sneaker News . The post Nike Quietly Brought Back This Popular Retro Hiking Shoe appeared first on Sneaker News .",
       "ren_take": "",
       "image_url": ""
     }
