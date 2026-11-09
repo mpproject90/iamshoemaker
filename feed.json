@@ -1,8 +1,238 @@
 {
-  "last_updated": "2026-11-09T13:39:17.270624+00:00",
-  "total_articles": 122,
-  "sources_checked": 60,
+  "last_updated": "2026-11-09T21:28:19.309284+00:00",
+  "total_articles": 126,
+  "sources_checked": 54,
   "articles": [
+    {
+      "id": "5e5fd50872ba",
+      "title": "adidas’ Cute “UGG” Boots Were Skate Shoes in Their Past Life",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/adidas-campus-00s-winter/",
+      "original_publish_time": "2026-11-09T21:12:49+00:00",
+      "scraped_time": "2026-11-09T21:22:01.319067+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Adidas",
+        "UGG"
+      ],
+      "keywords_matched": [
+        "boot",
+        "shoes"
+      ],
+      "relevance_score": 10,
+      "summary": "adidas releases new Campus 00s Winter boots, which have even more UGG flavor than the last. Here's everything on the cozy-cute drop.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "e5eacee3f0f3",
+      "title": "Nike’s Ruggedized Dad Shoe Is Quiet But Mighty",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-p-6000-cordura-anthracite/",
+      "original_publish_time": "2026-11-09T20:37:46+00:00",
+      "scraped_time": "2026-11-09T21:22:01.319772+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "Nike's P-6000 sneaker gets another rugged Cordura treatment, this time landing in a quiet \"Anthracite\" colorway.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "259953cf2e19",
+      "title": "The Hairy Nike Air Force 1 Low Get Dyed In Purple",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/11/09/nike-air-force-1-low-purple-hair-ir1940-500/",
+      "original_publish_time": "2026-11-09T20:30:48+00:00",
+      "scraped_time": "2026-11-09T21:18:33.149387+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 3,
+      "summary": "Hair Force 1s? Yup, that’s where we’re at. The Bruce Kilgore icon continues its hot streak with yet another style featuring all-over hairy fabric uppers,... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Hairy Nike Air Force 1 Low Get Dyed In Purple appeared first on Sneaker News . The post The Hairy Nike Air Force 1 Low Get Dyed In Purple appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "1d2482978334",
+      "title": "Michael Jordan’s Air Jordan 3 ‘Not Nice’ Chooses Petty for Christmas Through Newly Revealed Detail",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/michael-jordan-air-jordan-3-not-nice-release-date-1239407572/",
+      "original_publish_time": "2026-11-09T19:36:50+00:00",
+      "scraped_time": "2026-11-09T21:18:22.522084+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Jordan"
+      ],
+      "keywords_matched": [
+        "insole",
+        "sole"
+      ],
+      "relevance_score": 4,
+      "summary": "A previously unseen insole lists every team Jordan and the Bulls defeated in the NBA Finals and other memorable playoff opponents.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "8c06b11c7c3b",
+      "title": "'Space Jam' Magic Made This Dreamy Jordan 1 Possible",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/jordan-1-low-space-jam-magic-ball/",
+      "original_publish_time": "2026-11-09T19:24:43+00:00",
+      "scraped_time": "2026-11-09T21:22:01.320577+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Jordan"
+      ],
+      "keywords_matched": [
+        "sole"
+      ],
+      "relevance_score": 3,
+      "summary": "The Air Jordan 1 Low \"Magic Ball\" sneaker brings a colorful iridescent design & glowy soles to the \"Space Jam\" 30th-anniversary collection.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "42a7e3c14b7d",
+      "title": "Balenciaga Let Damien Hirst Turn a Le City Bag Into Le Footwear",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/balenciaga-damien-hirst-le-city-new-collab/",
+      "original_publish_time": "2026-11-09T19:04:50+00:00",
+      "scraped_time": "2026-11-09T21:22:01.321179+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Balenciaga"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 5,
+      "summary": "The Balenciaga Le City just turned 25, and to honor the silhouette’s fully-formed frontal lobe, the French brand tapped Damien Hirst to design some irreverent icons.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "40b7055397f7",
+      "title": "Solebox Goes Full Hairy Mode On Their Timberland 6” Boot Collab",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/11/09/solebox-timberland-6-inch-boot-chestnut-pony-hair/",
+      "original_publish_time": "2026-11-09T19:00:03+00:00",
+      "scraped_time": "2026-11-09T21:18:33.151865+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Timberland"
+      ],
+      "keywords_matched": [
+        "boot",
+        "sole"
+      ],
+      "relevance_score": 8,
+      "summary": "Timberland has never shied away from special projects, but there’s no doubt that their recent link-ups have done well to bring their outside partners into... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Solebox Goes Full Hairy Mode On Their Timberland 6” Boot Collab appeared first on Sneaker News . The post Solebox Goes Full Hairy Mode On Their Timberland 6” Boot Collab appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "9a32ac581c4f",
+      "title": "These Kelly Green Nike Kobe Sneakers Might Be the Only Highlight of a Dismal Eagles Season",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-kobe-5-eagles-release-date-jf1792-300-1239407408/",
+      "original_publish_time": "2026-11-09T18:02:11+00:00",
+      "scraped_time": "2026-11-09T21:18:22.524922+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "Kobe Bryant's love for the birds comes through on his fifth signature Nike shoe.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "5d56178e58ea",
+      "title": "HAVEN and Converse Rework the Chuck 70 in Textured Cashmere Suede",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/11/haven-converse-chuck-70-reworked-textured-cashmere-suede-collaboration-release-info",
+      "original_publish_time": "2026-11-09T17:00:49+00:00",
+      "scraped_time": "2026-11-09T21:18:32.962696+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Converse"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Summary HAVEN and Converse have officially unveiled a collaborative Chuck 70 inspired by tactile craftsmanshipThe silhouette features smooth cashmere suede contrasting hairy suede a leather toe cap and a lateral side zipperThe sneaker releases on November 12 via HAVEN before arriving at Converse channels on November 17 Canadian menswear retailer HAVEN has officially collaborated with Converse to introduce the collaborative Converse Chuck 70, combining functional utilitarian upgrades with a dedicated focus on artisanal craft. Framed through the organic woodworking practice of visual artist and carpenter Graham Landin, the collaborative footwear project updates the classic court silhouette through subtle technical intervention and tactile materiality.Preserving the recognizable proportions o",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "1738af9869e4",
+      "title": "EXCLUSIVE: Chinese Bag-Maker Songmont Enters Footwear",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/songmont-chinese-bag-maker-songmont-footwear-launch-1239406620/",
+      "original_publish_time": "2026-11-09T15:37:28+00:00",
+      "scraped_time": "2026-11-09T21:18:22.525728+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "The buzzy brand, known for cultural storytelling, is launching its first footwear collection, drawing on Shanxi’s Wotou shoe.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "e79f86623e90",
+      "title": "The Best Holiday Party Shoes for Every Occasion, and How to Style Them",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-trends/holiday-party-shoes-for-every-occasion-1239404847/",
+      "original_publish_time": "2026-11-09T14:24:26+00:00",
+      "scraped_time": "2026-11-09T21:18:22.526378+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "boot",
+        "shoes"
+      ],
+      "relevance_score": 4,
+      "summary": "From high-shine pumps to furry boots, find the inspiration you need for this holiday season.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "5b0e181d3d3d",
       "title": "The HOKA Speed Loafer Receives a “Carbon Grey/Washed Blue” Colorway",
@@ -2382,153 +2612,6 @@
       ],
       "relevance_score": 3,
       "summary": "Nike's Air Max 90 \"Medium Olive\" sees the classic sneaker remixed with green padded leather uppers.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "042a310b14e4",
-      "title": "Converse Really Cooked With Its New Kitchen-Ready Chucks",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/11/converse-kitchen-ready-chucks-at-your-service-collection",
-      "original_publish_time": "2026-11-02T20:46:16+00:00",
-      "scraped_time": "2026-11-02T23:46:23.250808+00:00",
-      "time_delta_mins": 0,
-      "category": "Quality",
-      "brands_mentioned": [
-        "Converse"
-      ],
-      "keywords_matched": [
-        "footwear",
-        "shoes",
-        "sneakers",
-        "sole",
-        "upper"
-      ],
-      "relevance_score": 7,
-      "summary": "Summary Converse’s At Your Service collection reimagines traditional kitchen footwear, combining the iconic Chuck Taylor silhouette with industry-standard safety features and all-day comfort.The collection includes Chuck Taylor All Star High Top, Low Top, and Slip-On models, featuring slip-resistant soles, CX cushioning, and water- and oil-repellent canvas or easy-to-clean leather uppers.The Converse At Your Service collection launches November 3 via Converse.com and select retailers. The service industry has, quite frankly, been underserved when it comes to footwear. For years, the term \"line cook shoes\" has been synonymous with orthopedic-looking sneakers and clogs designed more for comfort than getting a 'fit off in the kitchen.Converse is looking to change that with its new At Your Ser",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "597a3e8ab8e0",
-      "title": "Jordan's Color-Shifting 'Space Jam' Shoes Are Genuinely Magical",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/jordan-11-space-jam-magic-ball/",
-      "original_publish_time": "2026-11-02T19:45:16+00:00",
-      "scraped_time": "2026-11-02T20:42:09.766617+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Jordan"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 5,
-      "summary": "The Air Jordan 11 \"Magic Ball\" is a cool, color-shifting sneaker designed for the \"Space Jam\" anniversary. Here's everything on the release.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "330ac57fc9cf",
-      "title": "Pringle Of Scotland Brings Premium Wool To Vans Skate Classics",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/11/02/pringle-of-scotland-vans-release-date/",
-      "original_publish_time": "2026-11-02T19:00:59+00:00",
-      "scraped_time": "2026-11-02T20:38:46.263541+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Vans"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "As we begin prepping year-end content, it’s crystal clear that Vans is among the biggest winners of 2026 in sneakers. Though the “Pearlized” moment that’s... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Pringle Of Scotland Brings Premium Wool To Vans Skate Classics appeared first on Sneaker News . The post Pringle Of Scotland Brings Premium Wool To Vans Skate Classics appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "fa99826f8b43",
-      "title": "Boot Barn ramps up store openings despite lowering outlook",
-      "source_name": "Retail Dive",
-      "source_domain": "retaildive.com",
-      "source_url": "https://www.retaildive.com/news/boot-barn-ramps-up-store-openings-lower-outlook/873449/",
-      "original_publish_time": "2026-11-02T17:24:00+00:00",
-      "scraped_time": "2026-11-02T20:41:27.295821+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 3,
-      "summary": "Warm weather impacted some sales in the second quarter, but the retailer is refreshing key assortments as it accelerates its footprint expansion.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "abd0c0f2405c",
-      "title": "Where to Buy: Converse At Your Service Restaurant Non-Slip Shoes - House of Heat°",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQam8wd1B4VUNLT2ZSQ2RfbXRHYWlvZEt2c2RGTTJ1aWZWUDRhelJMWlVwRWJzVW01Nm9zaW1FbEU4RktLdENLUFJBRU1PaHdDZHRsYklaWEtyUGdTN0xKT2lhRkZ2M2JTOG45Wk1jdDI2YlMtNTl6VjRqRGFlYU5NVWZPNmZyRGFrNVBj?oc=5",
-      "original_publish_time": "2026-11-02T15:05:50+00:00",
-      "scraped_time": "2026-11-02T20:38:57.172029+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Converse"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 5,
-      "summary": "Where to Buy: Converse At Your Service Restaurant Non-Slip Shoes House of Heat°",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "bec11a561aae",
-      "title": "Santoni Proves You Can Run a Marathon in Dress Shoes",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/santoni-nyc-marathon-weekend-pop-up-easy-shoes-details-1239395049/",
-      "original_publish_time": "2026-11-02T15:00:00+00:00",
-      "scraped_time": "2026-11-02T20:38:35.511460+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "Executive president and chairman Giuseppe Santoni noted that the idea to outfit athletes in the Easy Run shoes stemmed from wanting to do something unexpected.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "148ba1267445",
-      "title": "ECCO Vietnam dissolves and ceases operations at its shoe factory employing over 1,600 workers. - Vietnam.vn",
-      "source_name": "Google News - Vietnam Manufacturing",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYzBSZkZRRDNRWjBkYUo2SHZCNW9TbzE5V0s1V21Wcm5uU015S0FTQzc4bFlYRTVERGhhdnBtT28zUUwzTDVqQjRSSncyblZrY0pPcUVBRFY1Z19hY3FyMFZrSlllTUZxY0pubUh4SFJtUklCNFg1REZqVWZlZ3R2TTBxREppMnBfd0hnbDVpMlBRQlZrSXhtYmdCODF0RkMw?oc=5",
-      "original_publish_time": "2026-11-02T14:02:16+00:00",
-      "scraped_time": "2026-11-04T03:06:25.654293+00:00",
-      "time_delta_mins": 0,
-      "category": "Manufacturing",
-      "brands_mentioned": [
-        "Ecco"
-      ],
-      "keywords_matched": [
-        "shoe factory"
-      ],
-      "relevance_score": 5,
-      "summary": "ECCO Vietnam dissolves and ceases operations at its shoe factory employing over 1,600 workers. Vietnam.vn",
       "ren_take": "",
       "image_url": ""
     }
