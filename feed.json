@@ -1,8 +1,90 @@
 {
-  "last_updated": "2026-11-09T21:28:19.309284+00:00",
-  "total_articles": 126,
-  "sources_checked": 54,
+  "last_updated": "2026-11-10T00:42:44.516674+00:00",
+  "total_articles": 124,
+  "sources_checked": 60,
   "articles": [
+    {
+      "id": "4e60eaaf7c0f",
+      "title": "How La Canadienne Continues to Evolve as It Preps to Mark the 40-Year Milestone",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/la-canadienne-cold-weather-boots-loafers-pumps-sandals-mens-1239396401/",
+      "original_publish_time": "2026-11-09T22:46:04+00:00",
+      "scraped_time": "2026-11-10T00:31:41.520505+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "boot",
+        "sandal",
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "The weatherproof lifestyle brand expanded beyond women's cold weather boots to include loafers, pumps, sneakers and sandals, and men's.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "faada1a04f48",
+      "title": "Vans' Slip-on Is Even Cooler as a Puffer Snow Boot",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/vans-mid-slip-puff-shoe/",
+      "original_publish_time": "2026-11-09T22:17:24+00:00",
+      "scraped_time": "2026-11-10T00:35:33.380358+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Vans"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 5,
+      "summary": "Vans releases a Mid-Slip Puff shoe, a padded winter model based on the classic Slip-On skate shoe.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "4fbcc16b54fe",
+      "title": "The Jordan Tatum 5 Packs A Punch In “Fierce Pink”",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/11/09/jordan-tatum-5-fierce-pink-neo-pink-pink-pow-io1746-600/",
+      "original_publish_time": "2026-11-09T22:00:48+00:00",
+      "scraped_time": "2026-11-10T00:31:52.284450+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Jordan"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "This year’s FIFA World Cup was a prime example. Bright monotone footwear is what stands out the most on TV, and that’s not at all... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Jordan Tatum 5 Packs A Punch In \"Fierce Pink\" appeared first on Sneaker News . The post The Jordan Tatum 5 Packs A Punch In “Fierce Pink” appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "1c6002102666",
+      "title": "The Children’s Place Stores Could Soon Go Dark, but Parents Still Have Time to Get Deals on Kids’ Shoes",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/childrens-place-bankruptcy-liquidation-sales-1239407625/",
+      "original_publish_time": "2026-11-09T21:38:36+00:00",
+      "scraped_time": "2026-11-10T00:31:41.522613+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "The bankruptcy filing of The Children's Place on Sunday leaves one less retailer for parents on the hunt for affordable shoe prices for their kids.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "5e5fd50872ba",
       "title": "adidas’ Cute “UGG” Boots Were Skate Shoes in Their Past Life",
@@ -2490,128 +2572,6 @@
       "keywords_matched": [],
       "relevance_score": 3,
       "summary": "Summary Leaked images have surfaced showcasing a first look at the Travis Scott and Rockstar Games collaborative Nike Air Force 1 Low in BlackThe design features 'Grand Theft Auto'-inspired accents including a toe-box money band and a six-star wanted level graphicThe sneaker collaboration is reportedly slated to drop on November 19 alongside the arrival of 'Grand Theft Auto VI' Nike has reportedly teamed up with Travis Scott's Cactus Jack and Rockstar Games on the Nike Air Force 1 Low \"Grand Theft Auto\" in Black, according to newly surfaced leak imagery. First shared by @prm.stocks.01, the purported collaboration delivers a thematic execution inspired directly by the open-world video game franchise.Suggested imagery reveals a black-based construction incorporating multiple elements tied to",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "b91d713feb0a",
-      "title": "Portuguese men’s footwear brands to be showcased in New York - World Footwear",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMVdPTHpOUk9kanhDZVdQQjVTNFZTYzhaWDRqTG5UUkU1cTFreUxmcDlVS0R0WFFsRmMwTEFiZENBbjE5Qmh1andwU0Izd3NFd3puVTJOd1ZKZ1c2OFpJbWEtMzFabG5BaTlIbU9NX0c4bUthNEJ2X1l6ekJVaDZmTUU1amRra0Npb0NwZ0VPMkdVREtHMURGVU54ZlktN1FETFlOS0xRVWI?oc=5",
-      "original_publish_time": "2026-11-03T00:01:15+00:00",
-      "scraped_time": "2026-11-03T03:52:23.149205+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Portuguese men’s footwear brands to be showcased in New York World Footwear",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "e99a009bc4db",
-      "title": "adidas Harden Vol. 11 Launches In December",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/11/02/adidas-harden-vol-11-release-date/",
-      "original_publish_time": "2026-11-03T00:00:27+00:00",
-      "scraped_time": "2026-11-03T03:52:12.326836+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "James Harden and adidas Basketball are preparing to introduce the eleventh chapter of their signature footwear partnership in December. Alongside a closer examination of the... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post adidas Harden Vol. 11 Launches In December appeared first on Sneaker News . The post adidas Harden Vol. 11 Launches In December appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "d9a8dc9bc779",
-      "title": "Wembanyama Criticizes Shoes in 60 Minutes Interview - Sports Illustrated",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNemdVWXU0TDdMaDlOYURuTGtycWNhek42RFNZTnJjb2J4WUJMbjN2clROazhaWF83OW9La1JFSnBsZ0hwM1Mybko2YU9aQkQ3T21qR1VOc2FIRkVxOFFTdHYyVldUQ2xYR1RERzdTcHJzZlJ2WXdZbDNoWDg4N0dOQ1FVMGE3dVE4WW1FaFE1N0RrWlA4dEQ1Y0xR?oc=5",
-      "original_publish_time": "2026-11-02T23:19:22+00:00",
-      "scraped_time": "2026-11-05T18:32:38.969172+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "Wembanyama Criticizes Shoes in 60 Minutes Interview Sports Illustrated",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "4c4b111a1462",
-      "title": "The Sashiko Gals Worked Their Magic On The Colette x Air Jordan 1",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/11/02/colette-air-jordan-1-sashiko-gals/",
-      "original_publish_time": "2026-11-02T23:00:51+00:00",
-      "scraped_time": "2026-11-02T23:46:23.414085+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Jordan"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "The Sashiko Gals occupy an interesting space in sneakers and streetwear at large. A cooperative of 15 women ranging in age from 40 to 90... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Sashiko Gals Worked Their Magic On The Colette x Air Jordan 1 appeared first on Sneaker News . The post The Sashiko Gals Worked Their Magic On The Colette x Air Jordan 1 appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "b77225beaeb6",
-      "title": "Colbo's New Sperry Is Part Loafer, Part Ballet Flat",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/11/colbo-sperry-sirah-loafer-ballet-flat-release",
-      "original_publish_time": "2026-11-02T22:33:58+00:00",
-      "scraped_time": "2026-11-02T23:46:23.248114+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "insole",
-        "sole"
-      ],
-      "relevance_score": 3,
-      "summary": "Summary Sperry and Colbo reunite for their fourth collaboration, introducing the Sirah Loafer, an all-new silhouette that blends a classic loafer with a ballet flat.Available in Black leather and Earth nubuck, the low-profile slip-on features cushioned insoles, Sperry's signature Wave-Siping technology, and materials designed to develop a natural patina.Priced at $225 USD, the Sirah Loafer will be available in US men's sizes 4–13 via Sperry.com, Colbo.nyc, and Colbo's New York storefront. Sperry and New York-based label Colbo are back for round four, this time introducing an entirely new silhouette that sits somewhere between a classic loafer, a vintage suiting shoe, and a ballet flat.Dubbed the Sirah Loafer, the latest collaboration takes Sperry's heritage footwear design and filters it t",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "8d14ce0fe7c5",
-      "title": "Nike’s Green Leather Air Max Is All Puff, No Pass",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-air-max-90-medium-olive/",
-      "original_publish_time": "2026-11-02T22:15:30+00:00",
-      "scraped_time": "2026-11-02T23:49:50.892811+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "Nike's Air Max 90 \"Medium Olive\" sees the classic sneaker remixed with green padded leather uppers.",
       "ren_take": "",
       "image_url": ""
     }
