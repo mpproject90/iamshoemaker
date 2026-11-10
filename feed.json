@@ -1,8 +1,29 @@
 {
-  "last_updated": "2026-11-10T00:42:44.516674+00:00",
-  "total_articles": 124,
+  "last_updated": "2026-11-10T04:41:49.743843+00:00",
+  "total_articles": 123,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "045ccfdc0e85",
+      "title": "Nike Teases an Upcoming Air Max 1 ‘Tekken’ Collab",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/11/tekken-nike-swoosh-air-max-1-collaboration-first-look-teaser",
+      "original_publish_time": "2026-11-10T03:28:22+00:00",
+      "scraped_time": "2026-11-10T04:30:56.747658+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "Name: Tekken x Nike .SWOOSH Air Max 1SKU: IW1290-001Release Date: Holiday 2026Tekken and Nike are reuniting, this time on the Air Max 1, with Nike’s .SWOOSH division revealing the project through a short teaser on Instagram. The clip stars King, Tekken’s jaguar-masked luchador, relaxing at an outdoor café on what appears to be Nike’s world headquarters in Beaverton, Oregon.Seated among white mesh chairs beside a pond, he wears a custom Nike Tech Fleece tracksuit in bright royal blue with spotted animal-print panels down the front and sides, a nod to his outfit in Tekken 3. When King realizes he’s being filmed and turns toward the camera, the shot cuts to leaves floating on the water, followed by the .SWOOSH logo and Tekken copyright text.The sneakers appear only briefly, but they clearly m",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "4e60eaaf7c0f",
       "title": "How La Canadienne Continues to Evolve as It Preps to Mark the 40-Year Milestone",
@@ -2533,45 +2554,6 @@
       ],
       "relevance_score": 3,
       "summary": "Danish footwear company shuts Vietnam factory, 1,600 workers lose jobs VnExpress International",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "5c766e20c372",
-      "title": "Keke Palmer Matches Gold Aquazzura Sandals With Raquel Welch’s One-of-a-Kind Bob Mackie Gown at the 2026 CFDA Awards",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-trends/keke-palmer-aquazzura-sandals-bob-mackie-dress-cfda-2026-1239397464/",
-      "original_publish_time": "2026-11-03T01:56:44+00:00",
-      "scraped_time": "2026-11-03T03:52:01.742858+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "sandal"
-      ],
-      "relevance_score": 4,
-      "summary": "The awards show host revisited the Italian footwear brand in a vintage look originally made for Welch, who wore it alongside Cher on \"The Cher Show.\"",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "97cda6799144",
-      "title": "First Look at the Travis Scott x Rockstar Games x Nike Air Force 1 Low \"Grand Theft Auto\" in Black",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/11/travis-scott-cactus-jack-rockstar-games-nike-air-force-1-low-grand-theft-auto-6-black-first-look",
-      "original_publish_time": "2026-11-03T01:36:54+00:00",
-      "scraped_time": "2026-11-03T03:52:12.206540+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "Summary Leaked images have surfaced showcasing a first look at the Travis Scott and Rockstar Games collaborative Nike Air Force 1 Low in BlackThe design features 'Grand Theft Auto'-inspired accents including a toe-box money band and a six-star wanted level graphicThe sneaker collaboration is reportedly slated to drop on November 19 alongside the arrival of 'Grand Theft Auto VI' Nike has reportedly teamed up with Travis Scott's Cactus Jack and Rockstar Games on the Nike Air Force 1 Low \"Grand Theft Auto\" in Black, according to newly surfaced leak imagery. First shared by @prm.stocks.01, the purported collaboration delivers a thematic execution inspired directly by the open-world video game franchise.Suggested imagery reveals a black-based construction incorporating multiple elements tied to",
       "ren_take": "",
       "image_url": ""
     }
