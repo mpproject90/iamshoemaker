@@ -1,8 +1,112 @@
 {
-  "last_updated": "2026-11-10T18:40:30.845656+00:00",
-  "total_articles": 124,
+  "last_updated": "2026-11-10T22:18:18.680238+00:00",
+  "total_articles": 123,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "c0b26027aba0",
+      "title": "Santa Claus’ Air Jordan Sneakers Are Almost Too Nice",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/jordan-3-santa/",
+      "original_publish_time": "2026-11-10T21:48:19+00:00",
+      "scraped_time": "2026-11-10T22:11:11.648298+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Jordan"
+      ],
+      "keywords_matched": [
+        "sneakers",
+        "upper"
+      ],
+      "relevance_score": 6,
+      "summary": "The Air Jordan 3 \"Santa\" sneaker lands with leather uppers & black fur accents, resulting in a clean flex for Mr. Claus.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "c1a31b0aede3",
+      "title": "Timberland Just Released New Holiday Boots in Premium Waterproof Suede for Men, Women and Kids",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/timberland-premium-6-inch-waterproof-cf-stead-suede-boot-holiday-1239409725/",
+      "original_publish_time": "2026-11-10T21:30:46+00:00",
+      "scraped_time": "2026-11-10T22:07:37.312105+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Timberland"
+      ],
+      "keywords_matched": [
+        "boot",
+        "tannery",
+        "upper"
+      ],
+      "relevance_score": 7,
+      "summary": "The Premium 6-Inch Waterproof Boots feature suede uppers from historic English tannery C.F. Stead.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "bcb3f25a196c",
+      "title": "Why All Your Favorite Sneakers Have Been Derby-fied",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/the-derby-fication-of-footwear/",
+      "original_publish_time": "2026-11-10T20:08:37+00:00",
+      "scraped_time": "2026-11-10T22:11:11.647443+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "In November 10's Shopper newsletter, editor Max Migowski teaches a lesson in derbies.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "9bbf277fb73b",
+      "title": "Tyler, the Creator and Converse Introduce Bronco Boot Low, Release New Versions of the Pro Leather and Jogger",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/tyler-the-creator-converse-bronco-boot-low-release-date-1239409513/",
+      "original_publish_time": "2026-11-10T19:38:18+00:00",
+      "scraped_time": "2026-11-10T22:07:37.313900+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Converse"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 5,
+      "summary": "The newest shoe offering from the duo launches on Nov. 12.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "34f8533ba60b",
+      "title": "Punjab signs skill development pacts for automotive, footwear and fashion sectors - The Times of India",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOUTNwcFJ0RG91dWdvRjBrN1JWOEVLU2R3MHd0RkNpY2pTd21UTENtRE42YVFxb3I5OGEtdmN6S2gxUk44U2ZNaV9MMFlIOWNoX0V4aWs0T1JSTVdhX3VrMTFQMHRQVl85UDNRdkJlck9qNkc1TkFXZ2xMWDlKalZreXJObzhMSFJJZFNHSmRjd1c4NDNqUkxQdXJqcU5MNU5GUGxnc3Z5Q2N3cVlhbFRCZHBOVTJmSnN2cm5td1VVRzdwWXRheDNwUHA3eWkxczJyRTlGd0trR2JiV0RiMHVITjR4Y09oQXl6cWtmZG9rQdIB9AFBVV95cUxNdkdpY3FNRkJzaTItQUZFVHd5cTRBUmcxMThoT3B6Y2hYY2hrZWJUemtGTG5fQjNKalhMb25TUzNJWHVvZUdpMmxlbkVrMVpQM180RDRsYnVhTl9LQWpkODVTVjNyeDhUWk9mVGhNVGFSa0RRVHJIVWpDQ2w0V1o0Q1VWdWV2UzY2cThlYjNXUW56UUg1ek8xTDhqQWJXbnlpWVpoSk1GbzJ3ZEhWT3lzdGVaY3NSZnRJVFpYLWw2bXlHX255N01CbnFHUWdITG9KYUFsVUZLS01LS3dxSFdPVUhkNkdROU5uNzFILTR5eG96SGpa?oc=5",
+      "original_publish_time": "2026-11-10T19:08:00+00:00",
+      "scraped_time": "2026-11-10T22:07:58.354181+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Punjab signs skill development pacts for automotive, footwear and fashion sectors The Times of India",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "41a591b4e340",
       "title": "This Footwear Designer Cooked Up A Footscape Woven Wallabee Hybrid",
@@ -2446,129 +2550,6 @@
       "keywords_matched": [],
       "relevance_score": 3,
       "summary": "The Nike Air Max Goadome is rugged enough as is. Add in materials from one of the world’s biggest performance finish manufacturers and you can... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Remember TecTuff? Nike Just Brought It Back On The Air Max Goadome appeared first on Sneaker News . The post Remember TecTuff? Nike Just Brought It Back On The Air Max Goadome appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "8da0199be059",
-      "title": "Nike SB x Air Jordan 12 Low Releasing In 2027",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/11/03/nike-sb-air-jordan-12-low/",
-      "original_publish_time": "2026-11-03T21:35:38+00:00",
-      "scraped_time": "2026-11-03T22:11:03.302810+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Nike",
-        "Jordan"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 4,
-      "summary": "The crossover between Jordan Brand’s Retro models and the Swoosh’s skate arm just made a splash with the reveal of the Nike SB Air Jordan... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike SB x Air Jordan 12 Low Releasing In 2027 appeared first on Sneaker News . The post Nike SB x Air Jordan 12 Low Releasing In 2027 appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "f13a60f0f7b7",
-      "title": "Converse's Chuck Taylor Cook Shoes Are Here to Serve",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/converse-at-your-service-chuck-taylors/",
-      "original_publish_time": "2026-11-03T21:31:11+00:00",
-      "scraped_time": "2026-11-03T22:14:39.024913+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Converse"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 5,
-      "summary": "Converse launches At Your Service shoes, featuring Chuck Taylors re-engineered for the kitchen.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "4e51cd88d4b4",
-      "title": "Nigeria, Spain Explore Footwear Industry Partnership, Technology Transfer - TVC News",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQU3VpNTZQREZ4c25RTTl3N2dpR2ZxU3hDdV9uNzJXY0tydXVzc1F6Xy1LNXV0Q2RrdmJlb2hiQVBfWlkxS2lOQmdvZzcyUEM1cEg1V0lXTGVFZDNkOHd2X2ZkVmczTDFTQngwS1BoN2lJRDNaOUw2Ny1KM1FwRHpwaGNfYUozdGJYMXNiZFZUTDZabTFsR2dQcWItZw?oc=5",
-      "original_publish_time": "2026-11-03T20:54:00+00:00",
-      "scraped_time": "2026-11-03T22:11:14.066053+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "footwear industry"
-      ],
-      "relevance_score": 6,
-      "summary": "Nigeria, Spain Explore Footwear Industry Partnership, Technology Transfer TVC News",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "3639c7aa3b03",
-      "title": "Nike’s Coolest Air Max Outdoor Boot Wears Carhartt Workwear Now",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/carhartt-nike-air-max-goadome-low/",
-      "original_publish_time": "2026-11-03T20:44:47+00:00",
-      "scraped_time": "2026-11-03T22:14:39.025528+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 5,
-      "summary": "Carhartt WIP debuts three Nike Air Max Goadome Low boots, the brand's first Swoosh collab in eight years.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "181192c09721",
-      "title": "Invincible Reimagines The adidas Samba As A Slouchy Dress Shoe",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/11/03/invincible-adidas-samba-form-in-motion/",
-      "original_publish_time": "2026-11-03T20:00:31+00:00",
-      "scraped_time": "2026-11-03T22:11:03.307626+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "Reinvention of staple shoes has been a massive theme over the past few years, and there’s no sign of it slowing down. On the Three... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Invincible Reimagines The adidas Samba As A Slouchy Dress Shoe appeared first on Sneaker News . The post Invincible Reimagines The adidas Samba As A Slouchy Dress Shoe appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "59e186eca8ac",
-      "title": "Ikpeazu seeks Spanish technology transfer to modernise Nigeria’s footwear industry - Apex News Exclusive",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVHc5Y2lVX21IbVZJSHNYMFlmelpTRm1TU3lmTEd2Q1Y1M01xTWs0a0s0enFYS2ppTW1SNUZQLUh2UlZaajA2SXpNWk5MQ1ZLbDFELThJVDRJc0J6M3FpRXpDVEM0QW1yZ2xXMG0wZkVPV2lrTzR3b21FNlkwSFFfdmZnMm9NdjhvSW1MeUpyN0tRWThXTG4xdDVuQ2ZQVU1aanRtRndBNlJ1UFdSRmQzaHUtS0Rzb2RvanJLSQ?oc=5",
-      "original_publish_time": "2026-11-03T19:19:18+00:00",
-      "scraped_time": "2026-11-03T22:11:14.065343+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "footwear industry"
-      ],
-      "relevance_score": 6,
-      "summary": "Ikpeazu seeks Spanish technology transfer to modernise Nigeria’s footwear industry Apex News Exclusive",
       "ren_take": "",
       "image_url": ""
     }
