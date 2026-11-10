@@ -1,8 +1,175 @@
 {
-  "last_updated": "2026-11-10T13:16:09.439119+00:00",
-  "total_articles": 120,
+  "last_updated": "2026-11-10T18:40:30.845656+00:00",
+  "total_articles": 124,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "41a591b4e340",
+      "title": "This Footwear Designer Cooked Up A Footscape Woven Wallabee Hybrid",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/11/10/josh-brubaker-f6796-footscape-woven-clarks-wallabee/",
+      "original_publish_time": "2026-11-10T17:00:45+00:00",
+      "scraped_time": "2026-11-10T18:29:51.622828+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "shoes"
+      ],
+      "relevance_score": 4,
+      "summary": "Josh Brubaker just made one of 2026’s dopest hybrid shoes. The independent footwear designer recently showed off a new model called the F-6796, co-opting the... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post This Footwear Designer Cooked Up A Footscape Woven Wallabee Hybrid appeared first on Sneaker News . The post This Footwear Designer Cooked Up A Footscape Woven Wallabee Hybrid appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "2b2e70c9795f",
+      "title": "Timberland’s Beloved Field Boot Is Getting a New Limited-Edition Collaboration With Supreme",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/supreme-timberland-bandana-field-boot-release-date-1239409069/",
+      "original_publish_time": "2026-11-10T16:58:50+00:00",
+      "scraped_time": "2026-11-10T18:29:40.957382+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Timberland"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 5,
+      "summary": "The Supreme x Timberland Bandana Field Boot will be released this week in three colorways.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "659151b99fc9",
+      "title": "Nike’s Biggest Struggle Isn’t an Innovation Crisis, It’s an Overuse of Nostalgia",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/nikes-struggles-innovation-nostalgia-1239403651/",
+      "original_publish_time": "2026-11-10T16:23:05+00:00",
+      "scraped_time": "2026-11-10T18:29:40.959199+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "Nike built its once-burgeoning sportswear business on nostalgia. But when does too much of a good thing become a detriment?",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "79ad52a09263",
+      "title": "Argentina’s Terrible Enfant takes its luxury footwear to Brazilian market - Valor International",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNHY5bFBLZy1zdXU0RUtRdEFCV2dpVklTTzdldGc1TklCcFZ0UkcxSGlHalNkVGZKRFZENGpWWVlIZFdreFZqRFk1cVVEdk0ybHRjWW4xY19lSUp5RUZHOTFKUnlEZWxRU1lCRjFSdHRoaWhLZG15aWNvS3dpLUVDcTU2RE5GSHNQcHBSUHBfelAtRERHMDFzRGx1ejNzeEwwLTVWbjJVcVp5VTd3Sm9GOHZQNFZXM0RGaFVkaFJhNzZ0TVg3ZE1KRWp2UnN4THRUc21QZmx2QdIB5gFBVV95cUxPZnVkaXZWaGFLWnpBSE8tUDZFNTg2OV9tcEJpNlJnRTl1RUljUy1HbkowM0tTY1hycXRGM1FXamxoR0EybUZHcElFeGJoVVJFOHp1Qk5hQlU2UnJVajluZ094Mzk2bUxHalpTRG1aZEczbGdFazBDMzRKbWFrNUpDRGs4ZGl3MVlxRnVXYkhWUk9mMGFvaDNnamx1ZzNwc2ZFbnlfeTJMWWx1b2ZyY1B0dGNGekpaX3haUVExQXNaNmZoUkYzcnJzY1BVc0xRVlJwbWxNVjltUkRFYjZpSUZldkxZRWg5UQ?oc=5",
+      "original_publish_time": "2026-11-10T16:07:33+00:00",
+      "scraped_time": "2026-11-10T18:30:02.221070+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Argentina’s Terrible Enfant takes its luxury footwear to Brazilian market Valor International",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "5852bb1cf7c4",
+      "title": "Supreme Wraps The Timberland Field Boot In Bandana Prints",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/11/10/supreme-timberland-field-boot-bandana/",
+      "original_publish_time": "2026-11-10T15:30:20+00:00",
+      "scraped_time": "2026-11-10T18:29:51.625255+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Timberland"
+      ],
+      "keywords_matched": [
+        "boot",
+        "footwear",
+        "footwear industry"
+      ],
+      "relevance_score": 7,
+      "summary": "Supreme and Timberland own one of the most natural collaborative relationships in the entire footwear industry, two titans of New York City streetwear in their... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Supreme Wraps The Timberland Field Boot In Bandana Prints appeared first on Sneaker News . The post Supreme Wraps The Timberland Field Boot In Bandana Prints appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "ec60b0f9fcc8",
+      "title": "Tyler, The Creator Introduces the Bronco Boot Low, His Converse Workwear Boot Gone Low-Top",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/11/tyler-the-creator-converse-bronco-boot-low-new-pro-leather-jogger-collaboration-collection-release-info",
+      "original_publish_time": "2026-11-10T15:00:43+00:00",
+      "scraped_time": "2026-11-10T18:29:51.488653+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Converse"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 5,
+      "summary": "Name: Tyler, The Creator x Converse Bronco Boot Low, Tyler The Creator x Converse Pro Leather, Tyler The Creator x Converse JoggerColorway: Cocoa Brown, New Wheat, Eden, Black (Bronco Boot Low), Tendril, Quarry (Pro Leather), High Risk Red, Golden Haze (Jogger)SKU: TBCMSRP: TBCRelease Date: November 12Where to Buy: Converse, GOLF le FLEUR*Converse and Tyler, The Creator have unveiled the next chapter of their 1908 collection, led by the new Bronco Boot Low and backed by fresh suede takes on the Pro Leather and Jogger. Each of the three silhouettes pulls from a different corner of the Converse archive, but the common thread is material, with suede showing up across every pair in the drop.The Bronco Boot Low cuts the 1908 Bronco Boot that Tyler introduced last year down to a low-top height w",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "2a06329a014d",
+      "title": "UGG and Aimé Leon Dore Announce Debut Collaboration With the UGG ALD Slipper",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/11/ugg-aime-leon-dore-announce-debut-collaboration-slipper-method-man-redman-campaign-teaser",
+      "original_publish_time": "2026-11-10T14:01:47+00:00",
+      "scraped_time": "2026-11-10T18:29:51.490298+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "UGG"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Summary UGG and Aime Leon Dore announce their upcoming debut footwear collaboration featuring the UGG ALD SlipperThe full-grain leather moccasin silhouette highlights debossed branding the Queens Crest and two seasonal colorwaysA campaign starring Method Man and Redman previews the release ahead of its November 12 launch Footwear imprint UGG and New York label Aimé Leon Dore have announced their upcoming debut collaboration, introducing the UGG ALD Slipper. Fronted by hip-hop icons Method Man and Redman, the inaugural collaborative silhouette fuses UGG's heritage of effortless ease with Aimé Leon Dore’s sophisticated approach to contemporary streetwear essentials.Marking a major partnership between the West Coast lifestyle stalwart and the Queens-based label, the forthcoming footwear annou",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "29a9c5bfd833",
+      "title": "Supreme and Timberland Reunite on the Bandana Field Boot for Fall 2026",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/11/supreme-timberland-bandana-field-boot-fall-2026-collaboration-release-info",
+      "original_publish_time": "2026-11-10T14:00:10+00:00",
+      "scraped_time": "2026-11-10T18:29:51.491567+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Timberland"
+      ],
+      "keywords_matched": [
+        "boot",
+        "footwear",
+        "upper"
+      ],
+      "relevance_score": 8,
+      "summary": "Summary Supreme has collaborated with Timberland on an exclusive Bandana Field Boot for Fall 2026The silhouette features a printed waterproof nubuck upper padded leather collar and debossed brandingOffered in three colorways the boot launches on November 12 followed by an Asia release on November 14 New York streetwear titan Supreme has officially partnered with heritage footwear label Timberland to introduce a collaborative iteration of the classic boot, unveiling the collaborative Bandana Field Boot. Set to arrive as part of Supreme’s Fall 2026 collection, the upcoming project revisits the rugged, outdoor-oriented silhouette through an exclusive design language defined by all-over printed patterning and weather-resistant construction.Engineered to withstand harsh seasonal elements, the s",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "a0de41dee4c8",
       "title": "JJJJound Turns Danner’s Mountain Light Boot Into a Sidewalk Staple",
@@ -870,6 +1037,27 @@
       ],
       "relevance_score": 3,
       "summary": "Summary Clive Christian unveils \"Uncovered,\" its first transparent perfume, crafted by Elise Pierre.The floral musk shifts from icy aldehydes and eucalyptus to warm immortelle, orris and amber.A sculpted clear glass bottle and ice-block box complete its cold-to-warm story. Clive Christian’s \"Uncovered\", the house’s first transparent perfume, unfolds like the moment frost gives way to morning light. Selected from 14 competing compositions at the CPL Fragrance House Conference, perfumer Elise Pierre’s floral musk opens with a crisp, almost glacial brightness. Sparkling aldehydes and cool eucalyptus reach the senses first, sharpened by a flicker of pink pepper and lifted by the sunny tang of bergamot. Picture a winter window as the sun breaks through: clean, bracing and quietly inviting a clo",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "ec3a582dbb27",
+      "title": "Focus on Athlete Needs Guides Under Armour's Footwear Reset - WWD",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaWdkMWVJdXVyaXpBYUpfUWFiTmtCbUo0dllYN2NzOGU2b2RJZjByS0lVRGl1V3lGM0hqczBvZ01qU0NVRmJaUWhsY2UwRlZsZ18ySzBlNEc5UUxrYkphQ3Yxek92NXAxNWVOM2JPV1hfa1I5U21IeXN3MWRRX09Ndzd0ZTVFZjdIY2ZUd3R2LW4tMjhXb3ljTkNkM0hWWFhHa2JRNHZvR2VoVHZKWllhRGRWbw?oc=5",
+      "original_publish_time": "2026-11-06T22:13:55+00:00",
+      "scraped_time": "2026-11-10T18:30:02.224961+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Under Armour"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 5,
+      "summary": "Focus on Athlete Needs Guides Under Armour's Footwear Reset WWD",
       "ren_take": "",
       "image_url": ""
     },
@@ -2381,112 +2569,6 @@
       ],
       "relevance_score": 6,
       "summary": "Ikpeazu seeks Spanish technology transfer to modernise Nigeria’s footwear industry Apex News Exclusive",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "bfc3e53a9771",
-      "title": "Cactus Plant Flea Market Reveals The Nike CPFM Flea 1 “Cave Purple”",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/11/03/cactus-plant-flea-market-nike-cpfm-air-flea-1-cave-purple-iu5238-500/",
-      "original_publish_time": "2026-11-03T18:39:51+00:00",
-      "scraped_time": "2026-11-03T22:11:03.309773+00:00",
-      "time_delta_mins": 0,
-      "category": "Manufacturing",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Cactus Plant Flea Market continues to push the boundaries of conventional sneaker design, bringing a uniquely eccentric approach to Nike footwear not often seen from... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Cactus Plant Flea Market Reveals The Nike CPFM Flea 1 \"Cave Purple\" appeared first on Sneaker News . The post Cactus Plant Flea Market Reveals The Nike CPFM Flea 1 “Cave Purple” appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "f546b6f4ca46",
-      "title": "Lunay Wants To Gift You UGGs for Christmas",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/11/lunay-ugg-holiday-campaign-interview-info",
-      "original_publish_time": "2026-11-03T18:17:21+00:00",
-      "scraped_time": "2026-11-03T22:11:03.111091+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [
-        "UGG"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Lunay is bringing a little Puerto Rican warmth to the holiday season. The reggaeton star joins Yeat, JT and KATSEYE’s Megan Skiendiel for UGG’s latest holiday campaign, \"Gift the Feeling\". The campaign reflects the playfulness of gift-giving, putting personal connection, unexpected surprises and cozy footwear at the center of your holiday festivities.From walking the runway for Willy Chavarria to developing an unforgettable on-stage look, Lunay continues to make his mark in fashion. This time, he is trading the spotlight for a holiday gift exchange, bringing his recognizable Puerto Rican energy to a campaign that celebrates the joy of giving just as much as receiving.Hypebeast caught up with Lunay to discuss his favorite Christmas traditions back home in Puerto Rico, why comfort remains a ",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "123c2cab4a7f",
-      "title": "Ecco to shut Portugal and Vietnam shoe factories",
-      "source_name": "Ecotextile News",
-      "source_domain": "ecotextile.com",
-      "source_url": "https://www.ecotextile.com/2026110366984/radar/ecco-to-shut-portugal-and-vietnam-shoe-factories/",
-      "original_publish_time": "2026-11-03T17:50:40+00:00",
-      "scraped_time": "2026-11-03T18:16:55.076040+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Ecco"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Danish footwear maker Ecco is to close its shoe factories in Portugal and Vietnam as part of a restructuring that […] The post Ecco to shut Portugal and Vietnam shoe factories appeared first on Ecotextile News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "a88d4e7170b7",
-      "title": "Danish Footwear Maker Ecco Shuts Portugal, Vietnam Factories in Restructuring Move",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/ecco-shutting-down-factory-portugal-vietnam-restructuring-1239398070/",
-      "original_publish_time": "2026-11-03T17:29:49+00:00",
-      "scraped_time": "2026-11-03T18:14:42.558356+00:00",
-      "time_delta_mins": 0,
-      "category": "Manufacturing",
-      "brands_mentioned": [
-        "Ecco"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 5,
-      "summary": "Danish shoemaker Ecco is shutting down its factory operations in Portugal and Vietnam in a global restructuring initiative to cut costs that will impact 2,400 jobs.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "9d50023ef64b",
-      "title": "Nike SB Air Jordan 4 “Sea Crystal” Inspired By Sandy Bodecker’s Favorite SB Dunks",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/11/03/nike-sb-air-jordan-4-sea-crystal-sandy-bodecker/",
-      "original_publish_time": "2026-11-03T16:20:47+00:00",
-      "scraped_time": "2026-11-03T18:14:53.249666+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike",
-        "Jordan"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 5,
-      "summary": "Some of the most fascinating sneakers in Nike’s history are the ones that never make it to retail. A previously unseen Nike SB Air Jordan... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike SB Air Jordan 4 \"Sea Crystal\" Inspired By Sandy Bodecker's Favorite SB Dunks appeared first on Sneaker News . The post Nike SB Air Jordan 4 “Sea Crystal” Inspired By Sandy Bodecker’s Favorite SB Dunks appeared first on Sneaker News .",
       "ren_take": "",
       "image_url": ""
     }
