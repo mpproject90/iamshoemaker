@@ -1,8 +1,151 @@
 {
-  "last_updated": "2026-11-11T12:25:48.474521+00:00",
-  "total_articles": 126,
+  "last_updated": "2026-11-11T18:39:54.002798+00:00",
+  "total_articles": 119,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "6750fb62c395",
+      "title": "Saucony, Merrell Again to Headline Wolverine’s Q3 Earnings Results",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/merrell-saucony-wolverine-world-wide-analysts-q3-preview-1239410655/",
+      "original_publish_time": "2026-11-11T18:09:01+00:00",
+      "scraped_time": "2026-11-11T18:24:39.157103+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Merrell",
+        "Wolverine"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "Analysts see continued growth at the Merrell and Saucony brands when Wolverine World Wide reports third quarter earnings Thursday.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "36c686d10b03",
+      "title": "Timberland’s New Premium 6-Inch Boots for Women Have Suede, Croc and Removable Charms",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/timberland-premium-6-inch-waterproof-boot-womens-suede-croc-1239411085/",
+      "original_publish_time": "2026-11-11T17:45:28+00:00",
+      "scraped_time": "2026-11-11T18:24:39.159836+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Timberland"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 5,
+      "summary": "Featuring the classic 6-Inch Boot silhouette alongside the stacked Stone Street Platform 6-Inch Boot.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "43fd25750c95",
+      "title": "Michael Kors, Jimmy Choo owner names new CEO",
+      "source_name": "Retail Dive",
+      "source_domain": "retaildive.com",
+      "source_url": "https://www.retaildive.com/news/capri-holdings-michael-kors-jimmy-choo-new-ceo-justin-boxford/874377/",
+      "original_publish_time": "2026-11-11T16:51:00+00:00",
+      "scraped_time": "2026-11-11T18:32:04.534981+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Jimmy Choo",
+        "Capri"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "Capri Holdings tapped Estée Lauder Companies veteran Justin Boxford as its next chief executive as John Idol is set to retire.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "ca463a685a07",
+      "title": "Capri names new CEO",
+      "source_name": "Drapers",
+      "source_domain": "drapersonline.com",
+      "source_url": "https://www.drapersonline.com/news/capri-names-new-ceo",
+      "original_publish_time": "2026-11-11T16:33:54+00:00",
+      "scraped_time": "2026-11-11T18:32:15.345275+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Jimmy Choo",
+        "Capri"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "Drapers Capri names new CEO Jimmy Choo and Michael Kors parent Capri Holdings has named Justin Boxford as CEO effective from 4 January, succeeding John D. Idol, who is retiring after 23 years in post. The post Capri names new CEO appeared first on Drapers .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "02fc8ef349bf",
+      "title": "Nike’s Germany Football Partnership Begins With An Air Force 1",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/11/11/nike-air-force-1-low-germany-jf2591-100/",
+      "original_publish_time": "2026-11-11T16:00:24+00:00",
+      "scraped_time": "2026-11-11T18:24:49.707975+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Nike",
+        "Adidas"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "We can’t imagine many football sponsorship shakeups sting as much as what Nike did to adidas a few years back. After seventy-two years outfitting the... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike’s Germany Football Partnership Begins With An Air Force 1 appeared first on Sneaker News . The post Nike’s Germany Football Partnership Begins With An Air Force 1 appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "5eb85176d8af",
+      "title": "Asics boosts inventory management using warehouse drones",
+      "source_name": "Supply Chain Dive",
+      "source_domain": "supplychaindive.com",
+      "source_url": "https://www.supplychaindive.com/news/asics-boosts-inventory-management-using-warehouse-drones/874273/",
+      "original_publish_time": "2026-11-11T15:00:00+00:00",
+      "scraped_time": "2026-11-11T18:32:04.301408+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "ASICS"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "By using the technology, the footwear brand improved misplaced inventory recovery while slashing manual labor hours and increasing counting frequency.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "ef300341cf27",
+      "title": "China: More transparency but emissions still rise",
+      "source_name": "Ecotextile News",
+      "source_domain": "ecotextile.com",
+      "source_url": "https://www.ecotextile.com/2026111167214/news/features/china-more-transparency-but-emissions-still-rise/",
+      "original_publish_time": "2026-11-11T13:39:35+00:00",
+      "scraped_time": "2026-11-11T18:31:10.217263+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Nike",
+        "Adidas",
+        "Puma"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "Adidas, Puma, Nike and Primark impress in IPE’s latest green supply chain rankings, but new research shows carbon emissions are […] The post China: More transparency but emissions still rise appeared first on Ecotextile News .",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "2e5279f5d87a",
       "title": "thisisneverthat and Danner’s Cascade Range Packs Trail-Grade Armor Into a Low-Top",
@@ -2330,288 +2473,6 @@
       "keywords_matched": [],
       "relevance_score": 3,
       "summary": "What’s the best camouflage sneaker of all time? It’s not a question we contemplate as often the best Dunk or Air Jordan, but the annals... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Nike Air Force 1 Low Swaps Into Digi Camo appeared first on Sneaker News . The post The Nike Air Force 1 Low Swaps Into Digi Camo appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "bbff122371ed",
-      "title": "Performance Footwear Continues to Drive Growth in Q3 as Consumers Prioritize Purposeful Purchases Heading into the Holiday Season - StreetInsider",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNUkhyYklmSkJRdS1BWG93YVpQaV81Rk1SclJ4WnFwQ0kwM0wxS1FRVnpRdTc1RUZVbXZyeUJweW1BZV9PMnB2SXVWUTZLN3luT3pRWm1mOFVjaHFkUWVTTEs0aVpVelMzLURIY3d1SkQxWmx2M3NiZGkyMnJIRFhnRFJvSkdkY2RIbDdjN19EVGtfaFAzOG1RaUExMXR2VDFQaFh5RUVBZFBnTFZINnhycHBST1lsMmJuV2hrVUNRUmo1Sno3YVFZa2lGQ1I2X3VoUkpVRkpMNnBidjluVC1LRzM0OERIYnlvVVEzM1czV2Z6RHprNkFXc2tUSjZTVlNyYVVmV1JEMUR6R0VQRWxCNXBiMDkzQ0E?oc=5",
-      "original_publish_time": "2026-11-04T17:55:25+00:00",
-      "scraped_time": "2026-11-04T18:29:25.221316+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Performance Footwear Continues to Drive Growth in Q3 as Consumers Prioritize Purposeful Purchases Heading into the Holiday Season StreetInsider",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "6094c33710a4",
-      "title": "Olivia Dean Stars in the First Chapter of Jimmy Choo’s New ‘Choo Stories’ Storytelling Series",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-trends/jimmy-choo-olivia-dean-choo-stories-sandra-choi-1239399825/",
-      "original_publish_time": "2026-11-04T17:16:52+00:00",
-      "scraped_time": "2026-11-04T18:29:03.725213+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Jimmy Choo"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "The British musician exclusively wore custom and ready-to-wear Jimmy Choo shoes during her \"The Art of Loving\" world tour.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "861971e5138e",
-      "title": "One of Michael Jordan’s Famous Championship Air Jordans Is Getting an Unexpected New Upgrade",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-sb-air-jordan-12-retro-low-release-date-jf7751-001-1239400131/",
-      "original_publish_time": "2026-11-04T17:12:20+00:00",
-      "scraped_time": "2026-11-04T18:29:03.726512+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike",
-        "Jordan"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "A Nike SB version of the Air Jordan 12 Retro Low is expected to be released during summer 2027.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "da98ce59e3bf",
-      "title": "Massimo Bonini Inks Licensing Deal With Rabanne for Women’s Shoes",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/massimo-bonini-rabanne-womens-shoes-license-details-1239400139/",
-      "original_publish_time": "2026-11-04T17:07:27+00:00",
-      "scraped_time": "2026-11-04T18:29:03.726895+00:00",
-      "time_delta_mins": 0,
-      "category": "Manufacturing",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "This new license comes as Massimo Bonini focuses further on building its production prowess.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "75a0bc5119da",
-      "title": "“Camo Green” Coats The Nike Dunk Low GORE-TEX",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/11/04/nike-dunk-low-gore-tex-camo-green-sonic-yellow-hq2053-300/",
-      "original_publish_time": "2026-11-04T17:00:49+00:00",
-      "scraped_time": "2026-11-04T18:29:14.636901+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 3,
-      "summary": "While Nike stays in its boot bag with applaudable Goadomes and other winterized models ahead of the cooler months, we’re now getting a new option... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post \"Camo Green\" Coats The Nike Dunk Low GORE-TEX appeared first on Sneaker News . The post “Camo Green” Coats The Nike Dunk Low GORE-TEX appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "df2da599ed48",
-      "title": "‘This will normalize’: What Adidas’ Q3 reveals about the broader footwear market",
-      "source_name": "Retail Dive",
-      "source_domain": "retaildive.com",
-      "source_url": "https://www.retaildive.com/news/adidas-q3-earnings-sales-growth-lifestyle-footwear-market/873640/",
-      "original_publish_time": "2026-11-04T16:51:00+00:00",
-      "scraped_time": "2026-11-04T18:32:05.113804+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 5,
-      "summary": "CEO Bjørn Gulden acknowledged difficulties in the lifestyle footwear market but said growth won’t happen until “the market is clean.”",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "bb71f1be01ef",
-      "title": "Boots “want to redefine what people expect at Christmas”",
-      "source_name": "Retail Gazette",
-      "source_domain": "retailgazette.co.uk",
-      "source_url": "https://www.retailgazette.co.uk/blog/2026/11/watch-boots-christmas/",
-      "original_publish_time": "2026-11-04T16:34:07+00:00",
-      "scraped_time": "2026-11-04T18:32:26.875976+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 3,
-      "summary": "Boots is hoping to make shoppers smile, but also build on their new platform on the lead-up to the critical Christmas period. Its 2026 Christmas campaign, For Gifts They’ll Really Love, is designed to be a playful exaggeration of a familiar truth – the best gifts don’t end at Christmas, they become part of the everyday....",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "3b727b02618f",
-      "title": "The Muse for Denim Tears x adidas Originals Debut? The Big Plaid Bag",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/11/denim-tears-adidas-originals-collaboration-tremaine-emory-interview",
-      "original_publish_time": "2026-11-04T16:30:56+00:00",
-      "scraped_time": "2026-11-04T18:29:14.467055+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "sole"
-      ],
-      "relevance_score": 3,
-      "summary": "Denim Tears’ first outing with adidas is, fittingly, a walk down Canal Street. After weeks of speculation, Tremaine Emory’s imprint has officially unveiled its first collaboration with the Three Stripes, introducing a plaid-clad rework of two of its signature silhouettes: the Stan Smith and Superstar.With a release date yet to come, an early look shared with Hypebeast reveals the pairs outfitted in a black, blue, red, and cream woven plaid, lifted from the “Ghana Must Go,” or Market, bag. Cream keeps things clean on the soles and the Superstar’s shell toe. A Sankofa symbol also graces both pairs, sitting beneath co-branded details on the tongue. And, as those familiar with Emory’s work will know, the surface aesthetics are just half the story.Anyone who’s taken a trip to Denim Tears’ flags",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "a1db7e027dc1",
-      "title": "The Nike SB Air Force 1 Gets A Dusky “Navy” Colorway",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/11/04/nike-sb-air-force-1-navy-black-hm8517-400-release-date/",
-      "original_publish_time": "2026-11-04T16:30:22+00:00",
-      "scraped_time": "2026-11-04T18:29:14.637760+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Skatable Nike SB versions of existing footwear styles aren’t going anywhere, a trend alive and well as demonstrated just the other day with word of... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Nike SB Air Force 1 Gets A Dusky \"Navy\" Colorway appeared first on Sneaker News . The post The Nike SB Air Force 1 Gets A Dusky “Navy” Colorway appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "f7ee8e47115c",
-      "title": "Adidas, Asics, New Balance, Nike and More Join Forces for Youth Physical Fitness Push",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/global-sports-firms-sporting-goods-youth-physical-activity-1239398656/",
-      "original_publish_time": "2026-11-04T16:28:01+00:00",
-      "scraped_time": "2026-11-04T18:29:03.727186+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Nike",
-        "Adidas",
-        "New Balance",
-        "ASICS"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 8,
-      "summary": "The global sports firms have signed an open letter coordinated by the World Federation of the Sporting Goods Industry to get the youth to move more.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "bc1e311882c7",
-      "title": "Nigeria, Spain explore partnership to boost footwear manufacturing - Realnews Magazine",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSjdjRUItR1k0ejk2bHNNeDFpTmZWZHk3OUxLOWNTNWRRd01tcm9aNlF0VWNjVjRsOVdSVUdIUGlPVW42RFpXTXpRQ0NxN2FvU1RaX1RCTW5LMXFtcmNjZXdGMlBkYjlTWEYyQlYxMTFSYlJxZ2p5bkROeTl4cGFiNy01VFVTZkprWWx2RDRqaXJSR1U5TnBUVlRZNA?oc=5",
-      "original_publish_time": "2026-11-04T15:42:45+00:00",
-      "scraped_time": "2026-11-04T18:29:25.221892+00:00",
-      "time_delta_mins": 0,
-      "category": "Manufacturing",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Nigeria, Spain explore partnership to boost footwear manufacturing Realnews Magazine",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "a12539518268",
-      "title": "Bobcat Safety Footwear hires Head of Sales - Builders' Merchants News",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUmxrOWdmSFRtWDlXRnVHdEZ0V1RtU1lFSGlpVmJuZjdpZXJIdjEzSkNEN19OVjRpb3lsQjdfdDh5bmF6VnpwWmVrTzZsRHM1OWk1anF6blVmdE41UmNyaEk5QUktajdYbnF1WVljcG14YU5nczg5MUw3bWU3eXpiTUh0MndIejVzRXhpNjFjWQ?oc=5",
-      "original_publish_time": "2026-11-04T13:45:39+00:00",
-      "scraped_time": "2026-11-04T18:29:25.223264+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Bobcat Safety Footwear hires Head of Sales Builders' Merchants News",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "1a3c6857ddcc",
-      "title": "The Whitaker Group and New Balance Unveil 2010 \"Willful Bias For Identity\" Collection",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/11/the-whitaker-group-new-balance-2010-willful-bias-for-identity-collection-u20104wp-u20106kh-official-look-release-info",
-      "original_publish_time": "2026-11-04T13:22:57+00:00",
-      "scraped_time": "2026-11-04T18:29:14.469192+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "New Balance"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "Summary The Whitaker Group and New Balance have revealed two collaborative 2010 colorways under the Willful Bias For Identity collectionBoth pairs feature frayed suede exposed stitching orange N logo accents and raw unfinished edges across the uppersThe collection releases on November 5 for $155 USD each via The Whitaker Group and an A Ma Maniére raffle Name: The Whitaker Group x New Balance 2010 \"Willful Bias for Identity\"Colorway: Multi-ColorSKU: U20104WP, U20106KHMSRP: $155 USDRelease Date: November 5, 2026Where to Buy: New Balance, The Whitaker Group, A Ma ManiéreNew Balance has officially partnered with The Whitaker Group to debut two collaborative colorways of the New Balance 2010, marking the latest chapter in the ongoing \"Willful Bias\" series titled \"Willful Bias For Identity\". The",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "09e59fbb32e5",
-      "title": "EBL joins Bangladesh Bank's Leather Industry Pre-Finance Scheme - The Financial Express",
-      "source_name": "Google News - Leather Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNY2lqODJTSDExcWpYcmhPWFNDME5Pd2lSc0tpNXIwWUwxb250MVo4UFI1S3BOMnJ4ZlpiUGM0T01xamVLVHljVmI3cWxHTm1xV1U1UkdVN0RVWUpUSUpNUlNsMlQyNUJHOVYtTnIza2hfYzlNMXk4a1hwRkVEU0o5SDh5Mm5GdVVmWk5Od2pUZzdWMUcyS1BFUTNrNy1fRWZZV3BONzdB?oc=5",
-      "original_publish_time": "2026-11-04T13:04:27+00:00",
-      "scraped_time": "2026-11-04T22:23:33.679445+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "leather industry"
-      ],
-      "relevance_score": 3,
-      "summary": "EBL joins Bangladesh Bank's Leather Industry Pre-Finance Scheme The Financial Express",
       "ren_take": "",
       "image_url": ""
     }
