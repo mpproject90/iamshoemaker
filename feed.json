@@ -1,8 +1,91 @@
 {
-  "last_updated": "2026-11-11T18:39:54.002798+00:00",
-  "total_articles": 119,
+  "last_updated": "2026-11-11T23:27:18.891351+00:00",
+  "total_articles": 118,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "e7a4ce12f296",
+      "title": "Blundstone Chief Growth Officer Kris Hall Talks New Stores and Why the Shoe Brand Is a ‘Marketer’s Dream’",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/blundstone-chief-growth-officer-kris-hall-interview-1239411952/",
+      "original_publish_time": "2026-11-11T21:41:19+00:00",
+      "scraped_time": "2026-11-11T23:16:18.359314+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "boot",
+        "shoe brand"
+      ],
+      "relevance_score": 4,
+      "summary": "This all comes as the Australian boot brand doubles down on its product expansion.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "6a94b95de603",
+      "title": "Beams Turned The Salomon XT-QUEST Into A GORE-TEX Ski Boot",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/11/11/beams-salomon-xt-quest-gore-tex-l45459900/",
+      "original_publish_time": "2026-11-11T20:00:57+00:00",
+      "scraped_time": "2026-11-11T23:16:29.280623+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Salomon"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 5,
+      "summary": "With winter on the horizon, Beams and Salomon are adding to their collaborative portfolio with a seven-piece collection that feels perfectly in line with Salomon’s... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Beams Turned The Salomon XT-QUEST Into A GORE-TEX Ski Boot appeared first on Sneaker News . The post Beams Turned The Salomon XT-QUEST Into A GORE-TEX Ski Boot appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "cc5e720ab82f",
+      "title": "Jordan Brand’s Six-Part Space Jam Documentary Premieres On November 15th",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/11/11/jordan-brand-space-jam-documentary-series/",
+      "original_publish_time": "2026-11-11T19:05:28+00:00",
+      "scraped_time": "2026-11-11T23:16:29.283615+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Jordan"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "You know about the movie, and you know about the shoes. Thirty years after Space Jam brought Michael Jordan and the Looney Tunes together on... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Jordan Brand's Six-Part Space Jam Documentary Premieres On November 15th appeared first on Sneaker News . The post Jordan Brand’s Six-Part Space Jam Documentary Premieres On November 15th appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "0fdeb83b5b63",
+      "title": "Rick Owens Is Reviving One of Adidas’ Wildest Running Technologies for Both a Sneaker and Boot",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/rick-owens-adidas-slingblade-release-date-1239411276/",
+      "original_publish_time": "2026-11-11T19:00:48+00:00",
+      "scraped_time": "2026-11-11T23:16:18.361240+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 5,
+      "summary": "The resumption of their partnership is bringing back two Slingblade models from 2015.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "6750fb62c395",
       "title": "Saucony, Merrell Again to Headline Wolverine’s Q3 Earnings Results",
@@ -704,6 +787,28 @@
       ],
       "relevance_score": 4,
       "summary": "Summary Kith and New Balance have released the Monuments Collection featuring three colorways of the collaborative 2011 silhouetteThe Park Garden and Banner editions pay homage to New York City monuments using premium pigskin suede mesh and ABZORB toolingThe collection is now available online via Kith and across select retail locations including West Hollywood New York lifestyle brand Kith and New Balance have officially presented the Monuments Collection, introducing three distinctive iterations of the collaborative 2011 silhouette. Originally debuted earlier this year to commemorate Kith’s fifteenth anniversary, the model was co-designed by Ronnie Fieg and New Balance, merging intricate multi-paneled uppers with archival ABZORB sole tooling sourced from the original New Balance 2002.Each",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "ff5b4ad92933",
+      "title": "The shoe manufacturing giant behind Nike and Adidas: Yueda Group awaits a supply chain recovery - Longbridge",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4NGVJOW05MTN3M0g2ekNsdDUtQjNxdnNxMFRiYW1reDBmSkpYTHl1eEI1dzdSWUxuam9QSGZzU2JwVW8ydHJRbVJZZ0dnTV9zXzRJ?oc=5",
+      "original_publish_time": "2026-11-10T08:29:55+00:00",
+      "scraped_time": "2026-11-11T23:16:39.943755+00:00",
+      "time_delta_mins": 0,
+      "category": "Manufacturing",
+      "brands_mentioned": [
+        "Nike",
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "shoe manufacturing"
+      ],
+      "relevance_score": 7,
+      "summary": "The shoe manufacturing giant behind Nike and Adidas: Yueda Group awaits a supply chain recovery Longbridge",
       "ren_take": "",
       "image_url": ""
     },
@@ -2348,131 +2453,6 @@
       ],
       "relevance_score": 3,
       "summary": "Henkel opens new application centre in Indonesia World Footwear",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "ef4f7353ad57",
-      "title": "Tremaine Emory and Denim Tears’ First Adidas Collection Offers Updates to the Superstar and Stan Smith",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/adidas-denim-tears-superstar-stan-smith-release-date-1239400955/",
-      "original_publish_time": "2026-11-04T21:25:19+00:00",
-      "scraped_time": "2026-11-04T22:23:11.091772+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "The sneakers will be available on Nov. 7.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "7469e9d8b227",
-      "title": "Nike’s Cult-Favorite Air Max Boot Is Becoming Even More Rugged for Winter",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-air-max-goadome-tectuff-release-date-616174-090-1239400632/",
-      "original_publish_time": "2026-11-04T20:56:22+00:00",
-      "scraped_time": "2026-11-04T22:23:11.093649+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "boot",
-        "upper"
-      ],
-      "relevance_score": 8,
-      "summary": "The Air Max Goadome gets a TecTuff upper.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "b354eddc6d81",
-      "title": "Nike’s ACG Air Max Boot Is Getting a Limited-Edition Carhartt Collaboration — Here’s the Best Look Yet",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/carhartt-wip-nike-acg-air-max-goadome-low-release-date-1239400711/",
-      "original_publish_time": "2026-11-04T20:09:28+00:00",
-      "scraped_time": "2026-11-04T22:23:11.094123+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 5,
-      "summary": "The Carhartt WIP x Nike ACG Air Max Goadome Low will be released in three colorways this holiday season.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "0578f20f1ec2",
-      "title": "Schutz Gets Festive for the Holidays With Fresh Footwear Collection Offering Plenty of Texture, Shine and Embellishment",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-trends/schutz-holiday-2026-collection-shoes-1239400718/",
-      "original_publish_time": "2026-11-04T20:03:40+00:00",
-      "scraped_time": "2026-11-05T03:18:26.811732+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "boot",
-        "footwear"
-      ],
-      "relevance_score": 4,
-      "summary": "Schutz's Holiday 2026 Collection features statement silhouettes ranging from sculptural wedge heels to slouchy boots.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "bf2cd939cabf",
-      "title": "Kith Delivers The adidas Stan Smith Ballet In Coffee Tones",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/11/04/kith-adidas-stan-smith-ballet/",
-      "original_publish_time": "2026-11-04T20:00:32+00:00",
-      "scraped_time": "2026-11-04T22:23:21.714465+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "The Kith Women Winter 2026 collection has been officially unveiled, and with it the latest batch of Kith x adidas footwear. Enter the Stan Smith... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Kith Delivers The adidas Stan Smith Ballet In Coffee Tones appeared first on Sneaker News . The post Kith Delivers The adidas Stan Smith Ballet In Coffee Tones appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "d1f6f1034d11",
-      "title": "The Nike Air Force 1 Low Swaps Into Digi Camo",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/11/04/nike-air-force-1-low-digital-camo-iv4885-901/",
-      "original_publish_time": "2026-11-04T19:30:06+00:00",
-      "scraped_time": "2026-11-04T22:23:21.715689+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike",
-        "Jordan"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "What’s the best camouflage sneaker of all time? It’s not a question we contemplate as often the best Dunk or Air Jordan, but the annals... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Nike Air Force 1 Low Swaps Into Digi Camo appeared first on Sneaker News . The post The Nike Air Force 1 Low Swaps Into Digi Camo appeared first on Sneaker News .",
       "ren_take": "",
       "image_url": ""
     }
