@@ -1,8 +1,161 @@
 {
-  "last_updated": "2026-11-12T03:51:09.781060+00:00",
-  "total_articles": 116,
+  "last_updated": "2026-11-12T13:31:38.860175+00:00",
+  "total_articles": 110,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "d2dc1ea5f94d",
+      "title": "Wolverine Worldwide Raises Annual Outlook as Saucony, Merrell Lead the Way Again",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/wolverine-worldwide-www-q3-2026-earnings-merrell-saucony-1239412492/",
+      "original_publish_time": "2026-11-12T13:01:25+00:00",
+      "scraped_time": "2026-11-12T13:20:58.646656+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Merrell",
+        "Wolverine",
+        "Wolverine Worldwide"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 6,
+      "summary": "Total revenue in the third quarter of 2026 was $505.4 million, up 7.5 percent from the same time last year.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "e64b33b7fbf7",
+      "title": "The Best Basketball Shoes of the 2026-27 Season",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/best-basketball-shoes/",
+      "original_publish_time": "2026-11-12T10:39:48+00:00",
+      "scraped_time": "2026-11-12T13:24:30.701150+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Adidas",
+        "Converse"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 6,
+      "summary": "We take a look at the best basketball shoes of the 2025-2026 season, featuring signature models and in-line styles from adidas, Nike, Converse, and more.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "9e0bb495d13a",
+      "title": "The Whitaker Group Reimagines the New Balance 950 in \"Grey Croc\"",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/11/the-whitaker-group-new-balance-smu-950-grey-croc-u9502kv-official-look-release-info",
+      "original_publish_time": "2026-11-12T09:28:30+00:00",
+      "scraped_time": "2026-11-12T13:21:09.085029+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "New Balance",
+        "Off-White"
+      ],
+      "keywords_matched": [
+        "midsole",
+        "sole"
+      ],
+      "relevance_score": 5,
+      "summary": "Summary The Whitaker Group and New Balance have unveiled the New Balance 950 in Grey CrocThe basketball-inspired shoe features glossy croc-embossed patent leather recessed N logos and an off-white midsoleThe collaborative silhouette is expected to release in November 2026 for 120 USD via A Ma Maniére APB and Social Status Name: The Whitaker Group x New Balance SMU 950 \"Grey Croc\"Colorway: Grey Croc/WhiteSKU: U9502KVMSRP: $120 USDRelease Date: November 2026Where to Buy: A Ma ManiéreRetail banner The Whitaker Group has teamed up with New Balance to deliver the first collaborative edition of the New Balance 950 \"Grey Croc.\" After the basketball-inspired silhouette initially debuted on Cooper Flagg in a cream colorway earlier this year, the collective reinterprets the low-top model with a dist",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "8152cf12b3a5",
+      "title": "solebox wraps the Iconic Timberland 6-Inch Boot in Premium Pony Hair",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/11/solebox-timberland-6-inch-boot-brown-pony-collaboration-release-info",
+      "original_publish_time": "2026-11-12T09:15:00+00:00",
+      "scraped_time": "2026-11-12T13:21:09.086553+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Timberland"
+      ],
+      "keywords_matched": [
+        "boot",
+        "sole",
+        "upper"
+      ],
+      "relevance_score": 9,
+      "summary": "Name: solebox x Timberland Premium 6-Inch BootColorway: BrownSKU: TBCMSRP: €200 (approx. $221 USD)Release Date: November 14Where to Buy: soleboxsolebox and Timberland are joining forces for the very first time to put a unique spin on the iconic Timberland 6-Inch Boot. Opting for a bold material overhaul instead of a redesign, this collaboration shows that some icons don’t need a rebuild, just a new perspective.The solebox x Timberland Premium 6-Inch Boot retains all the classic components of the original shoe, including its double-sole design, padded leather collar, and metal hardware, but replaces the entire upper with a premium and tactile brown pony hair, bringing a luxurious edge to the utilitarian boot.Co-branding can be found throughout the boot, with solebox’s script logo stamped di",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "9dd6938fc00d",
+      "title": "Uzbekistan and China discuss cooperation in footwear industry - UzDaily.uz",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbWhhMVNGdjRSa2xENllsTkNvR19hOUlxS0w0VjFneHZUaGU2M081UFFZeVNDQU5VVkVTXzZEVUpCbFlVTmM2cEtjUHk3MWtSdFloV0F2YjN5cEhNWkJKaUlPSzU5VmVxSk02R0tidHZCMWlqX2hnc2JTZHB3V1VEUUlRbEswaEppVEFENWJKaXRTQQ?oc=5",
+      "original_publish_time": "2026-11-12T09:01:17+00:00",
+      "scraped_time": "2026-11-12T13:21:19.781058+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "footwear industry"
+      ],
+      "relevance_score": 6,
+      "summary": "Uzbekistan and China discuss cooperation in footwear industry UzDaily.uz",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "b718aaf544d3",
+      "title": "Pokémon and Crocs Celebrate 30th Anniversary With Pikachu, Gengar, and Jigglypuff",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/11/pokemon-crocs-classic-clogs-30th-anniversary-pikachu-gengar-jigglypuff-collaboration-release-info",
+      "original_publish_time": "2026-11-12T07:00:00+00:00",
+      "scraped_time": "2026-11-12T13:21:09.094329+00:00",
+      "time_delta_mins": 0,
+      "category": "Trade Data",
+      "brands_mentioned": [
+        "Crocs"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Summary Crocs and Pokémon have teamed up for a 30th anniversary collection highlighting Pikachu Gengar and JigglypuffThe footwear styles directly correspond to the signature colors of each character across the Classic Clog and Classic Platform ClogThe celebratory collection is scheduled to release on November 17 priced between ¥13,200 JPY and ¥13,750 JPY Crocs has joined forces with Pokémon to celebrate the franchise's milestone 30th anniversary, introducing the collaborative Pokémon x Crocs Classic Clogs collection. The upcoming three-piece footwear capsule highlights fan-favorite characters Pikachu, Gengar, and Jigglypuff, translating each creature's iconic aesthetic into wearable slip-on silhouettes with colorways that directly correspond to each Pokémon.Anchoring the collection, both P",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "99c9c43b88dc",
+      "title": "From Vans to FILA, the Seven Best Sneakers to Cop This Week",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/sneaker-releases-2026-november-week-2/",
+      "original_publish_time": "2026-11-12T06:03:00+00:00",
+      "scraped_time": "2026-11-12T13:24:30.701848+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Vans",
+        "Fila"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 7,
+      "summary": "From a Scott-ish skate from Vans x Pringle, to a low-profile court classic by FILA x Highsnobiety — the cream of the sneaker crop awaits.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "f5773d384409",
       "title": "adidas Originals and SP5DER Reunite for Head-to-Toe Collection and F50 Formotion SP5DER",
@@ -2140,282 +2293,6 @@
       ],
       "relevance_score": 6,
       "summary": "Drapers Power 100 2026: Who are this year’s Footwear’s Finest? Birkenstock, Crocs, Dr Martens, Dune London, FitFlop, Footasylum, Kurt Geiger, New Balance and Schuh make up this year's Footwear's Finest. The post Power 100 2026: Who are this year’s Footwear’s Finest? appeared first on Drapers .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "c884f808c7ab",
-      "title": "HOKA x Marni Reunite to Rework the Clifton 11 in Three Bold Colorways",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/11/hoka-x-marni-reunite-to-rework-the-clifton-11-in-three-bold-colorways",
-      "original_publish_time": "2026-11-05T13:00:07+00:00",
-      "scraped_time": "2026-11-05T18:32:27.938392+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Hoka"
-      ],
-      "keywords_matched": [
-        "midsole",
-        "sole",
-        "upper"
-      ],
-      "relevance_score": 5,
-      "summary": "Name: Marni x HOKA Clifton 11MSRP: $275 USDRelease Date: November 12Where to Buy: HOKAHOKA and Marni have reunited for a second collaboration, this time reworking the Clifton 11, HOKA’s everyday trainer, as the Clifton Marni. The Clifton’s running credentials stay intact: an engineered mesh upper sits on a compression-molded EVA foam midsole, with HOKA’s Smooth MetaRocker geometry for rolling transitions and a rearfoot-focused Active Foot Frame that supports the heel.MARNI’s influence shows in how those functional parts are treated. Raised 3D silicone lines sweep in waves from the midfoot toward the heel, and the plush collar is lined with a textured knit that contrasts with the smooth mesh.Each of the three colorways takes a different approach to contrast. The Black version is almost comp",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "26552fa0eafe",
-      "title": "Fctry Lab Set to Launch New Standalone Shoe Brand Centered Around Personalization",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/allskns-allday-slide-release-date-founder-details-1239401272/",
-      "original_publish_time": "2026-11-05T13:00:00+00:00",
-      "scraped_time": "2026-11-05T18:32:17.291047+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoe brand"
-      ],
-      "relevance_score": 3,
-      "summary": "Called Allskns, the company's debut product is the Allday Slide.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "fb003d62a300",
-      "title": "Campus cuts shoe manufacturing lead times to 60-90 days - Multibagg AI",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWlYxel9FbDZGdnNSeUhkcUQwZmRsOGJieVlsRUw1QkF6VHlHa0Z4dmx6OUI0Nl9rbWF2cldUNEg1Q2d2T3Y1by05TE1tMkVCVFFZVDJpSTY0N1RJRjZBLTBiakVBNTV0YlhCcHNueHZ5V0hLNEVoemhURjQwa21sNzZGeU1YQlhidTVxaEdFdmpLcFdOVU51c0ZNSG5sUi1EMjZ1cEI4WU5YcDRDRnNVUjhCQm51YWpranNR?oc=5",
-      "original_publish_time": "2026-11-05T12:50:29+00:00",
-      "scraped_time": "2026-11-07T11:23:13.210799+00:00",
-      "time_delta_mins": 0,
-      "category": "Manufacturing",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoe manufacturing"
-      ],
-      "relevance_score": 3,
-      "summary": "Campus cuts shoe manufacturing lead times to 60-90 days Multibagg AI",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "ea9d551278fc",
-      "title": "This Is, In Form and Function, The Marni-est Hoka",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/marni-hoka-exclusive-new/",
-      "original_publish_time": "2026-11-05T12:30:01+00:00",
-      "scraped_time": "2026-11-05T12:51:54.888699+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Hoka"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "Are your shoes Marni-thicc or HOKA-thicc? Now, they can be both.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "f76d5371f069",
-      "title": "Salomon and BEAMS' New Hiking Shoe Is Built Like a Tank",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/salomon-xt-quest-gtx-beams/",
-      "original_publish_time": "2026-11-05T11:03:00+00:00",
-      "scraped_time": "2026-11-05T12:51:54.889347+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Salomon"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "The Salomon XT-Quest GTX BEAMS hiking shoe brings a battle-ready look to winter footwear, with bold buckle details and GORE-TEX protection.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "0431b3dc93ef",
-      "title": "SOREL Hides Maharishi’s Bonsai Tigerstripe Camo Inside the Daystorm Horizon ZIP GTX Boot",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/11/sorel-maharishi-daystorm-horizon-zip-gtx-boot-collaboration-release-info",
-      "original_publish_time": "2026-11-05T11:00:16+00:00",
-      "scraped_time": "2026-11-05T12:48:24.066283+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Vibram"
-      ],
-      "keywords_matched": [
-        "boot",
-        "hide",
-        "outsole",
-        "sole",
-        "upper"
-      ],
-      "relevance_score": 11,
-      "summary": "Name: SOREL x Maharishi Daystorm Horizon ZIP GTX® BootColorway: TBCSKU: TBCMSRP: $350 USDRelease Date: November 5Where to Buy: SORELSOREL and Maharishi have joined forces on the Daystorm Horizon ZIP GTX, adding Maharishi’s camouflage-focused outlook to SOREL’s all-weather boot.The base keeps the technical backbone that defines the model: a GORE-TEX waterproof build, durable canvas and SOREL’s sculpted rubber toe cap, which has five debossed finger-like ridges across the front. On top of that, Maharishi applies its Pacifist Military Design approach, drawing on three decades of studying camouflage, army gear and utilitarian clothing.The upper pairs olive green canvas with a black, duck boot-style rubber lower, set on a lugged Vibram outsole for grip on wet and uneven ground. A central zip ma",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "05ac27fae0a4",
-      "title": "The Carhartt WIP x Nike Air Max Goadome Low Gets Its First Official Look",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/11/carhartt-wip-nike-air-max-goadome-low-twilight-marsh-iw6306-300-official-images",
-      "original_publish_time": "2026-11-05T07:13:56+00:00",
-      "scraped_time": "2026-11-05T12:48:24.073823+00:00",
-      "time_delta_mins": 0,
-      "category": "Quality",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 4,
-      "summary": "Name: Carhartt WIP x Nike Air Max Goadome Low “Twilight Marsh”Colorway: Twilight Marsh/Light British Tan-Light Cream-BlackSKU: IW6306-300MSRP: $190 USDRelease Date: Holiday 2026The Carhartt WIP x Nike Air Max Goadome Low takes Nike’s rugged lifestyle silhouette and outfits it with utility details pulled straight from the workwear playbook. Official images of the “Twilight Marsh” colorway have now surfaced via Nike, showing a reworked upper that departs from the standard Goadome build in both structure and hardware.The most noticeable change sits along the sidewalls, where Carhartt WIP carves out an open section edged in stitching that recalls the Nike Tailwind 4. On the “Twilight Marsh” pair, Nike’s photos show canvas filling those side zones while leather overlays wrap the rest of the upp",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "706601bef337",
-      "title": "NikeSKIMS Is Dropping a Waffle Racer Collection, and It Keeps the Original Untouched",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/11/nike-kim-kardashian-skims-nikeskims-waffle-racer-collection-iw3882-400-iw3882-200-iw3882-002-release-info",
-      "original_publish_time": "2026-11-05T06:37:05+00:00",
-      "scraped_time": "2026-11-05T12:48:24.075438+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Name: NikeSKIMS Waffle Racer CollectionColorway: Baroque Brown, Light Bone/Varsity Red, Thunder BlueSKU: IW3882-400, IW3882-200, IW3882-002MSRP: $130 USDRelease Date: November 10Where to Buy: NikeSKIMSKim Kardashian and Nike's ongoing NikeSKIMS is taking on the Nike Waffle Racer for its next footwear project, moving from the reworked Air Rift to a far more traditional silhouette. The women’s-exclusive capsule arrives in three colorways and, unlike the partnership’s earlier sneaker, leaves the archival runner’s design almost entirely as it was.The biggest design decision here is a deliberate hands-off approach. Where NikeSKIMS reshaped the Air Rift’s split-toe build to fit its own aesthetic, the Waffle Racer keeps the proportions and construction of the running shoe as it existed in the lat",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "7fa8b9cde551",
-      "title": "Salomon and BEAMS Launch XT-QUEST BEAMS Collaboration Collection Celebrating 50th Anniversary",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/11/salomon-beams-50-years-aniversaly-xt-quest-beasm-release-info",
-      "original_publish_time": "2026-11-05T06:36:04+00:00",
-      "scraped_time": "2026-11-05T12:48:24.077157+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Salomon"
-      ],
-      "keywords_matched": [
-        "boot",
-        "footwear",
-        "outsole",
-        "sole"
-      ],
-      "relevance_score": 6,
-      "summary": "BEAMS, which is celebrating its 50th anniversary, has announced the XT-QUEST BEAMS collaboration collection with Salomon.Under the theme of \"Hybridisation,\" this collection fuses Salomon's Alpine trail heritage with the Tokyo culture transmitted by BEAMS, based on the concept of \"Born in the Alps, Refined in Tokyo.\" The lineup includes a total of seven models, ranging from footwear to apparel and accessories.The centerpiece of the collection is an all-weather footwear model that incorporates ski boot buckle details. Featuring a contaGRIP® outsole, advancedCHASSIS™, and sensiFIT™, along with waterproof GORE-TEX and premium ripstop materials, it combines functionality with design. It comes in black and is priced at 42,240 yen.In the apparel category, a nylon jacket (33,440 yen) featuring a z",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "ae5c4a290cf1",
-      "title": "The Tune Squad Suits Up Again in the ‘Space Jam’ x Crocs Classic Clog",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/11/space-jam-crocs-classic-clog-tune-squad-214509-90h-release-info",
-      "original_publish_time": "2026-11-05T06:14:52+00:00",
-      "scraped_time": "2026-11-05T12:48:24.078870+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Crocs",
-        "Jordan"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "Name: Space Jam x Crocs Classic Clog “Tune Squad”Colorway: MultiSKU: 214509-90HMSRP: $70 USDRelease Date: November 9Where to Buy: CrocsCrocs is bringing the Tune Squad back to the court with the Space Jam x Crocs Classic Clog “Tune Squad,” a jersey-inspired take on its signature silhouette. The release arrives three decades after Space Jam first hit theaters in 1996, and it’s set to come in both adult and kids’ sizing.The design starts with the uniforms Michael Jordan and the Looney Tunes wore in the film’s climactic game against the Monstars. Those kits were mostly white with red and blue accents, and Crocs follows the same proportions. The clog’s body stays white, while the team colors appear on the trim around the foot opening and along the heel strap.The forefoot carries the most visua",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "5bd80abab600",
-      "title": "The Nike Mind 002 Flyknit “Black and Anthracite” Has an Official Release Date",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/11/nike-mind-002-flyknit-black-anthracite-ir2176-002-release-info",
-      "original_publish_time": "2026-11-05T06:13:02+00:00",
-      "scraped_time": "2026-11-05T12:48:24.080666+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "outsole",
-        "sole"
-      ],
-      "relevance_score": 4,
-      "summary": "Name: Nike Mind 002 Flyknit “Black and Anthracite”Colorway: Black/Anthracite/Dark Smoke GreySKU: IR2176-002MSRP: $145 USDRelease Date: November 10Where to Buy: SNKRSAfter getting previewed with only a loose fall window, the Nike Mind 002 Flyknit “Black and Anthracite” now has a confirmed release date, as Nike has officially placed the pair on its launch calendar for November 10. With that date locked, it’s a good moment to look at what this all-dark version brings to the table.The shoe is built on Nike Mind technology, a system that came out of the brand’s in-house Mind Science Department. Twenty-two individual nodes sit in the outsole and move up and down as the wearer walks, pressing into the bottom of the foot in a pattern Nike says science has shown to activate sensory areas of the bra",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "54183942f1a9",
-      "title": "EXCLUSIVE: Alo Expands Boot Offering Just Months After the Category’s Debut",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/alo-malibu-tall-boots-winter-footwear-expansion-details-1239400849/",
-      "original_publish_time": "2026-11-05T05:01:00+00:00",
-      "scraped_time": "2026-11-05T12:48:13.337911+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 3,
-      "summary": "The release also includes a sherpa version of its Sunset sneaker mule.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "51ea3b5a3503",
-      "title": "Christian Louboutin Opens Up About His Unwavering Passion, Jaden Smith’s Impact and the Pleasure of Helping Young Designers",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-features/christian-louboutin-design-career-advice-jaden-smith-1239396958/",
-      "original_publish_time": "2026-11-05T05:01:00+00:00",
-      "scraped_time": "2026-11-05T12:48:13.340462+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Louboutin"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "The veteran shoe designer took the stage at the WWD Apparel and Retail CEO Summit for a wide-ranging conversation about creating one of luxury footwear's modern success stories.",
       "ren_take": "",
       "image_url": ""
     }
