@@ -1,8 +1,29 @@
 {
-  "last_updated": "2026-11-11T23:27:18.891351+00:00",
-  "total_articles": 118,
+  "last_updated": "2026-11-12T03:51:09.781060+00:00",
+  "total_articles": 116,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "f5773d384409",
+      "title": "adidas Originals and SP5DER Reunite for Head-to-Toe Collection and F50 Formotion SP5DER",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/11/adidas-originals-sp5der-collection-f50-formotion-collaboration-release-info",
+      "original_publish_time": "2026-11-12T01:31:11+00:00",
+      "scraped_time": "2026-11-12T03:40:23.341284+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Summary adidas Originals and SP5DER have reunited for a head-to-toe collection featuring the hybrid F50 Formotion SP5DERThe release includes two neon footwear colorways alongside web-print tracksuits graphic tees Cordura backpacks and balaclavasThe capsule launches November 13 on KINGSPIDER CO followed by a global release November 14 on CONFIRMED adidas Originals and streetwear imprint SP5DER have reunited to introduce a full head-to-toe collection, headlined by two vibrant iterations of the F50 Formotion SP5DER. Following their initial summer capsule that fused punk aesthetics with football heritage, the new collaborative capsule bridges performance sport functionality with bold street-ready sensibilities.At the center of the drop is the hybrid F50 Formotion SP5DER, rendered in two high-c",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "e7a4ce12f296",
       "title": "Blundstone Chief Growth Officer Kris Hall Talks New Stores and Why the Shoe Brand Is a ‘Marketer’s Dream’",
@@ -2395,64 +2416,6 @@
       ],
       "relevance_score": 3,
       "summary": "The veteran shoe designer took the stage at the WWD Apparel and Retail CEO Summit for a wide-ranging conversation about creating one of luxury footwear's modern success stories.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "79c458a5a586",
-      "title": "Liberty Shoes’ Multi-Brand Strategy in the Indian Footwear Market - MarkHub24",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTnh5MjhyNXBodTVrbkdaSVlNQXlWdnBleW5NZkhDb1Zjb1JXdmZyeDN3U1hjc1dsSzhNbW5QX2c1VVpWbnlkak5kNE5ndkg2LVRqMDRON2Y5TC1fQVZxajFQbFFMU2NER2swSnFOc2Y3UjdVYzA5ak1BT3VPdW5HYUdhTVhOZnp4eXhsTklDUzZTaWZXUXE3dzRSSQ?oc=5",
-      "original_publish_time": "2026-11-05T03:30:03+00:00",
-      "scraped_time": "2026-11-05T12:48:35.033416+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "shoes"
-      ],
-      "relevance_score": 6,
-      "summary": "Liberty Shoes’ Multi-Brand Strategy in the Indian Footwear Market MarkHub24",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "9de08f8ef56b",
-      "title": "Palantir powers Changshin’s AI-driven shoe manufacturing in South Korea - Chosunbiz",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45c2pxQjU0cmw3MVpuY1Z6c05mcFdQRmphYUlxcm5oTVF6bHZJNUJSdUlPS2taT0VTQUJXc0NfeXd4ZWFLOVNGM2F4TDNyV0c1X0xYaDMxclZ3OWs3MUlVU1pVZjluYmJXZ1pwTjd0VTQ5ZThTbjdBQVlNMHNXRWfSAZMBQVVfeXFMT2FNR1hHNVJpbmdsV1lZTVJDeS1UZi1NdXQxUWNsNGpGdnFJOHhkWndBUWsxY2VNakxpU1BLZU9tU1FRN3BHM3FuZ2t3RXl3cVZyMU1IeUQ3OE1hWkNWSkl6YzA0U1JtM09LWnYyeFNGU2lQcTJYVWR0dWxpaGNNSG9lR05zZDJSVnlTNVl4WjEzSTU0?oc=5",
-      "original_publish_time": "2026-11-05T00:41:00+00:00",
-      "scraped_time": "2026-11-05T03:18:48.289582+00:00",
-      "time_delta_mins": 0,
-      "category": "Manufacturing",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoe manufacturing"
-      ],
-      "relevance_score": 3,
-      "summary": "Palantir powers Changshin’s AI-driven shoe manufacturing in South Korea Chosunbiz",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "802fad70775d",
-      "title": "Henkel opens new application centre in Indonesia - World Footwear",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOU2xtM3VqTFZaU19GTjZhMG1kTUEzX3J1SjJFM2ZNVVRTWVN5VnVtaVoyQzVVaFdsdTJGYThNVWZ4WkZ1RUxzTjM5ODFpMU1FR0xta2Qwc3BGUUhpdUZXUnp3cWhkMXNUcWRfT0p2eEhTQVFkdnpPWmVCYXdyOGt0R25PR0Y2czZCYURQMmRyaUNhMW5ReVZ4Z1VB?oc=5",
-      "original_publish_time": "2026-11-05T00:04:21+00:00",
-      "scraped_time": "2026-11-05T03:18:48.287417+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Henkel opens new application centre in Indonesia World Footwear",
       "ren_take": "",
       "image_url": ""
     }
