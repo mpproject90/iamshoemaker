@@ -1,8 +1,88 @@
 {
-  "last_updated": "2026-11-12T18:56:11.550567+00:00",
-  "total_articles": 108,
-  "sources_checked": 60,
+  "last_updated": "2026-11-12T22:43:56.427898+00:00",
+  "total_articles": 110,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "7e719bcd0df8",
+      "title": "These Winter-Proof Shoes Are Worth Giving Boots the Boot",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/best-non-boot-winter-shoes-salomon-sorel-roa-merrell/",
+      "original_publish_time": "2026-11-12T22:17:31+00:00",
+      "scraped_time": "2026-11-12T22:36:41.152658+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "boot",
+        "shoes",
+        "sneakers"
+      ],
+      "relevance_score": 7,
+      "summary": "Who needs winter boots when everything else is getting GORE-TEX? From trail-ready sneakers to weatherproof derbies, these are the best men's winter shoes.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "8011498a2c87",
+      "title": "Europe drives growth in Brazilian footwear - DatamarNews",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRlk5UXNmTFVuQmhHczVoQzQ4eFhXOGhWOEtuRmxOVHRrd3dIV1UwOHBsbzVyd1RXUUZNOWp3TlozNjJxdkJCcWVKcVMxODdOcUlvaXAwNHRrTzhmcF9malIwQUhSY1F4MERtanQ4OC1DWUxMTlVSN1I5U0lucWIzSkN3?oc=5",
+      "original_publish_time": "2026-11-12T21:22:46+00:00",
+      "scraped_time": "2026-11-12T22:33:08.905354+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Europe drives growth in Brazilian footwear DatamarNews",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "75407bedc3ba",
+      "title": "The Air Jordan 1 Mid Gets “Red Roses” For Valentine’s Day 2027",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/11/12/air-jordan-1-mid-red-roses-valentines-day-2027/",
+      "original_publish_time": "2026-11-12T21:00:01+00:00",
+      "scraped_time": "2026-11-12T22:32:58.289268+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Jordan"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "We know what you’re thinking: Valentine’s Day shoes already? Yes indeed. Jordan Brand, much like a thoughtful partner, is getting its ducks in a row... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Air Jordan 1 Mid Gets \"Red Roses\" For Valentine's Day 2027 appeared first on Sneaker News . The post The Air Jordan 1 Mid Gets “Red Roses” For Valentine’s Day 2027 appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "dbeb3acd92e4",
+      "title": "Fashion Footwear Shift Is a Multi-year Cycle, Analysis Shows",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/footwear-trend-cycle-dress-shoes-1239411253/",
+      "original_publish_time": "2026-11-12T18:52:41+00:00",
+      "scraped_time": "2026-11-12T22:32:47.791549+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "The athletic-to-fashion rotation will be gradual over several years, with footwear driving broader apparel changes from athletic casual to polished casual.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "862208522777",
       "title": "First Look At The Air Jordan 6 “Carmine” With Nike Air",
@@ -2204,47 +2284,6 @@
       ],
       "relevance_score": 3,
       "summary": "Two of the biggest names in entertainment are joining forces with Nike for a collaboration on its most recognizable sneakers. Travis Scott has officially revealed... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Travis Scott Reveals Ultra-Limited Nike Air Force 1 Low \"GTA 6\" Collaboration appeared first on Sneaker News . The post Travis Scott Reveals Ultra-Limited Nike Air Force 1 Low “GTA 6” Collaboration appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "09aedb6dcdff",
-      "title": "A Closer Look at the Fall Footwear That Drove Steve Madden’s Wholesale Business in Q3",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/steve-madden-casual-heels-booties-loafers-tall-shaft-boots-1239402993/",
-      "original_publish_time": "2026-11-05T21:40:00+00:00",
-      "scraped_time": "2026-11-05T22:29:21.784724+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Steve Madden"
-      ],
-      "keywords_matched": [
-        "boot",
-        "footwear"
-      ],
-      "relevance_score": 6,
-      "summary": "Steven Madden CEO Edward Rosenfeld said casual footwear, heels, booties and loafers did well across brands, while sales of tall shaft boots were down.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "382e99189a67",
-      "title": "Footwear Remains ‘Significant Growth Opportunity’ for Coach",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/coach-shoes-sales-growth-expansion-q1-2027-earnings-1239403304/",
-      "original_publish_time": "2026-11-05T21:02:56+00:00",
-      "scraped_time": "2026-11-05T22:29:21.786357+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Revenue in Coach's footwear segment grew over 20 percent in the first quarter.",
       "ren_take": "",
       "image_url": ""
     }
