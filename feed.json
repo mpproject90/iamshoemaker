@@ -1,8 +1,71 @@
 {
-  "last_updated": "2026-11-13T03:26:40.915862+00:00",
-  "total_articles": 110,
-  "sources_checked": 61,
+  "last_updated": "2026-11-13T12:51:54.849021+00:00",
+  "total_articles": 111,
+  "sources_checked": 60,
   "articles": [
+    {
+      "id": "9e6f0e584c01",
+      "title": "Vans and Pringle of Scotland Wrap Three Premium Icons in Fuzzy Argyle Wool",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/11/vans-pringle-of-scotland-footwear-collection-premium-classic-slip-on-shoe-5315-premium-authentic-shoe-5310-premium-sk8-hi-shoe-5325-release-info",
+      "original_publish_time": "2026-11-13T10:41:04+00:00",
+      "scraped_time": "2026-11-13T12:41:16.483231+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Vans"
+      ],
+      "keywords_matched": [
+        "footwear",
+        "shoes",
+        "upper"
+      ],
+      "relevance_score": 5,
+      "summary": "Name: Vans x Pringle of Scotland CollectionMSRP: $110 - $130 USDRelease Date: Available NowWhere to Buy: VansVans and Pringle of Scotland have joined forces on a winter collection that combines Southern California skate culture with more than two centuries of Scottish knitwear heritage.At the heart of the footwear-led lineup are three of Vans’ Premium icons: the Authentic 44, the Sk8-Hi Reissue 38 and the Classic Slip-On 98. Each is dressed in Pringle’s signature argyle, rendered in brushed and felted wool rather than canvas. The result is a fuzzy, almost sweater-like texture, with diamonds that look slightly soft and blurred at the edges, as if cut from a well-loved knit. Underneath, the shoes keep their Premium upgrades: padded collars and uppers, a refined footbed with a Sola Foam ADC i",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "9b9fccc5cb15",
+      "title": "Jordan Brand Dresses the Air Jordan 4 \"Spotlight\" in Faux-Crocodile Leather",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/11/air-jordan-4-spotlight-hv0823-002-first-look-release-info",
+      "original_publish_time": "2026-11-13T09:44:39+00:00",
+      "scraped_time": "2026-11-13T12:41:16.487718+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "Summary Jordan Brand has revealed official retailer images of the upcoming Air Jordan 4 \"Spotlight\"The nearly all-black sneaker pairs plain black leather with faux-crocodile leather on the toe tip and eyestay wings alongside metallic silver accentsPriced at $215 USD, the Air Jordan 4 \"Spotlight\" releases on January 15, 2027 via Nike SNKRS and select retailers Name: Air Jordan 4 \"Spotlight\"Colorway: Black/Black CrocSKU: HV0823-002MSRP: $215 USDRelease Date: January 15, 2027Where to Buy: NikeJordan Brand is extending the stealthy aesthetic of its recent \"Black Cat\" collection with the upcoming Air Jordan 4 “Spotlight.” Unveiled via official retailer images ahead of its Spring 2027 arrival, the silhouette dresses the beloved Air Jordan model in a nearly all-black colorway accented with exotic",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "08a32e437e8b",
+      "title": "Local Cultural Motifs Could Inspire Handmade Footwear Industry Growth - Sarawak Tribune",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQemdyU3dtdGtHVzBEY0ZkZzZKQ2NmbzVKOEI0Tkw2WTJiQjZnOFpTLVhSSFNuWnRFYTM4ZDBjc1dzc3Bsd1FWZFVjdVNkTnF5R2tTTXFXbVY0OUUwYzlOLUtaempILXR4Z0Zta0U1WkFITUgwREkyQVJwdmVTb2NSdUVRTEJfWFF2TzQ4QmpWcjhzdkZjVjdNOUpWNWVlMEQ1OXFj?oc=5",
+      "original_publish_time": "2026-11-13T09:22:31+00:00",
+      "scraped_time": "2026-11-13T12:41:27.236620+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "footwear industry"
+      ],
+      "relevance_score": 6,
+      "summary": "Local Cultural Motifs Could Inspire Handmade Footwear Industry Growth Sarawak Tribune",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "54149fad199c",
       "title": "Devin Booker Reveals A Nike Book 2 Inspired By The Mag",
@@ -914,6 +977,25 @@
       ],
       "relevance_score": 3,
       "summary": "In November 10's Shopper newsletter, editor Max Migowski teaches a lesson in derbies.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "e7746a9d0ed0",
+      "title": "Converse’s Classiest Sneaker Gets a Rugged New Look - Gear Patrol",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNb191cDNMS0U1ekNWZVM2R2RKVGZ5YUs1THBRMHhwOE9ZQVA5SG51ZmxKTXFPMXU0cU82bUtNZldqcXBFdXBoVnpSdjc2Y2ExUk5scEJzZFpmOFFGLWw5dU1mMDI3aGdCby1EOFFRVUEwdUtoTjhDRHNoMmNLUjBPMEpJbWQxVkNiaUJtakdXbw?oc=5",
+      "original_publish_time": "2026-11-10T20:08:26+00:00",
+      "scraped_time": "2026-11-13T12:41:27.684661+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Converse"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "Converse’s Classiest Sneaker Gets a Rugged New Look Gear Patrol",
       "ren_take": "",
       "image_url": ""
     },
@@ -2224,69 +2306,6 @@
       ],
       "relevance_score": 3,
       "summary": "Get a head start on your winter wardrobe with adidas, as 30% off a selection of sneakers, track tops, Henleys, and more makes for some very timely savings.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "1eda6ce55165",
-      "title": "Nike's Answer to the Winter Boot? A Rugged Basketball Shoe",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-jordan-winterized-6-rings/",
-      "original_publish_time": "2026-11-06T11:03:00+00:00",
-      "scraped_time": "2026-11-06T12:36:31.308500+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike",
-        "Jordan"
-      ],
-      "keywords_matched": [
-        "boot",
-        "sole"
-      ],
-      "relevance_score": 9,
-      "summary": "Nike's Jordan Winterized 6 Rings looks like a basketball shoe that picked up a winter job, complete with chunky soles and boot-style lacing.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "3ab14aabfe59",
-      "title": "Bangladesh seeks Turkish expertise in waste-to-energy, leather industry: Minister - The Business Standard",
-      "source_name": "Google News - Leather Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRVY2TklGZFJRYzhXS0NxUWttRFBIdEFVcXdkNjctMUM4VjhucUVJbU5VbnJsOEowTEt1LW00eWthMU9kX2FiVjJpSkh3dHRkRHVPTjA4WUtJdk51U2tvclNWSFQ4LUV4SW1aYUwzVS0xNjdCS0NGMFYxdDJNcWZ4aXZNZWdwNU5zaG9HcWM1M2k1T1dXcEl4X29FWDllZjlYY0lscTQzb3M0bHFwTmFXRy1Wd2tsQUxrNUVPeQ?oc=5",
-      "original_publish_time": "2026-11-06T09:50:00+00:00",
-      "scraped_time": "2026-11-06T12:33:19.849921+00:00",
-      "time_delta_mins": 0,
-      "category": "Quality",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "leather industry"
-      ],
-      "relevance_score": 3,
-      "summary": "Bangladesh seeks Turkish expertise in waste-to-energy, leather industry: Minister The Business Standard",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "fb6622b14e8a",
-      "title": "Story mfg. and ASICS Send the GEL-TRANSCEND FJ Rambling in Hiking-Blanket Check",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/11/story-mfg-asics-gel-transcend-fj-1203b194-200-1203b194-001-release-info",
-      "original_publish_time": "2026-11-06T07:48:11+00:00",
-      "scraped_time": "2026-11-06T12:33:07.835830+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "ASICS"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Name: Story mfg. x ASICS GEL-TRANSCEND FJColorway: Dark Brown, BlackSKU: 1203B194-200, 1203B194-001MSRP: $180 USDRelease Date: November 11 (Story mfg.), November 20 (ASICS)Where to Buy: Story mfg., ASICSStory mfg. and ASICS are back together with the GEL-TRANSCEND FJ, a collaborative sneaker built around the idea of rambling. The UK craft label and the Japanese sportswear giant read the word three ways: wandering with no set endpoint, talking past the point of necessity, and growing somewhere you didn’t plan to. That spirit of curiosity-led movement shapes everything here, from the archival hiking base to a campaign cast of makers and movers photographed on their own turf.The foundation is pure archive. The GEL-TRANSCEND FJ traces back to ASICS’ 1990s catalog of hiking and walking footwear",
       "ren_take": "",
       "image_url": ""
     }
