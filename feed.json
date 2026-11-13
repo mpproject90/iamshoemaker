@@ -1,8 +1,29 @@
 {
-  "last_updated": "2026-11-12T22:43:56.427898+00:00",
+  "last_updated": "2026-11-13T03:26:40.915862+00:00",
   "total_articles": 110,
   "sources_checked": 61,
   "articles": [
+    {
+      "id": "54149fad199c",
+      "title": "Devin Booker Reveals A Nike Book 2 Inspired By The Mag",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/11/12/nike-book-2-mag/",
+      "original_publish_time": "2026-11-13T00:42:41+00:00",
+      "scraped_time": "2026-11-13T03:15:59.107550+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Devin Booker’s appreciation for Nike’s extensive footwear archives continues to shape his signature line, and his latest Nike Book 2 takes inspiration from perhaps the... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Devin Booker Reveals A Nike Book 2 Inspired By The Mag appeared first on Sneaker News . The post Devin Booker Reveals A Nike Book 2 Inspired By The Mag appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "7e719bcd0df8",
       "title": "These Winter-Proof Shoes Are Worth Giving Boots the Boot",
@@ -80,6 +101,28 @@
       ],
       "relevance_score": 3,
       "summary": "The athletic-to-fashion rotation will be gradual over several years, with footwear driving broader apparel changes from athletic casual to polished casual.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "0f3cf7d928c7",
+      "title": "Oprah Winfrey Endorses Nike’s Comeback and More Shoes on Her 2026 Favorite Things",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-trends/oprah-2026-favorite-things-shoes-nike-margaux-1239413563/",
+      "original_publish_time": "2026-11-12T18:30:02+00:00",
+      "scraped_time": "2026-11-13T03:15:48.293998+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "footwear",
+        "shoes"
+      ],
+      "relevance_score": 6,
+      "summary": "Among her annually curated list of favorite things, Winfrey included a recovery shoe from Nike and many other footwear styles.",
       "ren_take": "",
       "image_url": ""
     },
@@ -2244,46 +2287,6 @@
       ],
       "relevance_score": 3,
       "summary": "Name: Story mfg. x ASICS GEL-TRANSCEND FJColorway: Dark Brown, BlackSKU: 1203B194-200, 1203B194-001MSRP: $180 USDRelease Date: November 11 (Story mfg.), November 20 (ASICS)Where to Buy: Story mfg., ASICSStory mfg. and ASICS are back together with the GEL-TRANSCEND FJ, a collaborative sneaker built around the idea of rambling. The UK craft label and the Japanese sportswear giant read the word three ways: wandering with no set endpoint, talking past the point of necessity, and growing somewhere you didn’t plan to. That spirit of curiosity-led movement shapes everything here, from the archival hiking base to a campaign cast of makers and movers photographed on their own turf.The foundation is pure archive. The GEL-TRANSCEND FJ traces back to ASICS’ 1990s catalog of hiking and walking footwear",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "5d407af44a00",
-      "title": "Palantir partners with Korea’s Changshin to streamline shoe manufacturing with AI - Chosunbiz",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE93Ym9KZHhKRENfcWNKckV5U3RIZmxkeHdxU014VEZjOTN6TGx0dWltdGJMZkRrNklBU1l4LWxJMUNWSmNVNG54MC1IQmxCNXNjeHNFZHQxY09iRjh1WjV2X3didEp5U2ZBYTYwX3EyYmtTclFxQng2N2VR0gGOAUFVX3lxTE8xTWp1N3NON3RmdGVYVUU2NDI5MUNHblFwaGJwRWF2QUNLVjdxdzZUQUJUXzJzWTVfN3pfZF9ibmFOUE5QT3hyR09NcUxiUkdSM0YxTEZsY2VwVXRqOHZub0tHN0JMZkdaTnNkMzFDY0NGcG1XMXAxZ3pHdk9TWWFQZDJkZEYzckloUmlCQnc?oc=5",
-      "original_publish_time": "2026-11-06T01:30:00+00:00",
-      "scraped_time": "2026-11-06T03:17:52.284596+00:00",
-      "time_delta_mins": 0,
-      "category": "Manufacturing",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoe manufacturing"
-      ],
-      "relevance_score": 3,
-      "summary": "Palantir partners with Korea’s Changshin to streamline shoe manufacturing with AI Chosunbiz",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "c34038ea4fbd",
-      "title": "Travis Scott Reveals Ultra-Limited Nike Air Force 1 Low “GTA 6” Collaboration",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/11/05/travis-scott-grand-theft-auto-6-vi-nike-air-force-1-low/",
-      "original_publish_time": "2026-11-06T00:09:34+00:00",
-      "scraped_time": "2026-11-06T03:17:41.603493+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "Two of the biggest names in entertainment are joining forces with Nike for a collaboration on its most recognizable sneakers. Travis Scott has officially revealed... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Travis Scott Reveals Ultra-Limited Nike Air Force 1 Low \"GTA 6\" Collaboration appeared first on Sneaker News . The post Travis Scott Reveals Ultra-Limited Nike Air Force 1 Low “GTA 6” Collaboration appeared first on Sneaker News .",
       "ren_take": "",
       "image_url": ""
     }
