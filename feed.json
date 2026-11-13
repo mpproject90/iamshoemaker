@@ -1,8 +1,68 @@
 {
-  "last_updated": "2026-11-13T12:51:54.849021+00:00",
-  "total_articles": 111,
+  "last_updated": "2026-11-13T18:35:29.307768+00:00",
+  "total_articles": 112,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "6d4d7584272d",
+      "title": "Sqairz is Challenging What Performance Shoes Should Look Like",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/sqairz-square-toe-performance-footwear-golf-sports-1239408310/",
+      "original_publish_time": "2026-11-13T18:07:54+00:00",
+      "scraped_time": "2026-11-13T18:24:42.882402+00:00",
+      "time_delta_mins": 0,
+      "category": "Quality",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "shoes"
+      ],
+      "relevance_score": 4,
+      "summary": "Originally a golf shoe startup, Sqairz is now performance footwear firm spanning golf, baseball, softball and pickleball.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "3dce6e41577e",
+      "title": "Beams And adidas Built A Loafer From Scratch",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/11/13/beams-adidas-loafer/",
+      "original_publish_time": "2026-11-13T17:00:56+00:00",
+      "scraped_time": "2026-11-13T18:24:53.607409+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Adidas",
+        "Hoka",
+        "Salomon"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "Japanese retailer Beams is really flexing its creative muscle for its 50th anniversary this year, already checking off some of the best HOKA and Salomon... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Beams And adidas Built A Loafer From Scratch appeared first on Sneaker News . The post Beams And adidas Built A Loafer From Scratch appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "100260a43207",
+      "title": "Ye Olde Clarks Have No Business Being This Hot (Exclusive)",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/clarks-laagam/",
+      "original_publish_time": "2026-11-13T17:00:00+00:00",
+      "scraped_time": "2026-11-13T18:28:19.840829+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Clarks"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "Highsnobiety can exclusively reveal the Lugger Ballerina, a new collaborative shoe from British heritage brand Clarks and the young Barcelona label LAAGAM.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "9e6f0e584c01",
       "title": "Vans and Pringle of Scotland Wrap Three Premium Icons in Fuzzy Argyle Wool",
@@ -63,6 +123,25 @@
       ],
       "relevance_score": 6,
       "summary": "Local Cultural Motifs Could Inspire Handmade Footwear Industry Growth Sarawak Tribune",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "8b154a8f0975",
+      "title": "These Cool-Girl Sneakers From a Natalie Portman-Worn Brand Will Make You Look Like a 2027 Fashion Insider - InStyle",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VclFXbnFLbnFhWkVNSDduREtMYk9CVVhlLXJvU1ExeUlia1JhVDg0bFZqZnY5S0lfVEQ0VFpzVnE4dXZuSDNTU2ZxZTN0Vi1EaW1kQml6Nm9XY1M0X3NKWHZCOU5sOFdJdWxlZg?oc=5",
+      "original_publish_time": "2026-11-13T05:00:00+00:00",
+      "scraped_time": "2026-11-13T18:25:04.980711+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "These Cool-Girl Sneakers From a Natalie Portman-Worn Brand Will Make You Look Like a 2027 Fashion Insider InStyle",
       "ren_take": "",
       "image_url": ""
     },
@@ -2243,69 +2322,6 @@
       ],
       "relevance_score": 3,
       "summary": "The three 2011 sneakers include odes to the New York Knicks and Central Park.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "c0ec29fa205b",
-      "title": "The Kith x New Balance 2011 “Monuments” Collection Builds New York Landmarks Into Every Panel",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/11/kith-new-balance-2011-monuments-collection-release-info",
-      "original_publish_time": "2026-11-06T18:00:03+00:00",
-      "scraped_time": "2026-11-06T21:55:20.427843+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [
-        "New Balance"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "Name: Kith x New Balance 2011Colorway: Maroon/Atomic Yellow, Amazon/Lilac, Princess Blue/SilverSKU: TBCMSRP: TBCRelease Date: November 9Where to Buy: KithKith and New Balance are returning to the 2011 for the Monuments Collection, a trio of colorways that each salute one of New York City’s most recognizable landmarks. The silhouette first surfaced earlier this year as part of Kith’s 15-year anniversary run, and its name points straight back to the year the retailer opened its doors. This time around, the city’s skyline does the storytelling while the materials do the heavy lifting.Under every colorway sits the same architecture. Kith built the 2011 upper from the ground up, assembling a layered, multi-piece pattern rather than adapting an existing New Balance last, then set it atop the ABZ",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "993264d23c89",
-      "title": "Nike Put ACG’s Radical AirFlow Uppers Onto The Pegasus Plus 2",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/11/06/nike-radical-airflow-pegasus/",
-      "original_publish_time": "2026-11-06T17:00:20+00:00",
-      "scraped_time": "2026-11-06T17:49:08.369418+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 5,
-      "summary": "Nike just paired one of its coolest recent apparel innovations with its most iconic running franchise. Nike Radical AirFlow, a technology thus far used on... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike Put ACG's Radical AirFlow Uppers Onto The Pegasus Plus 2 appeared first on Sneaker News . The post Nike Put ACG’s Radical AirFlow Uppers Onto The Pegasus Plus 2 appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "84390201e402",
-      "title": "adidas Has Us in a Sale Season State of Mind",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/adidas-winter-sale-best-bits/",
-      "original_publish_time": "2026-11-06T16:55:41+00:00",
-      "scraped_time": "2026-11-06T17:52:42.932921+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "Get a head start on your winter wardrobe with adidas, as 30% off a selection of sneakers, track tops, Henleys, and more makes for some very timely savings.",
       "ren_take": "",
       "image_url": ""
     }
