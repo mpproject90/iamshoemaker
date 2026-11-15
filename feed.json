@@ -1,8 +1,50 @@
 {
-  "last_updated": "2026-11-14T21:14:15.965546+00:00",
-  "total_articles": 102,
-  "sources_checked": 61,
+  "last_updated": "2026-11-15T02:38:32.522785+00:00",
+  "total_articles": 103,
+  "sources_checked": 60,
   "articles": [
+    {
+      "id": "3adb018b639c",
+      "title": "Vans’ Wingtip Skate Shoes Have Never Looked More Dapper",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/vans-authentic-wingtip-brogue/",
+      "original_publish_time": "2026-11-14T22:53:05+00:00",
+      "scraped_time": "2026-11-15T02:31:22.481272+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Vans"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 5,
+      "summary": "ABC-Mart debuts a classy leather Vans Authentic Wingtip Brogue sneaker in black & brown colorways.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "4497be910abb",
+      "title": "adidas’ Slick Rain Boots Want To Be the Next Splash Hit",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/adidas-rainboots/",
+      "original_publish_time": "2026-11-14T22:46:25+00:00",
+      "scraped_time": "2026-11-15T02:31:22.482046+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 5,
+      "summary": "adidas release its own Wellington rain boots, featuring wateproof rubber & Three Stripes. Here's everything on the drop.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "c1cffdd2fe18",
       "title": "Nike Shows Its Hand With Diamond Branding On The Air Force 1",
@@ -2095,25 +2137,6 @@
       ],
       "relevance_score": 3,
       "summary": "Italian retailer One Block Down serves up a premium set of retro Air Max sneakers.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "20e6cd095dc9",
-      "title": "Quinta Brunson Subtly Brings Extra Jewels Into Her Look With Giuseppe Zanotti Sandals on the LACMA Gala 2026 Red Carpet",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-trends/quinta-brunson-giuseppe-zanotti-sandals-lacma-gala-2026-1239405683/",
-      "original_publish_time": "2026-11-08T01:18:15+00:00",
-      "scraped_time": "2026-11-08T11:34:15.622098+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "sandal"
-      ],
-      "relevance_score": 3,
-      "summary": "Brunson paired Giuseppe Zanotti heels with a black dress at the annual Los Angeles benefit event.",
       "ren_take": "",
       "image_url": ""
     }
