@@ -1,8 +1,29 @@
 {
-  "last_updated": "2026-11-15T17:45:39.652863+00:00",
-  "total_articles": 107,
-  "sources_checked": 60,
+  "last_updated": "2026-11-15T21:47:13.415726+00:00",
+  "total_articles": 105,
+  "sources_checked": 76,
   "articles": [
+    {
+      "id": "189daf00929c",
+      "title": "Nike’s Swooshless Running Shoe Comes With a Sweet Bubblegum Boost",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-vomero-plus-sea-glass/",
+      "original_publish_time": "2026-11-15T20:26:12+00:00",
+      "scraped_time": "2026-11-15T21:32:42.712885+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sole"
+      ],
+      "relevance_score": 3,
+      "summary": "Nike's Vomero Plus \"Sea Glass\" is another Swoosh-free running shoe with stacked sweet pink soles.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "039c00497e6c",
       "title": "Carhartt Nike Goadome, One Block Down Air Max 95, And This Week’s Best Releases",
@@ -2156,70 +2177,6 @@
       ],
       "relevance_score": 3,
       "summary": "Summary Adam Driver explained why he accepted the role of Mister Sinister in Marvel's X-Men reboot after turning down past MCU offersThe actor credited director Jake Schreier Marvel head Kevin Feige and a strong script for joining the projectDriver will star as main antagonist Dr Nathaniel Essex alongside an ensemble including Sadie Sink Kit Connor and Christopher Abbott Marvel Studios has secured Adam Driver for its upcoming X-Men reboot, with the actor explaining why he agreed to portray supervillain Dr. Nathaniel Essex, aka Mister Sinister, after repeatedly turning down MCU roles over the years. Speaking on Jimmy Kimmel Live!, Driver revealed that personal fandom and a compelling creative pitch convinced him that the timing was right.“I was a big fan [of X-Men]. I mean, I was a fan of t",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "a98adde0dc10",
-      "title": "This Beautifully Blacked-Out Air Jordan Packs a Luxe Sting",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/jordan-17-low-black-pack/",
-      "original_publish_time": "2026-11-08T20:49:15+00:00",
-      "scraped_time": "2026-11-08T21:00:06.713768+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Nike",
-        "Jordan"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "Nike's Air Jordan 17 Low \"Black Pack\" is collection's fourth luxurious all-black sneaker featuring stingray leather.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "5e20fcb66cd9",
-      "title": "Nike's Mid Jordans Are Even Better as Hare-y 'Space Jam' Sneakers",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/jordan-1-mid-space-jam-hare/",
-      "original_publish_time": "2026-11-08T20:47:08+00:00",
-      "scraped_time": "2026-11-08T21:00:06.714315+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike",
-        "Jordan"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 7,
-      "summary": "The Air Jordan 1 Mid \"Space Jam Hare\" is a clever Bugs Bunny-inspired sneaker featuring fuzzy grey textures & a Jumpman Hare motif.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "d5c04fc377b7",
-      "title": "Timberland’s Premium 6-Inch Boot Gets a New Limited-Edition Collaboration Covered in Pony Hair",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/solebox-timberland-premium-6-inch-boot-pony-hair-release-date-1239406397/",
-      "original_publish_time": "2026-11-08T18:52:03+00:00",
-      "scraped_time": "2026-11-08T20:56:27.920575+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Timberland"
-      ],
-      "keywords_matched": [
-        "boot",
-        "sole"
-      ],
-      "relevance_score": 6,
-      "summary": "European retailer Solebox adds some texture to the street style staple boot.",
       "ren_take": "",
       "image_url": ""
     }
