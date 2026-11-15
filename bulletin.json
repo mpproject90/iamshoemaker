@@ -1,6 +1,107 @@
 {
-  "last_updated": "2026-11-08T14:52:09.577251+00:00",
+  "last_updated": "2026-11-15T15:28:39.086441+00:00",
   "bulletins": [
+    {
+      "id": "wk46-2026",
+      "week_number": 46,
+      "year": 2026,
+      "date_from": "2026-11-09",
+      "date_to": "2026-11-15",
+      "published": "2026-11-15T15:28:39.085823+00:00",
+      "intro": "Week 46 is a Timberland week — three separate drops, two major brand partners, one material story worth watching. Beneath the noise of limited-edition hairy boots and bandana prints, the more consequential signals this week come from the manufacturing layer: Yueda Group's posture tells us something important about where OEM confidence actually sits heading into 2027 planning cycles.",
+      "articles": [
+        {
+          "title": "adidas’ Cute “UGG” Boots Were Skate Shoes in Their Past Life",
+          "source_name": "Highsnobiety",
+          "source_url": "https://www.highsnobiety.com/p/adidas-campus-00s-winter/",
+          "category": "Retail",
+          "relevance_score": 10,
+          "original_publish_time": "2026-11-09T21:12:49+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "solebox wraps the Iconic Timberland 6-Inch Boot in Premium Pony Hair",
+          "source_name": "Hypebeast",
+          "source_url": "https://hypebeast.com/2026/11/solebox-timberland-6-inch-boot-brown-pony-collaboration-release-info",
+          "category": "Leather",
+          "relevance_score": 9,
+          "original_publish_time": "2026-11-12T09:15:00+00:00",
+          "misaki_take": "Pony hair at the €200 price point on a heritage silhouette is a material premium play that only works when the base construction is already trusted — Timberland's 6-Inch carries that trust, so solebox is essentially renting the equity and spending its budget on the surface material rather than the structure. From a sourcing standpoint, pony hair is notoriously difficult to cut and skive without visible directional inconsistency, so the per-pair yield loss on a small-batch collab like this will be significant and is almost certainly baked into that retail price."
+        },
+        {
+          "title": "Supreme and Timberland Reunite on the Bandana Field Boot for Fall 2026",
+          "source_name": "Hypebeast",
+          "source_url": "https://hypebeast.com/2026/11/supreme-timberland-bandana-field-boot-fall-2026-collaboration-release-info",
+          "category": "Leather",
+          "relevance_score": 8,
+          "original_publish_time": "2026-11-10T14:00:10+00:00",
+          "misaki_take": "Printed waterproof nubuck is a technically demanding specification — getting consistent bandana registration across a three-dimensional lasted upper without dye migration at the seams requires either a very controlled digital print process or a pre-cut fabric laminate approach, and the choice between those two methods has real implications for per-unit cost and lead time. Supreme's staggered New York then Asia release cadence is now standard practice for managing resale arbitrage and regional duty exposure, a logistics choreography that brands with smaller operational teams often underestimate."
+        },
+        {
+          "title": "Solebox Goes Full Hairy Mode On Their Timberland 6” Boot Collab",
+          "source_name": "Sneaker News",
+          "source_url": "https://sneakernews.com/2026/11/09/solebox-timberland-6-inch-boot-chestnut-pony-hair/",
+          "category": "Retail",
+          "relevance_score": 8,
+          "original_publish_time": "2026-11-09T19:00:03+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "These Winter-Proof Shoes Are Worth Giving Boots the Boot",
+          "source_name": "Highsnobiety",
+          "source_url": "https://www.highsnobiety.com/p/best-non-boot-winter-shoes-salomon-sorel-roa-merrell/",
+          "category": "Retail",
+          "relevance_score": 7,
+          "original_publish_time": "2026-11-12T22:17:31+00:00",
+          "misaki_take": "GORE-TEX licensing costs remain a meaningful line item for brands — typically adding $4–$8 to FOB depending on membrane specification and volume tier — but the consumer demand for weatherproof non-boot silhouettes is now strong enough that brands are absorbing or passing through that cost rather than avoiding the technology. The editorial framing of shoes as a boot replacement is a signal that the market is segmenting further, and brands without a weatherproof option in their sneaker or dress categories are leaving a quietly growing conversion opportunity on the table."
+        },
+        {
+          "title": "On Running and Under Armour Take Disparate Paths in Footwear Race - Sportico.com",
+          "source_name": "Google News - Footwear Industry",
+          "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNakQ1bk9VU0VwdjIyTmZhbmZSbGQ1UGFETGk2TS1fWVFEdXVGdlpRdW5mbFg1MXM4dXduRFBJazBLVUx5dTdEY3pCM0tiZEVoMC1rcjlJX0FMa1FFcmQ4WFExWUM3Y3NkZk1IOWR3MDlCSWh6RkUxMS1jeW5EYXktX2xtcUU5d1E2cHVoNmUzQjAwSW9fRmU0bWwxTFp6RDc4QUhLYQ?oc=5",
+          "category": "Supply Chain",
+          "relevance_score": 7,
+          "original_publish_time": "2026-11-12T12:59:17+00:00",
+          "misaki_take": "On Running's trajectory — premium positioning, controlled distribution, Swiss brand equity, and disciplined SKU architecture — is a fundamentally different manufacturing and sourcing model than Under Armour's higher-volume, broader-channel approach, and those strategic differences compound into very different factory relationships and FOB negotiating postures. Under Armour's footwear challenges are not a product problem at their core; they are a consequence of building factory commitments and retail floor space allocations around growth curves that the brand has not consistently delivered, which creates the kind of capacity mismatch that takes two to three seasons to unwind cleanly."
+        },
+        {
+          "title": "From Vans to FILA, the Seven Best Sneakers to Cop This Week",
+          "source_name": "Highsnobiety",
+          "source_url": "https://www.highsnobiety.com/p/sneaker-releases-2026-november-week-2/",
+          "category": "Retail",
+          "relevance_score": 7,
+          "original_publish_time": "2026-11-12T06:03:00+00:00",
+          "misaki_take": "FILA's continued presence in editorial roundups through collab vehicles — here with Highsnobiety itself — reflects a brand that has stabilized its positioning after several years of inconsistent market messaging, though the low-profile court silhouette space it occupies is under sustained pressure from both premium and fast-fashion entrants. Vans' Pringle collaboration is the more interesting sourcing story, as heritage knitwear brands licensing into footwear uppers typically require specialized cut-and-sew capability that most standard Vans vendor factories are not configured for, implying a secondary supplier or a significant upcharge on the construction."
+        },
+        {
+          "title": "Timberland Just Released New Holiday Boots in Premium Waterproof Suede for Men, Women and Kids",
+          "source_name": "Footwear News",
+          "source_url": "https://wwd.com/footwear-news/sneaker-news/timberland-premium-6-inch-waterproof-cf-stead-suede-boot-holiday-1239409725/",
+          "category": "Leather",
+          "relevance_score": 7,
+          "original_publish_time": "2026-11-10T21:30:46+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "Supreme Wraps The Timberland Field Boot In Bandana Prints",
+          "source_name": "Sneaker News",
+          "source_url": "https://sneakernews.com/2026/11/10/supreme-timberland-field-boot-bandana/",
+          "category": "Retail",
+          "relevance_score": 7,
+          "original_publish_time": "2026-11-10T15:30:20+00:00",
+          "misaki_take": "The parallel Sneaker News coverage of the Supreme x Timberland drop alongside the solebox collab in the same weekly cycle is not a coincidence — Timberland's Q4 collab calendar has been structured to generate sustained editorial presence through November rather than a single launch spike, which is sophisticated demand management. For capacity planners at Timberland's key factories, the operational discipline required to deliver two high-profile limited-run collabs with different material specifications in the same production window should not be underestimated."
+        },
+        {
+          "title": "The shoe manufacturing giant behind Nike and Adidas: Yueda Group awaits a supply chain recovery - Longbridge",
+          "source_name": "Google News - Footwear Industry",
+          "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4NGVJOW05MTN3M0g2ekNsdDUtQjNxdnNxMFRiYW1reDBmSkpYTHl1eEI1dzdSWUxuam9QSGZzU2JwVW8ydHJRbVJZZ0dnTV9zXzRJ?oc=5",
+          "category": "Manufacturing",
+          "relevance_score": 7,
+          "original_publish_time": "2026-11-10T08:29:55+00:00",
+          "misaki_take": "When a manufacturer of Yueda's scale describes itself as waiting for supply chain recovery rather than actively managing through disruption, that language reflects genuine demand uncertainty at the OEM level — brands are not placing forward commitments with the confidence that would allow a factory group to plan labor, materials, and capacity with any precision. For sourcing managers currently in 2027 FOB negotiations, Yueda's posture is a signal that OEM leverage has softened enough to renegotiate terms, but it is also a warning that factories under margin pressure cut corners on quality systems first, so audit frequency should increase in parallel with any price discussions."
+        }
+      ]
+    },
     {
       "id": "wk45-2026",
       "week_number": 45,
@@ -907,107 +1008,6 @@
           "relevance_score": 8,
           "original_publish_time": "2026-09-08T19:30:51+00:00",
           "misaki_take": "Placing Vibram's outsole technology onto a Crocs Classic Clog is a technically interesting brief — it requires bonding a traditional rubber compound to Croslite EVA foam, which has well-documented adhesion challenges that any experienced sole supplier will immediately recognize. The commercial logic is clear — Patta brings credibility and Vibram brings performance legitimacy — but the production execution on this bonding interface will determine whether this collab becomes a quality reference point or a cautionary one."
-        }
-      ]
-    },
-    {
-      "id": "wk35-2026",
-      "week_number": 35,
-      "year": 2026,
-      "date_from": "2026-08-24",
-      "date_to": "2026-08-30",
-      "published": "2026-08-30T13:40:14.553997+00:00",
-      "intro": "Week 35 brought the kind of quiet signal that tends to get lost beneath product launches and colorway drops: sustainability certification is moving from marketing language into procurement spec. Meanwhile, two of the industry's most consequential brands — Jordan and Nike — continued their divergent paths on performance positioning, and the China-to-global launch sequence on the AJ41 is worth watching carefully. The week's real story is about standards tightening, brand adjacencies expanding, and the slow death of the single-category player.",
-      "articles": [
-        {
-          "title": "Timberland Transforms Its Iconic 6-Inch Boot Into the Heritage Clog",
-          "source_name": "Hypebeast",
-          "source_url": "https://hypebeast.com/2026/8/timberland-heritage-clog-shaggy-suede-brown-tan-cement-grey-black-colorway-release-info",
-          "category": "Leather",
-          "relevance_score": 9,
-          "original_publish_time": "2026-08-24T10:42:03+00:00",
-          "misaki_take": "Silhouette derivatives of this kind are a low-tooling-cost play — Timberland is leveraging an existing last and midsole geometry while swapping the upper construction, which keeps NPI spend minimal and allows rapid European market testing before committing to US inventory. The real watch here is how the ReBotl lining performs at scale retail return rates; eco-fabric substitutions on high-contact surfaces have a quiet history of warranty exposure that doesn't show up until season two."
-        },
-        {
-          "title": "GRS-Certified Recycled Insoles: Setting a New Standard for Sustainable Footwear - EIN News",
-          "source_name": "Google News - Footwear Industry",
-          "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZjM0VnNBSzc4Tkd5MlotaEcyMUJ6aUpwRFBYMFdETWZrTXhkUzl4WFNhREtYMGt5Ym1xaXZROXdvVWJjWFl0dGJ4aU9JV3VqRl96WTBqSVdoTk4zaFlSWkdWYk9NZUtVX253RHhPTFpVcVN2SkxLSmEyd2R6WFZ1azRqV2hLYWRLTE13VFNmSU1qMjdOVm9jX0pGOEYydEw5MVdya2o1RzJMR0VCcFdmQkpjRDdZaHNoYnFOeA?oc=5",
-          "category": "Quality",
-          "relevance_score": 9,
-          "original_publish_time": "2026-08-24T09:29:00+00:00",
-          "misaki_take": "GRS certification on components — not just finished goods — is the direction the EU's forthcoming Product Environmental Footprint framework is pushing the industry toward, and factories that secure component-level traceability now will have a structural advantage in brand RFQs within 18 months. Sourcing managers should be asking their insole suppliers for GRS chain-of-custody documentation today, not when it becomes a tender requirement."
-        },
-        {
-          "title": "Sole Food: ASICS Sneakers Go Hard. ASICS Clothes Go Harder",
-          "source_name": "Highsnobiety",
-          "source_url": "https://www.highsnobiety.com/p/asics-collabs-clothes/",
-          "category": "Retail",
-          "relevance_score": 8,
-          "original_publish_time": "2026-08-24T16:37:52+00:00",
-          "misaki_take": "ASICS is executing the same brand surface expansion playbook that New Balance ran between 2019 and 2022, and the operational implication is that apparel collab velocity will start pulling manufacturing bandwidth and wholesale attention away from footwear SKU depth. For sourcing teams at competing performance brands, this is a signal to reassess retailer shelf-space assumptions — ASICS now occupies more linear footage than a footwear brand alone."
-        },
-        {
-          "title": "Jordan Brand Brings the Air Jordan 3 Mid TD Cleat to the Gridiron in \"Metallic Silver\"",
-          "source_name": "Hypebeast",
-          "source_url": "https://hypebeast.com/2026/8/air-jordan-3-td-cleats-metallic-silver-fz8626-002-official-look-release-info",
-          "category": "Leather",
-          "relevance_score": 7,
-          "original_publish_time": "2026-08-30T06:20:50+00:00",
-          "misaki_take": ""
-        },
-        {
-          "title": "Jordan Brand Officially Debuts the Air Jordan 41",
-          "source_name": "Hypebeast",
-          "source_url": "https://hypebeast.com/2026/8/jordan-brand-debuts-air-jordan-41-ruby-hv6474-601-official-launch-release-info",
-          "category": "Leather",
-          "relevance_score": 7,
-          "original_publish_time": "2026-08-28T09:50:38+00:00",
-          "misaki_take": "A China-first limited drop on August 28 before the global rollout is a deliberate inventory sequencing decision that tests velocity and resale heat in the world's most price-sensitive performance basketball market before committing to full global production runs. The ZoomX midsole material specification on a hoop shoe also signals a meaningful BOM cost increase over the AJ40 — watch the retail price ceiling and the factory allocation split between Vietnam and China carefully."
-        },
-        {
-          "title": "Search4Fun Recognized as a Global Leading High Quality Shoes Manufacturer Driving Footwear Innovation - EIN News",
-          "source_name": "Google News - Footwear Industry",
-          "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPd0JnRzM2a2o3QXllZlJ1NTFzeHdkUjVZSktfNUJKWXVPODhndllwUXVmY0dtTkZTYmhGODBOcE91WjQ3by1qZTJSVThNeW1pTUFHNm9kNVN3b2Qxcno5c0FFN1JYYzRlYzMxdld5Ym5ZWkVoY2sydmwtNnFFaVpHMTVTN2xFSGhMUHVkNnpEN2dqR19RWTI4d3o4TW1EX1V1b0hOQTdBc1ctS1NudVFaSlB6U081b3NKZ1V1QVdwM2JHMmJyNnpGYkstUkZQdU56cHgwMEJMZTU0N2c?oc=5",
-          "category": "Quality",
-          "relevance_score": 6,
-          "original_publish_time": "2026-08-27T10:01:00+00:00",
-          "misaki_take": "Self-nominated industry recognition announcements via press release distribution are not a sourcing qualification signal, and brand procurement teams should treat EIN News placements of this type as marketing spend, not third-party validation. If the manufacturing quality claim is real, it shows up in audit scores, defect rates, and on-time delivery history — not in headline copy."
-        },
-        {
-          "title": "The Nike Vomero Premium Adds “Oreo” Soles",
-          "source_name": "Sneaker News",
-          "source_url": "https://sneakernews.com/2026/08/26/nike-vomero-premium-oreo-iu2827-001/",
-          "category": "Retail",
-          "relevance_score": 6,
-          "original_publish_time": "2026-08-26T20:00:25+00:00",
-          "misaki_take": ""
-        },
-        {
-          "title": "Chinese Footwear Brand Xtep Steps Up Running Tech With Aerospace Carbon Plate Technology",
-          "source_name": "Footwear News",
-          "source_url": "https://wwd.com/footwear-news/shoe-industry-news/xtep-running-tech-aerospace-carbon-plate-maye-musk-1239148686/",
-          "category": "Sustainability",
-          "relevance_score": 6,
-          "original_publish_time": "2026-08-25T14:13:10+00:00",
-          "misaki_take": ""
-        },
-        {
-          "title": "Vans Cuts the Premium SF Moc Low Into a Waffle-Soled Moccasin for Everyday Wear",
-          "source_name": "Hypebeast",
-          "source_url": "https://hypebeast.com/2026/8/vans-premium-sf-moc-low-light-brown-black-dark-brown-vn000z3xicx-vn000z3xbka-vn000z3xdrb-release-info",
-          "category": "Brand News",
-          "relevance_score": 6,
-          "original_publish_time": "2026-08-25T10:42:03+00:00",
-          "misaki_take": "At $100 USD, the SF Moc Low is Vans defending its upper-casual price tier against the proliferation of $80–$95 moccasin silhouettes from New Balance and emerging DTC players — the waffle outsole is brand equity working as a functional differentiator rather than a design novelty. The three-colorway simultaneous launch with no announced production limit suggests this is a core catalog build, not a limited drop, which means factory allocation and materials planning are already locked for at least two seasons."
-        },
-        {
-          "title": "Marmot and KEEN Build Their First Collaboration on the Waterproof Targhee EXP WP Hiking Boot",
-          "source_name": "Hypebeast",
-          "source_url": "https://hypebeast.com/2026/8/marmot-keen-targhee-exp-wp-black-red-1032965-release-info",
-          "category": "Brand News",
-          "relevance_score": 6,
-          "original_publish_time": "2026-08-25T10:42:03+00:00",
-          "misaki_take": "KEEN using the Targhee EXP WP as a collab foundation rather than a new last is a capital-efficient brand-extension strategy — the waterproofing system, outsole tooling, and fit are already validated, so the partnership's value is purely in co-branded distribution reach and apparel-to-footwear cross-sell. At ¥24,200 JPY with a Japan-market anchor, the pricing tells me this first drop is a limited test of channel compatibility before any decision to scale into KEEN's broader wholesale network."
         }
       ]
     }
