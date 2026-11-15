@@ -1,8 +1,69 @@
 {
-  "last_updated": "2026-11-15T12:30:03.889232+00:00",
-  "total_articles": 105,
+  "last_updated": "2026-11-15T17:45:39.652863+00:00",
+  "total_articles": 107,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "039c00497e6c",
+      "title": "Carhartt Nike Goadome, One Block Down Air Max 95, And This Week’s Best Releases",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/11/15/sneaker-releases-november-15-november-21-2026/",
+      "original_publish_time": "2026-11-15T17:00:40+00:00",
+      "scraped_time": "2026-11-15T17:34:56.079700+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 3,
+      "summary": "It’s a big collab week, particularly when it comes to Beaverton. In an increasingly competitive race for “Boot of the Year,” Carhartt WIP might just... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Carhartt Nike Goadome, One Block Down Air Max 95, And This Week's Best Releases appeared first on Sneaker News . The post Carhartt Nike Goadome, One Block Down Air Max 95, And This Week’s Best Releases appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "c4e986853bb8",
+      "title": "A’ja Wilson Is Dropping Nike Collaboration With Playa Society During The South Carolina/USC Game",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/11/15/nike-a-two-her-playa-society/",
+      "original_publish_time": "2026-11-15T16:44:31+00:00",
+      "scraped_time": "2026-11-15T17:34:56.082454+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "A’ja Wilson is adding another milestone to her growing Nike signature footwear franchise, teaming up with Playa Society founder Esther Wallace for her first collaborative... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post A'ja Wilson Is Dropping Nike Collaboration With Playa Society During The South Carolina/USC Game appeared first on Sneaker News . The post A’ja Wilson Is Dropping Nike Collaboration With Playa Society During The South Carolina/USC Game appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "10f7a4e9ce41",
+      "title": "Bangladesh leather exports rise 12.47%, with CETP and LWG certification key to further growth",
+      "source_name": "Textile Today",
+      "source_domain": "textiletoday.com.bd",
+      "source_url": "https://textiletoday.com.bd/bangladesh-leather-exports-rise-1247-with-cetp-and-lwg-certification-key-to-further-growth",
+      "original_publish_time": "2026-11-15T14:21:00+00:00",
+      "scraped_time": "2026-11-15T17:38:38.560064+00:00",
+      "time_delta_mins": 0,
+      "category": "Quality",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "leather exports"
+      ],
+      "relevance_score": 3,
+      "summary": "Bangladesh aims to reach $5 billion in annual leather export earnings by 2030, according to the Ministry of Commerce. To hit this target, the government is accelerating environmental compliance, infra...",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "f56f6b510989",
       "title": "Nike Air Force 1 Low “Iridescent Wolf Grey” Shimmers With Blue and Lavender Hues",
@@ -2159,27 +2220,6 @@
       ],
       "relevance_score": 6,
       "summary": "European retailer Solebox adds some texture to the street style staple boot.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "27c1523b5028",
-      "title": "Nike’s Luxe New Air Max 95 Big Bubble Collaboration Is a Love Letter to Italy",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/one-block-down-nike-air-max-95-og-big-bubble-lux-italy-1239406353/",
-      "original_publish_time": "2026-11-08T16:42:09+00:00",
-      "scraped_time": "2026-11-08T16:55:42.695701+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "Italian retailer One Block Down serves up a premium set of retro Air Max sneakers.",
       "ren_take": "",
       "image_url": ""
     }
