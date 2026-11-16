@@ -1,8 +1,93 @@
 {
-  "last_updated": "2026-11-15T21:47:13.415726+00:00",
-  "total_articles": 105,
-  "sources_checked": 76,
+  "last_updated": "2026-11-16T02:49:14.599425+00:00",
+  "total_articles": 109,
+  "sources_checked": 60,
   "articles": [
+    {
+      "id": "4df18101280c",
+      "title": "Drake and Nike NOCTA's New Air Modmax Has an Official Release Date",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/11/nocta-nike-air-modmax-pink-spell-iq6711-600-official-release-date",
+      "original_publish_time": "2026-11-16T01:34:34+00:00",
+      "scraped_time": "2026-11-16T02:37:33.853436+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "footwear",
+        "sole",
+        "upper"
+      ],
+      "relevance_score": 5,
+      "summary": "Summary Drake and Nike's NOCTA sub-label have officially unveiled the Air Modmax sneaker featuring a brand new proprietary cushioning technologyThe anatomically designed silhouette pairs a quilted soccer-inspired upper with a complex sole unit pressurized to optimize stability and absorptionReleasing alongside a range of Cardinal Stock apparel, the footwear drops on November 16 via NOCTA and November 17 via Nike SNKRS for 160 USD Name: NOCTA x Nike Air Modmax \"Pink Spell\"Colorway: Pink Spell/Volt/Amarillo/Cobalt TintSKU: IQ6711-600MSRP: $180 USDRelease Date: November 16, November 17Where to Buy: NOCTA, NikeExpanding their collaborative footwear lineage, Drake and Nike's NOCTA sub-label have officially unveiled the NOCTA x Nike Air Modmax. First shared by NOCTA's Matte Babel, the brand new ",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "2740ea043e04",
+      "title": "The New Balance 1906U Braces For Winter With Cordura Uppers",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/11/15/new-balance-1906u-cordura-grey-black/",
+      "original_publish_time": "2026-11-15T23:00:08+00:00",
+      "scraped_time": "2026-11-16T02:37:34.071644+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "New Balance"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 5,
+      "summary": "While maybe overshadowed by the many newer models that have come out since, the New Balance 1906 family remains a key part of the brand’s... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The New Balance 1906U Braces For Winter With Cordura Uppers appeared first on Sneaker News . The post The New Balance 1906U Braces For Winter With Cordura Uppers appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "ae3be6283ead",
+      "title": "Devin Booker Debuts The Nike Book 3 “Twilight”",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/11/15/nike-book-3/",
+      "original_publish_time": "2026-11-15T22:11:12+00:00",
+      "scraped_time": "2026-11-16T02:37:34.073260+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Devin Booker is officially turning the page to the next chapter of his Nike signature footwear franchise. The Phoenix Suns star has debuted the Nike... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Devin Booker Debuts The Nike Book 3 \"Twilight\" appeared first on Sneaker News . The post Devin Booker Debuts The Nike Book 3 “Twilight” appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "426c0d1863ac",
+      "title": "US Leads Demand as Indonesia's Leather and Footwear Exports Hit $7.22 Billion - Jakarta Globe",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPR2xoYTZzUFplLXI0QVJZVURJa09qYmZwc0VMU1AtUmxNNjhXN2x4T2IyUUNpV2VEaXYxb0RzUlo3T1h1MnV3bnhTcmFwV3ZVWGM3V0xsbnBEUGxWNFByTk5sRGdpdGJmRnNNTC1ZQ0U5YmpuUTRBb09YclNUNmpteHAzUk51dFhRcEV5WXY4V3htSmhfSWdVZWI3SkJaWmtUOU5CM3V3ZGVfdU0?oc=5",
+      "original_publish_time": "2026-11-15T21:40:00+00:00",
+      "scraped_time": "2026-11-16T02:37:44.904529+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "footwear exports"
+      ],
+      "relevance_score": 6,
+      "summary": "US Leads Demand as Indonesia's Leather and Footwear Exports Hit $7.22 Billion Jakarta Globe",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "189daf00929c",
       "title": "Nike’s Swooshless Running Shoe Comes With a Sweet Bubblegum Boost",
