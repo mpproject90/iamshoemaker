@@ -1,8 +1,90 @@
 {
-  "last_updated": "2026-11-16T21:00:50.242546+00:00",
-  "total_articles": 108,
-  "sources_checked": 60,
+  "last_updated": "2026-11-17T00:50:02.598581+00:00",
+  "total_articles": 109,
+  "sources_checked": 64,
   "articles": [
+    {
+      "id": "323d2f965759",
+      "title": "Analyst: TikTok Engagement Data Says Brand Heat Is Robust for Salomon, Arct’eryx",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/third-quarter-earnings-arcteryx-salomon-growth-amer-sports-1239419677/",
+      "original_publish_time": "2026-11-16T23:01:50+00:00",
+      "scraped_time": "2026-11-17T00:37:55.454171+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Salomon"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "Wall Street's third quarter earnings projections suggest that Arc'teryx and Salomon are in a one-two position to lead growth gains.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "911ca17e5bc0",
+      "title": "Nike Channels Don C With Quilted Uppers On The Air Force 1",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/11/16/nike-air-force-1-low-quilted-black/",
+      "original_publish_time": "2026-11-16T23:00:35+00:00",
+      "scraped_time": "2026-11-17T00:38:06.169124+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 5,
+      "summary": "The relationship Nike has with its collaborators is a true creative ecosystem, Nike’s own creations influencing special projects by outside actors and, on occasion, the... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike Channels Don C With Quilted Uppers On The Air Force 1 appeared first on Sneaker News . The post Nike Channels Don C With Quilted Uppers On The Air Force 1 appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "61723c097c1f",
+      "title": "Jordan’s Sporty-Casual Sneaker Belongs in the Skate Park",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/jordan-strada-sneakers/",
+      "original_publish_time": "2026-11-16T22:38:36+00:00",
+      "scraped_time": "2026-11-17T00:41:44.933058+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "The new Jordan Strada is a skate shoe dressed in casual clothes, complete with Nike Air tech & stylish colorways.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "385332dc1cc2",
+      "title": "The Nike KD 19 Keeps Exploring Graphic Uppers In “Lagoon Pulse”",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/11/16/nike-kd-19-lagoon-pulse-ja0780-100/",
+      "original_publish_time": "2026-11-16T22:00:31+00:00",
+      "scraped_time": "2026-11-17T00:38:06.170341+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Converse"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 6,
+      "summary": "The Nike KD 19 has followed a path not unlike that of the Converse SHAI 001: roll out in simple monotone colorways, then slowly fold... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Nike KD 19 Keeps Exploring Graphic Uppers In \"Lagoon Pulse\" appeared first on Sneaker News . The post The Nike KD 19 Keeps Exploring Graphic Uppers In “Lagoon Pulse” appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "996da44e6a37",
       "title": "Vans UGG-ified Its Skate-able Boat Shoes",
@@ -126,6 +208,47 @@
       ],
       "relevance_score": 4,
       "summary": "On the eve of its 65th anniversary year, Sorel is heading into Fall/Winter 2026 with its “Age of Discovery” collection, a lineup that merges the brand’s heritage with new innovation. At its center are three new men’s styles: the Callsign Enigma GTX sneaker, the Daystorm Horizon Zip GTX boot and the Caribou Horizon Zip GTX boot. Each one pairs arctic-grade performance with a sharper, street-ready attitude.The Callsign Enigma GTX blends street style with outdoor grit. A waterproof GORE-TEX® textile upper is finished with a leather mudguard and a gusseted rubberized zip shroud. Speed laces with a cord-lock and SOREL-branded aglets handle the closure, and reflective SOREL branding runs along both quarters. Underfoot, a lightweight molded LIVELYFOAM midsole and a removable Ortholite footbed sit",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "a9715c5fd125",
+      "title": "Wolverine Worldwide's Saucony Named Brand of the Year by Footwear News – Company Announcement - Financial Times",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQXJMRjMxZDRPQ3A5ZmJFUy15bjc2ZExibkJFQThFdGRtZ29nZjFZVUZIYVJlcTh2UlZDc0lmZXctay1jNjdxcUdzMHB3LTZDUURlTDFKYTFOY3doQUw5dWR4NXhad3VfU0ZHZ0x6eFNaY1lmTGFZQ2dtb0o2cnZwbGVYTlh2a3FDT3JBMDhvY2F0MHpVLXJkWDN0a1U2djVtNURoekVR?oc=5",
+      "original_publish_time": "2026-11-16T17:00:00+00:00",
+      "scraped_time": "2026-11-17T00:38:16.787065+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Wolverine",
+        "Wolverine Worldwide"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 7,
+      "summary": "Wolverine Worldwide's Saucony Named Brand of the Year by Footwear News – Company Announcement Financial Times",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "fe19c3b1dbe6",
+      "title": "STOKE Shoes Offers the Right Fit - New Hampshire Magazine",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNR0NIMGpIaGc0cmpXZGt0dS0zbTExQzVmVU1xUG1vOHhTd2hVUkN1TVdSZDBRVUJoWmR0R20xdkU2RzVReGpvMzVjZzhWQnpoNGs5THJ6OVdQU1A0WFBMT19lTmFURmhXNDlCNQ?oc=5",
+      "original_publish_time": "2026-11-16T16:25:53+00:00",
+      "scraped_time": "2026-11-17T00:38:16.784826+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "STOKE Shoes Offers the Right Fit New Hampshire Magazine",
       "ren_take": "",
       "image_url": ""
     },
@@ -2139,111 +2262,6 @@
       ],
       "relevance_score": 3,
       "summary": "Name: Tekken x Nike .SWOOSH Air Max 1SKU: IW1290-001Release Date: Holiday 2026Tekken and Nike are reuniting, this time on the Air Max 1, with Nike’s .SWOOSH division revealing the project through a short teaser on Instagram. The clip stars King, Tekken’s jaguar-masked luchador, relaxing at an outdoor café on what appears to be Nike’s world headquarters in Beaverton, Oregon.Seated among white mesh chairs beside a pond, he wears a custom Nike Tech Fleece tracksuit in bright royal blue with spotted animal-print panels down the front and sides, a nod to his outfit in Tekken 3. When King realizes he’s being filmed and turns toward the camera, the shot cuts to leaves floating on the water, followed by the .SWOOSH logo and Tekken copyright text.The sneakers appear only briefly, but they clearly m",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "4e60eaaf7c0f",
-      "title": "How La Canadienne Continues to Evolve as It Preps to Mark the 40-Year Milestone",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/la-canadienne-cold-weather-boots-loafers-pumps-sandals-mens-1239396401/",
-      "original_publish_time": "2026-11-09T22:46:04+00:00",
-      "scraped_time": "2026-11-10T00:31:41.520505+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "boot",
-        "sandal",
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "The weatherproof lifestyle brand expanded beyond women's cold weather boots to include loafers, pumps, sneakers and sandals, and men's.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "faada1a04f48",
-      "title": "Vans' Slip-on Is Even Cooler as a Puffer Snow Boot",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/vans-mid-slip-puff-shoe/",
-      "original_publish_time": "2026-11-09T22:17:24+00:00",
-      "scraped_time": "2026-11-10T00:35:33.380358+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Vans"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 5,
-      "summary": "Vans releases a Mid-Slip Puff shoe, a padded winter model based on the classic Slip-On skate shoe.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "4fbcc16b54fe",
-      "title": "The Jordan Tatum 5 Packs A Punch In “Fierce Pink”",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/11/09/jordan-tatum-5-fierce-pink-neo-pink-pink-pow-io1746-600/",
-      "original_publish_time": "2026-11-09T22:00:48+00:00",
-      "scraped_time": "2026-11-10T00:31:52.284450+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Jordan"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "This year’s FIFA World Cup was a prime example. Bright monotone footwear is what stands out the most on TV, and that’s not at all... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Jordan Tatum 5 Packs A Punch In \"Fierce Pink\" appeared first on Sneaker News . The post The Jordan Tatum 5 Packs A Punch In “Fierce Pink” appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "1c6002102666",
-      "title": "The Children’s Place Stores Could Soon Go Dark, but Parents Still Have Time to Get Deals on Kids’ Shoes",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/childrens-place-bankruptcy-liquidation-sales-1239407625/",
-      "original_publish_time": "2026-11-09T21:38:36+00:00",
-      "scraped_time": "2026-11-10T00:31:41.522613+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "The bankruptcy filing of The Children's Place on Sunday leaves one less retailer for parents on the hunt for affordable shoe prices for their kids.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "5e5fd50872ba",
-      "title": "adidas’ Cute “UGG” Boots Were Skate Shoes in Their Past Life",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/adidas-campus-00s-winter/",
-      "original_publish_time": "2026-11-09T21:12:49+00:00",
-      "scraped_time": "2026-11-09T21:22:01.319067+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Adidas",
-        "UGG"
-      ],
-      "keywords_matched": [
-        "boot",
-        "shoes"
-      ],
-      "relevance_score": 10,
-      "summary": "adidas releases new Campus 00s Winter boots, which have even more UGG flavor than the last. Here's everything on the cozy-cute drop.",
       "ren_take": "",
       "image_url": ""
     }
