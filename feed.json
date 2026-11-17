@@ -1,8 +1,90 @@
 {
-  "last_updated": "2026-11-17T14:05:40.627122+00:00",
-  "total_articles": 111,
-  "sources_checked": 54,
+  "last_updated": "2026-11-17T19:49:26.436008+00:00",
+  "total_articles": 108,
+  "sources_checked": 60,
   "articles": [
+    {
+      "id": "11714ed87794",
+      "title": "Nike Announces Cricket Footwear To Come Ahead Of The 2028 Olympics",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/11/17/nike-to-launch-cricket-footwear-ahead-of-2028-olympics/",
+      "original_publish_time": "2026-11-17T18:50:05+00:00",
+      "scraped_time": "2026-11-17T19:38:50.791314+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 5,
+      "summary": "Nike’s Investor Day, beyond new product showcases and some of the “red meat” for the consumer, is of course focusing on the brand’s new “localized”... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike Announces Cricket Footwear To Come Ahead Of The 2028 Olympics appeared first on Sneaker News . The post Nike Announces Cricket Footwear To Come Ahead Of The 2028 Olympics appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "7da1a0b76c05",
+      "title": "Industrial dos Carvalhinhos strengthens its technological innovation to meet the European footwear industry's evolving demands - FashionNetwork France",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOdXBVXzY3WGZuLVI5azF2WFFsUkkwazBoVGMyMWlIQUhGSXhEdUFVckRoa3FoRTNZWmN3SnJfOEcxZnljMFJWQ3ZPSWV4cVdZWHBTMEN4SFZiSlVWeGRJOGhLV2JyUUphOXhMUlpOOWp3c3ZpTl9nQjJfOU9vQ2w4WFo5Q25jMEFXQVB5OXNSN19EMGlQWUNERDRHTTFDSmVFU0dIdXVYWFEzNl9tbmctVmNfTUtyaTdVUldJcS1TT29CXzhUbnpqVTltbHZNTEtQOVVPOG9sdG5BcGN0bWpkZ0dYZE1WajN4TU1PNzdtV1lENGYwQ0I3YTdRSzVkMnhUSjFXcg?oc=5",
+      "original_publish_time": "2026-11-17T18:15:05+00:00",
+      "scraped_time": "2026-11-17T19:39:01.510008+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "footwear industry"
+      ],
+      "relevance_score": 6,
+      "summary": "Industrial dos Carvalhinhos strengthens its technological innovation to meet the European footwear industry's evolving demands FashionNetwork France",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "c9ce4215e9c3",
+      "title": "Nike Promises To Cut Their Sportswear Footwear Lineup By Half At Investor Day",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/11/17/nike-to-simplify-sportswear-catalog-by-half/",
+      "original_publish_time": "2026-11-17T18:07:47+00:00",
+      "scraped_time": "2026-11-17T19:38:50.794289+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 5,
+      "summary": "In case the deluge of news regarding the future of the Nike Mind franchise, the return of Nike Free, or updates to the Air Max... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike Promises To Cut Their Sportswear Footwear Lineup By Half At Investor Day appeared first on Sneaker News . The post Nike Promises To Cut Their Sportswear Footwear Lineup By Half At Investor Day appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "1bf86cc30119",
+      "title": "Nike’s Quilted Leather Air Force 1 Channels a Classic Air Jordan Collab",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-air-force-1-low-quilted-release-date-1239420661/",
+      "original_publish_time": "2026-11-17T17:39:02+00:00",
+      "scraped_time": "2026-11-17T19:38:40.030967+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "Three colorways are coming, including \"Triple White\" and \"Triple Black.\"",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "2ac93e3807a9",
       "title": "Gigi Hadid’s Guest in Residence Reunites With Moon Boot on Cozy Knit Footwear Capsule",
@@ -43,6 +125,25 @@
       ],
       "relevance_score": 5,
       "summary": "Summary Nike and Phoenix Suns guard Devin Booker have officially introduced the Nike Book 3 basketball sneakerThe new silhouette pairs a predominantly mesh upper with a forefoot Zoom Strobel and Cushlon 3.0 midsoleThe Book 3 and its accompanying apparel collection are set to release globally in Spring 2027 Nike and Devin Booker have officially introduced the Nike Book 3, marking the next evolution in the athlete's signature basketball franchise. Unveiled as part of the brand's World of Athletes showcase, the new silhouette continues to operate at the intersection of responsive on-court performance and timeless, everyday style.Created for players who prioritize freedom of movement and a low-to-the-ground court feel, the Nike Book 3 perfectly balances an athlete-curated performance system wi",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "156df105a883",
+      "title": "WATCH Boots introduces black Advantage Card in social competition",
+      "source_name": "Retail Gazette",
+      "source_domain": "retailgazette.co.uk",
+      "source_url": "https://www.retailgazette.co.uk/blog/2026/11/watch-boots-introduces-black-advantage-card-in-social-competition/",
+      "original_publish_time": "2026-11-17T09:02:21+00:00",
+      "scraped_time": "2026-11-17T19:41:46.626840+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 3,
+      "summary": "Boots is giving away £20,000 in Advantage Card points in aid of Black Friday, and shoppers have the chance to get their hands on £1,000 each. Following consumers reaction to its exclusive Advantage Card Black Cards, Boots is giving even more shoppers the chance to get their hands on £1,000 worth of points this Black...",
       "ren_take": "",
       "image_url": ""
     },
@@ -2144,169 +2245,6 @@
       "keywords_matched": [],
       "relevance_score": 4,
       "summary": "Converse’s Classiest Sneaker Gets a Rugged New Look Gear Patrol",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "9bbf277fb73b",
-      "title": "Tyler, the Creator and Converse Introduce Bronco Boot Low, Release New Versions of the Pro Leather and Jogger",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/tyler-the-creator-converse-bronco-boot-low-release-date-1239409513/",
-      "original_publish_time": "2026-11-10T19:38:18+00:00",
-      "scraped_time": "2026-11-10T22:07:37.313900+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Converse"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 5,
-      "summary": "The newest shoe offering from the duo launches on Nov. 12.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "34f8533ba60b",
-      "title": "Punjab signs skill development pacts for automotive, footwear and fashion sectors - The Times of India",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOUTNwcFJ0RG91dWdvRjBrN1JWOEVLU2R3MHd0RkNpY2pTd21UTENtRE42YVFxb3I5OGEtdmN6S2gxUk44U2ZNaV9MMFlIOWNoX0V4aWs0T1JSTVdhX3VrMTFQMHRQVl85UDNRdkJlck9qNkc1TkFXZ2xMWDlKalZreXJObzhMSFJJZFNHSmRjd1c4NDNqUkxQdXJqcU5MNU5GUGxnc3Z5Q2N3cVlhbFRCZHBOVTJmSnN2cm5td1VVRzdwWXRheDNwUHA3eWkxczJyRTlGd0trR2JiV0RiMHVITjR4Y09oQXl6cWtmZG9rQdIB9AFBVV95cUxNdkdpY3FNRkJzaTItQUZFVHd5cTRBUmcxMThoT3B6Y2hYY2hrZWJUemtGTG5fQjNKalhMb25TUzNJWHVvZUdpMmxlbkVrMVpQM180RDRsYnVhTl9LQWpkODVTVjNyeDhUWk9mVGhNVGFSa0RRVHJIVWpDQ2w0V1o0Q1VWdWV2UzY2cThlYjNXUW56UUg1ek8xTDhqQWJXbnlpWVpoSk1GbzJ3ZEhWT3lzdGVaY3NSZnRJVFpYLWw2bXlHX255N01CbnFHUWdITG9KYUFsVUZLS01LS3dxSFdPVUhkNkdROU5uNzFILTR5eG96SGpa?oc=5",
-      "original_publish_time": "2026-11-10T19:08:00+00:00",
-      "scraped_time": "2026-11-10T22:07:58.354181+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Punjab signs skill development pacts for automotive, footwear and fashion sectors The Times of India",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "41a591b4e340",
-      "title": "This Footwear Designer Cooked Up A Footscape Woven Wallabee Hybrid",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/11/10/josh-brubaker-f6796-footscape-woven-clarks-wallabee/",
-      "original_publish_time": "2026-11-10T17:00:45+00:00",
-      "scraped_time": "2026-11-10T18:29:51.622828+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "shoes"
-      ],
-      "relevance_score": 4,
-      "summary": "Josh Brubaker just made one of 2026’s dopest hybrid shoes. The independent footwear designer recently showed off a new model called the F-6796, co-opting the... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post This Footwear Designer Cooked Up A Footscape Woven Wallabee Hybrid appeared first on Sneaker News . The post This Footwear Designer Cooked Up A Footscape Woven Wallabee Hybrid appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "2b2e70c9795f",
-      "title": "Timberland’s Beloved Field Boot Is Getting a New Limited-Edition Collaboration With Supreme",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/supreme-timberland-bandana-field-boot-release-date-1239409069/",
-      "original_publish_time": "2026-11-10T16:58:50+00:00",
-      "scraped_time": "2026-11-10T18:29:40.957382+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Timberland"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 5,
-      "summary": "The Supreme x Timberland Bandana Field Boot will be released this week in three colorways.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "659151b99fc9",
-      "title": "Nike’s Biggest Struggle Isn’t an Innovation Crisis, It’s an Overuse of Nostalgia",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/nikes-struggles-innovation-nostalgia-1239403651/",
-      "original_publish_time": "2026-11-10T16:23:05+00:00",
-      "scraped_time": "2026-11-10T18:29:40.959199+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 4,
-      "summary": "Nike built its once-burgeoning sportswear business on nostalgia. But when does too much of a good thing become a detriment?",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "79ad52a09263",
-      "title": "Argentina’s Terrible Enfant takes its luxury footwear to Brazilian market - Valor International",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNHY5bFBLZy1zdXU0RUtRdEFCV2dpVklTTzdldGc1TklCcFZ0UkcxSGlHalNkVGZKRFZENGpWWVlIZFdreFZqRFk1cVVEdk0ybHRjWW4xY19lSUp5RUZHOTFKUnlEZWxRU1lCRjFSdHRoaWhLZG15aWNvS3dpLUVDcTU2RE5GSHNQcHBSUHBfelAtRERHMDFzRGx1ejNzeEwwLTVWbjJVcVp5VTd3Sm9GOHZQNFZXM0RGaFVkaFJhNzZ0TVg3ZE1KRWp2UnN4THRUc21QZmx2QdIB5gFBVV95cUxPZnVkaXZWaGFLWnpBSE8tUDZFNTg2OV9tcEJpNlJnRTl1RUljUy1HbkowM0tTY1hycXRGM1FXamxoR0EybUZHcElFeGJoVVJFOHp1Qk5hQlU2UnJVajluZ094Mzk2bUxHalpTRG1aZEczbGdFazBDMzRKbWFrNUpDRGs4ZGl3MVlxRnVXYkhWUk9mMGFvaDNnamx1ZzNwc2ZFbnlfeTJMWWx1b2ZyY1B0dGNGekpaX3haUVExQXNaNmZoUkYzcnJzY1BVc0xRVlJwbWxNVjltUkRFYjZpSUZldkxZRWg5UQ?oc=5",
-      "original_publish_time": "2026-11-10T16:07:33+00:00",
-      "scraped_time": "2026-11-10T18:30:02.221070+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Argentina’s Terrible Enfant takes its luxury footwear to Brazilian market Valor International",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "5852bb1cf7c4",
-      "title": "Supreme Wraps The Timberland Field Boot In Bandana Prints",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/11/10/supreme-timberland-field-boot-bandana/",
-      "original_publish_time": "2026-11-10T15:30:20+00:00",
-      "scraped_time": "2026-11-10T18:29:51.625255+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Timberland"
-      ],
-      "keywords_matched": [
-        "boot",
-        "footwear",
-        "footwear industry"
-      ],
-      "relevance_score": 7,
-      "summary": "Supreme and Timberland own one of the most natural collaborative relationships in the entire footwear industry, two titans of New York City streetwear in their... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Supreme Wraps The Timberland Field Boot In Bandana Prints appeared first on Sneaker News . The post Supreme Wraps The Timberland Field Boot In Bandana Prints appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "ec60b0f9fcc8",
-      "title": "Tyler, The Creator Introduces the Bronco Boot Low, His Converse Workwear Boot Gone Low-Top",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/11/tyler-the-creator-converse-bronco-boot-low-new-pro-leather-jogger-collaboration-collection-release-info",
-      "original_publish_time": "2026-11-10T15:00:43+00:00",
-      "scraped_time": "2026-11-10T18:29:51.488653+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Converse"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 5,
-      "summary": "Name: Tyler, The Creator x Converse Bronco Boot Low, Tyler The Creator x Converse Pro Leather, Tyler The Creator x Converse JoggerColorway: Cocoa Brown, New Wheat, Eden, Black (Bronco Boot Low), Tendril, Quarry (Pro Leather), High Risk Red, Golden Haze (Jogger)SKU: TBCMSRP: TBCRelease Date: November 12Where to Buy: Converse, GOLF le FLEUR*Converse and Tyler, The Creator have unveiled the next chapter of their 1908 collection, led by the new Bronco Boot Low and backed by fresh suede takes on the Pro Leather and Jogger. Each of the three silhouettes pulls from a different corner of the Converse archive, but the common thread is material, with suede showing up across every pair in the drop.The Bronco Boot Low cuts the 1908 Bronco Boot that Tyler introduced last year down to a low-top height w",
       "ren_take": "",
       "image_url": ""
     }
