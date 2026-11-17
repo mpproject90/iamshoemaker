@@ -1,8 +1,94 @@
 {
-  "last_updated": "2026-11-17T00:50:02.598581+00:00",
-  "total_articles": 109,
-  "sources_checked": 64,
+  "last_updated": "2026-11-17T05:10:31.565715+00:00",
+  "total_articles": 112,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "d8b5110dac73",
+      "title": "BEAMS and adidas Unveil a Collaborative Loafer and Apparel Pack for Retailer's 50th Anniversary",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/11/beams-50th-anniversary-adidas-loafer-apparel-pack-collaboration-release-info",
+      "original_publish_time": "2026-11-17T04:12:15+00:00",
+      "scraped_time": "2026-11-17T04:59:10.358559+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "footwear",
+        "sole"
+      ],
+      "relevance_score": 4,
+      "summary": "Summary BEAMS and adidas Originals have teamed up to release a new loafer pack as part of the Japanese retailer's 50th-anniversary collectionThe collaborative footwear arrives in \"Preppy\" and \"Yankee\" styles featuring tassels, Three Stripes branding, and a chunky lug soleThe collection opens for presale on November 20 before a wider release on November 21 via BEAMS BEAMS and adidas Originals have officially joined forces to celebrate the Japanese retailer's 50th anniversary with a collaborative Loafer Pack. Anchoring a broader 14-piece assortment of apparel and accessories, the brand-new footwear silhouettes explore two distinct cultural styles dubbed \"Preppy\" and \"Yankee.\"Built around an entirely new design separate from the existing Handball Spezial Loafer, the silhouette rests on a chun",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "291ea7843efc",
+      "title": "Bangladesh footwear exports rise 9.37% to $457m in four months",
+      "source_name": "Textile Today",
+      "source_domain": "textiletoday.com.bd",
+      "source_url": "https://textiletoday.com.bd/bangladesh-footwear-exports-rise-937-to-457m-in-four-months",
+      "original_publish_time": "2026-11-17T03:49:00+00:00",
+      "scraped_time": "2026-11-17T05:03:05.541625+00:00",
+      "time_delta_mins": 0,
+      "category": "Trade Data",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "footwear exports"
+      ],
+      "relevance_score": 6,
+      "summary": "Bangladesh earned $457.01 million from footwear exports during July–October of FY2026-27. This marks a 9.37% year-on-year increase from $417.85 million, according to Export Promotion Bureau (EPB) data...",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "42909529a184",
+      "title": "Social Status and Jordan Brand Reimagine the Air Jordan 1 Low OG With Sashiko Fabric",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/11/social-status-air-jordan-1-low-og-sashiko-iu4982-600-first-look-release-info",
+      "original_publish_time": "2026-11-17T03:40:28+00:00",
+      "scraped_time": "2026-11-17T04:59:10.363313+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Jordan"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Summary The Whitaker Group's Social Status has partnered with Jordan Brand for a new take on the Air Jordan 1 Low OGThe Chicago-blocked sneaker features distressed red leather overlays alongside blue Sashiko-style mid-panelsThe collaborative footwear is scheduled to release in December 2026 packaged in a matching custom shoebox Name: Social Status x Air Jordan 1 Low OG \"Sashiko\"Colorway: Varsity Red/Sail-Game Royal-BlackSKU: IU4982-600MSRP: $155 USDRelease Date: December 2026Where to Buy: Social StatusSocial Status and Jordan Brand are joining forces to close out the year with a heavily detailed footwear collaboration, officially introducing the Social Status x Air Jordan 1 Low OG \"Sashiko.\" Slated to drop this coming December, the new release from The Whitaker Group’s retail imprint reima",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "0b9580fd3ecc",
+      "title": "Atlantic Drift and New Balance Unveil the Numeric Tom Knox 600",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/11/atlantic-drift-new-balance-numeric-tom-knox-600-black-team-teal-un600atc-release-info",
+      "original_publish_time": "2026-11-17T03:15:41+00:00",
+      "scraped_time": "2026-11-17T04:59:10.364646+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "New Balance"
+      ],
+      "keywords_matched": [
+        "outsole",
+        "sole",
+        "upper"
+      ],
+      "relevance_score": 5,
+      "summary": "Summary London skater Tom Knox and Atlantic Drift have teamed up with New Balance to release a collaborative take on the Numeric 600The marine-inspired sneaker features a liquid-filled tongue badge encasing floating jellyfish alongside translucent outsole graphicsBuilt with FuelCell foam cushioning and a full-grain leather upper, the shoe is currently available at select retailers with a wider release dropping Monday Name: Atlantic Drift x New Balance Numeric Tom Knox 600Colorway: Black/Team TealSKU: UN600ATCMSRP: $110 USDRelease Date: Available NowWhere to Buy: New BalanceNew Balance and Atlantic Drift have officially teamed up to release a collaborative iteration of the Numeric Tom Knox 600. Serving as a full-circle moment for the celebrated English skater, the new drop honors Knox's dee",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "323d2f965759",
       "title": "Analyst: TikTok Engagement Data Says Brand Heat Is Robust for Salomon, Arct’eryx",
@@ -82,6 +168,28 @@
       ],
       "relevance_score": 6,
       "summary": "The Nike KD 19 has followed a path not unlike that of the Converse SHAI 001: roll out in simple monotone colorways, then slowly fold... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Nike KD 19 Keeps Exploring Graphic Uppers In \"Lagoon Pulse\" appeared first on Sneaker News . The post The Nike KD 19 Keeps Exploring Graphic Uppers In “Lagoon Pulse” appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "d84707426717",
+      "title": "Wolverine Worldwide’s Saucony Named Brand of the Year by Footwear News - Shop Eat Surf Outdoor",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQckk4alBnTmYwOE9XeFVoUURlcXAwdzFFU3FDa1hvSFBMSFpyTTg1RVhZZ25sWUpaZmNQQVNtV1o5RmFzbnhSekVxem9OQU5paElOUnBWenhOSDFhNWZ2cThQeGZhVXpja3FGcXdpSHhReTFKaFpqSDJWdTRJVUhNaTl3SElPbC1HdjBFSmJFMWJycXZCNjU0S1l3dzJ6cEkwR0swamZsakRJajVtSXFreEZ4LWF3MFFuR200NHZYaFphcXhR?oc=5",
+      "original_publish_time": "2026-11-16T20:36:31+00:00",
+      "scraped_time": "2026-11-17T04:59:21.195221+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Wolverine",
+        "Wolverine Worldwide"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 7,
+      "summary": "Wolverine Worldwide’s Saucony Named Brand of the Year by Footwear News Shop Eat Surf Outdoor",
       "ren_take": "",
       "image_url": ""
     },
@@ -2222,46 +2330,6 @@
       ],
       "relevance_score": 5,
       "summary": "ASICS WORKING, the ASICS line utilizing technology cultivated in sports shoe development for professionals in construction, manufacturing, transportation, and other demanding fields, has collaborated with FreshService to release the WINJOB CP229 BOA working shoe.The base for this collaborative model is the WINJOB CP229 BOA from ASICS WORKING, a shoe designed for lightness, durability, and comfort. The midsole features FLYTEFOAM, which is lightweight and offers excellent cushioning, while the toe box is equipped with a lightweight glass fiber-reinforced resin toe cap. Furthermore, the oil- and wear-resistant CP grip sole delivers outstanding traction. The upper combines highly durable mesh and artificial leather, and features the BOA Fit System, allowing users to adjust the fit even while w",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "854112703cb5",
-      "title": "The Italian villa behind Hollywood's favourite sneakers - la Repubblica",
-      "source_name": "Google News - Sneaker Brand",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSm1CUGFnTWV4YmdLVkdpYzZqRFhwNVNIdHcwTjh3QU5aeUdJTGxzeVlLaGw0Y09UMG94UjQ3Y0FJclY3MzVfVk96SGNyQzJ3aENkR1ktdEtJVXNWZVJ3a29YbGZuQ2dTNUJwRmZlRWtEUEc5TG9UMzI1dDJZSm4wbmtaSTVfZWd2T2RyMXE1bVBHTkVucFVPc2N3MDRzVDhhRjg4UVlUZFU0eVBvbzF1M1hUM0pxZ3J6Y1E?oc=5",
-      "original_publish_time": "2026-11-10T05:00:00+00:00",
-      "scraped_time": "2026-11-10T13:05:35.189932+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "The Italian villa behind Hollywood's favourite sneakers la Repubblica",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "045ccfdc0e85",
-      "title": "Nike Teases an Upcoming Air Max 1 ‘Tekken’ Collab",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/11/tekken-nike-swoosh-air-max-1-collaboration-first-look-teaser",
-      "original_publish_time": "2026-11-10T03:28:22+00:00",
-      "scraped_time": "2026-11-10T04:30:56.747658+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "Name: Tekken x Nike .SWOOSH Air Max 1SKU: IW1290-001Release Date: Holiday 2026Tekken and Nike are reuniting, this time on the Air Max 1, with Nike’s .SWOOSH division revealing the project through a short teaser on Instagram. The clip stars King, Tekken’s jaguar-masked luchador, relaxing at an outdoor café on what appears to be Nike’s world headquarters in Beaverton, Oregon.Seated among white mesh chairs beside a pond, he wears a custom Nike Tech Fleece tracksuit in bright royal blue with spotted animal-print panels down the front and sides, a nod to his outfit in Tekken 3. When King realizes he’s being filmed and turns toward the camera, the shot cuts to leaves floating on the water, followed by the .SWOOSH logo and Tekken copyright text.The sneakers appear only briefly, but they clearly m",
       "ren_take": "",
       "image_url": ""
     }
