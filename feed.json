@@ -1,8 +1,132 @@
 {
-  "last_updated": "2026-11-17T19:49:26.436008+00:00",
-  "total_articles": 108,
+  "last_updated": "2026-11-17T23:54:39.031687+00:00",
+  "total_articles": 107,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "093176c29724",
+      "title": "The Nike Free 5.0 Explores Tattered Uppers",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/11/17/nike-free-5-0-colorways-2027/",
+      "original_publish_time": "2026-11-17T23:35:03+00:00",
+      "scraped_time": "2026-11-17T23:43:46.548318+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "upper"
+      ],
+      "relevance_score": 5,
+      "summary": "Nike just the other day announced the return of the Nike Free platform to high praise from those around to appreciate the line’s heyday in... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Nike Free 5.0 Explores Tattered Uppers appeared first on Sneaker News . The post The Nike Free 5.0 Explores Tattered Uppers appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "702b7d7b1b4c",
+      "title": "Amina Muaddi Opens Up About Keeping Her Shoe Brand Independent and Being Her Own Boss: ‘Nobody Tells Me What to Do’",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-trends/amina-muaddi-emma-grede-podcast-shoe-brand-1239421323/",
+      "original_publish_time": "2026-11-17T22:37:28+00:00",
+      "scraped_time": "2026-11-17T23:43:35.515816+00:00",
+      "time_delta_mins": 0,
+      "category": "Quality",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoe brand"
+      ],
+      "relevance_score": 3,
+      "summary": "The shoe designer appeared in an episode of the “Aspire With Emma Grede” podcast.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "7883355a38d5",
+      "title": "Vans’ Reborn Outdoor Sneaker Looks Good in Needles Streetwear",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/needles-vans-mountain-edition-vibram-shoes/",
+      "original_publish_time": "2026-11-17T22:36:33+00:00",
+      "scraped_time": "2026-11-17T23:47:26.221794+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Vans",
+        "Vibram"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "Needles cooks up extra-rugged Vans Mountain Edition sneakers, featuring Vibram & Cordura finishes. Here's everything on the collab.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "bcc4e0e01e8d",
+      "title": "Ignore the Suits — Vans Will Always Be The People’s Sneaker",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/vans-new-sneakers-hype/",
+      "original_publish_time": "2026-11-17T22:22:01+00:00",
+      "scraped_time": "2026-11-17T23:47:26.222489+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Vans"
+      ],
+      "keywords_matched": [
+        "shoe brand"
+      ],
+      "relevance_score": 3,
+      "summary": "They want you to think Vans is slipping, but they’ve actually never been better. The skate shoe brand is expanding every day in ways that only make us fall deeper in love.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "09598d707836",
+      "title": "Nike CFO Says It Will Take Two Years for Jordan Brand to Return to Growth",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/jordan-brand-recovery-explained-nike-investor-day-1239421897/",
+      "original_publish_time": "2026-11-17T21:49:20+00:00",
+      "scraped_time": "2026-11-17T23:43:35.518721+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Nike",
+        "Converse",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 5,
+      "summary": "As for Converse, the company expects the brand to return to growth beginning in fiscal 2028.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "a75714d3173a",
+      "title": "Jordan Brand Created a New Sneaker That Looks Like an Air Jordan 1 Low Remixed by Nike SB",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/jordan-strada-skate-shoe-release-date-1239421379/",
+      "original_publish_time": "2026-11-17T20:11:06+00:00",
+      "scraped_time": "2026-11-17T23:43:35.519365+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "The fresh model also features more comfortable and modern cushioning.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "11714ed87794",
       "title": "Nike Announces Cricket Footwear To Come Ahead Of The 2028 Olympics",
@@ -2103,148 +2227,6 @@
       ],
       "relevance_score": 4,
       "summary": "Name: Rick Owens x adidas Springblade Runner, Rick Owens x adidas Springblade BootColorway: Core Black/Core Black/Light Brown, Core Black/Core Black/Light Brown, Light Brown/Light Brown/Core BlackSKU: KJ3110, KJ5663, KJ3122MSRP: $590 USD, $850 USDRelease Date: November 17Where to Buy: adidas CONFIRMED App, adidas, Rick OwensThe Rick Owens x adidas Springblade collection marks the first major step in bringing back adidas’ blade-cushioned performance model from the 2010s, with Owens among the earliest collaborators to put his stamp on its return. The capsule spans three pairs in total, built from a pair of low-top runners and a dramatic matching boot, all sitting on the Springblade’s signature row of individual cushioning blades.Everything about the collection starts with the sole. Rather th",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "40d679fc55be",
-      "title": "Here’s How Some Footwear Companies Are Using Tariff Refunds",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/shoe-firms-retailers-ieepa-refunds-corporate-price-decrease-1239408697/",
-      "original_publish_time": "2026-11-10T22:57:39+00:00",
-      "scraped_time": "2026-11-11T02:36:56.209586+00:00",
-      "time_delta_mins": 0,
-      "category": "Trade Data",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Shoe firms and footwear retailers are mostly using IEEPA refunds for corporate purposes, but a few are using a portion to help with price reductions.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "c5e68fbd02a2",
-      "title": "Tyler, The Creator Chops The Top Off For The Converse 1908 Bronco Boot Low",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/11/10/tyler-the-creator-converse-bronco-boot-low/",
-      "original_publish_time": "2026-11-10T22:50:28+00:00",
-      "scraped_time": "2026-11-11T02:37:07.021328+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Converse"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 5,
-      "summary": "Especially in his post Flower Boy era, Tyler, the Creator is the owner of one of modern hip-hop’s sturdier discographies, only bolstered by his most... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Tyler, The Creator Chops The Top Off For The Converse 1908 Bronco Boot Low appeared first on Sneaker News . The post Tyler, The Creator Chops The Top Off For The Converse 1908 Bronco Boot Low appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "7d03c6d6ae1d",
-      "title": "Altra’s Vanish Tempo 2 is Making Me Question Everything I Know About Shoes - Slowtwitch News",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaDZyUl9rbmNYbmRDcHk0Ukt5Q2RGSC1jU2dQTGQyYUxWUkFxT2lEOUJzX21vMWNVSTNOd1RWNWk3cDVxVUJtOUFQWmZkeF90OE1FTTMxSU13dXJwcHBpRTZ5U04wYnd0UDY4a0xzWVo1VUJsaU9HZ3UtRUVCVHJ5Q2pUSk9yS2dqTUlUNXRaUzJrMzhZUDZIWU8wYWlQYVl4dTZSZkdKR28?oc=5",
-      "original_publish_time": "2026-11-10T22:36:26+00:00",
-      "scraped_time": "2026-11-11T12:14:58.077848+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "Altra’s Vanish Tempo 2 is Making Me Question Everything I Know About Shoes Slowtwitch News",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "c0b26027aba0",
-      "title": "Santa Claus’ Air Jordan Sneakers Are Almost Too Nice",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/jordan-3-santa/",
-      "original_publish_time": "2026-11-10T21:48:19+00:00",
-      "scraped_time": "2026-11-10T22:11:11.648298+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Jordan"
-      ],
-      "keywords_matched": [
-        "sneakers",
-        "upper"
-      ],
-      "relevance_score": 6,
-      "summary": "The Air Jordan 3 \"Santa\" sneaker lands with leather uppers & black fur accents, resulting in a clean flex for Mr. Claus.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "c1a31b0aede3",
-      "title": "Timberland Just Released New Holiday Boots in Premium Waterproof Suede for Men, Women and Kids",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/timberland-premium-6-inch-waterproof-cf-stead-suede-boot-holiday-1239409725/",
-      "original_publish_time": "2026-11-10T21:30:46+00:00",
-      "scraped_time": "2026-11-10T22:07:37.312105+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Timberland"
-      ],
-      "keywords_matched": [
-        "boot",
-        "tannery",
-        "upper"
-      ],
-      "relevance_score": 7,
-      "summary": "The Premium 6-Inch Waterproof Boots feature suede uppers from historic English tannery C.F. Stead.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "bcb3f25a196c",
-      "title": "Why All Your Favorite Sneakers Have Been Derby-fied",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/the-derby-fication-of-footwear/",
-      "original_publish_time": "2026-11-10T20:08:37+00:00",
-      "scraped_time": "2026-11-10T22:11:11.647443+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "In November 10's Shopper newsletter, editor Max Migowski teaches a lesson in derbies.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "e7746a9d0ed0",
-      "title": "Converse’s Classiest Sneaker Gets a Rugged New Look - Gear Patrol",
-      "source_name": "Google News - Sneaker Brand",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNb191cDNMS0U1ekNWZVM2R2RKVGZ5YUs1THBRMHhwOE9ZQVA5SG51ZmxKTXFPMXU0cU82bUtNZldqcXBFdXBoVnpSdjc2Y2ExUk5scEJzZFpmOFFGLWw5dU1mMDI3aGdCby1EOFFRVUEwdUtoTjhDRHNoMmNLUjBPMEpJbWQxVkNiaUJtakdXbw?oc=5",
-      "original_publish_time": "2026-11-10T20:08:26+00:00",
-      "scraped_time": "2026-11-13T12:41:27.684661+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Converse"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 4,
-      "summary": "Converse’s Classiest Sneaker Gets a Rugged New Look Gear Patrol",
       "ren_take": "",
       "image_url": ""
     }
