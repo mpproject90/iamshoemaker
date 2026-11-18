@@ -1,8 +1,89 @@
 {
-  "last_updated": "2026-11-17T23:54:39.031687+00:00",
-  "total_articles": 107,
+  "last_updated": "2026-11-18T04:14:26.722108+00:00",
+  "total_articles": 111,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "8db3a5f36971",
+      "title": "Travis Scott’s ‘GTA 6’ x Nike Air Force 1s Will Release With Two Different Chances to Purchase",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/gta-6-travis-scott-nike-collection-release-date-1239421828/",
+      "original_publish_time": "2026-11-18T02:23:21+00:00",
+      "scraped_time": "2026-11-18T04:03:40.287061+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "A range of apparel will also accompany the sneakers.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "c859793498e9",
+      "title": "The Air Jordan 1 Becomes A Kitten Heel Under Jordan Street",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/11/17/air-jordan-1-kitten-heel/",
+      "original_publish_time": "2026-11-18T01:53:56+00:00",
+      "scraped_time": "2026-11-18T04:03:50.750347+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [
+        "Nike",
+        "Converse",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "Nike, Inc. shook up the sneaker world a bit with an announcement that Converse, Jordan Brand, and Nike proper would be united under one single... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Air Jordan 1 Becomes A Kitten Heel Under Jordan Street appeared first on Sneaker News . The post The Air Jordan 1 Becomes A Kitten Heel Under Jordan Street appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "c8d9d0458763",
+      "title": "Jordan Brand To Debut Performance Ready Air Jordan Retros In 2027",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/11/17/air-jordan-performance-retro-2027/",
+      "original_publish_time": "2026-11-18T01:43:48+00:00",
+      "scraped_time": "2026-11-18T04:03:50.751984+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "While Michael Jordan himself produced iconic moments and GOAT-level results while wearing his Air Jordan products, Nike, Inc. has paved the decades following utilizing those... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Jordan Brand To Debut Performance Ready Air Jordan Retros In 2027 appeared first on Sneaker News . The post Jordan Brand To Debut Performance Ready Air Jordan Retros In 2027 appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "77eb1989fcd1",
+      "title": "Nike ACG Unveils Picklejus And Pegasus Trail Rad Air",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/11/17/nike-acg-picklejus-pegasus-trail-rad-air/",
+      "original_publish_time": "2026-11-18T01:18:20+00:00",
+      "scraped_time": "2026-11-18T04:03:50.753603+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "If you’ve been tuned in to our coverage of Nike’s latest look-ahead, many nuggets of info have stood out, but the Swoosh’s identification of its... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike ACG Unveils Picklejus And Pegasus Trail Rad Air appeared first on Sneaker News . The post Nike ACG Unveils Picklejus And Pegasus Trail Rad Air appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "093176c29724",
       "title": "The Nike Free 5.0 Explores Tattered Uppers",
