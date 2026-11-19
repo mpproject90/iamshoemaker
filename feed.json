@@ -1,8 +1,49 @@
 {
-  "last_updated": "2026-11-18T23:25:41.685343+00:00",
-  "total_articles": 117,
+  "last_updated": "2026-11-19T04:11:14.661888+00:00",
+  "total_articles": 118,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "b4512648e3aa",
+      "title": "Caitlin Clark Previews Color-Changing Nike Caitlin 1 Prototype",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/11/caitlin-clark-previews-color-changing-nike-caitlin-1-prototype",
+      "original_publish_time": "2026-11-19T03:23:19+00:00",
+      "scraped_time": "2026-11-19T04:00:35.965511+00:00",
+      "time_delta_mins": 0,
+      "category": "Trade Data",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "footwear",
+        "upper"
+      ],
+      "relevance_score": 4,
+      "summary": "Summary Indiana Fever guard Caitlin Clark has previewed a futuristic, color-changing iteration of her signature Nike Caitlin 1The unreleased prototype features a button under the Swoosh that shifts the upper from a light base to blackCurrently, there is no official release information regarding if or when the color-changing technology will hit retail shelves Nike and Indiana Fever guard Caitlin Clark have officially teased a futuristic new prototype of the Nike Caitlin 1. Serving as a massive surprise following the conclusion of the 2026 WNBA season, the color-changing basketball shoe was recently unveiled by the athlete herself during a guest appearance on the New Heights podcast.Showcasing the brand's latest footwear technology, the unreleased prototype features a specialized upper that ",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "b39e7478238d",
+      "title": "A Nostalgic Taylor Swift Is Back in Her Cowboy Boot Era, With a 2026 Version of the Iconic ‘Debut’ Pair",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-trends/taylor-swift-cowboy-boots-cmas-now-and-then-comparison-1239426638/",
+      "original_publish_time": "2026-11-19T02:49:03+00:00",
+      "scraped_time": "2026-11-19T04:00:25.057803+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 3,
+      "summary": "Fans went wild when Swift stepped out in a replica of the boots that defined her country identity as she shot to fame two decades ago.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "17f5b5bff585",
       "title": "The Nike Kobe 10 “Duke” Releases Holiday 2026",
@@ -2411,27 +2452,6 @@
       ],
       "relevance_score": 7,
       "summary": "From a Scott-ish skate from Vans x Pringle, to a low-profile court classic by FILA x Highsnobiety — the cream of the sneaker crop awaits.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "f5773d384409",
-      "title": "adidas Originals and SP5DER Reunite for Head-to-Toe Collection and F50 Formotion SP5DER",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/11/adidas-originals-sp5der-collection-f50-formotion-collaboration-release-info",
-      "original_publish_time": "2026-11-12T01:31:11+00:00",
-      "scraped_time": "2026-11-12T03:40:23.341284+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Summary adidas Originals and SP5DER have reunited for a head-to-toe collection featuring the hybrid F50 Formotion SP5DERThe release includes two neon footwear colorways alongside web-print tracksuits graphic tees Cordura backpacks and balaclavasThe capsule launches November 13 on KINGSPIDER CO followed by a global release November 14 on CONFIRMED adidas Originals and streetwear imprint SP5DER have reunited to introduce a full head-to-toe collection, headlined by two vibrant iterations of the F50 Formotion SP5DER. Following their initial summer capsule that fused punk aesthetics with football heritage, the new collaborative capsule bridges performance sport functionality with bold street-ready sensibilities.At the center of the drop is the hybrid F50 Formotion SP5DER, rendered in two high-c",
       "ren_take": "",
       "image_url": ""
     }
