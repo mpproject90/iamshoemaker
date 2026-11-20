@@ -1,8 +1,91 @@
 {
-  "last_updated": "2026-11-20T13:51:53.313631+00:00",
-  "total_articles": 110,
-  "sources_checked": 60,
+  "last_updated": "2026-11-20T19:18:54.049568+00:00",
+  "total_articles": 111,
+  "sources_checked": 76,
   "articles": [
+    {
+      "id": "dfb49ec9c07b",
+      "title": "Fear of God Prepares to Launch Independent Sneaker Following Split From Adidas",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/fear-of-god-trainer-first-independent-sneaker-1239429658/",
+      "original_publish_time": "2026-11-20T17:49:18+00:00",
+      "scraped_time": "2026-11-20T18:58:31.640243+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "midsole",
+        "sole"
+      ],
+      "relevance_score": 4,
+      "summary": "The minimalist low-top should be quite comfortable with a supercritical foam midsole.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "157a255a1958",
+      "title": "14 People Charged in $22M Train Theft Scheme That Targeted Nike Sneakers",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/22-million-nike-train-theft-ring-indictment-1239429641/",
+      "original_publish_time": "2026-11-20T16:15:07+00:00",
+      "scraped_time": "2026-11-20T18:58:31.643041+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "The brazen acts were allegedly filmed and shared by the defendants.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "0db0afab4665",
+      "title": "Mothercare future uncertain amid Middle East closures and termination of Boots deal",
+      "source_name": "Drapers",
+      "source_domain": "drapersonline.com",
+      "source_url": "https://www.drapersonline.com/news/mothercare-future-uncertain-amid-middle-east-closures-and-termination-of-boots-deal",
+      "original_publish_time": "2026-11-20T16:08:00+00:00",
+      "scraped_time": "2026-11-20T19:03:43.617574+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 3,
+      "summary": "Drapers Mothercare future uncertain amid Middle East closures and termination of Boots deal Mothercare cut its adjusted operating loss by 40% year on year to £300,000 in the 26 weeks to 26 September, but warned that the planned closure of most of its Middle East stores and a £36.7m pension deficit leave its longer-term future uncertain. The post Mothercare future uncertain amid Middle East closures and termination of Boots deal appeared first on Drapers .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "fc9dc86e7290",
+      "title": "New Arrivals From HBX: adidas Originals",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/11/new-arrivals-from-hbx-adidas-originals-8",
+      "original_publish_time": "2026-11-20T14:08:28+00:00",
+      "scraped_time": "2026-11-20T18:58:42.162820+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "Brand Information: adidas Originals is the heritage line of the German activewear brand adidas. The line specializes in lifestyle sneakers and streetwear apparel that seamlessly fuses fashion with function. This classic-meets-modern approach has already produced iconic models such as the NMD_R1, Stan Smith, Forum Low, Ultraboost, and Superstar, alongside a slew of successful collaborations with cultural icons and influential brands like Pharrell Williams, Alexander Wang, Palace, Kendall Jenner and more. Staying true to its athletic roots, the label has also formed brand sponsorships with world-class athletes such as Lionel Messi, David Beckham, and James Harden, to name a few.Price Range: $35.00 USD - $355.00 USDWhere to Buy: Available now on HBX Click here to view full gallery at Hypebeas",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "60d028098b26",
       "title": "ERL Launches the New Wall Street Loafer and Mule",
@@ -2225,66 +2308,6 @@
       ],
       "relevance_score": 3,
       "summary": "adidas' Halewood SPZL model joins the FW26 collection as a new low-soled everyday suede sneaker.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "6d4d7584272d",
-      "title": "Sqairz is Challenging What Performance Shoes Should Look Like",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/sqairz-square-toe-performance-footwear-golf-sports-1239408310/",
-      "original_publish_time": "2026-11-13T18:07:54+00:00",
-      "scraped_time": "2026-11-13T18:24:42.882402+00:00",
-      "time_delta_mins": 0,
-      "category": "Quality",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "shoes"
-      ],
-      "relevance_score": 4,
-      "summary": "Originally a golf shoe startup, Sqairz is now performance footwear firm spanning golf, baseball, softball and pickleball.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "3dce6e41577e",
-      "title": "Beams And adidas Built A Loafer From Scratch",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/11/13/beams-adidas-loafer/",
-      "original_publish_time": "2026-11-13T17:00:56+00:00",
-      "scraped_time": "2026-11-13T18:24:53.607409+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Adidas",
-        "Hoka",
-        "Salomon"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 4,
-      "summary": "Japanese retailer Beams is really flexing its creative muscle for its 50th anniversary this year, already checking off some of the best HOKA and Salomon... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Beams And adidas Built A Loafer From Scratch appeared first on Sneaker News . The post Beams And adidas Built A Loafer From Scratch appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "100260a43207",
-      "title": "Ye Olde Clarks Have No Business Being This Hot (Exclusive)",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/clarks-laagam/",
-      "original_publish_time": "2026-11-13T17:00:00+00:00",
-      "scraped_time": "2026-11-13T18:28:19.840829+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Clarks"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "Highsnobiety can exclusively reveal the Lugger Ballerina, a new collaborative shoe from British heritage brand Clarks and the young Barcelona label LAAGAM.",
       "ren_take": "",
       "image_url": ""
     }
