@@ -1,8 +1,111 @@
 {
-  "last_updated": "2026-11-20T19:18:54.049568+00:00",
-  "total_articles": 111,
-  "sources_checked": 76,
+  "last_updated": "2026-11-20T23:07:37.021495+00:00",
+  "total_articles": 115,
+  "sources_checked": 60,
   "articles": [
+    {
+      "id": "476693a676fb",
+      "title": "Nike’s OG \"Space Jam\" Air Jordans Still Hit After 30 Years",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/jordan-11-space-jam-2026/",
+      "original_publish_time": "2026-11-20T22:43:07+00:00",
+      "scraped_time": "2026-11-20T23:00:21.257700+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "The Air Jordan 11 \"Space Jam\" sneaker returns for the movie's 30th anniversary with original details.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "dc839a93fbf9",
+      "title": "Joaquin Phoenix Debuts Gentle Monster's Smart Glasses & Gucci Announces Shanghai Runway in This Week's Top Fashion News",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/11/gentle-monster-joaquin-phoenix-gucci-beams-adidas-sacai-willy-chavarria",
+      "original_publish_time": "2026-11-20T21:30:31+00:00",
+      "scraped_time": "2026-11-20T22:56:46.837102+00:00",
+      "time_delta_mins": 0,
+      "category": "Quality",
+      "brands_mentioned": [
+        "Adidas",
+        "Gucci"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "SummaryGucci and sacai scheduled upcoming runway presentations for Shanghai and Hong Kong, respectively.Collaborative releases came from BEAMS’ 50th-anniversary adidas Originals collection and Gentle Monster’s cinematic Intelligent Eyewear campaign with Joaquin PhoenixThe Museum at FIT revealed a new sociopolitical exhibition featuring Willy Chavarria.Gucci to Present Cruise 2028 Collection in ShanghaiThis week, Gucci officially announced its Cruise 2028 runway presentation will take place in Shanghai on May 17, 2027. The event will mark artistic director Demna’s first show in the city, aligning with the 30th anniversary of the Italian house's original store opening in the region. The move expands the ongoing focus on major brand activations in China from global luxury maisons, joining upc",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "246cea7dc90f",
+      "title": "Deion Sanders’ Nike Air DT Proto ’92 Gets Flashy In Prime Red",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/11/20/nike-air-dt-proto-92-prime-red-ix5718-600/",
+      "original_publish_time": "2026-11-20T21:00:03+00:00",
+      "scraped_time": "2026-11-20T22:56:46.973979+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Nike turned back the clock in 2026 with the introduction of the Air DT Proto ’92, an unreleased prototype of Deion Sanders’ signature footwear that... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Deion Sanders' Nike Air DT Proto '92 Gets Flashy In Prime Red appeared first on Sneaker News . The post Deion Sanders’ Nike Air DT Proto ’92 Gets Flashy In Prime Red appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "4c608e0af9cb",
+      "title": "adidas Originals Brings Winter Style To Three Of Its Most Iconic Sneakers",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/11/20/adidas-samba-gazelle-handball-winter-2026/",
+      "original_publish_time": "2026-11-20T20:30:08+00:00",
+      "scraped_time": "2026-11-20T22:56:46.975686+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "SPONSORED BY Photography: Jared Moody Fall and winter are all about layering up, breaking out the heavier fabrics, and embracing the darker, richer colors that... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post adidas Originals Brings Winter Style To Three Of Its Most Iconic Sneakers appeared first on Sneaker News . The post adidas Originals Brings Winter Style To Three Of Its Most Iconic Sneakers appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "82ab73a30705",
+      "title": "Nike’s Iconic Air Force 1 and Air Max Sneakers Are Getting Upgraded in New Comfort Classics Line",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-air-force-1-air-max-90-comfort-classics-1239460760/",
+      "original_publish_time": "2026-11-20T20:01:22+00:00",
+      "scraped_time": "2026-11-20T22:56:36.369871+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "The brand's most popular retro sneakers are finally getting comfort-focused updates.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "dfb49ec9c07b",
       "title": "Fear of God Prepares to Launch Independent Sneaker Following Split From Adidas",
@@ -2287,27 +2390,6 @@
       ],
       "relevance_score": 4,
       "summary": "Name: Nike Zoom Vomero 5 Vapor Pro “Black/Metallic Silver”Colorway: Black/White-Metallic SilverSKU: JF3428-001MSRP: $200 USDRelease Date: November 16Where to Buy: NikeNike is taking the Zoom Vomero 5 onto the field with the Zoom Vomero 5 Vapor Pro “Black/Metallic Silver,” a football cleat that translates one of the Swoosh’s most in-demand lifestyle silhouettes into performance gear. The design holds onto enough of the original’s layered upper to stay instantly recognizable, then swaps the chunky running sole for a studded plate and a collar built for the gridiron.The Vomero 5 first arrived in the late 2000s as a technical running shoe before its recent revival turned it into a fixture of the Y2K-inspired lifestyle wave. That history is part of what makes this conversion notable, as Nike is",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "1eaed9328484",
-      "title": "adidas’ Next Flat Suede Sneaker Is Extra “Spezial”",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/adidas-halewood-spzl/",
-      "original_publish_time": "2026-11-13T22:00:56+00:00",
-      "scraped_time": "2026-11-13T22:24:39.152075+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "sole"
-      ],
-      "relevance_score": 3,
-      "summary": "adidas' Halewood SPZL model joins the FW26 collection as a new low-soled everyday suede sneaker.",
       "ren_take": "",
       "image_url": ""
     }
