@@ -1,8 +1,48 @@
 {
-  "last_updated": "2026-11-21T13:16:48.958019+00:00",
-  "total_articles": 115,
+  "last_updated": "2026-11-21T18:04:03.841444+00:00",
+  "total_articles": 116,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "b2ff95755d35",
+      "title": "Nike’s Fan-Favorite Air Max Boot Is Getting a Stealthy Black Foamposite Update for Winter",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-acg-air-max-goadome-low-foam-black-dark-smoke-gray-release-date-iv7693-001-1239461436/",
+      "original_publish_time": "2026-11-21T16:44:15+00:00",
+      "scraped_time": "2026-11-21T17:53:06.173109+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 5,
+      "summary": "The latest ACG Air Max Goadome Low Foam is set to arrive at retail in December.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "bbe18842bb1d",
+      "title": "This label brings Indian craftsmanship to contemporary festive footwear - IndulgExpress",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPREdrZU5vSHkxLU9FUUViakZpclR1MWEzRWU5eUtOQWJ2Q0NfYTJPVW5YOWhOdUpVX2xQQV80UW91TVFwaGwxRlE3MENmb1BDcjRQMHFGQUZQOGdmc1RPc09iWmNIVFRYTkR3bWd4c0hBWGRCd3lJampNRUNwcjEzYW9RcnF4UjlKZlRqRUNtQy13bWtOY3dOZHo5VFV1ZGxSY1NOZkk5RzZqSXR1eVNyU2kyMGlUUlZKOGtvUzNsN3hPcy0yR0dHejJISFhqckXSAdwBQVVfeXFMT0hTQWpGQ0s2VzFaV2ZMdDRSQ0JnYmF2T1J1eS1rWVd4VWtNN3o5Q25jVUdOc3BENFpKRjZiVGJDMW1MR3pkdHQ4bGtYZ0tDczZwcU5tMVFVX1czM3hCa29ybzJuN1ZLQkItd2JTVXMySlRNbE1iSVhaQjlfQzhscDNjckU3UWs2Sk8wbDhVeHRxUUpqaHhvN0F4YnVkNlVzRW9nczZ1RjFLY1hheGU4SU96SmwxWXhYMFNILXJ2STlmeHA4bVB3WHZLNVh6WXJLWVRsal8tNUJxZkZ6Tw?oc=5",
+      "original_publish_time": "2026-11-21T16:30:00+00:00",
+      "scraped_time": "2026-11-21T17:53:27.577957+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "This label brings Indian craftsmanship to contemporary festive footwear IndulgExpress",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "94a4a027377b",
       "title": "Nike Hits the Grid With a Long-Term Formula 1 Partnership Starting in 2027",
@@ -2367,27 +2407,6 @@
       ],
       "relevance_score": 5,
       "summary": "adidas release its own Wellington rain boots, featuring wateproof rubber & Three Stripes. Here's everything on the drop.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "c1cffdd2fe18",
-      "title": "Nike Shows Its Hand With Diamond Branding On The Air Force 1",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/11/14/nike-air-force-1-low-dark-team-red-black-iq0187-600/",
-      "original_publish_time": "2026-11-14T17:00:35+00:00",
-      "scraped_time": "2026-11-14T21:03:35.155160+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "General release styles often come in droves, an easy way for Nike to drop multiple shoes with the same theme just by switching up the... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike Shows Its Hand With Diamond Branding On The Air Force 1 appeared first on Sneaker News . The post Nike Shows Its Hand With Diamond Branding On The Air Force 1 appeared first on Sneaker News .",
       "ren_take": "",
       "image_url": ""
     }
