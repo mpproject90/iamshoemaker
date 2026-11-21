@@ -1,8 +1,27 @@
 {
-  "last_updated": "2026-11-20T23:07:37.021495+00:00",
+  "last_updated": "2026-11-21T04:01:14.654690+00:00",
   "total_articles": 115,
-  "sources_checked": 60,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "7e5fa541fc85",
+      "title": "Cambodia, EU launch clean energy push for garment, footwear, travel goods industry - Khmer Times",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaGVfNGpJOTQtVXFJdFk0NVVwU3JWTFFyTFNtd0JuWnhVV3A3OU4xRENsS05HRnBBaWJ3bmliNHRieFJWblZSaGp1U2ZGZjR1R29ZaXlLcG1YQ1N6ejdtelNzdXpfYTYwdUM2UzRVUGJBTk5QbVMyd1pzc3p1dmFtQ0hkQWZUNlQwcF9GVUxnNHRqV1Awb2dtZXdNVjhNWEtzellvcnAydUd6aUF6Vk90UlpBX09wYTZjTkQw?oc=5",
+      "original_publish_time": "2026-11-20T23:35:11+00:00",
+      "scraped_time": "2026-11-21T03:50:30.651623+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Cambodia, EU launch clean energy push for garment, footwear, travel goods industry Khmer Times",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "476693a676fb",
       "title": "Nike’s OG \"Space Jam\" Air Jordans Still Hit After 30 Years",
@@ -2368,28 +2387,6 @@
       ],
       "relevance_score": 6,
       "summary": "Indonesias leather, footwear exports reach US$7.22 billion ANTARA News",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "d4bbb83a819a",
-      "title": "The Nike Zoom Vomero 5 Vapor Pro “Black/Metallic Silver” Takes the Lifestyle Icon to the Gridiron",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/11/nike-zoom-vomero-5-vapor-pro-black-metallic-silver-jf3428-001-release-info",
-      "original_publish_time": "2026-11-14T04:00:55+00:00",
-      "scraped_time": "2026-11-14T11:49:12.337072+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "sole",
-        "upper"
-      ],
-      "relevance_score": 4,
-      "summary": "Name: Nike Zoom Vomero 5 Vapor Pro “Black/Metallic Silver”Colorway: Black/White-Metallic SilverSKU: JF3428-001MSRP: $200 USDRelease Date: November 16Where to Buy: NikeNike is taking the Zoom Vomero 5 onto the field with the Zoom Vomero 5 Vapor Pro “Black/Metallic Silver,” a football cleat that translates one of the Swoosh’s most in-demand lifestyle silhouettes into performance gear. The design holds onto enough of the original’s layered upper to stay instantly recognizable, then swaps the chunky running sole for a studded plate and a collar built for the gridiron.The Vomero 5 first arrived in the late 2000s as a technical running shoe before its recent revival turned it into a fixture of the Y2K-inspired lifestyle wave. That history is part of what makes this conversion notable, as Nike is",
       "ren_take": "",
       "image_url": ""
     }
