@@ -1,8 +1,70 @@
 {
-  "last_updated": "2026-11-22T03:05:57.531075+00:00",
+  "last_updated": "2026-11-22T13:05:25.537280+00:00",
   "total_articles": 118,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "b3f8a5d143f3",
+      "title": "Govt raises minimum wage for leather and footwear workers by 68% - Textile Today",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUDBnZ2t2bEVuYlVuWF9VWDBfSW11c2txbE4zdmNJdHJVNS16R2FWQnUzN29mMjVtTlhkM0JJR2xQaHY2dDlOaEF3U2hwUlRnUE42QU12cjBSdGxXdUtudGhycFlWOVBnZ3dfc3c1ZHJVMEtwSTBkOFZEaTNmUElOXzh5VGZuaGp1MGExWTJMTWcxenB2NUc1M282WQ?oc=5",
+      "original_publish_time": "2026-11-22T08:10:23+00:00",
+      "scraped_time": "2026-11-22T12:54:48.067912+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Govt raises minimum wage for leather and footwear workers by 68% Textile Today",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "c2ef4d293790",
+      "title": "Embassy of India in Romania Organizes Business Promotion Event to Showcase India's Footwear and Leather Industry and Promote Bharat Footwear and Leather Expo 2027 - The Indian Panorama",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQMWlQenI4ckE4X2l3dElfV3dYaVo1aWxDRzNMalZwbFdHZ21RbUNZZG1RV1VjSzkzWk9KcW01LW9ZSUNqTFZnU242ZENLNTBma2JVXzhnZXZ3VW5jRGlhS0t6SmRIRm5xNFlIemE1QkpmWU5JcngxbS1qY0ZsbDZnR2VxazBERTU2VmtUcVNObXdYR2hpVFVIdnJkSTUxbThMaU1PZ1VGWDlfYXh5REVrNUx1SlA1cHdqclpSQlF0Ync0cFQweTNteEs4UTBSSThmMlB1UWMxUHQybVA3TU85RmR6Tnhycnh3cURVeFFJQVhCcGJ0Z3JsVjFjVVRvYi1xOEctU2xkd2U3ME1lMzRBNW1CTUM1QjNiQUF3Z19OcVpzeTQ?oc=5",
+      "original_publish_time": "2026-11-22T07:44:00+00:00",
+      "scraped_time": "2026-11-22T12:54:48.065970+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "leather industry"
+      ],
+      "relevance_score": 6,
+      "summary": "Embassy of India in Romania Organizes Business Promotion Event to Showcase India's Footwear and Leather Industry and Promote Bharat Footwear and Leather Expo 2027 The Indian Panorama",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "4d09d4ea9d5d",
+      "title": "Jerry Lorenzo Unveils the Independent Fear of God Trainer Following adidas Split",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/11/jerry-lorenzo-unveils-fear-of-god-trainer-following-adidas-split-first-look",
+      "original_publish_time": "2026-11-22T06:34:13+00:00",
+      "scraped_time": "2026-11-22T12:54:37.150055+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Nike",
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "footwear",
+        "shoes"
+      ],
+      "relevance_score": 5,
+      "summary": "Summary Jerry Lorenzo has officially unveiled the Fear of God Trainer as his first independent sneaker model since parting ways with adidas in 2025The low-top silhouette features a lightweight mesh base overlaid with a molded synthetic cage and a contrasting suede toe capThe new athletic sneaker is officially slated to release in Summer 2027 Following his highly publicized departure from adidas in 2025, Jerry Lorenzo has officially introduced the independent Fear of God Trainer. Despite recent speculation regarding a potential return to Nike after the designer was spotted wearing vintage Moon Shoes, the new silhouette marks a definitive return to entirely in-house footwear for the luxury American label.The Fear of God Trainer opts for a low-cut profile, anchored by a breathable lightweight",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "0a84b8533d58",
       "title": "Nike's Velvet Mary Jane Is a Cozy Lil' Ballerina Sneaker",
@@ -2386,68 +2448,6 @@
       ],
       "relevance_score": 3,
       "summary": "Bangladesh aims to reach $5 billion in annual leather export earnings by 2030, according to the Ministry of Commerce. To hit this target, the government is accelerating environmental compliance, infra...",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "a18452c7b101",
-      "title": "Martha Stewart, Oprah, and I Wear These Supportive Podiatrist-Approved Sneakers Going for 28% Off - InStyle",
-      "source_name": "Google News - Sneaker Brand",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWmc2UDZFT0t1R212TmphT0dNRmFkLXFFWmdQNXlVZmFhWjRVTzF1WUJVUWhDZ1VtYkxGQnc0NFlhaTRGWk9tYkFqMVdtZDYwdUdWVmxaNU56b09udHA1THBuTUdPZ0NMQmFRUG5LYkhvNXduNFdBNTZYbWEwWHdjaGxrMTI4bm82Z0E?oc=5",
-      "original_publish_time": "2026-11-15T11:30:00+00:00",
-      "scraped_time": "2026-11-18T19:15:31.128985+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "Martha Stewart, Oprah, and I Wear These Supportive Podiatrist-Approved Sneakers Going for 28% Off InStyle",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "f56f6b510989",
-      "title": "Nike Air Force 1 Low “Iridescent Wolf Grey” Shimmers With Blue and Lavender Hues",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/11/nike-air-force-1-low-wolf-grey-white-geyser-grey-ix0154-001-official-images",
-      "original_publish_time": "2026-11-15T08:00:15+00:00",
-      "scraped_time": "2026-11-15T12:19:26.185901+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "Name: Nike Air Force 1 Low “Iridescent Wolf Grey”Colorway: Wolf Grey/White-Geyser GreySKU: IX0154-001MSRP: TBCRelease Date: Holiday 2026Nike continues to bring an experimental energy to Bruce Kilgore’s iconic design with the upcoming release of the Air Force 1 Low “Iridescent Wolf Grey”. Expected to drop during the Holiday 2026 window, the women's-exclusive sneaker features a monochromatic grey base that is elevated by a dynamic, color-shifting finish. The iridescent treatment reveals subtle hints of blue and lavender across the fine-grain leather upper, with the effect appearing most prominent around the eyestays, the toe box, and the heel. Matching grey stitching traces the familiar panel layout, ensuring the silhouette retains its classic shape while embracing a bold, modern aesthetic.T",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "7c6670893ce2",
-      "title": "ASICS Dresses the GEL-CUMULUS 16 in Three Earthy, Warm-Toned Colorways",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/11/asics-gel-cumulus-16-1203b439-200-mocha-burnt-umber-1203b439-201-pink-sand-coconut-1203b439-800-burnt-umber-pink-sand-official-images-info",
-      "original_publish_time": "2026-11-15T04:00:04+00:00",
-      "scraped_time": "2026-11-15T12:19:26.189033+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "ASICS"
-      ],
-      "keywords_matched": [
-        "midsole",
-        "sole"
-      ],
-      "relevance_score": 4,
-      "summary": "Name: ASICS GEL-CUMULUS 16Colorway: Mocha/Burnt Umber, Pink Sand/Coconut, Burnt Umber/Pink SandSKU: 1203B439.200, 1203B439.201, 1203B439.800MSRP: €120 EUR (approx. $133 USD)Release Date: November 2026ASICS is set to expand its retro running roster with three new, earth-toned iterations of the GEL-CUMULUS 16: \"Mocha/Burnt Umber,\" \"Pink Sand/Coconut\" and \"Burnt Umber/Pink Sand.\"The silhouette keeps its original layered construction, spanning an open-cell mesh base covered with glossy synthetic overlays and no-sew panels. The cushioning setup that earned the model its reputation remains in place. GEL units sit in both the forefoot and heel, paired with a FLUIDRIDE midsole and FLYTEFOAM for a soft, smooth ride over long distances. The midsole is chunky and sculpted, with segmented pods running",
       "ren_take": "",
       "image_url": ""
     }
