@@ -1,6 +1,107 @@
 {
-  "last_updated": "2026-11-15T15:28:39.086441+00:00",
+  "last_updated": "2026-11-22T16:01:39.592035+00:00",
   "bulletins": [
+    {
+      "id": "wk47-2026",
+      "week_number": 47,
+      "year": 2026,
+      "date_from": "2026-11-16",
+      "date_to": "2026-11-22",
+      "published": "2026-11-22T16:01:39.591480+00:00",
+      "intro": "Week 47 closes with India making two distinct plays for European attention — one diplomatic, one commercial — while the Nike ecosystem continues to demonstrate that IP-driven drops and lifestyle crossovers are now fully structural, not cyclical. Meanwhile, Saucony's Brand of the Year recognition is the kind of inflection point that changes supplier conversations at Wolverine Worldwide within a quarter.",
+      "articles": [
+        {
+          "title": "Bata India Eyes Global Markets to Expand Footwear Exports",
+          "source_name": "Apparel Resources",
+          "source_url": "https://apparelresources.com/business-news/retail/bata-india-eyes-global-markets-expand-footwear-exports/",
+          "category": "Trade Data",
+          "relevance_score": 8,
+          "original_publish_time": "2026-11-20T06:45:32+00:00",
+          "misaki_take": "Exporting 50,000 pairs against a domestic base of 51 million is not a export strategy — it is a rounding error, and Bata India knows it. The real signal here is that India's largest organized footwear retailer is finally building outbound commercial muscle, which will put pressure on FOB benchmarking across the subcontinent as they start competing for the same EU and US shelf space that smaller Indian exporters have been quietly building for three years."
+        },
+        {
+          "title": "Official Images of Collaborative Travis Scott and 'GTA 6'Nike Air Force 1 Low Plus Apparel Merch Leaked",
+          "source_name": "Hypebeast",
+          "source_url": "https://hypebeast.com/2026/11/travis-scott-gta-6-nike-air-force-1-low-apparel-collaboration-teaser-official-images-release-info",
+          "category": "Brand News",
+          "relevance_score": 7,
+          "original_publish_time": "2026-11-18T07:10:29+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "Wolverine Worldwide’s Saucony Named Brand of the Year by Footwear News - Shop Eat Surf Outdoor",
+          "source_name": "Google News - Footwear Industry",
+          "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQckk4alBnTmYwOE9XeFVoUURlcXAwdzFFU3FDa1hvSFBMSFpyTTg1RVhZZ25sWUpaZmNQQVNtV1o5RmFzbnhSekVxem9OQU5paElOUnBWenhOSDFhNWZ2cThQeGZhVXpja3FGcXdpSHhReTFKaFpqSDJWdTRJVUhNaTl3SElPbC1HdjBFSmJFMWJycXZCNjU0S1l3dzJ6cEkwR0swamZsakRJajVtSXFreEZ4LWF3MFFuR200NHZYaFphcXhR?oc=5",
+          "category": "Brand News",
+          "relevance_score": 7,
+          "original_publish_time": "2026-11-16T20:36:31+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "Vans UGG-ified Its Skate-able Boat Shoes",
+          "source_name": "Highsnobiety",
+          "source_url": "https://www.highsnobiety.com/p/vans-2-eyelet-boat-shoes/",
+          "category": "Retail",
+          "relevance_score": 7,
+          "original_publish_time": "2026-11-16T20:36:16+00:00",
+          "misaki_take": "Sherpa and teddy-fleece overlays on hybrid silhouettes are now a fully commoditized seasonal tactic, but the margin story depends entirely on where the trim is sourced — Chinese sherpa at scale versus Korean or Taiwanese specialty fabric carries a 12–18% material cost delta that hits FOB harder than brands typically disclose. The more interesting question is whether VF Corporation's cost-reduction mandate is showing up in material substitutions that the consumer cannot yet see."
+        },
+        {
+          "title": "Wolverine Worldwide's Saucony Named Brand of the Year by Footwear News – Company Announcement - Financial Times",
+          "source_name": "Google News - Footwear Industry",
+          "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQXJMRjMxZDRPQ3A5ZmJFUy15bjc2ZExibkJFQThFdGRtZ29nZjFZVUZIYVJlcTh2UlZDc0lmZXctay1jNjdxcUdzMHB3LTZDUURlTDFKYTFOY3doQUw5dWR4NXhad3VfU0ZHZ0x6eFNaY1lmTGFZQ2dtb0o2cnZwbGVYTlh2a3FDT3JBMDhvY2F0MHpVLXJkWDN0a1U2djVtNURoekVR?oc=5",
+          "category": "Brand News",
+          "relevance_score": 7,
+          "original_publish_time": "2026-11-16T17:00:00+00:00",
+          "misaki_take": "Brand of the Year recognition in a down market for Wolverine Worldwide shifts internal capital allocation conversations — expect Saucony to receive preferential sourcing bandwidth, R&D budget, and marketing co-investment heading into FY2027. Tier-one suppliers currently holding Saucony programs should use this window to renegotiate volume commitments before the brand's leverage increases."
+        },
+        {
+          "title": "Embassy of India in Romania Organizes Business Promotion Event to Showcase India's Footwear and Leather Industry and Promote Bharat Footwear and Leather Expo 2027 - The Indian Panorama",
+          "source_name": "Google News - Footwear Industry",
+          "source_url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQMWlQenI4ckE4X2l3dElfV3dYaVo1aWxDRzNMalZwbFdHZ21RbUNZZG1RV1VjSzkzWk9KcW01LW9ZSUNqTFZnU242ZENLNTBma2JVXzhnZXZ3VW5jRGlhS0t6SmRIRm5xNFlIemE1QkpmWU5JcngxbS1qY0ZsbDZnR2VxazBERTU2VmtUcVNObXdYR2hpVFVIdnJkSTUxbThMaU1PZ1VGWDlfYXh5REVrNUx1SlA1cHdqclpSQlF0Ync0cFQweTNteEs4UTBSSThmMlB1UWMxUHQybVA3TU85RmR6Tnhycnh3cURVeFFJQVhCcGJ0Z3JsVjFjVVRvYi1xOEctU2xkd2U3ME1lMzRBNW1CTUM1QjNiQUF3Z19OcVpzeTQ?oc=5",
+          "category": "Leather",
+          "relevance_score": 6,
+          "original_publish_time": "2026-11-22T07:44:00+00:00",
+          "misaki_take": "Romania sits at the geographic and commercial gateway between Eastern European manufacturing and Western European retail buyers, making it a deliberate and well-chosen venue for India to pitch its leather capabilities to an audience that is actively de-risking from Chinese chrome-tanned supply. If Indian tanneries can close the consistency and lead-time gap that European buyers still cite as their primary hesitation, this diplomatic groundwork could translate into real supplier diversification within 18 months."
+        },
+        {
+          "title": "Moncler and Moon Boot’s New Shoes Are Perfect for a Snowy Rodeo",
+          "source_name": "Footwear News",
+          "source_url": "https://wwd.com/footwear-news/shoe-industry-news/moncler-moon-boot-icon-high-rodeo-release-date-1239427523/",
+          "category": "Retail",
+          "relevance_score": 6,
+          "original_publish_time": "2026-11-19T16:20:58+00:00",
+          "misaki_take": ""
+        },
+        {
+          "title": "NikeSkims Unveils A Hiking Boot And Tech Runner For 2027",
+          "source_name": "Sneaker News",
+          "source_url": "https://sneakernews.com/2026/11/17/nikeskims-footwear-2027/",
+          "category": "Retail",
+          "relevance_score": 6,
+          "original_publish_time": "2026-11-18T04:25:34+00:00",
+          "misaki_take": "Moving NikeSKIMS into hike and performance categories is a deliberate category-expansion that will require last development, upper construction, and outsole tooling well outside the brand's current lifestyle DNA — that tooling investment signals Nike is treating this as a long-term platform, not a capsule. Factories that can offer both women's performance lasts and fashion-forward upper finishing in a single development package will have a structural advantage in these conversations."
+        },
+        {
+          "title": "Industrial dos Carvalhinhos strengthens its technological innovation to meet the European footwear industry's evolving demands - FashionNetwork France",
+          "source_name": "Google News - Footwear Industry",
+          "source_url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOdXBVXzY3WGZuLVI5azF2WFFsUkkwazBoVGMyMWlIQUhGSXhEdUFVckRoa3FoRTNZWmN3SnJfOEcxZnljMFJWQ3ZPSWV4cVdZWHBTMEN4SFZiSlVWeGRJOGhLV2JyUUphOXhMUlpOOWp3c3ZpTl9nQjJfOU9vQ2w4WFo5Q25jMEFXQVB5OXNSN19EMGlQWUNERDRHTTFDSmVFU0dIdXVYWFEzNl9tbmctVmNfTUtyaTdVUldJcS1TT29CXzhUbnpqVTltbHZNTEtQOVVPOG9sdG5BcGN0bWpkZ0dYZE1WajN4TU1PNzdtV1lENGYwQ0I3YTdRSzVkMnhUSjFXcg?oc=5",
+          "category": "Retail",
+          "relevance_score": 6,
+          "original_publish_time": "2026-11-17T18:15:05+00:00",
+          "misaki_take": "Portuguese component and machinery suppliers investing in technological capability right now are positioning ahead of the EU's incoming product environmental footprint requirements, which will reward suppliers with traceable, low-impact processes over those competing on price alone. Brazilian-origin Dos Carvalhinhos operating in this space suggests the European supply base is consolidating around suppliers who can demonstrate both innovation and compliance readiness simultaneously."
+        },
+        {
+          "title": "Gigi Hadid’s Guest in Residence Reunites With Moon Boot on Cozy Knit Footwear Capsule",
+          "source_name": "Footwear News",
+          "source_url": "https://wwd.com/footwear-news/shoe-industry-news/gigi-hadid-moon-boot-guest-in-residence-november-2026-1239420089/",
+          "category": "Sustainability",
+          "relevance_score": 6,
+          "original_publish_time": "2026-11-17T13:00:00+00:00",
+          "misaki_take": ""
+        }
+      ]
+    },
     {
       "id": "wk46-2026",
       "week_number": 46,
@@ -907,107 +1008,6 @@
           "relevance_score": 6,
           "original_publish_time": "2026-09-17T11:37:15+00:00",
           "misaki_take": "A 12% export growth projection from the Council for Leather Exports is aggressive but not implausible given current order diversion patterns, and if tannery and finishing capacity in Chennai and Kanpur can absorb the volume without compressing lead times, FOB pricing discipline should hold. The variable to watch is wet-blue and crust leather import throughput — if Indian tanneries are running on constrained raw hide supply while chasing export volume, quality consistency will be the first casualty."
-        }
-      ]
-    },
-    {
-      "id": "wk37-2026",
-      "week_number": 37,
-      "year": 2026,
-      "date_from": "2026-09-07",
-      "date_to": "2026-09-13",
-      "published": "2026-09-13T13:11:24.139221+00:00",
-      "intro": "Week 37 arrives with a familiar tension: premium collaborations and heritage revivals are pulling volume upward while Nike's structural noise continues to dominate the macro conversation. The signals this week are less about any single product and more about where the industry is quietly repositioning itself — on materials, on retail partnerships, and on who consumers are choosing to trust with their dollars. Read carefully; the patterns are compounding.",
-      "articles": [
-        {
-          "title": "Famous Footwear Sees Sales Gains From Jordan, Birkenstock, Brooks and More as Lifestyle Athletic Shoes Disappoint",
-          "source_name": "Footwear News",
-          "source_url": "https://wwd.com/footwear-news/shoe-industry-news/famous-footwear-jordan-birkenstock-brooks-sales-growth-1239204777/",
-          "category": "Brand News",
-          "relevance_score": 12,
-          "original_publish_time": "2026-09-09T21:20:02+00:00",
-          "misaki_take": ""
-        },
-        {
-          "title": "This Classic-yet-Overlooked Timberland Boot Is Getting a Special Release Designed by a Footwear Industry Veteran",
-          "source_name": "Footwear News",
-          "source_url": "https://wwd.com/footwear-news/sneaker-news/timberland-euro-hiker-gtx-curated-by-victor-kan-release-date-1239204190/",
-          "category": "Retail",
-          "relevance_score": 11,
-          "original_publish_time": "2026-09-09T18:02:53+00:00",
-          "misaki_take": ""
-        },
-        {
-          "title": "The Journeys Formula as Explained by Leaders from Dr. Martens, Timberland, New Balance, Adidas, Birkenstock and More",
-          "source_name": "Footwear News",
-          "source_url": "https://wwd.com/footwear-news/shoe-features/journeys-brand-partners-adidas-vans-ugg-1239203042/",
-          "category": "Brand News",
-          "relevance_score": 10,
-          "original_publish_time": "2026-09-09T14:30:00+00:00",
-          "misaki_take": ""
-        },
-        {
-          "title": "Hit Your Fall Step Goals with These Deals on New Balance, Adidas, Reebok, and More Lightweight Sneakers from $20 - People.com",
-          "source_name": "Google News - Sneaker Brand",
-          "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZTVVWVoyRVdJU2lfMG9PVlFzY0NNdVlSUDN1cDdVU2JPd3RKTGFRVWZMNVZFc1Q1MjJvc2IyUE1oNFMzZ3F2Q0R4QTNkS0xPbVBuSG5ZZUZlaFkybHRPVlVDZ2wzVzRvRFlaTHJPbVNsaXEzRW9aamJpSmhhLXY3Xw?oc=5",
-          "category": "Retail",
-          "relevance_score": 9,
-          "original_publish_time": "2026-09-13T07:15:00+00:00",
-          "misaki_take": "Consumer press running $20 entry-point roundups for New Balance and Adidas simultaneously tells you exactly where clearance inventory is sitting heading into Q4 — this is the downstream consequence of over-indexed production in the lightweight running and training categories that played out across 2025. Sourcing managers at competing brands should read this as a floor-price signal and adjust FOB negotiations for similar constructions accordingly, because the market is currently discounting the category hard."
-        },
-        {
-          "title": "Suicoke Readies More Boots and Mules for FW26",
-          "source_name": "Hypebeast",
-          "source_url": "https://hypebeast.com/2026/9/suicoke-fw26-boots-mules-vibram-beetle-lo-strike-fl-moc-poton-release-info",
-          "category": "Quality",
-          "relevance_score": 9,
-          "original_publish_time": "2026-09-11T09:50:04+00:00",
-          "misaki_take": "Suicoke's consistent expansion into waterproof leather boots at the ¥36,000–¥40,000 price band demonstrates that the brand is deliberately migrating its equity upward from sandal-season dependency into a year-round premium positioning — a structurally sound move, but one that requires significant factory partner development in lasted construction, which is a different capability than EVA molding. The STRIKE and BEETLE-LO execution will be the real test of whether their manufacturing base can hold quality tolerances at that price point across a full FW run."
-        },
-        {
-          "title": "Etro Leads the Birkenstock Boston and Gizeh With Paisley Outsoles and Pegaso Rivets",
-          "source_name": "Hypebeast",
-          "source_url": "https://hypebeast.com/2026/9/etro-birkenstock-boston-gizeh-fall-winter-2026-fw-26-collaboration-release-info",
-          "category": "Quality",
-          "relevance_score": 9,
-          "original_publish_time": "2026-09-07T08:30:27+00:00",
-          "misaki_take": "Birkenstock continues to demonstrate exceptional discipline in selecting collaborators who add decorative value without compromising the silhouette or the footbed IP — Etro's paisley outsoles and rivet hardware are surface-level interventions that protect the brand's functional narrative while accessing luxury fashion traffic. From a manufacturing standpoint, outsole decoration at this level requires close coordination between Birkenstock's cork compound lines and Etro's trim suppliers, and getting that handoff right is where most luxury collab production timelines slip."
-        },
-        {
-          "title": "The Nike Air Monarch Trades Leather for Suede in Two Gum-Soled Holiday Colorways",
-          "source_name": "Hypebeast",
-          "source_url": "https://hypebeast.com/2026/9/nike-air-monarch-suede-pack-ib2281-200-ib2281-001-official-images",
-          "category": "Leather",
-          "relevance_score": 8,
-          "original_publish_time": "2026-09-12T10:00:33+00:00",
-          "misaki_take": "Moving the Air Monarch from full-grain leather to suede is a cost-structure decision dressed in a materials storytelling wrapper — suede BOM at volume is friendlier on FOB, particularly given where bovine leather pricing has been trending through 2026. The gum outsole pivot is smart commercial positioning for holiday gifting, but sourcing teams should note that suede finish consistency across a high-volume SKU remains one of the harder quality variables to control, especially if production is split across multiple factory lines."
-        },
-        {
-          "title": "Rick Owens and Dr. Martens Link Up Again for a Brutalist Quad Sole Collection",
-          "source_name": "Hypebeast",
-          "source_url": "https://hypebeast.com/2026/9/rick-owens-and-dr-martens-link-up-again-for-a-brutalist-quad-sole-collection",
-          "category": "Sustainability",
-          "relevance_score": 8,
-          "original_publish_time": "2026-09-10T20:42:28+00:00",
-          "misaki_take": "The longevity of this collaboration — now producing Pull-On, Steel Toe, and Mule variations under a consistent brutalist language — signals that both parties have resolved the operational friction that typically kills multi-season collab programs, including last construction sharing and finish approval timelines. For Dr. Martens' manufacturing partners, maintaining quad-sole tooling across limited SKUs while keeping core Bouncing Soles lines running concurrently is a capacity balancing act that does not get enough credit in the brand conversation."
-        },
-        {
-          "title": "Nike forgot that Republicans buy sneakers, too, and now it's getting booted from the S&P 100 - Fox News",
-          "source_name": "Google News - Sneaker Brand",
-          "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ1VZRnM2M0VXZ29NY2cxYWMwVFp0aWo4enVTOXByX0NoZjFUdU1jWUo4SDByR1o0aVVMc3o4Zkl6cjZCM1E0VVJ1ZU93VXAtRmxab1M5X0lYTURWTmkyODdIWmtUZWxwZGtFZlBsWkt1UnBKUGtLaXVJNjZoVUJKWmJzZm9CS0hTUG5uUmZkelZDeDlncG9NMGIwT1Myb2pxbl9N?oc=5",
-          "category": "Retail",
-          "relevance_score": 8,
-          "original_publish_time": "2026-09-09T17:18:56+00:00",
-          "misaki_take": "S&P 100 removal is an index rebalancing reflecting sustained market cap erosion — it is a lagging indicator of operational and brand strategy failures that people in this industry have been watching compound since 2023, not a political story. The more consequential read for sourcing executives is that Nike's ongoing restructuring continues to create capacity availability in Vietnam and Indonesia that competing brands can access, and the factory relationship dynamics in those countries are actively shifting as a result."
-        },
-        {
-          "title": "Patta Reveals Upcoming Crocs Classic Clog Collab With Vibram Soles",
-          "source_name": "Sneaker News",
-          "source_url": "https://sneakernews.com/2026/09/08/patta-crocs-classic-clog-vibram/",
-          "category": "Supply Chain",
-          "relevance_score": 8,
-          "original_publish_time": "2026-09-08T19:30:51+00:00",
-          "misaki_take": "Placing Vibram's outsole technology onto a Crocs Classic Clog is a technically interesting brief — it requires bonding a traditional rubber compound to Croslite EVA foam, which has well-documented adhesion challenges that any experienced sole supplier will immediately recognize. The commercial logic is clear — Patta brings credibility and Vibram brings performance legitimacy — but the production execution on this bonding interface will determine whether this collab becomes a quality reference point or a cautionary one."
         }
       ]
     }
