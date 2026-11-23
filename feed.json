@@ -1,8 +1,137 @@
 {
-  "last_updated": "2026-11-23T15:39:30.645337+00:00",
-  "total_articles": 112,
+  "last_updated": "2026-11-23T22:39:12.796482+00:00",
+  "total_articles": 106,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "6c3e17ac90ca",
+      "title": "All the Best Shoes Look Like Your Grandma’s Couch",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/clarks-kith-grandma-shoes/",
+      "original_publish_time": "2026-11-23T22:22:00+00:00",
+      "scraped_time": "2026-11-23T22:31:53.549280+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "ASICS",
+        "Vans",
+        "Dr. Martens",
+        "Clarks"
+      ],
+      "keywords_matched": [
+        "footwear",
+        "shoes"
+      ],
+      "relevance_score": 8,
+      "summary": "Kith and Proleta Re Art's artisanal spin on Clarks fits a trend at ASICS, Vans, and Dr. Martens towards textural footwear that looks made from an old couch.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "97a1e4a9aee7",
+      "title": "This Ain’t Your Normal Nike Sneaker-Boot — It’s Better",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/nike-air-max-goadome-low-foam-black/",
+      "original_publish_time": "2026-11-23T20:22:02+00:00",
+      "scraped_time": "2026-11-23T22:31:53.550112+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 5,
+      "summary": "Nike's Air Max Goadome Low Foam sneaker-boot gets a stealthy all-black makeover. It's easily the cleanest release yet.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "4a34be81b290",
+      "title": "Foot Locker Is a Focus for Analysts When Dick’s Reports Q3 Results on Tuesday",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/dicks-q3-report-wall-street-foot-locker-nike-jordan-brand-1239462436/",
+      "original_publish_time": "2026-11-23T20:01:02+00:00",
+      "scraped_time": "2026-11-23T22:28:03.354240+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "The Q3 report will see Wall Street focus on Foot Locker due to softer lifestyle shoe sales and pullback on Nike sportswear and Jordan Brand shoes.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "7312f1a6d6c3",
+      "title": "Will Gen Z Finally Come Around to a Millennial Footwear Staple?",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-trends/socks-heels-sneakers-footwear-trend-millennials-gen-z-1239412512/",
+      "original_publish_time": "2026-11-23T19:51:45+00:00",
+      "scraped_time": "2026-11-23T22:28:03.356163+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "sneakers"
+      ],
+      "relevance_score": 4,
+      "summary": "With the rise of peekaboo socks and foot covers, can the no-show socks and sneakers look of the 2000s make a comeback?",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "454c7bc0bed1",
+      "title": "Solefly’s Aqua-tinged Air Jordan 5 Is Dropping in Just Over a Week",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/solfly-air-jordan-5-release-date-december-iu0734-001-1239462301/",
+      "original_publish_time": "2026-11-23T17:08:59+00:00",
+      "scraped_time": "2026-11-23T22:28:03.356684+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Jordan"
+      ],
+      "keywords_matched": [
+        "sole"
+      ],
+      "relevance_score": 5,
+      "summary": "One of the last major Air Jordan brand collabs of 2026 has been confirmed.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "1edaeaea65fa",
+      "title": "People Have Been Lacing Up These Kris Van Assche Sneakers Since 2009",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/kris-van-assche-sneaker-multi-lace-comeback-1239462014/",
+      "original_publish_time": "2026-11-23T16:11:46+00:00",
+      "scraped_time": "2026-11-23T22:28:03.357145+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "boot",
+        "sneakers"
+      ],
+      "relevance_score": 4,
+      "summary": "The designer is relaunching his popular hightop \"multilace\" style in late November as part of a reboot of his signature brand.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "b10bf497906a",
       "title": "India’s Textile and Apparel Exports Need 20% Annual Growth to Reach US $100 Billion by FY ’31: Report",
@@ -2069,257 +2198,6 @@
       ],
       "relevance_score": 5,
       "summary": "The relationship Nike has with its collaborators is a true creative ecosystem, Nike’s own creations influencing special projects by outside actors and, on occasion, the... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike Channels Don C With Quilted Uppers On The Air Force 1 appeared first on Sneaker News . The post Nike Channels Don C With Quilted Uppers On The Air Force 1 appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "61723c097c1f",
-      "title": "Jordan’s Sporty-Casual Sneaker Belongs in the Skate Park",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/jordan-strada-sneakers/",
-      "original_publish_time": "2026-11-16T22:38:36+00:00",
-      "scraped_time": "2026-11-17T00:41:44.933058+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Nike",
-        "Jordan"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "The new Jordan Strada is a skate shoe dressed in casual clothes, complete with Nike Air tech & stylish colorways.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "385332dc1cc2",
-      "title": "The Nike KD 19 Keeps Exploring Graphic Uppers In “Lagoon Pulse”",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/11/16/nike-kd-19-lagoon-pulse-ja0780-100/",
-      "original_publish_time": "2026-11-16T22:00:31+00:00",
-      "scraped_time": "2026-11-17T00:38:06.170341+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike",
-        "Converse"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 6,
-      "summary": "The Nike KD 19 has followed a path not unlike that of the Converse SHAI 001: roll out in simple monotone colorways, then slowly fold... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Nike KD 19 Keeps Exploring Graphic Uppers In \"Lagoon Pulse\" appeared first on Sneaker News . The post The Nike KD 19 Keeps Exploring Graphic Uppers In “Lagoon Pulse” appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "d84707426717",
-      "title": "Wolverine Worldwide’s Saucony Named Brand of the Year by Footwear News - Shop Eat Surf Outdoor",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQckk4alBnTmYwOE9XeFVoUURlcXAwdzFFU3FDa1hvSFBMSFpyTTg1RVhZZ25sWUpaZmNQQVNtV1o5RmFzbnhSekVxem9OQU5paElOUnBWenhOSDFhNWZ2cThQeGZhVXpja3FGcXdpSHhReTFKaFpqSDJWdTRJVUhNaTl3SElPbC1HdjBFSmJFMWJycXZCNjU0S1l3dzJ6cEkwR0swamZsakRJajVtSXFreEZ4LWF3MFFuR200NHZYaFphcXhR?oc=5",
-      "original_publish_time": "2026-11-16T20:36:31+00:00",
-      "scraped_time": "2026-11-17T04:59:21.195221+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Wolverine",
-        "Wolverine Worldwide"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 7,
-      "summary": "Wolverine Worldwide’s Saucony Named Brand of the Year by Footwear News Shop Eat Surf Outdoor",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "996da44e6a37",
-      "title": "Vans UGG-ified Its Skate-able Boat Shoes",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/vans-2-eyelet-boat-shoes/",
-      "original_publish_time": "2026-11-16T20:36:16+00:00",
-      "scraped_time": "2026-11-16T20:53:29.599457+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Vans",
-        "UGG"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 7,
-      "summary": "Vans drops a new sherpa version of its 2-Eyeley Boat Shoe, resulting in an fluffy winter-ready version of the hybrid model.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "bebfabbe252a",
-      "title": "Trump, Xi Meet This Week: Could Footwear See U.S., China Pause Trade Truce Extension a Second Time?",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/shoe-firms-reduced-tariff-rates-jan-2027-trade-pause-1239417432/",
-      "original_publish_time": "2026-11-16T20:31:11+00:00",
-      "scraped_time": "2026-11-16T20:49:19.854217+00:00",
-      "time_delta_mins": 0,
-      "category": "Trade Data",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "For now, shoe firms continue to see reduced tariff rates through Jan. 10, 2027, after the U.S. and China officially extended the truce on their current trade war.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "2770ed4f7bc7",
-      "title": "Shedeur Sanders’ First Nike Air Diamond Turf Release Is Pure Money",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/11/16/shedeur-sanders-nike-air-dt-max-96-low-iz5081-600/",
-      "original_publish_time": "2026-11-16T20:00:03+00:00",
-      "scraped_time": "2026-11-16T20:49:30.595374+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "The return of Deion Sanders shoes to the spotlight has been a full family affair, from retro styles made famous by the man himself to... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Shedeur Sanders' First Nike Air Diamond Turf Release Is Pure Money appeared first on Sneaker News . The post Shedeur Sanders’ First Nike Air Diamond Turf Release Is Pure Money appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "027c994c9a8c",
-      "title": "Even in Camo, Nike’s Split-Toe Sneaker Refuses to Blend In",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-air-rift-hemp-camo/",
-      "original_publish_time": "2026-11-16T19:13:33+00:00",
-      "scraped_time": "2026-11-16T20:53:29.600187+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "sandal"
-      ],
-      "relevance_score": 3,
-      "summary": "Nike rereleases its camouflage Air Rift sneaker-sandal for the fall. Here's everything on the drop that's anything but hidden.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "a5f018080df6",
-      "title": "Royce O’Neale Wears adidas Harden Vol. 10 “Marvel” Customs Ahead Of Avengers: Doomsday",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/11/16/royce-oneale-adidas-harden-vol-10-marvel-customs/",
-      "original_publish_time": "2026-11-16T19:00:34+00:00",
-      "scraped_time": "2026-11-16T20:49:30.597983+00:00",
-      "time_delta_mins": 0,
-      "category": "Trade Data",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 3,
-      "summary": "Even at the pro ranks, custom sneakers and cleats are seldom good enough to warrant any real discussion. We’re betting a good number of you... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Royce O'Neale Wears adidas Harden Vol. 10 \"Marvel\" Customs Ahead Of Avengers: Doomsday appeared first on Sneaker News . The post Royce O’Neale Wears adidas Harden Vol. 10 “Marvel” Customs Ahead Of Avengers: Doomsday appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "545128076950",
-      "title": "Sorel Pushes Its Icons Forward With the “Age of Discovery” Collection",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/11/sorel-pushes-its-icons-forward-with-the-age-of-discovery-collection",
-      "original_publish_time": "2026-11-16T17:00:42+00:00",
-      "scraped_time": "2026-11-16T20:49:30.455726+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "boot",
-        "midsole",
-        "sole",
-        "upper"
-      ],
-      "relevance_score": 4,
-      "summary": "On the eve of its 65th anniversary year, Sorel is heading into Fall/Winter 2026 with its “Age of Discovery” collection, a lineup that merges the brand’s heritage with new innovation. At its center are three new men’s styles: the Callsign Enigma GTX sneaker, the Daystorm Horizon Zip GTX boot and the Caribou Horizon Zip GTX boot. Each one pairs arctic-grade performance with a sharper, street-ready attitude.The Callsign Enigma GTX blends street style with outdoor grit. A waterproof GORE-TEX® textile upper is finished with a leather mudguard and a gusseted rubberized zip shroud. Speed laces with a cord-lock and SOREL-branded aglets handle the closure, and reflective SOREL branding runs along both quarters. Underfoot, a lightweight molded LIVELYFOAM midsole and a removable Ortholite footbed sit",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "a9715c5fd125",
-      "title": "Wolverine Worldwide's Saucony Named Brand of the Year by Footwear News – Company Announcement - Financial Times",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQXJMRjMxZDRPQ3A5ZmJFUy15bjc2ZExibkJFQThFdGRtZ29nZjFZVUZIYVJlcTh2UlZDc0lmZXctay1jNjdxcUdzMHB3LTZDUURlTDFKYTFOY3doQUw5dWR4NXhad3VfU0ZHZ0x6eFNaY1lmTGFZQ2dtb0o2cnZwbGVYTlh2a3FDT3JBMDhvY2F0MHpVLXJkWDN0a1U2djVtNURoekVR?oc=5",
-      "original_publish_time": "2026-11-16T17:00:00+00:00",
-      "scraped_time": "2026-11-17T00:38:16.787065+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Wolverine",
-        "Wolverine Worldwide"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 7,
-      "summary": "Wolverine Worldwide's Saucony Named Brand of the Year by Footwear News – Company Announcement Financial Times",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "fe19c3b1dbe6",
-      "title": "STOKE Shoes Offers the Right Fit - New Hampshire Magazine",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNR0NIMGpIaGc0cmpXZGt0dS0zbTExQzVmVU1xUG1vOHhTd2hVUkN1TVdSZDBRVUJoWmR0R20xdkU2RzVReGpvMzVjZzhWQnpoNGs5THJ6OVdQU1A0WFBMT19lTmFURmhXNDlCNQ?oc=5",
-      "original_publish_time": "2026-11-16T16:25:53+00:00",
-      "scraped_time": "2026-11-17T00:38:16.784826+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "STOKE Shoes Offers the Right Fit New Hampshire Magazine",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "2cd28ce53314",
-      "title": "Indonesian leather and footwear exports grew 4.36% to US$7.22 billion - IDNFinancials",
-      "source_name": "Google News - Leather Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOY3hZX1FvRnhvRHZRX1ZGdTFtN0hQSmxCUUxoalg1WkJvakhZUVM4c2NLTE5Jbld0WHJMRnZDcHZ2ZC00YXhVMU41MDFjWnEzaTNORS1ZZzlHWWdDRWNQOWMxaDhXV092THlsTGo1VXlFa041dEtIX2VGRmI4N1FJbjlfa2EwaUZ4eXEycnZvTzdJUHZKTmc4NXVTMm8wOHU5cjVBMkgtcUcyNDNU?oc=5",
-      "original_publish_time": "2026-11-16T15:40:00+00:00",
-      "scraped_time": "2026-11-16T20:50:03.549631+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear",
-        "footwear exports"
-      ],
-      "relevance_score": 6,
-      "summary": "Indonesian leather and footwear exports grew 4.36% to US$7.22 billion IDNFinancials",
       "ren_take": "",
       "image_url": ""
     }
