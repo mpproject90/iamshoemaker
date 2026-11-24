@@ -1,8 +1,130 @@
 {
-  "last_updated": "2026-11-24T07:00:46.768202+00:00",
-  "total_articles": 99,
+  "last_updated": "2026-11-24T15:33:14.773339+00:00",
+  "total_articles": 98,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "efb99988dc4e",
+      "title": "Bearpaw Parent Establishes Presence in EVA Footwear Via Joybees",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/bearpaw-romeo-juliette-joybees-molded-footwear-acquisition-1239428503/",
+      "original_publish_time": "2026-11-24T14:00:00+00:00",
+      "scraped_time": "2026-11-24T15:22:04.971741+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear",
+        "shoe brand"
+      ],
+      "relevance_score": 4,
+      "summary": "The company acquired the Denver-based shoe brand Joybees last month.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "f8987aa236f5",
+      "title": "KEEN is trying to solve one of the footwear industry's biggest problems, but its sustainability chief says \"we're not there yet\" when it comes to fully recyclable shoes - T3",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSFpjMEJuZzZ5WGpScThmNm1UdWV2YmNRVGJ3TXN3MWNFbWxoTmFUNUxIcXdjV2ZERFdCOHduZEJZMFRySVpxaTctOE1SZzVRY1R2WGQtaGNCQ3RhTXJTLW5NVHBDSWVXV2lWTDRIeTZrRFZSeFJ6YjRvVWVXZGhqM1VnR2lsZ0ZsUjRDbWd3?oc=5",
+      "original_publish_time": "2026-11-24T13:15:00+00:00",
+      "scraped_time": "2026-11-24T15:22:25.989812+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Keen"
+      ],
+      "keywords_matched": [
+        "footwear",
+        "footwear industry",
+        "shoes"
+      ],
+      "relevance_score": 11,
+      "summary": "KEEN is trying to solve one of the footwear industry's biggest problems, but its sustainability chief says \"we're not there yet\" when it comes to fully recyclable shoes T3",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "61b41878e55f",
+      "title": "Onalaja debuts in footwear sector with 'wearable art' - FashionNetwork France",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONzNZbmJpc0RGazVWSkx5M014YktKM01pckI3X1ZmQjNzcUJTRmJKai1ocEJRY1NuVGJlS1U4RDdYUmd2N3AwNE5GRS1pb3h0UWFjOVVzVU5KbUNzU0lkYm1tUndKSENvS2M1Y3IzQ3psUjZ1czlIRkxwcVZXU2F2bldzR0xJMWxtUDdRRkl5LTdVV3Rzdnk5U3Y4VEx1MTVhcUE?oc=5",
+      "original_publish_time": "2026-11-24T12:56:18+00:00",
+      "scraped_time": "2026-11-24T15:22:25.992457+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Onalaja debuts in footwear sector with 'wearable art' FashionNetwork France",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "1158f5b983ed",
+      "title": "Footwear destocking still a pain for Coats as trading update reflects market toughness - FashionNetwork Canada",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNmVwakUxVlNHRmpLNGpyZkd3aE8zc3RDNGlzUW1OZHhndDh4N0JYdWdCcmUxR3l5b2liNTJzY1g4Y2ZLQ3k3WEg1VWl1bndKTEMySXI4a1R3cy1yLWlRUVY1UWtPcU1tUnQtNWRGaFJtN2hLdHNQa091blNfWEgzSkQ4Y0o5VW5UYTNvWWM3ZGFiOFpXODFmbmpZa1c2OVdCR3hvRXk1LUhTbVkxdjh0ZHlqaWZVWDF2dWpMRHFpNEJ1M09YeFhGTW9MYk5sNEE?oc=5",
+      "original_publish_time": "2026-11-24T12:32:25+00:00",
+      "scraped_time": "2026-11-24T15:22:25.990701+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Footwear destocking still a pain for Coats as trading update reflects market toughness FashionNetwork Canada",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "a9a896deefc8",
+      "title": "Ronnie Fieg and ASICS Channel Darth Vader in New Star Wars Collaboration",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/11/star-wars-ronnie-fieg-asics-gel-lyte-iii-remastered-darth-vader-1203b520-020-release-info",
+      "original_publish_time": "2026-11-24T09:40:24+00:00",
+      "scraped_time": "2026-11-24T15:22:15.297017+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "ASICS"
+      ],
+      "keywords_matched": [
+        "insole",
+        "sole"
+      ],
+      "relevance_score": 4,
+      "summary": "Summary Ronnie Fieg and ASICS revisit their 2008 “Black Patent” release with an official Darth Vader-inspired GEL-LYTE III Remastered.The “Castlerock” colorway features perforated nubuck, leather overlays, red accents, and character insoles in a commemorative case.Retailing for $220 USD, the pair releases globally via Kith on November 25. Name: STAR WARS x Ronnie Fieg for ASICS GEL-LYTE III Remastered “Darth Vader”Colorway: CastlerockSKU: 1203B520-020MSRP: $220 USDRelease Date: November 20 (Kith London Early Release), November 25 (Global)Where to Buy: KithRonnie Fieg and ASICS have reunited for the GEL-LYTE III Remastered in “Castlerock,” an official Star Wars collaboration drawing from Darth Vader’s depiction throughout the franchise. The pair looks back to the 2008 “Black Patent” GEL-LYT",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "ebf0b2ab9de2",
+      "title": "Dyenamik's XBOX Anniversary Collection Prints 25 Years of Console Hardware Onto Jerseys",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/11/dyenamik-xbox-the-anniversary-collection-jersey-release-info",
+      "original_publish_time": "2026-11-24T06:46:38+00:00",
+      "scraped_time": "2026-11-24T15:22:15.302039+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sole"
+      ],
+      "relevance_score": 3,
+      "summary": "Summary Dyenamik marks 25 years of XBOX with three heritage jerseys, each one built around a different era of the consoleHardware details like the original X-shaped chassis, the 360's Ring of Light and the see-through shells of later consoles become tonal graphicsA 200-piece Collector's Box modeled on the original 2001 console holds the full set Dyenamik is celebrating a quarter-century of gaming history with the XBOX Anniversary Collection, a set of three heritage jerseys paired with a strictly limited Collector's Box. The designs skip oversized logos and take their graphics straight from the hardware, so each jersey stands for one generation of the platform. All three use heavyweight fabric and sublimation printing, which sets the color into the material so the artwork won't fade or wear",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "6c3e17ac90ca",
       "title": "All the Best Shoes Look Like Your Grandma’s Couch",
@@ -1903,154 +2025,6 @@
       "keywords_matched": [],
       "relevance_score": 4,
       "summary": "Three colorways are coming, including \"Triple White\" and \"Triple Black.\"",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "2ac93e3807a9",
-      "title": "Gigi Hadid’s Guest in Residence Reunites With Moon Boot on Cozy Knit Footwear Capsule",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/gigi-hadid-moon-boot-guest-in-residence-november-2026-1239420089/",
-      "original_publish_time": "2026-11-17T13:00:00+00:00",
-      "scraped_time": "2026-11-17T13:55:33.206579+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "boot",
-        "footwear"
-      ],
-      "relevance_score": 6,
-      "summary": "This second collection comes one year after the duo's debut tie-up.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "f9048f30b49b",
-      "title": "Nike and Devin Booker Officially Unveil the Book 3 Alongside a fragment design Collaboration",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/11/devin-booker-nike-book-3-official-launch-announcement",
-      "original_publish_time": "2026-11-17T10:00:44+00:00",
-      "scraped_time": "2026-11-17T13:55:43.795013+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "midsole",
-        "sole",
-        "upper"
-      ],
-      "relevance_score": 5,
-      "summary": "Summary Nike and Phoenix Suns guard Devin Booker have officially introduced the Nike Book 3 basketball sneakerThe new silhouette pairs a predominantly mesh upper with a forefoot Zoom Strobel and Cushlon 3.0 midsoleThe Book 3 and its accompanying apparel collection are set to release globally in Spring 2027 Nike and Devin Booker have officially introduced the Nike Book 3, marking the next evolution in the athlete's signature basketball franchise. Unveiled as part of the brand's World of Athletes showcase, the new silhouette continues to operate at the intersection of responsive on-court performance and timeless, everyday style.Created for players who prioritize freedom of movement and a low-to-the-ground court feel, the Nike Book 3 perfectly balances an athlete-curated performance system wi",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "156df105a883",
-      "title": "WATCH Boots introduces black Advantage Card in social competition",
-      "source_name": "Retail Gazette",
-      "source_domain": "retailgazette.co.uk",
-      "source_url": "https://www.retailgazette.co.uk/blog/2026/11/watch-boots-introduces-black-advantage-card-in-social-competition/",
-      "original_publish_time": "2026-11-17T09:02:21+00:00",
-      "scraped_time": "2026-11-17T19:41:46.626840+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 3,
-      "summary": "Boots is giving away £20,000 in Advantage Card points in aid of Black Friday, and shoppers have the chance to get their hands on £1,000 each. Following consumers reaction to its exclusive Advantage Card Black Cards, Boots is giving even more shoppers the chance to get their hands on £1,000 worth of points this Black...",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "002195be5efe",
-      "title": "Crocs Honors the Island With the \"Puerto Rico\" Classic Clog",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/11/crocs-classic-clog-puerto-rico-216181-100-official-look-release-info",
-      "original_publish_time": "2026-11-17T08:39:44+00:00",
-      "scraped_time": "2026-11-17T13:55:43.796900+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Crocs"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Summary Crocs has unveiled a new iteration of its Classic Clog dedicated to celebrating Puerto RicoThe white Croslite silhouette features the island's flag wrapping around the sides alongside thematic Jibbitz charmsThe celebratory footwear is scheduled to arrive during the Holiday 2026 season via Crocs and select retailers Name: Crocs Classic Clog \"Puerto Rico\"Colorway: White/Blue/RedSKU: 216181-100MSRP: $70 USDRelease Date: Holiday 2026Where to Buy: CrocsCrocs is paying homage to the island of Puerto Rico with its latest footwear release, officially introducing the Classic Clog \"Puerto Rico.\" Blending the brand's signature comfortable construction with vibrant cultural storytelling, the upcoming drop goes well beyond traditional red, white, and blue color blocking to deliver a highly deta",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "5cce02615744",
-      "title": "HOKA Taps WTAPS for an Armor-Inspired Speedgoat TS Sneaker",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/11/wtaps-hoka-speedgoat-ts-galactic-grey-black-volcanic-ash-1185590-ghg-1185590-bkvl-collaboration-release-info",
-      "original_publish_time": "2026-11-17T07:11:51+00:00",
-      "scraped_time": "2026-11-17T13:55:43.798888+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Hoka"
-      ],
-      "keywords_matched": [
-        "midsole",
-        "sole"
-      ],
-      "relevance_score": 4,
-      "summary": "Name: WTAPS x HOKA Speedgoat TSColorway: Galactic Grey/High Rise, Black/Volcanic AshSKU: 1185590-GHG, 1185590-BKVLMSRP: $175 USDRelease Date: November 27Where to Buy: HOKAThe ongoing collaboration between WTAPS and HOKA continues with the Speedgoat TS, blending WTAPS’ utilitarian streetwear aesthetic with HOKA’s renowned trail-running performance.Releasing in two distinct colorways - “Galactic Grey/High Rise” and “Black/Volcanic Ash” - the silhouette utilizes a breathable mesh base overlaid with extensive protective paneling across the toe, midfoot, and heel, giving the sneaker an almost armor-like appearance. The “Galactic Grey” iteration relies on varying shades of grey accented by sharp pops of purple on the heel pull tab and midsole, while the “Black/Volcanic Ash” version takes a darke",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "5cb911c2ffb2",
-      "title": "Bare Knuckles Brings Brooks’ Archival Cascadia 1 Back to the Trail",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/11/bare-knuckles-brings-brooks-archival-cascadia-1-back-to-the-trail",
-      "original_publish_time": "2026-11-17T07:08:25+00:00",
-      "scraped_time": "2026-11-17T13:55:43.799831+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Brooks"
-      ],
-      "keywords_matched": [
-        "shoes",
-        "sole"
-      ],
-      "relevance_score": 4,
-      "summary": "Name: Brooks x Bare Knuckles Cascadia 1Colorway: TBCSKU: TBCMSRP: $160 USDRelease Date: Available NowWhere to Buy: Bare Knuckles, BrooksBrooks Running and Portland clothing label Bare Knuckles have teamed up to reissue the Cascadia 1, bringing one of Brooks’ most storied trail shoes back from the archive in a limited-edition release.First introduced in 2004, the Cascadia 1 earned its reputation underfoot: Brooks athlete Scott Jurek wore it during his sixth consecutive Western States 100 victory. This version keeps that performance lineage intact, restoring the original Pivot Post technology, roll bar and HydroFlow, and adding upgraded foam for more comfort on the trail and in daily wear. A chunky, dark brown sole unit carries the archival profile, with sculpted sidewalls, “PIVOT” embossed ",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "6b56454bd9a7",
-      "title": "Closer Look at the Black and White Pairs of the Travis Scott x Nike Air Force 1 \"GTA 6\"",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/11/travis-scott-rockstar-nike-air-force-1-low-07-gta-6-black-white-fire-pink-jj7604-001-jj7602-100-release-info",
-      "original_publish_time": "2026-11-17T07:05:05+00:00",
-      "scraped_time": "2026-11-17T13:55:43.801164+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 4,
-      "summary": "Summary Reports suggest Travis Scott, Rockstar Games, and Nike are teaming up for a collaborative Air Force 1 Low collectionThe public release is expected to focus on a duo of White/Fire Pink and Black/Fire Pink colorwaysThe highly anticipated footwear pack is currently rumored to launch on November 21 Name: Travis Scott x Rockstar x Nike Air Force 1 Low ’07 “GTA 6”Colorway: Black/Fire Pink, White/Fire PinkSKU: JJ7604-001, JJ7602-100MSRP: $130 USDRelease Date: November 21, 2026Where to Buy: NikeNike, Travis Scott, and Rockstar Games are reportedly joining forces for a highly anticipated crossover release, with rumors pointing to a collaborative Nike Air Force 1 Low \"GTA 6\" pack. Currently expected to drop this fall, early reports indicate the public retail launch will primarily focus on di",
       "ren_take": "",
       "image_url": ""
     }
