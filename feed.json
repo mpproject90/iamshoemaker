@@ -1,8 +1,107 @@
 {
-  "last_updated": "2026-11-25T15:14:26.369918+00:00",
-  "total_articles": 97,
+  "last_updated": "2026-11-25T20:34:28.604572+00:00",
+  "total_articles": 93,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "59622ff08492",
+      "title": "Why Kohl’s Footwear Sales Grew in Q3 and Shoe Station’s Didn’t",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/kohls-value-shoe-station-rebanner-shoe-carnival-1239465927/",
+      "original_publish_time": "2026-11-25T20:08:44+00:00",
+      "scraped_time": "2026-11-25T20:23:17.013336+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Kohl's focused on value, but Shoe Station's rebannering missed the needs of its value-focused Shoe Carnival customers.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "e94c48f97ec8",
+      "title": "Denim Tears Brings Its Cotton Wreath To The Timberland 6” Boot",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/11/25/denim-tears-timberland-6-inch-boot-cotton-wreath/",
+      "original_publish_time": "2026-11-25T19:00:54+00:00",
+      "scraped_time": "2026-11-25T20:23:32.335725+00:00",
+      "time_delta_mins": 0,
+      "category": "Brand News",
+      "brands_mentioned": [
+        "Timberland"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 5,
+      "summary": "Denim Tears has reached a level of ubiquity that few streetwear brands ever do. Despite widening their collaborative roster in recent years, adding partners like... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Denim Tears Brings Its Cotton Wreath To The Timberland 6” Boot appeared first on Sneaker News . The post Denim Tears Brings Its Cotton Wreath To The Timberland 6” Boot appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "32c7a69c6a2f",
+      "title": "Portuguese clothing and footwear manufacturers join forces to win over the North American market - FashionNetwork - The World's Fashion Business News",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVlFiYlZpN21LS01qTVlHVFgwc0JVN2hab2FESWVmdGhadFlZbkdxV0tpeG9zYlNtM05EVHdKVG4xRnBJa0pMR1Q1OGdpbGRDVEZWRU1hZEZzamFDVk1ZZDBGRDdrdHVIUDhJN2xyaWVVa3JIMk5MZFNOY2xudE5POXRoT2Z4Rnlxamx6RGkxcDF6RWZhTkk4UUFWQ1RPRHROWW0yWUZ6R3pqN1NWTUlBdGdXV254X0JvWXZsczFkYUdBbUdIc2VVVVlZWWVFY1A0NUZIZnlheDZsb0Qw?oc=5",
+      "original_publish_time": "2026-11-25T17:49:03+00:00",
+      "scraped_time": "2026-11-25T20:23:43.099512+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Portuguese clothing and footwear manufacturers join forces to win over the North American market FashionNetwork - The World's Fashion Business News",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "8a328aafe0e9",
+      "title": "Rick Owens Updates Moncler’s Trailgrip Boot in Newest Collab",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/rick-owens-moncler-trailgrip-pentalace-boot-release-date-1239465848/",
+      "original_publish_time": "2026-11-25T15:41:04+00:00",
+      "scraped_time": "2026-11-25T20:23:17.015844+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 3,
+      "summary": "The shoe was previewed in June at an event at Moncler’s new global headquarters in Milan.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "8a8ffbcfa8a9",
+      "title": "Nike’s Gyakusou Running Line Was Ahead of Its Time — Now It Will Release Its First Shoes in Five Years",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-gyakusou-alphafly-4-vomero-plus-release-date-1239463981/",
+      "original_publish_time": "2026-11-25T15:24:00+00:00",
+      "scraped_time": "2026-11-25T20:23:17.016345+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 5,
+      "summary": "Undercover founder Jun Takahashi brings his touch to the Alphafly 4 and Vomero Plus.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "ff4f1981151c",
       "title": "OrthoLite Lift Insoles Have Supercritical Foaming Technology",
@@ -59,6 +158,25 @@
       ],
       "relevance_score": 3,
       "summary": "AAPE BY *A BATHING APE® has teamed up with BABY MILO® once again for Fall/Winter 2026. The campaign was shot at a real Tokyo arcade and stars Japanese gyaru model Yukipoyo alongside twin influencers Aqua & Akuto. The crew filled the crane machines with BABY MILO® plushies, and the cast moves between the neon lights and stacked toys for a playful, street-ready feel.Graphics lead the way this season. BABY MILO® and his animal friends appear as hidden Easter eggs throughout AAPE’s signature camo, so fans have a reason to look closely. The hoodie, long AAPE’s most recognizable piece, keeps the brand’s asymmetric hood with different embroidery on each side. This time the hood also splices half of AAPE’s MOONFACE logo with half of BABY MILO®’s face. The resulting split face shows both brands at ",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "6bd6513747b8",
+      "title": "Boots to open one of its largest UK stores in major Lakeside expansion",
+      "source_name": "Retail Gazette",
+      "source_domain": "retailgazette.co.uk",
+      "source_url": "https://www.retailgazette.co.uk/blog/2026/11/boots-to-open-one-of-its-largest-uk-stores-in-major-lakeside-expansion/",
+      "original_publish_time": "2026-11-25T08:22:04+00:00",
+      "scraped_time": "2026-11-25T20:26:29.362982+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 3,
+      "summary": "Boots is set to transform its Lakeside Shopping Centre store into one of its biggest UK locations. The company is planning a major expansion and refurbishment of its existing shop at the Essex shopping destination, creating a 40,000 sq ft flagship across a single floor. The overhaul will make Lakeside one of Boots’ largest UK...",
       "ren_take": "",
       "image_url": ""
     },
@@ -1797,214 +1915,6 @@
       ],
       "relevance_score": 3,
       "summary": "Brazilian Footwear Export Revenue Falls 13.5% in First Ten Months of 2026 DatamarNews",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "d5ca798ffc2a",
-      "title": "Jordan Brand Celebrates The Masters Tournament On The Air Jordan 11 Low Golf",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/11/18/air-jordan-11-low-golf-masters/",
-      "original_publish_time": "2026-11-18T20:00:14+00:00",
-      "scraped_time": "2026-11-18T23:15:05.403793+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Keen",
-        "Jordan"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "If it weren’t already obvious after the Air Jordan “Reimagined” line announcement, the Jumpman is approaching the years ahead with a keen interest in bringing... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Jordan Brand Celebrates The Masters Tournament On The Air Jordan 11 Low Golf appeared first on Sneaker News . The post Jordan Brand Celebrates The Masters Tournament On The Air Jordan 11 Low Golf appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "ad2351a9f5b5",
-      "title": "Fugazi (The Streetwear Brand) Tries Another Sneaker Collab, This Time with New Balance - Sole Retriever",
-      "source_name": "Google News - Sneaker Brand",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUEVDU0dCSDFsdjJsQ25EZi1ZZUtwb3c2Z21NVGM3cmczTjJXS0tRRXEzN1duSTBhSnJkUjFWbi1tYXJ0Y0s0MVhEQ3hTWEltTV82cXVZM19LVy1sS2dLR3l5cHhXVC1zdm5sOC1sSGY4LVE4VGdQYlU5TGFMcG9mYnhNckhSX29LbTlUYg?oc=5",
-      "original_publish_time": "2026-11-18T19:45:23+00:00",
-      "scraped_time": "2026-11-18T23:15:16.452348+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "New Balance"
-      ],
-      "keywords_matched": [
-        "sole"
-      ],
-      "relevance_score": 5,
-      "summary": "Fugazi (The Streetwear Brand) Tries Another Sneaker Collab, This Time with New Balance Sole Retriever",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "5e33e909fa4d",
-      "title": "Timberland Just Brought Back Its Fan-Favorite 6-Inch Boots in Luxe Woven Leather — and a New Color Is Included",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/timberland-premium-6-inch-waterproof-woven-boot-black-burgundy-1239425162/",
-      "original_publish_time": "2026-11-18T18:35:59+00:00",
-      "scraped_time": "2026-11-18T19:15:08.912912+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Timberland"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 5,
-      "summary": "The woven leather boots return in staple black and a newly introduced burgundy style.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "9891265fcaa9",
-      "title": "Ronnie Fieg Is Bringing Back The ASICS GEL-Lyte III “Vader” With The Help Of Star Wars",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/11/18/kith-star-wars-asics-gel-lyte-iii-vader-2026/",
-      "original_publish_time": "2026-11-18T18:30:40+00:00",
-      "scraped_time": "2026-11-18T19:15:19.795382+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "ASICS"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "In 2008, Ronnie Fieg was working as head footwear buyer for NYC-based chain David Z., having just begun to gain traction as a designer via... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Ronnie Fieg Is Bringing Back The ASICS GEL-Lyte III \"Vader\" With The Help Of Star Wars appeared first on Sneaker News . The post Ronnie Fieg Is Bringing Back The ASICS GEL-Lyte III “Vader” With The Help Of Star Wars appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "93eb4e038dcc",
-      "title": "ASICS SportStyle and Dime Reunite for a Motorsport-Inspired GEL-SD Lyte Collection",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/11/dime-asics-gel-sd-lyte-footwear-apparel-collection-release-info",
-      "original_publish_time": "2026-11-18T18:00:29+00:00",
-      "scraped_time": "2026-11-18T19:15:19.572465+00:00",
-      "time_delta_mins": 0,
-      "category": "Quality",
-      "brands_mentioned": [
-        "ASICS"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Summary ASICS SportStyle and Montreal-based label Dime have teamed up to release the GEL-SD LYTE in two new colorways alongside a matching apparel rangeInspired by the use of carbon fiber in automotive design, the collection blends lightweight construction with motorsport-influenced metallic finishesThe full footwear and apparel capsule officially drops on November 21 through Dime's website and physical store locations ASICS SportStyle and Montréal-based label Dime have come together once again to introduce the Dime x ASICS GEL-SD LYTE, accompanied by a matching collection of tracksuits and caps. Inspired by high-performance sports cars and the technical aesthetic of carbon fiber in automotive design, the collaborative capsule explores the balance between speed, durability, and lightweight",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "bf00bf60e3a1",
-      "title": "Caitlin Clark Shows Off A Color-Changing Nike Caitlin 1",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/11/18/nike-caitlin-1-color-changing/",
-      "original_publish_time": "2026-11-18T18:00:12+00:00",
-      "scraped_time": "2026-11-18T19:15:19.796848+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Nike Basketball’s latest footwear innovation might just warrant some new WNBA shoe rules. Appearing on Travis and Jason Kelce’s podcast, Caitlin Clark debuted a Nike... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Caitlin Clark Shows Off A Color-Changing Nike Caitlin 1 appeared first on Sneaker News . The post Caitlin Clark Shows Off A Color-Changing Nike Caitlin 1 appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "681fb9d965d1",
-      "title": "Here’s A Preview Of What Nike Is Cooking For The Ja 4",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/11/18/nike-ja-4-2027-preview/",
-      "original_publish_time": "2026-11-18T17:30:19+00:00",
-      "scraped_time": "2026-11-18T19:15:19.799301+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike",
-        "Jordan"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "There’s truly too many headlines coming out of Nike’s investor day to keep a bead on. From the Air Jordan Reimagined Performance line to freshly... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Here's A Preview Of What Nike Is Cooking For The Ja 4 appeared first on Sneaker News . The post Here’s A Preview Of What Nike Is Cooking For The Ja 4 appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "1709c43a031b",
-      "title": "66°North Gives HOKA's Hiking Icon an Icelandic Makeover",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/66north-gives-hokas-hiking-icon-an-icelandic-makeover/",
-      "original_publish_time": "2026-11-18T16:25:06+00:00",
-      "scraped_time": "2026-11-18T19:18:46.970534+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Hoka"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "HOKA and 66°North invited us to Iceland to experience its first-ever footwear collaboration, a winter-ready reimagining of HOKA's wildly popular Tor Ultra Lo.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "51c4cd76c1ec",
-      "title": "New Balance Is Remixing One of Its Newest Sneakers With a Medieval Aesthetic",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/new-balance-1890t-release-date-u18902da-u189090u-u18908mt-1239425059/",
-      "original_publish_time": "2026-11-18T16:24:19+00:00",
-      "scraped_time": "2026-11-18T19:15:08.914665+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "New Balance"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 5,
-      "summary": "The 1890T should be releasing soon.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "545fb7bb38d9",
-      "title": "“Jordans Are Universal Shoes”: Osamason on the Bred 4 Being Bigger Than Culture",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/jordan-bred-4-osamason-interview/",
-      "original_publish_time": "2026-11-18T16:00:02+00:00",
-      "scraped_time": "2026-11-18T19:18:46.971082+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Jordan"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 5,
-      "summary": "Osamason & Jahmyr Gibbs talk the Air Jordan 4 Bred's titanic cultural impact on the eve of the historic sneaker's most recent reissue.",
       "ren_take": "",
       "image_url": ""
     }
