@@ -1,8 +1,214 @@
 {
-  "last_updated": "2026-11-26T04:56:03.747393+00:00",
-  "total_articles": 92,
+  "last_updated": "2026-11-26T14:44:27.094768+00:00",
+  "total_articles": 96,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "2f9bd484ea6f",
+      "title": "adidas Gives Its Subtle Retro Runner a Whole New Stance",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/adidas-sl-72-pro/",
+      "original_publish_time": "2026-11-26T12:42:39+00:00",
+      "scraped_time": "2026-11-26T14:37:08.723989+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "sole"
+      ],
+      "relevance_score": 3,
+      "summary": "adidas gives its retro SL 72 runner a little extra underfoot, with a beefed-up sole that makes for a very different silhouette from every angle.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "42ddc18f6c4f",
+      "title": "Footwear brands unite to fill data gaps",
+      "source_name": "Ecotextile News",
+      "source_domain": "ecotextile.com",
+      "source_url": "https://www.ecotextile.com/2026112667625/news/environment/footwear-brands-unite-to-fill-data-gaps/",
+      "original_publish_time": "2026-11-26T11:37:01+00:00",
+      "scraped_time": "2026-11-26T14:35:15.705887+00:00",
+      "time_delta_mins": 0,
+      "category": "Manufacturing",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Fashion for Good and Carbonfact will gather factory-level data to build shared environmental datasets for the footwear sector AMSTERDAM — […] The post Footwear brands unite to fill data gaps appeared first on Ecotextile News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "c26a831eebd2",
+      "title": "Portuguese premium footwear and craftsmanship to be showcased in New York - World Footwear",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcldnMm1Za0Q3UkhwQ3JkazVtQTJ6UnVUWEZzaDNHQXcyaGswdmpoNGU3SE9obDJfaE5vS2hCZ2wzN3ZyVEtCYjlZZncwN09reFpGajFRdV9SVmJZdmZJNUhHdVNybFNhQU5EcWFGZ3FkZGhicUZhWmc5VHFEbGVoUFFmMUxwa2xIaFFTMXZibVJHd081MWRPWHZGaFRsYmhWM3JHVTlFeGhiQVpOQzVUQzYzT1F0UVUtSU9J?oc=5",
+      "original_publish_time": "2026-11-26T11:20:08+00:00",
+      "scraped_time": "2026-11-26T14:33:28.665114+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Portuguese premium footwear and craftsmanship to be showcased in New York World Footwear",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "90b159831caf",
+      "title": "adidas’ Football-Inspired Dad Shoe Has a Futuristic Edge",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/adidas-formotion-f50-collegiate-royal/",
+      "original_publish_time": "2026-11-26T11:00:00+00:00",
+      "scraped_time": "2026-11-26T14:37:08.723434+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 3,
+      "summary": "adidas’ Formotion F50 combines football-boot influences with a futuristic, chunky silhouette, finished with metallic silver and royal blue accents.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "345e7e5d4648",
+      "title": "The Nike Mind 001 Sets Its Moving Nodes in Chocolate Brown for \"Palomino\"",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/11/nike-mind-001-palomino-hq4307-201-official-images",
+      "original_publish_time": "2026-11-26T09:45:31+00:00",
+      "scraped_time": "2026-11-26T14:33:17.981704+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "sole",
+        "upper"
+      ],
+      "relevance_score": 4,
+      "summary": "Name: Nike Mind 001 “Palomino”Colorway: Palomino/Tar-Metallic PlatinumSKU: HQ4307-201MSRP: $95 USDRelease Date: Spring 2027The Nike Mind 001 \"Palomino\" is set to give one of Nike's more experimental silhouettes an earthy update, with a palette built from olive, brown and flashes of metallic platinum. According to early details, the build is focused on how the shoe connects you to the ground, and Nike frames the design around feeling every surface and staying aware of each step.From the side, olive does most of the work. It covers much of the profile and continues down to the wavy edge of the sole, while brown tones take over higher on the upper. A perforated panel in light brown runs from the collar almost to the toe and carries a small metallic silver Swoosh in its center. A second Swoosh",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "f6c1b354752b",
+      "title": "Lil Uzi Vert Weaves a Rainbow of Thread Into the Vans Authentic 44 \"Pink Cosmos\"",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/11/lil-uzi-vert-vans-authentic-44-pink-cosmos-vn0010wy3td-official-images",
+      "original_publish_time": "2026-11-26T09:02:18+00:00",
+      "scraped_time": "2026-11-26T14:33:17.984571+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Vans"
+      ],
+      "keywords_matched": [
+        "footwear",
+        "upper"
+      ],
+      "relevance_score": 4,
+      "summary": "Name: Lil Uzi Vert x Vans Authentic 44 “Pink Cosmos”Colorway: Pink/Multi-ColorSKU: VN0010WY3TDMSRP: TBCRelease Date: Holiday 2026Lil Uzi Vert's Vans Authentic 44 \"Pink Cosmos\" is reportedly set to close out the year, giving one of the label's most pared-back silhouettes a heavily textured finish. The pair arrives as the rapper steps back into the spotlight with new music, so his latest era comes with footwear to match.The upper is made from a dense weave of multicolored threads. So many shades are packed in that the surface reads as tactile rather than printed, and it changes depending on how close you look. Pink is the loudest of the bunch, and it doesn't stay in the weave. It runs onto the eyelets and wraps the ankle collar, so the colorway holds together from toe to heel.Branding is kep",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "e5eb600d96fb",
+      "title": "On Partners with Fashion for Good and Carbonfact to Tackle Footwear’s Environmental Data Gap - press.on-running.com",
+      "source_name": "Google News - Footwear Industry",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUlR5MGk0eDVCLWo2UG9Vd2M3elA3cnhzQnQ0YjBrY0ZVcFJmbG5IYVBSMFowOXVCTnFweWJEcF8ybnlqVWROak0zNm1xc0lPcWJwcFIwZFRkNHF2RkVNN0VYeVRCMmhIVzlXSDFmVUxVeTZLNTF1N3RKdVc0Q1VBY1ViRWlIelFpaVFwWk9TV0NfR1hua0N6TWJzT2FIUGp3dVN6clRLb25VTl84RHB3bkZCZUY5V1RDeVh5Ug?oc=5",
+      "original_publish_time": "2026-11-26T09:00:00+00:00",
+      "scraped_time": "2026-11-26T14:33:28.666069+00:00",
+      "time_delta_mins": 0,
+      "category": "Sustainability",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "On Partners with Fashion for Good and Carbonfact to Tackle Footwear’s Environmental Data Gap press.on-running.com",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "cac87f551bc7",
+      "title": "Maison Kitsuné and Paraboot Rework the Classic Chambord for Fall/Winter 2026",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/11/maison-kitsune-paraboot-collab-release-info",
+      "original_publish_time": "2026-11-26T08:54:50+00:00",
+      "scraped_time": "2026-11-26T14:33:17.986159+00:00",
+      "time_delta_mins": 0,
+      "category": "Quality",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "boot",
+        "footwear"
+      ],
+      "relevance_score": 4,
+      "summary": "Summary Maison Kitsuné and Paraboot reunite to reinterpret the classic Chambord derby.Glossy brown leather pairs with white contrast stitching and asymmetrical logo tabs.Priced at approx. $670 USD, it launches November 28 in limited quantities. Name: Maison Kitsuné x Paraboot “Chambord”Colorway: BrownSKU: TBCMSRP: ¥106,700 JPY (approx. $670 USD)Release Date: November 28Where to Buy: Maison KitsunéMaison Kitsuné and Paraboot have reunited for their second footwear collaboration. First previewed as part of Maison Kitsuné’s Fall/Winter 2026 collection, the release sees the duo reinterpret Paraboot’s signature Chambord derby, taking the French brand’s silhouette and reframing it through a casual preppy lens.Built around the Chambord’s rounded U-tip paneling, the shoe uses glossy brown leather ",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "719229802a96",
+      "title": "Bootcut Jeans Take the Lead in the A/W 26 Denim Edit",
+      "source_name": "Apparel Resources",
+      "source_domain": "apparelresources.com",
+      "source_url": "https://apparelresources.com/fashion-news/trends/bootcut-jeans-take-lead-w-26-denim-edit/",
+      "original_publish_time": "2026-11-26T07:19:26+00:00",
+      "scraped_time": "2026-11-26T14:37:20.280666+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 3,
+      "summary": "The debate over whether skinny jeans are returning has run for several seasons, but for this winter the answer from designers, stylists and retailers is narrower and more practical. Bootcut is the silhouette driving the conversation. The 2026 version is not the dramatic flare of the early 2000s. It is fitted through the hip and […] The post Bootcut Jeans Take the Lead in the A/W 26 Denim Edit appeared first on Apparel Resources .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "aaa2213a3ba9",
+      "title": "Nike Air Max 95 Big Bubble Premium Debuts New \"Black/Dark Smoke Grey\" Colorway",
+      "source_name": "Hypebeast",
+      "source_domain": "hypebeast.com",
+      "source_url": "https://hypebeast.com/2026/11/nike-air-max-95-big-bubble-premium-black-dark-smoke-grey-release-info",
+      "original_publish_time": "2026-11-26T05:14:09+00:00",
+      "scraped_time": "2026-11-26T14:33:17.988205+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "midsole",
+        "outsole",
+        "sole",
+        "upper"
+      ],
+      "relevance_score": 6,
+      "summary": "The Nike Air Max 95 Big Bubble Premium is set to arrive in a new \"Black/Dark Smoke Grey\" colorway.This model stays true to its original design, which was famously inspired by human anatomy. The upper combines synthetic leather with highly breathable mesh, creating a gradient layered style through its signature undulating, overlapping panels. For cushioning, it features large visible Max Air units in the heel and forefoot, delivering lightweight, exceptional comfort. Flex grooves in the midsole and outsole also support the foot's natural movement. The anatomy-inspired details remain a standout, with the sole representing the spine, the upper panels mimicking muscles, and the laces evoking ribs.The new \"Black / Dark Smoke Grey\" colorway features a black base overlaid with varying shades of g",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "98737272336a",
       "title": "INVINCIBLE x MADNESS x ASICS SportStyle Team Up for the Second Collaborative GEL-KAYANO 12.1",
@@ -1772,132 +1978,6 @@
       ],
       "relevance_score": 6,
       "summary": "The shoe was first seen at Moncler Grenoble's fall/winter 2026 runway presentation in Aspen earlier this year.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "4601d94661a8",
-      "title": "Noah and Converse Take the Chuck 70 Back to the ’90s in Black Watch Tartan",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/11/noah-converse-chuck-70-tartan-release-info",
-      "original_publish_time": "2026-11-19T14:00:41+00:00",
-      "scraped_time": "2026-11-19T19:22:16.968883+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [
-        "Converse"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "Name: Noah x Converse Chuck 70 TartanColorway: TBCSKU: TBCMSRP: TBCRelease Date: November 19Where to Buy: Converse, NoahConverse and Noah have teamed up on a new Chuck 70 Ox in Black Watch tartan, the navy and green check that began in the Scottish Highlands roughly 300 years ago and later became a mainstay of collegiate style. The pair keeps the focus on its materials and construction, giving the traditional plaid a Chuck 70 built to ’90s specs.The upper does most of the work. It is made from a three-tone woven canvas with the Black Watch plaid running across the whole shoe, so the pattern comes from the weave itself rather than a surface print. That gives the check a richer, more textured look than a printed plaid, and it suits the cold-weather timing of the release.Noah based the shoe’s",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "48eea9a64d61",
-      "title": "Nike’s GORE-TEX Air Max Is Ready to Retire Your Winter Boots",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/nike-air-max-95-big-bubble-gore-tex/",
-      "original_publish_time": "2026-11-19T13:20:00+00:00",
-      "scraped_time": "2026-11-19T14:02:53.651698+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 5,
-      "summary": "Nike doubles down on its GORE-TEX Air Max lineup with a winterized sneaker that could make traditional winter boots feel unnecessary.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "05ec5b5255b5",
-      "title": "Golden Goose and Shah Rukh Khan's D'YAVOL X Unveil Debut Collaboration",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/11/golden-goose-shah-rukh-khans-dyavol-x-debut-collaboration-release-info",
-      "original_publish_time": "2026-11-19T11:30:39+00:00",
-      "scraped_time": "2026-11-19T13:59:06.555640+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [
-        "Golden Goose"
-      ],
-      "keywords_matched": [
-        "footwear",
-        "sneakers"
-      ],
-      "relevance_score": 4,
-      "summary": "Summary Golden Goose has teamed up with D'YAVOL X for a new collection of co-branded footwear and ready-to-wear apparelThe capsule reimagines the iconic Super-Star sneaker alongside washed cotton workwear jackets, hoodies, and graphic teesThe first release arrives on November 24 with a second drop planned for early 2027, featuring pieces from the upcoming film 'King' Golden Goose and luxury lifestyle brand D’YAVOL X have officially teamed up for an exclusive collaborative apparel and footwear collection. Co-founded by global icon Shah Rukh Khan alongside his son Aryan Khan, Leti Blagoeva, and Bunty Singh, the streetwear imprint merges its contemporary aesthetic with the Italian label's signature craftsmanship.The comprehensive capsule spans a selection of sneakers, ready-to-wear garments, ",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "5ca3cf8f4fc0",
-      "title": "JD Sports narrows FY27 profit outlook amid persistent footwear softness",
-      "source_name": "Just Style",
-      "source_domain": "just-style.com",
-      "source_url": "https://www.just-style.com/news/jd-sports-fy27-result/",
-      "original_publish_time": "2026-11-19T10:39:42+00:00",
-      "scraped_time": "2026-11-19T13:58:56.089846+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "JD Sports has narrowed its financial year 2027 (FY27) profit forecast after third quarter (Q3) sales trends improved modestly.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "a622949ab6c5",
-      "title": "Nike's 3D-Printed AIRMAX 1000 Just Got Even More Customizable With Zellerfeld",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/11/zellerfeld-nike-airmax-1000-by-you-jk3542-900-release-info",
-      "original_publish_time": "2026-11-19T09:40:57+00:00",
-      "scraped_time": "2026-11-19T13:59:06.557851+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "footwear",
-        "upper"
-      ],
-      "relevance_score": 4,
-      "summary": "Summary Nike updates the Zellerfeld 3D-printed AIRMAX 1000 on Nike By You with embossed custom heel text.A new Lilac upper colorway joins Black and Stone, alongside seven independent Air unit colors for each shoe.Options launch November 19 on Nike's website. Name: Nike AIRMAX 1000 By YouColorway: Multi-Color/Multi-ColorSKU: JK3542-900MSRP: $190 USDRelease Date: November 19Where to Buy: NikeNike is once again pushing the boundaries of footwear customization with a major update to the AIRMAX 1000. Following its initial October debut, the 3D-printed silhouette, developed in partnership with Zellerfeld, is rolling out with a new suite of personalization features with Nike's By You feature that leans even deeper into individual expression.AIRMAX 1000 owners can add custom text directly onto the",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "ef18b6d19fef",
-      "title": "First Look at the Air Jordan 11 Low Golf \"The Masters\"",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/11/air-jordan-11-low-golf-the-masters-first-look-release-info",
-      "original_publish_time": "2026-11-19T08:45:39+00:00",
-      "scraped_time": "2026-11-19T13:59:06.559514+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Jordan"
-      ],
-      "keywords_matched": [
-        "upper"
-      ],
-      "relevance_score": 3,
-      "summary": "Summary Jordan Brand has an Air Jordan 11 Low Golf lined up for the upcoming 2027 MastersThe striking pair features a green-and-white colorway inspired directly by the Augusta National tournamentThe modified sneaker officially drops in April 2027 as part of the brand's growing fairway lineup Jordan Brand is officially gearing up for the 2027 Masters with the introduction of the Air Jordan 11 Low Golf \"The Masters.\" Tied directly to the iconic tournament at Augusta National, the forthcoming release serves as the latest addition to the brand's rapidly growing golf lineup, seamlessly transitioning familiar basketball models onto the fairway.Keeping the timeless look of the original basketball shoe intact, the new iteration arrives with a crisp white leather upper paired with a striking green ",
       "ren_take": "",
       "image_url": ""
     }
