@@ -1,8 +1,47 @@
 {
-  "last_updated": "2026-11-25T20:34:28.604572+00:00",
-  "total_articles": 93,
+  "last_updated": "2026-11-26T00:59:29.882854+00:00",
+  "total_articles": 91,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "3bacdc5210cf",
+      "title": "Here’s What The Converse SHAI 002 Would’ve Looked Like",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/11/25/converse-shai-002-sample/",
+      "original_publish_time": "2026-11-25T22:00:28+00:00",
+      "scraped_time": "2026-11-26T00:48:55.734115+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike",
+        "Converse"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 3,
+      "summary": "To put it plainly, the swap of Shai Gilgeous-Alexander’s signature line from Converse to Nike has been a major point of intrigue for us since... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Here's What The Converse SHAI 002 Would've Looked Like appeared first on Sneaker News . The post Here’s What The Converse SHAI 002 Would’ve Looked Like appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "43b0b16712e8",
+      "title": "For Shoe Brands, More Tariffs Are on the Way",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/footwear-tariffs-section-301-china-vietnam-february-2027-1239466305/",
+      "original_publish_time": "2026-11-25T20:50:47+00:00",
+      "scraped_time": "2026-11-26T00:48:45.215924+00:00",
+      "time_delta_mins": 0,
+      "category": "Trade Data",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "shoe brand"
+      ],
+      "relevance_score": 3,
+      "summary": "The new Section 301 tariffs could go as high as 20 percent, and could see implementation in late February or March.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "59622ff08492",
       "title": "Why Kohl’s Footwear Sales Grew in Q3 and Shoe Station’s Didn’t",
@@ -1836,85 +1875,6 @@
       ],
       "relevance_score": 3,
       "summary": "Fans went wild when Swift stepped out in a replica of the boots that defined her country identity as she shot to fame two decades ago.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "17f5b5bff585",
-      "title": "The Nike Kobe 10 “Duke” Releases Holiday 2026",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/11/18/nike-kobe-10-protro-duke-jw6581-001/",
-      "original_publish_time": "2026-11-18T23:00:31+00:00",
-      "scraped_time": "2026-11-18T23:15:05.398578+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "Beyond the genuine 1-of-1s, few shoes activate the sneakerhead community like player exclusives. Only handed down to athletes themselves, these limited versions are often bandied... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Nike Kobe 10 \"Duke\" Releases Holiday 2026 appeared first on Sneaker News . The post The Nike Kobe 10 “Duke” Releases Holiday 2026 appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "c4825fc4fbb5",
-      "title": "VF Could Sell Vans, But it Probably Won’t",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/vf-corp-timberland-altra-vans-upside-balance-sheet-1239424633/",
-      "original_publish_time": "2026-11-18T22:14:21+00:00",
-      "scraped_time": "2026-11-18T23:14:54.587744+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Vans",
-        "Timberland"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "VF Corp.'s looking at outdoor for growth for Timberland, North Face and Altra brands; Vans provides additional upside to the balance sheet.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "8f8e91fbdff8",
-      "title": "Plastic Shoes Are in Their Luxury Era",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/plastic-shoes/",
-      "original_publish_time": "2026-11-18T21:15:43+00:00",
-      "scraped_time": "2026-11-18T23:18:34.773469+00:00",
-      "time_delta_mins": 0,
-      "category": "Sustainability",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 3,
-      "summary": "Plastic shoes have been around forever, but it’s only recently that they’ve become a fashion staple. Now, TPU shoes have entered the luxury brand matrix.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "c64fc7fe5cff",
-      "title": "Brazilian Footwear Export Revenue Falls 13.5% in First Ten Months of 2026 - DatamarNews",
-      "source_name": "Google News - Footwear Exports",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeHNULVpjUzhnckZKOG53dUtHWHgxTGFDOVNYTlFQRUFBVnhqb2RaTGlBYkJSWk9VMkt4bFRsTFV5MUlKVWdwd2JSaTlDRk5NSGdsNXhYMGtaUXluRGgyeU8yQVJjWTd0Tk9PU2stZDhSOUs2M2JxWC03MkZKbWRJcVlMV1pnREJG?oc=5",
-      "original_publish_time": "2026-11-18T20:40:07+00:00",
-      "scraped_time": "2026-11-18T23:15:17.537181+00:00",
-      "time_delta_mins": 0,
-      "category": "Trade Data",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Brazilian Footwear Export Revenue Falls 13.5% in First Ten Months of 2026 DatamarNews",
       "ren_take": "",
       "image_url": ""
     }
