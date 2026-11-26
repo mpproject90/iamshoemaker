@@ -1,8 +1,93 @@
 {
-  "last_updated": "2026-11-26T14:44:27.094768+00:00",
-  "total_articles": 96,
+  "last_updated": "2026-11-26T20:10:43.427034+00:00",
+  "total_articles": 98,
   "sources_checked": 60,
   "articles": [
+    {
+      "id": "8cf51ce182bf",
+      "title": "Nike Decks The Halls With A Glossy Leather “Christmas” Dunk Low",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/11/26/nike-dunk-low-christmas-jf8010-302/",
+      "original_publish_time": "2026-11-26T19:00:49+00:00",
+      "scraped_time": "2026-11-26T20:00:04.410178+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [
+        "Nike",
+        "Jordan"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 4,
+      "summary": "Nike, Inc. has already promised plenty of sneakers on their upcoming slate that will be hot choices to slide under the tree; the Jordan 4... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike Decks The Halls With A Glossy Leather \"Christmas\" Dunk Low appeared first on Sneaker News . The post Nike Decks The Halls With A Glossy Leather “Christmas” Dunk Low appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "ee541dedb663",
+      "title": "These Nike Kobe 5 ACG Customs Will Let You Hoop Anywhere",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/11/26/nike-kobe-5-acg-mowabb-customs/",
+      "original_publish_time": "2026-11-26T17:00:41+00:00",
+      "scraped_time": "2026-11-26T20:00:04.412375+00:00",
+      "time_delta_mins": 0,
+      "category": "Trade Data",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "footwear",
+        "shoes"
+      ],
+      "relevance_score": 4,
+      "summary": "The Devin Booker effect is real. The Phoenix Suns star’s affinity for Nike ACG outdoor footwear has translated into ACG-inspired takes on his signature shoes,... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post These Nike Kobe 5 ACG Customs Will Let You Hoop Anywhere appeared first on Sneaker News . The post These Nike Kobe 5 ACG Customs Will Let You Hoop Anywhere appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "616bc3f7dfc3",
+      "title": "The Seven Best adidas Sneakers to Cop This Black Friday",
+      "source_name": "Highsnobiety",
+      "source_domain": "highsnobiety.com",
+      "source_url": "https://www.highsnobiety.com/p/adidas-sneaker-releases-november-week-4/",
+      "original_publish_time": "2026-11-26T16:58:17+00:00",
+      "scraped_time": "2026-11-26T20:03:34.697181+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Adidas"
+      ],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 5,
+      "summary": "This week was so chock-full of adidas standouts, we picked... seven of them.",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "89a4a92353ae",
+      "title": "Puma Taps Adidas Alum Will Newton to Run New Emerging Markets Region",
+      "source_name": "Footwear News",
+      "source_domain": "footwearnews.com",
+      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/puma-emerging-markets-will-newton-managing-director-1239466893/",
+      "original_publish_time": "2026-11-26T14:50:39+00:00",
+      "scraped_time": "2026-11-26T19:59:53.613463+00:00",
+      "time_delta_mins": 0,
+      "category": "Supply Chain",
+      "brands_mentioned": [
+        "Adidas",
+        "Puma"
+      ],
+      "keywords_matched": [],
+      "relevance_score": 4,
+      "summary": "He will report to Arne Arens, the company's new chief commercial officer.",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "2f9bd484ea6f",
       "title": "adidas Gives Its Subtle Retro Runner a Whole New Stance",
@@ -182,6 +267,25 @@
       ],
       "relevance_score": 3,
       "summary": "The debate over whether skinny jeans are returning has run for several seasons, but for this winter the answer from designers, stylists and retailers is narrower and more practical. Bootcut is the silhouette driving the conversation. The 2026 version is not the dramatic flare of the early 2000s. It is fitted through the hip and […] The post Bootcut Jeans Take the Lead in the A/W 26 Denim Edit appeared first on Apparel Resources .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "dbd739943bd5",
+      "title": "Shoppers to spend 40 per cent of Christmas gift budgets on Black Friday, Boots finds",
+      "source_name": "Retail Gazette",
+      "source_domain": "retailgazette.co.uk",
+      "source_url": "https://www.retailgazette.co.uk/blog/2026/11/shoppers-to-spend-40-per-cent-of-christmas-gift-budgets-on-black-friday-boots-finds/",
+      "original_publish_time": "2026-11-26T05:17:07+00:00",
+      "scraped_time": "2026-11-26T20:03:02.555368+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "boot"
+      ],
+      "relevance_score": 3,
+      "summary": "UK shoppers are planning to spend around 40 per cent of their Christmas gift budgets during Black Friday, according to a recent study. New YouGov research commissioned by Boots found that 49 per cent of consumers intend to kick off their Christmas shopping during the sales, with households expecting to spend an average of more...",
       "ren_take": "",
       "image_url": ""
     },
@@ -1915,69 +2019,6 @@
       ],
       "relevance_score": 3,
       "summary": "The New Balance 991, or now as its titled, the 991v1, has come surging back to our frontpage. Its hiatus only ended up lasting about... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The New Balance 991 Adds \"Dove Grey\" To A New \"Elevated Essentials\" Pack appeared first on Sneaker News . The post The New Balance 991 Adds “Dove Grey” To A New “Elevated Essentials” Pack appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "26d0293a2b65",
-      "title": "adidas Is Making the Case for Square-Toed Hoop Shoes",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/adidas-forum-sq-trainer-white/",
-      "original_publish_time": "2026-11-19T19:40:01+00:00",
-      "scraped_time": "2026-11-19T23:27:10.438484+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "shoes"
-      ],
-      "relevance_score": 5,
-      "summary": "Over the last forty something years, it’s seen little change excluding one major departure: the adidas Originals Forum SQ Trainer.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "9f2707ee1f9e",
-      "title": "The New Balance 991 Oozes Luxury In Black Leather",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/11/19/new-balance-991-luxe-black-leather-m991lk1/",
-      "original_publish_time": "2026-11-19T19:00:51+00:00",
-      "scraped_time": "2026-11-19T19:22:17.183353+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Nike",
-        "New Balance"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 4,
-      "summary": "New Balance and Nike are going band for band with premium black leather sneakers right now, Nike with a collaborative pack by Italy’s One Block... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The New Balance 991 Oozes Luxury In Black Leather appeared first on Sneaker News . The post The New Balance 991 Oozes Luxury In Black Leather appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "a6f3c0a0fd69",
-      "title": "Moncler and Moon Boot’s New Shoes Are Perfect for a Snowy Rodeo",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/moncler-moon-boot-icon-high-rodeo-release-date-1239427523/",
-      "original_publish_time": "2026-11-19T16:20:58+00:00",
-      "scraped_time": "2026-11-19T19:22:05.992476+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "boot",
-        "shoes"
-      ],
-      "relevance_score": 6,
-      "summary": "The shoe was first seen at Moncler Grenoble's fall/winter 2026 runway presentation in Aspen earlier this year.",
       "ren_take": "",
       "image_url": ""
     }
