@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-11-26T20:10:43.427034+00:00",
-  "total_articles": 98,
-  "sources_checked": 60,
+  "last_updated": "2026-11-27T01:06:41.994984+00:00",
+  "total_articles": 96,
+  "sources_checked": 61,
   "articles": [
     {
       "id": "8cf51ce182bf",
@@ -887,6 +887,25 @@
       "image_url": ""
     },
     {
+      "id": "121d3f1a3a94",
+      "title": "The Best Everyday Sneakers, According to Vogue Editors - Vogue",
+      "source_name": "Google News - Sneaker Brand",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0wZ3ZkSEhzU0ZTdnFoMFEzNFhDTUtvUHJzV2phMEtMSmE2bVBUQVFuRmZxYlFqNlgxU01nNDE5NFFNTFpjdk54cGc0YkdscU9yTmxhVUlGcDZpYXhVUDVZUmNhNHhNZkJEZmk4Z1V3?oc=5",
+      "original_publish_time": "2026-11-24T18:48:08+00:00",
+      "scraped_time": "2026-11-27T00:55:50.427617+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "sneakers"
+      ],
+      "relevance_score": 3,
+      "summary": "The Best Everyday Sneakers, According to Vogue Editors Vogue",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
       "id": "c4bae975eaec",
       "title": "Flight Club Introduced a New Digital Mystery Shopping Experience With Some of the Rarest Sneakers Around",
       "source_name": "Footwear News",
@@ -1614,6 +1633,25 @@
       "image_url": ""
     },
     {
+      "id": "878521eaf282",
+      "title": "Leather, footwear workers get new minimum wage after six years - The Daily Star",
+      "source_name": "Google News - Bangladesh Garment",
+      "source_domain": "news.google.com",
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMXV1QjJUWFNQWWhUSTluRjE1QXBfdks5THdydjliSXNtN3Zrek1idHdaQ0lSRWk3eG54SGlPQVJUbWpzaUE0cktiNFh0WWVLd01lUkZvMkRCYlB0Ukp3X0RkbVdDVFV3d3ZLek41TmpjZ0RJRzA3WWV1UTlfa3FSVHVlcW51VVZpQnBFdEVxcHRpekV4dmxudWRuWHdrdFBHX2doX0xmY1N4ODZ6d0Zpc1NxdVZXd2ZDZDhwWg?oc=5",
+      "original_publish_time": "2026-11-21T17:51:36+00:00",
+      "scraped_time": "2026-11-27T01:05:46.328188+00:00",
+      "time_delta_mins": 0,
+      "category": "Leather",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "Leather, footwear workers get new minimum wage after six years The Daily Star",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
       "id": "b2ff95755d35",
       "title": "Nike’s Fan-Favorite Air Max Boot Is Getting a Stealthy Black Foamposite Update for Winter",
       "source_name": "Footwear News",
@@ -1939,86 +1977,6 @@
       ],
       "relevance_score": 8,
       "summary": "Bata India, the partially-owned Indian subsidiary of footwear giant Bata, is looking to expand its exports and increase its contribution to the company’s overall business. The expansion comes as India remains Bata’s largest market, with more than 51 million pairs sold in FY ’26. However, the company exported only 50,000 units during the same financial […] The post Bata India Eyes Global Markets to Expand Footwear Exports appeared first on Apparel Resources .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "c4fd1089c5c6",
-      "title": "The Nike Air Max Goadome Low Dresses In Olive Suede",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/11/19/nike-air-max-goadome-low-twilight-marsh-black-iu5915-300/",
-      "original_publish_time": "2026-11-19T23:00:51+00:00",
-      "scraped_time": "2026-11-19T23:23:36.897569+00:00",
-      "time_delta_mins": 0,
-      "category": "Leather",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 3,
-      "summary": "Are you in on the Nike Boot? If so, there’s a ton, and we mean a ton to look forward to in the seasons ahead. Even before... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Nike Air Max Goadome Low Dresses In Olive Suede appeared first on Sneaker News . The post The Nike Air Max Goadome Low Dresses In Olive Suede appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "b86fa42dad1f",
-      "title": "David Law Will Take the Reins at Famous Footwear as Brian Costello Retires",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-industry-news/famous-footwear-division-president-david-law-brian-costello-1239428972/",
-      "original_publish_time": "2026-11-19T22:33:07+00:00",
-      "scraped_time": "2026-11-19T23:23:26.310715+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Costello held the role since August 2025.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "b2538504cd93",
-      "title": "The Four Standout Celebrity Cowboy Boot Moments You Might’ve Missed This Week",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/shoe-trends/celebrity-cowboy-boot-moments-taylor-swift-diplo-1239428500/",
-      "original_publish_time": "2026-11-19T22:18:59+00:00",
-      "scraped_time": "2026-11-19T23:23:26.313337+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "boot"
-      ],
-      "relevance_score": 3,
-      "summary": "From Joseph Zada at \"The Hunger Games: Sunrise on the Reaping\" premiere to Taylor Swift at the CMAs.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "57c0fee535ee",
-      "title": "The New Balance 991 Adds “Dove Grey” To A New “Elevated Essentials” Pack",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/11/19/the-new-balance-991-adds-dove-grey-to-a-new-elevated-essentials-pack/",
-      "original_publish_time": "2026-11-19T21:00:15+00:00",
-      "scraped_time": "2026-11-19T23:23:36.900978+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "New Balance"
-      ],
-      "keywords_matched": [
-        "lasting"
-      ],
-      "relevance_score": 3,
-      "summary": "The New Balance 991, or now as its titled, the 991v1, has come surging back to our frontpage. Its hiatus only ended up lasting about... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The New Balance 991 Adds \"Dove Grey\" To A New \"Elevated Essentials\" Pack appeared first on Sneaker News . The post The New Balance 991 Adds “Dove Grey” To A New “Elevated Essentials” Pack appeared first on Sneaker News .",
       "ren_take": "",
       "image_url": ""
     }
