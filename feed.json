@@ -1,8 +1,48 @@
 {
-  "last_updated": "2026-11-28T00:35:54.566435+00:00",
-  "total_articles": 98,
+  "last_updated": "2026-11-28T04:47:10.863908+00:00",
+  "total_articles": 100,
   "sources_checked": 61,
   "articles": [
+    {
+      "id": "3fd51a7fbd95",
+      "title": "Proposed US tariff puts $7.74b Bangladesh apparel exports under pressure",
+      "source_name": "Textile Today",
+      "source_domain": "textiletoday.com.bd",
+      "source_url": "https://textiletoday.com.bd/proposed-us-tariff-puts-774b-bangladesh-apparel-exports-under-pressure",
+      "original_publish_time": "2026-11-28T04:07:00+00:00",
+      "scraped_time": "2026-11-28T04:40:16.435099+00:00",
+      "time_delta_mins": 0,
+      "category": "Manufacturing",
+      "brands_mentioned": [],
+      "keywords_matched": [
+        "apparel exports"
+      ],
+      "relevance_score": 3,
+      "summary": "The proposed US tariff of up to 18% on Bangladeshi goods has raised fresh concerns for the country's garment industry. Although exporters expect limited immediate disruption because competing supplier...",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "b5bb547a0c2f",
+      "title": "Devin Booker Reveals A Nike Book 2 “Doomsday” PE",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/11/27/nike-book-2-doomsday/",
+      "original_publish_time": "2026-11-28T03:47:22+00:00",
+      "scraped_time": "2026-11-28T04:36:29.438544+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "footwear"
+      ],
+      "relevance_score": 3,
+      "summary": "With Marvel’s Avengers: Doomsday set to hit theaters this December, Doctor Doom is making his presence felt in the world of basketball footwear. Devin Booker... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Devin Booker Reveals A Nike Book 2 \"Doomsday\" PE appeared first on Sneaker News . The post Devin Booker Reveals A Nike Book 2 “Doomsday” PE appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "24396e551f08",
       "title": "The Jordan Spiz’ike Low Fires Off “Gunsmoke”",
