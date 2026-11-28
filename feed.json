@@ -1,8 +1,50 @@
 {
-  "last_updated": "2026-11-27T19:59:59.145322+00:00",
-  "total_articles": 102,
-  "sources_checked": 60,
+  "last_updated": "2026-11-28T00:35:54.566435+00:00",
+  "total_articles": 98,
+  "sources_checked": 61,
   "articles": [
+    {
+      "id": "24396e551f08",
+      "title": "The Jordan Spiz’ike Low Fires Off “Gunsmoke”",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/11/27/jordan-spizike-low-gunsmoke-light-smoke-grey-fq1759-016/",
+      "original_publish_time": "2026-11-27T23:00:05+00:00",
+      "scraped_time": "2026-11-28T00:20:20.073822+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Jordan"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "The hot retro drops and Travis Scott shoes are cool and all, but as far as day to day operations go, it’s often the unglamorous... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post The Jordan Spiz'ike Low Fires Off \"Gunsmoke\" appeared first on Sneaker News . The post The Jordan Spiz’ike Low Fires Off “Gunsmoke” appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
+    {
+      "id": "7d12673e4b7d",
+      "title": "Nike Adds An Inflation Valve To This Basketball-Inspired Air Force 1",
+      "source_name": "Sneaker News",
+      "source_domain": "sneakernews.com",
+      "source_url": "https://sneakernews.com/2026/11/27/nike-air-force-1-low-basketball-ir3534-600/",
+      "original_publish_time": "2026-11-27T20:00:57+00:00",
+      "scraped_time": "2026-11-28T00:20:20.080728+00:00",
+      "time_delta_mins": 0,
+      "category": "Retail",
+      "brands_mentioned": [
+        "Nike"
+      ],
+      "keywords_matched": [
+        "shoes"
+      ],
+      "relevance_score": 3,
+      "summary": "We’ve seen Nike drop lifestyle shoes inspired by literal basketballs before, but none that have dove this far into the theme. Unveiled via official Nike... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Nike Adds An Inflation Valve To This Basketball-Inspired Air Force 1 appeared first on Sneaker News . The post Nike Adds An Inflation Valve To This Basketball-Inspired Air Force 1 appeared first on Sneaker News .",
+      "ren_take": "",
+      "image_url": ""
+    },
     {
       "id": "e2334218b55d",
       "title": "Aimé Leon Dore Adds A Twill Texture To Timberland’s 6″ Boot",
@@ -1978,128 +2020,6 @@
       ],
       "relevance_score": 3,
       "summary": "Vietnam and South Africa promote value chain linkages in the leather, footwear, and handbag industries. Vietnam.vn",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "7e5fa541fc85",
-      "title": "Cambodia, EU launch clean energy push for garment, footwear, travel goods industry - Khmer Times",
-      "source_name": "Google News - Footwear Industry",
-      "source_domain": "news.google.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaGVfNGpJOTQtVXFJdFk0NVVwU3JWTFFyTFNtd0JuWnhVV3A3OU4xRENsS05HRnBBaWJ3bmliNHRieFJWblZSaGp1U2ZGZjR1R29ZaXlLcG1YQ1N6ejdtelNzdXpfYTYwdUM2UzRVUGJBTk5QbVMyd1pzc3p1dmFtQ0hkQWZUNlQwcF9GVUxnNHRqV1Awb2dtZXdNVjhNWEtzellvcnAydUd6aUF6Vk90UlpBX09wYTZjTkQw?oc=5",
-      "original_publish_time": "2026-11-20T23:35:11+00:00",
-      "scraped_time": "2026-11-21T03:50:30.651623+00:00",
-      "time_delta_mins": 0,
-      "category": "Supply Chain",
-      "brands_mentioned": [],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Cambodia, EU launch clean energy push for garment, footwear, travel goods industry Khmer Times",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "476693a676fb",
-      "title": "Nike’s OG \"Space Jam\" Air Jordans Still Hit After 30 Years",
-      "source_name": "Highsnobiety",
-      "source_domain": "highsnobiety.com",
-      "source_url": "https://www.highsnobiety.com/p/jordan-11-space-jam-2026/",
-      "original_publish_time": "2026-11-20T22:43:07+00:00",
-      "scraped_time": "2026-11-20T23:00:21.257700+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike",
-        "Jordan"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 4,
-      "summary": "The Air Jordan 11 \"Space Jam\" sneaker returns for the movie's 30th anniversary with original details.",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "dc839a93fbf9",
-      "title": "Joaquin Phoenix Debuts Gentle Monster's Smart Glasses & Gucci Announces Shanghai Runway in This Week's Top Fashion News",
-      "source_name": "Hypebeast",
-      "source_domain": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/11/gentle-monster-joaquin-phoenix-gucci-beams-adidas-sacai-willy-chavarria",
-      "original_publish_time": "2026-11-20T21:30:31+00:00",
-      "scraped_time": "2026-11-20T22:56:46.837102+00:00",
-      "time_delta_mins": 0,
-      "category": "Quality",
-      "brands_mentioned": [
-        "Adidas",
-        "Gucci"
-      ],
-      "keywords_matched": [],
-      "relevance_score": 3,
-      "summary": "SummaryGucci and sacai scheduled upcoming runway presentations for Shanghai and Hong Kong, respectively.Collaborative releases came from BEAMS’ 50th-anniversary adidas Originals collection and Gentle Monster’s cinematic Intelligent Eyewear campaign with Joaquin PhoenixThe Museum at FIT revealed a new sociopolitical exhibition featuring Willy Chavarria.Gucci to Present Cruise 2028 Collection in ShanghaiThis week, Gucci officially announced its Cruise 2028 runway presentation will take place in Shanghai on May 17, 2027. The event will mark artistic director Demna’s first show in the city, aligning with the 30th anniversary of the Italian house's original store opening in the region. The move expands the ongoing focus on major brand activations in China from global luxury maisons, joining upc",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "246cea7dc90f",
-      "title": "Deion Sanders’ Nike Air DT Proto ’92 Gets Flashy In Prime Red",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/11/20/nike-air-dt-proto-92-prime-red-ix5718-600/",
-      "original_publish_time": "2026-11-20T21:00:03+00:00",
-      "scraped_time": "2026-11-20T22:56:46.973979+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "footwear"
-      ],
-      "relevance_score": 3,
-      "summary": "Nike turned back the clock in 2026 with the introduction of the Air DT Proto ’92, an unreleased prototype of Deion Sanders’ signature footwear that... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post Deion Sanders' Nike Air DT Proto '92 Gets Flashy In Prime Red appeared first on Sneaker News . The post Deion Sanders’ Nike Air DT Proto ’92 Gets Flashy In Prime Red appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "4c608e0af9cb",
-      "title": "adidas Originals Brings Winter Style To Three Of Its Most Iconic Sneakers",
-      "source_name": "Sneaker News",
-      "source_domain": "sneakernews.com",
-      "source_url": "https://sneakernews.com/2026/11/20/adidas-samba-gazelle-handball-winter-2026/",
-      "original_publish_time": "2026-11-20T20:30:08+00:00",
-      "scraped_time": "2026-11-20T22:56:46.975686+00:00",
-      "time_delta_mins": 0,
-      "category": "Retail",
-      "brands_mentioned": [
-        "Adidas"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 5,
-      "summary": "SPONSORED BY Photography: Jared Moody Fall and winter are all about layering up, breaking out the heavier fabrics, and embracing the darker, richer colors that... © Sneaker News , 2026. | Permalink | No comment | Add to del.icio.us The post adidas Originals Brings Winter Style To Three Of Its Most Iconic Sneakers appeared first on Sneaker News . The post adidas Originals Brings Winter Style To Three Of Its Most Iconic Sneakers appeared first on Sneaker News .",
-      "ren_take": "",
-      "image_url": ""
-    },
-    {
-      "id": "82ab73a30705",
-      "title": "Nike’s Iconic Air Force 1 and Air Max Sneakers Are Getting Upgraded in New Comfort Classics Line",
-      "source_name": "Footwear News",
-      "source_domain": "footwearnews.com",
-      "source_url": "https://wwd.com/footwear-news/sneaker-news/nike-air-force-1-air-max-90-comfort-classics-1239460760/",
-      "original_publish_time": "2026-11-20T20:01:22+00:00",
-      "scraped_time": "2026-11-20T22:56:36.369871+00:00",
-      "time_delta_mins": 0,
-      "category": "Brand News",
-      "brands_mentioned": [
-        "Nike"
-      ],
-      "keywords_matched": [
-        "sneakers"
-      ],
-      "relevance_score": 5,
-      "summary": "The brand's most popular retro sneakers are finally getting comfort-focused updates.",
       "ren_take": "",
       "image_url": ""
     }
